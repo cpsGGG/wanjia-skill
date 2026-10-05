@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/cover.png" alt="Two facing sculptures representing conversation and judgement" width="100%" /></p>
+<p align="center"><img src="assets/cover.png" alt="玩家.skill: an original black and magenta city cover for judgement, expression and action" width="100%" /></p>
 <h1 align="center">玩家.skill · Wanjia</h1>
 <p align="center"><strong>Ask a concrete question. Understand the reasoning behind the answer.</strong></p>
 <p align="center"><a href="https://github.com/cpsGGG/wanjia-skill/releases/latest">Download</a> · <a href="README.md">中文</a> · <a href="docs/how-it-works.md">How it works</a></p>

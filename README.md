@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/cover.png" alt="玩家.skill：两件相向的雕塑，象征对话与判断" width="100%" />
+  <img src="assets/cover.png" alt="玩家.skill：黑与洋红的原创城市封面，判断、表达、行动" width="100%" />
 </p>
 
 <h1 align="center">玩家.skill</h1>
