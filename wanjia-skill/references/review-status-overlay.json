@@ -1,0 +1,1202 @@
+{
+  "schema_version": "wanjia-review-status-overlay-proposal-1.0",
+  "artifact_role": "review_task_scope_overlay_not_knowledge_or_permission_authority",
+  "target_skill_path": "references/review-status-overlay.json",
+  "status": "accepted_in_isolated_candidate_not_deployed",
+  "generated_utc": "2026-10-04T17:13:26.630997+00:00",
+  "scope": {
+    "exact_original_public_livestream_tasks": 12,
+    "partial_original_tasks": 11,
+    "open_original_tasks": 1,
+    "full_original_task_closures": 0,
+    "new_audio_listening": 0,
+    "new_runtime_permissions": 0,
+    "community_or_external_research_text_included": false,
+    "task_count_is_not_error_sentence_count": true
+  },
+  "application_rule": "只按original_task_id读取其有效审核范围；partial仅说明所列子范围，整项仍未关闭。旧closed/历史处置不得覆盖effective_status，不将审核叠加传播为知识等级、口吻、动作或全文准确性许可。",
+  "reference_policy": {
+    "runtime_paths_are_relative_to_skill_directory": true,
+    "required_runtime_paths_must_exist_in_package": true,
+    "research_paths_are_production_history_only": true,
+    "missing_or_hash_mismatched_reference_blocks_reliance_on_the_affected_subscope": true
+  },
+  "items": [
+    {
+      "original_task_id": "mikey-youtube-live-011-R001",
+      "source_id": "mikey-youtube-live-011",
+      "effective_status": "partial",
+      "full_original_task_closed": false,
+      "accepted_existing_subscope_resolution": true,
+      "original_task": {
+        "question": "核心术语‘潜沟通/潜台词/行为线索/社交认证’被多次转写为‘浅沟通/浅台词/射要认证’，逐处原音是否一致？",
+        "required_evidence": "重点窗口原音听校",
+        "severity": "major",
+        "reference": {
+          "path": "references/youtube-live-batch2/cross-video/youtube-live-batch2-cross-synthesis.json",
+          "locator_kind": "json_pointer",
+          "locator": "/review_resolution_ledger/0/as_supplied",
+          "file_sha256": "a757620afbd03ebb62823950a6d88c4609deb4ee8caff8d74d3e9b79f8464a18",
+          "role": "original_question_record",
+          "required_runtime_reference": true,
+          "path_base": "skill_directory",
+          "record_sha256_canonical_json": "928efa5608a67dc7e0a8d9e906b849ca96e7bb5b5948505b1743cc747e400fbe"
+        }
+      },
+      "accepted_narrow_scope": [
+        "术语身份可规范为潜沟通、潜台词、行为线索、社交认证；这些同音写法不是另外四个概念。"
+      ],
+      "remaining_original_scope": [
+        "657.4–844.0 秒内每一处原音是否一致，尚未被逐处听校证明。",
+        "不能把术语归一推广为整段逐字转写认证。"
+      ],
+      "needed_evidence_or_scope_repair": [
+        "对原任务指定窗口逐处回听并逐项绑定原音与SID；本轮未执行。"
+      ],
+      "effective_decision": "accept_explicit_subscope_only",
+      "basis_scope_explanation": "标题、窗口内反复定义及潜台词作为细分支的对照支持概念归一。targeted-asr-recheck 的此项明确写 contextual resolution，并未记录逐处原音一致性听校。",
+      "historical_disposition": {
+        "history_only_not_current_whole_task_closure": true,
+        "historical_inventory_label": "closed_narrow_existing_disposition",
+        "prior_candidate_status_as_recorded": "resolved",
+        "prior_disposition_label": "terminology_resolved_from_repetition_and_definition",
+        "prior_finding_as_recorded": "Normalize the recurring ASR homophones to 潜沟通、潜台词、行为线索、社交认证. The episode title and repeated in-window definition make the intended terms unambiguous.",
+        "reference": {
+          "path": "references/youtube-live-batch2/delete-readiness/review-dispositions.json",
+          "locator_kind": "json_pointer",
+          "locator": "/rows/0",
+          "file_sha256": "13b4fe7128b712d7b2608761b5c571a28460c367a6b84f008c97ba8345f3e083",
+          "role": "old_disposition_history",
+          "required_runtime_reference": true,
+          "path_base": "skill_directory",
+          "record_sha256_canonical_json": "28bc55dd12dedc2e3d4acf6d29920d9d94687dc5bec4aa453ba359158b370d76"
+        }
+      },
+      "packaged_evidence_bindings": [
+        {
+          "path": "references/youtube-live-batch2/delete-readiness/review-dispositions.json",
+          "locator_kind": "preserved_report_locator",
+          "locator": "$.rows[0]",
+          "file_sha256": "13b4fe7128b712d7b2608761b5c571a28460c367a6b84f008c97ba8345f3e083",
+          "role": "actual_prior_delete_disposition",
+          "required_runtime_reference": false,
+          "path_base": "skill_directory",
+          "scope_notice": "Existing text/report evidence only; no new original-audio or whole-source certification."
+        },
+        {
+          "path": "references/youtube-live-batch2/mikey-youtube-live-011/visual/review.md",
+          "locator_kind": "preserved_report_locator",
+          "locator": "full_document",
+          "file_sha256": "467f6a9e907d10e05e9fa2e1ee1b84541c787196973ae06e5a61bd9c1ddd7e54",
+          "role": "existing_episode_visual_report",
+          "required_runtime_reference": false,
+          "path_base": "skill_directory",
+          "scope_notice": "Existing text/report evidence only; no new original-audio or whole-source certification."
+        },
+        {
+          "path": "references/youtube-live-batch2/mikey-youtube-live-011/transcript.json",
+          "locator_kind": "preserved_report_locator",
+          "locator": "segments: S00215, S00217, S00219, S00246, S00247, S00284, S00307",
+          "file_sha256": "738e9f52d219b9055f19c31c02ae523741c2b3a09e15547200d90f7a306f770c",
+          "role": "automatic_text_read_directly",
+          "required_runtime_reference": false,
+          "path_base": "skill_directory",
+          "scope_notice": "Existing text/report evidence only; no new original-audio or whole-source certification."
+        }
+      ],
+      "independent_review_production_history": {
+        "required_runtime_reference": false,
+        "not_claimed_to_be_in_skill_package": true,
+        "report_label": "2026-10-05 12-task independent narrow-scope review",
+        "project_history_path": "research/v2-remediation-20261004/narrow-closure-independent-gate/result.json",
+        "report_file_sha256": "4da35ae10ec774e86d364b68171b6b6dba273dc9e5ea0b1abe7587b8e010215a",
+        "decision_record_sha256_canonical_json": "9bb5d01c447e080f76c0b40c611bdfdd63a93868b11b72c9e548b864eca9cecf",
+        "task_id": "mikey-youtube-live-011-R001",
+        "notice": "制作历史绑定，不是必需运行链接；运行时须回读上述真实包内原问题/历史引用，并保持此处限定。"
+      },
+      "limits": [
+        "本轮无新的原音回听、声纹映射、逐句听校或全片连续音画核验；已有音画文件被保存不等于已听/已看。",
+        "人物归属、同意/授权、第三方真实性、法律/医疗、隐私与实际效果不得由子问题关闭顺带开放。",
+        "知识等级、人物化、行动建议、运行许可、零权重与有限payload全部不改；既有hold/do_not_generalize继续有效。",
+        "原任务/原处置作为历史保留；只能添加明确标识子范围的状态叠加，不能写回旧closed后自动关闭原任务。",
+        "原任务severity保持；已解决子问题可另记较低severity，不能把尚待原音/连续画面的整体任务降级。"
+      ],
+      "new_audio_listening": false,
+      "new_audiovisual_verification_in_this_materialization": false,
+      "runtime_permission_change": false,
+      "knowledge_text_change": false,
+      "permission_inheritance_allowed": false
+    },
+    {
+      "original_task_id": "mikey-youtube-live-022-R005",
+      "source_id": "mikey-youtube-live-022",
+      "effective_status": "partial",
+      "full_original_task_closed": false,
+      "accepted_existing_subscope_resolution": true,
+      "original_task": {
+        "question": "未人工查看的联系表及稀疏间隙是否有手机聊天截图、动漫正片或其他承载教学信息的画面？",
+        "required_evidence": "剩余联系表与必要连续窗口视觉复核",
+        "severity": "major",
+        "reference": {
+          "path": "references/youtube-live-batch3/cross-video/current-effective/review-catalog.json",
+          "locator_kind": "json_pointer",
+          "locator": "/13",
+          "file_sha256": "d9a0fbab6e31fd2b932be154340c80f5a049c12735752381ebb6e329cb1bbe6d",
+          "role": "original_question_record",
+          "required_runtime_reference": true,
+          "path_base": "skill_directory",
+          "record_sha256_canonical_json": "e211c302b38f18456de6b6eb04d9805fffd3f98e5b99b439eb78b294373d7f27"
+        }
+      },
+      "accepted_narrow_scope": [
+        "剩余11张联系表后来已补看；820张候选对应18/18联系表已完成稀疏普查。"
+      ],
+      "remaining_original_scope": [
+        "稀疏间隙中是否存在短暂聊天截图、播放正片或教学画面，未被全片连续查看证明。",
+        "多人逐句归属、R001和三段高风险窗口仍未因此关闭。"
+      ],
+      "needed_evidence_or_scope_repair": [
+        "如需排除稀疏间隙中的短暂显示，仍需对应连续画面；人物归属需另行句级证据。"
+      ],
+      "effective_decision": "accept_explicit_subscope_only",
+      "basis_scope_explanation": "删除前关闭候选第7行明确给出此前7/18与后来补看11张的差别，消除了尚未看完联系表的前提。",
+      "historical_disposition": {
+        "history_only_not_current_whole_task_closure": true,
+        "historical_inventory_label": "closed_narrow_existing_disposition",
+        "prior_candidate_status_as_recorded": "closed_by_completed_visual_review",
+        "prior_disposition_label": "closed_by_completed_visual_review",
+        "prior_finding_as_recorded": "原记录所称视觉未审已过时；全套联系表已查看，关键画面已记录。低密度普查固有限制不再单独要求保留原片。",
+        "reference": {
+          "path": "references/youtube-live-batch3/delete-readiness/review-dispositions.json",
+          "locator_kind": "json_pointer",
+          "locator": "/13",
+          "file_sha256": "b287cbf7a72e90aef7535155e4d970fb456548f54e00051a95fcf3bff3902621",
+          "role": "old_disposition_history",
+          "required_runtime_reference": true,
+          "path_base": "skill_directory",
+          "record_sha256_canonical_json": "85cb6eebf3207b6382161c752afedbe663502112fc4d13467c7e4e2c1a8c1597"
+        }
+      },
+      "packaged_evidence_bindings": [
+        {
+          "path": "references/youtube-live-batch3/delete-readiness/review-dispositions.json",
+          "locator_kind": "preserved_report_locator",
+          "locator": "$[13]",
+          "file_sha256": "b287cbf7a72e90aef7535155e4d970fb456548f54e00051a95fcf3bff3902621",
+          "role": "actual_prior_delete_disposition",
+          "required_runtime_reference": false,
+          "path_base": "skill_directory",
+          "scope_notice": "Existing text/report evidence only; no new original-audio or whole-source certification."
+        },
+        {
+          "path": "references/youtube-live-batch3/mikey-youtube-live-022/visual/review.md",
+          "locator_kind": "preserved_report_locator",
+          "locator": "full_document",
+          "file_sha256": "e72aaf34e918ab65d2405b8e42ed78b266e86df9336d65c8f269cf920e6fae94",
+          "role": "existing_episode_visual_report",
+          "required_runtime_reference": false,
+          "path_base": "skill_directory",
+          "scope_notice": "Existing text/report evidence only; no new original-audio or whole-source certification."
+        }
+      ],
+      "independent_review_production_history": {
+        "required_runtime_reference": false,
+        "not_claimed_to_be_in_skill_package": true,
+        "report_label": "2026-10-05 12-task independent narrow-scope review",
+        "project_history_path": "research/v2-remediation-20261004/narrow-closure-independent-gate/result.json",
+        "report_file_sha256": "4da35ae10ec774e86d364b68171b6b6dba273dc9e5ea0b1abe7587b8e010215a",
+        "decision_record_sha256_canonical_json": "8225be3e1ce8d16d1dc1b2c7a77f3bdbb3bc6898909691758dad7a5972f8c756",
+        "task_id": "mikey-youtube-live-022-R005",
+        "notice": "制作历史绑定，不是必需运行链接；运行时须回读上述真实包内原问题/历史引用，并保持此处限定。"
+      },
+      "limits": [
+        "本轮无新的原音回听、声纹映射、逐句听校或全片连续音画核验；已有音画文件被保存不等于已听/已看。",
+        "人物归属、同意/授权、第三方真实性、法律/医疗、隐私与实际效果不得由子问题关闭顺带开放。",
+        "知识等级、人物化、行动建议、运行许可、零权重与有限payload全部不改；既有hold/do_not_generalize继续有效。",
+        "原任务/原处置作为历史保留；只能添加明确标识子范围的状态叠加，不能写回旧closed后自动关闭原任务。",
+        "原任务severity保持；已解决子问题可另记较低severity，不能把尚待原音/连续画面的整体任务降级。"
+      ],
+      "new_audio_listening": false,
+      "new_audiovisual_verification_in_this_materialization": false,
+      "runtime_permission_change": false,
+      "knowledge_text_change": false,
+      "permission_inheritance_allowed": false
+    },
+    {
+      "original_task_id": "mikey-youtube-live-026-R004",
+      "source_id": "mikey-youtube-live-026",
+      "effective_status": "partial",
+      "full_original_task_closed": false,
+      "accepted_existing_subscope_resolution": true,
+      "original_task": {
+        "question": "低清候选虽已生成，直播中是否存在屏幕、截图、播放材料或人物切换尚未语义审查？",
+        "required_evidence": "313个低清候选、7张联系表的人工审查和重点原尺寸顺序帧",
+        "severity": "major",
+        "reference": {
+          "path": "references/youtube-live-batch3/cross-video/current-effective/review-catalog.json",
+          "locator_kind": "json_pointer",
+          "locator": "/47",
+          "file_sha256": "d9a0fbab6e31fd2b932be154340c80f5a049c12735752381ebb6e329cb1bbe6d",
+          "role": "original_question_record",
+          "required_runtime_reference": true,
+          "path_base": "skill_directory",
+          "record_sha256_canonical_json": "b9e3c03ea35f8416576868f262a06fbf577d64a9d1f67392de97e753cf1446c5"
+        }
+      },
+      "accepted_narrow_scope": [
+        "313张候选对应7/7联系表已查看；09:44–10:15手机聊天展示窗口及3张重点原尺寸帧已有记录。"
+      ],
+      "remaining_original_scope": [
+        "聊天文字、完整消息顺序与角色身份仍未核准，低清/少数帧不能补写。",
+        "稀疏间隙的其他极短信息画面仍不等于全片排除。"
+      ],
+      "needed_evidence_or_scope_repair": [
+        "需要消息顺序或角色时，需可辨认的完整顺序材料及连续上下文。"
+      ],
+      "effective_decision": "accept_explicit_subscope_only",
+      "basis_scope_explanation": "关闭候选第8行和逐期视觉报告相互支持，足以确认此前未审状态过时及该展示窗口存在。",
+      "historical_disposition": {
+        "history_only_not_current_whole_task_closure": true,
+        "historical_inventory_label": "closed_narrow_existing_disposition",
+        "prior_candidate_status_as_recorded": "closed_by_completed_visual_review",
+        "prior_disposition_label": "closed_by_completed_visual_review",
+        "prior_finding_as_recorded": "原记录所称视觉未审已过时；全套联系表已查看，关键画面已记录。低密度普查固有限制不再单独要求保留原片。",
+        "reference": {
+          "path": "references/youtube-live-batch3/delete-readiness/review-dispositions.json",
+          "locator_kind": "json_pointer",
+          "locator": "/47",
+          "file_sha256": "b287cbf7a72e90aef7535155e4d970fb456548f54e00051a95fcf3bff3902621",
+          "role": "old_disposition_history",
+          "required_runtime_reference": true,
+          "path_base": "skill_directory",
+          "record_sha256_canonical_json": "6d5bfd52bf7ac81cf4a00eb8f98cf479de2bef3662917fc29641e3439c1a72fd"
+        }
+      },
+      "packaged_evidence_bindings": [
+        {
+          "path": "references/youtube-live-batch3/delete-readiness/review-dispositions.json",
+          "locator_kind": "preserved_report_locator",
+          "locator": "$[47]",
+          "file_sha256": "b287cbf7a72e90aef7535155e4d970fb456548f54e00051a95fcf3bff3902621",
+          "role": "actual_prior_delete_disposition",
+          "required_runtime_reference": false,
+          "path_base": "skill_directory",
+          "scope_notice": "Existing text/report evidence only; no new original-audio or whole-source certification."
+        },
+        {
+          "path": "references/youtube-live-batch3/mikey-youtube-live-026/visual/review.md",
+          "locator_kind": "preserved_report_locator",
+          "locator": "full_document",
+          "file_sha256": "df010eff6405d6c1021431be80aced809f52c724c1d68b4e3f9f68cd6390bb8d",
+          "role": "existing_episode_visual_report",
+          "required_runtime_reference": false,
+          "path_base": "skill_directory",
+          "scope_notice": "Existing text/report evidence only; no new original-audio or whole-source certification."
+        }
+      ],
+      "independent_review_production_history": {
+        "required_runtime_reference": false,
+        "not_claimed_to_be_in_skill_package": true,
+        "report_label": "2026-10-05 12-task independent narrow-scope review",
+        "project_history_path": "research/v2-remediation-20261004/narrow-closure-independent-gate/result.json",
+        "report_file_sha256": "4da35ae10ec774e86d364b68171b6b6dba273dc9e5ea0b1abe7587b8e010215a",
+        "decision_record_sha256_canonical_json": "8afabc475061712d810dde64493c9848762937084e9190a378a97792642da19e",
+        "task_id": "mikey-youtube-live-026-R004",
+        "notice": "制作历史绑定，不是必需运行链接；运行时须回读上述真实包内原问题/历史引用，并保持此处限定。"
+      },
+      "limits": [
+        "本轮无新的原音回听、声纹映射、逐句听校或全片连续音画核验；已有音画文件被保存不等于已听/已看。",
+        "人物归属、同意/授权、第三方真实性、法律/医疗、隐私与实际效果不得由子问题关闭顺带开放。",
+        "知识等级、人物化、行动建议、运行许可、零权重与有限payload全部不改；既有hold/do_not_generalize继续有效。",
+        "原任务/原处置作为历史保留；只能添加明确标识子范围的状态叠加，不能写回旧closed后自动关闭原任务。",
+        "原任务severity保持；已解决子问题可另记较低severity，不能把尚待原音/连续画面的整体任务降级。"
+      ],
+      "new_audio_listening": false,
+      "new_audiovisual_verification_in_this_materialization": false,
+      "runtime_permission_change": false,
+      "knowledge_text_change": false,
+      "permission_inheritance_allowed": false
+    },
+    {
+      "original_task_id": "mikey-youtube-live-027-R003",
+      "source_id": "mikey-youtube-live-027",
+      "effective_status": "partial",
+      "full_original_task_closed": false,
+      "accepted_existing_subscope_resolution": true,
+      "original_task": {
+        "question": "低清候选和联系表尚未人工语义审查，是否有截图、演示或人物切换？",
+        "required_evidence": "340个候选、8张联系表和重点原尺寸帧复核",
+        "severity": "major",
+        "reference": {
+          "path": "references/youtube-live-batch3/cross-video/current-effective/review-catalog.json",
+          "locator_kind": "json_pointer",
+          "locator": "/50",
+          "file_sha256": "d9a0fbab6e31fd2b932be154340c80f5a049c12735752381ebb6e329cb1bbe6d",
+          "role": "original_question_record",
+          "required_runtime_reference": true,
+          "path_base": "skill_directory",
+          "record_sha256_canonical_json": "32cacdd26c193c89fafeffad2771b80f427a0732beaf550d4b253775820b66c2"
+        }
+      },
+      "accepted_narrow_scope": [
+        "340张候选对应8/8联系表已查看；两次手机展示、短暂人物进入及空座窗口已有定位。"
+      ],
+      "remaining_original_scope": [
+        "进入人物身份、画外声音和手机文字顺序仍不能由稀疏帧认定。",
+        "未逐段核验稀疏间隙及全部展示语义。"
+      ],
+      "needed_evidence_or_scope_repair": [
+        "需要人物或声音归属时，须连续音画与明确身份参照。"
+      ],
+      "effective_decision": "accept_explicit_subscope_only",
+      "basis_scope_explanation": "关闭候选第9行与逐期视觉报告给出实质观察，并非只有manifest文件已生成。",
+      "historical_disposition": {
+        "history_only_not_current_whole_task_closure": true,
+        "historical_inventory_label": "closed_narrow_existing_disposition",
+        "prior_candidate_status_as_recorded": "closed_by_completed_visual_review",
+        "prior_disposition_label": "closed_by_completed_visual_review",
+        "prior_finding_as_recorded": "原记录所称视觉未审已过时；全套联系表已查看，关键画面已记录。低密度普查固有限制不再单独要求保留原片。",
+        "reference": {
+          "path": "references/youtube-live-batch3/delete-readiness/review-dispositions.json",
+          "locator_kind": "json_pointer",
+          "locator": "/50",
+          "file_sha256": "b287cbf7a72e90aef7535155e4d970fb456548f54e00051a95fcf3bff3902621",
+          "role": "old_disposition_history",
+          "required_runtime_reference": true,
+          "path_base": "skill_directory",
+          "record_sha256_canonical_json": "63b3b0a40809b5ec1c2da170b897d71bec9478721d3dde0bbb7f7f99a46fb7f1"
+        }
+      },
+      "packaged_evidence_bindings": [
+        {
+          "path": "references/youtube-live-batch3/delete-readiness/review-dispositions.json",
+          "locator_kind": "preserved_report_locator",
+          "locator": "$[50]",
+          "file_sha256": "b287cbf7a72e90aef7535155e4d970fb456548f54e00051a95fcf3bff3902621",
+          "role": "actual_prior_delete_disposition",
+          "required_runtime_reference": false,
+          "path_base": "skill_directory",
+          "scope_notice": "Existing text/report evidence only; no new original-audio or whole-source certification."
+        },
+        {
+          "path": "references/youtube-live-batch3/mikey-youtube-live-027/visual/review.md",
+          "locator_kind": "preserved_report_locator",
+          "locator": "full_document",
+          "file_sha256": "b21bc0ae0671deab91862f14120814f118a31b52ece54d549e265ac744d5f861",
+          "role": "existing_episode_visual_report",
+          "required_runtime_reference": false,
+          "path_base": "skill_directory",
+          "scope_notice": "Existing text/report evidence only; no new original-audio or whole-source certification."
+        }
+      ],
+      "independent_review_production_history": {
+        "required_runtime_reference": false,
+        "not_claimed_to_be_in_skill_package": true,
+        "report_label": "2026-10-05 12-task independent narrow-scope review",
+        "project_history_path": "research/v2-remediation-20261004/narrow-closure-independent-gate/result.json",
+        "report_file_sha256": "4da35ae10ec774e86d364b68171b6b6dba273dc9e5ea0b1abe7587b8e010215a",
+        "decision_record_sha256_canonical_json": "9238ef91e8843069bd1a773e078037a70bb85c49b0dc64b51f6e78b35abac698",
+        "task_id": "mikey-youtube-live-027-R003",
+        "notice": "制作历史绑定，不是必需运行链接；运行时须回读上述真实包内原问题/历史引用，并保持此处限定。"
+      },
+      "limits": [
+        "本轮无新的原音回听、声纹映射、逐句听校或全片连续音画核验；已有音画文件被保存不等于已听/已看。",
+        "人物归属、同意/授权、第三方真实性、法律/医疗、隐私与实际效果不得由子问题关闭顺带开放。",
+        "知识等级、人物化、行动建议、运行许可、零权重与有限payload全部不改；既有hold/do_not_generalize继续有效。",
+        "原任务/原处置作为历史保留；只能添加明确标识子范围的状态叠加，不能写回旧closed后自动关闭原任务。",
+        "原任务severity保持；已解决子问题可另记较低severity，不能把尚待原音/连续画面的整体任务降级。"
+      ],
+      "new_audio_listening": false,
+      "new_audiovisual_verification_in_this_materialization": false,
+      "runtime_permission_change": false,
+      "knowledge_text_change": false,
+      "permission_inheritance_allowed": false
+    },
+    {
+      "original_task_id": "mikey-youtube-live-028-R004",
+      "source_id": "mikey-youtube-live-028",
+      "effective_status": "partial",
+      "full_original_task_closed": false,
+      "accepted_existing_subscope_resolution": true,
+      "original_task": {
+        "question": "431个低清候选尚未语义审查，是否出现屏幕、聊天截图、播放材料或人物切换？",
+        "required_evidence": "9张联系表、候选和重点原尺寸顺序帧复核",
+        "severity": "major",
+        "reference": {
+          "path": "references/youtube-live-batch3/cross-video/current-effective/review-catalog.json",
+          "locator_kind": "json_pointer",
+          "locator": "/54",
+          "file_sha256": "d9a0fbab6e31fd2b932be154340c80f5a049c12735752381ebb6e329cb1bbe6d",
+          "role": "original_question_record",
+          "required_runtime_reference": true,
+          "path_base": "skill_directory",
+          "record_sha256_canonical_json": "31efbe3035725f54ef9c58fd9805c5d14a4b76fc0b6a134446e8757111897725"
+        }
+      },
+      "accepted_narrow_scope": [
+        "431张候选对应9/9联系表已查看；已审样本未见手机聊天、第二名可见说话人或实战演示。"
+      ],
+      "remaining_original_scope": [
+        "未见仅是稀疏样本未见，不能证明全片没有短暂显示或画外人物。",
+        "单人口述不能补强同意、结果或发言的真实有效性。"
+      ],
+      "needed_evidence_or_scope_repair": [
+        "若要作全片不存在某画面的断言，需足够连续覆盖；实际同意与效果需要独立证据。"
+      ],
+      "effective_decision": "accept_explicit_subscope_only",
+      "basis_scope_explanation": "关闭候选第10行和逐期视觉报告支持普查范围内的观察。未见结论必须带样本范围。",
+      "historical_disposition": {
+        "history_only_not_current_whole_task_closure": true,
+        "historical_inventory_label": "closed_narrow_existing_disposition",
+        "prior_candidate_status_as_recorded": "closed_by_completed_visual_review",
+        "prior_disposition_label": "closed_by_completed_visual_review",
+        "prior_finding_as_recorded": "原记录所称视觉未审已过时；全套联系表已查看，关键画面已记录。低密度普查固有限制不再单独要求保留原片。",
+        "reference": {
+          "path": "references/youtube-live-batch3/delete-readiness/review-dispositions.json",
+          "locator_kind": "json_pointer",
+          "locator": "/54",
+          "file_sha256": "b287cbf7a72e90aef7535155e4d970fb456548f54e00051a95fcf3bff3902621",
+          "role": "old_disposition_history",
+          "required_runtime_reference": true,
+          "path_base": "skill_directory",
+          "record_sha256_canonical_json": "2dc423ef3cfcac4cfe640e6b572bdce50c090edef707d727e5a49059d6eef4c5"
+        }
+      },
+      "packaged_evidence_bindings": [
+        {
+          "path": "references/youtube-live-batch3/delete-readiness/review-dispositions.json",
+          "locator_kind": "preserved_report_locator",
+          "locator": "$[54]",
+          "file_sha256": "b287cbf7a72e90aef7535155e4d970fb456548f54e00051a95fcf3bff3902621",
+          "role": "actual_prior_delete_disposition",
+          "required_runtime_reference": false,
+          "path_base": "skill_directory",
+          "scope_notice": "Existing text/report evidence only; no new original-audio or whole-source certification."
+        },
+        {
+          "path": "references/youtube-live-batch3/mikey-youtube-live-028/visual/review.md",
+          "locator_kind": "preserved_report_locator",
+          "locator": "full_document",
+          "file_sha256": "ee551da27a09a454236ef06c1fec52b95594e66f0f2e58541fb17636574fcb87",
+          "role": "existing_episode_visual_report",
+          "required_runtime_reference": false,
+          "path_base": "skill_directory",
+          "scope_notice": "Existing text/report evidence only; no new original-audio or whole-source certification."
+        }
+      ],
+      "independent_review_production_history": {
+        "required_runtime_reference": false,
+        "not_claimed_to_be_in_skill_package": true,
+        "report_label": "2026-10-05 12-task independent narrow-scope review",
+        "project_history_path": "research/v2-remediation-20261004/narrow-closure-independent-gate/result.json",
+        "report_file_sha256": "4da35ae10ec774e86d364b68171b6b6dba273dc9e5ea0b1abe7587b8e010215a",
+        "decision_record_sha256_canonical_json": "9d981cdfc8373b76cd993ebcdcd2509a4b4c108b58831e63c63a4909ac6d0c39",
+        "task_id": "mikey-youtube-live-028-R004",
+        "notice": "制作历史绑定，不是必需运行链接；运行时须回读上述真实包内原问题/历史引用，并保持此处限定。"
+      },
+      "limits": [
+        "本轮无新的原音回听、声纹映射、逐句听校或全片连续音画核验；已有音画文件被保存不等于已听/已看。",
+        "人物归属、同意/授权、第三方真实性、法律/医疗、隐私与实际效果不得由子问题关闭顺带开放。",
+        "知识等级、人物化、行动建议、运行许可、零权重与有限payload全部不改；既有hold/do_not_generalize继续有效。",
+        "原任务/原处置作为历史保留；只能添加明确标识子范围的状态叠加，不能写回旧closed后自动关闭原任务。",
+        "原任务severity保持；已解决子问题可另记较低severity，不能把尚待原音/连续画面的整体任务降级。"
+      ],
+      "new_audio_listening": false,
+      "new_audiovisual_verification_in_this_materialization": false,
+      "runtime_permission_change": false,
+      "knowledge_text_change": false,
+      "permission_inheritance_allowed": false
+    },
+    {
+      "original_task_id": "mikey-youtube-live-029-R004",
+      "source_id": "mikey-youtube-live-029",
+      "effective_status": "partial",
+      "full_original_task_closed": false,
+      "accepted_existing_subscope_resolution": true,
+      "original_task": {
+        "question": "尚无正式视觉manifest，屏幕、交友软件、电话状态、聊天和人物切换均未核。",
+        "required_evidence": "全片视觉候选、联系表、重点原尺寸顺序帧和连续音画",
+        "severity": "blocking",
+        "reference": {
+          "path": "references/youtube-live-batch3/cross-video/current-effective/review-catalog.json",
+          "locator_kind": "json_pointer",
+          "locator": "/58",
+          "file_sha256": "d9a0fbab6e31fd2b932be154340c80f5a049c12735752381ebb6e329cb1bbe6d",
+          "role": "original_question_record",
+          "required_runtime_reference": true,
+          "path_base": "skill_directory",
+          "record_sha256_canonical_json": "b99bd40462d4ebd86e6fbc0340b3fa6193c89bce22b3a500b5b7b198258123a0"
+        }
+      },
+      "accepted_narrow_scope": [
+        "已不再缺正式视觉manifest；693张候选、15/15联系表及7张重点原尺寸帧已有审查记录，电话/手机/聊天展示窗口已定位。"
+      ],
+      "remaining_original_scope": [
+        "原任务还要求连续音画，电话状态、来电人身份、知情与拒绝语义并未被上述普查解决。",
+        "R002/R003保持开放，电话知识现有限制保留。"
+      ],
+      "needed_evidence_or_scope_repair": [
+        "在保留的连续证据包上逐句核对电话说话人与语义；当事人知情/授权需相应外部证据。"
+      ],
+      "effective_decision": "accept_explicit_subscope_only",
+      "basis_scope_explanation": "关闭候选第11行明确仅关闭无manifest前提，与逐期视觉记录一致。",
+      "historical_disposition": {
+        "history_only_not_current_whole_task_closure": true,
+        "historical_inventory_label": "closed_narrow_existing_disposition",
+        "prior_candidate_status_as_recorded": "closed_by_completed_visual_review",
+        "prior_disposition_label": "closed_by_completed_visual_review",
+        "prior_finding_as_recorded": "原记录所称视觉未审已过时；全套联系表已查看，关键画面已记录。低密度普查固有限制不再单独要求保留原片。",
+        "reference": {
+          "path": "references/youtube-live-batch3/delete-readiness/review-dispositions.json",
+          "locator_kind": "json_pointer",
+          "locator": "/58",
+          "file_sha256": "b287cbf7a72e90aef7535155e4d970fb456548f54e00051a95fcf3bff3902621",
+          "role": "old_disposition_history",
+          "required_runtime_reference": true,
+          "path_base": "skill_directory",
+          "record_sha256_canonical_json": "f857b7353522becdcef0476792e763cc25615689a7684aa82cdf3dec74d38ab8"
+        }
+      },
+      "packaged_evidence_bindings": [
+        {
+          "path": "references/youtube-live-batch3/delete-readiness/review-dispositions.json",
+          "locator_kind": "preserved_report_locator",
+          "locator": "$[58]",
+          "file_sha256": "b287cbf7a72e90aef7535155e4d970fb456548f54e00051a95fcf3bff3902621",
+          "role": "actual_prior_delete_disposition",
+          "required_runtime_reference": false,
+          "path_base": "skill_directory",
+          "scope_notice": "Existing text/report evidence only; no new original-audio or whole-source certification."
+        },
+        {
+          "path": "references/youtube-live-batch3/mikey-youtube-live-029/visual/review.md",
+          "locator_kind": "preserved_report_locator",
+          "locator": "full_document",
+          "file_sha256": "fb4855715738687554a181bd214b71084ae8f7e3350f681c21e7d720b44fb573",
+          "role": "existing_episode_visual_report",
+          "required_runtime_reference": false,
+          "path_base": "skill_directory",
+          "scope_notice": "Existing text/report evidence only; no new original-audio or whole-source certification."
+        }
+      ],
+      "independent_review_production_history": {
+        "required_runtime_reference": false,
+        "not_claimed_to_be_in_skill_package": true,
+        "report_label": "2026-10-05 12-task independent narrow-scope review",
+        "project_history_path": "research/v2-remediation-20261004/narrow-closure-independent-gate/result.json",
+        "report_file_sha256": "4da35ae10ec774e86d364b68171b6b6dba273dc9e5ea0b1abe7587b8e010215a",
+        "decision_record_sha256_canonical_json": "7404d015d1949ef6c0552c88df77d152aec6afc9c6901bd8ab8a179314a46842",
+        "task_id": "mikey-youtube-live-029-R004",
+        "notice": "制作历史绑定，不是必需运行链接；运行时须回读上述真实包内原问题/历史引用，并保持此处限定。"
+      },
+      "limits": [
+        "本轮无新的原音回听、声纹映射、逐句听校或全片连续音画核验；已有音画文件被保存不等于已听/已看。",
+        "人物归属、同意/授权、第三方真实性、法律/医疗、隐私与实际效果不得由子问题关闭顺带开放。",
+        "知识等级、人物化、行动建议、运行许可、零权重与有限payload全部不改；既有hold/do_not_generalize继续有效。",
+        "原任务/原处置作为历史保留；只能添加明确标识子范围的状态叠加，不能写回旧closed后自动关闭原任务。",
+        "原任务severity保持；已解决子问题可另记较低severity，不能把尚待原音/连续画面的整体任务降级。"
+      ],
+      "new_audio_listening": false,
+      "new_audiovisual_verification_in_this_materialization": false,
+      "runtime_permission_change": false,
+      "knowledge_text_change": false,
+      "permission_inheritance_allowed": false
+    },
+    {
+      "original_task_id": "mikey-youtube-live-030-R004",
+      "source_id": "mikey-youtube-live-030",
+      "effective_status": "open",
+      "full_original_task_closed": false,
+      "accepted_existing_subscope_resolution": false,
+      "original_task": {
+        "question": "全7张联系表未见课程页、价格表、幻灯片或全屏宣传图；课程内容只能按单人口述使用，稀疏普查仍不能排除极短展示或解除同意相关疑点。",
+        "required_evidence": "需要连续音画才能核对极短展示、观众问题与回答对应及同意语义",
+        "severity": "major",
+        "reference": {
+          "path": "references/youtube-live-batch3/cross-video/current-effective/review-catalog.json",
+          "locator_kind": "json_pointer",
+          "locator": "/62",
+          "file_sha256": "d9a0fbab6e31fd2b932be154340c80f5a049c12735752381ebb6e329cb1bbe6d",
+          "role": "original_question_record",
+          "required_runtime_reference": true,
+          "path_base": "skill_directory",
+          "record_sha256_canonical_json": "3a5ff40384117238e6a64e0813563169fa83d3ba8ba9532523cb598a4ca4fe60"
+        }
+      },
+      "accepted_narrow_scope": [],
+      "remaining_original_scope": [
+        "极短显示、观众问题与回答对应及同意语义仍待连续音画/相应外部证据。",
+        "课程内容仅按口述使用，不能因未见课件而扩大课程效果或同意结论。"
+      ],
+      "needed_evidence_or_scope_repair": [
+        "修正拟关闭对象为旧历史未审前提；当前sparse_visual_limit维持open。若要关闭当前任务，须提供针对其所列连续音画与同意疑点的实质证据。"
+      ],
+      "effective_decision": "reject_current_task_closure_scope_mismatch",
+      "basis_scope_explanation": "当前原任务已经明写7/7联系表未见课件与不能排除短显示；跨期独立审计第62–64行明确要求采用当前本地任务并保留连续音画限制。旧处置通用句中的视觉未审与当前任务不匹配。",
+      "historical_disposition": {
+        "history_only_not_current_whole_task_closure": true,
+        "historical_inventory_label": "closed_narrow_existing_disposition",
+        "prior_candidate_status_as_recorded": "closed_by_completed_visual_review",
+        "prior_disposition_label": "closed_by_completed_visual_review",
+        "prior_finding_as_recorded": "原记录所称视觉未审已过时；全套联系表已查看，关键画面已记录。低密度普查固有限制不再单独要求保留原片。",
+        "reference": {
+          "path": "references/youtube-live-batch3/delete-readiness/review-dispositions.json",
+          "locator_kind": "json_pointer",
+          "locator": "/62",
+          "file_sha256": "b287cbf7a72e90aef7535155e4d970fb456548f54e00051a95fcf3bff3902621",
+          "role": "old_disposition_history",
+          "required_runtime_reference": true,
+          "path_base": "skill_directory",
+          "record_sha256_canonical_json": "3502248033f1c2a09e196857911b9fd7ce6191ccc33c037e2a26e26501f72a16"
+        }
+      },
+      "packaged_evidence_bindings": [
+        {
+          "path": "references/youtube-live-batch3/delete-readiness/review-dispositions.json",
+          "locator_kind": "preserved_report_locator",
+          "locator": "$[62]",
+          "file_sha256": "b287cbf7a72e90aef7535155e4d970fb456548f54e00051a95fcf3bff3902621",
+          "role": "actual_prior_delete_disposition",
+          "required_runtime_reference": false,
+          "path_base": "skill_directory",
+          "scope_notice": "Existing text/report evidence only; no new original-audio or whole-source certification."
+        },
+        {
+          "path": "references/youtube-live-batch3/mikey-youtube-live-030/visual/review.md",
+          "locator_kind": "preserved_report_locator",
+          "locator": "full_document",
+          "file_sha256": "d15e9aa3604789888db84c5967b3871cb33a15b3034bdb102125c5e39aabddee",
+          "role": "existing_episode_visual_report",
+          "required_runtime_reference": false,
+          "path_base": "skill_directory",
+          "scope_notice": "Existing text/report evidence only; no new original-audio or whole-source certification."
+        }
+      ],
+      "independent_review_production_history": {
+        "required_runtime_reference": false,
+        "not_claimed_to_be_in_skill_package": true,
+        "report_label": "2026-10-05 12-task independent narrow-scope review",
+        "project_history_path": "research/v2-remediation-20261004/narrow-closure-independent-gate/result.json",
+        "report_file_sha256": "4da35ae10ec774e86d364b68171b6b6dba273dc9e5ea0b1abe7587b8e010215a",
+        "decision_record_sha256_canonical_json": "6412b126b74e8b5a3aa71046d2caae8f350548d0c5cecc9f9e1687053e4bb918",
+        "task_id": "mikey-youtube-live-030-R004",
+        "notice": "制作历史绑定，不是必需运行链接；运行时须回读上述真实包内原问题/历史引用，并保持此处限定。"
+      },
+      "limits": [
+        "本轮无新的原音回听、声纹映射、逐句听校或全片连续音画核验；已有音画文件被保存不等于已听/已看。",
+        "人物归属、同意/授权、第三方真实性、法律/医疗、隐私与实际效果不得由子问题关闭顺带开放。",
+        "知识等级、人物化、行动建议、运行许可、零权重与有限payload全部不改；既有hold/do_not_generalize继续有效。",
+        "原任务/原处置作为历史保留；只能添加明确标识子范围的状态叠加，不能写回旧closed后自动关闭原任务。",
+        "原任务severity保持；已解决子问题可另记较低severity，不能把尚待原音/连续画面的整体任务降级。"
+      ],
+      "new_audio_listening": false,
+      "new_audiovisual_verification_in_this_materialization": false,
+      "runtime_permission_change": false,
+      "knowledge_text_change": false,
+      "permission_inheritance_allowed": false
+    },
+    {
+      "original_task_id": "mikey-youtube-live-034-R004",
+      "source_id": "mikey-youtube-live-034",
+      "effective_status": "partial",
+      "full_original_task_closed": false,
+      "accepted_existing_subscope_resolution": true,
+      "original_task": {
+        "question": "ASD很重时讲者是否明确承认可能就是拒绝？",
+        "required_evidence": "原音和连续上下文",
+        "severity": "blocking",
+        "reference": {
+          "path": "references/youtube-live-batch4/cross-video/youtube-live-batch4-cross-synthesis.json",
+          "locator_kind": "json_pointer",
+          "locator": "/review_catalog_as_supplied/13",
+          "file_sha256": "55640b9188cd6df24944183e0deac5a6e5ff3e32183af5bb0c9c2de128f0f941",
+          "role": "original_question_record",
+          "required_runtime_reference": true,
+          "path_base": "skill_directory",
+          "record_sha256_canonical_json": "26f8803ab7518cac82542f8f7e9fb1a53f6fc72178b2537cdfaea7a7b3661e65"
+        }
+      },
+      "accepted_narrow_scope": [
+        "现有自动稿及连续文字语境中，3481.54–3483.42秒确有ASD太重可能就是拒绝这一表述。"
+      ],
+      "remaining_original_scope": [
+        "原任务要求原音与连续上下文；自动稿出现该句不等于其原音及说话人已经新听校。",
+        "拒绝仍为停止条件；不能将ASD标签转化为克服拒绝的行动建议。"
+      ],
+      "needed_evidence_or_scope_repair": [
+        "需回听已保留3440–3520秒窗口并绑定话者与原句；本轮未执行。"
+      ],
+      "effective_decision": "accept_explicit_subscope_only",
+      "basis_scope_explanation": "直接回读S00859–S00864：ASD太重、不是单纯ASD、可能就是拒绝、吸引不够连续出现；并以其后的新问题为语境边界。原报告只引用自动稿，未证明原音复核。",
+      "historical_disposition": {
+        "history_only_not_current_whole_task_closure": true,
+        "historical_inventory_label": "closed_narrow_existing_disposition",
+        "prior_candidate_status_as_recorded": "closed",
+        "prior_disposition_label": "closed_question_answered_by_source_context",
+        "prior_finding_as_recorded": "The automatic transcript at 3481.54-3483.42 states explicitly: 'ASD太重可能就是拒绝'. The surrounding source window is preserved for later listening. This closes the narrow factual question of whether the speaker acknowledged refusal; it does not authorize treating resistance as a technique, and refusal remains a stop condition.",
+        "reference": {
+          "path": "references/youtube-live-batch4/delete-readiness/review-dispositions.json",
+          "locator_kind": "json_pointer",
+          "locator": "/decisions/13",
+          "file_sha256": "bd51e8317106245ea44bd074cc0a3e69025f7a327b61de9fac65eb537e248109",
+          "role": "old_disposition_history",
+          "required_runtime_reference": true,
+          "path_base": "skill_directory",
+          "record_sha256_canonical_json": "071ec63f00f97bd1b6ad0e8c82be962fbcd5009c29ebcc9743b31902564263be"
+        }
+      },
+      "packaged_evidence_bindings": [
+        {
+          "path": "references/youtube-live-batch4/delete-readiness/review-dispositions.json",
+          "locator_kind": "preserved_report_locator",
+          "locator": "$.decisions[13]",
+          "file_sha256": "bd51e8317106245ea44bd074cc0a3e69025f7a327b61de9fac65eb537e248109",
+          "role": "actual_prior_delete_disposition",
+          "required_runtime_reference": false,
+          "path_base": "skill_directory",
+          "scope_notice": "Existing text/report evidence only; no new original-audio or whole-source certification."
+        },
+        {
+          "path": "references/youtube-live-batch4/mikey-youtube-live-034/visual/review.md",
+          "locator_kind": "preserved_report_locator",
+          "locator": "full_document",
+          "file_sha256": "64f213f2b51346535c356ec6e66882bb3b15b54002f87ad90660250333a5c1d7",
+          "role": "existing_episode_visual_report",
+          "required_runtime_reference": false,
+          "path_base": "skill_directory",
+          "scope_notice": "Existing text/report evidence only; no new original-audio or whole-source certification."
+        },
+        {
+          "path": "references/youtube-live-batch4/mikey-youtube-live-034/transcript.json",
+          "locator_kind": "preserved_report_locator",
+          "locator": "segments: S00859, S00860, S00861, S00862, S00863, S00864",
+          "file_sha256": "cf025a4d22bcd0cfe003804a47e9442beaa151508c834660c60efddb2ab4d443",
+          "role": "automatic_text_read_directly",
+          "required_runtime_reference": false,
+          "path_base": "skill_directory",
+          "scope_notice": "Existing text/report evidence only; no new original-audio or whole-source certification."
+        }
+      ],
+      "independent_review_production_history": {
+        "required_runtime_reference": false,
+        "not_claimed_to_be_in_skill_package": true,
+        "report_label": "2026-10-05 12-task independent narrow-scope review",
+        "project_history_path": "research/v2-remediation-20261004/narrow-closure-independent-gate/result.json",
+        "report_file_sha256": "4da35ae10ec774e86d364b68171b6b6dba273dc9e5ea0b1abe7587b8e010215a",
+        "decision_record_sha256_canonical_json": "a051b32c2fee578d6cf4fc52650c7f1f8bcffc9565365f51a701999909d0df70",
+        "task_id": "mikey-youtube-live-034-R004",
+        "notice": "制作历史绑定，不是必需运行链接；运行时须回读上述真实包内原问题/历史引用，并保持此处限定。"
+      },
+      "limits": [
+        "本轮无新的原音回听、声纹映射、逐句听校或全片连续音画核验；已有音画文件被保存不等于已听/已看。",
+        "人物归属、同意/授权、第三方真实性、法律/医疗、隐私与实际效果不得由子问题关闭顺带开放。",
+        "知识等级、人物化、行动建议、运行许可、零权重与有限payload全部不改；既有hold/do_not_generalize继续有效。",
+        "原任务/原处置作为历史保留；只能添加明确标识子范围的状态叠加，不能写回旧closed后自动关闭原任务。",
+        "原任务severity保持；已解决子问题可另记较低severity，不能把尚待原音/连续画面的整体任务降级。"
+      ],
+      "new_audio_listening": false,
+      "new_audiovisual_verification_in_this_materialization": false,
+      "runtime_permission_change": false,
+      "knowledge_text_change": false,
+      "permission_inheritance_allowed": false
+    },
+    {
+      "original_task_id": "mikey-youtube-live-034-R007",
+      "source_id": "mikey-youtube-live-034",
+      "effective_status": "partial",
+      "full_original_task_closed": false,
+      "accepted_existing_subscope_resolution": true,
+      "original_task": {
+        "question": "本期是否展示聊天记录、照片、来电界面或其他承载信息的画面？",
+        "required_evidence": "全片视觉候选和重点窗口顺序帧",
+        "severity": "major",
+        "reference": {
+          "path": "references/youtube-live-batch4/cross-video/youtube-live-batch4-cross-synthesis.json",
+          "locator_kind": "json_pointer",
+          "locator": "/review_catalog_as_supplied/16",
+          "file_sha256": "55640b9188cd6df24944183e0deac5a6e5ff3e32183af5bb0c9c2de128f0f941",
+          "role": "original_question_record",
+          "required_runtime_reference": true,
+          "path_base": "skill_directory",
+          "record_sha256_canonical_json": "92db180d1bd8364324bf46ab52456bd61a9a15e504021bf4e72d6f37f2313df0"
+        }
+      },
+      "accepted_narrow_scope": [
+        "7/7联系表已查看；稀疏样本显示固定主持机位、观众文字层和手机操作；样本中未发现可读私聊/联系人卡片/全屏第三方照片。"
+      ],
+      "remaining_original_scope": [
+        "稀疏未见不能成为全片无隐私显示的证明；短暂不可读手机画面仍排除。",
+        "观众文字和送餐/电话窗口的声音身份仍待核。"
+      ],
+      "needed_evidence_or_scope_repair": [
+        "如需读取手机或归属外部声音，须原尺寸连续窗口与身份参照；不能用生成manifest代替查看。"
+      ],
+      "effective_decision": "accept_explicit_subscope_only",
+      "basis_scope_explanation": "直接读取删除前审计第16行与对应处置，给出的后续人工普查状态晚于旧逐期visual报告中的pending。",
+      "historical_disposition": {
+        "history_only_not_current_whole_task_closure": true,
+        "historical_inventory_label": "closed_narrow_existing_disposition",
+        "prior_candidate_status_as_recorded": "closed",
+        "prior_disposition_label": "closed_question_answered_with_persistent_boundary",
+        "prior_finding_as_recorded": "7/7 survey sheets were inspected. The episode is a fixed single-host camera with a persistent viewer-chat overlay; the host handles a phone, but no readable private chat, contact card, or full-screen third-party photo was found in the sparse survey. Viewer-chat attribution and unreadable short phone flashes remain excluded from knowledge.",
+        "reference": {
+          "path": "references/youtube-live-batch4/delete-readiness/review-dispositions.json",
+          "locator_kind": "json_pointer",
+          "locator": "/decisions/16",
+          "file_sha256": "bd51e8317106245ea44bd074cc0a3e69025f7a327b61de9fac65eb537e248109",
+          "role": "old_disposition_history",
+          "required_runtime_reference": true,
+          "path_base": "skill_directory",
+          "record_sha256_canonical_json": "291e3a7f4504986e43e691d02007dd85ff5e8232920c5621742ade92ba317ece"
+        }
+      },
+      "packaged_evidence_bindings": [
+        {
+          "path": "references/youtube-live-batch4/delete-readiness/review-dispositions.json",
+          "locator_kind": "preserved_report_locator",
+          "locator": "$.decisions[16]",
+          "file_sha256": "bd51e8317106245ea44bd074cc0a3e69025f7a327b61de9fac65eb537e248109",
+          "role": "actual_prior_delete_disposition",
+          "required_runtime_reference": false,
+          "path_base": "skill_directory",
+          "scope_notice": "Existing text/report evidence only; no new original-audio or whole-source certification."
+        },
+        {
+          "path": "references/youtube-live-batch4/mikey-youtube-live-034/visual/review.md",
+          "locator_kind": "preserved_report_locator",
+          "locator": "full_document",
+          "file_sha256": "64f213f2b51346535c356ec6e66882bb3b15b54002f87ad90660250333a5c1d7",
+          "role": "existing_episode_visual_report",
+          "required_runtime_reference": false,
+          "path_base": "skill_directory",
+          "scope_notice": "Existing text/report evidence only; no new original-audio or whole-source certification."
+        }
+      ],
+      "independent_review_production_history": {
+        "required_runtime_reference": false,
+        "not_claimed_to_be_in_skill_package": true,
+        "report_label": "2026-10-05 12-task independent narrow-scope review",
+        "project_history_path": "research/v2-remediation-20261004/narrow-closure-independent-gate/result.json",
+        "report_file_sha256": "4da35ae10ec774e86d364b68171b6b6dba273dc9e5ea0b1abe7587b8e010215a",
+        "decision_record_sha256_canonical_json": "3b5d510f77ed838aa2e2430a462687e8a779c0a98c8977f024c232a94a1c7828",
+        "task_id": "mikey-youtube-live-034-R007",
+        "notice": "制作历史绑定，不是必需运行链接；运行时须回读上述真实包内原问题/历史引用，并保持此处限定。"
+      },
+      "limits": [
+        "本轮无新的原音回听、声纹映射、逐句听校或全片连续音画核验；已有音画文件被保存不等于已听/已看。",
+        "人物归属、同意/授权、第三方真实性、法律/医疗、隐私与实际效果不得由子问题关闭顺带开放。",
+        "知识等级、人物化、行动建议、运行许可、零权重与有限payload全部不改；既有hold/do_not_generalize继续有效。",
+        "原任务/原处置作为历史保留；只能添加明确标识子范围的状态叠加，不能写回旧closed后自动关闭原任务。",
+        "原任务severity保持；已解决子问题可另记较低severity，不能把尚待原音/连续画面的整体任务降级。"
+      ],
+      "new_audio_listening": false,
+      "new_audiovisual_verification_in_this_materialization": false,
+      "runtime_permission_change": false,
+      "knowledge_text_change": false,
+      "permission_inheritance_allowed": false
+    },
+    {
+      "original_task_id": "mikey-youtube-live-035-R007",
+      "source_id": "mikey-youtube-live-035",
+      "effective_status": "partial",
+      "full_original_task_closed": false,
+      "accepted_existing_subscope_resolution": true,
+      "original_task": {
+        "question": "现场是否展示第三方照片、来电界面、聊天消息或可识别账号？",
+        "required_evidence": "全片视觉候选、原尺寸重点帧和隐私脱敏",
+        "severity": "major",
+        "reference": {
+          "path": "references/youtube-live-batch4/cross-video/youtube-live-batch4-cross-synthesis.json",
+          "locator_kind": "json_pointer",
+          "locator": "/review_catalog_as_supplied/23",
+          "file_sha256": "55640b9188cd6df24944183e0deac5a6e5ff3e32183af5bb0c9c2de128f0f941",
+          "role": "original_question_record",
+          "required_runtime_reference": true,
+          "path_base": "skill_directory",
+          "record_sha256_canonical_json": "ec8f9d44f05702721cf39a153cfaeea3fd6dbbbd5c9661e325c66887d82c921e"
+        }
+      },
+      "accepted_narrow_scope": [
+        "是否曾展示第三方人物照片：是；约00:42:24的已有低清候选可直接见到手机屏幕人物照。8/8联系表已审的历史报告亦记录该展示。"
+      ],
+      "remaining_original_scope": [
+        "原任务还包括来电/消息/账号的完整检查、重点原尺寸帧及隐私处理；本轮没有完整重做。",
+        "照片人物身份、照片真实性/授权、来电人、逐句归属、同意与结果均未解决。"
+      ],
+      "needed_evidence_or_scope_repair": [
+        "如要允许复用该素材，须完整可辨认界面顺序与明确隐私/授权证据；目前沿用排除，不放入通用知识。"
+      ],
+      "effective_decision": "accept_explicit_subscope_only",
+      "basis_scope_explanation": "除回读处置与原报告，本角色本轮实际查看已有candidate-000198.jpg，只核对人物照存在；没有读取或抄录可识别文字、电话号码或姓名。",
+      "historical_disposition": {
+        "history_only_not_current_whole_task_closure": true,
+        "historical_inventory_label": "closed_narrow_existing_disposition",
+        "prior_candidate_status_as_recorded": "closed",
+        "prior_disposition_label": "closed_question_answered_confirmed_privacy_exposure",
+        "prior_finding_as_recorded": "8/8 survey sheets were inspected. A phone screen displaying a third-party portrait/profile is visible at about 00:42:24; after about 00:49 the host uses the phone for calls, without a reliably readable contact name or number in the survey. The portrait is confirmed private material and remains excluded from reusable knowledge; its continuous call windows are preserved.",
+        "reference": {
+          "path": "references/youtube-live-batch4/delete-readiness/review-dispositions.json",
+          "locator_kind": "json_pointer",
+          "locator": "/decisions/23",
+          "file_sha256": "bd51e8317106245ea44bd074cc0a3e69025f7a327b61de9fac65eb537e248109",
+          "role": "old_disposition_history",
+          "required_runtime_reference": true,
+          "path_base": "skill_directory",
+          "record_sha256_canonical_json": "7f02e050431cde3e628bec064d6c8b93186c3d13a26eb8a4b4dbcc9e0fdc0015"
+        }
+      },
+      "packaged_evidence_bindings": [
+        {
+          "path": "references/youtube-live-batch4/delete-readiness/review-dispositions.json",
+          "locator_kind": "preserved_report_locator",
+          "locator": "$.decisions[23]",
+          "file_sha256": "bd51e8317106245ea44bd074cc0a3e69025f7a327b61de9fac65eb537e248109",
+          "role": "actual_prior_delete_disposition",
+          "required_runtime_reference": false,
+          "path_base": "skill_directory",
+          "scope_notice": "Existing text/report evidence only; no new original-audio or whole-source certification."
+        },
+        {
+          "path": "references/youtube-live-batch4/mikey-youtube-live-035/visual/review.md",
+          "locator_kind": "preserved_report_locator",
+          "locator": "full_document",
+          "file_sha256": "447874f2fc2dce6134bf33a8b66e5ef19233280d4dafd0391b0629b36aedff65",
+          "role": "existing_episode_visual_report",
+          "required_runtime_reference": false,
+          "path_base": "skill_directory",
+          "scope_notice": "Existing text/report evidence only; no new original-audio or whole-source certification."
+        }
+      ],
+      "independent_review_production_history": {
+        "required_runtime_reference": false,
+        "not_claimed_to_be_in_skill_package": true,
+        "report_label": "2026-10-05 12-task independent narrow-scope review",
+        "project_history_path": "research/v2-remediation-20261004/narrow-closure-independent-gate/result.json",
+        "report_file_sha256": "4da35ae10ec774e86d364b68171b6b6dba273dc9e5ea0b1abe7587b8e010215a",
+        "decision_record_sha256_canonical_json": "c17c8cde2238f5382f2c3f7973765829d0df045f9c0881aef6c53a4be9d23e5b",
+        "task_id": "mikey-youtube-live-035-R007",
+        "notice": "制作历史绑定，不是必需运行链接；运行时须回读上述真实包内原问题/历史引用，并保持此处限定。"
+      },
+      "limits": [
+        "本轮无新的原音回听、声纹映射、逐句听校或全片连续音画核验；已有音画文件被保存不等于已听/已看。",
+        "人物归属、同意/授权、第三方真实性、法律/医疗、隐私与实际效果不得由子问题关闭顺带开放。",
+        "知识等级、人物化、行动建议、运行许可、零权重与有限payload全部不改；既有hold/do_not_generalize继续有效。",
+        "原任务/原处置作为历史保留；只能添加明确标识子范围的状态叠加，不能写回旧closed后自动关闭原任务。",
+        "原任务severity保持；已解决子问题可另记较低severity，不能把尚待原音/连续画面的整体任务降级。"
+      ],
+      "new_audio_listening": false,
+      "new_audiovisual_verification_in_this_materialization": false,
+      "runtime_permission_change": false,
+      "knowledge_text_change": false,
+      "permission_inheritance_allowed": false
+    },
+    {
+      "original_task_id": "mikey-youtube-live-036-R001",
+      "source_id": "mikey-youtube-live-036",
+      "effective_status": "partial",
+      "full_original_task_closed": false,
+      "accepted_existing_subscope_resolution": true,
+      "original_task": {
+        "question": "搭讪前侧角度与不触碰建议是否被原音完整表达？",
+        "required_evidence": "原音和连续画面核对身体位置示范",
+        "severity": "major",
+        "reference": {
+          "path": "references/youtube-live-batch4/cross-video/youtube-live-batch4-cross-synthesis.json",
+          "locator_kind": "json_pointer",
+          "locator": "/review_catalog_as_supplied/24",
+          "file_sha256": "55640b9188cd6df24944183e0deac5a6e5ff3e32183af5bb0c9c2de128f0f941",
+          "role": "original_question_record",
+          "required_runtime_reference": true,
+          "path_base": "skill_directory",
+          "record_sha256_canonical_json": "8d034c1a3fc38b521e54661bc3efd886c19ddb0b63513a92126b8c650bde5a6e"
+        }
+      },
+      "accepted_narrow_scope": [
+        "现有自动稿377.55–405.54秒表达前侧/肩部约45度接近，并重复不要从后面触碰；保留被吓到的理由与前后问题界线。"
+      ],
+      "remaining_original_scope": [
+        "原任务明确要求原音和连续画面核对身体位置；本轮没有回听或连续观察动作。",
+        "45度并非实测精确动作、效果证明或新的行动许可。"
+      ],
+      "needed_evidence_or_scope_repair": [
+        "需在保留340–440秒连续音画中核对原句、位置示范及话者；本轮未执行。"
+      ],
+      "effective_decision": "accept_explicit_subscope_only",
+      "basis_scope_explanation": "直接回读S00060–S00083：位置、不要触碰及可能被吓到理由均连续存在；只证明提供的文字有这组限定。",
+      "historical_disposition": {
+        "history_only_not_current_whole_task_closure": true,
+        "historical_inventory_label": "closed_narrow_existing_disposition",
+        "prior_candidate_status_as_recorded": "closed",
+        "prior_disposition_label": "closed_question_answered_by_source_context",
+        "prior_finding_as_recorded": "The automatic transcript at 377.55-405.54 explicitly advises approaching to the front-side/roughly 45-degree shoulder angle and repeats that one should not touch a woman from behind. The continuous 340-440s source window is preserved. This closes the narrow wording check; it does not verify outcomes or replace ordinary safety and respect boundaries.",
+        "reference": {
+          "path": "references/youtube-live-batch4/delete-readiness/review-dispositions.json",
+          "locator_kind": "json_pointer",
+          "locator": "/decisions/24",
+          "file_sha256": "bd51e8317106245ea44bd074cc0a3e69025f7a327b61de9fac65eb537e248109",
+          "role": "old_disposition_history",
+          "required_runtime_reference": true,
+          "path_base": "skill_directory",
+          "record_sha256_canonical_json": "b5c8fe4e97da084b772034d3e95fa59dda2fa6513498c684931f5bd7adae2c60"
+        }
+      },
+      "packaged_evidence_bindings": [
+        {
+          "path": "references/youtube-live-batch4/delete-readiness/review-dispositions.json",
+          "locator_kind": "preserved_report_locator",
+          "locator": "$.decisions[24]",
+          "file_sha256": "bd51e8317106245ea44bd074cc0a3e69025f7a327b61de9fac65eb537e248109",
+          "role": "actual_prior_delete_disposition",
+          "required_runtime_reference": false,
+          "path_base": "skill_directory",
+          "scope_notice": "Existing text/report evidence only; no new original-audio or whole-source certification."
+        },
+        {
+          "path": "references/youtube-live-batch4/mikey-youtube-live-036/visual/review.md",
+          "locator_kind": "preserved_report_locator",
+          "locator": "full_document",
+          "file_sha256": "879c80b483ed3175f82ae2ec264fc0cca2bff8eb6854e89599d09c20f267272b",
+          "role": "existing_episode_visual_report",
+          "required_runtime_reference": false,
+          "path_base": "skill_directory",
+          "scope_notice": "Existing text/report evidence only; no new original-audio or whole-source certification."
+        },
+        {
+          "path": "references/youtube-live-batch4/mikey-youtube-live-036/transcript.json",
+          "locator_kind": "preserved_report_locator",
+          "locator": "segments: S00060, S00063, S00064, S00066, S00067, S00068, S00069, S00073, S00074, S00075, S00076, S00077, S00078, S00079",
+          "file_sha256": "b2cd1b86a12012ff79a25920081b3c924cf80429112af669b999cc2e3ffc72f9",
+          "role": "automatic_text_read_directly",
+          "required_runtime_reference": false,
+          "path_base": "skill_directory",
+          "scope_notice": "Existing text/report evidence only; no new original-audio or whole-source certification."
+        }
+      ],
+      "independent_review_production_history": {
+        "required_runtime_reference": false,
+        "not_claimed_to_be_in_skill_package": true,
+        "report_label": "2026-10-05 12-task independent narrow-scope review",
+        "project_history_path": "research/v2-remediation-20261004/narrow-closure-independent-gate/result.json",
+        "report_file_sha256": "4da35ae10ec774e86d364b68171b6b6dba273dc9e5ea0b1abe7587b8e010215a",
+        "decision_record_sha256_canonical_json": "1783bd707d94d4551c1643068c90633c23d78a8cd6fdee43d44351489e1a390d",
+        "task_id": "mikey-youtube-live-036-R001",
+        "notice": "制作历史绑定，不是必需运行链接；运行时须回读上述真实包内原问题/历史引用，并保持此处限定。"
+      },
+      "limits": [
+        "本轮无新的原音回听、声纹映射、逐句听校或全片连续音画核验；已有音画文件被保存不等于已听/已看。",
+        "人物归属、同意/授权、第三方真实性、法律/医疗、隐私与实际效果不得由子问题关闭顺带开放。",
+        "知识等级、人物化、行动建议、运行许可、零权重与有限payload全部不改；既有hold/do_not_generalize继续有效。",
+        "原任务/原处置作为历史保留；只能添加明确标识子范围的状态叠加，不能写回旧closed后自动关闭原任务。",
+        "原任务severity保持；已解决子问题可另记较低severity，不能把尚待原音/连续画面的整体任务降级。"
+      ],
+      "new_audio_listening": false,
+      "new_audiovisual_verification_in_this_materialization": false,
+      "runtime_permission_change": false,
+      "knowledge_text_change": false,
+      "permission_inheritance_allowed": false
+    },
+    {
+      "original_task_id": "mikey-youtube-live-036-R010",
+      "source_id": "mikey-youtube-live-036",
+      "effective_status": "partial",
+      "full_original_task_closed": false,
+      "accepted_existing_subscope_resolution": true,
+      "original_task": {
+        "question": "本期音乐播放、现场物品和可能展示的消息是否含额外教学或隐私信息？",
+        "required_evidence": "全片视觉候选与重点窗口顺序帧",
+        "severity": "major",
+        "reference": {
+          "path": "references/youtube-live-batch4/cross-video/youtube-live-batch4-cross-synthesis.json",
+          "locator_kind": "json_pointer",
+          "locator": "/review_catalog_as_supplied/33",
+          "file_sha256": "55640b9188cd6df24944183e0deac5a6e5ff3e32183af5bb0c9c2de128f0f941",
+          "role": "original_question_record",
+          "required_runtime_reference": true,
+          "path_base": "skill_directory",
+          "record_sha256_canonical_json": "0d6c3877634fc085ce2d42aba9cf17d9c837603bca4b49c38b8fc659b721d063"
+        }
+      },
+      "accepted_narrow_scope": [
+        "10/10联系表已查看；稀疏样本为固定主持机位、观众文字层及普通物品/手机，样本中未见全屏消息、家人照或独立教学画面。"
+      ],
+      "remaining_original_scope": [
+        "原任务问音乐、物品和消息是否包含额外信息；稀疏视觉不能核完所有音乐来源、歌词或极短消息。",
+        "音乐/观众留言不自动算Mikey，明确朗读也仅证明其朗读或回应，不能自动认领观点。"
+      ],
+      "needed_evidence_or_scope_repair": [
+        "若需从音乐或短消息提取内容，需相应原音/连续画面和精确材料/人物分界。"
+      ],
+      "effective_decision": "accept_explicit_subscope_only",
+      "basis_scope_explanation": "后续删除前报告第18行与处置支持普查已完成，不依赖旧manifest pending或本次猜测。",
+      "historical_disposition": {
+        "history_only_not_current_whole_task_closure": true,
+        "historical_inventory_label": "closed_narrow_existing_disposition",
+        "prior_candidate_status_as_recorded": "closed",
+        "prior_disposition_label": "closed_question_answered_with_persistent_boundary",
+        "prior_finding_as_recorded": "10/10 survey sheets were inspected. The video remains a fixed single-host camera with viewer-chat overlay and ordinary handheld objects/phone use. No full-screen message, family photo, or separate information-bearing teaching visual was found. Music and viewer-chat text remain non-Mikey material unless explicitly read aloud.",
+        "reference": {
+          "path": "references/youtube-live-batch4/delete-readiness/review-dispositions.json",
+          "locator_kind": "json_pointer",
+          "locator": "/decisions/33",
+          "file_sha256": "bd51e8317106245ea44bd074cc0a3e69025f7a327b61de9fac65eb537e248109",
+          "role": "old_disposition_history",
+          "required_runtime_reference": true,
+          "path_base": "skill_directory",
+          "record_sha256_canonical_json": "ff8d383047a77ac2eef4e029bd68f0847e3539d27b62914b4b9bb20926b18240"
+        }
+      },
+      "packaged_evidence_bindings": [
+        {
+          "path": "references/youtube-live-batch4/delete-readiness/review-dispositions.json",
+          "locator_kind": "preserved_report_locator",
+          "locator": "$.decisions[33]",
+          "file_sha256": "bd51e8317106245ea44bd074cc0a3e69025f7a327b61de9fac65eb537e248109",
+          "role": "actual_prior_delete_disposition",
+          "required_runtime_reference": false,
+          "path_base": "skill_directory",
+          "scope_notice": "Existing text/report evidence only; no new original-audio or whole-source certification."
+        },
+        {
+          "path": "references/youtube-live-batch4/mikey-youtube-live-036/visual/review.md",
+          "locator_kind": "preserved_report_locator",
+          "locator": "full_document",
+          "file_sha256": "879c80b483ed3175f82ae2ec264fc0cca2bff8eb6854e89599d09c20f267272b",
+          "role": "existing_episode_visual_report",
+          "required_runtime_reference": false,
+          "path_base": "skill_directory",
+          "scope_notice": "Existing text/report evidence only; no new original-audio or whole-source certification."
+        }
+      ],
+      "independent_review_production_history": {
+        "required_runtime_reference": false,
+        "not_claimed_to_be_in_skill_package": true,
+        "report_label": "2026-10-05 12-task independent narrow-scope review",
+        "project_history_path": "research/v2-remediation-20261004/narrow-closure-independent-gate/result.json",
+        "report_file_sha256": "4da35ae10ec774e86d364b68171b6b6dba273dc9e5ea0b1abe7587b8e010215a",
+        "decision_record_sha256_canonical_json": "92410398d1ea2992b428517b5becc0621e243354bb191c6dae85db1ba044ce98",
+        "task_id": "mikey-youtube-live-036-R010",
+        "notice": "制作历史绑定，不是必需运行链接；运行时须回读上述真实包内原问题/历史引用，并保持此处限定。"
+      },
+      "limits": [
+        "本轮无新的原音回听、声纹映射、逐句听校或全片连续音画核验；已有音画文件被保存不等于已听/已看。",
+        "人物归属、同意/授权、第三方真实性、法律/医疗、隐私与实际效果不得由子问题关闭顺带开放。",
+        "知识等级、人物化、行动建议、运行许可、零权重与有限payload全部不改；既有hold/do_not_generalize继续有效。",
+        "原任务/原处置作为历史保留；只能添加明确标识子范围的状态叠加，不能写回旧closed后自动关闭原任务。",
+        "原任务severity保持；已解决子问题可另记较低severity，不能把尚待原音/连续画面的整体任务降级。"
+      ],
+      "new_audio_listening": false,
+      "new_audiovisual_verification_in_this_materialization": false,
+      "runtime_permission_change": false,
+      "knowledge_text_change": false,
+      "permission_inheritance_allowed": false
+    }
+  ],
+  "integration_limits": [
+    "本提案只整理已经独立核验的12项处置，不新增语义或原音画验收。",
+    "未把4156整表、外部社区研究原字或未发布图像纳入提案。",
+    "原问题、自动稿、知识正文、运行脚本、权限和正式/候选文件均未修改。",
+    "11项只接受明确子范围；live030-R004原任务因范围不匹配保持open，accepted_narrow_scope为空。",
+    "包外制作历史SHA只用于追溯，不构成必须打开的运行引用。"
+  ],
+  "proposal_file_sha256": "d7f02e3b0b5c42e50adcc2981393d0ece6768982ccd1eb5f66e2a355a1f86858"
+}

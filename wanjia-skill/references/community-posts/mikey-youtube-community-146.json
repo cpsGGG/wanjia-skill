@@ -1,0 +1,50 @@
+{
+  "schema_version": "mikey-community-post-fulltext-1.0",
+  "source_id": "mikey-youtube-community-146",
+  "post_id": "UgkxNjLQc2N8mDIuotJoDYGc0VzroyetH_5A",
+  "url": "https://www.youtube.com/post/UgkxNjLQc2N8mDIuotJoDYGc0VzroyetH_5A",
+  "published_at": "2026-06-09T00:00:00.393692-07:00",
+  "date_basis": "archived_public_observation",
+  "body": "当女人说你不好的时候 你第一时间想的不是我哪里不好\n其实你要去分析他为什么觉得你不好 去思考 她目的是什么",
+  "body_kind": "verbatim_or_as_archived_in_corrected_candidate",
+  "image_refs": [
+    {
+      "image_index": 1,
+      "research_archive_path": "research/youtube-community-batch1/images/UgkxNjLQc2N8mDIuotJoDYGc0VzroyetH_5A/01.jpg",
+      "sha256": "0697f9f8d68985d4445beee4709a76e63cf4639a4b5fb07bb8842c19dd83eda8",
+      "bytes": 139011,
+      "formal_asset_policy": "reference_only_do_not_copy",
+      "safe_summary": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。"
+    }
+  ],
+  "segments": [
+    {
+      "sid": "C0146-BODY",
+      "kind": "channel_body",
+      "text": "当女人说你不好的时候 你第一时间想的不是我哪里不好\n其实你要去分析他为什么觉得你不好 去思考 她目的是什么",
+      "verbatim_allowed": true,
+      "source_scope": "public_channel_body_as_archived"
+    },
+    {
+      "sid": "C0146-IMG01",
+      "kind": "image_reference_metadata",
+      "text": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。",
+      "verbatim_allowed": false,
+      "image_reference": {
+        "image_index": 1,
+        "research_archive_path": "research/youtube-community-batch1/images/UgkxNjLQc2N8mDIuotJoDYGc0VzroyetH_5A/01.jpg",
+        "sha256": "0697f9f8d68985d4445beee4709a76e63cf4639a4b5fb07bb8842c19dd83eda8",
+        "bytes": 139011,
+        "formal_asset_policy": "reference_only_do_not_copy",
+        "safe_summary": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。"
+      }
+    }
+  ],
+  "privacy_policy": {
+    "original_images_copied": false,
+    "raw_ocr_copied": false,
+    "private_chat_transcript_copied": false,
+    "third_party_identity_confirmed": false,
+    "publication_authorization_confirmed": false
+  }
+}

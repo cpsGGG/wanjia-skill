@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "source_id": "mikey-youtube-live-018",
+  "speakers": [
+    {
+      "id": "mikey",
+      "role": "host/commentator",
+      "status": "confirmed",
+      "identity_basis": "标题标明Mikey实况；13张跨全片联系表均显示同一主播持续位于左下角小窗，开场、自称、直播互动与下播口播连续。代表帧可确认主持人身份，但不能逐句替代嘴型核验。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=RQ9O4As_1A0&t=23s",
+        "https://www.youtube.com/watch?v=RQ9O4As_1A0&t=6720s",
+        "https://www.youtube.com/watch?v=RQ9O4As_1A0&t=12519s"
+      ],
+      "notes": "只有窄窗口中可明确识别为主播自己的即时评论才标mikey_commentary；朗读游戏文字不自动代表其立场。"
+    },
+    {
+      "id": "game-character-collective",
+      "role": "collective game characters",
+      "status": "screen_confirmed_collective",
+      "identity_basis": "联系表显示真人影像游戏剧情持续占主画面，多个男女角色轮流对白。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=RQ9O4As_1A0&t=220s",
+        "https://www.youtube.com/watch?v=RQ9O4As_1A0&t=3600s",
+        "https://www.youtube.com/watch?v=RQ9O4As_1A0&t=9600s"
+      ],
+      "notes": "未逐句建立每个角色与声纹的一一对应，不能把游戏角色台词归给Mikey。"
+    },
+    {
+      "id": "game-narrator-01",
+      "role": "game narrator/system voice",
+      "status": "provisional",
+      "identity_basis": "自动稿与画面存在剧情旁白、系统通知和过场说明；未逐句听校。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=RQ9O4As_1A0&t=10490s"
+      ],
+      "notes": "与角色对白或主播朗读难分时使用重叠待核。"
+    },
+    {
+      "id": "game-screen-text-01",
+      "role": "game subtitles/options/UI",
+      "status": "screen_confirmed_collective",
+      "identity_basis": "所有抽查联系表均可见底部中文字幕、选项或剧情树界面。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=RQ9O4As_1A0&t=2760s",
+        "https://www.youtube.com/watch?v=RQ9O4As_1A0&t=4375s",
+        "https://www.youtube.com/watch?v=RQ9O4As_1A0&t=10255s"
+      ],
+      "notes": "屏幕文字是游戏材料，不是Mikey个人观点。"
+    },
+    {
+      "id": "viewer-chat-01",
+      "role": "collective live chat authors",
+      "status": "collective_placeholder",
+      "identity_basis": "联系表右侧持续显示直播评论；主播多次直接回应点赞、剧透和观众提问。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=RQ9O4As_1A0&t=23s",
+        "https://www.youtube.com/watch?v=RQ9O4As_1A0&t=6886s",
+        "https://www.youtube.com/watch?v=RQ9O4As_1A0&t=12519s"
+      ],
+      "notes": "昵称和每条评论未逐一映射；主播朗读或回应不等于同意原评论。"
+    },
+    {
+      "id": "unknown-overlap-01",
+      "role": "unresolved mixed soundtrack",
+      "status": "provisional",
+      "identity_basis": "游戏人物、主播小窗、屏幕字幕和直播评论同时存在；自动稿没有说话人标签。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=RQ9O4As_1A0&t=240s",
+        "https://www.youtube.com/watch?v=RQ9O4As_1A0&t=7200s",
+        "https://www.youtube.com/watch?v=RQ9O4As_1A0&t=10800s"
+      ],
+      "notes": "未逐句连续音画核验的主体范围均保守归入此项。"
+    }
+  ]
+}

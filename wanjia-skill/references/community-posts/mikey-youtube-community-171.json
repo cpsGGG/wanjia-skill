@@ -1,0 +1,50 @@
+{
+  "schema_version": "mikey-community-post-fulltext-1.0",
+  "source_id": "mikey-youtube-community-171",
+  "post_id": "UgkxUtrgOAAvjNs6PG1XdjsgzzvqHlWCJoph",
+  "url": "https://www.youtube.com/post/UgkxUtrgOAAvjNs6PG1XdjsgzzvqHlWCJoph",
+  "published_at": "2026-07-29T00:30:00.338238-07:00",
+  "date_basis": "archived_public_observation",
+  "body": "把自己想象成一辆超跑\n去做自身建设 要求保养自己\n那么就会有车模贴上来",
+  "body_kind": "verbatim_or_as_archived_in_corrected_candidate",
+  "image_refs": [
+    {
+      "image_index": 1,
+      "research_archive_path": "research/youtube-community-batch1/images/UgkxUtrgOAAvjNs6PG1XdjsgzzvqHlWCJoph/01.jpg",
+      "sha256": "544c147e0614e46bf1f03a65eed6005cbcdeed3b4f06d7ec18704f879ad89f29",
+      "bytes": 297514,
+      "formal_asset_policy": "reference_only_do_not_copy",
+      "safe_summary": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。"
+    }
+  ],
+  "segments": [
+    {
+      "sid": "C0171-BODY",
+      "kind": "channel_body",
+      "text": "把自己想象成一辆超跑\n去做自身建设 要求保养自己\n那么就会有车模贴上来",
+      "verbatim_allowed": true,
+      "source_scope": "public_channel_body_as_archived"
+    },
+    {
+      "sid": "C0171-IMG01",
+      "kind": "image_reference_metadata",
+      "text": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。",
+      "verbatim_allowed": false,
+      "image_reference": {
+        "image_index": 1,
+        "research_archive_path": "research/youtube-community-batch1/images/UgkxUtrgOAAvjNs6PG1XdjsgzzvqHlWCJoph/01.jpg",
+        "sha256": "544c147e0614e46bf1f03a65eed6005cbcdeed3b4f06d7ec18704f879ad89f29",
+        "bytes": 297514,
+        "formal_asset_policy": "reference_only_do_not_copy",
+        "safe_summary": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。"
+      }
+    }
+  ],
+  "privacy_policy": {
+    "original_images_copied": false,
+    "raw_ocr_copied": false,
+    "private_chat_transcript_copied": false,
+    "third_party_identity_confirmed": false,
+    "publication_authorization_confirmed": false
+  }
+}

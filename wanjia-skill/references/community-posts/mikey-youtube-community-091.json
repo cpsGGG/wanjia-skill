@@ -1,0 +1,50 @@
+{
+  "schema_version": "mikey-community-post-fulltext-1.0",
+  "source_id": "mikey-youtube-community-091",
+  "post_id": "UgkxFoVP7oQdjKCWR0q01Rh_-tC1VK5Rn1dr",
+  "url": "https://www.youtube.com/post/UgkxFoVP7oQdjKCWR0q01Rh_-tC1VK5Rn1dr",
+  "published_at": "2025-12-17T02:00:00.316185-08:00",
+  "date_basis": "archived_public_observation",
+  "body": "高低位的概念是什么？\n\n实操的同时给你讲解",
+  "body_kind": "verbatim_or_as_archived_in_corrected_candidate",
+  "image_refs": [
+    {
+      "image_index": 1,
+      "research_archive_path": "research/youtube-community-batch1/images/UgkxFoVP7oQdjKCWR0q01Rh_-tC1VK5Rn1dr/01.jpg",
+      "sha256": "04115b03826f1ab4628d43fe96ead37de95bb38d255e905900797a4962988640",
+      "bytes": 187178,
+      "formal_asset_policy": "reference_only_do_not_copy",
+      "safe_summary": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。"
+    }
+  ],
+  "segments": [
+    {
+      "sid": "C0091-BODY",
+      "kind": "channel_body",
+      "text": "高低位的概念是什么？\n\n实操的同时给你讲解",
+      "verbatim_allowed": true,
+      "source_scope": "public_channel_body_as_archived"
+    },
+    {
+      "sid": "C0091-IMG01",
+      "kind": "image_reference_metadata",
+      "text": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。",
+      "verbatim_allowed": false,
+      "image_reference": {
+        "image_index": 1,
+        "research_archive_path": "research/youtube-community-batch1/images/UgkxFoVP7oQdjKCWR0q01Rh_-tC1VK5Rn1dr/01.jpg",
+        "sha256": "04115b03826f1ab4628d43fe96ead37de95bb38d255e905900797a4962988640",
+        "bytes": 187178,
+        "formal_asset_policy": "reference_only_do_not_copy",
+        "safe_summary": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。"
+      }
+    }
+  ],
+  "privacy_policy": {
+    "original_images_copied": false,
+    "raw_ocr_copied": false,
+    "private_chat_transcript_copied": false,
+    "third_party_identity_confirmed": false,
+    "publication_authorization_confirmed": false
+  }
+}

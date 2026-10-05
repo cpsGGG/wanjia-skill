@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-016",
+  "youtube_id": "cIE63w6uJXs",
+  "decision": "reuse",
+  "reuse_of": "o6fS0sTCYcU",
+  "formal_weight_if_integrated": 0,
+  "compared_sources": [
+    {"scope": "formal_mikey_guide", "source_count": 202, "comparison": "youtube_id_url_normalized_transcript_and_audio_alignment"},
+    {"source_id": "o6fS0sTCYcU", "comparison": "formal transcript hash, ordered passage, studio visual and independent audio cross-correlation"},
+    {"scope": "researched_video-01_to_video-05_and_short-01", "comparison": "identity and normalized transcript screen"}
+  ],
+  "evidence": [
+    {"type": "identity", "result": "different YouTube ID; no formal exact-ID match"},
+    {"type": "formal_target_integrity", "result": "pass", "detail": "The local o6fS0sTCYcU transcript SHA-256 matches the current formal source-index entry."},
+    {"type": "audio_alignment", "result": "same_underlying_livestream_passage", "detail": "Independent 1 kHz normalized cross-correlation against the local formal-source media produced peaks at short/live 3s/2792.064s=0.4891, 10s/2802.164s=0.4913, 35s/2828.202s=0.5234 and 62s/2856.664s=0.4359."},
+    {"type": "transcript_and_visual", "result": "edited_vertical_excerpt", "detail": "The world-as-game, death/continued-world question, people-as-NPC and playground/ticket sequence occurs in order; all 25 sampled frames show the corresponding beige-jacket livestream with chat overlay."}
+  ],
+  "boundary": "A vertical edit of formal source o6fS0sTCYcU. Preserve only as an alternate public pointer and subtitle/visual aid; add zero independent source, claim or corroboration weight."
+}

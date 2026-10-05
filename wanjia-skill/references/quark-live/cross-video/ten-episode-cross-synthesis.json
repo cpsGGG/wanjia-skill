@@ -1,0 +1,709 @@
+{
+  "schema_version": "1.0",
+  "scope": {
+    "source_ids": [
+      "quark-live-001",
+      "quark-live-002",
+      "quark-live-003",
+      "quark-live-004",
+      "quark-live-005",
+      "quark-live-006",
+      "quark-live-007",
+      "quark-live-008",
+      "quark-live-009",
+      "quark-live-010"
+    ],
+    "knowledge_count": 324,
+    "evidence_boundary": "逐期分析与结构化知识来自未逐句听校自动稿；部分期有静帧视觉复核。不能据此生成准确引语、保证人物归属或证明线下事件。"
+  },
+  "themes": [
+    {
+      "theme_id": "T01",
+      "title": "吸引由入口条件与关系行为共同构成",
+      "level": "上位判断",
+      "claim": "外貌、照片、身高、财富与地位影响入口或概率，但对方最终会结合语气、边界、一致性、选择和他人反应判断你是什么样的人。",
+      "reasoning": [
+        "展示面让陌生人决定是否开始接触。",
+        "真实互动中的行为线索会改变外部条件的含义。",
+        "直接自称强或刻意炫耀可能暴露证明需求。"
+      ],
+      "methods": [
+        "先改善干净、合适、真实的入口条件。",
+        "再检查本人在不同对象前是否稳定、自然并能表达边界。",
+        "用真实行为呈现能力，少靠自我标签。"
+      ],
+      "conditions": [
+        "分析线上展示、初次接触或关系吸引力时",
+        "必须把渠道入口与后续相处分开"
+      ],
+      "limits": [
+        "不能据此说外貌或现实资源不重要。",
+        "潜沟通与想象力不是读心术，也不能证明同意。",
+        "软硬价值和潜沟通术语仍需板书或原音核对。"
+      ],
+      "source_knowledge_ids": [
+        "quark-live-001-k002",
+        "quark-live-001-k013",
+        "quark-live-001-k015",
+        "quark-live-001-k016",
+        "quark-live-001-k017",
+        "quark-live-003-k007",
+        "quark-live-003-k010",
+        "quark-live-006-k009",
+        "quark-live-006-k011",
+        "quark-live-008-k043",
+        "quark-live-008-k045",
+        "quark-live-010-K014",
+        "quark-live-010-K015",
+        "quark-live-010-K023",
+        "quark-live-010-K024"
+      ],
+      "source_ids": ["quark-live-001", "quark-live-003", "quark-live-006", "quark-live-008", "quark-live-010"],
+      "speaker_scope": ["Mikey 跨期主张", "女性朋友观点经 Mikey 转述后纳入其解释框架"],
+      "confidence": "medium_high_repeated",
+      "conflicts": ["C05", "C06"]
+    },
+    {
+      "theme_id": "T02",
+      "title": "内核是想要结果但不靠结果证明价值",
+      "level": "上位判断",
+      "claim": "更稳定的状态是意图清楚、愿意行动，同时接受对方拒绝和结果不确定；需要某个结果证明自己够好，会转化为讨好、模仿、装强或索取。",
+      "reasoning": [
+        "结果承担自我价值证明时，人会持续自我审查。",
+        "自我审查和扮演会通过行为暴露不一致。",
+        "放下证明任务后，需求感才可能转成清楚意图。"
+      ],
+      "methods": [
+        "区分真实偏好、恐惧驱动和受限习惯。",
+        "表达兴趣后保留自己的生活安排。",
+        "把失败后的价值和选择写清楚，不用结果作唯一证明。"
+      ],
+      "conditions": ["表达兴趣、邀约或重大生活选择时", "本人明显因单一对象反馈而失去稳定时"],
+      "limits": [
+        "第九期没有提供可独立复现的创伤处理流程。",
+        "不能用真内核或假内核给用户做心理诊断。",
+        "不依赖结果不等于隐瞒意图或逃避关系责任。"
+      ],
+      "source_knowledge_ids": [
+        "quark-live-001-k005",
+        "quark-live-001-k014",
+        "quark-live-001-k017",
+        "quark-live-006-k001",
+        "quark-live-006-k014",
+        "quark-live-007-k007",
+        "quark-live-007-k019",
+        "quark-live-009-K011",
+        "quark-live-009-K013",
+        "quark-live-009-K014",
+        "quark-live-009-K018",
+        "quark-live-009-K022",
+        "quark-live-010-K017",
+        "quark-live-010-K018",
+        "quark-live-010-K019"
+      ],
+      "source_ids": ["quark-live-001", "quark-live-006", "quark-live-007", "quark-live-009", "quark-live-010"],
+      "speaker_scope": ["Mikey 跨期主张"],
+      "confidence": "medium_high_repeated",
+      "conflicts": ["C05", "C08"]
+    },
+    {
+      "theme_id": "T03",
+      "title": "结果诊断是目标、行动、时间、方法与反馈",
+      "level": "方法论",
+      "claim": "单次结果有随机性；长期没有进展时，应依次检查目标是否明确、是否行动、是否持续、方法是否有效，而不是预先保证结果或只增加数量。",
+      "reasoning": [
+        "行动提供机会，时间提供持续样本，有效行动率代表方法质量。",
+        "对方选择和环境始终是不可控变量。",
+        "记录行为与反馈，才能定位真实瓶颈。"
+      ],
+      "methods": [
+        "没开始就缩小第一步。",
+        "行动断续就建立可持续频率。",
+        "长期重复无进展就复盘入口、表达、邀约和约会环节。",
+        "奖励完成行动，同时用反馈修正。"
+      ],
+      "conditions": ["分析长期无结果或执行困难时"],
+      "limits": [
+        "结果公式是教学模型，不是可计算的科学定律。",
+        "个人次数、转化率和课程效果没有独立统计。",
+        "不能承诺某个具体对象的结果。"
+      ],
+      "source_knowledge_ids": [
+        "quark-live-006-k004",
+        "quark-live-006-k019",
+        "quark-live-006-k025",
+        "quark-live-006-k037",
+        "quark-live-008-k004",
+        "quark-live-008-k006",
+        "quark-live-008-k007",
+        "quark-live-008-k008",
+        "quark-live-008-k009",
+        "quark-live-008-k014",
+        "quark-live-008-k015",
+        "quark-live-008-k016",
+        "quark-live-008-k017",
+        "quark-live-008-k019",
+        "quark-live-008-k025",
+        "quark-live-008-k040",
+        "quark-live-008-k042"
+      ],
+      "source_ids": ["quark-live-006", "quark-live-008"],
+      "speaker_scope": ["Mikey；完整公式主要集中在第八期"],
+      "confidence": "medium_single_episode_model_with_cross_support",
+      "conflicts": ["C05"]
+    },
+    {
+      "theme_id": "T04",
+      "title": "技术、基本面和内核三线并进",
+      "level": "学习方法",
+      "claim": "技术是降低执行负担和提高效率的工具，基本面降低入口阻力，内核支持意外反馈下的稳定；三者不能互相替代。",
+      "reasoning": [
+        "新手需要简单结构才能开始。",
+        "结构只有经过真实反馈才能变成个人能力。",
+        "只背话术或信念会在意外回复和挫折下失效。"
+      ],
+      "methods": [
+        "先借用最小结构行动。",
+        "记录自己做了什么和对方如何反馈。",
+        "用自己的话重述判断、理由、条件和例子。",
+        "发现错误练习时及时校正，避免固化。"
+      ],
+      "conditions": ["技能学习和新手训练", "需要从理论迁移到现实行动时"],
+      "limits": [
+        "公式服务新手，不代表高手唯一打法。",
+        "会讲明白不等于实践已经有效。",
+        "课程效果与营销数字不采信。"
+      ],
+      "source_knowledge_ids": [
+        "quark-live-001-k007",
+        "quark-live-001-k020",
+        "quark-live-001-k027",
+        "quark-live-001-k030",
+        "quark-live-004-K001",
+        "quark-live-004-K002",
+        "quark-live-005-k012",
+        "quark-live-005-k013",
+        "quark-live-006-k008",
+        "quark-live-006-k020",
+        "quark-live-006-k025",
+        "quark-live-006-k026",
+        "quark-live-006-k037",
+        "quark-live-009-K002",
+        "quark-live-009-K003",
+        "quark-live-009-K019",
+        "quark-live-010-K009",
+        "quark-live-010-K030"
+      ],
+      "source_ids": ["quark-live-001", "quark-live-004", "quark-live-005", "quark-live-006", "quark-live-009", "quark-live-010"],
+      "speaker_scope": ["Mikey 跨期主张", "Tinder 王的公式化能力经 Mikey 认可"],
+      "confidence": "medium_high_repeated",
+      "conflicts": ["C03"]
+    },
+    {
+      "theme_id": "T05",
+      "title": "展示面负责入口，线上导向现实互动",
+      "level": "渠道判断",
+      "claim": "展示面影响陌生人是否愿意开始接触，网聊负责建立联系和判断窗口，但线下约会更能检验一个人的持续一致性。",
+      "reasoning": [
+        "软件中对方只能先看照片和资料。",
+        "线上表现可以短时修饰，线下长时间相处更难伪装。",
+        "加微信、网聊、邀约和约会是连续环节。"
+      ],
+      "methods": [
+        "展示真实生活和品味，减少用力炫耀。",
+        "分别复盘展示面、微信互动、邀约和约会。",
+        "已有窗口时把互动推进到现实安排。"
+      ],
+      "conditions": ["软件认识或线下认识后转微信", "需要区分哪个环节造成阻力时"],
+      "limits": [
+        "现场兴趣弱、异地或现实时间未定时，需要更多线上判断。",
+        "线上导流不等于越快见面越好。",
+        "平台差异和算法口述未独立验证。"
+      ],
+      "source_knowledge_ids": [
+        "quark-live-001-k002",
+        "quark-live-001-k004",
+        "quark-live-001-k018",
+        "quark-live-001-k028",
+        "quark-live-002-k002",
+        "quark-live-002-k003",
+        "quark-live-002-k004",
+        "quark-live-002-k007",
+        "quark-live-002-k018",
+        "quark-live-006-k003",
+        "quark-live-006-k005",
+        "quark-live-006-k006",
+        "quark-live-007-k039",
+        "quark-live-010-K001",
+        "quark-live-010-K013"
+      ],
+      "source_ids": ["quark-live-001", "quark-live-002", "quark-live-006", "quark-live-007", "quark-live-010"],
+      "speaker_scope": ["Mikey 跨期主张"],
+      "confidence": "medium_high_repeated",
+      "conflicts": ["C04"]
+    },
+    {
+      "theme_id": "T06",
+      "title": "聊她、聊我、聊我们是一张动态内容地图",
+      "level": "互动方法",
+      "claim": "聊天应在了解对方、表达自己和建立共同情境之间动态切换，具体台词和固定比例都不是核心。",
+      "reasoning": [
+        "只追问对方容易形成审讯。",
+        "只讲自己会失去双向性。",
+        "基础不足时持续聊我们会显得需求过强。",
+        "真实回复比某句金句更能说明方向。"
+      ],
+      "methods": [
+        "围绕真实生活交换具体小事。",
+        "从关键词发散多个方向，再选适合当前关系的内容。",
+        "对方不接原问题时不必追回，观察其真正愿意谈什么。",
+        "重要边界和邀约认真说清，其余内容用自己的语言。"
+      ],
+      "conditions": ["双方仍自愿参与互动", "根据阶段和回复动态调整"],
+      "limits": [
+        "不能把聊我们机械化为性话题或快速升级。",
+        "话多、话少和幽默都不是固定吸引规则。",
+        "截图缺失时不能重建精确消息顺序。"
+      ],
+      "source_knowledge_ids": [
+        "quark-live-001-k009",
+        "quark-live-001-k010",
+        "quark-live-002-k009",
+        "quark-live-002-k010",
+        "quark-live-002-k011",
+        "quark-live-002-k012",
+        "quark-live-002-k015",
+        "quark-live-003-k004",
+        "quark-live-003-k005",
+        "quark-live-004-K008",
+        "quark-live-004-K010",
+        "quark-live-004-K021",
+        "quark-live-004-K023",
+        "quark-live-005-k005",
+        "quark-live-005-k008",
+        "quark-live-005-k009",
+        "quark-live-010-K009",
+        "quark-live-010-K010",
+        "quark-live-010-K011"
+      ],
+      "source_ids": ["quark-live-001", "quark-live-002", "quark-live-003", "quark-live-004", "quark-live-005", "quark-live-010"],
+      "speaker_scope": ["主要为 Mikey", "部分循环细节来自 Tinder 王案例"],
+      "confidence": "medium_high_repeated",
+      "conflicts": ["C03"]
+    },
+    {
+      "theme_id": "T07",
+      "title": "窗口看双向参与，投入只表示参与",
+      "level": "判断方法",
+      "claim": "持续回应、主动提问、延伸话题、安排时间和现实行动可作为兴趣窗口；任何单一信号都不能自动证明喜欢、承诺或同意。",
+      "reasoning": [
+        "字数和单次情绪受习惯、忙碌和情境影响。",
+        "主动创造内容与采取行动更能显示参与程度。",
+        "技巧只能放大已有窗口，不能从零保证兴趣。"
+      ],
+      "methods": [
+        "区分无窗口、被动回复、双向兴趣和已约定四种状态。",
+        "按参与强度分配时间。",
+        "对方不参与或明确拒绝时停止推进。"
+      ],
+      "conditions": ["判断是否继续聊天、邀约或投入时间时"],
+      "limits": [
+        "绿灯、投资和情绪都不是性同意。",
+        "一次回复不能判断人格或长期意图。",
+        "逆向合理化因果未被独立验证。"
+      ],
+      "source_knowledge_ids": [
+        "quark-live-002-k001",
+        "quark-live-002-k013",
+        "quark-live-003-k003",
+        "quark-live-003-k008",
+        "quark-live-004-K006",
+        "quark-live-004-K009",
+        "quark-live-004-K012",
+        "quark-live-004-K013",
+        "quark-live-004-K025",
+        "quark-live-008-k002",
+        "quark-live-008-k027",
+        "quark-live-008-k034",
+        "quark-live-010-K007",
+        "quark-live-010-K008",
+        "quark-live-010-K025"
+      ],
+      "source_ids": ["quark-live-002", "quark-live-003", "quark-live-004", "quark-live-008", "quark-live-010"],
+      "speaker_scope": ["Mikey 跨期主张", "投资理论主要集中在第十期"],
+      "confidence": "medium_repeated_with_high_risk_term",
+      "conflicts": ["C02", "C08"]
+    },
+    {
+      "theme_id": "T08",
+      "title": "邀约从自然切入点落到具体安排",
+      "level": "行动方法",
+      "claim": "有基础参与时，邀约可先测试共同活动的可能性，再逐步明确日期、地点和活动；现实时间异议需要协调，本人失约需要补救。",
+      "reasoning": [
+        "自然切入点降低突然施压。",
+        "具体安排把模糊兴趣转成可验证行动。",
+        "反复邀约冷淡对象会传递稀缺和索取。"
+      ],
+      "methods": [
+        "从当前话题接到共同活动。",
+        "有参与后给具体时间地点。",
+        "对实际安排直接协调。",
+        "未立刻答应时等待新信息；明确拒绝则停止。"
+      ],
+      "conditions": ["已有基本兴趣或互动窗口", "双方均有现实退出空间"],
+      "limits": [
+        "未答应只是待定，不是无限推进许可。",
+        "熟人和职场需额外评估持续接触与权力后果。",
+        "邀约不等于后续亲密同意。"
+      ],
+      "source_knowledge_ids": [
+        "quark-live-001-k019",
+        "quark-live-001-k021",
+        "quark-live-002-k012",
+        "quark-live-002-k013",
+        "quark-live-004-K011",
+        "quark-live-004-K012",
+        "quark-live-004-K026",
+        "quark-live-005-k011",
+        "quark-live-005-k017",
+        "quark-live-005-k024",
+        "quark-live-005-k027",
+        "quark-live-008-k035",
+        "quark-live-010-K002",
+        "quark-live-010-K003",
+        "quark-live-010-K028"
+      ],
+      "source_ids": ["quark-live-001", "quark-live-002", "quark-live-004", "quark-live-005", "quark-live-008", "quark-live-010"],
+      "speaker_scope": ["Mikey 原则", "模糊邀约公式的部分步骤来自 Tinder 王／嘉宾"],
+      "confidence": "medium_repeated_speaker_mixed",
+      "conflicts": ["C01", "C02"]
+    },
+    {
+      "theme_id": "T09",
+      "title": "边界是本人规则与双方选择的交点",
+      "level": "上位判断",
+      "claim": "先弄清自己的目标、需求、时间、物质、情绪和距离规则，再及时直接表达；对方也有独立边界，接受拒绝和不匹配是边界的一部分。",
+      "reasoning": [
+        "想法与行动分裂会积累痛苦和怨恨。",
+        "清楚规则使表达更一致。",
+        "边界若只要求别人服从，就退化为控制。"
+      ],
+      "methods": [
+        "列出少量最重要原则。",
+        "不适及时用肯定句表达。",
+        "按本人标准筛选，同时允许对方离开。",
+        "保护工作、休息和长期目标的时间。"
+      ],
+      "conditions": ["自愿关系和日常社交", "本人边界反复守不住或过度僵硬时"],
+      "limits": [
+        "边界不等于随心所欲。",
+        "性、肢体、未成年人、职场和医疗问题需明确法律与专业边界。",
+        "高风险案例不能用潜沟通替代明确同意。"
+      ],
+      "source_knowledge_ids": [
+        "quark-live-001-k013",
+        "quark-live-001-k023",
+        "quark-live-001-k024",
+        "quark-live-001-k035",
+        "quark-live-006-k002",
+        "quark-live-006-k022",
+        "quark-live-006-k027",
+        "quark-live-007-k002",
+        "quark-live-007-k003",
+        "quark-live-007-k004",
+        "quark-live-007-k005",
+        "quark-live-007-k006",
+        "quark-live-007-k009",
+        "quark-live-007-k018",
+        "quark-live-007-k019",
+        "quark-live-007-k020",
+        "quark-live-007-k023",
+        "quark-live-007-k040",
+        "quark-live-010-K028",
+        "quark-live-010-K029"
+      ],
+      "source_ids": ["quark-live-001", "quark-live-006", "quark-live-007", "quark-live-010"],
+      "speaker_scope": ["Mikey；第七期为集中讲授"],
+      "confidence": "medium_high_repeated",
+      "conflicts": ["C01", "C02", "C08"]
+    },
+    {
+      "theme_id": "T10",
+      "title": "打法随渠道、距离、经验和目标变化",
+      "level": "适用条件",
+      "claim": "白天与夜店、软件与线下、本地与异地、新手与熟练者需要不同节奏；一致性指核心意图和边界稳定，不是所有场景使用同一语气。",
+      "reasoning": [
+        "不同场景的安全感、能量、信息和现实后果不同。",
+        "新手需要专项练习，熟练后才能自然化。",
+        "异地长聊需要更多时间资源，线下效率打法依赖约会能力。"
+      ],
+      "methods": [
+        "先确定渠道、距离、时间资源和当前能力。",
+        "选择匹配的训练与沟通强度。",
+        "保留核心边界，同时调整具体表达。"
+      ],
+      "conditions": ["比较不同案例或迁移方法时"],
+      "limits": [
+        "Tinder 王的异地长聊不能归为 Mikey 当前统一方法。",
+        "情境适配不能成为欺骗或越界理由。"
+      ],
+      "source_knowledge_ids": [
+        "quark-live-001-k036",
+        "quark-live-003-k001",
+        "quark-live-003-k002",
+        "quark-live-003-k013",
+        "quark-live-003-k018",
+        "quark-live-006-k016",
+        "quark-live-006-k017",
+        "quark-live-007-k012",
+        "quark-live-007-k044",
+        "quark-live-008-k031",
+        "quark-live-008-k032",
+        "quark-live-008-k044"
+      ],
+      "source_ids": ["quark-live-001", "quark-live-003", "quark-live-006", "quark-live-007", "quark-live-008"],
+      "speaker_scope": ["Mikey 与 Tinder 王对照；嘉宾方法单独保留"],
+      "confidence": "medium_context_dependent",
+      "conflicts": ["C04", "C06"]
+    },
+    {
+      "theme_id": "T11",
+      "title": "长期关系不替代个人生活与诚实协商",
+      "level": "关系与生活",
+      "claim": "个人职业、住房、休息和长期目标不应全部服务于获得伴侣；长期关系仍要求前后一致、明确承诺能力和关系边界。",
+      "reasoning": [
+        "把全部生活压在关系结果上会强化稀缺和失去本人目标。",
+        "对方的道德标准不会因本人价值高而消失。",
+        "普通人不必复制 Mikey 的私人多关系路径。"
+      ],
+      "methods": [
+        "分别问清职业、生活方式和关系真正想要什么。",
+        "只作能履行的承诺。",
+        "提前说明关系结构并接受不匹配。",
+        "重大考试、工作和身体恢复按现实优先级安排。"
+      ],
+      "conditions": ["长期关系、非排他关系或重大人生选择"],
+      "limits": [
+        "多关系案例缺少双方完整视角。",
+        "适量聊我们等关系维系比例未被验证。",
+        "诚实、知情同意和健康边界需要独立补全。"
+      ],
+      "source_knowledge_ids": [
+        "quark-live-002-k019",
+        "quark-live-002-k021",
+        "quark-live-002-k022",
+        "quark-live-003-k024",
+        "quark-live-006-k028",
+        "quark-live-006-k032",
+        "quark-live-007-k021",
+        "quark-live-007-k027",
+        "quark-live-007-k028",
+        "quark-live-007-k037",
+        "quark-live-008-k025",
+        "quark-live-010-K019",
+        "quark-live-010-K027",
+        "quark-live-010-K029"
+      ],
+      "source_ids": ["quark-live-002", "quark-live-003", "quark-live-006", "quark-live-007", "quark-live-008", "quark-live-010"],
+      "speaker_scope": ["Mikey 回答与个人立场；观众的关系经历不归入 Mikey 自述"],
+      "confidence": "medium_repeated_with_private_case_limits",
+      "conflicts": ["C05"]
+    },
+    {
+      "theme_id": "T12",
+      "title": "回答先判断方向，再给小步和观察标准",
+      "level": "回答组织",
+      "claim": "有材料支持的回答顺序是：先给核心判断，补问会改变判断的情境，解释理由链，给一个本人可控的小步，再说明观察什么反馈和何时停止。",
+      "reasoning": [
+        "Mikey 常把逐句焦虑拉回目标、方向和出发点。",
+        "抽象问题缺少目标、现状、行动量和卡点时，无法给出有效答案。",
+        "行动后按真实反馈修正，才能避免把直播金句当保证。"
+      ],
+      "methods": [
+        "开头用一句直接判断。",
+        "只补问渠道、关系阶段、最近反馈、目标和已做行动。",
+        "区分材料原观点、跨期归纳和用于新情境的推测。",
+        "给可观察的下一步与停止标准。",
+        "最后用一句上位判断收束。"
+      ],
+      "conditions": ["使用指南回答用户具体问题时"],
+      "limits": [
+        "直接口吻不能变成绝对成功承诺。",
+        "不能编造 Mikey 原话、经历或身份。",
+        "高风险、医疗、法律和心理诊断问题需转向可靠专业来源。"
+      ],
+      "source_knowledge_ids": [
+        "quark-live-001-k030",
+        "quark-live-002-k001",
+        "quark-live-002-k015",
+        "quark-live-004-K006",
+        "quark-live-004-K023",
+        "quark-live-005-k012",
+        "quark-live-006-k023",
+        "quark-live-008-k014",
+        "quark-live-008-k015",
+        "quark-live-008-k019",
+        "quark-live-008-k025",
+        "quark-live-008-k029",
+        "quark-live-010-K008",
+        "quark-live-010-K017",
+        "quark-live-010-K018",
+        "quark-live-010-K025",
+        "quark-live-010-K030"
+      ],
+      "source_ids": ["quark-live-001", "quark-live-002", "quark-live-004", "quark-live-005", "quark-live-006", "quark-live-008", "quark-live-010"],
+      "speaker_scope": ["从 Mikey 多期授课与答疑顺序归纳；不是其明确公布的固定答题模板"],
+      "confidence": "medium_cross_episode_inference",
+      "conflicts": []
+    }
+  ],
+  "global_conflicts": [
+    {
+      "conflict_id": "C01",
+      "title": "尊重边界与操控推进并存",
+      "sides": [
+        "平等、尊重、及时表达边界并接受失去",
+        "撒谎收集线索、夺手机、打断或覆盖情绪、被拒后重新施压"
+      ],
+      "source_knowledge_ids": [
+        "quark-live-001-k024",
+        "quark-live-001-k029",
+        "quark-live-001-k031",
+        "quark-live-001-k032",
+        "quark-live-001-k033",
+        "quark-live-001-k034",
+        "quark-live-007-k005",
+        "quark-live-007-k018",
+        "quark-live-007-k040",
+        "quark-live-007-k042"
+      ],
+      "handling": "不可调和为统一方法。高风险推进仅作人物观点记录，不转成行动建议。"
+    },
+    {
+      "conflict_id": "C02",
+      "title": "接受拒绝与拒绝越坚决越渴望冲突",
+      "sides": ["明确拒绝后停止并接受对方选择", "把强烈拒绝解释为隐藏渴望"],
+      "source_knowledge_ids": ["quark-live-003-k017", "quark-live-006-k034", "quark-live-007-k018", "quark-live-010-K029"],
+      "handling": "以明确、持续、可撤回的同意为应用边界，不以心理推断覆盖拒绝。"
+    },
+    {
+      "conflict_id": "C03",
+      "title": "真实一致与批量公式冲突",
+      "sides": ["用自己的语言自然表达，不复制人设", "批量话术、固定循环和工业化流程"],
+      "source_knowledge_ids": ["quark-live-001-k022", "quark-live-001-k029", "quark-live-001-k036", "quark-live-005-k012", "quark-live-010-K009", "quark-live-010-K011"],
+      "handling": "只保留公式作为本人下一步的脚手架；不得用其正当化伪造身份、生活或感受。"
+    },
+    {
+      "conflict_id": "C04",
+      "title": "快速转线下与异地长周期预热并存",
+      "sides": ["Mikey 偏线上导流和线下效率", "Tinder 王偏异地长聊、冷热切换和预期建设"],
+      "source_knowledge_ids": ["quark-live-001-k004", "quark-live-001-k018", "quark-live-003-k001", "quark-live-003-k018", "quark-live-010-K001", "quark-live-010-K013"],
+      "handling": "按距离、时间资源、现场兴趣和线下能力分别使用，不合成单一标准流程。"
+    },
+    {
+      "conflict_id": "C05",
+      "title": "不靠认可证明价值与数量征服叙事并存",
+      "sides": ["结果和人数不能建立稳定自信", "用人数、收尾和竞争表现能力"],
+      "source_knowledge_ids": ["quark-live-005-k021", "quark-live-006-k001", "quark-live-006-k002", "quark-live-006-k031", "quark-live-009-K007"],
+      "handling": "保留第六期呈现的价值排序变化，不把早期数量追逐与当前本人选择写成同时一致。"
+    },
+    {
+      "conflict_id": "C06",
+      "title": "稳定一致与情境适配的表面冲突",
+      "sides": ["不因对象强弱而改变自我位置", "按上司、陌生人、白天、夜店和渠道调整表达"],
+      "source_knowledge_ids": ["quark-live-001-k012", "quark-live-006-k016", "quark-live-007-k012", "quark-live-008-k044"],
+      "handling": "解释为核心意图和边界稳定、具体表达随现实角色与后果调整。"
+    },
+    {
+      "conflict_id": "C07",
+      "title": "性健康建议前后冲突",
+      "sides": ["建议使用安全套并重视检测", "展示无保护行为后轻率回应事后用药"],
+      "source_knowledge_ids": ["quark-live-003-k021", "quark-live-004-K027"],
+      "handling": "后者不得进入指南健康建议；相关问题转向专业医疗来源。"
+    },
+    {
+      "conflict_id": "C08",
+      "title": "观察投入与操控投资之间的边界",
+      "sides": ["用主动提问和现实行动判断双向参与", "用逆向合理化或成交思维制造投入"],
+      "source_knowledge_ids": ["quark-live-010-K007", "quark-live-010-K008", "quark-live-010-K020", "quark-live-010-K021", "quark-live-010-K025"],
+      "handling": "只保留观察双向参与的部分；投入不等于承诺、性同意或永久义务。"
+    }
+  ],
+  "speaker_boundary_notes": [
+    {
+      "scope": "quark-live-001_to_003",
+      "note": "Mikey 与 Tinder 王／嘉宾交替频繁。模糊邀约循环、批量问在干嘛、提问反馈再提问、异地前热后冷主要有嘉宾来源，只能标为嘉宾方法及 Mikey 的认可或评论。",
+      "source_knowledge_ids": ["quark-live-001-k021", "quark-live-001-k022", "quark-live-001-k025", "quark-live-001-k036", "quark-live-003-k001", "quark-live-003-k018"]
+    },
+    {
+      "scope": "audience",
+      "note": "观众问题、自报经历和评论只构成回答情境；除非 Mikey 明确认可、反驳或展开，不归为其主张。",
+      "source_knowledge_ids": ["quark-live-008-k029", "quark-live-009-K001", "quark-live-010-K027"]
+    },
+    {
+      "scope": "case_and_screenshot",
+      "note": "聊天截图证明直播展示过消息，不证明账号实际持有人、线下事件、同意过程或因果效果；电话未分轨段不能把双方话语都归给 Mikey。",
+      "source_knowledge_ids": ["quark-live-002-k023", "quark-live-004-K024", "quark-live-005-k020", "quark-live-005-k029"]
+    },
+    {
+      "scope": "quoted_origin",
+      "note": "男人的魅力来自女人的想象力最初是 Mikey 转述女性朋友，之后才被他纳入自己的强行为线索解释。",
+      "source_knowledge_ids": ["quark-live-001-k016", "quark-live-003-k007"]
+    },
+    {
+      "scope": "quark-live-007_to_010",
+      "note": "主体大概率为 Mikey 连续讲授，但仍是未听校、未分轨自动稿；极短插话、麦克风测试和读弹幕不能作为准确归属。",
+      "source_knowledge_ids": ["quark-live-007-k008", "quark-live-008-k004", "quark-live-009-K022", "quark-live-010-K030"]
+    }
+  ],
+  "unsupported_questions": [
+    {
+      "question_type": "guaranteed_specific_outcome",
+      "description": "保证某个具体对象会喜欢、见面、发生关系或在固定天数内取得结果",
+      "reason": "材料承认单次结果随机、对方选择不可控，转化率和课程数字未验证。",
+      "source_knowledge_ids": ["quark-live-008-k008", "quark-live-008-k009", "quark-live-008-k041"]
+    },
+    {
+      "question_type": "infer_consent",
+      "description": "从拒绝、沉默、购票、聊天投入、肢体信号或过去性话题推定同意",
+      "reason": "材料中有高风险反向解释，且视觉与自动稿没有完整同意过程。",
+      "source_knowledge_ids": ["quark-live-003-k017", "quark-live-006-k034", "quark-live-007-k042", "quark-live-010-K007"]
+    },
+    {
+      "question_type": "medical_or_mental_health_advice",
+      "description": "避孕、用药、性传播感染、创伤处理、自杀风险或其他专业诊断与处置",
+      "reason": "相关内容存在冲突、缺失和未核验概括，不能形成专业建议。",
+      "source_knowledge_ids": ["quark-live-003-k021", "quark-live-004-K027", "quark-live-009-K015"]
+    },
+    {
+      "question_type": "attribute_guest_method_to_mikey",
+      "description": "把 Tinder 王的工业化聊天、异地长聊和前热后冷说成 Mikey 当前统一方法",
+      "reason": "两人打法、时间资源和线下能力被明确区分。",
+      "source_knowledge_ids": ["quark-live-001-k036", "quark-live-003-k001", "quark-live-003-k018"]
+    },
+    {
+      "question_type": "platform_algorithm_or_evasion",
+      "description": "平台算法、新号曝光、会员价格或规避平台规则的确定事实",
+      "reason": "只有未核验的直播口述，且平台规则会变化。",
+      "source_knowledge_ids": ["quark-live-001-k001"]
+    },
+    {
+      "question_type": "exact_quote_or_event_proof",
+      "description": "逐字引用自动稿，或把聊天截图当作账号身份、线下事件与因果效果的证明",
+      "reason": "自动稿未逐句听校，截图和电话材料缺乏独立验证。",
+      "source_knowledge_ids": ["quark-live-002-k023", "quark-live-004-K024", "quark-live-005-k020", "quark-live-005-k029"]
+    },
+    {
+      "question_type": "universal_gender_rule",
+      "description": "把单个案例或强烈性别概括说成所有女性或男性的普遍规律",
+      "reason": "多处结论来自单案例、直播夸张或说话人未分离。",
+      "source_knowledge_ids": ["quark-live-001-k006", "quark-live-003-k017", "quark-live-004-K013"]
+    },
+    {
+      "question_type": "full_channel_final_position",
+      "description": "声称已经得到 Mikey 全频道、所有时期或未收录来源的最终立场",
+      "reason": "本整合只覆盖首批十期，且各期仍有 ASR、画面和说话人待核。",
+      "source_knowledge_ids": []
+    }
+  ]
+}

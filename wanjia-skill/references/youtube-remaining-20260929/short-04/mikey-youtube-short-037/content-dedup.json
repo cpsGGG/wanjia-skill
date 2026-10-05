@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-037",
+  "youtube_id": "EqbzKgXKNC4",
+  "decision": "new",
+  "formal_weight_if_integrated": 1,
+  "compared_sources": [
+    {
+      "scope": "formal_mikey_guide",
+      "source_count": 202,
+      "comparison": "id/url, normalized transcript shingles, distinctive phrase search and semantic screen"
+    },
+    {
+      "scope": "remaining_video_batches_01_05_and_short_01_03",
+      "source_count": 75,
+      "comparison": "id/url, normalized transcript shingles, prior dedup records and semantic screen"
+    },
+    {
+      "source_id": "quark-live-022",
+      "comparison": "contains the generic direct opener 'hi, I came to ask for your WeChat' and related coaching, but not this participant's complete laughter, age, self-description, phone and invitation sequence"
+    },
+    {
+      "source_id": "mikey-approach-012",
+      "comparison": "another filmed direct approach with compliment and contact request; visual participant, setting and dialogue differ"
+    },
+    {
+      "source_id": "mikey-approach-004",
+      "comparison": "broad overlap as a street-approach compilation, with no matching complete exchange located"
+    }
+  ],
+  "evidence": [
+    {
+      "type": "identity",
+      "result": "no_exact_id_or_url_match"
+    },
+    {
+      "type": "transcript",
+      "result": "no_same_passage_match",
+      "basis": "The opening formula appears elsewhere, but no screened transcript reproduces the ordered exchange about age, being serious/funny, talking more on WeChat, phone handling and a later invitation."
+    },
+    {
+      "type": "visual",
+      "result": "distinct_street_encounter",
+      "basis": "All 15 sampled frames show one black-dress participant in front of a large illuminated display, followed by a phone interaction and mutual goodbye; no matching formal scene was confirmed."
+    },
+    {
+      "type": "semantic_overlap",
+      "result": "related_but_not_duplicate",
+      "basis": "Direct opening, compliment, contact exchange and future invitation are already recurring method elements, but this complete observed interaction is distinct in the processed corpus."
+    }
+  ],
+  "boundary": "New only as a distinct recorded encounter within the processed corpus. It does not add independent proof that the method caused laughter, attraction, a successful WeChat exchange or a later meeting, and its parent recording remains unlocated."
+}

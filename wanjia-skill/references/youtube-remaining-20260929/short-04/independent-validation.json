@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "batch_key": "short-04",
+  "validated_at": "2026-09-29T21:59:29+08:00",
+  "validator_role": "cross_agent_independent_review_after_subagent_distillation",
+  "pass": true,
+  "scope": {
+    "items": 10,
+    "media_audit_items": 10,
+    "transcript_segments": 341,
+    "sampled_frames": 214,
+    "timeline_entries": 46,
+    "claims": 28,
+    "review_items": 43
+  },
+  "checks": {
+    "pipeline_validation_report_present_and_pass": true,
+    "media_files_rehashed_against_audit": "10/10",
+    "media_hash_bound_transcripts": "10/10",
+    "media_hash_bound_visual_manifests": "10/10",
+    "visual_manifest_files_and_hashes_valid": "214/214",
+    "asr_segments_within_media": "341/341",
+    "timeline_complete_and_within_media": "10/10",
+    "claim_references_valid_and_within_media": "28/28",
+    "review_ledgers_completed": "10/10",
+    "first_person_permission_closed": "10/10",
+    "action_advice_permission_closed": "10/10",
+    "formal_integration_approved": "0/10",
+    "reuse_zero_weight": "8/8",
+    "new_candidates_restricted": "2/2",
+    "formal_source_index_unchanged": true
+  },
+  "deduplication": {
+    "identity_decisions": {"new": 2, "reuse": 8},
+    "new_positive_weight_candidates": ["mikey-youtube-short-036", "mikey-youtube-short-037"],
+    "reuse_zero_weight": {
+      "mikey-youtube-short-031": ["quark-live-044"],
+      "mikey-youtube-short-032": ["quark-live-034", "quark-live-014", "quark-live-030"],
+      "mikey-youtube-short-033": ["quark-live-030"],
+      "mikey-youtube-short-034": ["mikey-approach-004", "mikey-approach-012", "mikey-youtube-video-044"],
+      "mikey-youtube-short-035": ["quark-live-023", "mikey-practice-008", "quark-live-030"],
+      "mikey-youtube-short-038": ["formal_approach_case_cluster"],
+      "mikey-youtube-short-039": ["formal_direct_contact_exchange_cluster"],
+      "mikey-youtube-short-040": ["formal_approach_case_cluster"]
+    },
+    "notes": {
+      "mikey-youtube-short-031": "Confirmed as the same underlying excerpt as quark-live-044; normalized sequence similarity 0.863824 in independent review.",
+      "mikey-youtube-short-035": "Changed from new to zero-weight semantic reuse during independent review because the usable method family is already fully represented.",
+      "mikey-youtube-short-036": "Distinct indoor earphone encounter; no same scene or ordered transcript found.",
+      "mikey-youtube-short-037": "Distinct street encounter; generic opener overlaps formal sources but the complete observed sequence was not found."
+    }
+  },
+  "resolved_validation_findings": [
+    {"stable_id": "mikey-youtube-short-035", "finding": "Initial new/weight-one decision conflicted with the batch's semantic-reuse standard.", "resolution": "Changed to reuse of quark-live-023 and related formal sources, weight zero."},
+    {"stable_ids": ["mikey-youtube-short-038", "mikey-youtube-short-039"], "finding": "Initial timelines omitted untranscribed intervals and privacy/publication authorization review.", "resolution": "Added explicit gap intervals and blocking privacy/authorization review items."},
+    {"stable_id": "mikey-youtube-short-040", "finding": "Automatic ASR was initially misread as an existing-boyfriend refusal, conflicting with the visible subtitle ‘我想有男朋友’.", "resolution": "Rewrote the timeline, claims, dedup boundary and review ledger to preserve the exact visible phrase and keep the added man's identity, relationship and exit causality unknown."}
+  ],
+  "open_research_limits": {
+    "review_items_by_severity": {"blocking": 13, "major": 30, "minor": 0},
+    "summary": "Open limits include identifiable-participant privacy and publication authorization, camera-holder identity, incomplete or uncertain ASR, consent escalation, concealed private-space intent, unknown contact exchange and unverified downstream outcomes."
+  },
+  "permissions": {
+    "formal_mikey_guide_modified": false,
+    "formal_source_index_sha256": "bec0688ff67e13cc849b8f3ad03e570ee13473477788a72fc7cfebfa008e8d75",
+    "formal_integration_approved": false,
+    "raw_media_deletion_authorized": false,
+    "short_05_started": false
+  },
+  "cross_validation": {
+    "mikey-youtube-short-031_to_034": "Cross-agent independent validation PASS: 4/4 media rehashed, 233/233 ASR segments in bounds, 147/147 frame hashes valid, 20 timeline entries and 13 claims checked.",
+    "mikey-youtube-short-035_to_040": "Cross-agent independent validation PASS after corrections: 108/108 ASR segments in bounds, 67/67 frame hashes valid, 26 timeline entries continuous and 27 review items checked."
+  }
+}

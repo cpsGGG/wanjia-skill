@@ -1,0 +1,467 @@
+{
+  "source_id": "9zRpsnsPGxU",
+  "created_utc": "2026-09-06T16:36:20.527718+00:00",
+  "scope": "27 affected or checked segment records across 11 windows; not full-video listening",
+  "original_transcript_preserved": true,
+  "policy": "supported_web_audio只表示网页音频结果支持的读法，可用于更新派生说明；不等于本地独立听校。unresolved项仅标注，不替换正式观点。",
+  "comparison_source": "../audio-review-packets/audio-review-comparison.json",
+  "corrections": [
+    {
+      "segment_id": "S02543",
+      "window_id": "Q01-W01",
+      "start": 5611.8,
+      "end": 5613.26,
+      "automatic_text": "他依然不会觉得你不够强",
+      "web_audio_candidate": "他依然会觉得你不够强",
+      "status": "supported_web_audio",
+      "impact": "删去多出的不，改变强弱判断方向",
+      "web_evidence": "../web-audio-review-01.md",
+      "independent_local_audio_review": "not_done",
+      "timing": "original_automatic_timing_not_recalibrated",
+      "unresolved": [
+        "网页首份记录是原视频5600–5618秒18秒音频；清单Q01-W01为5595.68–5617.26秒21.58秒，不能冒记整窗口均已听辨。",
+        "网页时间为近似分句，不能与本窗口零点直接相加；5595.68–5600秒无这份听辨覆盖。"
+      ]
+    },
+    {
+      "segment_id": "S02544",
+      "window_id": "Q01-W01",
+      "start": 5613.26,
+      "end": 5614.26,
+      "automatic_text": "从而把你怕死掉",
+      "web_audio_candidate": "从而把你pass掉",
+      "status": "supported_web_audio",
+      "impact": "恢复英语淘汰表达",
+      "web_evidence": "../web-audio-review-01.md",
+      "independent_local_audio_review": "not_done",
+      "timing": "original_automatic_timing_not_recalibrated",
+      "unresolved": [
+        "网页首份记录是原视频5600–5618秒18秒音频；清单Q01-W01为5595.68–5617.26秒21.58秒，不能冒记整窗口均已听辨。",
+        "网页时间为近似分句，不能与本窗口零点直接相加；5595.68–5600秒无这份听辨覆盖。"
+      ]
+    },
+    {
+      "segment_id": "S01972",
+      "window_id": "Q02-W01",
+      "start": 4502.72,
+      "end": 4503.86,
+      "automatic_text": "那个信",
+      "web_audio_candidate": "那个性",
+      "status": "supported_web_audio",
+      "impact": "确认此处所指结果为性，不推广到全部链接用法",
+      "web_evidence": "../audio-review-packets/web-audio-review-remaining.md",
+      "independent_local_audio_review": "not_done",
+      "timing": "original_automatic_timing_not_recalibrated",
+      "unresolved": [
+        "末尾S01975“那么这个东西是最掉价的”未在网页结果中返回，片尾裁切/旧SRT对齐需另核。",
+        "网页第一句起点及末句结束与旧SRT有偏移，不能直接覆盖时轴。"
+      ]
+    },
+    {
+      "segment_id": "S02343",
+      "window_id": "Q02-W03",
+      "start": 5221.04,
+      "end": 5222.82,
+      "automatic_text": "比如说你们练阶完结束之后",
+      "web_audio_candidate": "比如说你们链接完结束之后",
+      "status": "supported_web_audio",
+      "impact": "恢复局部用词，未将链接扩写为正式关系",
+      "web_evidence": "../audio-review-packets/web-audio-review-remaining.md",
+      "independent_local_audio_review": "not_done",
+      "timing": "original_automatic_timing_not_recalibrated",
+      "unresolved": [
+        "末尾S02359“你认为此刻我可以不用装了”只落旧SRT最后0.1秒，网页未返回；不能视为该句已校。",
+        "麦哥为称呼字形，并非证明其他专名或人物身份。"
+      ]
+    },
+    {
+      "segment_id": "S02353",
+      "window_id": "Q02-W03",
+      "start": 5234.56,
+      "end": 5235.92,
+      "automatic_text": "迈哥为什么发",
+      "web_audio_candidate": "啊，麦哥",
+      "status": "supported_web_audio",
+      "impact": "恢复提问开头，字形按网页记录",
+      "web_evidence": "../audio-review-packets/web-audio-review-remaining.md",
+      "independent_local_audio_review": "not_done",
+      "timing": "original_automatic_timing_not_recalibrated",
+      "unresolved": [
+        "末尾S02359“你认为此刻我可以不用装了”只落旧SRT最后0.1秒，网页未返回；不能视为该句已校。",
+        "麦哥为称呼字形，并非证明其他专名或人物身份。"
+      ]
+    },
+    {
+      "segment_id": "S02356",
+      "window_id": "Q02-W03",
+      "start": 5238.56,
+      "end": 5239.46,
+      "automatic_text": "为什么按照来说",
+      "web_audio_candidate": "为什么，按道理来说",
+      "status": "supported_web_audio",
+      "impact": "恢复问句连接",
+      "web_evidence": "../audio-review-packets/web-audio-review-remaining.md",
+      "independent_local_audio_review": "not_done",
+      "timing": "original_automatic_timing_not_recalibrated",
+      "unresolved": [
+        "末尾S02359“你认为此刻我可以不用装了”只落旧SRT最后0.1秒，网页未返回；不能视为该句已校。",
+        "麦哥为称呼字形，并非证明其他专名或人物身份。"
+      ]
+    },
+    {
+      "segment_id": "S02556",
+      "window_id": "Q05-W01",
+      "start": 5641.94,
+      "end": 5645.06,
+      "automatic_text": "弥男背律是什么",
+      "web_audio_candidate": "迷男被绿是什么",
+      "status": "unresolved_name_candidate",
+      "impact": "人物身份及同音字形未独立核实",
+      "web_evidence": "../audio-review-packets/web-audio-review-remaining.md",
+      "independent_local_audio_review": "not_done",
+      "timing": "original_automatic_timing_not_recalibrated",
+      "unresolved": [
+        "“迷男”具体字形/人物身份仍需其他直接材料确认；音频不能单独区分同音字。",
+        "网页“慕强法则”位于12–15.02秒，但旧SRT10.70–12.02秒，旧稿尾部“你问女生爱不爱我”未返回。保留尾部内容/时间分歧待复核。"
+      ]
+    },
+    {
+      "segment_id": "S02557",
+      "window_id": "Q05-W01",
+      "start": 5645.06,
+      "end": 5646.46,
+      "automatic_text": "弥男背律是为什么",
+      "web_audio_candidate": "迷男被绿是为什么",
+      "status": "unresolved_name_candidate",
+      "impact": "人物身份及同音字形未独立核实",
+      "web_evidence": "../audio-review-packets/web-audio-review-remaining.md",
+      "independent_local_audio_review": "not_done",
+      "timing": "original_automatic_timing_not_recalibrated",
+      "unresolved": [
+        "“迷男”具体字形/人物身份仍需其他直接材料确认；音频不能单独区分同音字。",
+        "网页“慕强法则”位于12–15.02秒，但旧SRT10.70–12.02秒，旧稿尾部“你问女生爱不爱我”未返回。保留尾部内容/时间分歧待复核。"
+      ]
+    },
+    {
+      "segment_id": "S02558",
+      "window_id": "Q05-W01",
+      "start": 5646.46,
+      "end": 5648.5,
+      "automatic_text": "名单被律是因为他自己的问题",
+      "web_audio_candidate": "迷男被绿是因为他自己的问题",
+      "status": "unresolved_name_candidate",
+      "impact": "只记录网页候选，不确认真实事件",
+      "web_evidence": "../audio-review-packets/web-audio-review-remaining.md",
+      "independent_local_audio_review": "not_done",
+      "timing": "original_automatic_timing_not_recalibrated",
+      "unresolved": [
+        "“迷男”具体字形/人物身份仍需其他直接材料确认；音频不能单独区分同音字。",
+        "网页“慕强法则”位于12–15.02秒，但旧SRT10.70–12.02秒，旧稿尾部“你问女生爱不爱我”未返回。保留尾部内容/时间分歧待复核。"
+      ]
+    },
+    {
+      "segment_id": "S02560",
+      "window_id": "Q05-W01",
+      "start": 5649.64,
+      "end": 5650.96,
+      "automatic_text": "他违背了牧强法则",
+      "web_audio_candidate": "他违背了慕强法则",
+      "status": "supported_web_audio",
+      "impact": "恢复术语；不确认人物归属",
+      "web_evidence": "../audio-review-packets/web-audio-review-remaining.md",
+      "independent_local_audio_review": "not_done",
+      "timing": "original_automatic_timing_not_recalibrated",
+      "unresolved": [
+        "“迷男”具体字形/人物身份仍需其他直接材料确认；音频不能单独区分同音字。",
+        "网页“慕强法则”位于12–15.02秒，但旧SRT10.70–12.02秒，旧稿尾部“你问女生爱不爱我”未返回。保留尾部内容/时间分歧待复核。"
+      ]
+    },
+    {
+      "segment_id": "S02587",
+      "window_id": "Q06-W01",
+      "start": 5708.8,
+      "end": 5710.2,
+      "automatic_text": "你依然爱过",
+      "web_audio_candidate": "你依然爱我",
+      "status": "supported_web_audio",
+      "impact": "从过去爱过恢复为仍然爱我",
+      "web_evidence": "../audio-review-packets/web-audio-review-remaining.md",
+      "independent_local_audio_review": "not_done",
+      "timing": "original_automatic_timing_not_recalibrated",
+      "unresolved": [
+        "寄了为网页按读音书写，不是精确同音字认证；S02594“所以说很多人问”未返回。",
+        "前句完整条件及讨论对象来自未听校上下文，本窗口不能独立确认全套适用范围。"
+      ]
+    },
+    {
+      "segment_id": "S02589",
+      "window_id": "Q06-W01",
+      "start": 5714.66,
+      "end": 5716.52,
+      "automatic_text": "那一刻往往心里反而会长",
+      "web_audio_candidate": "那一刻往往吸引力反而会涨",
+      "status": "supported_web_audio",
+      "impact": "明确所称结果是吸引力上涨",
+      "web_evidence": "../audio-review-packets/web-audio-review-remaining.md",
+      "independent_local_audio_review": "not_done",
+      "timing": "original_automatic_timing_not_recalibrated",
+      "unresolved": [
+        "寄了为网页按读音书写，不是精确同音字认证；S02594“所以说很多人问”未返回。",
+        "前句完整条件及讨论对象来自未听校上下文，本窗口不能独立确认全套适用范围。"
+      ]
+    },
+    {
+      "segment_id": "S02592",
+      "window_id": "Q06-W01",
+      "start": 5720.2,
+      "end": 5721.62,
+      "automatic_text": "然后呢你就记了",
+      "web_audio_candidate": "然后呢你就寄了",
+      "status": "unresolved_homophone_candidate",
+      "impact": "网页给出网络口语读法；字形仍为候选",
+      "web_evidence": "../audio-review-packets/web-audio-review-remaining.md",
+      "independent_local_audio_review": "not_done",
+      "timing": "original_automatic_timing_not_recalibrated",
+      "unresolved": [
+        "寄了为网页按读音书写，不是精确同音字认证；S02594“所以说很多人问”未返回。",
+        "前句完整条件及讨论对象来自未听校上下文，本窗口不能独立确认全套适用范围。"
+      ]
+    },
+    {
+      "segment_id": "S02737",
+      "window_id": "Q05-W02",
+      "start": 6171.89,
+      "end": 6173.35,
+      "automatic_text": "麦克斯战艾利还做吗",
+      "web_audio_candidate": "麦哥，实战案例还做吗？",
+      "status": "supported_web_audio",
+      "impact": "确认问题名称，回答仍为可能以后做",
+      "web_evidence": "../audio-review-packets/web-audio-review-remaining.md",
+      "independent_local_audio_review": "not_done",
+      "timing": "original_automatic_timing_not_recalibrated",
+      "unresolved": [
+        "首句仅“……起来”；网页未返回S02740“对以后周末不播了”。",
+        "网页将答复延至7.22秒，旧SRT6.14秒已进入下句；需复核窗口边界/时轴差异。"
+      ]
+    },
+    {
+      "segment_id": "S01891",
+      "window_id": "Q04-W01",
+      "start": 4288.49,
+      "end": 4324.56,
+      "automatic_text": "因为深圳很多那种嘎嘎的",
+      "web_audio_candidate": "因为深圳很多那种gay gay的",
+      "status": "unresolved_word_candidate",
+      "impact": "含混词不定案；旧字幕长跨度不等于持续说话",
+      "web_evidence": "../audio-review-packets/web-audio-review-remaining.md",
+      "independent_local_audio_review": "not_done",
+      "timing": "original_automatic_timing_not_recalibrated",
+      "unresolved": [
+        "gay gay读音、词义均需再次原音核对，不因网页“可听出”就写成确定名词。",
+        "“无清晰语言”不等于无声或无视觉信息，仍需连续音画核验；结尾“真的真的”未返回。"
+      ]
+    },
+    {
+      "segment_id": "S01892",
+      "window_id": "Q04-W01",
+      "start": 4324.56,
+      "end": 4325.74,
+      "automatic_text": "很多那种坐机的",
+      "web_audio_candidate": "很多那种做鸡的",
+      "status": "supported_web_audio",
+      "impact": "恢复说话人措辞，不证明对他人描述为事实",
+      "web_evidence": "../audio-review-packets/web-audio-review-remaining.md",
+      "independent_local_audio_review": "not_done",
+      "timing": "original_automatic_timing_not_recalibrated",
+      "unresolved": [
+        "gay gay读音、词义均需再次原音核对，不因网页“可听出”就写成确定名词。",
+        "“无清晰语言”不等于无声或无视觉信息，仍需连续音画核验；结尾“真的真的”未返回。"
+      ]
+    },
+    {
+      "segment_id": "S02692",
+      "window_id": "Q04-W02",
+      "start": 5987.84,
+      "end": 5994.27,
+      "automatic_text": "麦哥别耸肩",
+      "web_audio_candidate": "麦哥别[耸肩/怂肩]",
+      "status": "unresolved_homophone_candidate",
+      "impact": "未核画面，不改字",
+      "web_evidence": "../audio-review-packets/web-audio-review-remaining.md",
+      "independent_local_audio_review": "not_done",
+      "timing": "original_automatic_timing_not_recalibrated",
+      "unresolved": [
+        "耸肩字形可结合画面判断但尚未完成；末尾“那么想……”截断，S02697整句未校。",
+        "网页64.86–66.20秒未给明确描述；多个句子时标较旧稿早数秒，不能直接替换。"
+      ]
+    },
+    {
+      "segment_id": "S02693",
+      "window_id": "Q04-W02",
+      "start": 5994.27,
+      "end": 5996.13,
+      "automatic_text": "没有一直耸肩吧",
+      "web_audio_candidate": "没有一直[耸肩/怂肩]吧？",
+      "status": "unresolved_homophone_candidate",
+      "impact": "未核画面，不改字",
+      "web_evidence": "../audio-review-packets/web-audio-review-remaining.md",
+      "independent_local_audio_review": "not_done",
+      "timing": "original_automatic_timing_not_recalibrated",
+      "unresolved": [
+        "耸肩字形可结合画面判断但尚未完成；末尾“那么想……”截断，S02697整句未校。",
+        "网页64.86–66.20秒未给明确描述；多个句子时标较旧稿早数秒，不能直接替换。"
+      ]
+    },
+    {
+      "segment_id": "S02694",
+      "window_id": "Q04-W02",
+      "start": 5996.13,
+      "end": 6056.08,
+      "automatic_text": "麦哥喝点水",
+      "web_audio_candidate": "麦哥喝点水",
+      "status": "web_audio_timing_candidate",
+      "impact": "网页报告讲话约片内66.20秒开始，前方长期无清晰语言；不直接校准时轴",
+      "web_evidence": "../audio-review-packets/web-audio-review-remaining.md",
+      "independent_local_audio_review": "not_done",
+      "timing": "original_automatic_timing_not_recalibrated",
+      "unresolved": [
+        "耸肩字形可结合画面判断但尚未完成；末尾“那么想……”截断，S02697整句未校。",
+        "网页64.86–66.20秒未给明确描述；多个句子时标较旧稿早数秒，不能直接替换。"
+      ]
+    },
+    {
+      "segment_id": "S02399",
+      "window_id": "Q03-W01",
+      "start": 5327.72,
+      "end": 5328.22,
+      "automatic_text": "随叫随到",
+      "web_audio_candidate": "随叫随到",
+      "status": "unresolved_attribution",
+      "impact": "文字一致，省略主语与读评论可能性未解决",
+      "web_evidence": "../audio-review-packets/web-audio-review-remaining.md",
+      "independent_local_audio_review": "not_done",
+      "timing": "original_automatic_timing_not_recalibrated",
+      "unresolved": [
+        "缺少连续画面/弹幕核对；是否读评论、语气转换与省略主语仍未独立解决。",
+        "片末只到“她会……”；S02408“特别的喜欢你”未在该网页结果完整听辨。"
+      ]
+    },
+    {
+      "segment_id": "S02111",
+      "window_id": "Q07-W01",
+      "start": 4765.59,
+      "end": 4767.39,
+      "automatic_text": "我一般我现在不怎么用了",
+      "web_audio_candidate": "我一般不……我现在不怎么用了",
+      "status": "supported_web_audio",
+      "impact": "保留自我改口及现在不常用限定",
+      "web_evidence": "../audio-review-packets/web-audio-review-remaining.md",
+      "independent_local_audio_review": "not_done",
+      "timing": "original_automatic_timing_not_recalibrated",
+      "unresolved": [
+        "网页仅末尾OK，未返回旧S02119“那接下来这个板块”；需检查时轴/裁切。",
+        "上下文的一万块钱在窗口外，未因本次听辨得到数字核实。"
+      ]
+    },
+    {
+      "segment_id": "S02112",
+      "window_id": "Q07-W01",
+      "start": 4767.39,
+      "end": 4768.15,
+      "automatic_text": "我感觉不道德",
+      "web_audio_candidate": "我感觉不道德",
+      "status": "supported_web_audio",
+      "impact": "已有读法再次支持，无字词替换",
+      "web_evidence": "../audio-review-packets/web-audio-review-remaining.md",
+      "independent_local_audio_review": "not_done",
+      "timing": "original_automatic_timing_not_recalibrated",
+      "unresolved": [
+        "网页仅末尾OK，未返回旧S02119“那接下来这个板块”；需检查时轴/裁切。",
+        "上下文的一万块钱在窗口外，未因本次听辨得到数字核实。"
+      ]
+    },
+    {
+      "segment_id": "S02116",
+      "window_id": "Q07-W01",
+      "start": 4772.33,
+      "end": 4773.03,
+      "automatic_text": "你们也可以用",
+      "web_audio_candidate": "你们也可以用",
+      "status": "supported_web_audio",
+      "impact": "必须连同不鼓励不建议保留",
+      "web_evidence": "../audio-review-packets/web-audio-review-remaining.md",
+      "independent_local_audio_review": "not_done",
+      "timing": "original_automatic_timing_not_recalibrated",
+      "unresolved": [
+        "网页仅末尾OK，未返回旧S02119“那接下来这个板块”；需检查时轴/裁切。",
+        "上下文的一万块钱在窗口外，未因本次听辨得到数字核实。"
+      ]
+    },
+    {
+      "segment_id": "S02117",
+      "window_id": "Q07-W01",
+      "start": 4773.03,
+      "end": 4773.81,
+      "automatic_text": "但是我不鼓励",
+      "web_audio_candidate": "但是我不鼓励",
+      "status": "supported_web_audio",
+      "impact": "否定限定保留",
+      "web_evidence": "../audio-review-packets/web-audio-review-remaining.md",
+      "independent_local_audio_review": "not_done",
+      "timing": "original_automatic_timing_not_recalibrated",
+      "unresolved": [
+        "网页仅末尾OK，未返回旧S02119“那接下来这个板块”；需检查时轴/裁切。",
+        "上下文的一万块钱在窗口外，未因本次听辨得到数字核实。"
+      ]
+    },
+    {
+      "segment_id": "S02118",
+      "window_id": "Q07-W01",
+      "start": 4773.81,
+      "end": 4776.25,
+      "automatic_text": "不建议",
+      "web_audio_candidate": "不倡……不是，不建议啊",
+      "status": "supported_web_audio",
+      "impact": "保留未说完与改口，不补成倡导",
+      "web_evidence": "../audio-review-packets/web-audio-review-remaining.md",
+      "independent_local_audio_review": "not_done",
+      "timing": "original_automatic_timing_not_recalibrated",
+      "unresolved": [
+        "网页仅末尾OK，未返回旧S02119“那接下来这个板块”；需检查时轴/裁切。",
+        "上下文的一万块钱在窗口外，未因本次听辨得到数字核实。"
+      ]
+    },
+    {
+      "segment_id": "S02011",
+      "window_id": "Q02-W02",
+      "start": 4564.33,
+      "end": 4565.57,
+      "automatic_text": "我为了链接",
+      "web_audio_candidate": "我为了链接",
+      "status": "supported_web_audio_unchanged",
+      "impact": "链接用词一致，不扩写为性或正式关系",
+      "web_evidence": "../audio-review-packets/web-audio-review-remaining.md",
+      "independent_local_audio_review": "not_done",
+      "timing": "original_automatic_timing_not_recalibrated",
+      "unresolved": [
+        "开头残词及末尾截断、网页时标不足仍需核对"
+      ]
+    },
+    {
+      "segment_id": "S02013",
+      "window_id": "Q02-W02",
+      "start": 4567.27,
+      "end": 4569.35,
+      "automatic_text": "结果最后没有链接成功不说",
+      "web_audio_candidate": "结果最后没有链接成功不说",
+      "status": "supported_web_audio_unchanged",
+      "impact": "链接用词一致，不扩写为性或正式关系",
+      "web_evidence": "../audio-review-packets/web-audio-review-remaining.md",
+      "independent_local_audio_review": "not_done",
+      "timing": "original_automatic_timing_not_recalibrated",
+      "unresolved": [
+        "开头残词及末尾截断、网页时标不足仍需核对"
+      ]
+    }
+  ]
+}

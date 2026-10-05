@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "batch_key": "video-04",
+  "validated_at": "2026-09-29T19:25:00+08:00",
+  "validator_role": "local_independent_review_after_subagent_distillation",
+  "pass": true,
+  "scope": {
+    "items": 10,
+    "media_audit_items": 10,
+    "transcript_segments": 8001,
+    "sampled_frames": 339,
+    "timeline_entries": 71,
+    "claims": 64,
+    "review_items": 61
+  },
+  "checks": {
+    "pipeline_validation_pass": true,
+    "media_hash_bound_transcripts": "10/10",
+    "transcript_coverage_counts_match": "10/10",
+    "visual_review_counts_match_manifests": "10/10",
+    "timeline_nonempty_and_within_media": "10/10",
+    "claim_segment_ids_exist": "10/10",
+    "reuse_targets_exist_in_formal_source_index": "5/5",
+    "review_ledgers_completed": "10/10",
+    "formal_integration_closed": "10/10",
+    "first_person_permission_closed": "10/10",
+    "action_advice_permission_closed": "10/10"
+  },
+  "deduplication": {
+    "new_research_sources": [
+      "mikey-youtube-video-031",
+      "mikey-youtube-video-032",
+      "mikey-youtube-video-033",
+      "mikey-youtube-video-034",
+      "mikey-youtube-video-040"
+    ],
+    "reuse_zero_weight": {
+      "mikey-youtube-video-035": "mikey-sijiao-001",
+      "mikey-youtube-video-036": "mikey-sijiao-003",
+      "mikey-youtube-video-037": "mikey-sijiao-004",
+      "mikey-youtube-video-038": "mikey-sijiao-006",
+      "mikey-youtube-video-039": "mikey-sijiao-005"
+    },
+    "note": "video-037 was not pre-flagged in the frozen manifest, but full formal-library screening found the same episode under mikey-sijiao-004. Reuse decisions preserve the public URL and fresh extraction evidence but add no source, claim or outcome weight."
+  },
+  "resolved_validation_findings": [
+    {
+      "stable_id": "mikey-youtube-video-033",
+      "finding": "ASR ended at 972.90 seconds while media ended at 967.250431 seconds.",
+      "resolution": "Semantic coverage and timeline were capped at 967.25 seconds; tail segments S00502-S00513 are excluded from semantic evidence and the limitation remains in review-needed.json."
+    },
+    {
+      "stable_id": "mikey-youtube-video-038",
+      "finding": "ASR ended at 2258.11 seconds while media ended at 2255.366333 seconds.",
+      "resolution": "Semantic coverage and timeline were capped at 2255.366 seconds; S01193 crosses the boundary and S01194 is outside the media, so neither is used for semantic claims."
+    }
+  ],
+  "open_research_limits": {
+    "review_items_by_severity": {
+      "blocking": 23,
+      "blocking_for_new_weight": 1,
+      "major": 32,
+      "minor": 5
+    },
+    "summary": "Legal and sexual-consent claims, gender generalizations, public/covert filming, private chat and identity privacy, medical autobiography, third-party allegations, testimonials and claimed outcomes remain restricted. These are content-use limits, not blockers to batch-package validation."
+  },
+  "permissions": {
+    "formal_mikey_guide_modified": false,
+    "formal_integration_approved": false,
+    "raw_media_deletion_authorized": false,
+    "next_batch_started": false
+  }
+}

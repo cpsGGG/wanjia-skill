@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-023",
+  "youtube_id": "8vTeGYRtoyM",
+  "decision": "reuse",
+  "reuse_of": "mikey-youtube-live-009",
+  "formal_weight_if_integrated": 0,
+  "compared_sources": [
+    {
+      "scope": "formal_mikey_guide",
+      "source_count": 202,
+      "comparison": "YouTube identity, distinctive phrase search and ordered transcript alignment"
+    },
+    {
+      "scope": "video-01_to_video-05_short-01_to_short-02_and_short-03_known_items",
+      "comparison": "YouTube identity, normalized transcript phrase and semantic screen"
+    },
+    {
+      "scope": "targeted_formal_source",
+      "source_id": "mikey-youtube-live-009",
+      "comparison": "ordered excerpt alignment against 4601.32-4744.34 seconds"
+    }
+  ],
+  "evidence": [
+    {
+      "type": "identity",
+      "result": "no_exact_id_or_url_match"
+    },
+    {
+      "type": "content_alignment",
+      "result": "reuse_confirmed",
+      "formal_source_id": "mikey-youtube-live-009",
+      "formal_evidence": "4601.32-4744.34",
+      "basis": "The parent contains the same ordered passage from 'you cannot rapidly improve attraction' through abundance versus scarcity, including the Ma Yun analogy and the internal/external value split."
+    },
+    {
+      "type": "visual",
+      "result": "single_studio_speaker",
+      "basis": "All 48 sampled frames show one speaker in one studio setup with editorial subtitles; no separate evidence or outcome is introduced."
+    }
+  ],
+  "boundary": "Treat as an excerpt reuse of formal mikey-youtube-live-009. Do not count the Short as a new source or independent support."
+}

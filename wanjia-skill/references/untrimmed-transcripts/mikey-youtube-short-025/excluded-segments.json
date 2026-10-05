@@ -1,0 +1,110 @@
+{
+  "source_id": "mikey-youtube-short-025",
+  "status": "preserved_not_indexed_timing_unreliable",
+  "time_alignment_verified": false,
+  "original_transcript": "references/untrimmed-transcripts/mikey-youtube-short-025/transcript.original.json",
+  "original_transcript_sha256": "9cd37fc629bc2914681cc60211aabfd79d291bee5b341bbc58be5dd30d187a73",
+  "original_research_transcript": "D:\\startup\\玩家.skill\\research\\youtube-all-remaining-pipeline\\integration-candidate\\references\\youtube-remaining-20260929\\short-03\\mikey-youtube-short-025\\transcript.json",
+  "media_duration_seconds": 95.480454,
+  "excluded_segments": [
+    {
+      "sid": "S00059",
+      "start": 95.74,
+      "end": 95.9,
+      "text": "这个时候"
+    },
+    {
+      "sid": "S00060",
+      "start": 95.9,
+      "end": 96.08,
+      "text": "就算下头了"
+    },
+    {
+      "sid": "S00061",
+      "start": 96.08,
+      "end": 96.24,
+      "text": "你可以立自住里的"
+    },
+    {
+      "sid": "S00062",
+      "start": 96.24,
+      "end": 98.06,
+      "text": "就算下头了"
+    },
+    {
+      "sid": "S00063",
+      "start": 98.06,
+      "end": 99.18,
+      "text": "还可以打他"
+    },
+    {
+      "sid": "S00064",
+      "start": 99.18,
+      "end": 99.82,
+      "text": "你这么久了"
+    },
+    {
+      "sid": "S00065",
+      "start": 99.82,
+      "end": 100.72,
+      "text": "怎么走"
+    },
+    {
+      "sid": "S00066",
+      "start": 100.72,
+      "end": 101.42,
+      "text": "这时还要过来"
+    },
+    {
+      "sid": "S00067",
+      "start": 101.42,
+      "end": 101.88,
+      "text": "我们现在去教会"
+    },
+    {
+      "sid": "S00068",
+      "start": 101.88,
+      "end": 103.12,
+      "text": "这个时候"
+    },
+    {
+      "sid": "S00069",
+      "start": 103.12,
+      "end": 103.48,
+      "text": "坐下头了"
+    },
+    {
+      "sid": "S00070",
+      "start": 103.48,
+      "end": 104.3,
+      "text": "我们现在在来"
+    },
+    {
+      "sid": "S00071",
+      "start": 104.3,
+      "end": 107.2,
+      "text": "我们现在对你"
+    },
+    {
+      "sid": "S00072",
+      "start": 107.2,
+      "end": 108.6,
+      "text": "他能处理你"
+    },
+    {
+      "sid": "S00073",
+      "start": 108.6,
+      "end": 110.44,
+      "text": "我们现在已经接入"
+    }
+  ],
+  "crossing_segments_original": [
+    {
+      "sid": "S00058",
+      "start": 94.82,
+      "end": 95.74,
+      "text": "就算下头了"
+    }
+  ],
+  "notice": "All original text is retained. Out-of-duration timestamps may be ASR hallucination or misalignment; no information-value verdict or permission upgrade follows from exclusion from the normal timed index."
+}

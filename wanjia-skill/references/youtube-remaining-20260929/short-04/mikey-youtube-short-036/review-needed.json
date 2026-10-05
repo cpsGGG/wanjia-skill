@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-036",
+  "youtube_id": "STDni-HM_bo",
+  "review_completed": true,
+  "items": [
+    {
+      "review_id": "s036-r01",
+      "severity": "blocking",
+      "category": "privacy_and_authorization",
+      "issue": "An identifiable participant's face and a real-world approach are published; filming and publication authorization are not established by the clip.",
+      "affected_evidence": ["whole source"],
+      "disposition": "Keep research-only unless authorization and a suitable privacy treatment are resolved; do not package identifiable frames by default."
+    },
+    {
+      "review_id": "s036-r02",
+      "severity": "major",
+      "category": "speaker_attribution",
+      "issue": "The male camera operator is never visible, so channel branding alone does not independently prove that he is Mikey.",
+      "affected_evidence": ["S00001-S00006", "S00008-S00012"],
+      "disposition": "Attribute him as the male camera operator editorially presented as Mikey; do not upgrade to certain first-person Mikey evidence."
+    },
+    {
+      "review_id": "s036-r03",
+      "severity": "major",
+      "category": "outcome_inference",
+      "issue": "Phone handling is visible, but the account, operation and successful WeChat addition are not readable or continuously shown.",
+      "affected_evidence": ["S00005", "S00009-S00013"],
+      "disposition": "Record only that a brief phone interaction occurs before mutual goodbye; do not claim a successful number close or later contact."
+    },
+    {
+      "review_id": "s036-r04",
+      "severity": "major",
+      "category": "nonresponse_boundary",
+      "issue": "The title can encourage pursuing a person who does not stop, while the participant's earphone explanation is known only after she engages.",
+      "affected_evidence": ["S00001-S00008"],
+      "disposition": "Do not generalize this case into permission to chase, block, touch or repeatedly pressure a non-responsive person; preserve an easy exit and stop when disinterest is clear."
+    },
+    {
+      "review_id": "s036-r05",
+      "severity": "major",
+      "category": "source_parent",
+      "issue": "No parent long-form source or complete unedited approach was located.",
+      "affected_evidence": ["whole source"],
+      "disposition": "Keep provisional and re-run visual/transcript dedup and context review if the parent appears."
+    }
+  ]
+}

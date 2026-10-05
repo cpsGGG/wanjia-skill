@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-020",
+  "youtube_id": "6B1DNRjY4mE",
+  "title": "阿尔法和西格玛具体差别在哪？",
+  "coverage": {
+    "transcript_segments_read": 95,
+    "transcript_time_range_seconds": [0.0, 145.08],
+    "media_duration_seconds": 145.589116,
+    "sampled_frames_reviewed": 49,
+    "dense_frames_reviewed": 0,
+    "continuous_original_audio_visual_review": false
+  },
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 33.56,
+      "summary": "Mikey defines 'alpha' as a group leader and 'sigma' as a solitary hunter with independent survival ability, using an imagined ancient-tribe analogy.",
+      "evidence": ["S00001-S00033@0.00-33.56", "visual/sampled/000001.jpg-000012.jpg"]
+    },
+    {
+      "start": 33.56,
+      "end": 58.48,
+      "summary": "After a hard edit, he answers a sexual-escalation question by saying the woman should expect freedom from judgment or clinginess afterward and that the man should carry responsibility.",
+      "evidence": ["S00034-S00053@33.56-58.48", "visual/sampled/000012.jpg-000020.jpg"]
+    },
+    {
+      "start": 58.48,
+      "end": 102.8,
+      "summary": "He then describes strong dominance as making another person feel unable to say no, invokes The Godfather as an analogy, and presents dominance cues as a technical method of hooks and guidance.",
+      "evidence": ["S00054-S00069@58.48-102.80", "visual/sampled/000020.jpg-000034.jpg"]
+    },
+    {
+      "start": 102.8,
+      "end": 145.08,
+      "summary": "He distinguishes explicit commands from implicit dominance and illustrates the latter with withdrawal, criticism and intermittent encouragement that leaves the other person alarmed and with reduced self-esteem.",
+      "evidence": ["S00070-S00095@102.80-145.08", "visual/sampled/000035.jpg-000049.jpg"]
+    }
+  ],
+  "claims": [
+    {
+      "claim_id": "s020-c01",
+      "speaker": "Mikey; exact formal-source reuse and single-speaker visual continuity",
+      "statement": "He uses 'alpha' for a leader within a group and 'sigma' for a capable solitary actor.",
+      "conditions": "This is his pop-cultural metaphor, not an established scientific taxonomy of human personality or social hierarchy.",
+      "evidence": ["S00001-S00033@0.00-33.56", "mikey-youtube-live-025:S00914-S00929@2304.72-2365.42"],
+      "use_level": "context_only",
+      "knowledge_status": "formal_reuse_zero_weight"
+    },
+    {
+      "claim_id": "s020-c02",
+      "speaker": "Mikey",
+      "statement": "In response to a sexual-escalation question, he says the other person should remain free from judgment and clinginess afterward and that the man should shoulder responsibility.",
+      "conditions": "The question is partly mistranscribed and the answer does not supply a clear standard of prior, affirmative, specific, ongoing and revocable consent. Freedom afterward cannot substitute for consent beforehand or during the encounter.",
+      "evidence": ["S00034-S00053@33.56-58.48", "mikey-youtube-live-025:S00943-S00952@2419.18-2459.51"],
+      "use_level": "hold",
+      "knowledge_status": "formal_reuse_zero_weight"
+    },
+    {
+      "claim_id": "s020-c03",
+      "speaker": "Mikey",
+      "statement": "He characterizes dominance as creating a feeling that the other person cannot refuse and describes it as a trainable set of cues and guided hooks.",
+      "conditions": "This framing directly conflicts with free, affirmative and revocable consent. It must not be normalized, operationalized or converted into action advice.",
+      "evidence": ["S00054-S00069@58.48-102.80", "mikey-youtube-live-025:S00953-S00975@2459.51-2538.31"],
+      "use_level": "do_not_generalize",
+      "knowledge_status": "formal_reuse_zero_weight"
+    },
+    {
+      "claim_id": "s020-c04",
+      "speaker": "Mikey",
+      "statement": "He contrasts explicit prohibition with implicit withdrawal and depicts criticism plus intermittent encouragement as a way one person can erode another's confidence.",
+      "conditions": "The sequence can be retained only as an attributed description of a manipulative dynamic, not as a method to reproduce. A partner moving away is a boundary signal, not an invitation to increase pressure.",
+      "evidence": ["S00070-S00095@102.80-145.08", "mikey-youtube-live-025:S00976-S00997@2538.31-2580.65"],
+      "use_level": "do_not_generalize",
+      "knowledge_status": "formal_reuse_zero_weight"
+    }
+  ],
+  "visual_findings": [
+    "All 49 sampled frames were reviewed; they show Mikey alone in one livestream setup with live-chat UI and burned-in subtitles.",
+    "The cut after the alpha/sigma answer joins a later sexual and dominance discussion from the same formal livestream.",
+    "No visual evidence demonstrates consent, an interaction outcome or a second person's response; the clip is a monologue only."
+  ],
+  "permissions": {
+    "formal_integration": false,
+    "first_person_allowed": false,
+    "action_advice_allowed": false,
+    "formal_weight_if_integrated": 0,
+    "knowledge_status": "formal_reuse_zero_weight_pending_batch_review",
+    "reason": "The source is already formal and the excerpt contains coercive 'unable to say no' framing explicitly covered by mikey-youtube-live-025-R006."
+  },
+  "limitations": [
+    "The automatic transcript was not sentence-by-sentence listened and corrected; the sexual question at S00034-S00035 is visibly and textually garbled.",
+    "The Short removes the formal source's intervening promotional and stock-trading discussion, so the two opening topics are editorially joined.",
+    "Sparse frame review is not continuous audiovisual review and cannot establish consent or outcomes."
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-041",
+  "youtube_id": "o65H-5O2EsQ",
+  "decision": "new",
+  "reuse_of": null,
+  "formal_weight_if_integrated": 1,
+  "compared_sources": [
+    {"scope": "formal_mikey_guide_202_sources", "comparison": "exact ID/URL, distinctive transcript phrases, approach-case semantics"},
+    {"scope": "youtube_pipeline_video_01_to_05_and_short_01_to_04", "comparison": "exact ID/URL, transcript phrase and edited-case reuse screen"},
+    {"scope": "formal_approach_case_cluster", "source_ids": ["mikey-approach-004", "mikey-approach-012", "mikey-practice-001"], "comparison": "direct request for contact details, phone handling and an edited goodbye"}
+  ],
+  "evidence": [
+    {"type": "identity", "result": "no_exact_id_or_url_match"},
+    {"type": "transcript", "result": "no_exact_parent_excerpt_located", "basis": "No formal or completed-pipeline transcript contained the ordered exchange about not being a salesperson, choosing whose WeChat to request, nearby photographers and the final goodbye."},
+    {"type": "semantic_overlap", "result": "method_already_represented_but_case_distinct", "basis": "Directly stating the wish to meet and handling phones overlap existing approach cases, but this recorded encounter is not matched to a processed parent source."},
+    {"type": "visual", "result": "distinct_public_encounter", "basis": "Eight 3-second frames and twenty-three 1-second dense frames show two women, a first-person camera-holder, both parties handling phones and a later goodbye."}
+  ],
+  "boundary": "New only as a distinct recorded encounter in the processed corpus. Do not count it as proof of mutual attraction, informed filming consent, a successfully saved WeChat contact or a later outcome; the camera-holder is not independently identified as Mikey."
+}

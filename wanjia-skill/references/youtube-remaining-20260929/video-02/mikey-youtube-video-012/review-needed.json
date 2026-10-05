@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-012",
+  "youtube_id": "T3Yy6VpMJwI",
+  "review_completed": true,
+  "items": [
+    {"review_id": "v012-r01", "severity": "blocking_for_reuse", "issue": "The upload is an edited and reordered derivative of formal source S-cMTEvo6To: 43.42% 12-character shingle containment and 84.98% normalized sequence match.", "affected_evidence": ["entire source", "formal S-cMTEvo6To timelines T005-T041"], "disposition": "Set decision=reuse, reuse_of=S-cMTEvo6To and formal_weight_if_integrated=0; do not count claims as independent support."},
+    {"review_id": "v012-r02", "severity": "blocking_for_case_fact", "issue": "Identifiable-person marriage, motive, business and financial allegations are repeated without independent evidence.", "affected_evidence": ["S00001-S00117"], "disposition": "Keep as attributed allegations only and do not use for factual or legal conclusions."},
+    {"review_id": "v012-r03", "severity": "blocking_for_action_advice", "issue": "Some passages endorse insulting a woman, showing displeasure, creating social discomfort, and maintaining relationship leverage through replaceability.", "affected_evidence": ["S00494-S00508", "S00606-S00622", "S01201-S01250"], "disposition": "Do not turn into action advice; preserve consent, non-coercion, respectful boundary-setting and freedom to leave."},
+    {"review_id": "v012-r04", "severity": "major", "issue": "Claims about women, ethnic groups, criminals, body shape, hunting ability and reproductive fitness are broad unsupported generalizations.", "affected_evidence": ["S00180-S00429", "S00647-S00836", "S00901-S00934", "S01174-S01181"], "disposition": "Keep do_not_generalize and do not use as biological, racial or social fact."},
+    {"review_id": "v012-r05", "severity": "major", "issue": "The love-versus-logical-liking model is presented as if it reveals another person's true motives.", "affected_evidence": ["S00843-S00984"], "disposition": "Treat as Mikey's definition; do not diagnose a partner from wealth, appearance, stated reasons or a single behavior."},
+    {"review_id": "v012-r06", "severity": "major", "issue": "Father/child/dog analogies imply that mistreatment is largely produced by how the target behaves, creating victim-blaming risk.", "affected_evidence": ["S01084-S01155"], "disposition": "Do not infer responsibility for abuse or exploitation from these analogies."},
+    {"review_id": "v012-r07", "severity": "major", "issue": "Personal sexual, dating and partner-apology anecdotes are self-reported and the underlying messages or participants are not shown.", "affected_evidence": ["S00613-S00622", "S00712-S00723", "S01034-S01052", "S01232-S01250"], "disposition": "Keep as unverified self-report and close first-person reuse permission."},
+    {"review_id": "v012-r08", "severity": "minor", "issue": "Automatic transcript has gaps and recurring ASR corruption in terms, names and pronouns.", "affected_evidence": ["S00429-S00453", "S00590", "S00849", "S01233-S01234", "throughout"], "disposition": "Do not quote uncertain wording or reconstruct omitted transitions without original-audio review."}
+  ]
+}

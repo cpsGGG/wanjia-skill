@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-048",
+  "youtube_id": "wRh8BssCwuQ",
+  "decision": "reuse",
+  "reuse_of": ["HgnLR9S39is:K22", "quark-live-051-k003"],
+  "formal_weight_if_integrated": 0,
+  "compared_sources": [
+    {"scope": "formal_mikey_guide_202_sources", "comparison": "exact ID/URL, distinctive transcript phrases and practice-feedback semantics"},
+    {"scope": "youtube_pipeline_video_01_to_05_and_short_01_to_04", "comparison": "exact ID/URL, transcript and semantic reuse screen"},
+    {"source_id": "HgnLR9S39is:K22", "comparison": "stop blind repetition, inspect failure causes and correct the method"},
+    {"source_id": "quark-live-051-k003", "comparison": "do not turn approach practice into quantity for its own sake"}
+  ],
+  "evidence": [
+    {"type": "identity", "result": "no_exact_id_or_url_match"},
+    {"type": "transcript", "result": "no_exact_parent_excerpt_located", "basis": "No processed transcript reproduced the complete 22.76-second wording in order."},
+    {"type": "semantic_reuse", "result": "already_represented", "basis": "The portable method—replace mechanical repetition with a goal, feedback, diagnosis and targeted adjustment—is already represented in formal sources."},
+    {"type": "visual", "result": "single_speaker_selfie", "basis": "All eight 3-second frames show the same on-camera speaker with matching editorial subtitles and no additional case evidence."}
+  ],
+  "boundary": "Zero weight. Preserve as a concise restatement of the existing practice-feedback theme; it does not verify mentor quality, training effectiveness or any promised rate of improvement."
+}

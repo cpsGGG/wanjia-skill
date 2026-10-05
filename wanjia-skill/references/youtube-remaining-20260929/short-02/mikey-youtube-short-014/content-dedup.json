@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-014",
+  "youtube_id": "CMpHMvwuZRI",
+  "decision": "reuse",
+  "formal_weight_if_integrated": 0,
+  "compared_sources": [
+    {
+      "scope": "formal_mikey_guide",
+      "source_count": 202,
+      "comparison": "id/url, normalized transcript shingle and semantic screen"
+    },
+    {
+      "scope": "remaining_video_batches_01_05_and_short_01",
+      "source_count": 55,
+      "comparison": "normalized transcript screen"
+    },
+    {
+      "source_id": "mikey-youtube-live-028",
+      "comparison": "same parent livestream passage; about 63% of 8-character shingles match, with the sequence preserved"
+    }
+  ],
+  "evidence": [
+    {
+      "type": "identity",
+      "result": "different_youtube_id_same_parent_excerpt"
+    },
+    {
+      "type": "transcript",
+      "result": "same_passage_match",
+      "basis": "The Short aligns in order to the formal live-028 passage covering blunt attraction judgments, defensive reactions and the “hunter leaves clues” line."
+    },
+    {
+      "type": "visual",
+      "result": "same_livestream_context",
+      "basis": "All sampled frames show Mikey in the live-028-style livestream layout with public chat and overlays."
+    }
+  ],
+  "boundary": "Reuse formal mikey-youtube-live-028. This Short is edited and must not add independent weight."
+}

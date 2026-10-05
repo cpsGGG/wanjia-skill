@@ -1,0 +1,50 @@
+{
+  "schema_version": "mikey-community-post-fulltext-1.0",
+  "source_id": "mikey-youtube-community-004",
+  "post_id": "UgkxI-hlSK4UMgBDhD1pBZ68v7HwpHJ_FwRJ",
+  "url": "https://www.youtube.com/post/UgkxI-hlSK4UMgBDhD1pBZ68v7HwpHJ_FwRJ",
+  "published_at": "2025-07-18T07:00:00.260353-07:00",
+  "date_basis": "archived_public_observation",
+  "body": "这个季节出门约会实在太热了\n\n外卖回家更适合大家👌",
+  "body_kind": "verbatim_or_as_archived_in_corrected_candidate",
+  "image_refs": [
+    {
+      "image_index": 1,
+      "research_archive_path": "research/youtube-community-batch1/images/UgkxI-hlSK4UMgBDhD1pBZ68v7HwpHJ_FwRJ/01.jpg",
+      "sha256": "76a9c3c2c6f106cf1372c43710fd5a3f9f1e80da07cbb843aae70adf6cf078ba",
+      "bytes": 132089,
+      "formal_asset_policy": "reference_only_do_not_copy",
+      "safe_summary": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。"
+    }
+  ],
+  "segments": [
+    {
+      "sid": "C0004-BODY",
+      "kind": "channel_body",
+      "text": "这个季节出门约会实在太热了\n\n外卖回家更适合大家👌",
+      "verbatim_allowed": true,
+      "source_scope": "public_channel_body_as_archived"
+    },
+    {
+      "sid": "C0004-IMG01",
+      "kind": "image_reference_metadata",
+      "text": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。",
+      "verbatim_allowed": false,
+      "image_reference": {
+        "image_index": 1,
+        "research_archive_path": "research/youtube-community-batch1/images/UgkxI-hlSK4UMgBDhD1pBZ68v7HwpHJ_FwRJ/01.jpg",
+        "sha256": "76a9c3c2c6f106cf1372c43710fd5a3f9f1e80da07cbb843aae70adf6cf078ba",
+        "bytes": 132089,
+        "formal_asset_policy": "reference_only_do_not_copy",
+        "safe_summary": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。"
+      }
+    }
+  ],
+  "privacy_policy": {
+    "original_images_copied": false,
+    "raw_ocr_copied": false,
+    "private_chat_transcript_copied": false,
+    "third_party_identity_confirmed": false,
+    "publication_authorization_confirmed": false
+  }
+}

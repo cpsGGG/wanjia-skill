@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "source_id": "quark-live-051",
+  "status": "speaker_attribution_complete",
+  "completed_at": "2026-09-08",
+  "files": [
+    "identity-map.md",
+    "identity-map.json",
+    "knowledge-attribution-audit.json",
+    "recommended-knowledge.jsonl",
+    "review-needed.md",
+    "handoff.json"
+  ],
+  "identity_summary": {
+    "mikey": "viewer-right",
+    "guest_tinder_king": "viewer-left",
+    "confidence": "high"
+  },
+  "knowledge_summary": {
+    "retain_as_mikey": [
+      "k001",
+      "k002",
+      "k006"
+    ],
+    "guest_only_no_mikey_endorsement": [
+      "k003",
+      "k004"
+    ],
+    "mixed_split": [
+      "k005",
+      "k007"
+    ],
+    "recommended_knowledge_record_count": 5
+  },
+  "canonical_mutation_performed": false,
+  "next_step": "Parent may use recommended-knowledge.jsonl and the audit to update canonical knowledge/source index after independent review.",
+  "remaining_micro_uncertainties": [
+    "S01144 brief affirmation",
+    "S01779 ASR end-time span"
+  ],
+  "blocking_questions": []
+}

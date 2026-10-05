@@ -1,0 +1,1198 @@
+{
+  "schema_version": "youtube-live-batch3-cross-synthesis-local-validation-1.0",
+  "status": "PASS_WITH_WARNINGS",
+  "independent_of_embedded_validation_report": true,
+  "summary": {
+    "checks": 50,
+    "passed": 50,
+    "failed": 0,
+    "warnings": 1,
+    "sources": 10,
+    "knowledge": 153,
+    "events": 136,
+    "reviews": 63,
+    "segments": 16132,
+    "runtime_use_level_counts": {
+      "hold": 122,
+      "direct": 8,
+      "do_not_generalize": 22,
+      "context_only": 1
+    },
+    "traceability_issues": 62,
+    "structured_evidence_occurrences_checked": 3166
+  },
+  "checks": [
+    {
+      "check": "json_parse",
+      "result": "PASS",
+      "detail": "D:\\startup\\玩家.skill\\research\\youtube-live-batch3\\youtube-live-batch3-cross-synthesis.json"
+    },
+    {
+      "check": "local_source_range",
+      "result": "PASS",
+      "detail": [
+        "mikey-youtube-live-021",
+        "mikey-youtube-live-022",
+        "mikey-youtube-live-023",
+        "mikey-youtube-live-024",
+        "mikey-youtube-live-025",
+        "mikey-youtube-live-026",
+        "mikey-youtube-live-027",
+        "mikey-youtube-live-028",
+        "mikey-youtube-live-029",
+        "mikey-youtube-live-030"
+      ]
+    },
+    {
+      "check": "local_counts",
+      "result": "PASS",
+      "detail": {
+        "knowledge": 153,
+        "events": 136,
+        "reviews": 63,
+        "segments": 16132
+      }
+    },
+    {
+      "check": "synthesis_source_range_exact",
+      "result": "PASS",
+      "detail": [
+        "mikey-youtube-live-021",
+        "mikey-youtube-live-022",
+        "mikey-youtube-live-023",
+        "mikey-youtube-live-024",
+        "mikey-youtube-live-025",
+        "mikey-youtube-live-026",
+        "mikey-youtube-live-027",
+        "mikey-youtube-live-028",
+        "mikey-youtube-live-029",
+        "mikey-youtube-live-030"
+      ]
+    },
+    {
+      "check": "source_counts:mikey-youtube-live-021",
+      "result": "PASS",
+      "detail": {
+        "source_id": "mikey-youtube-live-021",
+        "livestream_number": 68,
+        "video_id": "gkADT8_5s14",
+        "youtube_url": "https://www.youtube.com/watch?v=gkADT8_5s14",
+        "title": "直播68： 两性情感 泡妞 搭讪 约会丨搭訕玩家TV",
+        "published_date": "2025-08-17",
+        "source_sha256": "176914ff684de5c072d4c3dfc18886ec5ffe235e2c1c27d2702bc44588a05398",
+        "transcript_sha256": "24ae73654d0904bf07a83856c31f138eb39b9a1c16d850f404e49abed9a9641c",
+        "segment_count": 1217,
+        "event_count": 12,
+        "knowledge_count": 19,
+        "knowledge_quote_count": 163,
+        "review_needed_count": 9,
+        "blocking_review_count": 6,
+        "major_review_count": 3,
+        "speaker_ids": [
+          "mikey",
+          "viewer-question-01"
+        ],
+        "knowledge_ids": [
+          "mikey-youtube-live-021-K001",
+          "mikey-youtube-live-021-K002",
+          "mikey-youtube-live-021-K003",
+          "mikey-youtube-live-021-K004",
+          "mikey-youtube-live-021-K005",
+          "mikey-youtube-live-021-K006",
+          "mikey-youtube-live-021-K007",
+          "mikey-youtube-live-021-K008",
+          "mikey-youtube-live-021-K009",
+          "mikey-youtube-live-021-K010",
+          "mikey-youtube-live-021-K011",
+          "mikey-youtube-live-021-K012",
+          "mikey-youtube-live-021-K013",
+          "mikey-youtube-live-021-K014",
+          "mikey-youtube-live-021-K015",
+          "mikey-youtube-live-021-K016",
+          "mikey-youtube-live-021-K017",
+          "mikey-youtube-live-021-K018",
+          "mikey-youtube-live-021-K019"
+        ],
+        "episode_release_status_counts": {
+          "direct": 14,
+          "context_only": 3,
+          "hold": 2
+        },
+        "gameplay": false,
+        "paths": {
+          "analysis": "items/mikey-youtube-live-021/analysis/episode-analysis.md",
+          "events": "items/mikey-youtube-live-021/analysis/events.jsonl",
+          "speakers": "items/mikey-youtube-live-021/analysis/speakers.json",
+          "reviews": "items/mikey-youtube-live-021/analysis/review-needed.jsonl",
+          "visual_review": "items/mikey-youtube-live-021/analysis/visual-review.md"
+        },
+        "file_sha256": {
+          "transcript": "24ae73654d0904bf07a83856c31f138eb39b9a1c16d850f404e49abed9a9641c",
+          "analysis": "ab10e442606e667816301aa065eb4bad6210fe84b038f75c74d53fc519d1f41e",
+          "events": "1b5649cadb72cfd191d879ff9f6323f0a2493a826e7cdfa41421b79bff8e3ff6",
+          "evidence": "6b29e0d37fbf464dd0c433bf7ed9774d1bfb5825a7cdce3a7a134d210e4b1a82",
+          "knowledge": "a9e9a55a6d15ca51407c26df884818842b62b297f0bbaa6509a544e511900181",
+          "speakers": "4fab038602fe710b5044cde5cf2d0ac1929d86986ffc4f28713215682036d6bd",
+          "reviews": "c3d629bb2867f03af22586c85e62180b1402b9c1efa720896d5b16e56d1e2c39",
+          "reviews_md": "9804572819459b0ee7c5c0b8e8d7cf3bad51094f190e35c5b0650966e1bfe997",
+          "visual": "eeb5e388192f8962916c8700638a5846caa581ca27862d47a37a189b9becabd5"
+        }
+      }
+    },
+    {
+      "check": "source_counts:mikey-youtube-live-022",
+      "result": "PASS",
+      "detail": {
+        "source_id": "mikey-youtube-live-022",
+        "livestream_number": 70,
+        "video_id": "dZgV_s1FVv8",
+        "youtube_url": "https://www.youtube.com/watch?v=dZgV_s1FVv8",
+        "title": "直播70： 火影忍者谁最会泡妞？丨 搭訕玩家TV",
+        "published_date": "2025-08-28",
+        "source_sha256": "83d6650881e81c26cc1652be1dd661c261db66fdd2a1bd14466478a10834be63",
+        "transcript_sha256": "3f21e96078951d7e02b5a7051e5534fd4d60467604d695fb17163c1fee6bec1e",
+        "segment_count": 2014,
+        "event_count": 16,
+        "knowledge_count": 18,
+        "knowledge_quote_count": 18,
+        "review_needed_count": 5,
+        "blocking_review_count": 3,
+        "major_review_count": 2,
+        "speaker_ids": [
+          "mikey",
+          "guest-masked-01",
+          "guest-unknown-02",
+          "unknown-live-speaker-01",
+          "viewer-chat-01",
+          "media-character-or-plot"
+        ],
+        "knowledge_ids": [
+          "mikey-youtube-live-022-K001",
+          "mikey-youtube-live-022-K002",
+          "mikey-youtube-live-022-K003",
+          "mikey-youtube-live-022-K004",
+          "mikey-youtube-live-022-K005",
+          "mikey-youtube-live-022-K006",
+          "mikey-youtube-live-022-K007",
+          "mikey-youtube-live-022-K008",
+          "mikey-youtube-live-022-K009",
+          "mikey-youtube-live-022-K010",
+          "mikey-youtube-live-022-K011",
+          "mikey-youtube-live-022-K012",
+          "mikey-youtube-live-022-K013",
+          "mikey-youtube-live-022-K014",
+          "mikey-youtube-live-022-K015",
+          "mikey-youtube-live-022-K016",
+          "mikey-youtube-live-022-K017",
+          "mikey-youtube-live-022-K018"
+        ],
+        "episode_release_status_counts": {
+          "candidate_only": 10,
+          "hold": 4,
+          "do_not_generalize": 4
+        },
+        "gameplay": true,
+        "paths": {
+          "analysis": "items/mikey-youtube-live-022/analysis/episode-analysis.md",
+          "events": "items/mikey-youtube-live-022/analysis/events.jsonl",
+          "speakers": "items/mikey-youtube-live-022/analysis/speakers.json",
+          "reviews": "items/mikey-youtube-live-022/analysis/review-needed.jsonl",
+          "visual_review": "items/mikey-youtube-live-022/analysis/visual-review.md"
+        },
+        "file_sha256": {
+          "transcript": "3f21e96078951d7e02b5a7051e5534fd4d60467604d695fb17163c1fee6bec1e",
+          "analysis": "79c884b23e579db2055cb076b72d22081c0dfb21f10b05e4fa59cc9ccad21e89",
+          "events": "ab74163aaf1bdbc813aeda3d8d92d0aa233b95e6dc5fef30a91bd85c8d5ca42d",
+          "evidence": "78857ec8175632e5727fd91efde92c9350894f0610fa7c09f3926cb06de660ef",
+          "knowledge": "7d9668bd07116de936247f2e4be8709ba68ad47b4b8a69de90aa05491ae95dcf",
+          "speakers": "0a097bb6027f246989ca8dd7c62fa9fd62f5cfa939b9bcfb37a1edb1203d25fb",
+          "reviews": "7705aa3a4739fd01fa7c5b42fbb469ccc25077c233c996a18317cb1ed90c2de0",
+          "reviews_md": "a771a78f29ab272c861b79488c7117bd67777cb8636d84ffa4e12807a25bff86",
+          "visual": "e72aaf34e918ab65d2405b8e42ed78b266e86df9336d65c8f269cf920e6fae94"
+        }
+      }
+    },
+    {
+      "check": "source_counts:mikey-youtube-live-023",
+      "result": "PASS",
+      "detail": {
+        "source_id": "mikey-youtube-live-023",
+        "livestream_number": 72,
+        "video_id": "wjizzSk9eAI",
+        "youtube_url": "https://www.youtube.com/watch?v=wjizzSk9eAI",
+        "title": "直播72： 近期实战案例分享，直播答疑 泡妞 搭讪 约会丨搭訕玩家TV",
+        "published_date": "2025-09-15",
+        "source_sha256": "ff6c5ecf8b0b8c029a5add5aa5987dede5996f8295dda92bfe22fa374475117c",
+        "transcript_sha256": "264b84daa5546ae642fdeb530cdee1bda68ae82aa1e2d5fc736e4be00fbf5104",
+        "segment_count": 1958,
+        "event_count": 14,
+        "knowledge_count": 25,
+        "knowledge_quote_count": 201,
+        "review_needed_count": 12,
+        "blocking_review_count": 9,
+        "major_review_count": 3,
+        "speaker_ids": [
+          "mikey",
+          "viewer-question-01"
+        ],
+        "knowledge_ids": [
+          "mikey-youtube-live-023-K001",
+          "mikey-youtube-live-023-K002",
+          "mikey-youtube-live-023-K003",
+          "mikey-youtube-live-023-K004",
+          "mikey-youtube-live-023-K005",
+          "mikey-youtube-live-023-K006",
+          "mikey-youtube-live-023-K007",
+          "mikey-youtube-live-023-K008",
+          "mikey-youtube-live-023-K009",
+          "mikey-youtube-live-023-K010",
+          "mikey-youtube-live-023-K011",
+          "mikey-youtube-live-023-K012",
+          "mikey-youtube-live-023-K013",
+          "mikey-youtube-live-023-K014",
+          "mikey-youtube-live-023-K015",
+          "mikey-youtube-live-023-K016",
+          "mikey-youtube-live-023-K017",
+          "mikey-youtube-live-023-K018",
+          "mikey-youtube-live-023-K019",
+          "mikey-youtube-live-023-K020",
+          "mikey-youtube-live-023-K021",
+          "mikey-youtube-live-023-K022",
+          "mikey-youtube-live-023-K023",
+          "mikey-youtube-live-023-K024",
+          "mikey-youtube-live-023-K025"
+        ],
+        "episode_release_status_counts": {
+          "direct": 21,
+          "context_only": 2,
+          "do_not_generalize": 2
+        },
+        "gameplay": false,
+        "paths": {
+          "analysis": "items/mikey-youtube-live-023/analysis/episode-analysis.md",
+          "events": "items/mikey-youtube-live-023/analysis/events.jsonl",
+          "speakers": "items/mikey-youtube-live-023/analysis/speakers.json",
+          "reviews": "items/mikey-youtube-live-023/analysis/review-needed.jsonl",
+          "visual_review": "items/mikey-youtube-live-023/analysis/visual-review.md"
+        },
+        "file_sha256": {
+          "transcript": "264b84daa5546ae642fdeb530cdee1bda68ae82aa1e2d5fc736e4be00fbf5104",
+          "analysis": "fd45a522085adfae1208fc2bab6a7f58c0044eb4a4b93e4bcfd24750534c4106",
+          "events": "d7a732437c44d3dcd19c4864086de66c85c42495313feb87bdccd0e83dbbb057",
+          "evidence": "66d97a2838586596873c597bc7f4aececee65c857400bfdeb5466ad32917f545",
+          "knowledge": "747491acc99c950a84b86a2d935be06364f64c771e5184ef38e603dbb2f807b6",
+          "speakers": "bde0a3e54c9779fe38a533bcb8cb6c80b05757e9b51d46eb7f478e67dc9ccf5f",
+          "reviews": "151af6379829f7e06f7df25f3b6d8b8ddc2d850493b13ca759a8ca7bc698cb28",
+          "reviews_md": "600d80b3a9a0aec5028f3d71de56d5aa10cf2829d9bc1f214f81ce68f7c9f0ce",
+          "visual": "d9dedc4a6060a66d6dedfae3b782bca37d359d52304178508eeac87949c65472"
+        }
+      }
+    },
+    {
+      "check": "source_counts:mikey-youtube-live-024",
+      "result": "PASS",
+      "detail": {
+        "source_id": "mikey-youtube-live-024",
+        "livestream_number": 75,
+        "video_id": "-yPQ13M6jX8",
+        "youtube_url": "https://www.youtube.com/watch?v=-yPQ13M6jX8",
+        "title": "直播75：近期实战案例分享，直播答疑 泡妞 搭讪 约会丨搭訕玩家TV",
+        "published_date": "2025-10-19",
+        "source_sha256": "4bddfc514756ccb06e14cad8e8a994c572537517957ff9416efb770c24a4c93f",
+        "transcript_sha256": "eb0a4c9731c490581d9a82d90e0fb67b3b6a0de2b8d06f286f5241a18a575332",
+        "segment_count": 2113,
+        "event_count": 13,
+        "knowledge_count": 16,
+        "knowledge_quote_count": 180,
+        "review_needed_count": 10,
+        "blocking_review_count": 8,
+        "major_review_count": 2,
+        "speaker_ids": [
+          "mikey",
+          "viewer-question-01"
+        ],
+        "knowledge_ids": [
+          "mikey-youtube-live-024-K001",
+          "mikey-youtube-live-024-K002",
+          "mikey-youtube-live-024-K003",
+          "mikey-youtube-live-024-K004",
+          "mikey-youtube-live-024-K005",
+          "mikey-youtube-live-024-K006",
+          "mikey-youtube-live-024-K007",
+          "mikey-youtube-live-024-K008",
+          "mikey-youtube-live-024-K009",
+          "mikey-youtube-live-024-K010",
+          "mikey-youtube-live-024-K011",
+          "mikey-youtube-live-024-K012",
+          "mikey-youtube-live-024-K013",
+          "mikey-youtube-live-024-K014",
+          "mikey-youtube-live-024-K015",
+          "mikey-youtube-live-024-K016"
+        ],
+        "episode_release_status_counts": {
+          "context_only": 4,
+          "direct": 9,
+          "do_not_generalize": 3
+        },
+        "gameplay": false,
+        "paths": {
+          "analysis": "items/mikey-youtube-live-024/analysis/episode-analysis.md",
+          "events": "items/mikey-youtube-live-024/analysis/events.jsonl",
+          "speakers": "items/mikey-youtube-live-024/analysis/speakers.json",
+          "reviews": "items/mikey-youtube-live-024/analysis/review-needed.jsonl",
+          "visual_review": "items/mikey-youtube-live-024/analysis/visual-review.md"
+        },
+        "file_sha256": {
+          "transcript": "eb0a4c9731c490581d9a82d90e0fb67b3b6a0de2b8d06f286f5241a18a575332",
+          "analysis": "37d88277aa70f132e43406eaa99c57ec6cabccfe7f327a5f294484c3b99bf44d",
+          "events": "f2ad3922d14706db5afa81b9e9569dfe232a8ba45c1756f472c8313dad61a213",
+          "evidence": "ebd46a609c1d5a915fc78863cee0c11cd9858de68e43ca3b2ff81ac36c12bcc9",
+          "knowledge": "4aa75873a26b39254b38944949dc455819506341e0dd5ec6fe1b75193ea2719f",
+          "speakers": "b14d7c727b1b0a5f4ed931080dc59b8966f8ca562265b20fd1bc72ff5940d943",
+          "reviews": "d8bde6bf1f23b840a38b6ed85b8eedcf90d190d1acbf64b3ffbb57d482561cd9",
+          "reviews_md": "04c7703f91ba1781078285b79ca16b18d35ba9562213d6abed2b4820e3738a75",
+          "visual": "6678ae29d8befc635b5634f5fc546ec86744fb2afba6ce3c37f732b0720a4ad8"
+        }
+      }
+    },
+    {
+      "check": "source_counts:mikey-youtube-live-025",
+      "result": "PASS",
+      "detail": {
+        "source_id": "mikey-youtube-live-025",
+        "livestream_number": 77,
+        "video_id": "dSYHWDUlQ4I",
+        "youtube_url": "https://www.youtube.com/watch?v=dSYHWDUlQ4I",
+        "title": "直播77：近期实战案例分享，直播答疑 泡妞 搭讪 约会丨搭訕玩家TV",
+        "published_date": "2025-11-10",
+        "source_sha256": "df309cf805996a1ff85f762f1e999b5d43228cd798fd83e56903e511deb3dcf5",
+        "transcript_sha256": "8d38c54308fffc8f759dcf11a90cec7eb25c946ac246f935f11aedd20127e18f",
+        "segment_count": 1346,
+        "event_count": 12,
+        "knowledge_count": 16,
+        "knowledge_quote_count": 152,
+        "review_needed_count": 8,
+        "blocking_review_count": 5,
+        "major_review_count": 3,
+        "speaker_ids": [
+          "mikey",
+          "viewer-question-01"
+        ],
+        "knowledge_ids": [
+          "mikey-youtube-live-025-K001",
+          "mikey-youtube-live-025-K002",
+          "mikey-youtube-live-025-K003",
+          "mikey-youtube-live-025-K004",
+          "mikey-youtube-live-025-K005",
+          "mikey-youtube-live-025-K006",
+          "mikey-youtube-live-025-K007",
+          "mikey-youtube-live-025-K008",
+          "mikey-youtube-live-025-K009",
+          "mikey-youtube-live-025-K010",
+          "mikey-youtube-live-025-K011",
+          "mikey-youtube-live-025-K012",
+          "mikey-youtube-live-025-K013",
+          "mikey-youtube-live-025-K014",
+          "mikey-youtube-live-025-K015",
+          "mikey-youtube-live-025-K016"
+        ],
+        "episode_release_status_counts": {
+          "context_only": 4,
+          "direct": 10,
+          "do_not_generalize": 2
+        },
+        "gameplay": false,
+        "paths": {
+          "analysis": "items/mikey-youtube-live-025/analysis/episode-analysis.md",
+          "events": "items/mikey-youtube-live-025/analysis/events.jsonl",
+          "speakers": "items/mikey-youtube-live-025/analysis/speakers.json",
+          "reviews": "items/mikey-youtube-live-025/analysis/review-needed.jsonl",
+          "visual_review": "items/mikey-youtube-live-025/analysis/visual-review.md"
+        },
+        "file_sha256": {
+          "transcript": "8d38c54308fffc8f759dcf11a90cec7eb25c946ac246f935f11aedd20127e18f",
+          "analysis": "305300af34c2b5d1ffa96212d16122f90f95538bf6abef00dccc19918113ce4c",
+          "events": "2b016d2e78fc39c8a5225efc5dd960c6eb4f903efd3fcaebfaad8b4fcec6ba0f",
+          "evidence": "258bf804ba3040dc665b79f273ae60262d4e498854418b3cfec8fb3d22d15d56",
+          "knowledge": "36fbb455a5a4690b19f6db0202af1d3c2a8791ad19dd902fe57877ddc39c345f",
+          "speakers": "812dd98ccb5e176fdb68ae32a59bbea7b6e6ac9ad5fa5825d2c07f59578f9e5c",
+          "reviews": "01aac9eb7dada2ed37c03abe3c12f035c7cad06fedc50209bb8b8ca561d5ba24",
+          "reviews_md": "e78fa3bb06e8a22eb9e6587d66b2daf206844e6bca65fedb1df2052516ebcd67",
+          "visual": "5443a54aa579f86472628006256515d4e08d900c767cada47d4a6a71487183c1"
+        }
+      }
+    },
+    {
+      "check": "source_counts:mikey-youtube-live-026",
+      "result": "PASS",
+      "detail": {
+        "source_id": "mikey-youtube-live-026",
+        "livestream_number": 79,
+        "video_id": "PQbkX-IUGcs",
+        "youtube_url": "https://www.youtube.com/watch?v=PQbkX-IUGcs",
+        "title": "直播79：干货分享 直播答疑 泡妞 搭讪 约会丨搭訕玩家TV",
+        "published_date": "2025-11-20",
+        "source_sha256": "027237226dfb0ed91e97a48f8594b23d2b36786262920b7bd7e78b113fa3dcdc",
+        "transcript_sha256": "1339f0998ca9b9ba495a55e0e931546c309fc7888af64adc710dc4006d3319b4",
+        "segment_count": 1287,
+        "event_count": 12,
+        "knowledge_count": 9,
+        "knowledge_quote_count": 28,
+        "review_needed_count": 4,
+        "blocking_review_count": 3,
+        "major_review_count": 1,
+        "speaker_ids": [
+          "mikey",
+          "viewer-question-01"
+        ],
+        "knowledge_ids": [
+          "mikey-youtube-live-026-K001",
+          "mikey-youtube-live-026-K002",
+          "mikey-youtube-live-026-K003",
+          "mikey-youtube-live-026-K004",
+          "mikey-youtube-live-026-K005",
+          "mikey-youtube-live-026-K006",
+          "mikey-youtube-live-026-K007",
+          "mikey-youtube-live-026-K008",
+          "mikey-youtube-live-026-K009"
+        ],
+        "episode_release_status_counts": {
+          "direct": 4,
+          "context_only": 2,
+          "do_not_generalize": 3
+        },
+        "gameplay": false,
+        "paths": {
+          "analysis": "items/mikey-youtube-live-026/analysis/episode-analysis.md",
+          "events": "items/mikey-youtube-live-026/analysis/events.jsonl",
+          "speakers": "items/mikey-youtube-live-026/analysis/speakers.json",
+          "reviews": "items/mikey-youtube-live-026/analysis/review-needed.jsonl",
+          "visual_review": "items/mikey-youtube-live-026/analysis/visual-review.md"
+        },
+        "file_sha256": {
+          "transcript": "1339f0998ca9b9ba495a55e0e931546c309fc7888af64adc710dc4006d3319b4",
+          "analysis": "7da14f7b4c076f0fb81d51cfe403660b1eabcf73393f5929f9fc99befcee459a",
+          "events": "68ec88ad76caed011e88a348504c08509b8eb85f51ea7c19607ea1356e1ca069",
+          "evidence": "0bbca1b0ca43ead99a49d0533017ea073b9efb8f45df4edb5f0725c98067363d",
+          "knowledge": "48bb0b5179b80d147cffc95e0d8e32b062c847805d0da707cda58fe96bd88011",
+          "speakers": "0ea46f4161f1c4db2288b2eef93ebd7763e1f052a863955d14436cbde3a7ab2f",
+          "reviews": "17ab0ec829b20c9101177c0e6e1c66651a54aa0a71e9dfd892e3b2e9ad6c21a6",
+          "reviews_md": "bf4be26477d93179f4ab7d80c77be4929904f06cdd5ee27f0a2b20b651adc410",
+          "visual": "df010eff6405d6c1021431be80aced809f52c724c1d68b4e3f9f68cd6390bb8d"
+        }
+      }
+    },
+    {
+      "check": "source_counts:mikey-youtube-live-027",
+      "result": "PASS",
+      "detail": {
+        "source_id": "mikey-youtube-live-027",
+        "livestream_number": 80,
+        "video_id": "8jCwDoBjWT0",
+        "youtube_url": "https://www.youtube.com/watch?v=8jCwDoBjWT0",
+        "title": "直播80：干货分享 直播答疑 泡妞 搭讪 约会丨搭訕玩家TV",
+        "published_date": "2025-11-22",
+        "source_sha256": "51a196647f6e7e11c8f12753f054fb7ad15a3683b1c871f92721b88b26b95d17",
+        "transcript_sha256": "45a9f07d4d60693f07d0674a284f54c8cab2bff93a498195ece945d9895e20ab",
+        "segment_count": 1270,
+        "event_count": 14,
+        "knowledge_count": 12,
+        "knowledge_quote_count": 39,
+        "review_needed_count": 3,
+        "blocking_review_count": 2,
+        "major_review_count": 1,
+        "speaker_ids": [
+          "mikey",
+          "viewer-question-01"
+        ],
+        "knowledge_ids": [
+          "mikey-youtube-live-027-K001",
+          "mikey-youtube-live-027-K002",
+          "mikey-youtube-live-027-K003",
+          "mikey-youtube-live-027-K004",
+          "mikey-youtube-live-027-K005",
+          "mikey-youtube-live-027-K006",
+          "mikey-youtube-live-027-K007",
+          "mikey-youtube-live-027-K008",
+          "mikey-youtube-live-027-K009",
+          "mikey-youtube-live-027-K010",
+          "mikey-youtube-live-027-K011",
+          "mikey-youtube-live-027-K012"
+        ],
+        "episode_release_status_counts": {
+          "direct": 9,
+          "context_only": 2,
+          "do_not_generalize": 1
+        },
+        "gameplay": false,
+        "paths": {
+          "analysis": "items/mikey-youtube-live-027/analysis/episode-analysis.md",
+          "events": "items/mikey-youtube-live-027/analysis/events.jsonl",
+          "speakers": "items/mikey-youtube-live-027/analysis/speakers.json",
+          "reviews": "items/mikey-youtube-live-027/analysis/review-needed.jsonl",
+          "visual_review": "items/mikey-youtube-live-027/analysis/visual-review.md"
+        },
+        "file_sha256": {
+          "transcript": "45a9f07d4d60693f07d0674a284f54c8cab2bff93a498195ece945d9895e20ab",
+          "analysis": "3bb86f99640889d29b220f13abc81271efc389ba9f704398300744947a960628",
+          "events": "90a595caa041e45d5735e3cb3d0ef501feca91c5a71f4189a5a6f5315d51b5d3",
+          "evidence": "42dbd463fc27aa1a201c5a98a56929da87f7ecc0e1143f4302f753461766c13b",
+          "knowledge": "9afdfeae47d263090f4fc0f4f8402df7241e32c9ab03f538825d7dc4f0294e06",
+          "speakers": "212a05e58017bdcd54200f372b75119d41c129078294572ab605e6142610135e",
+          "reviews": "82016c84429c21c3f7131ca367e5fcdbb05ac542ed31eca559115dbfd951b5dc",
+          "reviews_md": "97600835056b11a71cab5e451997013e77b719ef0bf08334b9091b6598d32274",
+          "visual": "b21bc0ae0671deab91862f14120814f118a31b52ece54d549e265ac744d5f861"
+        }
+      }
+    },
+    {
+      "check": "source_counts:mikey-youtube-live-028",
+      "result": "PASS",
+      "detail": {
+        "source_id": "mikey-youtube-live-028",
+        "livestream_number": 81,
+        "video_id": "vBoAYfRFhh0",
+        "youtube_url": "https://www.youtube.com/watch?v=vBoAYfRFhh0",
+        "title": "直播81：干货分享 直播答疑 泡妞 搭讪 约会丨搭訕玩家TV",
+        "published_date": "2025-11-23",
+        "source_sha256": "1845ea29e0f735e43f3cc0a3f9d19c8b8f3225521840a74d4a616fcccb211f9d",
+        "transcript_sha256": "7c9257e8ea46299d36b6fa1e08f8a7a7cab629b4a0dc866f6a46e53c39d14a23",
+        "segment_count": 1581,
+        "event_count": 15,
+        "knowledge_count": 12,
+        "knowledge_quote_count": 37,
+        "review_needed_count": 4,
+        "blocking_review_count": 3,
+        "major_review_count": 1,
+        "speaker_ids": [
+          "mikey",
+          "viewer-question-01"
+        ],
+        "knowledge_ids": [
+          "mikey-youtube-live-028-K001",
+          "mikey-youtube-live-028-K002",
+          "mikey-youtube-live-028-K003",
+          "mikey-youtube-live-028-K004",
+          "mikey-youtube-live-028-K005",
+          "mikey-youtube-live-028-K006",
+          "mikey-youtube-live-028-K007",
+          "mikey-youtube-live-028-K008",
+          "mikey-youtube-live-028-K009",
+          "mikey-youtube-live-028-K010",
+          "mikey-youtube-live-028-K011",
+          "mikey-youtube-live-028-K012"
+        ],
+        "episode_release_status_counts": {
+          "context_only": 3,
+          "direct": 6,
+          "hold": 1,
+          "do_not_generalize": 2
+        },
+        "gameplay": false,
+        "paths": {
+          "analysis": "items/mikey-youtube-live-028/analysis/episode-analysis.md",
+          "events": "items/mikey-youtube-live-028/analysis/events.jsonl",
+          "speakers": "items/mikey-youtube-live-028/analysis/speakers.json",
+          "reviews": "items/mikey-youtube-live-028/analysis/review-needed.jsonl",
+          "visual_review": "items/mikey-youtube-live-028/analysis/visual-review.md"
+        },
+        "file_sha256": {
+          "transcript": "7c9257e8ea46299d36b6fa1e08f8a7a7cab629b4a0dc866f6a46e53c39d14a23",
+          "analysis": "d8bcd92376155c2f7efd3d20a0817a64245b4399b2c8e3c6637afd89287a9bd5",
+          "events": "61d3ac2e72946143d988812e057707752596de63fe7d20b5dedaaf0e25da8503",
+          "evidence": "aeb193084d0051e1331cdbd2fff01d439e6a4fe473edbad0c74e6f1f5b32b0b7",
+          "knowledge": "8de7ef7425a4172ba53914a13e5c1e6d07551eb630550da4acadff71f1399c8a",
+          "speakers": "d19b9fbb503c80aeab31daf23f01dfc5f4c2f5440079e51d30e538d328a6538a",
+          "reviews": "5e5789f9505e2e032c45c4e02735b0e1f72020bad55c3f24f55d08d9a0c86b27",
+          "reviews_md": "2c06d1ccf30074987f118b5c51307e7f96cf8bfc09cbd7ae031afc49836b9ff6",
+          "visual": "ee551da27a09a454236ef06c1fec52b95594e66f0f2e58541fb17636574fcb87"
+        }
+      }
+    },
+    {
+      "check": "source_counts:mikey-youtube-live-029",
+      "result": "PASS",
+      "detail": {
+        "source_id": "mikey-youtube-live-029",
+        "livestream_number": 82,
+        "video_id": "knZc0MMOnbw",
+        "youtube_url": "https://www.youtube.com/watch?v=knZc0MMOnbw",
+        "title": "直播82：干货分享 直播答疑 泡妞 搭讪 约会丨搭訕玩家TV",
+        "published_date": "2025-11-24",
+        "source_sha256": "c1efcee3163ffe28b11d77a3e36fe8ae844a40bb139a371d00c1c2b86fcae512",
+        "transcript_sha256": "882af8b0fd0956460795623be87f925811fa28fb19f53be94a1a1a6364cb9050",
+        "segment_count": 2017,
+        "event_count": 15,
+        "knowledge_count": 12,
+        "knowledge_quote_count": 62,
+        "review_needed_count": 4,
+        "blocking_review_count": 4,
+        "major_review_count": 0,
+        "speaker_ids": [
+          "mikey",
+          "viewer-question-01",
+          "caller-01",
+          "unknown-voice-01"
+        ],
+        "knowledge_ids": [
+          "mikey-youtube-live-029-K001",
+          "mikey-youtube-live-029-K002",
+          "mikey-youtube-live-029-K003",
+          "mikey-youtube-live-029-K004",
+          "mikey-youtube-live-029-K005",
+          "mikey-youtube-live-029-K006",
+          "mikey-youtube-live-029-K007",
+          "mikey-youtube-live-029-K008",
+          "mikey-youtube-live-029-K009",
+          "mikey-youtube-live-029-K010",
+          "mikey-youtube-live-029-K011",
+          "mikey-youtube-live-029-K012"
+        ],
+        "episode_release_status_counts": {
+          "direct": 4,
+          "context_only": 4,
+          "hold": 1,
+          "do_not_generalize": 3
+        },
+        "gameplay": false,
+        "paths": {
+          "analysis": "items/mikey-youtube-live-029/analysis/episode-analysis.md",
+          "events": "items/mikey-youtube-live-029/analysis/events.jsonl",
+          "speakers": "items/mikey-youtube-live-029/analysis/speakers.json",
+          "reviews": "items/mikey-youtube-live-029/analysis/review-needed.jsonl",
+          "visual_review": "items/mikey-youtube-live-029/analysis/visual-review.md"
+        },
+        "file_sha256": {
+          "transcript": "882af8b0fd0956460795623be87f925811fa28fb19f53be94a1a1a6364cb9050",
+          "analysis": "7163d9c6942ff52a53ba0b28f19e045e3d685a58a0695cd5a3916965f05ee341",
+          "events": "20da19bcb9359ece14b877c0973c0058c393a405aadfb8c4424f18fb5391dc54",
+          "evidence": "0832de2152cce363b9097575c99675613332e391b943498691ea13fec1887b65",
+          "knowledge": "493409485ae9e47c9e68c71611708eb651cce04723e2d2a5cdafe69da5fb12c1",
+          "speakers": "0207cbb38f24e1e56b377533b83290b6f51ebb18b7d70bd9905a9f8abbc16ac6",
+          "reviews": "bc696b73c21e23cf41b00068b5069e47198fcf8c5a002ee82f8cb2c596cbcbe5",
+          "reviews_md": "19a86f96470f7377554c58e332e33e6d5f0f69d7f2cde87c0b7a78a695ac22db",
+          "visual": "fb4855715738687554a181bd214b71084ae8f7e3350f681c21e7d720b44fb573"
+        }
+      }
+    },
+    {
+      "check": "source_counts:mikey-youtube-live-030",
+      "result": "PASS",
+      "detail": {
+        "source_id": "mikey-youtube-live-030",
+        "livestream_number": 83,
+        "video_id": "KO5l9Lh7FZc",
+        "youtube_url": "https://www.youtube.com/watch?v=KO5l9Lh7FZc",
+        "title": "直播83：干货分享 直播答疑 泡妞 搭讪 约会丨搭訕玩家TV",
+        "published_date": "2025-12-04",
+        "source_sha256": "10010f3cb7d67f42a2f4f94fd5db8ff8f6b3a0f59f443c5ed0b942859dd06a04",
+        "transcript_sha256": "3bb3ef70eb933de47495c92dd3ea0aa67d9285c8c420f3dee7b27a253564616e",
+        "segment_count": 1329,
+        "event_count": 13,
+        "knowledge_count": 14,
+        "knowledge_quote_count": 83,
+        "review_needed_count": 4,
+        "blocking_review_count": 3,
+        "major_review_count": 1,
+        "speaker_ids": [
+          "mikey",
+          "viewer-question-01"
+        ],
+        "knowledge_ids": [
+          "mikey-youtube-live-030-K001",
+          "mikey-youtube-live-030-K002",
+          "mikey-youtube-live-030-K003",
+          "mikey-youtube-live-030-K004",
+          "mikey-youtube-live-030-K005",
+          "mikey-youtube-live-030-K006",
+          "mikey-youtube-live-030-K007",
+          "mikey-youtube-live-030-K008",
+          "mikey-youtube-live-030-K009",
+          "mikey-youtube-live-030-K010",
+          "mikey-youtube-live-030-K011",
+          "mikey-youtube-live-030-K012",
+          "mikey-youtube-live-030-K013",
+          "mikey-youtube-live-030-K014"
+        ],
+        "episode_release_status_counts": {
+          "direct": 8,
+          "context_only": 4,
+          "do_not_generalize": 2
+        },
+        "gameplay": false,
+        "paths": {
+          "analysis": "items/mikey-youtube-live-030/analysis/episode-analysis.md",
+          "events": "items/mikey-youtube-live-030/analysis/events.jsonl",
+          "speakers": "items/mikey-youtube-live-030/analysis/speakers.json",
+          "reviews": "items/mikey-youtube-live-030/analysis/review-needed.jsonl",
+          "visual_review": "items/mikey-youtube-live-030/analysis/visual-review.md"
+        },
+        "file_sha256": {
+          "transcript": "3bb3ef70eb933de47495c92dd3ea0aa67d9285c8c420f3dee7b27a253564616e",
+          "analysis": "5f333e712be5ec80be776e83e32fd203f47cb8331ffcbd34f4b07e780c11303c",
+          "events": "f36bef5e427627942415f1d5c59de15285c26e580e4f84541a6e9536acbc3e5a",
+          "evidence": "9a577c307f33a4622f6fc994dedcbb55a06bd0cd038e1bfa0843434ecde5794b",
+          "knowledge": "51a6aab1b317b63f86e5ceb05098a0a0b7b4ae87f06908db84b40e8554f55544",
+          "speakers": "22457834590d30bf90e3e6e78042afa27afa6f4b902ad258c66977c8e0d62474",
+          "reviews": "b07e3ec00fea62d242e194576b58252377b2d50487c3c8fd073dd93146d51ab8",
+          "reviews_md": "188c17d152fdc82fac6518a583a23c144515a0e946f96337e3c07b59ad982ef6",
+          "visual": "d15e9aa3604789888db84c5967b3871cb33a15b3034bdb102125c5e39aabddee"
+        }
+      }
+    },
+    {
+      "check": "knowledge_index_153_unique_complete",
+      "result": "PASS",
+      "detail": {
+        "rows": 153,
+        "unique": 153,
+        "missing": [],
+        "extra": []
+      }
+    },
+    {
+      "check": "knowledge_index_source_binding",
+      "result": "PASS",
+      "detail": []
+    },
+    {
+      "check": "runtime_counts_8_1_122_22",
+      "result": "PASS",
+      "detail": {
+        "hold": 122,
+        "direct": 8,
+        "do_not_generalize": 22,
+        "context_only": 1
+      }
+    },
+    {
+      "check": "reported_runtime_counts_match",
+      "result": "PASS",
+      "detail": {
+        "direct": 8,
+        "context_only": 1,
+        "hold": 122,
+        "do_not_generalize": 22
+      }
+    },
+    {
+      "check": "knowledge_catalog_153_unique",
+      "result": "PASS",
+      "detail": {
+        "rows": 153,
+        "unique": 153
+      }
+    },
+    {
+      "check": "knowledge_catalog_matches_local",
+      "result": "PASS",
+      "detail": []
+    },
+    {
+      "check": "event_catalog_136_unique_complete",
+      "result": "PASS",
+      "detail": {
+        "rows": 136,
+        "unique": 136
+      }
+    },
+    {
+      "check": "event_catalog_matches_local_projection",
+      "result": "PASS",
+      "detail": []
+    },
+    {
+      "check": "review_catalog_63_unique_complete",
+      "result": "PASS",
+      "detail": {
+        "rows": 63,
+        "unique": 63
+      }
+    },
+    {
+      "check": "review_catalog_matches_local_projection_except_known_visual_update",
+      "result": "PASS",
+      "detail": {
+        "unexpected": [],
+        "known_stale": []
+      }
+    },
+    {
+      "check": "speaker_registries_10_complete",
+      "result": "PASS",
+      "detail": [
+        "mikey-youtube-live-021",
+        "mikey-youtube-live-022",
+        "mikey-youtube-live-023",
+        "mikey-youtube-live-024",
+        "mikey-youtube-live-025",
+        "mikey-youtube-live-026",
+        "mikey-youtube-live-027",
+        "mikey-youtube-live-028",
+        "mikey-youtube-live-029",
+        "mikey-youtube-live-030"
+      ]
+    },
+    {
+      "check": "speaker_registries_match_local",
+      "result": "PASS",
+      "detail": []
+    },
+    {
+      "check": "status_preservation_153_complete",
+      "result": "PASS",
+      "detail": {
+        "rows": 153,
+        "unique": 153
+      }
+    },
+    {
+      "check": "status_preservation_and_no_upgrade",
+      "result": "PASS",
+      "detail": []
+    },
+    {
+      "check": "all_structured_evidence_ids_exist_and_source_bind",
+      "result": "PASS",
+      "detail": {
+        "checked": 3166,
+        "errors": []
+      }
+    },
+    {
+      "check": "evidence_event_sid_knowledge_tuple_binding",
+      "result": "PASS",
+      "detail": {
+        "checked": 3166,
+        "errors": []
+      }
+    },
+    {
+      "check": "all_identifier_literals_resolve",
+      "result": "PASS",
+      "detail": []
+    },
+    {
+      "check": "live70_all_restricted",
+      "result": "PASS",
+      "detail": {
+        "hold": 14,
+        "do_not_generalize": 4
+      }
+    },
+    {
+      "check": "live70_attribution_2014_uncertain_only",
+      "result": "PASS",
+      "detail": {
+        "spans": 16,
+        "sid_count": 2014,
+        "classes": [
+          "uncertain_overlap"
+        ]
+      }
+    },
+    {
+      "check": "live70_not_used_as_enabled_persona_route",
+      "result": "PASS",
+      "detail": []
+    },
+    {
+      "check": "live82_all_restricted",
+      "result": "PASS",
+      "detail": {
+        "hold": 9,
+        "do_not_generalize": 3
+      }
+    },
+    {
+      "check": "live82_phone_boundaries_preserved",
+      "result": "PASS",
+      "detail": {
+        "event_ids": [
+          "mikey-youtube-live-029-E0007",
+          "mikey-youtube-live-029-E0008",
+          "mikey-youtube-live-029-E0009",
+          "mikey-youtube-live-029-E0010",
+          "mikey-youtube-live-029-E0011",
+          "mikey-youtube-live-029-E0012",
+          "mikey-youtube-live-029-E0014"
+        ],
+        "continuity": "unknown",
+        "mapping": "not_available"
+      }
+    },
+    {
+      "check": "traceability_issues_62_unique_with_two_local_resolutions",
+      "result": "PASS",
+      "detail": {
+        "rows": 62,
+        "unique": 62,
+        "resolved_locally": [
+          "TI008",
+          "TI026"
+        ],
+        "errors": []
+      }
+    },
+    {
+      "check": "traceability_issues_do_not_authorize_affected_knowledge",
+      "result": "PASS",
+      "detail": []
+    },
+    {
+      "check": "review_dependency_map_153_and_refs_resolve",
+      "result": "PASS",
+      "detail": {
+        "rows": 153,
+        "errors": []
+      }
+    },
+    {
+      "check": "direct_and_context_have_no_independently_linked_open_review",
+      "result": "PASS",
+      "detail": {}
+    },
+    {
+      "check": "markdown_knowledge_index_153_unique_complete",
+      "result": "PASS",
+      "detail": {
+        "rows": 153,
+        "unique": 153
+      }
+    },
+    {
+      "check": "markdown_per_knowledge_runtime_levels_match",
+      "result": "PASS",
+      "detail": {
+        "pairs": 153,
+        "errors": []
+      }
+    },
+    {
+      "check": "markdown_summary_counts_match_json",
+      "result": "PASS",
+      "detail": [
+        8,
+        1,
+        122,
+        22,
+        153
+      ]
+    },
+    {
+      "check": "markdown_traceability_62_unique",
+      "result": "PASS",
+      "detail": {
+        "rows": 62,
+        "unique": 62
+      }
+    },
+    {
+      "check": "markdown_explicitly_preserves_live70_live82_limits",
+      "result": "PASS",
+      "detail": "required boundary statements"
+    },
+    {
+      "check": "embedded_report_keeps_semantic_review_open",
+      "result": "PASS",
+      "detail": {
+        "semantic_review_status": "OPEN_NOT_CLEARED",
+        "first_person_and_formal_integration": "NOT_AUTHORIZED",
+        "existing_open_reviews": 63,
+        "traceability_issues_open": 62
+      }
+    },
+    {
+      "check": "no_formal_skill_or_answer_claim",
+      "result": "PASS",
+      "detail": {
+        "knowledge_index_rows": 153,
+        "unique_knowledge_ids": 153,
+        "runtime_use_level_counts": {
+          "direct": 8,
+          "context_only": 1,
+          "hold": 122,
+          "do_not_generalize": 22
+        },
+        "original_release_status_counts": {
+          "direct": 85,
+          "context_only": 28,
+          "hold": 8,
+          "candidate_only": 10,
+          "do_not_generalize": 22
+        },
+        "original_attribution_status_counts": {
+          "explicit_mikey": 132,
+          "mixed_speakers": 21
+        },
+        "provided_representative_quote_count": 288,
+        "original_quote_reference_count": 963,
+        "unprovided_reference_occurrence_count": 675,
+        "unique_quote_reference_tuple_count": 959,
+        "unprovided_unique_evidence_text_count": 671,
+        "gameplay_five_class_counts": {
+          "mikey_commentary": 0,
+          "game_dialogue_or_narration": 0,
+          "viewer_chat_text": 0,
+          "mikey_quote_or_reading": 0,
+          "uncertain_overlap": 2014
+        },
+        "open_review_counts_by_original_severity": {
+          "major": 16,
+          "blocking": 47
+        },
+        "runtime_counts_by_source": {
+          "mikey-youtube-live-021": {
+            "direct": 1,
+            "context_only": 0,
+            "hold": 18,
+            "do_not_generalize": 0
+          },
+          "mikey-youtube-live-022": {
+            "direct": 0,
+            "context_only": 0,
+            "hold": 14,
+            "do_not_generalize": 4
+          },
+          "mikey-youtube-live-023": {
+            "direct": 3,
+            "context_only": 0,
+            "hold": 20,
+            "do_not_generalize": 2
+          },
+          "mikey-youtube-live-024": {
+            "direct": 3,
+            "context_only": 1,
+            "hold": 9,
+            "do_not_generalize": 3
+          },
+          "mikey-youtube-live-025": {
+            "direct": 1,
+            "context_only": 0,
+            "hold": 13,
+            "do_not_generalize": 2
+          },
+          "mikey-youtube-live-026": {
+            "direct": 0,
+            "context_only": 0,
+            "hold": 6,
+            "do_not_generalize": 3
+          },
+          "mikey-youtube-live-027": {
+            "direct": 0,
+            "context_only": 0,
+            "hold": 11,
+            "do_not_generalize": 1
+          },
+          "mikey-youtube-live-028": {
+            "direct": 0,
+            "context_only": 0,
+            "hold": 10,
+            "do_not_generalize": 2
+          },
+          "mikey-youtube-live-029": {
+            "direct": 0,
+            "context_only": 0,
+            "hold": 9,
+            "do_not_generalize": 3
+          },
+          "mikey-youtube-live-030": {
+            "direct": 0,
+            "context_only": 0,
+            "hold": 12,
+            "do_not_generalize": 2
+          }
+        },
+        "theme_count": 15,
+        "proposition_count": 34,
+        "method_relation_count": 20,
+        "conflict_count": 13,
+        "answer_pattern_count": 14,
+        "research_outline_count": 4,
+        "disabled_pattern_count": 10,
+        "do_not_generalize_category_count": 20,
+        "traceability_issue_count": 62,
+        "traceability_issue_counts_by_type": {
+          "compact_package_scope": 1,
+          "speaker_registry_url_mismatch": 2,
+          "knowledge_event_membership_mismatch": 7,
+          "review_window_inconsistent": 17,
+          "representative_excerpt_insufficient_or_off_topic": 28,
+          "phone_coarse_speaker_conflict": 1,
+          "task_gameplay_label_vs_anime_event_catalog": 1,
+          "edited_claim_is_not_verbatim_attribution": 1,
+          "unobserved_event_continuity": 1,
+          "reuse_ledger_stage_difference": 1,
+          "sid_is_source_local": 1,
+          "input_validator_scope": 1
+        },
+        "all_runtime_first_person_routes_authorized": false,
+        "formal_skill_modified": false,
+        "answer_generation_executed": false
+      }
+    },
+    {
+      "check": "final_local_visual_inventory_10_4359_97",
+      "result": "PASS",
+      "detail": {
+        "item_count": 10,
+        "completed_item_count": 10,
+        "completed_block_manifest_count": 93,
+        "candidate_count": 4359,
+        "candidate_file_count": 4359,
+        "survey_sheet_count": 97,
+        "survey_sheet_file_count": 97,
+        "manifest_validation": "passed",
+        "all_manifest_counts_match_files": true,
+        "missing_candidate_references": 0,
+        "missing_survey_sheet_references": 0,
+        "unreferenced_candidate_jpgs": 0,
+        "unreferenced_survey_jpgs": 0,
+        "continuous_audiovisual_review": "not_done"
+      }
+    },
+    {
+      "check": "synthesis_does_not_claim_it_performed_final_visual_review",
+      "result": "PASS",
+      "detail": {
+        "mikey-youtube-live-021": "not_performed",
+        "mikey-youtube-live-022": "not_performed",
+        "mikey-youtube-live-023": "not_performed",
+        "mikey-youtube-live-024": "not_performed",
+        "mikey-youtube-live-025": "not_performed",
+        "mikey-youtube-live-026": "not_performed",
+        "mikey-youtube-live-027": "not_performed",
+        "mikey-youtube-live-028": "not_performed",
+        "mikey-youtube-live-029": "not_performed",
+        "mikey-youtube-live-030": "not_performed"
+      }
+    },
+    {
+      "check": "final_visual_does_not_release_live70_or_live82",
+      "result": "PASS",
+      "detail": {
+        "live70": {
+          "hold": 14,
+          "do_not_generalize": 4
+        },
+        "live82": {
+          "hold": 9,
+          "do_not_generalize": 3
+        }
+      }
+    }
+  ],
+  "failures": [],
+  "warnings": [
+    {
+      "warning": "cross_synthesis_visual_ledger_predates_final_local_visual_pass",
+      "detail": "The downloaded synthesis did not receive the final 10/10 visual results: 4,359 candidate frames and 97 contact sheets; live79 has a 09:44-10:15 WeChat display with three full-resolution frames; live83 has no observed course page, price table or slide deck. Its conservative runtime holds remain safe, but these later facts must be merged during local integration."
+    }
+  ],
+  "limits": [
+    "This is a structural, referential, status-propagation and boundary audit.",
+    "It does not clear the 63 open source reviews or the 62 traceability issues.",
+    "It does not verify ASR wording, speaker identity, audiovisual continuity, legality, medical claims or real-world effectiveness.",
+    "It does not authorize first-person persona answers or formal skill integration."
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-046",
+  "youtube_id": "zHgwYvflSrs",
+  "review_completed": true,
+  "items": [
+    {
+      "review_id": "s046-r01",
+      "severity": "major",
+      "category": "unsupported_psychology_generalization",
+      "issue": "The explanation that the brain rejects intense feelings and therefore chooses long mild suffering is stated universally without evidence and omits other causes of avoidance.",
+      "affected_evidence": ["S00005-S00012@13.94-35.72"],
+      "disposition": "Keep as Mikey's motivational framing on hold; do not present it as established psychology or diagnosis."
+    },
+    {
+      "review_id": "s046-r02",
+      "severity": "major",
+      "category": "action_boundary",
+      "issue": "The title and setup could be read as urging any approach whenever fear appears, but the clip does not discuss safety, context, intrusion, refusal or stopping.",
+      "affected_evidence": ["whole source"],
+      "disposition": "Any future use must add the formal-source conditions of a safe, appropriate, low-pressure first step and immediate respect for refusal."
+    }
+  ]
+}

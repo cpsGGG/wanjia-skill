@@ -1,0 +1,60 @@
+{
+  "schema_version": "community-five-post-increment-1.0",
+  "status": "isolated_increment_pending_independent_gate",
+  "baseline": {
+    "origin": "current_formal_mikey-guide_frozen_at_preparation",
+    "file_count": 1757,
+    "file_hash_manifest_sha256": "48d4b234524bbc0f3e1d77302a580a0179b3b252fecfb2f549a8dd64b4b44205",
+    "historical_change_manifest": "history/community-refresh-20261004-baseline-change-manifest.json",
+    "historical_change_manifest_sha256": "939d377a9ccf6ba3c94dad269628054012972506489e466f7ea5adb618a7d9de"
+  },
+  "input_hashes": {
+    "public_archive": "083f5e50507590cf5f03b7bec74f16139b34498a7a473c3b97926ab39059052d",
+    "image_manifest": "e04620c99f21282644c76cf0cbe414d269a6635c00d9fb0ecc6a1bc5e971f86d",
+    "author_files": {
+      "mikey-youtube-community-205.json": "fbbd460ff6649c11e98fa550126919a2f47d3ba14fc6d95d7c0bf4c426a5e6a9",
+      "mikey-youtube-community-206.json": "29b6b62332ab165cfee7a2888bfea331c5810785b0232ac814d5d7699dab2b69",
+      "mikey-youtube-community-207.json": "df6dd48e1a22b51f178c3f7fb8fc198c79cd3c8dc76d6a4adc2c8d7cb7b3538b",
+      "mikey-youtube-community-208.json": "7d514f26401ef62f04d5684bdea5a39470e8ea0720bc800b057b6eea4e1edea1",
+      "mikey-youtube-community-209.json": "d238163d3b4c6714575d7aacbe40414dab48a3d049f38e79a4e3ef320b2dbd5e",
+      "summary.json": "cae731e114674ec005f549520cc2c1d86cd6dfc38fa189834f7a633c8ea27950"
+    },
+    "build_script": "a530062eccff5624ab40d3315b67cf8239f9b2144f53771642364ac7ae044933"
+  },
+  "counts": {
+    "sources_before": 505,
+    "sources_after": 510,
+    "knowledge_before": 3551,
+    "knowledge_after": 3551,
+    "community_posts_before": 204,
+    "community_posts_after": 209,
+    "community_text_segments_before": 512,
+    "community_text_segments_after": 533,
+    "new_images_in_research": 16,
+    "new_images_packaged": 0
+  },
+  "changed_files": [
+    "SKILL.md",
+    "references/source-index.json",
+    "references/baseline-resource-map.json",
+    "change-manifest.json"
+  ],
+  "added_files": [
+    "references/community-refresh-20261004/mikey-youtube-community-205.safe.json",
+    "references/community-posts/mikey-youtube-community-205.json",
+    "references/community-refresh-20261004/mikey-youtube-community-206.safe.json",
+    "references/community-posts/mikey-youtube-community-206.json",
+    "references/community-refresh-20261004/mikey-youtube-community-207.safe.json",
+    "references/community-posts/mikey-youtube-community-207.json",
+    "references/community-refresh-20261004/mikey-youtube-community-208.safe.json",
+    "references/community-posts/mikey-youtube-community-208.json",
+    "references/community-refresh-20261004/mikey-youtube-community-209.safe.json",
+    "references/community-posts/mikey-youtube-community-209.json",
+    "history/community-refresh-20261004-baseline-change-manifest.json"
+  ],
+  "removed_files": [],
+  "permission_delta": "none; all five new source records hold/false/zero; no knowledge row changed",
+  "manifest_hash_policy": "Final manifest hash belongs only to external candidate-file-hashes.json; no self hash.",
+  "formal_promote": "NOT_RUN_BY_BUILDER",
+  "independent_gate": "NOT_RUN_BY_BUILDER"
+}

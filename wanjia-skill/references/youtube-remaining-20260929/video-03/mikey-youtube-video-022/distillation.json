@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-022",
+  "youtube_id": "-ibLhiQv4V8",
+  "title": "【私教案例】为什么炮打的越多，还会越痛苦？丨強行爲線索丨自我提升丨社交認證丨自我意識覺醒丨社會底層代碼丨情感丨約會丨dating in china",
+  "coverage": {
+    "transcript_segments_read": 409,
+    "transcript_time_range_seconds": [0.0, 561.0],
+    "sparse_frames_reviewed": 13,
+    "dense_frames_reviewed": 80,
+    "dense_windows_required_seconds": [],
+    "continuous_original_audio_visual_review": false
+  },
+  "timeline": [
+    {"start": 0.0, "end": 58.62, "summary": "Mikey introduces a 25-year-old Beijing engineer who reportedly gets more sexual outcomes but remains distressed and asks why."},
+    {"start": 54.70, "end": 159.86, "summary": "He diagnoses rigid use of frame and theory: the student wants every interaction resolved immediately and cannot tolerate ambiguity or waiting."},
+    {"start": 158.68, "end": 234.18, "summary": "A private chat is shown in which the student directly proposes getting a room and the woman objects that they are not in a relationship."},
+    {"start": 233.12, "end": 350.28, "summary": "Mikey reframes the woman's objection as a need for moral justification and supplies wording about prior hurt, fear of responsibility and not wanting to deceive; he says the encounter then became sexual."},
+    {"start": 348.66, "end": 421.34, "summary": "A second interaction and social-media profile are used to argue that apparent confidence or sexuality may hide insecurity and that image fragments do not reveal a whole person."},
+    {"start": 419.38, "end": 448.96, "summary": "He reports that the student later had four or five regular sexual partners and influence over a wealthy woman."},
+    {"start": 447.72, "end": 540.60, "summary": "He concludes that technique is a skeleton while curiosity, enthusiasm, sincerity and tolerating vulnerability provide the life of an interaction."},
+    {"start": 539.84, "end": 561.0, "summary": "He closes by promoting consultation and suggesting that theory-heavy viewers seek individual correction."}
+  ],
+  "claims": [
+    {"claim_id": "v022-c01", "speaker": "Mikey", "statement": "Rigidly applying interaction theories can make a person force every ambiguity into an immediate answer and increase distress.", "conditions": "Useful as a case hypothesis only; no independent student interview or clinical assessment is provided.", "evidence": ["S00029-S00098@54.70-159.86"], "use_level": "context_only", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v022-c02", "speaker": "Mikey", "statement": "He recommends tolerating an unresolved state and allowing information to emerge instead of demanding immediate closure.", "conditions": "The narrow patience principle does not authorize pressure, strategic ambiguity or ignoring an explicit refusal.", "evidence": ["S00057-S00098@101.18-159.86"], "use_level": "context_only", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v022-c03", "speaker": "student in displayed chat, as narrated by Mikey", "statement": "The student directly proposed a hotel after work, while the woman responded that they were not in a relationship and questioned how they could go.", "conditions": "Private-chat material with blurred identity; text sequence is visible in dense frames but completeness, authorization and off-screen context are unknown.", "evidence": ["S00098-S00155@158.68-234.18", "visual/dense/155-355-every3s/contacts/contact-01.jpg"], "use_level": "hold", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v022-c04", "speaker": "Mikey interpreting the woman", "statement": "He claims the woman's objection did not mean she rejected sex and instead meant she needed a morally acceptable rationale.", "conditions": "Consent-sensitive mind-reading; an objection cannot be reclassified as hidden willingness without clear contemporaneous affirmative consent.", "evidence": ["S00112-S00179@177.84-269.64"], "use_level": "do_not_generalize", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v022-c05", "speaker": "Mikey coaching the student", "statement": "He supplies a story about being hurt, fearing responsibility and not wanting to deceive as a way to make casual sex seem sincere and acceptable.", "conditions": "Potentially deceptive sexual persuasion; the video does not establish that the story was true or that consent remained freely given.", "evidence": ["S00175-S00222@263.12-328.04", "visual/dense/155-355-every3s/contacts/contact-03.jpg", "visual/dense/155-355-every3s/contacts/contact-04.jpg"], "use_level": "do_not_generalize", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v022-c06", "speaker": "Mikey reporting an outcome", "statement": "He says the coached wording succeeded and the pair later had sex.", "conditions": "Unverified third-party outcome; no direct account from the woman and no independent evidence of consent or sequence.", "evidence": ["S00222-S00240@328.04-350.28"], "use_level": "hold", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v022-c07", "speaker": "Mikey", "statement": "A curated social-media profile or sexual presentation is not the whole person and may coexist with insecurity.", "conditions": "The first clause is a limited media-literacy point; the inference that a specific person is insecure remains speculative.", "evidence": ["S00240-S00296@348.66-421.34"], "use_level": "context_only", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v022-c08", "speaker": "Mikey reporting student status", "statement": "He claims the student later maintained four or five regular sexual partners and could direct a wealthy woman who had previously ignored him.", "conditions": "Promotional testimonial and status claim shown through selected messages; identities, chronology and outcomes are not verified.", "evidence": ["S00296-S00319@419.38-448.96", "visual/dense/420-445-every2s/contacts/contact-01.jpg"], "use_level": "do_not_generalize", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v022-c09", "speaker": "Mikey", "statement": "Technique can reduce communication cost, but curiosity, enthusiasm and sincere attention are presented as necessary for an interaction to feel alive.", "conditions": "Conceptual guidance only; 'sincerity' is contradicted by the earlier coached rationalization if that story was not true.", "evidence": ["S00319-S00372@447.72-516.38"], "use_level": "context_only", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v022-c10", "speaker": "Mikey", "statement": "Showing uncertainty or vulnerability can sometimes communicate more honesty than maintaining an inflexible high-status frame.", "conditions": "Context-dependent; vulnerability must not be fabricated as a persuasion tactic.", "evidence": ["S00355-S00391@495.14-540.60"], "use_level": "context_only", "knowledge_status": "hold_pending_independent_review"}
+  ],
+  "examples": [
+    {"example_id": "v022-e01", "summary": "The hotel invitation chat is used to contrast blunt outcome-seeking with a coached emotional explanation; it is also the main consent and manipulation risk in the source.", "evidence": ["S00098-S00240@158.68-350.28", "visual/dense/155-355-every3s/"]},
+    {"example_id": "v022-e02", "summary": "A later message list and chat are presented as proof of multiple ongoing sexual relationships and influence over a wealthy woman, but the screens cannot independently establish those claims.", "evidence": ["S00296-S00319@419.38-448.96", "visual/dense/420-445-every2s/"]}
+  ],
+  "speaker_attribution": [
+    {"speaker": "Mikey", "basis": "Single on-camera narrator who introduces himself and explains the student case."},
+    {"speaker": "student", "basis": "Known only through Mikey's account and selected private-message screenshots; the student does not independently speak in the video."},
+    {"speaker": "women in displayed chats", "basis": "Their words appear only in selected screenshots with blurred identifiers; identity, authorization, full history and consent context are unavailable."}
+  ],
+  "visual_findings": [
+    "All 13 sparse frames and 80 targeted dense frames were reviewed. Dense windows cover 155-355 seconds every 3 seconds and 420-445 seconds every 2 seconds; contact sheets are preserved beside the extracted frames.",
+    "The first dense window repeatedly shows selected WeChat-style conversation screens alongside Mikey's explanation. The screens support that the displayed exchange exists in the edit, but not that it is complete, authentic, authorized or accurately contextualized.",
+    "The later dense window shows a contact/message list and additional messages used as a testimonial. Names and profile details are partly blurred, but the material remains private relationship data.",
+    "No continuous original audio-visual review was performed; the dense samples cannot prove what occurred between displayed screenshots or after the alleged encounters."
+  ],
+  "permissions": {
+    "formal_integration": false,
+    "first_person_allowed": false,
+    "action_advice_allowed": false,
+    "knowledge_status": "hold_pending_independent_review",
+    "reason": "Private-message evidence, consent-sensitive persuasion, unverified sexual outcomes and promotional testimonials require independent review and strict use limits."
+  },
+  "limitations": [
+    "Automatic transcript was not checked word-for-word against original audio and may corrupt names or colloquial wording.",
+    "Private screenshots are selected and edited; missing messages, dates, identities, authorization and off-screen context cannot be reconstructed.",
+    "Mikey supplies both the diagnosis, the intervention and the outcome report, so the case is not independent evidence for the method.",
+    "A woman's objection or need for a relationship label cannot be treated as hidden sexual consent.",
+    "Dense frame review is still discontinuous and does not equal continuous audio-visual verification."
+  ]
+}

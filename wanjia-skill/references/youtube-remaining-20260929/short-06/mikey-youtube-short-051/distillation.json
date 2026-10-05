@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-051",
+  "youtube_id": "m-jwCMQU1uQ",
+  "title": "搭讪被打枪怎么办？  | 搭讪  丨约会丨dating in china #shorts",
+  "coverage": {
+    "transcript_segments_read": 28,
+    "transcript_time_range_seconds": [2.13, 53.4],
+    "semantic_media_range_seconds": [0.0, 53.893515],
+    "sampled_frames_reviewed": 18,
+    "continuous_original_audio_visual_review": false,
+    "excluded_asr_tail": null
+  },
+  "timeline": [
+    {"start": 0.0, "end": 2.13, "summary": "Vertical edit opens with a WeChat handle and the editorial title '搭讪被拒绝怎么办？' over identifiable public-street footage; no transcript speech is present."},
+    {"start": 2.13, "end": 15.38, "summary": "A man in a black ESSENTIALS shirt approaches a grey-top woman and says he wants to meet her. The woman keeps moving; by the end of this interval he turns toward a nearby two-woman group. The ASR does not reliably capture the first woman's reply, so her exact words remain unknown."},
+    {"start": 15.38, "end": 29.28, "summary": "The man introduces himself as Mike, asks where one woman is going and asks to leave WeChat before she goes. A worker or passerby with a cart enters the scene. Speaker turns and the scope of any assent are not reliably diarized."},
+    {"start": 29.28, "end": 41.4, "summary": "The conversation continues about whether the woman is local, then includes an appearance-based comment that she is cute and 'small'. The two stand near the group while the man appears to handle a phone; the screen and any saved contact are not visible."},
+    {"start": 41.4, "end": 53.893515, "summary": "They discuss that she is visiting and will leave the next day. The man mentions a possible future meeting if she returns to Chengdu, followed by '拜拜'. The edit ends without showing a verified saved contact, publication consent or later outcome."}
+  ],
+  "claims": [
+    {"claim_id": "s051-c01", "speaker": "field man, self-introduced as Mike; identity linkage to Mikey not independently reverified in this Short", "statement": "After the first approached woman continues away, he redirects to a nearby group and starts a new introduction.", "conditions": "Observed case sequence only. The first woman's exact reply is absent from reliable ASR, and changing targets must not be reframed as persistence after refusal. No exact formal parent recording has been established.", "evidence": ["S00001-S00007@2.13-17.88", "visual/sampled/000001.jpg-visual/sampled/000006.jpg"], "reuse_note": "Formal mikey-approach-009 was checked and rejected as the parent because its participants, third party, transcript and scene sequence differ.", "use_level": "hold", "knowledge_status": "candidate_new_case"},
+    {"claim_id": "s051-c02", "speaker": "field man and woman, turns not fully diarized", "statement": "The edited encounter contains a request to leave WeChat, local-origin and travel questions, and a possible future invitation before goodbye.", "conditions": "Phone handling does not prove that contact was saved; the Short does not establish voluntary contact exchange, attraction, future meeting or any causal lesson from the switch after the first approach.", "evidence": ["S00008-S00028@17.88-53.40", "visual/sampled/000007.jpg-visual/sampled/000018.jpg"], "reuse_note": "Generic contact-request and invitation patterns overlap formal cases, but no exact parent excerpt was confirmed.", "use_level": "hold", "knowledge_status": "candidate_new_case"}
+  ],
+  "speaker_attribution": [
+    {"speaker": "field man", "basis": "Visible throughout and self-introduces as Mike at S00007; the Short alone does not authenticate him as Mikey."},
+    {"speaker": "public participants", "basis": "Several women and a worker/passerby are visible; automatic ASR does not reliably separate their turns."}
+  ],
+  "visual_findings": [
+    "All 18 three-second sampled frames were reviewed at original resolution.",
+    "The Short is a distinct edited public-street case; comparison with formal mikey-approach-009 does not establish the same recording or an exact parent identity.",
+    "The first approached woman keeps walking, and the man then turns to a nearby group; the sparse frames do not establish her exact spoken response.",
+    "A third party with a cart passes through the interaction, but role, authority and speech are not established by the frames.",
+    "The man appears to use a phone, but no legible screen or complete contact-save sequence is visible.",
+    "Identifiable participants and bystanders appear throughout; filming and publication permission are not shown."
+  ],
+  "permissions": {
+    "formal_integration": false,
+    "first_person_allowed": false,
+    "action_advice_allowed": false,
+    "use_level": "hold",
+    "reason": "Distinct research case with unresolved refusal wording, speaker turns, contact result, identity, privacy and publication authorization; formal mikey-approach-009 was checked and rejected as the parent recording."
+  },
+  "limitations": [
+    "Automatic ASR was not checked word-for-word against original audio and contains clear corruptions.",
+    "Three-second frames do not replace continuous audio-visual review; the formal mikey-approach-009 survey and 1fps key-window review were used only to reject that proposed parent match.",
+    "The title is editorial framing, not independent evidence that a refusal occurred or that the subsequent conduct was appropriate.",
+    "No participant age, filming consent, publication consent, saved contact or later outcome is independently verified.",
+    "No ASR segment extends beyond the 53.893515-second media duration."
+  ]
+}

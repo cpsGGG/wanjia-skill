@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-031",
+  "youtube_id": "iJ-sPn7b1_Q",
+  "review_completed": true,
+  "items": [
+    {
+      "review_id": "s031-r01",
+      "severity": "major",
+      "category": "source_reuse",
+      "issue": "The full semantic excerpt is already present in formal quark-live-044 at S02304-S02348.",
+      "affected_evidence": ["whole source"],
+      "disposition": "Keep formal weight at zero and do not count this Short as independent support."
+    },
+    {
+      "review_id": "s031-r02",
+      "severity": "major",
+      "category": "asr_uncertainty",
+      "issue": "Short ASR corrupts several meaning-bearing words, including 碌碌无为, 添砖加瓦, 认同, 公务员 and part of the closing celebrity description.",
+      "affected_evidence": ["S00013-S00014", "S00019-S00021", "S00035-S00036", "S00043-S00050"],
+      "disposition": "Use the aligned formal passage for wording; do not quote the Short transcript verbatim in these spans."
+    },
+    {
+      "review_id": "s031-r03",
+      "severity": "major",
+      "category": "scope_boundary",
+      "issue": "The exhortation to do what one wants omits legal, financial, health, relational and safety constraints.",
+      "affected_evidence": ["S00021-S00028@50.03-61.96"],
+      "disposition": "Keep as the speaker's value framing, not unrestricted action advice."
+    }
+  ]
+}

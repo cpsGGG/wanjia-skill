@@ -1,0 +1,2902 @@
+{
+  "role": "historical_only_not_current_answer_argument",
+  "web_findings": [
+    "F01",
+    "F02"
+  ],
+  "T09_before": {
+    "id": "T09",
+    "title": "推进时间应服从阶段和情境",
+    "interpretation": "原文先说“大部分新手小白”没有必要再遵守3060，接着回顾当初用来推动不敢转场的新手，随后说报名者开始变为中阶、已能拿结果，因此不必机械遵守。烧录字幕确认前后两种范围都存在；只能保留这个局部修订，不能收窄成“只给中阶放宽”。",
+    "evidence": [
+      {
+        "knowledge_id": "mikey-youtube-video-001-k004",
+        "source_id": "mikey-youtube-video-001",
+        "ref": [
+          "S00172",
+          "S00173",
+          "S00174",
+          "S00175",
+          "S00176",
+          "S00177",
+          "S00178",
+          "S00179",
+          "S00180",
+          "S00181",
+          "S00182",
+          "S00183",
+          "S00184",
+          "S00185",
+          "S00186",
+          "S00187",
+          "S00188",
+          "S00189",
+          "S00190",
+          "S00191",
+          "S00192",
+          "S00193",
+          "S00194",
+          "S00195",
+          "S00196",
+          "S00197",
+          "S00198",
+          "S00199",
+          "S00200",
+          "S00201",
+          "S00202",
+          "S00203",
+          "S00204",
+          "S00205",
+          "S00206",
+          "S00207"
+        ],
+        "path": "references/youtube-remaining-20260929/video-01/mikey-youtube-video-001/transcript.json",
+        "url": "https://www.youtube.com/watch?v=GQ6Md8q2R30",
+        "speaker": "Mikey",
+        "first_person_allowed": false,
+        "action_advice_allowed": false
+      },
+      {
+        "knowledge_id": "mikey-youtube-video-004:v004-c05",
+        "source_id": "mikey-youtube-video-004",
+        "ref": [
+          "S00225",
+          "S00226",
+          "S00227",
+          "S00228",
+          "S00229",
+          "S00230",
+          "S00231",
+          "S00232",
+          "S00233",
+          "S00234",
+          "S00235",
+          "S00236",
+          "S00237",
+          "S00238",
+          "S00239",
+          "S00240",
+          "S00241",
+          "S00242",
+          "S00243",
+          "S00244",
+          "S00245",
+          "S00246",
+          "S00247",
+          "S00248",
+          "S00249",
+          "S00250",
+          "S00251",
+          "S00252",
+          "S00253",
+          "S00254",
+          "S00255",
+          "S00256",
+          "S00257",
+          "S00258",
+          "S00301",
+          "S00302",
+          "S00303",
+          "S00304",
+          "S00305",
+          "S00306",
+          "S00307",
+          "S00308",
+          "S00309",
+          "S00310",
+          "S00311",
+          "S00312",
+          "S00313"
+        ],
+        "path": "references/youtube-remaining-20260929/video-01/mikey-youtube-video-004/transcript.json",
+        "url": "https://www.youtube.com/watch?v=ea-wnYQpZWM",
+        "speaker": "Mikey",
+        "first_person_allowed": false,
+        "action_advice_allowed": false
+      },
+      {
+        "knowledge_id": "mikey-youtube-video-028:v028-c08",
+        "source_id": "mikey-youtube-video-028",
+        "ref": [
+          "S00200",
+          "S00201",
+          "S00202",
+          "S00203",
+          "S00204"
+        ],
+        "path": "references/youtube-remaining-20260929/video-03/mikey-youtube-video-028/transcript.json",
+        "url": "https://www.youtube.com/watch?v=suYJ3bMCxJc",
+        "speaker": "Mikey",
+        "first_person_allowed": false,
+        "action_advice_allowed": false
+      }
+    ],
+    "baseline_comparison": [
+      {
+        "knowledge_id": "mikey-practice-034-K0001",
+        "source_id": "mikey-practice-034",
+        "ref": [
+          "S00067",
+          "S00069",
+          "S00072",
+          "S00077",
+          "S00079",
+          "S00140",
+          "S00146",
+          "S00148",
+          "S00149",
+          "S00152",
+          "S00154"
+        ],
+        "path": "references/mikey-practice/mikey-practice-034/transcript.json",
+        "url": null,
+        "speaker": "tentative",
+        "first_person_allowed": false,
+        "action_advice_allowed": false
+      },
+      {
+        "knowledge_id": "mikey-practice-034-K0004",
+        "source_id": "mikey-practice-034",
+        "ref": [
+          "S00333",
+          "S00334",
+          "S00335",
+          "S00336",
+          "S00344",
+          "S00345",
+          "S00347"
+        ],
+        "path": "references/mikey-practice/mikey-practice-034/transcript.json",
+        "url": null,
+        "speaker": "tentative",
+        "first_person_allowed": false,
+        "action_advice_allowed": false
+      },
+      {
+        "knowledge_id": "mikey-practice-035-K0003",
+        "source_id": "mikey-practice-035",
+        "ref": [
+          "S00126",
+          "S00127",
+          "S00128",
+          "S00131"
+        ],
+        "path": "references/mikey-practice/mikey-practice-035/transcript.json",
+        "url": null,
+        "speaker": "checked",
+        "first_person_allowed": false,
+        "action_advice_allowed": false
+      }
+    ],
+    "relation_to_baseline": "restatement_with_conditions_or_examples; not automatically a new method",
+    "first_person_allowed": false,
+    "action_advice_allowed": false,
+    "entry_kind": "analyst_cross_source_interpretation_not_author_quote"
+  },
+  "C11_before": {
+    "id": "C11",
+    "issue": "3060规则范围修订",
+    "type": "explicit_retrospective_change_with_internal_scope_ambiguity",
+    "evidence": [
+      {
+        "knowledge_id": "mikey-youtube-video-001-k004",
+        "source_id": "mikey-youtube-video-001",
+        "ref": [
+          "S00172",
+          "S00173",
+          "S00174",
+          "S00175",
+          "S00176",
+          "S00177",
+          "S00178",
+          "S00179",
+          "S00180",
+          "S00181",
+          "S00182",
+          "S00183",
+          "S00184",
+          "S00185",
+          "S00186",
+          "S00187",
+          "S00188",
+          "S00189",
+          "S00190",
+          "S00191",
+          "S00192",
+          "S00193",
+          "S00194",
+          "S00195",
+          "S00196",
+          "S00197",
+          "S00198",
+          "S00199",
+          "S00200",
+          "S00201",
+          "S00202",
+          "S00203",
+          "S00204",
+          "S00205",
+          "S00206",
+          "S00207"
+        ],
+        "path": "references/youtube-remaining-20260929/video-01/mikey-youtube-video-001/transcript.json",
+        "url": "https://www.youtube.com/watch?v=GQ6Md8q2R30",
+        "speaker": "Mikey",
+        "first_person_allowed": false,
+        "action_advice_allowed": false
+      },
+      {
+        "knowledge_id": "mikey-practice-034-K0001",
+        "source_id": "mikey-practice-034",
+        "ref": [
+          "S00067",
+          "S00069",
+          "S00072",
+          "S00077",
+          "S00079",
+          "S00140",
+          "S00146",
+          "S00148",
+          "S00149",
+          "S00152",
+          "S00154"
+        ],
+        "path": "references/mikey-practice/mikey-practice-034/transcript.json",
+        "url": null,
+        "speaker": "tentative",
+        "first_person_allowed": false,
+        "action_advice_allowed": false
+      },
+      {
+        "knowledge_id": "mikey-practice-035-K0003",
+        "source_id": "mikey-practice-035",
+        "ref": [
+          "S00126",
+          "S00127",
+          "S00128",
+          "S00131"
+        ],
+        "path": "references/mikey-practice/mikey-practice-035/transcript.json",
+        "url": null,
+        "speaker": "checked",
+        "first_person_allowed": false,
+        "action_advice_allowed": false
+      }
+    ],
+    "resolution_status": "preserve_both; no silent reconciliation",
+    "dates": [
+      {
+        "source_id": "mikey-youtube-video-001",
+        "date": "2026-09-26",
+        "basis": "download_filename_date_when_available_not_independently_refetched"
+      },
+      {
+        "source_id": "mikey-practice-034",
+        "date": null,
+        "basis": "no_publication_date_in_local_source_metadata"
+      },
+      {
+        "source_id": "mikey-practice-035",
+        "date": null,
+        "basis": "no_publication_date_in_local_source_metadata"
+      }
+    ],
+    "first_person_allowed": false,
+    "action_advice_allowed": false,
+    "source_positions": [
+      {
+        "knowledge_id": "mikey-youtube-video-001-k004",
+        "source_id": "mikey-youtube-video-001",
+        "source_position": "他先说现在大部分新手小白没有必要再遵守3060，接着回顾当初设计它帮助不敢转场的新手，再说报名者变为中阶、已有拿到结果能力，因此不必机械卡时间。",
+        "position_status": "structured_distillation_summary; not a verified verbatim quote",
+        "original_condition_field": "阶段性教学修订；任何时间规则都不替代明确、自愿、持续的同意。",
+        "condition_field_attribution": "mixed source-context/guide-editor notes; not automatically the authors words",
+        "date": "2026-09-26",
+        "date_basis": "download_filename_date_when_available_not_independently_refetched",
+        "raw_sid_evidence": [
+          "S00172",
+          "S00173",
+          "S00174",
+          "S00175",
+          "S00176",
+          "S00177",
+          "S00178",
+          "S00179",
+          "S00180",
+          "S00181",
+          "S00182",
+          "S00183",
+          "S00184",
+          "S00185",
+          "S00186",
+          "S00187",
+          "S00188",
+          "S00189",
+          "S00190",
+          "S00191",
+          "S00192",
+          "S00193",
+          "S00194",
+          "S00195",
+          "S00196",
+          "S00197",
+          "S00198",
+          "S00199",
+          "S00200",
+          "S00201",
+          "S00202",
+          "S00203",
+          "S00204",
+          "S00205",
+          "S00206",
+          "S00207"
+        ],
+        "first_person_allowed": false,
+        "action_advice_allowed": false,
+        "original_distillation_summary_historical_only": "3060原则被他重新限定为推动不敢行动的新手的辅助规则，中阶学员不应机械按固定时间推进。",
+        "legacy_distillation_summary_historical_only": "他先说现在大部分新手小白没有必要再遵守3060，接着回顾当初设计它帮助不敢转场的新手，再说报名者变为中阶、已有拿到结果能力，因此不必机械卡时间；前后范围并未被统一澄清。",
+        "legacy_summary_is_current_source_argument": false,
+        "source_position_support_sids": [
+          "S00172",
+          "S00173",
+          "S00174",
+          "S00175",
+          "S00176",
+          "S00177",
+          "S00178",
+          "S00179",
+          "S00180",
+          "S00181",
+          "S00182",
+          "S00183",
+          "S00184",
+          "S00185",
+          "S00186",
+          "S00187",
+          "S00188",
+          "S00189",
+          "S00190",
+          "S00191",
+          "S00192",
+          "S00193",
+          "S00194",
+          "S00195",
+          "S00196",
+          "S00197",
+          "S00198",
+          "S00199",
+          "S00200",
+          "S00201",
+          "S00202",
+          "S00203",
+          "S00204",
+          "S00205",
+          "S00206",
+          "S00207"
+        ],
+        "legacy_raw_sid_evidence_historical_only": [
+          "S00172",
+          "S00173",
+          "S00174",
+          "S00175",
+          "S00176",
+          "S00177",
+          "S00178",
+          "S00179",
+          "S00180",
+          "S00181",
+          "S00182",
+          "S00183",
+          "S00184",
+          "S00185",
+          "S00186",
+          "S00187",
+          "S00188",
+          "S00189",
+          "S00190",
+          "S00191",
+          "S00192",
+          "S00193",
+          "S00194",
+          "S00195",
+          "S00196",
+          "S00197",
+          "S00198",
+          "S00199",
+          "S00200",
+          "S00201",
+          "S00202",
+          "S00203",
+          "S00204",
+          "S00205",
+          "S00206",
+          "S00207"
+        ],
+        "editorial_application_historical_only": [
+          "前后范围并未被统一澄清。"
+        ],
+        "editorial_application_attribution": "guide_editor_not_Mikey_source_condition_or_new_action_permission"
+      },
+      {
+        "knowledge_id": "mikey-practice-034-K0001",
+        "source_id": "mikey-practice-034",
+        "source_position": "本段讲解把3060解释为前30分钟建立吸引、一场约会一定控制在一小时以内；要求前30分钟主动、热情、大方，并说这不等于舔狗。后续讲解又要求把优秀品质、特质、主动和热情展现出来，不要装逼、不要做框架控制狂。",
+        "position_status": "structured_distillation_summary; not a verified verbatim quote",
+        "original_condition_field": [],
+        "condition_field_attribution": "mixed source-context/guide-editor notes; not automatically the authors words",
+        "date": null,
+        "date_basis": "no_publication_date_in_local_source_metadata",
+        "raw_sid_evidence": [
+          "S00065",
+          "S00066",
+          "S00067",
+          "S00068",
+          "S00069",
+          "S00070",
+          "S00071",
+          "S00072",
+          "S00073",
+          "S00074",
+          "S00075",
+          "S00076",
+          "S00077",
+          "S00078",
+          "S00079",
+          "S00080",
+          "S00081",
+          "S00082",
+          "S00140",
+          "S00141",
+          "S00142",
+          "S00143",
+          "S00144",
+          "S00145",
+          "S00146",
+          "S00147",
+          "S00148",
+          "S00149",
+          "S00150",
+          "S00151",
+          "S00152",
+          "S00153",
+          "S00154"
+        ],
+        "first_person_allowed": false,
+        "action_advice_allowed": false,
+        "legacy_distillation_summary_historical_only": "Mikey要求前30分钟主动、热情、大方，并把它与讨好区分。可保留的是主动问候、投入交流和照顾现实安排；把整场必须压在一小时内的3060数字只作他的个人经验，不当成硬规则。",
+        "legacy_summary_is_current_source_argument": false,
+        "source_position_support_sids": [
+          "S00065",
+          "S00066",
+          "S00067",
+          "S00068",
+          "S00069",
+          "S00070",
+          "S00071",
+          "S00072",
+          "S00073",
+          "S00074",
+          "S00075",
+          "S00076",
+          "S00077",
+          "S00078",
+          "S00079",
+          "S00080",
+          "S00081",
+          "S00082",
+          "S00140",
+          "S00141",
+          "S00142",
+          "S00143",
+          "S00144",
+          "S00145",
+          "S00146",
+          "S00147",
+          "S00148",
+          "S00149",
+          "S00150",
+          "S00151",
+          "S00152",
+          "S00153",
+          "S00154"
+        ],
+        "legacy_raw_sid_evidence_historical_only": [
+          "S00067",
+          "S00069",
+          "S00072",
+          "S00077",
+          "S00079",
+          "S00140",
+          "S00146",
+          "S00148",
+          "S00149",
+          "S00152",
+          "S00154"
+        ],
+        "editorial_application_historical_only": [
+          "可保留的应用是主动问候、投入交流和照顾现实安排；这是旧编者取舍，不认证为本段作者明列步骤。",
+          "把整场必须压在一小时内的3060数字只作他的个人经验，不当成硬规则；这是编者使用限制，不是原讲解自行放宽了“一定”。"
+        ],
+        "editorial_application_attribution": "guide_editor_not_Mikey_source_condition_or_new_action_permission"
+      },
+      {
+        "knowledge_id": "mikey-practice-035-K0003",
+        "source_id": "mikey-practice-035",
+        "source_position": "本段讲解说约会细节依然跟上期一样，前30分钟是黄金时间、后30分钟是垃圾时间，随后提出转场、带回家。同一段还说前期有意打压她的框架，不想让她把微信聊天的感觉带入现实，要让她意识到现在是自己的主场。后续讲解又说虽然有意打压她的前期框架，仍在做约会基调：没有官方感，不客套，松弛、放松，把对方当人；他把这称为正确的约会基调。",
+        "position_status": "structured_distillation_summary; not a verified verbatim quote",
+        "original_condition_field": [],
+        "condition_field_attribution": "mixed source-context/guide-editor notes; not automatically the authors words",
+        "date": null,
+        "date_basis": "no_publication_date_in_local_source_metadata",
+        "raw_sid_evidence": [
+          "S00125",
+          "S00126",
+          "S00127",
+          "S00128",
+          "S00129",
+          "S00130",
+          "S00131",
+          "S00132",
+          "S00133",
+          "S00134",
+          "S00135",
+          "S00136",
+          "S00137",
+          "S00138",
+          "S00139",
+          "S00152",
+          "S00153",
+          "S00154",
+          "S00155",
+          "S00156",
+          "S00157",
+          "S00158",
+          "S00159",
+          "S00160",
+          "S00161",
+          "S00162",
+          "S00163",
+          "S00164",
+          "S00165",
+          "S00166",
+          "S00167",
+          "S00168",
+          "S00169"
+        ],
+        "first_person_allowed": false,
+        "action_advice_allowed": false,
+        "legacy_distillation_summary_historical_only": "Mikey认为前30分钟要积极建立基调、展示状态和推进交流，之后再考虑转场；他把后30分钟称为垃圾时间。本案可保留前段认真投入的方向，不能把30/60和后段无价值当成普遍定律。",
+        "legacy_summary_is_current_source_argument": false,
+        "source_position_support_sids": [
+          "S00125",
+          "S00126",
+          "S00127",
+          "S00128",
+          "S00129",
+          "S00130",
+          "S00131",
+          "S00132",
+          "S00133",
+          "S00134",
+          "S00135",
+          "S00136",
+          "S00137",
+          "S00138",
+          "S00139",
+          "S00152",
+          "S00153",
+          "S00154",
+          "S00155",
+          "S00156",
+          "S00157",
+          "S00158",
+          "S00159",
+          "S00160",
+          "S00161",
+          "S00162",
+          "S00163",
+          "S00164",
+          "S00165",
+          "S00166",
+          "S00167",
+          "S00168",
+          "S00169"
+        ],
+        "legacy_raw_sid_evidence_historical_only": [
+          "S00126",
+          "S00127",
+          "S00128",
+          "S00131"
+        ],
+        "editorial_application_historical_only": [
+          "本案可保留前段认真投入的方向，不把30/60和后段无价值当成普遍定律；这是旧编者应用，不是该段源观点，也不转为新行动许可。"
+        ],
+        "editorial_application_attribution": "guide_editor_not_Mikey_source_condition_or_new_action_permission"
+      }
+    ],
+    "analyst_reading": "原文先说“大部分新手小白”没有必要再遵守3060，接着回顾当初用来推动不敢转场的新手，随后说报名者开始变为中阶、已能拿结果，因此不必机械遵守。烧录字幕确认前后两种范围都存在；只能保留这个局部修订，不能收窄成“只给中阶放宽”。 日期仍只是下载文件依据。",
+    "guide_constraints": "不得通过取温和一边、按时间选后一边或主题相同来消除冲突；原观点呈现不等于有效性/动作许可。"
+  },
+  "M04_before": {
+    "id": "pilot-only-M04-principle",
+    "source_id": "9zRpsnsPGxU",
+    "parent_knowledge_id": "9zRpsnsPGxU:M04",
+    "date": "2026-07-09",
+    "title": "他把框架定义为原则，批评为了与女生发生性而什么话都说、讨好或没有原则",
+    "claim": "他把框架定义为原则，批评为了与女生发生性而什么话都说、讨好或没有原则。",
+    "reason": "他把为了与女生发生性而什么话都说、讨好与没有原则联系起来；整段另声称讨好会丢失吸引，后者保留在父记录的有归属理由，不自动继承进原子。",
+    "reason_attribution": "source_claim_not_verified_effect",
+    "conditions": [],
+    "conditions_attribution": "editorial_boundary_separate_from_source_conditions",
+    "editorial_use_limits": "只约束自己，不设置服从规则；不得自动读取父条支配/虐待/个人故事作获准口吻材料",
+    "example_modality": "source_concept_not_simulated_biography",
+    "limits": [
+      "仅模拟概念观点，不假装原话、亲历或身份；行动建议关闭。"
+    ],
+    "limits_attribution": "editorial_boundary",
+    "evidence": [
+      {
+        "sid": "S00788",
+        "start": 2053.14,
+        "end": 2054.78,
+        "text": "要跟女人相处的时候要有框架",
+        "kind": "automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=9zRpsnsPGxU&t=2053",
+        "permission_scope": "atom_reference_only_not_raw_words_personification"
+      },
+      {
+        "sid": "S00789",
+        "start": 2054.78,
+        "end": 2055.74,
+        "text": "我这么跟你们讲",
+        "kind": "automatic_text_not_verbatim_certified",
+        "url": null,
+        "permission_scope": "atom_reference_only_not_raw_words_personification"
+      },
+      {
+        "sid": "S00790",
+        "start": 2055.74,
+        "end": 2057.24,
+        "text": "框架的本质就是原则",
+        "kind": "automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=9zRpsnsPGxU&t=2055",
+        "permission_scope": "atom_reference_only_not_raw_words_personification"
+      },
+      {
+        "sid": "S00791",
+        "start": 2057.24,
+        "end": 2058.64,
+        "text": "你跟女人相处的时候",
+        "kind": "automatic_text_not_verbatim_certified",
+        "url": null,
+        "permission_scope": "atom_reference_only_not_raw_words_personification"
+      },
+      {
+        "sid": "S00792",
+        "start": 2058.64,
+        "end": 2061.02,
+        "text": "你这个人必须要是一个有原则的人",
+        "kind": "automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=9zRpsnsPGxU&t=2058",
+        "permission_scope": "atom_reference_only_not_raw_words_personification"
+      },
+      {
+        "sid": "S00793",
+        "start": 2061.02,
+        "end": 2063.86,
+        "text": "如果你让这个女生感觉到",
+        "kind": "automatic_text_not_verbatim_certified",
+        "url": null,
+        "permission_scope": "atom_reference_only_not_raw_words_personification"
+      },
+      {
+        "sid": "S00794",
+        "start": 2063.86,
+        "end": 2066.44,
+        "text": "就是你为了和他发生性",
+        "kind": "automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=9zRpsnsPGxU&t=2063",
+        "permission_scope": "atom_reference_only_not_raw_words_personification"
+      },
+      {
+        "sid": "S00795",
+        "start": 2066.44,
+        "end": 2068.02,
+        "text": "你什么话都可以讲",
+        "kind": "automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=9zRpsnsPGxU&t=2066",
+        "permission_scope": "atom_reference_only_not_raw_words_personification"
+      },
+      {
+        "sid": "S00796",
+        "start": 2068.02,
+        "end": 2069.06,
+        "text": "你什么话都可以说",
+        "kind": "automatic_text_not_verbatim_certified",
+        "url": null,
+        "permission_scope": "atom_reference_only_not_raw_words_personification"
+      },
+      {
+        "sid": "S00797",
+        "start": 2069.06,
+        "end": 2070.4,
+        "text": "你都可以去当舔狗",
+        "kind": "automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=9zRpsnsPGxU&t=2069",
+        "permission_scope": "atom_reference_only_not_raw_words_personification"
+      },
+      {
+        "sid": "S00798",
+        "start": 2070.4,
+        "end": 2071.98,
+        "text": "你不可以没有任何的原则",
+        "kind": "automatic_text_not_verbatim_certified",
+        "url": null,
+        "permission_scope": "atom_reference_only_not_raw_words_personification"
+      }
+    ],
+    "related": {},
+    "status": {
+      "cross_use_level": "direct",
+      "first_person_allowed": true,
+      "action_advice_allowed": false,
+      "speaker": "Mikey_teaching_automatic_text_not_sentence_verified",
+      "payload_kind": "isolated_concept_atom",
+      "pilot_only": true
+    },
+    "payload_scope": {
+      "kind": "concept_fields_only",
+      "allowed_fields": [
+        "claim",
+        "reason"
+      ],
+      "approved_evidence_sids": [
+        "S00788",
+        "S00789",
+        "S00790",
+        "S00791",
+        "S00792",
+        "S00793",
+        "S00794",
+        "S00795",
+        "S00796",
+        "S00797",
+        "S00798"
+      ],
+      "raw_transcript_personification_allowed": false,
+      "raw_transcript_action_advice_allowed": false,
+      "parent_inheritance_allowed": false
+    },
+    "provenance": {
+      "proposal_sha256": "c67dc54f8189c3d219d19eed357ed46e1f4c0b8499cd4b913f6d39d02486e1cd",
+      "semantic_review_sha256": "d0d163ab9bab2a8a05659455a75bc09977279d0f487176903b0e597cdebc834e",
+      "parent_id_reference_only": true
+    },
+    "raw_notes": {
+      "original_entry": {
+        "id": "pilot-only-M04-principle",
+        "source_id": "9zRpsnsPGxU",
+        "claim": "他把框架定义为原则，批评为了与女生发生性而什么话都说、讨好或没有原则。",
+        "reason": "他把为了与女生发生性而什么话都说、讨好与没有原则联系起来；整段另声称讨好会丢失吸引，后者保留在父记录的有归属理由，不自动继承进原子。",
+        "evidence": [
+          {
+            "sid": "S00788",
+            "start": 2053.14,
+            "end": 2054.78,
+            "text": "要跟女人相处的时候要有框架",
+            "kind": "automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=9zRpsnsPGxU&t=2053",
+            "permission_scope": "atom_reference_only_not_raw_words_personification"
+          },
+          {
+            "sid": "S00789",
+            "start": 2054.78,
+            "end": 2055.74,
+            "text": "我这么跟你们讲",
+            "kind": "automatic_text_not_verbatim_certified",
+            "url": null,
+            "permission_scope": "atom_reference_only_not_raw_words_personification"
+          },
+          {
+            "sid": "S00790",
+            "start": 2055.74,
+            "end": 2057.24,
+            "text": "框架的本质就是原则",
+            "kind": "automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=9zRpsnsPGxU&t=2055",
+            "permission_scope": "atom_reference_only_not_raw_words_personification"
+          },
+          {
+            "sid": "S00791",
+            "start": 2057.24,
+            "end": 2058.64,
+            "text": "你跟女人相处的时候",
+            "kind": "automatic_text_not_verbatim_certified",
+            "url": null,
+            "permission_scope": "atom_reference_only_not_raw_words_personification"
+          },
+          {
+            "sid": "S00792",
+            "start": 2058.64,
+            "end": 2061.02,
+            "text": "你这个人必须要是一个有原则的人",
+            "kind": "automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=9zRpsnsPGxU&t=2058",
+            "permission_scope": "atom_reference_only_not_raw_words_personification"
+          },
+          {
+            "sid": "S00793",
+            "start": 2061.02,
+            "end": 2063.86,
+            "text": "如果你让这个女生感觉到",
+            "kind": "automatic_text_not_verbatim_certified",
+            "url": null,
+            "permission_scope": "atom_reference_only_not_raw_words_personification"
+          },
+          {
+            "sid": "S00794",
+            "start": 2063.86,
+            "end": 2066.44,
+            "text": "就是你为了和他发生性",
+            "kind": "automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=9zRpsnsPGxU&t=2063",
+            "permission_scope": "atom_reference_only_not_raw_words_personification"
+          },
+          {
+            "sid": "S00795",
+            "start": 2066.44,
+            "end": 2068.02,
+            "text": "你什么话都可以讲",
+            "kind": "automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=9zRpsnsPGxU&t=2066",
+            "permission_scope": "atom_reference_only_not_raw_words_personification"
+          },
+          {
+            "sid": "S00796",
+            "start": 2068.02,
+            "end": 2069.06,
+            "text": "你什么话都可以说",
+            "kind": "automatic_text_not_verbatim_certified",
+            "url": null,
+            "permission_scope": "atom_reference_only_not_raw_words_personification"
+          },
+          {
+            "sid": "S00797",
+            "start": 2069.06,
+            "end": 2070.4,
+            "text": "你都可以去当舔狗",
+            "kind": "automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=9zRpsnsPGxU&t=2069",
+            "permission_scope": "atom_reference_only_not_raw_words_personification"
+          },
+          {
+            "sid": "S00798",
+            "start": 2070.4,
+            "end": 2071.98,
+            "text": "你不可以没有任何的原则",
+            "kind": "automatic_text_not_verbatim_certified",
+            "url": null,
+            "permission_scope": "atom_reference_only_not_raw_words_personification"
+          }
+        ],
+        "related": {},
+        "payload_scope": {
+          "kind": "concept_fields_only",
+          "allowed_fields": [
+            "claim",
+            "reason"
+          ],
+          "approved_evidence_sids": [
+            "S00788",
+            "S00789",
+            "S00790",
+            "S00791",
+            "S00792",
+            "S00793",
+            "S00794",
+            "S00795",
+            "S00796",
+            "S00797",
+            "S00798"
+          ],
+          "raw_transcript_personification_allowed": false,
+          "raw_transcript_action_advice_allowed": false,
+          "parent_inheritance_allowed": false
+        }
+      },
+      "scope": "own_atom_only_parent_fields_not_inherited"
+    }
+  },
+  "M04_before_canonical_sha256": "12cf34858eeb00a67f5585c98d82fd18a019ca924fa1aad8430a92e781786e4f",
+  "historical_visual_check_statement": "The previous producer correction recorded four burned-caption frames; the web v2 review attached automatic text and did not attach those frames.",
+  "photo_before": {
+    "id": "action-pilot-visible-photo-selection",
+    "source_id": "mikey-youtube-live-009",
+    "title": "先让展示照片能真实看见你",
+    "claim": "先让展示照片能真实看见你",
+    "reason": "让照片呈现形象/价值，避免刻意摆拍、自恋感和见面后与照片不符。Game005把展示面比作简历、用来让对方看见自己，并将它联系到后续见面；该章的比例和销售承诺不进动作。",
+    "reason_attribution": "source_purpose_paraphrase_not_success_validation",
+    "conditions": [
+      "原场景是回应朋友圈展示面拍什么、发多少的问题。",
+      "他把六七张说成该次足够数量，未给所有平台统一规则。"
+    ],
+    "limits": [
+      "没有具体拍摄参数、发型/服装风格或逐图案例的认证。",
+      "“女生喜欢自然照”“觉得自恋”“被骗下头”等是他的解释，不是普适心理实证。",
+      "同一期S00721/S00725说越帅越好，S00975又说不需要拍很帅；候选不统一成单一颜值阈值。",
+      "S00766–S00768涉及他给学员删除/隐藏过去内容的安排；不迁移成要求用户删除归档。"
+    ],
+    "conditions_attribution": "source_conditions",
+    "limits_attribution": "source_limits",
+    "editorial_use_limits": [
+      "只使用真实本人、自己的生活材料；不需要购买课程或拍摄服务。",
+      "“价值”保持源词；生活/审美是Game005的说明，不自行限定必须展示财富、奢侈品或异性资源。",
+      "六七张是源例示，可先挑现有照片，不是达到数量就成功。",
+      "本有限应用不要求用户必须P图；这是编辑使用边界，不能误说成Mikey原文只说可以P。"
+    ],
+    "editorial_conditions": [
+      "只使用真实本人、自己的生活材料；不需要购买课程或拍摄服务。",
+      "“价值”保持源词；生活/审美是Game005的说明，不自行限定必须展示财富、奢侈品或异性资源。",
+      "六七张是源例示，可先挑现有照片，不是达到数量就成功。",
+      "本有限应用不要求用户必须P图；这是编辑使用边界，不能误说成Mikey原文只说可以P。"
+    ],
+    "source_method": [
+      "直播45先说展示面不要拍艺术照，要偏自然；解释不自然的场景是刻意摆各种pose后发九宫格。",
+      "之后建议朋友圈出现六到七张个人照片，逐张问它传递“帅/这个人不错”还是“价值”；兼具两者更好。",
+      "他在这段还说要P图，但强调不能过分、改五官或用假照，否则见面有落差；候选不把P图设为必须，这是编辑使用边界。"
+    ],
+    "evidence": [
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00292",
+        "start": 749.68,
+        "end": 750.86,
+        "text": "就是你的展示面",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=749"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00293",
+        "start": 750.86,
+        "end": 752.08,
+        "text": "一定不能是艺术照",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=750"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00294",
+        "start": 752.08,
+        "end": 753.98,
+        "text": "你的展示面最好是那种自然一点",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=752"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00295",
+        "start": 753.98,
+        "end": 755.0,
+        "text": "什么叫自然一点",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=753"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00296",
+        "start": 755.0,
+        "end": 756.08,
+        "text": "就越自然越好",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=755"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00297",
+        "start": 756.08,
+        "end": 757.96,
+        "text": "就是不要给人一种感觉",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=756"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00298",
+        "start": 757.96,
+        "end": 759.42,
+        "text": "说我特地我屁股往这一坐",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=757"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00299",
+        "start": 759.42,
+        "end": 761.3,
+        "text": "然后我就拿一个酒杯",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=759"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00300",
+        "start": 761.3,
+        "end": 762.42,
+        "text": "这样子",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=761"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00301",
+        "start": 762.42,
+        "end": 765.32,
+        "text": "这样子摆各种各样的pose",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=762"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00302",
+        "start": 765.32,
+        "end": 768.58,
+        "text": "那女生就会觉得这个男的好装啊",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=765"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00303",
+        "start": 768.58,
+        "end": 769.7,
+        "text": "他会这么觉得,你懂吗",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=768"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00304",
+        "start": 769.7,
+        "end": 774.34,
+        "text": "就你的照片要给人的感觉",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=769"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00305",
+        "start": 774.34,
+        "end": 776.16,
+        "text": "要有网感,什么叫网感",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=774"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00306",
+        "start": 776.16,
+        "end": 777.5,
+        "text": "就是你屁股往那一坐",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=776"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00307",
+        "start": 777.5,
+        "end": 778.98,
+        "text": "然后呢,你的摄影师",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=777"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00308",
+        "start": 778.98,
+        "end": 782.4,
+        "text": "哗哗哗两三秒钟就给你拍出来的照片",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=778"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00309",
+        "start": 782.4,
+        "end": 785.24,
+        "text": "那这种照片呢,其实女生是喜欢的",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=782"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00310",
+        "start": 785.24,
+        "end": 787.22,
+        "text": "你不要跑过去拍个照片",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=785"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00311",
+        "start": 787.22,
+        "end": 789.14,
+        "text": "你摆各种各样的pose",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=787"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00312",
+        "start": 789.14,
+        "end": 790.98,
+        "text": "然后呢,发九宫格",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=789"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00313",
+        "start": 790.98,
+        "end": 793.54,
+        "text": "然后九宫格里面有八张是几的照片",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=790"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00314",
+        "start": 793.54,
+        "end": 796.24,
+        "text": "女生会觉得你这个男太自恋了",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=793"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00719",
+        "start": 1575.33,
+        "end": 1577.99,
+        "text": "你一般朋友圈只需要出现",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1575"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00720",
+        "start": 1577.99,
+        "end": 1580.01,
+        "text": "六到七张个人照片就行了",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1577"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00721",
+        "start": 1580.01,
+        "end": 1581.97,
+        "text": "这张照片拍帅一点就够了",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1580"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00722",
+        "start": 1581.97,
+        "end": 1582.47,
+        "text": "OK",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1581"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00723",
+        "start": 1582.47,
+        "end": 1584.45,
+        "text": "六到七张个人照片",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1582"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00724",
+        "start": 1584.45,
+        "end": 1585.35,
+        "text": "这就够了",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1584"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00725",
+        "start": 1585.35,
+        "end": 1587.17,
+        "text": "然后这个照片越帅越好",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1585"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00726",
+        "start": 1587.17,
+        "end": 1592.83,
+        "text": "然后就OK了",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1587"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00727",
+        "start": 1592.83,
+        "end": 1594.37,
+        "text": "就我们发朋友圈照片",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1592"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00728",
+        "start": 1594.37,
+        "end": 1597.57,
+        "text": "一张照片无非就是衬托两个点",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1594"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00729",
+        "start": 1597.57,
+        "end": 1598.47,
+        "text": "要么是帅",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1597"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00730",
+        "start": 1598.47,
+        "end": 1599.61,
+        "text": "就是你这个人不错",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1598"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00731",
+        "start": 1599.61,
+        "end": 1599.97,
+        "text": "这样的",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1599"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00732",
+        "start": 1599.97,
+        "end": 1600.87,
+        "text": "就是拍的很帅",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1599"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00733",
+        "start": 1600.87,
+        "end": 1602.59,
+        "text": "要么第二个点就是价值",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1600"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00734",
+        "start": 1602.59,
+        "end": 1604.09,
+        "text": "如果你发一张照片",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1602"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00735",
+        "start": 1604.09,
+        "end": 1605.85,
+        "text": "这张照片它既没有价值",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1604"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00736",
+        "start": 1605.85,
+        "end": 1606.81,
+        "text": "它又不帅",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1605"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00737",
+        "start": 1606.81,
+        "end": 1608.01,
+        "text": "那我问你什么点",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1606"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00738",
+        "start": 1608.01,
+        "end": 1609.01,
+        "text": "你为什么要发它呢",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1608"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00739",
+        "start": 1609.01,
+        "end": 1610.33,
+        "text": "你发出去干嘛呢",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1609"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00740",
+        "start": 1610.33,
+        "end": 1611.63,
+        "text": "对吧",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1610"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00741",
+        "start": 1611.63,
+        "end": 1612.81,
+        "text": "你发一张照片",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1611"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00742",
+        "start": 1612.81,
+        "end": 1614.83,
+        "text": "要么是你想传递的事情",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1612"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00743",
+        "start": 1614.83,
+        "end": 1615.35,
+        "text": "你很帅",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1614"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00744",
+        "start": 1615.35,
+        "end": 1616.03,
+        "text": "好",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1615"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00745",
+        "start": 1616.03,
+        "end": 1617.41,
+        "text": "那么你发出去",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1616"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00746",
+        "start": 1617.41,
+        "end": 1618.79,
+        "text": "要么是这张照片呢",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1617"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00747",
+        "start": 1618.79,
+        "end": 1619.85,
+        "text": "传递的是你有价值",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1618"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00748",
+        "start": 1619.85,
+        "end": 1620.29,
+        "text": "好",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1619"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00749",
+        "start": 1620.29,
+        "end": 1620.93,
+        "text": "你发出去",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1620"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00750",
+        "start": 1620.93,
+        "end": 1622.61,
+        "text": "如果你发出去的一张照片",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1620"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00751",
+        "start": 1622.61,
+        "end": 1623.45,
+        "text": "它既不帅",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1622"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00752",
+        "start": 1623.45,
+        "end": 1624.57,
+        "text": "然后也没有价值",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1623"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00753",
+        "start": 1624.57,
+        "end": 1625.85,
+        "text": "你为什么要发出去呢",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1624"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00754",
+        "start": 1625.85,
+        "end": 1627.97,
+        "text": "但是如果你发出去的一张照片呢",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1625"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00755",
+        "start": 1627.97,
+        "end": 1629.43,
+        "text": "他既帅又有价值",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1627"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00756",
+        "start": 1629.43,
+        "end": 1630.99,
+        "text": "那非常非常的棒",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1629"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00757",
+        "start": 1630.99,
+        "end": 1633.31,
+        "text": "这是一个非常非常优秀的照片",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1630"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00758",
+        "start": 1633.31,
+        "end": 1635.17,
+        "text": "我会推荐你一定要发出去",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1633"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00976",
+        "start": 2093.09,
+        "end": 2095.05,
+        "text": "然后P图不要P特别过分",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=2093"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00977",
+        "start": 2095.05,
+        "end": 2096.11,
+        "text": "你们批的很过分",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=2095"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00978",
+        "start": 2096.11,
+        "end": 2097.63,
+        "text": "其实有问题的",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=2096"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00979",
+        "start": 2097.63,
+        "end": 2100.17,
+        "text": "女人会感觉被照片被骗了",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=2097"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00980",
+        "start": 2100.17,
+        "end": 2101.47,
+        "text": "你知道吗",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=2100"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00981",
+        "start": 2101.47,
+        "end": 2103.11,
+        "text": "他会觉得他被骗了",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=2101"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00982",
+        "start": 2103.11,
+        "end": 2105.09,
+        "text": "他大老远过来找你",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=2103"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00983",
+        "start": 2105.09,
+        "end": 2105.65,
+        "text": "对吧",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=2105"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00984",
+        "start": 2105.65,
+        "end": 2106.49,
+        "text": "他大老远过来找你",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=2105"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00985",
+        "start": 2106.49,
+        "end": 2107.53,
+        "text": "他打车过来找你",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=2106"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00986",
+        "start": 2107.53,
+        "end": 2109.43,
+        "text": "他花了四五十块钱",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=2107"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00987",
+        "start": 2109.43,
+        "end": 2110.19,
+        "text": "打车过来找你",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=2109"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00988",
+        "start": 2110.19,
+        "end": 2111.65,
+        "text": "结果发现你跟照片不一样",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=2110"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00989",
+        "start": 2111.65,
+        "end": 2113.21,
+        "text": "他是非常下头的",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=2111"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00990",
+        "start": 2113.21,
+        "end": 2116.35,
+        "text": "他宁愿就是你不要骗他",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=2113"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00991",
+        "start": 2116.35,
+        "end": 2116.69,
+        "text": "对吧",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=2116"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00992",
+        "start": 2116.69,
+        "end": 2118.93,
+        "text": "你照片不要批的很过分",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=2116"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00993",
+        "start": 2118.93,
+        "end": 2119.69,
+        "text": "但是你要批",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=2118"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00994",
+        "start": 2119.69,
+        "end": 2120.27,
+        "text": "你要批",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=2119"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00995",
+        "start": 2120.27,
+        "end": 2121.75,
+        "text": "但是你不要批的很过分",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=2120"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00996",
+        "start": 2121.75,
+        "end": 2123.79,
+        "text": "你不要把五官都批成别的东西了",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=2121"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00997",
+        "start": 2123.79,
+        "end": 2125.65,
+        "text": "甚至还有些人用假照",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=2123"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00998",
+        "start": 2125.65,
+        "end": 2127.43,
+        "text": "我是非常难理解的",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=2125"
+      },
+      {
+        "source_id": "mikey-youtube-live-009",
+        "sid": "S00999",
+        "start": 2127.43,
+        "end": 2128.73,
+        "text": "你这么不自信吗",
+        "kind": "original_automatic_text_not_verbatim_certified",
+        "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=2127"
+      }
+    ],
+    "related": {},
+    "parent_knowledge_ids": [
+      "mikey-youtube-live-009-K0005",
+      "mikey-youtube-live-009-K0009",
+      "mikey-youtube-live-009-K0012"
+    ],
+    "parent_ids_are_provenance_only": true,
+    "action_payload": {
+      "steps": [
+        {
+          "number": 1,
+          "text": "先看自己公开展示的个人照片，挑出看起来自然、能真实反映自己而非刻意连续摆拍的一组。",
+          "origin": "bounded_application_of_source_photo_criterion",
+          "evidence_refs": [
+            "A1-natural:S00292–S00314"
+          ]
+        },
+        {
+          "number": 2,
+          "text": "逐张检查：按他这段说法，这张是否把你拍得帅、让人觉得你这个人不错，或传递你想表达的价值？两者都没有的先不选入；兼具两者更好。他这次说一般六七张足够，候选不把数量当成功保证；同一期另说不需要拍很帅，不统一成单一颜值阈值。",
+          "origin": "source_explicit_selection_criterion_with_finite_editorial_application",
+          "evidence_refs": [
+            "A1-select:S00719–S00758"
+          ]
+        },
+        {
+          "number": 3,
+          "text": "保留适度优化，但检查是否已把五官改成另一种样子，或与见面时的本人明显不同；这种照片不选入。",
+          "origin": "source_explicit_limit_applied_to_selection",
+          "evidence_refs": [
+            "A1-honest:S00976–S00999"
+          ]
+        }
+      ],
+      "next_observation": {
+        "text": "这组照片现在是否能让人看见你真实的样子和所表达的内容？现实本人是否与照片一致？先检查这些可见结果，不以一人回复或约会成败证明方法有效。",
+        "origin": "editorial_feedback_checkpoint_derived_from_source_purpose_not_author_claimed_metric"
+      },
+      "not_in_payload": [
+        "删除/隐藏所有旧资料",
+        "购买课程",
+        "80%/90%效果承诺",
+        "拍摄姿势教程",
+        "颜值保证/约出保证"
+      ]
+    },
+    "effectiveness": "作者方法/理由，不是已经证明的普适成功规律",
+    "payload_scope": {
+      "kind": "finite_method_payload_only",
+      "approved_evidence_sids": [
+        "S00292",
+        "S00293",
+        "S00294",
+        "S00295",
+        "S00296",
+        "S00297",
+        "S00298",
+        "S00299",
+        "S00300",
+        "S00301",
+        "S00302",
+        "S00303",
+        "S00304",
+        "S00305",
+        "S00306",
+        "S00307",
+        "S00308",
+        "S00309",
+        "S00310",
+        "S00311",
+        "S00312",
+        "S00313",
+        "S00314",
+        "S00719",
+        "S00720",
+        "S00721",
+        "S00722",
+        "S00723",
+        "S00724",
+        "S00725",
+        "S00726",
+        "S00727",
+        "S00728",
+        "S00729",
+        "S00730",
+        "S00731",
+        "S00732",
+        "S00733",
+        "S00734",
+        "S00735",
+        "S00736",
+        "S00737",
+        "S00738",
+        "S00739",
+        "S00740",
+        "S00741",
+        "S00742",
+        "S00743",
+        "S00744",
+        "S00745",
+        "S00746",
+        "S00747",
+        "S00748",
+        "S00749",
+        "S00750",
+        "S00751",
+        "S00752",
+        "S00753",
+        "S00754",
+        "S00755",
+        "S00756",
+        "S00757",
+        "S00758",
+        "S00976",
+        "S00977",
+        "S00978",
+        "S00979",
+        "S00980",
+        "S00981",
+        "S00982",
+        "S00983",
+        "S00984",
+        "S00985",
+        "S00986",
+        "S00987",
+        "S00988",
+        "S00989",
+        "S00990",
+        "S00991",
+        "S00992",
+        "S00993",
+        "S00994",
+        "S00995",
+        "S00996",
+        "S00997",
+        "S00998",
+        "S00999"
+      ],
+      "action_fields": [
+        "action_payload.steps",
+        "action_payload.next_observation"
+      ],
+      "editorial_fields": [
+        "editorial_conditions",
+        "action_payload.next_observation"
+      ],
+      "raw_transcript_action_allowed": false,
+      "raw_transcript_personification_allowed": false,
+      "parent_payload_inherited": false
+    },
+    "status": {
+      "cross_use_level": "direct",
+      "first_person_allowed": true,
+      "action_advice_allowed": true,
+      "payload_kind": "isolated_action_method",
+      "pilot_only": true,
+      "speaker_claim_scope": "paraphrased_teaching_with_explicit_editorial_application_not_identity_or_verbatim"
+    },
+    "source_text_uncertainties": [
+      "S00313自动稿九宫格里面有八张是几的照片的中间词未核；不认证为自拍或连续发布。步骤1的刻意连续摆拍只作同组拍摄自然度的编辑缩减，不作为连续发布规则。"
+    ],
+    "raw_notes": {
+      "original_entry": {
+        "id": "action-pilot-visible-photo-selection",
+        "source_id": "mikey-youtube-live-009",
+        "title": "先让展示照片能真实看见你",
+        "claim": "先让展示照片能真实看见你",
+        "reason": "让照片呈现形象/价值，避免刻意摆拍、自恋感和见面后与照片不符。Game005把展示面比作简历、用来让对方看见自己，并将它联系到后续见面；该章的比例和销售承诺不进动作。",
+        "reason_attribution": "source_purpose_paraphrase_not_success_validation",
+        "conditions": [
+          "原场景是回应朋友圈展示面拍什么、发多少的问题。",
+          "他把六七张说成该次足够数量，未给所有平台统一规则。"
+        ],
+        "limits": [
+          "没有具体拍摄参数、发型/服装风格或逐图案例的认证。",
+          "“女生喜欢自然照”“觉得自恋”“被骗下头”等是他的解释，不是普适心理实证。",
+          "同一期S00721/S00725说越帅越好，S00975又说不需要拍很帅；候选不统一成单一颜值阈值。",
+          "S00766–S00768涉及他给学员删除/隐藏过去内容的安排；不迁移成要求用户删除归档。"
+        ],
+        "conditions_attribution": "source_conditions",
+        "limits_attribution": "source_limits",
+        "editorial_use_limits": [
+          "只使用真实本人、自己的生活材料；不需要购买课程或拍摄服务。",
+          "“价值”保持源词；生活/审美是Game005的说明，不自行限定必须展示财富、奢侈品或异性资源。",
+          "六七张是源例示，可先挑现有照片，不是达到数量就成功。",
+          "本有限应用不要求用户必须P图；这是编辑使用边界，不能误说成Mikey原文只说可以P。"
+        ],
+        "editorial_conditions": [
+          "只使用真实本人、自己的生活材料；不需要购买课程或拍摄服务。",
+          "“价值”保持源词；生活/审美是Game005的说明，不自行限定必须展示财富、奢侈品或异性资源。",
+          "六七张是源例示，可先挑现有照片，不是达到数量就成功。",
+          "本有限应用不要求用户必须P图；这是编辑使用边界，不能误说成Mikey原文只说可以P。"
+        ],
+        "source_method": [
+          "直播45先说展示面不要拍艺术照，要偏自然；解释不自然的场景是刻意摆各种pose后发九宫格。",
+          "之后建议朋友圈出现六到七张个人照片，逐张问它传递“帅/这个人不错”还是“价值”；兼具两者更好。",
+          "他在这段还说要P图，但强调不能过分、改五官或用假照，否则见面有落差；候选不把P图设为必须，这是编辑使用边界。"
+        ],
+        "evidence": [
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00292",
+            "start": 749.68,
+            "end": 750.86,
+            "text": "就是你的展示面",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=749"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00293",
+            "start": 750.86,
+            "end": 752.08,
+            "text": "一定不能是艺术照",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=750"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00294",
+            "start": 752.08,
+            "end": 753.98,
+            "text": "你的展示面最好是那种自然一点",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=752"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00295",
+            "start": 753.98,
+            "end": 755.0,
+            "text": "什么叫自然一点",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=753"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00296",
+            "start": 755.0,
+            "end": 756.08,
+            "text": "就越自然越好",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=755"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00297",
+            "start": 756.08,
+            "end": 757.96,
+            "text": "就是不要给人一种感觉",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=756"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00298",
+            "start": 757.96,
+            "end": 759.42,
+            "text": "说我特地我屁股往这一坐",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=757"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00299",
+            "start": 759.42,
+            "end": 761.3,
+            "text": "然后我就拿一个酒杯",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=759"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00300",
+            "start": 761.3,
+            "end": 762.42,
+            "text": "这样子",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=761"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00301",
+            "start": 762.42,
+            "end": 765.32,
+            "text": "这样子摆各种各样的pose",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=762"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00302",
+            "start": 765.32,
+            "end": 768.58,
+            "text": "那女生就会觉得这个男的好装啊",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=765"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00303",
+            "start": 768.58,
+            "end": 769.7,
+            "text": "他会这么觉得,你懂吗",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=768"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00304",
+            "start": 769.7,
+            "end": 774.34,
+            "text": "就你的照片要给人的感觉",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=769"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00305",
+            "start": 774.34,
+            "end": 776.16,
+            "text": "要有网感,什么叫网感",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=774"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00306",
+            "start": 776.16,
+            "end": 777.5,
+            "text": "就是你屁股往那一坐",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=776"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00307",
+            "start": 777.5,
+            "end": 778.98,
+            "text": "然后呢,你的摄影师",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=777"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00308",
+            "start": 778.98,
+            "end": 782.4,
+            "text": "哗哗哗两三秒钟就给你拍出来的照片",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=778"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00309",
+            "start": 782.4,
+            "end": 785.24,
+            "text": "那这种照片呢,其实女生是喜欢的",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=782"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00310",
+            "start": 785.24,
+            "end": 787.22,
+            "text": "你不要跑过去拍个照片",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=785"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00311",
+            "start": 787.22,
+            "end": 789.14,
+            "text": "你摆各种各样的pose",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=787"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00312",
+            "start": 789.14,
+            "end": 790.98,
+            "text": "然后呢,发九宫格",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=789"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00313",
+            "start": 790.98,
+            "end": 793.54,
+            "text": "然后九宫格里面有八张是几的照片",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=790"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00314",
+            "start": 793.54,
+            "end": 796.24,
+            "text": "女生会觉得你这个男太自恋了",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=793"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00719",
+            "start": 1575.33,
+            "end": 1577.99,
+            "text": "你一般朋友圈只需要出现",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1575"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00720",
+            "start": 1577.99,
+            "end": 1580.01,
+            "text": "六到七张个人照片就行了",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1577"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00721",
+            "start": 1580.01,
+            "end": 1581.97,
+            "text": "这张照片拍帅一点就够了",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1580"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00722",
+            "start": 1581.97,
+            "end": 1582.47,
+            "text": "OK",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1581"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00723",
+            "start": 1582.47,
+            "end": 1584.45,
+            "text": "六到七张个人照片",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1582"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00724",
+            "start": 1584.45,
+            "end": 1585.35,
+            "text": "这就够了",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1584"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00725",
+            "start": 1585.35,
+            "end": 1587.17,
+            "text": "然后这个照片越帅越好",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1585"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00726",
+            "start": 1587.17,
+            "end": 1592.83,
+            "text": "然后就OK了",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1587"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00727",
+            "start": 1592.83,
+            "end": 1594.37,
+            "text": "就我们发朋友圈照片",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1592"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00728",
+            "start": 1594.37,
+            "end": 1597.57,
+            "text": "一张照片无非就是衬托两个点",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1594"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00729",
+            "start": 1597.57,
+            "end": 1598.47,
+            "text": "要么是帅",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1597"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00730",
+            "start": 1598.47,
+            "end": 1599.61,
+            "text": "就是你这个人不错",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1598"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00731",
+            "start": 1599.61,
+            "end": 1599.97,
+            "text": "这样的",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1599"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00732",
+            "start": 1599.97,
+            "end": 1600.87,
+            "text": "就是拍的很帅",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1599"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00733",
+            "start": 1600.87,
+            "end": 1602.59,
+            "text": "要么第二个点就是价值",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1600"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00734",
+            "start": 1602.59,
+            "end": 1604.09,
+            "text": "如果你发一张照片",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1602"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00735",
+            "start": 1604.09,
+            "end": 1605.85,
+            "text": "这张照片它既没有价值",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1604"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00736",
+            "start": 1605.85,
+            "end": 1606.81,
+            "text": "它又不帅",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1605"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00737",
+            "start": 1606.81,
+            "end": 1608.01,
+            "text": "那我问你什么点",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1606"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00738",
+            "start": 1608.01,
+            "end": 1609.01,
+            "text": "你为什么要发它呢",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1608"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00739",
+            "start": 1609.01,
+            "end": 1610.33,
+            "text": "你发出去干嘛呢",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1609"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00740",
+            "start": 1610.33,
+            "end": 1611.63,
+            "text": "对吧",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1610"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00741",
+            "start": 1611.63,
+            "end": 1612.81,
+            "text": "你发一张照片",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1611"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00742",
+            "start": 1612.81,
+            "end": 1614.83,
+            "text": "要么是你想传递的事情",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1612"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00743",
+            "start": 1614.83,
+            "end": 1615.35,
+            "text": "你很帅",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1614"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00744",
+            "start": 1615.35,
+            "end": 1616.03,
+            "text": "好",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1615"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00745",
+            "start": 1616.03,
+            "end": 1617.41,
+            "text": "那么你发出去",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1616"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00746",
+            "start": 1617.41,
+            "end": 1618.79,
+            "text": "要么是这张照片呢",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1617"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00747",
+            "start": 1618.79,
+            "end": 1619.85,
+            "text": "传递的是你有价值",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1618"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00748",
+            "start": 1619.85,
+            "end": 1620.29,
+            "text": "好",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1619"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00749",
+            "start": 1620.29,
+            "end": 1620.93,
+            "text": "你发出去",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1620"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00750",
+            "start": 1620.93,
+            "end": 1622.61,
+            "text": "如果你发出去的一张照片",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1620"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00751",
+            "start": 1622.61,
+            "end": 1623.45,
+            "text": "它既不帅",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1622"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00752",
+            "start": 1623.45,
+            "end": 1624.57,
+            "text": "然后也没有价值",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1623"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00753",
+            "start": 1624.57,
+            "end": 1625.85,
+            "text": "你为什么要发出去呢",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1624"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00754",
+            "start": 1625.85,
+            "end": 1627.97,
+            "text": "但是如果你发出去的一张照片呢",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1625"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00755",
+            "start": 1627.97,
+            "end": 1629.43,
+            "text": "他既帅又有价值",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1627"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00756",
+            "start": 1629.43,
+            "end": 1630.99,
+            "text": "那非常非常的棒",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1629"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00757",
+            "start": 1630.99,
+            "end": 1633.31,
+            "text": "这是一个非常非常优秀的照片",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1630"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00758",
+            "start": 1633.31,
+            "end": 1635.17,
+            "text": "我会推荐你一定要发出去",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=1633"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00976",
+            "start": 2093.09,
+            "end": 2095.05,
+            "text": "然后P图不要P特别过分",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=2093"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00977",
+            "start": 2095.05,
+            "end": 2096.11,
+            "text": "你们批的很过分",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=2095"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00978",
+            "start": 2096.11,
+            "end": 2097.63,
+            "text": "其实有问题的",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=2096"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00979",
+            "start": 2097.63,
+            "end": 2100.17,
+            "text": "女人会感觉被照片被骗了",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=2097"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00980",
+            "start": 2100.17,
+            "end": 2101.47,
+            "text": "你知道吗",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=2100"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00981",
+            "start": 2101.47,
+            "end": 2103.11,
+            "text": "他会觉得他被骗了",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=2101"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00982",
+            "start": 2103.11,
+            "end": 2105.09,
+            "text": "他大老远过来找你",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=2103"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00983",
+            "start": 2105.09,
+            "end": 2105.65,
+            "text": "对吧",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=2105"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00984",
+            "start": 2105.65,
+            "end": 2106.49,
+            "text": "他大老远过来找你",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=2105"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00985",
+            "start": 2106.49,
+            "end": 2107.53,
+            "text": "他打车过来找你",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=2106"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00986",
+            "start": 2107.53,
+            "end": 2109.43,
+            "text": "他花了四五十块钱",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=2107"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00987",
+            "start": 2109.43,
+            "end": 2110.19,
+            "text": "打车过来找你",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=2109"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00988",
+            "start": 2110.19,
+            "end": 2111.65,
+            "text": "结果发现你跟照片不一样",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=2110"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00989",
+            "start": 2111.65,
+            "end": 2113.21,
+            "text": "他是非常下头的",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=2111"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00990",
+            "start": 2113.21,
+            "end": 2116.35,
+            "text": "他宁愿就是你不要骗他",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=2113"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00991",
+            "start": 2116.35,
+            "end": 2116.69,
+            "text": "对吧",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=2116"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00992",
+            "start": 2116.69,
+            "end": 2118.93,
+            "text": "你照片不要批的很过分",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=2116"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00993",
+            "start": 2118.93,
+            "end": 2119.69,
+            "text": "但是你要批",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=2118"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00994",
+            "start": 2119.69,
+            "end": 2120.27,
+            "text": "你要批",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=2119"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00995",
+            "start": 2120.27,
+            "end": 2121.75,
+            "text": "但是你不要批的很过分",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=2120"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00996",
+            "start": 2121.75,
+            "end": 2123.79,
+            "text": "你不要把五官都批成别的东西了",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=2121"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00997",
+            "start": 2123.79,
+            "end": 2125.65,
+            "text": "甚至还有些人用假照",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=2123"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00998",
+            "start": 2125.65,
+            "end": 2127.43,
+            "text": "我是非常难理解的",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=2125"
+          },
+          {
+            "source_id": "mikey-youtube-live-009",
+            "sid": "S00999",
+            "start": 2127.43,
+            "end": 2128.73,
+            "text": "你这么不自信吗",
+            "kind": "original_automatic_text_not_verbatim_certified",
+            "url": "https://www.youtube.com/watch?v=f0gOZfoOhvo&t=2127"
+          }
+        ],
+        "related": {},
+        "parent_knowledge_ids": [
+          "mikey-youtube-live-009-K0005",
+          "mikey-youtube-live-009-K0009",
+          "mikey-youtube-live-009-K0012"
+        ],
+        "parent_ids_are_provenance_only": true,
+        "action_payload": {
+          "steps": [
+            {
+              "number": 1,
+              "text": "先看自己公开展示的个人照片，挑出看起来自然、能真实反映自己而非刻意连续摆拍的一组。",
+              "origin": "bounded_application_of_source_photo_criterion",
+              "evidence_refs": [
+                "A1-natural:S00292–S00314"
+              ]
+            },
+            {
+              "number": 2,
+              "text": "逐张检查：按他这段说法，这张是否把你拍得帅、让人觉得你这个人不错，或传递你想表达的价值？两者都没有的先不选入；兼具两者更好。他这次说一般六七张足够，候选不把数量当成功保证；同一期另说不需要拍很帅，不统一成单一颜值阈值。",
+              "origin": "source_explicit_selection_criterion_with_finite_editorial_application",
+              "evidence_refs": [
+                "A1-select:S00719–S00758"
+              ]
+            },
+            {
+              "number": 3,
+              "text": "保留适度优化，但检查是否已把五官改成另一种样子，或与见面时的本人明显不同；这种照片不选入。",
+              "origin": "source_explicit_limit_applied_to_selection",
+              "evidence_refs": [
+                "A1-honest:S00976–S00999"
+              ]
+            }
+          ],
+          "next_observation": {
+            "text": "这组照片现在是否能让人看见你真实的样子和所表达的内容？现实本人是否与照片一致？先检查这些可见结果，不以一人回复或约会成败证明方法有效。",
+            "origin": "editorial_feedback_checkpoint_derived_from_source_purpose_not_author_claimed_metric"
+          },
+          "not_in_payload": [
+            "删除/隐藏所有旧资料",
+            "购买课程",
+            "80%/90%效果承诺",
+            "拍摄姿势教程",
+            "颜值保证/约出保证"
+          ]
+        },
+        "effectiveness": "作者方法/理由，不是已经证明的普适成功规律",
+        "payload_scope": {
+          "kind": "finite_method_payload_only",
+          "approved_evidence_sids": [
+            "S00292",
+            "S00293",
+            "S00294",
+            "S00295",
+            "S00296",
+            "S00297",
+            "S00298",
+            "S00299",
+            "S00300",
+            "S00301",
+            "S00302",
+            "S00303",
+            "S00304",
+            "S00305",
+            "S00306",
+            "S00307",
+            "S00308",
+            "S00309",
+            "S00310",
+            "S00311",
+            "S00312",
+            "S00313",
+            "S00314",
+            "S00719",
+            "S00720",
+            "S00721",
+            "S00722",
+            "S00723",
+            "S00724",
+            "S00725",
+            "S00726",
+            "S00727",
+            "S00728",
+            "S00729",
+            "S00730",
+            "S00731",
+            "S00732",
+            "S00733",
+            "S00734",
+            "S00735",
+            "S00736",
+            "S00737",
+            "S00738",
+            "S00739",
+            "S00740",
+            "S00741",
+            "S00742",
+            "S00743",
+            "S00744",
+            "S00745",
+            "S00746",
+            "S00747",
+            "S00748",
+            "S00749",
+            "S00750",
+            "S00751",
+            "S00752",
+            "S00753",
+            "S00754",
+            "S00755",
+            "S00756",
+            "S00757",
+            "S00758",
+            "S00976",
+            "S00977",
+            "S00978",
+            "S00979",
+            "S00980",
+            "S00981",
+            "S00982",
+            "S00983",
+            "S00984",
+            "S00985",
+            "S00986",
+            "S00987",
+            "S00988",
+            "S00989",
+            "S00990",
+            "S00991",
+            "S00992",
+            "S00993",
+            "S00994",
+            "S00995",
+            "S00996",
+            "S00997",
+            "S00998",
+            "S00999"
+          ],
+          "action_fields": [
+            "action_payload.steps",
+            "action_payload.next_observation"
+          ],
+          "editorial_fields": [
+            "editorial_conditions",
+            "action_payload.next_observation"
+          ],
+          "raw_transcript_action_allowed": false,
+          "raw_transcript_personification_allowed": false,
+          "parent_payload_inherited": false
+        },
+        "status": {
+          "cross_use_level": "direct",
+          "first_person_allowed": true,
+          "action_advice_allowed": true,
+          "payload_kind": "isolated_action_method",
+          "pilot_only": true,
+          "speaker_claim_scope": "paraphrased_teaching_with_explicit_editorial_application_not_identity_or_verbatim"
+        },
+        "source_text_uncertainties": [
+          "S00313自动稿九宫格里面有八张是几的照片的中间词未核；不认证为自拍或连续发布。步骤1的刻意连续摆拍只作同组拍摄自然度的编辑缩减，不作为连续发布规则。"
+        ]
+      },
+      "kind": "isolated_method_only_no_parent_raw"
+    }
+  },
+  "photo_before_canonical_sha256": "f975e5c78f93772513c10e019f147404e257802470c09f951e47aa7a5556d90b"
+}

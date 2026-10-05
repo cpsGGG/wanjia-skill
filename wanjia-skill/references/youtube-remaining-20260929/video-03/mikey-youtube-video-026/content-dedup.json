@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-026",
+  "youtube_id": "dKHIueGB0UE",
+  "decision": "new",
+  "compared_sources": [
+    {"scope": "formal_mikey_guide", "source_count": 202, "comparison": "youtube_id_url_normalized_fulltext_and_8_12_16_character_shingles"},
+    {"scope": "prior_remaining-video_research", "source_count": 25, "comparison": "normalized_fulltext_and_8_12_16_character_shingles"},
+    {"source_id": "mikey-gameshengjing-001", "title": "第一章 三伪神（这个世界束缚你的三尊伪神）", "comparison": "money_appearance_romance_framework_and_argument_order"},
+    {"source_id": "mikey-youtube-video-011", "comparison": "provider_identity_money_and_attraction_theme"},
+    {"source_id": "mikey-youtube-video-027", "comparison": "same-batch_strong-behavior-and-attraction_theme"}
+  ],
+  "evidence": [
+    {"type": "identity", "result": "no_exact_youtube_id_or_url_overlap", "basis": "video-03/identity-precheck.json and formal source-index"},
+    {"type": "normalized_fulltext", "target_normalized_chars": 5468, "target_sha256": "ffa318d1983528b7ae4af54333876986d941bb87651e648337d62e247f0ca241", "formal_transcripts_checked": 202, "exact_matches": []},
+    {"type": "near_duplicate_screen", "method": "rolling_character_shingle_target_containment", "highest_formal_match": "S-cMTEvo6To", "containment": {"8_chars": 0.0016504676, "12_chars": 0.0003665017, "16_chars": 0.0}, "result": "no transcript-scale reuse detected"},
+    {"type": "prior_research_screen", "highest_match": "mikey-youtube-video-011", "containment": {"8_chars": 0.00311755, "12_chars": 0.001466007, "16_chars": 0.000550156}, "result": "small shared channel vocabulary only"},
+    {"type": "related_content", "formal_source_id": "mikey-gameshengjing-001", "result": "same three-misconception scaffold but independently scripted, much longer, and adds provider/lover, evolutionary, appearance-anxiety and consumer-capital arguments"}
+  ],
+  "boundary": "Count as a new research source pending independent review. Its repetition of money, appearance, romance, provider/lover and strong-behavior concepts does not corroborate their empirical or evolutionary claims."
+}

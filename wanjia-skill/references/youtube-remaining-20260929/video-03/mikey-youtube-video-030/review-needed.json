@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-030",
+  "youtube_id": "RRkgTfaBsEI",
+  "review_completed": true,
+  "items": [
+    {"review_id": "v030-r01", "severity": "major", "issue": "The 21-day duration and predicted transformation or gratitude are presented without measurement or evidence.", "affected_evidence": ["S00367-S00400"], "disposition": "Keep as a proposed exercise only; no timeline or outcome promise."},
+    {"review_id": "v030-r02", "severity": "major", "issue": "The instruction to refuse one person every day may encourage arbitrary refusal rather than principled boundaries.", "affected_evidence": ["S00194-S00213", "S00367-S00400"], "disposition": "If later adapted, limit practice to real unreasonable requests or honest preferences, without manufacturing conflict."},
+    {"review_id": "v030-r03", "severity": "major", "issue": "The instruction to act confident or '装逼' is ambiguous between graded rehearsal and deceptive persona performance.", "affected_evidence": ["S00309-S00400"], "disposition": "Use only transparent, low-stakes skill rehearsal; do not endorse false identity, intimidation or misrepresentation."},
+    {"review_id": "v030-r04", "severity": "major", "issue": "Joker's violence and distorted selfhood are used as a symbol of strong subjectivity despite an explicit non-harm disclaimer.", "affected_evidence": ["S00256-S00285"], "disposition": "Keep the disclaimer inseparable and do not use the character as a healthy-behavior model."},
+    {"review_id": "v030-r05", "severity": "major", "issue": "Internal standards can be misread as making other people's feedback and preferences irrelevant.", "affected_evidence": ["S00058-S00130", "S00214-S00308"], "disposition": "Preserve the distinction between self-worth and accountability; others retain equal choice and boundaries."},
+    {"review_id": "v030-r06", "severity": "major", "issue": "The main framework overlaps mikey-gameshengjing-003, mikey-gameshengjing-017 and other self/boundary sources.", "affected_evidence": ["entire source"], "disposition": "Count as a distinct four-step presentation but give no extra effect confidence to repetition."},
+    {"review_id": "v030-r07", "severity": "minor", "issue": "Late English film dialogue and earlier fictional examples could be misattributed to Mikey.", "affected_evidence": ["S00401-S00423", "sampled frames 000013-000015"], "disposition": "Keep attributed to third-party film clips; do not quote as Mikey's original language."},
+    {"review_id": "v030-r08", "severity": "minor", "issue": "ASR corrupts Adler, Parasite, film titles and several action phrases.", "affected_evidence": ["throughout"], "disposition": "Paraphrase; listen before exact quotation."}
+  ]
+}

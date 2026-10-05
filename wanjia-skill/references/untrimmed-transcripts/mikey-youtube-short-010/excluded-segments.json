@@ -1,0 +1,19 @@
+{
+  "source_id": "mikey-youtube-short-010",
+  "status": "preserved_not_indexed_timing_unreliable",
+  "time_alignment_verified": false,
+  "original_transcript": "references/untrimmed-transcripts/mikey-youtube-short-010/transcript.original.json",
+  "original_transcript_sha256": "56fe9f8ec4c07e20cffa3be8d9a557dd4b82a0a528b4ccd65eb52dc3889207d1",
+  "original_research_transcript": "D:\\startup\\玩家.skill\\research\\youtube-all-remaining-pipeline\\integration-candidate\\references\\youtube-remaining-20260929\\short-01\\mikey-youtube-short-010\\transcript.json",
+  "media_duration_seconds": 86.81941,
+  "excluded_segments": [],
+  "crossing_segments_original": [
+    {
+      "sid": "S00064",
+      "start": 86.34,
+      "end": 89.0,
+      "text": "我就是别人了"
+    }
+  ],
+  "notice": "All original text is retained. Out-of-duration timestamps may be ASR hallucination or misalignment; no information-value verdict or permission upgrade follows from exclusion from the normal timed index."
+}

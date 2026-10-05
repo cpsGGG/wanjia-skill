@@ -1,0 +1,664 @@
+{
+  "schema_version": "1.0",
+  "passed": true,
+  "check_count": 130,
+  "failed": [],
+  "checks": [
+    {
+      "name": "review_count_63",
+      "ok": true,
+      "detail": "63"
+    },
+    {
+      "name": "review_ids_unique",
+      "ok": true,
+      "detail": "63"
+    },
+    {
+      "name": "every_review_has_one_disposition",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "all_evidence_preserved_reviews_have_media",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "no_unclassified_clip_review",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "exists:mikey-youtube-live-021-clip-01-00589-00737.mp4",
+      "ok": true,
+      "detail": "36480995"
+    },
+    {
+      "name": "size:mikey-youtube-live-021-clip-01-00589-00737.mp4",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "sha256:mikey-youtube-live-021-clip-01-00589-00737.mp4",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "duration:mikey-youtube-live-021-clip-01-00589-00737.mp4",
+      "ok": true,
+      "detail": "148.0/148.0"
+    },
+    {
+      "name": "audio:mikey-youtube-live-021-clip-01-00589-00737.mp4",
+      "ok": true,
+      "detail": "{'audio', 'video'}"
+    },
+    {
+      "name": "video:mikey-youtube-live-021-clip-01-00589-00737.mp4",
+      "ok": true,
+      "detail": "{'audio', 'video'}"
+    },
+    {
+      "name": "exists:mikey-youtube-live-021-clip-02-02808-03652.mp4",
+      "ok": true,
+      "detail": "166327143"
+    },
+    {
+      "name": "size:mikey-youtube-live-021-clip-02-02808-03652.mp4",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "sha256:mikey-youtube-live-021-clip-02-02808-03652.mp4",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "duration:mikey-youtube-live-021-clip-02-02808-03652.mp4",
+      "ok": true,
+      "detail": "844.0/844.0"
+    },
+    {
+      "name": "audio:mikey-youtube-live-021-clip-02-02808-03652.mp4",
+      "ok": true,
+      "detail": "{'audio', 'video'}"
+    },
+    {
+      "name": "video:mikey-youtube-live-021-clip-02-02808-03652.mp4",
+      "ok": true,
+      "detail": "{'audio', 'video'}"
+    },
+    {
+      "name": "exists:mikey-youtube-live-022-clip-01-01528-01712.mp4",
+      "ok": true,
+      "detail": "13574712"
+    },
+    {
+      "name": "size:mikey-youtube-live-022-clip-01-01528-01712.mp4",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "sha256:mikey-youtube-live-022-clip-01-01528-01712.mp4",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "duration:mikey-youtube-live-022-clip-01-01528-01712.mp4",
+      "ok": true,
+      "detail": "184.0/184.0"
+    },
+    {
+      "name": "audio:mikey-youtube-live-022-clip-01-01528-01712.mp4",
+      "ok": true,
+      "detail": "{'audio', 'video'}"
+    },
+    {
+      "name": "video:mikey-youtube-live-022-clip-01-01528-01712.mp4",
+      "ok": true,
+      "detail": "{'audio', 'video'}"
+    },
+    {
+      "name": "exists:mikey-youtube-live-022-clip-02-03078-03252.mp4",
+      "ok": true,
+      "detail": "11838776"
+    },
+    {
+      "name": "size:mikey-youtube-live-022-clip-02-03078-03252.mp4",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "sha256:mikey-youtube-live-022-clip-02-03078-03252.mp4",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "duration:mikey-youtube-live-022-clip-02-03078-03252.mp4",
+      "ok": true,
+      "detail": "174.0/174.0"
+    },
+    {
+      "name": "audio:mikey-youtube-live-022-clip-02-03078-03252.mp4",
+      "ok": true,
+      "detail": "{'audio', 'video'}"
+    },
+    {
+      "name": "video:mikey-youtube-live-022-clip-02-03078-03252.mp4",
+      "ok": true,
+      "detail": "{'audio', 'video'}"
+    },
+    {
+      "name": "exists:mikey-youtube-live-022-clip-03-04118-04312.mp4",
+      "ok": true,
+      "detail": "13576947"
+    },
+    {
+      "name": "size:mikey-youtube-live-022-clip-03-04118-04312.mp4",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "sha256:mikey-youtube-live-022-clip-03-04118-04312.mp4",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "duration:mikey-youtube-live-022-clip-03-04118-04312.mp4",
+      "ok": true,
+      "detail": "194.0/194.0"
+    },
+    {
+      "name": "audio:mikey-youtube-live-022-clip-03-04118-04312.mp4",
+      "ok": true,
+      "detail": "{'audio', 'video'}"
+    },
+    {
+      "name": "video:mikey-youtube-live-022-clip-03-04118-04312.mp4",
+      "ok": true,
+      "detail": "{'audio', 'video'}"
+    },
+    {
+      "name": "exists:mikey-youtube-live-023-clip-01-01718-01852.mp4",
+      "ok": true,
+      "detail": "12472327"
+    },
+    {
+      "name": "size:mikey-youtube-live-023-clip-01-01718-01852.mp4",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "sha256:mikey-youtube-live-023-clip-01-01718-01852.mp4",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "duration:mikey-youtube-live-023-clip-01-01718-01852.mp4",
+      "ok": true,
+      "detail": "134.0/134.0"
+    },
+    {
+      "name": "audio:mikey-youtube-live-023-clip-01-01718-01852.mp4",
+      "ok": true,
+      "detail": "{'audio', 'video'}"
+    },
+    {
+      "name": "video:mikey-youtube-live-023-clip-01-01718-01852.mp4",
+      "ok": true,
+      "detail": "{'audio', 'video'}"
+    },
+    {
+      "name": "exists:mikey-youtube-live-023-clip-02-03258-03342.mp4",
+      "ok": true,
+      "detail": "8336489"
+    },
+    {
+      "name": "size:mikey-youtube-live-023-clip-02-03258-03342.mp4",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "sha256:mikey-youtube-live-023-clip-02-03258-03342.mp4",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "duration:mikey-youtube-live-023-clip-02-03258-03342.mp4",
+      "ok": true,
+      "detail": "84.0/84.0"
+    },
+    {
+      "name": "audio:mikey-youtube-live-023-clip-02-03258-03342.mp4",
+      "ok": true,
+      "detail": "{'audio', 'video'}"
+    },
+    {
+      "name": "video:mikey-youtube-live-023-clip-02-03258-03342.mp4",
+      "ok": true,
+      "detail": "{'audio', 'video'}"
+    },
+    {
+      "name": "exists:mikey-youtube-live-023-clip-03-03926-04517.mp4",
+      "ok": true,
+      "detail": "55178582"
+    },
+    {
+      "name": "size:mikey-youtube-live-023-clip-03-03926-04517.mp4",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "sha256:mikey-youtube-live-023-clip-03-03926-04517.mp4",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "duration:mikey-youtube-live-023-clip-03-03926-04517.mp4",
+      "ok": true,
+      "detail": "590.45/590.44"
+    },
+    {
+      "name": "audio:mikey-youtube-live-023-clip-03-03926-04517.mp4",
+      "ok": true,
+      "detail": "{'audio', 'video'}"
+    },
+    {
+      "name": "video:mikey-youtube-live-023-clip-03-03926-04517.mp4",
+      "ok": true,
+      "detail": "{'audio', 'video'}"
+    },
+    {
+      "name": "exists:mikey-youtube-live-023-clip-04-05138-05212.mp4",
+      "ok": true,
+      "detail": "6872651"
+    },
+    {
+      "name": "size:mikey-youtube-live-023-clip-04-05138-05212.mp4",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "sha256:mikey-youtube-live-023-clip-04-05138-05212.mp4",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "duration:mikey-youtube-live-023-clip-04-05138-05212.mp4",
+      "ok": true,
+      "detail": "74.0/74.0"
+    },
+    {
+      "name": "audio:mikey-youtube-live-023-clip-04-05138-05212.mp4",
+      "ok": true,
+      "detail": "{'audio', 'video'}"
+    },
+    {
+      "name": "video:mikey-youtube-live-023-clip-04-05138-05212.mp4",
+      "ok": true,
+      "detail": "{'audio', 'video'}"
+    },
+    {
+      "name": "exists:mikey-youtube-live-024-clip-01-02568-03347.mp4",
+      "ok": true,
+      "detail": "85919870"
+    },
+    {
+      "name": "size:mikey-youtube-live-024-clip-01-02568-03347.mp4",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "sha256:mikey-youtube-live-024-clip-01-02568-03347.mp4",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "duration:mikey-youtube-live-024-clip-01-02568-03347.mp4",
+      "ok": true,
+      "detail": "779.0/779.0"
+    },
+    {
+      "name": "audio:mikey-youtube-live-024-clip-01-02568-03347.mp4",
+      "ok": true,
+      "detail": "{'audio', 'video'}"
+    },
+    {
+      "name": "video:mikey-youtube-live-024-clip-01-02568-03347.mp4",
+      "ok": true,
+      "detail": "{'audio', 'video'}"
+    },
+    {
+      "name": "exists:mikey-youtube-live-024-clip-02-03588-05407.opus",
+      "ok": true,
+      "detail": "13412827"
+    },
+    {
+      "name": "size:mikey-youtube-live-024-clip-02-03588-05407.opus",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "sha256:mikey-youtube-live-024-clip-02-03588-05407.opus",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "duration:mikey-youtube-live-024-clip-02-03588-05407.opus",
+      "ok": true,
+      "detail": "1819.8865/1819.88"
+    },
+    {
+      "name": "audio:mikey-youtube-live-024-clip-02-03588-05407.opus",
+      "ok": true,
+      "detail": "{'audio'}"
+    },
+    {
+      "name": "exists:mikey-youtube-live-024-clip-03-05437-05785.mp4",
+      "ok": true,
+      "detail": "36232031"
+    },
+    {
+      "name": "size:mikey-youtube-live-024-clip-03-05437-05785.mp4",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "sha256:mikey-youtube-live-024-clip-03-05437-05785.mp4",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "duration:mikey-youtube-live-024-clip-03-05437-05785.mp4",
+      "ok": true,
+      "detail": "347.435011/347.43492100000003"
+    },
+    {
+      "name": "audio:mikey-youtube-live-024-clip-03-05437-05785.mp4",
+      "ok": true,
+      "detail": "{'audio', 'video'}"
+    },
+    {
+      "name": "video:mikey-youtube-live-024-clip-03-05437-05785.mp4",
+      "ok": true,
+      "detail": "{'audio', 'video'}"
+    },
+    {
+      "name": "exists:mikey-youtube-live-025-clip-01-01378-01497.mp4",
+      "ok": true,
+      "detail": "17862963"
+    },
+    {
+      "name": "size:mikey-youtube-live-025-clip-01-01378-01497.mp4",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "sha256:mikey-youtube-live-025-clip-01-01378-01497.mp4",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "duration:mikey-youtube-live-025-clip-01-01378-01497.mp4",
+      "ok": true,
+      "detail": "119.0/119.0"
+    },
+    {
+      "name": "audio:mikey-youtube-live-025-clip-01-01378-01497.mp4",
+      "ok": true,
+      "detail": "{'audio', 'video'}"
+    },
+    {
+      "name": "video:mikey-youtube-live-025-clip-01-01378-01497.mp4",
+      "ok": true,
+      "detail": "{'audio', 'video'}"
+    },
+    {
+      "name": "exists:mikey-youtube-live-026-clip-01-00515-00831.mp4",
+      "ok": true,
+      "detail": "29279767"
+    },
+    {
+      "name": "size:mikey-youtube-live-026-clip-01-00515-00831.mp4",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "sha256:mikey-youtube-live-026-clip-01-00515-00831.mp4",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "duration:mikey-youtube-live-026-clip-01-00515-00831.mp4",
+      "ok": true,
+      "detail": "315.282683/315.2800000000001"
+    },
+    {
+      "name": "audio:mikey-youtube-live-026-clip-01-00515-00831.mp4",
+      "ok": true,
+      "detail": "{'audio', 'video'}"
+    },
+    {
+      "name": "video:mikey-youtube-live-026-clip-01-00515-00831.mp4",
+      "ok": true,
+      "detail": "{'audio', 'video'}"
+    },
+    {
+      "name": "exists:mikey-youtube-live-027-clip-01-01138-01412.mp4",
+      "ok": true,
+      "detail": "24413850"
+    },
+    {
+      "name": "size:mikey-youtube-live-027-clip-01-01138-01412.mp4",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "sha256:mikey-youtube-live-027-clip-01-01138-01412.mp4",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "duration:mikey-youtube-live-027-clip-01-01138-01412.mp4",
+      "ok": true,
+      "detail": "274.0/274.0"
+    },
+    {
+      "name": "audio:mikey-youtube-live-027-clip-01-01138-01412.mp4",
+      "ok": true,
+      "detail": "{'audio', 'video'}"
+    },
+    {
+      "name": "video:mikey-youtube-live-027-clip-01-01138-01412.mp4",
+      "ok": true,
+      "detail": "{'audio', 'video'}"
+    },
+    {
+      "name": "exists:mikey-youtube-live-028-clip-01-02521-03138.mp4",
+      "ok": true,
+      "detail": "53457493"
+    },
+    {
+      "name": "size:mikey-youtube-live-028-clip-01-02521-03138.mp4",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "sha256:mikey-youtube-live-028-clip-01-02521-03138.mp4",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "duration:mikey-youtube-live-028-clip-01-02521-03138.mp4",
+      "ok": true,
+      "detail": "616.8/616.79"
+    },
+    {
+      "name": "audio:mikey-youtube-live-028-clip-01-02521-03138.mp4",
+      "ok": true,
+      "detail": "{'audio', 'video'}"
+    },
+    {
+      "name": "video:mikey-youtube-live-028-clip-01-02521-03138.mp4",
+      "ok": true,
+      "detail": "{'audio', 'video'}"
+    },
+    {
+      "name": "exists:mikey-youtube-live-029-clip-01-04288-07517.opus",
+      "ok": true,
+      "detail": "25176013"
+    },
+    {
+      "name": "size:mikey-youtube-live-029-clip-01-04288-07517.opus",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "sha256:mikey-youtube-live-029-clip-01-04288-07517.opus",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "duration:mikey-youtube-live-029-clip-01-04288-07517.opus",
+      "ok": true,
+      "detail": "3229.6265/3229.62"
+    },
+    {
+      "name": "audio:mikey-youtube-live-029-clip-01-04288-07517.opus",
+      "ok": true,
+      "detail": "{'audio'}"
+    },
+    {
+      "name": "exists:mikey-youtube-live-030-clip-01-01838-01992.mp4",
+      "ok": true,
+      "detail": "14705890"
+    },
+    {
+      "name": "size:mikey-youtube-live-030-clip-01-01838-01992.mp4",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "sha256:mikey-youtube-live-030-clip-01-01838-01992.mp4",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "duration:mikey-youtube-live-030-clip-01-01838-01992.mp4",
+      "ok": true,
+      "detail": "154.0/154.0"
+    },
+    {
+      "name": "audio:mikey-youtube-live-030-clip-01-01838-01992.mp4",
+      "ok": true,
+      "detail": "{'audio', 'video'}"
+    },
+    {
+      "name": "video:mikey-youtube-live-030-clip-01-01838-01992.mp4",
+      "ok": true,
+      "detail": "{'audio', 'video'}"
+    },
+    {
+      "name": "exists:mikey-youtube-live-029-call-visual-proxy-04288-07517.mp4",
+      "ok": true,
+      "detail": "78202835"
+    },
+    {
+      "name": "size:mikey-youtube-live-029-call-visual-proxy-04288-07517.mp4",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "sha256:mikey-youtube-live-029-call-visual-proxy-04288-07517.mp4",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "duration:mikey-youtube-live-029-call-visual-proxy-04288-07517.mp4",
+      "ok": true,
+      "detail": "3229.62/3229.62"
+    },
+    {
+      "name": "audio:mikey-youtube-live-029-call-visual-proxy-04288-07517.mp4",
+      "ok": true,
+      "detail": "{'audio', 'video'}"
+    },
+    {
+      "name": "video:mikey-youtube-live-029-call-visual-proxy-04288-07517.mp4",
+      "ok": true,
+      "detail": "{'audio', 'video'}"
+    },
+    {
+      "name": "original_still_present:mikey-youtube-live-021",
+      "ok": true,
+      "detail": "D:\\startup\\youtube_download\\output\\视频\\搭讪玩家TV_未蒸馏直播_第03批_21-30\\搭訕玩家TV\\2025-08-17 - 直播68： 两性情感 泡妞 搭讪 约会丨搭訕玩家TV [gkADT8_5s14].mp4"
+    },
+    {
+      "name": "original_still_present:mikey-youtube-live-022",
+      "ok": true,
+      "detail": "D:\\startup\\youtube_download\\output\\视频\\搭讪玩家TV_未蒸馏直播_第03批_21-30\\搭訕玩家TV\\2025-08-28 - 直播70： 火影忍者谁最会泡妞？丨 搭訕玩家TV [dZgV_s1FVv8].mp4"
+    },
+    {
+      "name": "original_still_present:mikey-youtube-live-023",
+      "ok": true,
+      "detail": "D:\\startup\\youtube_download\\output\\视频\\搭讪玩家TV_未蒸馏直播_第03批_21-30\\搭訕玩家TV\\2025-09-15 - 直播72： 近期实战案例分享，直播答疑 泡妞 搭讪 约会丨搭訕玩家TV [wjizzSk9eAI].mp4"
+    },
+    {
+      "name": "original_still_present:mikey-youtube-live-024",
+      "ok": true,
+      "detail": "D:\\startup\\youtube_download\\output\\视频\\搭讪玩家TV_未蒸馏直播_第03批_21-30\\搭訕玩家TV\\2025-10-19 - 直播75：近期实战案例分享，直播答疑 泡妞 搭讪 约会丨搭訕玩家TV [-yPQ13M6jX8].mp4"
+    },
+    {
+      "name": "original_still_present:mikey-youtube-live-025",
+      "ok": true,
+      "detail": "D:\\startup\\youtube_download\\output\\视频\\搭讪玩家TV_未蒸馏直播_第03批_21-30\\搭訕玩家TV\\2025-11-10 - 直播77：近期实战案例分享，直播答疑 泡妞 搭讪 约会丨搭訕玩家TV [dSYHWDUlQ4I].mp4"
+    },
+    {
+      "name": "original_still_present:mikey-youtube-live-026",
+      "ok": true,
+      "detail": "D:\\startup\\youtube_download\\output\\视频\\搭讪玩家TV_未蒸馏直播_第03批_21-30\\搭訕玩家TV\\2025-11-20 - 直播79：干货分享 直播答疑 泡妞 搭讪 约会丨搭訕玩家TV [PQbkX-IUGcs].mp4"
+    },
+    {
+      "name": "original_still_present:mikey-youtube-live-027",
+      "ok": true,
+      "detail": "D:\\startup\\youtube_download\\output\\视频\\搭讪玩家TV_未蒸馏直播_第03批_21-30\\搭訕玩家TV\\2025-11-22 - 直播80：干货分享 直播答疑 泡妞 搭讪 约会丨搭訕玩家TV [8jCwDoBjWT0].mp4"
+    },
+    {
+      "name": "original_still_present:mikey-youtube-live-028",
+      "ok": true,
+      "detail": "D:\\startup\\youtube_download\\output\\视频\\搭讪玩家TV_未蒸馏直播_第03批_21-30\\搭訕玩家TV\\2025-11-23 - 直播81：干货分享 直播答疑 泡妞 搭讪 约会丨搭訕玩家TV [vBoAYfRFhh0].mp4"
+    },
+    {
+      "name": "original_still_present:mikey-youtube-live-029",
+      "ok": true,
+      "detail": "D:\\startup\\youtube_download\\output\\视频\\搭讪玩家TV_未蒸馏直播_第03批_21-30\\搭訕玩家TV\\2025-11-24 - 直播82：干货分享 直播答疑 泡妞 搭讪 约会丨搭訕玩家TV [knZc0MMOnbw].mp4"
+    },
+    {
+      "name": "original_still_present:mikey-youtube-live-030",
+      "ok": true,
+      "detail": "D:\\startup\\youtube_download\\output\\视频\\搭讪玩家TV_未蒸馏直播_第03批_21-30\\搭訕玩家TV\\2025-12-04 - 直播83：干货分享 直播答疑 泡妞 搭讪 约会丨搭訕玩家TV [KO5l9Lh7FZc].mp4"
+    },
+    {
+      "name": "original_count_10",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "original_bytes_expected",
+      "ok": true,
+      "detail": "13803011308"
+    },
+    {
+      "name": "zero_byte_files_absent",
+      "ok": true,
+      "detail": ""
+    }
+  ],
+  "review_count": 63,
+  "evidence_manifest_items": 19,
+  "evidence_package_bytes": 703322161,
+  "original_count": 10,
+  "original_bytes": 13803011308,
+  "net_reclaimable_bytes_excluding_existing_transcripts_and_frames": 13099689147
+}

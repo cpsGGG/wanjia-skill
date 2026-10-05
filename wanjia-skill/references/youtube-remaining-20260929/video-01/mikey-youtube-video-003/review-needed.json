@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-003",
+  "youtube_id": "efyqkeWyhUw",
+  "review_completed": true,
+  "items": [
+    {
+      "review_id": "v003-r01",
+      "severity": "blocking_for_dedup",
+      "issue": "The same-title live EPmR6XOphxY is 8076 seconds and was not locally available for transcript, audio or visual comparison. This 2441-second upload may be a fully reused edited excerpt.",
+      "affected_evidence": ["content-dedup.json", "channel snapshot metadata"],
+      "disposition": "Keep this upload provisionally new relative to the formal 202 sources. Before counting EPmR6XOphxY separately, run clip-level transcript/audio fingerprinting and set one source to reuse if containment is confirmed."
+    },
+    {
+      "review_id": "v003-r02",
+      "severity": "blocking_for_privacy_and_integration",
+      "issue": "The video publicly displays private chats, voice notes/calls, a woman's image and itinerary-like details. Her consent to recording or publication is not established.",
+      "affected_evidence": ["visual frames 1-54", "S01818-S01841"],
+      "disposition": "Do not copy the screenshots, identity clues or verbatim private audio into the formal runtime package until privacy, consent and redaction rules are resolved."
+    },
+    {
+      "review_id": "v003-r03",
+      "severity": "blocking_for_action_advice",
+      "issue": "The central sequence teaches or demonstrates emotional pressure, concealment from a partner/family and tactics for facilitating infidelity, despite later regret and a disclaimer.",
+      "affected_evidence": ["S01139-S01475", "S01536-S01782", "S01951-S01976"],
+      "disposition": "Keep all operational details do_not_generalize and action_advice=false. If retained, use only to describe Mikey's stated conduct, contradiction and later regret."
+    },
+    {
+      "review_id": "v003-r04",
+      "severity": "major",
+      "issue": "The woman's and Mikey's lines in played calls/recordings are not diarized. Automatic transcription also mixes live commentary with the played material.",
+      "affected_evidence": ["S00969-S01475", "S01536-S01817", "S01842-S01938"],
+      "disposition": "Do not attribute individual ambiguous sentences as exact quotations. Use coarse labels such as 'the woman is presented as saying' until continuous audio review and diarization are completed."
+    },
+    {
+      "review_id": "v003-r05",
+      "severity": "major",
+      "issue": "The meeting, relationship history, boyfriend's behavior, travel arrangements and sexual/reproductive outcome are self-reported or shown through edited evidence and cannot be independently verified.",
+      "affected_evidence": ["S00890-S00968", "S01536-S01841", "S01842-S01938"],
+      "disposition": "Treat these as claims within Mikey's case narrative, not established facts about the third parties."
+    },
+    {
+      "review_id": "v003-r06",
+      "severity": "major",
+      "issue": "Claims that women generally prefer a highly desired 'lover' even when he cheats or treats them badly, and the appeal to genes/nature, are unsupported generalizations from one selected case.",
+      "affected_evidence": ["S01695-S01726", "S01927-S01950"],
+      "disposition": "Keep do_not_generalize. Do not present as biological fact or a prediction about women broadly."
+    },
+    {
+      "review_id": "v003-r07",
+      "severity": "major",
+      "issue": "Several demonstrations risk normalizing unwanted pressure or privacy invasion, including challenging low-interest replies, recording neighbors, and continuing after learning of an existing relationship.",
+      "affected_evidence": ["S00135-S00197", "S00266-S00306", "S00918-S00968"],
+      "disposition": "Any later synthesis must add explicit consent, privacy and stop-signal boundaries and must not turn these examples into scripts."
+    },
+    {
+      "review_id": "v003-r08",
+      "severity": "minor",
+      "issue": "The ASR contains obvious errors and unstable pronouns, including '亲密/清理鉴定' where context suggests paternity testing, garbled place names, and mixed he/she references.",
+      "affected_evidence": ["S00001-S00007", "S00349-S00360", "S01866-S01882"],
+      "disposition": "Do not quote disputed wording without original-audio review; the distillation paraphrases only the stable surrounding meaning."
+    }
+  ]
+}

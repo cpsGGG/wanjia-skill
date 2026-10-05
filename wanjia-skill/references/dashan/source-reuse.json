@@ -1,0 +1,187 @@
+{
+  "schema_version": "dashan-source-reuse-1.0",
+  "inventory_sha256": "6135f578bb8e84045ab45d3f5104b3e3e116ae356b505e3f43a1265636ef10c8",
+  "duplicate_audit_sha256": "9f09cec15cd23e0093604d1a753b3dfddd43da20d50de27abbb6232e068e8293",
+  "inventory_source_count": 29,
+  "new_source_count": 23,
+  "reused_source_count": 6,
+  "new_source_ids": [
+    "mikey-approach-002",
+    "mikey-approach-003",
+    "mikey-approach-004",
+    "mikey-approach-006",
+    "mikey-approach-007",
+    "mikey-approach-009",
+    "mikey-approach-010",
+    "mikey-approach-011",
+    "mikey-approach-012",
+    "mikey-approach-014",
+    "mikey-approach-015",
+    "mikey-approach-016",
+    "mikey-approach-017",
+    "mikey-approach-018",
+    "mikey-approach-020",
+    "mikey-approach-021",
+    "mikey-approach-022",
+    "mikey-approach-023",
+    "mikey-approach-024",
+    "mikey-approach-025",
+    "mikey-approach-027",
+    "mikey-approach-028",
+    "mikey-approach-029"
+  ],
+  "aliases": [
+    {
+      "source_id": "mikey-approach-001",
+      "filename": "1.街头搭讪把陌生女生带回酒店（纯享版 一刀未剪）.mp4",
+      "primary_source_id": "mikey-practice-017",
+      "reuse_status": "same_release_reencode",
+      "exact_source_ids": [],
+      "related_same_case_source_ids": [
+        "mikey-practice-018"
+      ],
+      "audit_pairs": [
+        {
+          "prior_source_id": "mikey-practice-017",
+          "status": "same_release_reencode",
+          "conclusion": "全长时间对齐、画面与音频高度一致，但文件哈希不同。"
+        },
+        {
+          "prior_source_id": "mikey-practice-018",
+          "status": "same_case_different_edit",
+          "conclusion": "001与017为全长重编码；既有原片审计已确认017/018共享完整案例序列，因此001/018为同案不同剪辑。"
+        }
+      ],
+      "production_policy": {
+        "new_source_record": false,
+        "new_knowledge": false,
+        "independent_case_weight": 0,
+        "asr_and_frames": "may_remain_as_local_audit_artifacts_only",
+        "runtime_readback_source_id": "mikey-practice-017"
+      }
+    },
+    {
+      "source_id": "mikey-approach-005",
+      "filename": "5.搭讪西装正妹，快速带回家.mp4",
+      "primary_source_id": "mikey-practice-001",
+      "reuse_status": "same_release_reencode",
+      "exact_source_ids": [],
+      "related_same_case_source_ids": [],
+      "audit_pairs": [
+        {
+          "prior_source_id": "mikey-practice-001",
+          "status": "same_release_reencode",
+          "conclusion": "全长时间对齐、画面与音频高度一致，但文件哈希不同。"
+        }
+      ],
+      "production_policy": {
+        "new_source_record": false,
+        "new_knowledge": false,
+        "independent_case_weight": 0,
+        "asr_and_frames": "may_remain_as_local_audit_artifacts_only",
+        "runtime_readback_source_id": "mikey-practice-001"
+      }
+    },
+    {
+      "source_id": "mikey-approach-008",
+      "filename": "8.搭讪可爱清纯女生，一天之内拿下.mp4",
+      "primary_source_id": "mikey-practice-015",
+      "reuse_status": "same_release_reencode",
+      "exact_source_ids": [
+        "mikey-practice-044"
+      ],
+      "related_same_case_source_ids": [],
+      "audit_pairs": [
+        {
+          "prior_source_id": "mikey-practice-044",
+          "status": "exact_byte_duplicate",
+          "conclusion": "全文字节哈希相同。"
+        },
+        {
+          "prior_source_id": "mikey-practice-015",
+          "status": "same_release_reencode",
+          "conclusion": "全长时间对齐、画面与音频高度一致，但文件哈希不同。"
+        }
+      ],
+      "production_policy": {
+        "new_source_record": false,
+        "new_knowledge": false,
+        "independent_case_weight": 0,
+        "asr_and_frames": "may_remain_as_local_audit_artifacts_only",
+        "runtime_readback_source_id": "mikey-practice-015"
+      }
+    },
+    {
+      "source_id": "mikey-approach-013",
+      "filename": "13.打扮成屌丝搭讪后续.mp4",
+      "primary_source_id": "mikey-practice-027",
+      "reuse_status": "same_release_reencode",
+      "exact_source_ids": [],
+      "related_same_case_source_ids": [],
+      "audit_pairs": [
+        {
+          "prior_source_id": "mikey-practice-027",
+          "status": "same_release_reencode",
+          "conclusion": "全长时间对齐、画面与音频高度一致，但文件哈希不同。"
+        }
+      ],
+      "production_policy": {
+        "new_source_record": false,
+        "new_knowledge": false,
+        "independent_case_weight": 0,
+        "asr_and_frames": "may_remain_as_local_audit_artifacts_only",
+        "runtime_readback_source_id": "mikey-practice-027"
+      }
+    },
+    {
+      "source_id": "mikey-approach-019",
+      "filename": "19.搭讪直接带回家.mp4",
+      "primary_source_id": "mikey-practice-030",
+      "reuse_status": "same_release_reencode",
+      "exact_source_ids": [],
+      "related_same_case_source_ids": [],
+      "audit_pairs": [
+        {
+          "prior_source_id": "mikey-practice-030",
+          "status": "same_release_reencode",
+          "conclusion": "全长时间对齐、画面与音频高度一致，但文件哈希不同。"
+        }
+      ],
+      "production_policy": {
+        "new_source_record": false,
+        "new_knowledge": false,
+        "independent_case_weight": 0,
+        "asr_and_frames": "may_remain_as_local_audit_artifacts_only",
+        "runtime_readback_source_id": "mikey-practice-030"
+      }
+    },
+    {
+      "source_id": "mikey-approach-026",
+      "filename": "26.线下课即搭即约 快速td.mp4",
+      "primary_source_id": "mikey-practice-039",
+      "reuse_status": "same_release_reencode",
+      "exact_source_ids": [],
+      "related_same_case_source_ids": [],
+      "audit_pairs": [
+        {
+          "prior_source_id": "mikey-practice-014",
+          "status": "independent_content",
+          "conclusion": "抽样画面未发现可持续对齐片段，音频窗口也不支持同源。"
+        },
+        {
+          "prior_source_id": "mikey-practice-039",
+          "status": "same_release_reencode",
+          "conclusion": "全长时间对齐、画面与音频高度一致，但文件哈希不同。"
+        }
+      ],
+      "production_policy": {
+        "new_source_record": false,
+        "new_knowledge": false,
+        "independent_case_weight": 0,
+        "asr_and_frames": "may_remain_as_local_audit_artifacts_only",
+        "runtime_readback_source_id": "mikey-practice-039"
+      }
+    }
+  ],
+  "policy": "Reuse entries preserve provenance but create no new runtime source, knowledge, or independent case weight."
+}

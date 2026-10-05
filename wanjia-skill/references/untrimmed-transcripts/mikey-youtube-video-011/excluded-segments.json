@@ -1,0 +1,19 @@
+{
+  "source_id": "mikey-youtube-video-011",
+  "status": "preserved_not_indexed_timing_unreliable",
+  "time_alignment_verified": false,
+  "original_transcript": "references/untrimmed-transcripts/mikey-youtube-video-011/transcript.original.json",
+  "original_transcript_sha256": "9b3b3be950538fce3817e28c05e82bc7a9c37ba8029f3dbfc6d884365728a289",
+  "original_research_transcript": "D:\\startup\\玩家.skill\\research\\youtube-all-remaining-pipeline\\integration-candidate\\references\\youtube-remaining-20260929\\video-02\\mikey-youtube-video-011\\transcript.json",
+  "media_duration_seconds": 762.287891,
+  "excluded_segments": [],
+  "crossing_segments_original": [
+    {
+      "sid": "S00468",
+      "start": 752.05,
+      "end": 782.03,
+      "text": "我会让你再来"
+    }
+  ],
+  "notice": "All original text is retained. Out-of-duration timestamps may be ASR hallucination or misalignment; no information-value verdict or permission upgrade follows from exclusion from the normal timed index."
+}

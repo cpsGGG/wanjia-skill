@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-042",
+  "youtube_id": "ZPqbKTYMsuc",
+  "decision": "new",
+  "compared_sources": [
+    {
+      "scope": "formal_mikey_guide",
+      "source_count": 202,
+      "comparison": "youtube_id_url_title_and_targeted_theme/phrase review"
+    },
+    {
+      "source_ids": ["quark-live-006", "S-cMTEvo6To", "mikey-youtube-live-036"],
+      "comparison": "related eye-contact, interest-signaling and consent-boundary teachings"
+    }
+  ],
+  "evidence": [
+    {
+      "type": "identity",
+      "result": "no_exact_youtube_id_or_url_overlap",
+      "basis": "video-05 identity-precheck.json and current 202-source formal index"
+    },
+    {
+      "type": "normalized_fulltext",
+      "target_segments": 223,
+      "target_normalized_chars": 2365,
+      "target_normalized_sha256": "40fcc26e006f4ff28a240690a2113c39b6b3a3548d26d41bd7f43095b8bba0c3"
+    },
+    {
+      "type": "ordered_content_distinction",
+      "result": "distinct_compilation",
+      "basis": "The source is a compact four-signal teaching sequence—stopping, eye contact, continued conversation and acceptance of a romantic frame—intercut with multiple public approach examples. Formal sources contain related propositions, but the reviewed sources do not reproduce this complete ordered package or edited field sequence."
+    },
+    {
+      "type": "visual_scope",
+      "result": "distinct_studio_and_field_edit",
+      "basis": "All 10 sampled frames were reviewed. They alternate a single-host sofa monologue with several public street interactions and a branded outro."
+    }
+  ],
+  "boundary": "New means no whole-source duplicate was found in the formal 202-source index. The eye-contact, romantic-frame and stop-on-withdrawal ideas overlap existing themes and add no automatic independent truth, safety or runtime permission."
+}

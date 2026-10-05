@@ -1,0 +1,50 @@
+{
+  "schema_version": "mikey-community-post-fulltext-1.0",
+  "source_id": "mikey-youtube-community-048",
+  "post_id": "UgkxI8laZM7Q-1hPR6KmCiDUiULBStgoeVTP",
+  "url": "https://www.youtube.com/post/UgkxI8laZM7Q-1hPR6KmCiDUiULBStgoeVTP",
+  "published_at": "2025-09-26T06:00:00.293745-07:00",
+  "date_basis": "archived_public_observation",
+  "body": "人需要有持续的小成就来滋养自己，不能一直等待着大成就，\n一直处于等待状态，人容易干涸，失去心劲儿.\n\n很多人坚持不下去就是因为一直在等待大的成就，长期缺乏小成就.",
+  "body_kind": "verbatim_or_as_archived_in_corrected_candidate",
+  "image_refs": [
+    {
+      "image_index": 1,
+      "research_archive_path": "research/youtube-community-batch1/images/UgkxI8laZM7Q-1hPR6KmCiDUiULBStgoeVTP/01.jpg",
+      "sha256": "54cf03394a2ad66273cdf81929517c001368ba3f590d4795d4690ab608bc29d0",
+      "bytes": 155423,
+      "formal_asset_policy": "reference_only_do_not_copy",
+      "safe_summary": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。"
+    }
+  ],
+  "segments": [
+    {
+      "sid": "C0048-BODY",
+      "kind": "channel_body",
+      "text": "人需要有持续的小成就来滋养自己，不能一直等待着大成就，\n一直处于等待状态，人容易干涸，失去心劲儿.\n\n很多人坚持不下去就是因为一直在等待大的成就，长期缺乏小成就.",
+      "verbatim_allowed": true,
+      "source_scope": "public_channel_body_as_archived"
+    },
+    {
+      "sid": "C0048-IMG01",
+      "kind": "image_reference_metadata",
+      "text": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。",
+      "verbatim_allowed": false,
+      "image_reference": {
+        "image_index": 1,
+        "research_archive_path": "research/youtube-community-batch1/images/UgkxI8laZM7Q-1hPR6KmCiDUiULBStgoeVTP/01.jpg",
+        "sha256": "54cf03394a2ad66273cdf81929517c001368ba3f590d4795d4690ab608bc29d0",
+        "bytes": 155423,
+        "formal_asset_policy": "reference_only_do_not_copy",
+        "safe_summary": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。"
+      }
+    }
+  ],
+  "privacy_policy": {
+    "original_images_copied": false,
+    "raw_ocr_copied": false,
+    "private_chat_transcript_copied": false,
+    "third_party_identity_confirmed": false,
+    "publication_authorization_confirmed": false
+  }
+}

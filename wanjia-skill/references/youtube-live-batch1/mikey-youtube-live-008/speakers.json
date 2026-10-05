@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "source_id": "mikey-youtube-live-008",
+  "speakers": [
+    {
+      "id": "mikey",
+      "role": "host",
+      "status": "confirmed",
+      "identity_basis": "标题明示Mikey；11张联系表从开场至收尾持续显示同一位主持人单人对镜头，右侧为YouTube文字聊天，未见嘉宾或连麦画面。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=356DT00P73U&t=10s",
+        "https://www.youtube.com/watch?v=356DT00P73U&t=3800s",
+        "https://www.youtube.com/watch?v=356DT00P73U&t=7500s"
+      ],
+      "notes": "确认主持人身份；自动稿里由他代读的问题不等于他的观点。"
+    },
+    {
+      "id": "viewer-question-01",
+      "role": "YouTube viewer question author(s)",
+      "status": "collective_placeholder",
+      "identity_basis": "11张联系表显示右侧YouTube聊天持续滚动，主持人从中选择并口读问题。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=356DT00P73U&t=120s",
+        "https://www.youtube.com/watch?v=356DT00P73U&t=3600s",
+        "https://www.youtube.com/watch?v=356DT00P73U&t=7000s"
+      ],
+      "notes": "代表多个未逐一映射昵称的观众；问题作者与实际发声者分开记录。"
+    }
+  ]
+}

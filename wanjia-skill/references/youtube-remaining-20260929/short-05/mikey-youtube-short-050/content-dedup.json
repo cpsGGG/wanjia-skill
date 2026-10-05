@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-050",
+  "youtube_id": "s-htda5k6Yo",
+  "decision": "reuse",
+  "reuse_of": ["mikey-youtube-short-044", "quark-live-010"],
+  "formal_weight_if_integrated": 0,
+  "compared_sources": [
+    {"scope": "formal_mikey_guide_202_sources", "comparison": "exact ID/URL, 沸羊羊 label and one-sided-sacrifice theme"},
+    {"scope": "youtube_pipeline_video_01_to_05_and_short_01_to_04", "comparison": "exact ID/URL, transcript, third-party clip and meme/theme reuse screen"},
+    {"source_id": "mikey-youtube-short-044", "comparison": "channel use of the 沸羊羊 label through third-party edited material"},
+    {"source_id": "quark-live-010", "comparison": "美羊羊/沸羊羊 example used to discuss one-sided appeasement and pursuit"}
+  ],
+  "evidence": [
+    {"type": "identity", "result": "no_exact_id_or_url_match"},
+    {"type": "content_origin", "result": "third_party_animation_clip", "basis": "Every reviewed frame is an excerpt from 喜羊羊与灰太狼 and carries a visible Bilibili uploader watermark in addition to the channel overlay."},
+    {"type": "transcript", "result": "asr_incomplete_and_not_mikey_speech", "basis": "The four ASR segments capture only fragments of cartoon dialogue and omit most of the 30.19-second scene."},
+    {"type": "semantic_reuse", "result": "already_represented_without_new_mikey_method", "basis": "The only channel-level framing is the title's wish not to be a 沸羊羊, a meme/theme already represented by formal and current-batch sources."},
+    {"type": "visual", "result": "third_party_republication", "basis": "Ten original 3-second frames and thirty additional 1-second frames show only cartoon characters, dialogue subtitles and third-party watermarks; Mikey never appears."}
+  ],
+  "boundary": "Zero weight. Treat the animation and its dialogue as third-party copyrighted material, not as Mikey testimony, experience or a verified relationship model. The upload title alone does not establish a detailed Mikey-authored argument."
+}

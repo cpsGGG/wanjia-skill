@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-042",
+  "youtube_id": "ZPqbKTYMsuc",
+  "review_completed": true,
+  "items": [
+    {
+      "review_id": "v042-r01",
+      "severity": "blocking",
+      "category": "consent_and_stalking_boundary",
+      "issue": "The source discusses following a walking woman and contact exchange under pressure, although Mikey explicitly says not to keep following and to let her leave.",
+      "affected_evidence": ["S00058-S00098"],
+      "disposition": "Preserve only the stop-and-let-leave boundary. No following, blocking, repeated pursuit or treating a safety-motivated contact exchange as interest."
+    },
+    {
+      "review_id": "v042-r02",
+      "severity": "blocking",
+      "category": "consent_signal_inference",
+      "issue": "Stopping, eye contact, continued conversation and tolerating a romantic frame are repeatedly treated as attraction signals.",
+      "affected_evidence": ["S00058-S00078", "S00112-S00162", "S00174-S00214"],
+      "disposition": "None of these cues proves romantic interest or consent. Require clear voluntary reciprocation; explicit refusal, withdrawal or discomfort overrides interpretation."
+    },
+    {
+      "review_id": "v042-r03",
+      "severity": "blocking",
+      "category": "sexual_and_aggressive_framing",
+      "issue": "The fourth signal invokes male '原始的侵略性' and nonverbal sexual intent without operational consent safeguards.",
+      "affected_evidence": ["S00174-S00214"],
+      "disposition": "Do not convert this into action advice. Express interest respectfully and plainly, keep it easy to refuse, and do not escalate without clear ongoing consent."
+    },
+    {
+      "review_id": "v042-r04",
+      "severity": "major",
+      "category": "gender_generalization_and_mind_reading",
+      "issue": "The monologue repeatedly states what 'women' think, feel or infer from eye contact and time spent talking.",
+      "affected_evidence": ["S00025-S00055", "S00112-S00162", "S00174-S00214"],
+      "disposition": "Attribute as Mikey's model only; do not state universal female psychology or infer an individual's mind."
+    },
+    {
+      "review_id": "v042-r05",
+      "severity": "major",
+      "category": "privacy_and_filming",
+      "issue": "Approached people and bystanders are visibly recorded in public, with no evidence of notice or publication consent in the sampled frames.",
+      "affected_evidence": ["sampled frames 000001, 000005, 000009", "field footage throughout"],
+      "disposition": "Do not expose identities or reuse imagery without privacy and consent review."
+    },
+    {
+      "review_id": "v042-r06",
+      "severity": "major",
+      "category": "edited_evidence_and_outcomes",
+      "issue": "Short field examples are cut into a teaching montage; later replies, meetings and the full attempt denominator are absent.",
+      "affected_evidence": ["whole source"],
+      "disposition": "Do not use the montage as success-rate, causal or efficacy evidence."
+    },
+    {
+      "review_id": "v042-r07",
+      "severity": "major",
+      "category": "degrading_language",
+      "issue": "The teaching uses degrading labels for both approachers and comparison targets, which can encourage contempt and objectification.",
+      "affected_evidence": ["S00029-S00055", "S00079-S00094", "S00154-S00162"],
+      "disposition": "Retain the substantive boundary or diagnostic point in neutral language; do not reproduce insults as guidance."
+    },
+    {
+      "review_id": "v042-r08",
+      "severity": "major",
+      "category": "commercial_context",
+      "issue": "The video ends with a call to contact the coaching team, so categorical rules also function inside a marketing funnel.",
+      "affected_evidence": ["S00215-S00223"],
+      "disposition": "Do not treat marketing presentation as independent evidence of effectiveness."
+    }
+  ]
+}

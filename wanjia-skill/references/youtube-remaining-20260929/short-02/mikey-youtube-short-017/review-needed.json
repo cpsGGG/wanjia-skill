@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-017",
+  "youtube_id": "HK4ubB2vW0Q",
+  "review_completed": true,
+  "items": [
+    {"review_id": "s017-r01", "severity": "blocking", "issue": "Advice to make a partner afraid to request exclusivity treats fear and leverage as substitutes for agreement.", "affected_evidence": ["S00013-S00018"], "disposition": "Do not generalize or convert to action advice; require explicit, informed and revocable relationship agreements."},
+    {"review_id": "s017-r02", "severity": "blocking", "issue": "The claim that accumulated investment makes a partner accept other partners relies on sunk-cost pressure rather than free consent.", "affected_evidence": ["S00019-S00031"], "disposition": "Keep do_not_generalize and unavailable for first-person guidance."},
+    {"review_id": "s017-r03", "severity": "major", "issue": "The training comparison ranks and objectifies women as low- or high-quality practice targets.", "affected_evidence": ["S00001-S00007"], "disposition": "Retain only the abstract deliberate-practice concept with a personhood boundary."},
+    {"review_id": "s017-r04", "severity": "major", "issue": "Short-014 and this Short are edits from the same formal live-028 and are not independent evidence.", "affected_evidence": ["whole short"], "disposition": "Weight 0 and use the formal parent source for context."},
+    {"review_id": "s017-r05", "severity": "major", "issue": "ASR S00035-S00051 extends beyond the 69.032925-second media duration and is incoherent.", "affected_evidence": ["S00035-S00051", "media-audit.json"], "disposition": "Exclude those segments; cap the semantic timeline at the media endpoint."}
+  ]
+}

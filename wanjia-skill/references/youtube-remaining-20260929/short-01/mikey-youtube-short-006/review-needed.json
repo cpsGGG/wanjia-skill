@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-006",
+  "youtube_id": "NB1KsmdaoxI",
+  "review_completed": true,
+  "items": [
+    {"review_id": "s006-r01", "severity": "blocking", "category": "duplicate", "issue": "The Short is an excerpt of formal source Gs467Dozs3w.", "affected_evidence": ["whole source"], "disposition": "Reuse with weight 0."},
+    {"review_id": "s006-r02", "severity": "blocking", "category": "consent_and_sexual_outcome", "issue": "The answer uses crude 'eat/sleep with' outcome language and recounts inviting women home without dates, without evidence about consent or complete outcomes.", "affected_evidence": ["S00008-S00033"], "disposition": "Use only the lower-pressure dating principle; never infer consent or turn the self-report into a tactic or promise."},
+    {"review_id": "s006-r03", "severity": "major", "category": "efficacy", "issue": "Claims that attraction will cause her to initiate a second date are categorical and unsupported.", "affected_evidence": ["S00014-S00017"], "disposition": "Do not promise follow-up behavior or present it as a rule about women."}
+  ]
+}

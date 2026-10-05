@@ -1,0 +1,163 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-005",
+  "youtube_id": "vA3vZJa00qM",
+  "title": "TA們不是在維護景甜 TA們是在維護「索取邏輯」｜孫宇晨｜我的女友景甜｜5000萬美元代孕｜孫割丨胡錫進｜娛樂圈｜情感詐騙丨卵子",
+  "coverage": {
+    "transcript_segments_read": 343,
+    "transcript_time_range_seconds": [0.0, 498.8],
+    "sparse_frames_reviewed": 11,
+    "dense_interval_seconds": 5,
+    "dense_frames_reviewed": 102,
+    "continuous_original_audio_visual_review": false
+  },
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 64.68,
+      "summary": "Mikey criticizes online commentary that treats a large hypothetical payment as trivial relative to a wealthy man's net worth, and labels this a social 'extraction logic'."
+    },
+    {
+      "start": 64.68,
+      "end": 171.66,
+      "summary": "He narrates disputed public-figure claims about a proposed payment, an earlier transfer and litigation, then gives his own fairness and repayment judgment."
+    },
+    {
+      "start": 171.66,
+      "end": 286.05,
+      "summary": "He proposes a provider-versus-lover model and uses stereotypes about athletes and rebellious men to argue that boldness, direct action and low approval-seeking can matter more than money or education."
+    },
+    {
+      "start": 286.05,
+      "end": 341.49,
+      "summary": "Using Zhang Jike as an unverified celebrity example, he argues that a person whose self-evaluation comes from his own career and life is less likely to make a romantic partner his only judge."
+    },
+    {
+      "start": 341.49,
+      "end": 427.19,
+      "summary": "He says Sun Yuchen has objective status and risk-taking traits but, in Mikey's interpretation, lost consistency by treating one woman as exceptional; he generalizes this into a claim that changing for a woman destroys attraction."
+    },
+    {
+      "start": 427.19,
+      "end": 496.1,
+      "summary": "He concludes that money expands options but cannot purchase desire, and presents refusal, stopping payment and seeking repayment as evidence that the man eventually retained a boundary."
+    },
+    {
+      "start": 496.1,
+      "end": 510.0,
+      "summary": "The coherent Mikey narration has ended. A short, abruptly cut third-party/news-like tail remains and is excluded from substantive claims."
+    }
+  ],
+  "claims": [
+    {
+      "claim_id": "v005-c01",
+      "speaker": "Mikey",
+      "statement": "The person who owns the money retains the decision over whether a proposed payment is worth making; relative wealth alone does not create an obligation to pay.",
+      "conditions": "General financial-autonomy point expressed through a disputed celebrity case; not legal advice and not a finding about the actual parties.",
+      "evidence": ["S00046-S00053@65.76-77.68"],
+      "use_level": "context_only"
+    },
+    {
+      "claim_id": "v005-c02",
+      "speaker": "Mikey",
+      "statement": "Attraction is not reducible to income, credentials or status; he treats boldness, direct action, self-direction and low approval-seeking as stronger behavioral signals.",
+      "conditions": "Mikey's attraction model. The gendered examples are editorial and anecdotal rather than controlled evidence.",
+      "evidence": ["S00189-S00208@255.86-284.49"],
+      "use_level": "context_only"
+    },
+    {
+      "claim_id": "v005-c03",
+      "speaker": "Mikey",
+      "statement": "A person whose self-evaluation is grounded in his own work and life is less likely to make a romantic partner his only judge.",
+      "conditions": "General interpretation extracted from a celebrity example whose private relationship facts are not established here.",
+      "evidence": ["S00230-S00239@317.87-335.29"],
+      "use_level": "context_only"
+    },
+    {
+      "claim_id": "v005-c04",
+      "speaker": "Mikey",
+      "statement": "Treating one partner as exceptional and changing oneself for her causes her to lose attraction because she no longer reads the man as strong.",
+      "conditions": "Categorical causal claim about women; unsupported as a universal rule and based on Mikey's interpretation of public gossip.",
+      "evidence": ["S00256-S00271@362.99-394.85"],
+      "use_level": "do_not_generalize"
+    },
+    {
+      "claim_id": "v005-c05",
+      "speaker": "Mikey",
+      "statement": "Women divide men into providers from whom they extract resources and lovers toward whom they invest despite poor treatment.",
+      "conditions": "Broad binary gender model stated without evidence and illustrated with unverifiable private conduct.",
+      "evidence": ["S00125-S00155@173.8-213.92"],
+      "use_level": "do_not_generalize"
+    },
+    {
+      "claim_id": "v005-c06",
+      "speaker": "Mikey",
+      "statement": "Money can increase options, but adding money cannot create sexual or romantic desire where it is absent.",
+      "conditions": "A general relationship claim; does not justify contempt, pressure or transactional entitlement in either direction.",
+      "evidence": ["S00315-S00320@467.3-475.74", "S00331-S00335@487.16-492.92"],
+      "use_level": "context_only"
+    },
+    {
+      "claim_id": "v005-c07",
+      "speaker": "Mikey narrating third-party material",
+      "statement": "The video alleges a proposed USD 50 million payment, a CNY 30 million prior transfer or betrothal-gift dispute, and later court recovery action involving named public figures.",
+      "conditions": "Edited social posts and Mikey's narration only; legal status, amounts, chronology and party statements were not independently verified.",
+      "evidence": ["S00046-S00053@65.76-77.68", "S00084-S00121@119.0-169.26", "S00292-S00304@432.68-450.82"],
+      "use_level": "do_not_generalize"
+    }
+  ],
+  "examples": [
+    {
+      "example_id": "v005-e01",
+      "summary": "Mikey contrasts hypothetical generosity with reluctance to spend smaller sums one actually possesses, as an illustration of cheap moral signaling.",
+      "evidence": ["S00001-S00020@0.0-33.88"]
+    },
+    {
+      "example_id": "v005-e02",
+      "summary": "He uses an athlete's career-based identity as an example of maintaining self-evaluation outside a relationship.",
+      "evidence": ["S00230-S00239@317.87-335.29"]
+    },
+    {
+      "example_id": "v005-e03",
+      "summary": "He uses stopping a proposed payment and pursuing repayment as his example of eventually setting a financial boundary; the underlying dispute is unverified here.",
+      "evidence": ["S00292-S00304@432.68-450.82"]
+    }
+  ],
+  "speaker_attribution": [
+    {
+      "speaker": "Mikey",
+      "basis": "A single continuous host-style male narration structures the episode and self-identifies as Mike at S00336; most footage is voice-over and was not independently voiceprinted or listened to word-for-word."
+    },
+    {
+      "speaker": "named public figures and social-media authors",
+      "basis": "They appear in screenshots, news images, quoted posts or Mikey's retelling. Their depicted words and conduct are third-party material, not Mikey eyewitness evidence."
+    },
+    {
+      "speaker": "film, television and online-video figures",
+      "basis": "Illustrative editorial inserts only; no dialogue from these inserts is used as Mikey evidence."
+    },
+    {
+      "speaker": "tail clip after 496.1 seconds",
+      "basis": "Abrupt third-party/news-like material after Mikey's sign-off; speaker and relevance are not established, so it is excluded."
+    }
+  ],
+  "visual_findings": [
+    "All 11 sparse frames and all 102 five-second dense frames were reviewed. The program is a montage rather than a continuous on-camera talk.",
+    "The edit repeatedly displays public social posts, article pages, payment or court-themed graphics, celebrity photographs, sports footage and film/television clips. These images establish what the upload chose to show, not that the displayed allegations are true.",
+    "Several screenshots contain small or partially cropped text. No unreadable line was reconstructed from context, and no screenshot was treated as a complete conversation or complete legal record.",
+    "The 496.1-510.0 second tail changes subject and visual style after the host sign-off and was excluded from the episode's claims."
+  ],
+  "permissions": {
+    "formal_integration": false,
+    "first_person_answering": false,
+    "action_advice": false,
+    "reason": "Research candidate with disputed celebrity facts, legal assertions, private-relationship interpretations and categorical gender claims. Cross-source review and permission assignment are required before runtime use."
+  },
+  "limitations": [
+    "The automatic transcript was read in full but not checked word-for-word against the original audio.",
+    "Five-second dense frames improve visual coverage but do not constitute continuous audio-visual verification or prove what occurred between frames.",
+    "The upload is commentary built from edited public material; it is not a primary record of the relationships, payments or court proceedings discussed.",
+    "Many causal claims about women's motives and attraction are Mikey's broad interpretations and must not be converted into factual group rules.",
+    "Named-person allegations and legal or financial conclusions require independent, current primary sources if ever used outside source analysis."
+  ]
+}

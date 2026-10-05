@@ -1,0 +1,107 @@
+{
+  "schema_version": 1,
+  "batch_key": "short-06",
+  "validated_at": "2026-09-29T23:02:00+08:00",
+  "validator_role": "independent_non_authoring_review",
+  "scope": [
+    "mikey-youtube-short-051"
+  ],
+  "pass": true,
+  "checks": {
+    "current_media_sha256_matches_audit": true,
+    "current_media_duration_matches_audit": true,
+    "transcript_media_hash_binding": true,
+    "visual_manifest_media_hash_binding": true,
+    "all_asr_segments_ordered_nonoverlapping_and_within_media": true,
+    "all_sampled_frame_files_and_hashes_match": true,
+    "all_sampled_frames_visually_reviewed": true,
+    "formal_comparator_transcript_read": true,
+    "formal_comparator_visual_review_and_preserved_survey_checked": true,
+    "dedup_decision_supported_after_fix": true,
+    "timeline_continuous_from_zero_to_media_end": true,
+    "claim_evidence_resolves": true,
+    "permissions_and_review_restrictions_conservative": true,
+    "mechanical_batch_validation_after_fix": true
+  },
+  "item": {
+    "stable_id": "mikey-youtube-short-051",
+    "youtube_id": "m-jwCMQU1uQ",
+    "media": {
+      "sha256": "485112a474ca6821fd34ad3e3fc442dfa2bae3bb6b3a7a994446d316e00fd186",
+      "audit_duration_seconds": 53.893515,
+      "ffprobe_duration_seconds": 53.893515,
+      "rehash_matches": true,
+      "audio_streams": 1,
+      "video_streams": 1
+    },
+    "asr": {
+      "segments_checked": 28,
+      "sid_range": ["S00001", "S00028"],
+      "time_range_seconds": [2.13, 53.4],
+      "out_of_bounds_segments": 0,
+      "overlapping_segments": 0,
+      "quality_boundary": "Automatic ASR contains clear corruptions and merged speaker turns; the package uses bounded event summaries and prohibits verbatim quotation without original-audio review."
+    },
+    "visual": {
+      "sampled_frames_checked": 18,
+      "manifest_hashes_matching": "18/18",
+      "all_frames_reviewed": true,
+      "finding": "The Short shows a first grey-top participant continuing away, then an interaction with a red-haired/white-top woman and a dark-top/white-skirt woman. Phone handling is visible but no readable screen, confirmed contact save, attraction, filming/publication consent or later outcome is shown. Identifiable participants, bystanders and the public WeChat handle remain privacy-sensitive."
+    },
+    "formal_comparator": {
+      "source_id": "mikey-approach-009",
+      "transcript_segments_read": 29,
+      "visual_review_scope": "21-frame full sparse survey plus three documented 1fps key windows totaling 70 frames; preserved survey image independently inspected",
+      "proposed_parent_match": false,
+      "reason": "The formal source shows different beige/striped participants, a white-shirt red-armband third party, different storefront framing, refusal/model/coffee dialogue and a promotional hard cut. The Short instead shows a grey-top departure, a different two-woman group, shopping/local-origin/Jiangsu-Wuxi/tourism/next-day-departure dialogue and different street details. A black ESSENTIALS shirt and broad street setting are not sufficient identity evidence."
+    },
+    "dedup": {
+      "decision_after_validation": "new",
+      "reuse_of": null,
+      "formal_weight_if_integrated": 1,
+      "formal_integration_approved": false,
+      "boundary": "New means only a distinct research case in the processed corpus. It does not validate the title's lesson, prove successful contact exchange or authenticate the field man as Mikey."
+    },
+    "semantic_package": {
+      "timeline_entries": 5,
+      "timeline_range_seconds": [0.0, 53.893515],
+      "timeline_gaps_or_overlaps": 0,
+      "claims": 2,
+      "claim_evidence_references": 4,
+      "claim_evidence_references_valid": "4/4",
+      "review_items": 7,
+      "formal_integration": false,
+      "first_person_allowed": false,
+      "action_advice_allowed": false
+    },
+    "open_restrictions_preserved": [
+      "The first woman's exact reply is not reliably transcribed; clear refusal or continued departure remains a stop signal and the observed switch is not permission to persist.",
+      "Phone handling does not prove a voluntary contact exchange, saved contact, attraction or later meeting.",
+      "The field man self-identifies as Mike, but the Short does not independently authenticate him as Mikey; unclear participant and third-party turns remain unattributed.",
+      "Participant adulthood, filming consent and publication authorization are not established.",
+      "The appearance-based 'small' comment is not guidance and cannot support an age inference."
+    ],
+    "pass": true
+  },
+  "fixes": [
+    {
+      "severity": "blocking",
+      "issue": "content-dedup.json incorrectly labeled the Short as the same underlying recording as formal mikey-approach-009, and distillation/review files inherited that false duplicate relationship.",
+      "resolution": "Changed the item to a distinct new research case with no reuse parent and formal_weight_if_integrated=1; replaced the false same-recording evidence with the transcript and visual differences; changed both claims from reuse_zero_weight to candidate_new_case; rewrote the duplicate review item as a parent-identity warning. Formal integration and all generation permissions remain closed.",
+      "files_modified": [
+        "work/mikey-youtube-short-051/content-dedup.json",
+        "work/mikey-youtube-short-051/distillation.json",
+        "work/mikey-youtube-short-051/review-needed.json"
+      ],
+      "final_consistency_fix": "Removed two residual same-recording statements from content-dedup evidence[0] and distillation visual_findings[1]; both now state that no exact identity or parent recording is confirmed and that the Short is a distinct case."
+    }
+  ],
+  "post_fix_validation": {
+    "three_semantic_json_files_parse": true,
+    "pipeline_validation_report_pass": true,
+    "no_residual_same_recording_or_duplicate_conclusion": true,
+    "blocking_defects_remaining": [],
+    "formal_mikey_guide_modified": false,
+    "raw_media_modified_or_deleted": false
+  }
+}

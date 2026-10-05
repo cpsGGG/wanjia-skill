@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-002",
+  "youtube_id": "Z2sgjH3FmeU",
+  "review_completed": true,
+  "items": [
+    {"review_id": "s002-r01", "severity": "blocking", "category": "duplicate", "issue": "The short repeats the same named-industry dispute and external accusation chain already covered by live-038 and video-024.", "affected_evidence": ["whole source"], "disposition": "Reuse at formal weight 0; no independent corroboration."},
+    {"review_id": "s002-r02", "severity": "blocking", "category": "defamation_and_authenticity", "issue": "Named people and teams are accused of staging cases and deceiving students; screenshots and the excerpt were not authenticated.", "affected_evidence": ["s002-c01", "s002-c02"], "disposition": "Keep as attributed allegation/edited response only; do not state fraud or fabrication as fact."},
+    {"review_id": "s002-r03", "severity": "major", "category": "speaker_and_editorial_attribution", "issue": "The visible speaker, white subtitles and yellow editorial captions are distinct layers.", "affected_evidence": ["whole source"], "disposition": "Do not assign the man's admissions or the editor's accusations to Mikey without separate evidence."},
+    {"review_id": "s002-r04", "severity": "major", "category": "context_and_editing", "issue": "The meaning of '允许他们去演' is presented without the unedited source before and after it.", "affected_evidence": ["S00021-S00025"], "disposition": "Do not infer the exact scope, dates, clients, payments or intent."
+    }
+  ]
+}

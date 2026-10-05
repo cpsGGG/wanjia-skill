@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "source_id": "mikey-youtube-live-023",
+  "speakers": [
+    {
+      "id": "mikey",
+      "role": "host",
+      "status": "confirmed",
+      "identity_basis": "频道直播由Mikey主持；本期自动稿表现为单一主持人朗读观众问题并连续回答。最终人物确认仍等待本期视觉联系表复核。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=wjizzSk9eAI&t=28s"
+      ],
+      "notes": "观众问题通常由Mikey朗读，不能因出现在音轨里就把问题内容当成Mikey自己的经历。"
+    },
+    {
+      "id": "viewer-question-01",
+      "role": "collective live-chat question author(s)",
+      "status": "collective_placeholder",
+      "identity_basis": "直播答疑中反复出现称呼Mikey、陈述个人处境并等待回答的段落。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=wjizzSk9eAI&t=217s"
+      ],
+      "notes": "这是多个观众的集合占位符，不代表同一个人，也不是Mikey本人经历。"
+    }
+  ]
+}

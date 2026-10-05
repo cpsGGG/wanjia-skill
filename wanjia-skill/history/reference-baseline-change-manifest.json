@@ -1,0 +1,149 @@
+{
+  "plan": {
+    "baseline": "D:\\startup\\玩家.skill\\research\\youtube-all-remaining-pipeline\\historical-permission-pilot\\runtime-action-discovery-candidate",
+    "replacement_count": 36,
+    "same_id_source_status_conflicts": [],
+    "parent_method_intersections": [
+      {
+        "method_id": "action-pilot-visible-photo-selection",
+        "corrected_parent_ids": [
+          "mikey-youtube-live-009-K0005",
+          "mikey-youtube-live-009-K0009",
+          "mikey-youtube-live-009-K0012"
+        ],
+        "parent_link_role": "provenance_only_no_body_or_permission_inheritance"
+      },
+      {
+        "method_id": "action-pilot-one-self-information-turn",
+        "corrected_parent_ids": [],
+        "parent_link_role": "provenance_only_no_body_or_permission_inheritance"
+      },
+      {
+        "method_id": "action-pilot-basic-visible-presentation",
+        "corrected_parent_ids": [
+          "mikey-youtube-live-009-K0026"
+        ],
+        "parent_link_role": "provenance_only_no_body_or_permission_inheritance"
+      }
+    ],
+    "new318_line_preservation_count": 318,
+    "registered_atoms_methods_line_preservation_count": 7,
+    "gate_and_input_hashes": {
+      "projection26": "6568071d4d61d434d3faa4f8e4227560079f313da6d5eb84d985a4288831b15a",
+      "projection10": "094922947d2b9959887043d7d85eac9272fde793e9808e5324b37c803e3eec93",
+      "gate26": "aaa8d590859deb6c62fa4d53583b9418b9d27c4843932887f567f6d59e2ae8ac",
+      "gate10": "113189553d7a9cfe97e416112078bf826d38ddc722ac800e8eb87fd2fd6659c0",
+      "gate_discovery": "2998c71e7d4fc685523a4865704a43f990c22854cac35f7dc5e1560623c72012"
+    },
+    "runtime_loader_authority": "references/knowledge.jsonl only; mapped JSON is evidence research, never active knowledge",
+    "history_scope": "isolated history JSONL; no source-index/map/STORE registration",
+    "scripts_unchanged": true,
+    "planned_runtime_write_target": "D:\\startup\\玩家.skill\\research\\youtube-all-remaining-pipeline\\historical-permission-pilot\\runtime-corrected-candidate"
+  },
+  "builder_sha256": "b9c81a5258465472a704e929cd6897a851ce8f5d076ab863f2b1031135eedeed",
+  "baseline_unchanged": true,
+  "baseline_files": {
+    "SKILL.md": {
+      "sha256": "217e550cbd5cae7711dedd4d28955ee95b5f0d5f2135e47ba46495310c067f2b",
+      "mtime_ns": 1790903378374296500
+    },
+    "scripts/search.py": {
+      "sha256": "5fbe41e2233085fff21f3d6165fa3e9d6f789e6937c546d9ff71518495232950",
+      "mtime_ns": 1790903419467892500
+    },
+    "scripts/read_context.py": {
+      "sha256": "0d40facaaf2dd2f0e848aa0412d0f8baf8f0e41ee1d38e2fe793f724ae04fe86",
+      "mtime_ns": 1790903378358930300
+    },
+    "scripts/runtime_policy.py": {
+      "sha256": "a3d46a44f1cd0e65dbae9017f3b152eeff99bbef33095f81e37a6723a88fed32",
+      "mtime_ns": 1790903378358930300
+    },
+    "scripts/resource_utils.py": {
+      "sha256": "ae7f4b1bebcb43eb99d22ef9722fe1850e14b293ed0ab8dbf542d25cae22e49b",
+      "mtime_ns": 1790903378359598800
+    },
+    "scripts/action.py": {
+      "sha256": "b42c42ebfb021ddfa0a57e8139d4db1443e31d83cf355113686065215f827b19",
+      "mtime_ns": 1790903378359598800
+    },
+    "references/knowledge.jsonl": {
+      "sha256": "b7a11efb695183359674c611b8d7ed92fabe6f720f6e5346b591f94e0bc42878",
+      "mtime_ns": 1790903378371296100
+    },
+    "references/source-index.json": {
+      "sha256": "20a660a73caa11e159450fa5dbe45a668071880c6a3205d8a3f1983713f6efba",
+      "mtime_ns": 1790903378372296700
+    },
+    "references/atom-authority.json": {
+      "sha256": "e2e3c2bada5585d90b594aef3a0cd9dc51bf5ae0571c4b9490c7cd68c49b6ab6",
+      "mtime_ns": 1790903378372296700
+    },
+    "references/method-authority.json": {
+      "sha256": "099ed76ffd7e72e2569f331d945aa74c896dcf50cd451899b12422c33090c4ce",
+      "mtime_ns": 1790903378373297000
+    },
+    "references/baseline-resource-map.json": {
+      "sha256": "551613f776a1a0d50ec18ff189f9981d176462e6a594b8e7b40f528c899a946e",
+      "mtime_ns": 1790903378373297000
+    }
+  },
+  "replacement_ids": [
+    "mikey-youtube-live-004-K0001",
+    "mikey-youtube-live-004-K0020",
+    "mikey-youtube-live-005-K010",
+    "mikey-youtube-live-007-K001",
+    "mikey-youtube-live-007-K015",
+    "mikey-youtube-live-008-K001",
+    "mikey-youtube-live-008-K025",
+    "mikey-youtube-live-009-K0001",
+    "mikey-youtube-live-009-K0002",
+    "mikey-youtube-live-009-K0003",
+    "mikey-youtube-live-009-K0004",
+    "mikey-youtube-live-009-K0005",
+    "mikey-youtube-live-009-K0006",
+    "mikey-youtube-live-009-K0007",
+    "mikey-youtube-live-009-K0008",
+    "mikey-youtube-live-009-K0009",
+    "mikey-youtube-live-009-K0010",
+    "mikey-youtube-live-009-K0011",
+    "mikey-youtube-live-009-K0012",
+    "mikey-youtube-live-009-K0013",
+    "mikey-youtube-live-009-K0014",
+    "mikey-youtube-live-009-K0015",
+    "mikey-youtube-live-009-K0016",
+    "mikey-youtube-live-009-K0017",
+    "mikey-youtube-live-009-K0018",
+    "mikey-youtube-live-009-K0019",
+    "mikey-youtube-live-009-K0020",
+    "mikey-youtube-live-009-K0021",
+    "mikey-youtube-live-009-K0022",
+    "mikey-youtube-live-009-K0023",
+    "mikey-youtube-live-009-K0024",
+    "mikey-youtube-live-009-K0025",
+    "mikey-youtube-live-009-K0026",
+    "mikey-youtube-live-010-K0001",
+    "mikey-youtube-live-010-K0018",
+    "mikey-youtube-live-010-K0034"
+  ],
+  "unmodified_lines_byte_preserved": 3515,
+  "new318_byte_preserved": true,
+  "four_concepts_three_methods_byte_preserved": true,
+  "source_index_weights_permissions_mapping_byte_preserved": true,
+  "runtime_sha256": {
+    "SKILL.md": "217e550cbd5cae7711dedd4d28955ee95b5f0d5f2135e47ba46495310c067f2b",
+    "history/index.json": "7d76087bfff70a72d1f8594fc04c31f9a4934fe9180a10cc61ad96037d003fdb",
+    "history/original-36-lines.jsonl": "b327a44adcb4038742abd8d29d0759ac7c434ba17c08fb8337c9859a4d49686a",
+    "references/atom-authority.json": "e2e3c2bada5585d90b594aef3a0cd9dc51bf5ae0571c4b9490c7cd68c49b6ab6",
+    "references/baseline-resource-map.json": "551613f776a1a0d50ec18ff189f9981d176462e6a594b8e7b40f528c899a946e",
+    "references/knowledge.jsonl": "373286a1bbdaffde4d3c23cfeff54f23caf02792004da98912d1a263f7c752fb",
+    "references/method-authority.json": "099ed76ffd7e72e2569f331d945aa74c896dcf50cd451899b12422c33090c4ce",
+    "references/source-index.json": "20a660a73caa11e159450fa5dbe45a668071880c6a3205d8a3f1983713f6efba",
+    "scripts/action.py": "b42c42ebfb021ddfa0a57e8139d4db1443e31d83cf355113686065215f827b19",
+    "scripts/read_context.py": "0d40facaaf2dd2f0e848aa0412d0f8baf8f0e41ee1d38e2fe793f724ae04fe86",
+    "scripts/resource_utils.py": "ae7f4b1bebcb43eb99d22ef9722fe1850e14b293ed0ab8dbf542d25cae22e49b",
+    "scripts/runtime_policy.py": "a3d46a44f1cd0e65dbae9017f3b152eeff99bbef33095f81e37a6723a88fed32",
+    "scripts/search.py": "5fbe41e2233085fff21f3d6165fa3e9d6f789e6937c546d9ff71518495232950"
+  },
+  "deployed": false
+}

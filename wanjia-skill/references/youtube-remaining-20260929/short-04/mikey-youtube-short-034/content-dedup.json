@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-034",
+  "youtube_id": "-uU-eZT5c_E",
+  "decision": "reuse",
+  "reuse_of": ["mikey-approach-004", "mikey-approach-012", "mikey-youtube-video-044"],
+  "formal_weight_if_integrated": 0,
+  "compared_sources": [
+    {
+      "scope": "formal_mikey_guide",
+      "source_count": 202,
+      "comparison": "YouTube identity, normalized transcript phrase screen, semantic case screen, and formal dashan event/knowledge comparison"
+    },
+    {
+      "scope": "video-01_to_video-05_short-01_to_short-03",
+      "comparison": "YouTube identity, normalized transcript phrase screen, semantic screen, and video-044 interaction comparison"
+    },
+    {
+      "scope": "formal_semantic_sources",
+      "source_ids": ["mikey-approach-004-K0001", "mikey-approach-012", "mikey-approach-024-K0001"],
+      "comparison": "specific visible-feature opener, identity clarification, request for contact, and conditional coffee invitation in edited street approaches"
+    }
+  ],
+  "evidence": [
+    {
+      "type": "identity",
+      "result": "no_exact_id_or_url_match"
+    },
+    {
+      "type": "transcript_and_visual",
+      "result": "no_exact_parent_recording_located",
+      "basis": "No completed formal or pipeline transcript reproduced the full ordered wording, and available screens did not establish that this is the same woman/recording as video-044 or a formal dashan source."
+    },
+    {
+      "type": "semantic_reuse",
+      "result": "case_pattern_already_represented",
+      "basis": "Formal dashan knowledge already records visible-feature compliments followed by an explicit acquaintance/contact request, identity/occupation clarification and a conditional low-pressure coffee invitation, with outcomes limited by editing."
+    },
+    {
+      "type": "visual",
+      "result": "edited_first_person_street_interaction",
+      "basis": "All 12 sampled frames show one woman at a storefront and the camera-wearer's hands/phone. The image becomes selectively blurred during phone handling; no readable identifier, completed contact save, later meeting or relationship outcome is visible."
+    }
+  ],
+  "boundary": "Keep only as another zero-weight example of an already represented street-approach sequence. Do not infer that contact details were successfully saved, that a date occurred, or that the camera-wearer is Mikey."
+}

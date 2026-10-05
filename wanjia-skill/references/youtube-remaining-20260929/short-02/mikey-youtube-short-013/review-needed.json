@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-013",
+  "youtube_id": "uSsi-dXlMwk",
+  "review_completed": true,
+  "items": [
+    {
+      "review_id": "s013-r01",
+      "severity": "blocking",
+      "category": "privacy",
+      "issue": "The entire Short reproduces private correspondence with exact date/time and distinctive text; participant authorization is unknown.",
+      "affected_evidence": [
+        "whole source"
+      ],
+      "disposition": "Keep out of formal integration unless privacy and authorization are resolved and the material is adequately redacted."
+    },
+    {
+      "review_id": "s013-r02",
+      "severity": "blocking",
+      "category": "coercive_script",
+      "issue": "Mikey recommends sending a memorized confrontational sequence regardless of what the recipient says.",
+      "affected_evidence": [
+        "S00020-S00025"
+      ],
+      "disposition": "Do not expose this as action advice; preserve the recipient’s ability to decline, delay or clarify."
+    },
+    {
+      "review_id": "s013-r03",
+      "severity": "blocking",
+      "category": "harassment_language",
+      "issue": "The shown replies include belittling language such as calling the other person a primary-school student and attacking sincerity.",
+      "affected_evidence": [
+        "S00011-S00019"
+      ],
+      "disposition": "Do not reproduce as a recommended message."
+    },
+    {
+      "review_id": "s013-r04",
+      "severity": "major",
+      "category": "outcome_inference",
+      "issue": "The final “好/谢谢” is not proof of agreement, persuasion or a meeting.",
+      "affected_evidence": [
+        "S00035-S00037"
+      ],
+      "disposition": "Record only the visible reply and avoid causal or outcome claims."
+    },
+    {
+      "review_id": "s013-r05",
+      "severity": "major",
+      "category": "source_parent",
+      "issue": "No parent long-form source was located.",
+      "affected_evidence": [
+        "whole source"
+      ],
+      "disposition": "Keep provisional and re-run dedup if a parent recording is acquired."
+    }
+  ]
+}

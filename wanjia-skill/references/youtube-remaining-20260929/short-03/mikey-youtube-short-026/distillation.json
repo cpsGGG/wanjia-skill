@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-026",
+  "youtube_id": "npeClmMFzdE",
+  "title": "当男人是很爽的",
+  "coverage": {
+    "transcript_segments_read": 76,
+    "transcript_time_range_seconds": [0.0, 136.93],
+    "semantic_media_range_seconds": [0.0, 138.18195],
+    "sampled_frames_reviewed": 46,
+    "continuous_original_audio_visual_review": false
+  },
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 20.02,
+      "summary": "He says being a man is enjoyable if one can master what he calls human underlying code."
+    },
+    {
+      "start": 20.02,
+      "end": 46.14,
+      "summary": "He advocates creating dominance and pressure so a woman sees the man as strong, becomes curious and supposedly cannot refuse him."
+    },
+    {
+      "start": 46.14,
+      "end": 86.10,
+      "summary": "He cites his own dates, claiming women criticized him as rude yet still pursued him, which he interprets as logical dislike but emotional attraction."
+    },
+    {
+      "start": 86.10,
+      "end": 138.18195,
+      "summary": "He generalizes that praise for politeness predicts failure, while discomfort and dislike can indicate attraction produced by dominance."
+    }
+  ],
+  "claims": [
+    {
+      "claim_id": "s026-c01",
+      "speaker": "Mikey",
+      "statement": "He says a man can make life enjoyable by mastering what he calls human underlying code.",
+      "conditions": "Undefined motivational language, not a validated psychological model.",
+      "evidence": ["S00002-S00009@1.56-20.76"],
+      "use_level": "hold"
+    },
+    {
+      "claim_id": "s026-c02",
+      "speaker": "Mikey",
+      "statement": "He recommends making a woman feel dominance and pressure and claims this can make her curious and unable to refuse.",
+      "conditions": "Discomfort, pressure or persistence never negate a person's ability to refuse; this must not be operationalized.",
+      "evidence": ["S00010-S00025@20.76-46.14"],
+      "use_level": "do_not_generalize"
+    },
+    {
+      "claim_id": "s026-c03",
+      "speaker": "Mikey",
+      "statement": "He claims women may verbally dislike rudeness while emotionally liking the man, and treats low comfort and inability to resist dominance as attraction.",
+      "conditions": "A harmful and unsupported reinterpretation of expressed dislike; take a stated refusal or discomfort at face value.",
+      "evidence": ["S00026-S00076@46.14-136.93"],
+      "use_level": "do_not_generalize"
+    }
+  ],
+  "speaker_attribution": [
+    {
+      "speaker": "Mikey",
+      "basis": "One visible channel host speaks throughout, and the wording matches formal quark-live-046 passages."
+    }
+  ],
+  "visual_findings": [
+    "All 46 sampled frames show the same black-shirt speaker in one dark setting with added subtitles.",
+    "No woman, live interaction, refusal, consent exchange or independent outcome evidence appears."
+  ],
+  "permissions": {
+    "formal_integration": false,
+    "first_person_allowed": false,
+    "action_advice_allowed": false,
+    "use_level": "reuse_zero_weight",
+    "reason": "Edited excerpt of formal quark-live-046 containing coercive dominance framing and unsupported reinterpretation of dislike."
+  },
+  "limitations": [
+    "The clip contains only the speaker's self-report and generalizations; none of the claimed dates or outcomes is shown.",
+    "The edit removes the surrounding livestream context."
+  ]
+}

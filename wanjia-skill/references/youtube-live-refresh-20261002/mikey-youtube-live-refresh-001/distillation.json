@@ -1,0 +1,273 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-live-refresh-001",
+  "youtube_id": "o1Auc_79NR8",
+  "title": "愛上別人的女朋友后 她男朋友找上了我…",
+  "coverage": {
+    "transcript_segments_read": 3160,
+    "transcript_time_range_seconds": [14.51, 6149.78],
+    "semantic_media_range_seconds": [0, 6151.0],
+    "sparse_frames_reviewed": 137,
+    "sample_interval_seconds": 45,
+    "contact_sheet_pages_reviewed": 6,
+    "visual_review_merged": true,
+    "dense_frames_reviewed": 604,
+    "dense_contact_sheet_pages_reviewed": 25,
+    "continuous_original_audio_visual_review": false
+  },
+  "timeline": [
+    {
+      "start": 14.51,
+      "end": 310.0,
+      "summary": "Mikey opens the livestream and says the boyfriend in an earlier infidelity case found him through comments, TikTok and YouTube. He asks viewers not to reveal identifying nicknames or connect the case to him, partly because women who follow him might discover his dating-content identity."
+    },
+    {
+      "start": 310.0,
+      "end": 555.17,
+      "summary": "He discusses using TikTok or Xiaohongshu rather than dating apps, makes broad claims about 'high-quality women,' and tells a story in which an assistant allegedly presented Mikey's car as his own to a woman."
+    },
+    {
+      "start": 555.17,
+      "end": 1003.79,
+      "summary": "He begins the follow-up chronology: the woman allegedly replied more slowly, the boyfriend contacted him and used another person to test whether Mikey had met her, and Mikey infers the boyfriend's identity from social-profile details. He says the boyfriend requested that the case be published, but this remains Mikey's report."
+    },
+    {
+      "start": 1003.79,
+      "end": 1420.7,
+      "summary": "Mikey walks through displayed private messages. He says he feared the boyfriend might violently harm the woman, receives a message presented as evidence that she was alive, and repeatedly says viewers should not use the 'forbidden power.' He then downplays the infidelity after immediate physical danger appears to have passed."
+    },
+    {
+      "start": 1420.7,
+      "end": 2028.17,
+      "summary": "He quotes a message attributed to the woman and generalizes that intense 'physiological attraction' prevents infidelity. He reads and endorses a social-media post attributed to the boyfriend about confidence, competition, fitness and self-protection, asks viewers not to harass the man, then frames himself as the exceptional rival who made the betrayal understandable."
+    },
+    {
+      "start": 2028.17,
+      "end": 2599.3,
+      "summary": "Mikey describes calls with the boyfriend and the woman's mother. He says the mother asked whether he had filmed the woman; he denies secret filming but says intimate photos were taken on the woman's phone with her consent. The consent, file handling and publication permissions are not independently verified."
+    },
+    {
+      "start": 2599.3,
+      "end": 3306.17,
+      "summary": "He says the couple were at a hospital because the boyfriend feared infection, defends his own hygiene, and recounts trying to calm the boyfriend after verbal abuse. He reframes the betrayal as a need for the boyfriend to learn attraction skills, attempts to recruit him, shows a vehicle-registration document to rebut a claim that his car was rented, and says he then blocked him."
+    },
+    {
+      "start": 3306.17,
+      "end": 4205.27,
+      "summary": "Mikey says the boyfriend later re-added him and became calmer. He presents an empathy script, including that the woman could treat Mikey the same way, and advises caution if the couple continue. He then explains his version of how the boyfriend discovered the case through hotel/location clues, TikTok recommendations and synchronized cloud photos, including intimate material."
+    },
+    {
+      "start": 4205.27,
+      "end": 4926.72,
+      "summary": "He recounts renewed chat with the boyfriend, says an earlier case was hidden and later republished, condemns viewers who identified or contacted the participants, shares a relationship book with the boyfriend, and describes their later conversation about cars. He claims the boyfriend expressly asked for a follow-up and allowed a long call to be recorded, while also acknowledging that private details must be removed."
+    },
+    {
+      "start": 4926.72,
+      "end": 5730.84,
+      "summary": "He says the couple remained together, the boyfriend needed time, and Mikey sent songs and prior dating videos. Mikey continues evaluating the woman and boyfriend, says he ended contact with the woman, and claims the boyfriend bought a 36,800-yuan top-tier course. A payment record is shown, but identity, payment purpose and outcome are not independently verified."
+    },
+    {
+      "start": 5730.84,
+      "end": 6149.78,
+      "summary": "Mikey again defines the 'forbidden power' in terms of overwhelming attraction, rejects turning it into a process, connects painful experience with self-improvement, plays a song, and closes by saying the woman had a boyfriend so a long-term relationship with her was no longer appropriate."
+    }
+  ],
+  "claims": [
+    {
+      "claim_id": "lr001-c01",
+      "speaker": "Mikey",
+      "statement": "He says public comments and nicknames allowed the woman's boyfriend to connect Mikey's TikTok identity to the earlier case, and he asks viewers not to expose or contact the people involved.",
+      "conditions": "This is Mikey's account of the discovery path. It concerns identifiable third parties and does not establish that earlier or current publication was consented to by every participant.",
+      "evidence": ["S00019-S00084@134.57-263.17", "S00927-S00944@1812.93-1852.13", "S02331-S02354@4282.68-4314.78", "visual frames 21-25 and 91-100"],
+      "use_level": "hold",
+      "permission_suggestion": {"first_person_allowed": false, "action_advice_allowed": false, "reason": "privacy, third-party attribution and publication-consent limits"}
+    },
+    {
+      "claim_id": "lr001-c02",
+      "speaker": "Mikey",
+      "statement": "He argues that TikTok or Xiaohongshu can be more useful than dating apps because many desirable women use general social platforms even if they do not use dating apps.",
+      "conditions": "A broad personal generalization without comparative data; it also labels women by quality and platform use.",
+      "evidence": ["S00107-S00158@311.53-380.81"],
+      "use_level": "hold",
+      "permission_suggestion": {"first_person_allowed": false, "action_advice_allowed": false, "reason": "unsupported population and gender generalization"}
+    },
+    {
+      "claim_id": "lr001-c03",
+      "speaker": "Mikey",
+      "statement": "He tells a story in which an assistant used Mikey's car and allowed a woman to believe it belonged to the assistant.",
+      "conditions": "Self-reported anecdote involving deliberate misrepresentation; it must not be treated as a recommended attraction tactic.",
+      "evidence": ["S00176-S00226@435.92-503.15"],
+      "use_level": "do_not_generalize",
+      "permission_suggestion": {"first_person_allowed": false, "action_advice_allowed": false, "reason": "deception and unverified third-party story"}
+    },
+    {
+      "claim_id": "lr001-c04",
+      "speaker": "Mikey",
+      "statement": "He presents the source as a follow-up to the earlier case: the woman was allegedly in a four-year relationship, her boyfriend became suspicious, and private messages and cloud-synchronized intimate photos were used to confirm the encounter.",
+      "conditions": "The chronology is reconstructed from Mikey's narration and selected screenshots. Relationship status, access authorization, image provenance and completeness are not independently verified.",
+      "evidence": ["S00247-S00348@560.57-764.54", "S02048-S02269@3793.41-4181.55", "visual frames 21-39 and 91-100"],
+      "use_level": "do_not_generalize",
+      "permission_suggestion": {"first_person_allowed": false, "action_advice_allowed": false, "reason": "intimate privacy, account access and third-party facts"}
+    },
+    {
+      "claim_id": "lr001-c05",
+      "speaker": "Mikey",
+      "statement": "He says he feared that the boyfriend might physically harm the woman, describes waiting for evidence that she was alive, and tells viewers not to use what he calls the 'forbidden power.'",
+      "conditions": "The danger assessment was speculative and was not a professional safety evaluation. Any real threat requires immediate local emergency and domestic-violence support rather than reliance on this case narration.",
+      "evidence": ["S00553-S00628@1083.26-1202.26", "S00645-S00685@1225.48-1313.88", "S00715-S00744@1370.54-1420.7"],
+      "use_level": "hold",
+      "permission_suggestion": {"first_person_allowed": false, "action_advice_allowed": false, "reason": "potential violence and safety-sensitive inference"}
+    },
+    {
+      "claim_id": "lr001-c06",
+      "speaker": "Mikey",
+      "statement": "He uses the case to claim that overwhelming physiological attraction outranks other relationship qualities and can make a woman remain loyal to the more desired man.",
+      "conditions": "A sweeping gender and relationship claim inferred from one disputed, self-reported case; it rationalizes infidelity and is contradicted by the uncertainty and harm described elsewhere in the source.",
+      "evidence": ["S00745-S00797@1420.7-1541.83", "S00964-S01025@1893.42-2009.04", "S02974-S02985@5730.84-5754.75"],
+      "use_level": "do_not_generalize",
+      "permission_suggestion": {"first_person_allowed": false, "action_advice_allowed": false, "reason": "unsupported gender generalization and manipulation/infidelity framing"}
+    },
+    {
+      "claim_id": "lr001-c07",
+      "speaker": "the boyfriend as quoted on a social-media post; explicitly endorsed by Mikey",
+      "statement": "The displayed post argues that intimidation around attractive women often comes from imagined competition with stronger men, and proposes psychological composure plus physical training as sources of confidence.",
+      "conditions": "The wording originates in a displayed third-party post, not Mikey. Mikey says he agrees, but authorship, context and identity are not independently verified; physical training does not justify confrontation.",
+      "evidence": ["S00885-S00926@1739.46-1812.93", "S00946-S00960@1853.55-1885.96", "visual frames 39-45"],
+      "use_level": "hold",
+      "permission_suggestion": {"first_person_allowed": false, "action_advice_allowed": false, "reason": "quoted third-party authorship and conflict context"}
+    },
+    {
+      "claim_id": "lr001-c08",
+      "speaker": "Mikey",
+      "statement": "When an angry boyfriend allegedly insulted him during a call, Mikey says he did not trade insults, let the person vent, and tried to move the conversation toward the underlying problem.",
+      "conditions": "Only Mikey's retrospective account is available. In a credible threat situation, personal de-escalation should not replace disengagement, documentation and qualified emergency or legal help.",
+      "evidence": ["S01142-S01236@2204.0-2354.68", "S01458-S01538@2767.1-2877.86"],
+      "use_level": "hold",
+      "permission_suggestion": {"first_person_allowed": false, "action_advice_allowed": false, "reason": "violence-sensitive and one-sided account"}
+    },
+    {
+      "claim_id": "lr001-c09",
+      "speaker": "Mikey reporting a conversation with the woman's mother",
+      "statement": "He denies secretly filming the woman but says intimate photos were taken on her phone during sex and that she agreed.",
+      "conditions": "Consent is asserted only by Mikey and is not independently verified; consent to capture, storage, access, screen display and publication are separate. No intimate material should be reused or described as cleared.",
+      "evidence": ["S01264-S01368@2414.22-2597.86", "visual frames 60-75"],
+      "use_level": "do_not_generalize",
+      "permission_suggestion": {"first_person_allowed": false, "action_advice_allowed": false, "reason": "sexual privacy and unresolved consent scope"}
+    },
+    {
+      "claim_id": "lr001-c10",
+      "speaker": "Mikey",
+      "statement": "He says the couple went to a hospital because the boyfriend worried about infection, then answers that concern by describing himself as clean.",
+      "conditions": "No diagnosis, test result, exposure history or medical record is available. Personal hygiene is not evidence about sexually transmitted infections.",
+      "evidence": ["S01389-S01403@2642.25-2681.77"],
+      "use_level": "do_not_generalize",
+      "permission_suggestion": {"first_person_allowed": false, "action_advice_allowed": false, "reason": "medical uncertainty and third-party health privacy"}
+    },
+    {
+      "claim_id": "lr001-c11",
+      "speaker": "Mikey",
+      "statement": "He tells the boyfriend that the number of sexual encounters does not change the basic fact of betrayal and later urges viewers not to mock or attack the man because many people have experienced similar confusion.",
+      "conditions": "A personal framing of betrayal and empathy; it does not determine how the couple should respond or whether reconciliation is safe or appropriate.",
+      "evidence": ["S01586-S01621@2971.96-3026.09", "S01747-S01772@3224.39-3267.01"],
+      "use_level": "hold",
+      "permission_suggestion": {"first_person_allowed": false, "action_advice_allowed": false, "reason": "third-party relationship and emotionally sensitive context"}
+    },
+    {
+      "claim_id": "lr001-c12",
+      "speaker": "Mikey",
+      "statement": "He repeatedly reframes the betrayal as proof that the boyfriend needs attraction training, says he attempted to recruit him, and later claims the boyfriend purchased a 36,800-yuan top-tier course.",
+      "conditions": "The educator is also the alleged romantic rival and seller, creating a severe conflict of interest. The payment image does not independently prove identity, purpose, informed choice, refund status or benefit.",
+      "evidence": ["S01221-S01262@2325.47-2410.13", "S02558-S02589@4728.76-4793.21", "S02960-S02972@5618.1-5717.98", "visual frames 71-75 and 101-110"],
+      "use_level": "do_not_generalize",
+      "permission_suggestion": {"first_person_allowed": false, "action_advice_allowed": false, "reason": "commercial conflict, payment/privacy evidence and unverified outcome claim"}
+    },
+    {
+      "claim_id": "lr001-c13",
+      "speaker": "Mikey",
+      "statement": "After the boyfriend calmed down, Mikey says he used empathy, told him the woman could later treat Mikey the same way, praised his strengths, and said the couple could continue only with realistic expectations.",
+      "conditions": "This is a selectively reported conversation and cannot establish the boyfriend's emotional state or relationship outcome. It remains descriptive rather than a reusable script.",
+      "evidence": ["S01897-S02037@3470.14-3765.97", "visual frames 76-100"],
+      "use_level": "hold",
+      "permission_suggestion": {"first_person_allowed": false, "action_advice_allowed": false, "reason": "private third-party relationship and incomplete conversation"}
+    },
+    {
+      "claim_id": "lr001-c14",
+      "speaker": "Mikey",
+      "statement": "He claims the boyfriend asked for a public follow-up and allowed a later call to be recorded because the case could educate viewers, while Mikey acknowledges that private information must be removed.",
+      "conditions": "One participant's reported permission does not establish the woman's consent, authorization for intimate material, or a complete publication release. Sparse screens do not verify the scope or revocability of any permission.",
+      "evidence": ["S00296-S00341@664.2-753.82", "S02590-S02665@4793.21-4907.14", "visual frames 101-119"],
+      "use_level": "do_not_generalize",
+      "permission_suggestion": {"first_person_allowed": false, "action_advice_allowed": false, "reason": "publication consent, intimate privacy and third-party rights unresolved"}
+    },
+    {
+      "claim_id": "lr001-c15",
+      "speaker": "Mikey",
+      "statement": "He says he ended further contact with the woman after the case escalated because continuing was not worth the risk, and at the end says he would not pursue a long-term relationship with someone who has a boyfriend.",
+      "conditions": "Self-reported conduct after the event; it does not undo earlier pursuit, concealment or disclosure, and no independent contact record confirms the endpoint.",
+      "evidence": ["S01373-S01382@2615.51-2630.67", "S02954-S02959@5578.42-5618.1", "S03122-S03130@6070.13-6103.84"],
+      "use_level": "hold",
+      "permission_suggestion": {"first_person_allowed": false, "action_advice_allowed": false, "reason": "unverified third-party contact history in an infidelity case"}
+    }
+  ],
+  "examples": [
+    {
+      "example_id": "lr001-e01",
+      "summary": "A livestream reconstructs a prior infidelity case through selected private chats, social posts, call records, a blurred third-party face, a vehicle document, attachments and Mikey's narration; the evidence supports only a coarse sequence, not all asserted facts or permissions.",
+      "evidence": ["S00247-S02972", "visual frames 21-137", "visual/visual-review.json"]
+    },
+    {
+      "example_id": "lr001-e02",
+      "summary": "The alleged boyfriend moves from threats and insults to later conversation, book reading and claimed course purchase, but every stage is filtered through Mikey's selection and commercial framing.",
+      "evidence": ["S00849-S01262", "S01819-S02037", "S02518-S02665", "S02960-S02972"]
+    }
+  ],
+  "speaker_attribution": [
+    {
+      "speaker": "Mikey",
+      "basis": "The studio host is visually consistent throughout the sparse frames and addresses the audience directly. His narration and explicit endorsements are attributable to him."
+    },
+    {
+      "speaker": "woman in the case",
+      "basis": "Represented through messages and Mikey's paraphrase. No independent diarization, identity check or publication-consent record is available; her alleged words remain attributed and unverified."
+    },
+    {
+      "speaker": "the woman's boyfriend",
+      "basis": "Represented through grey/green chat bubbles, voice/call controls and Mikey's reports. Sender sides are visible, but the 10-second frames cannot identify every sender, spoken line or permission."
+    },
+    {
+      "speaker": "unknown third-party person in call-like display",
+      "basis": "A blurred young man is visible from about 43:50 to 48:10, with a second face briefly visible in a small inset. The layout is consistent with a video-call or call-recording display, but neither identity, live-call status nor audio is confirmed; the face must not be assumed to be the boyfriend."
+    },
+    {
+      "speaker": "the woman's mother, friend/employee and livestream viewers",
+      "basis": "Known only through Mikey's retelling, selected screenshots or on-screen comments. Their statements are excluded from direct Mikey claims unless he explicitly adopts them."
+    },
+    {
+      "speaker": "played music and third-party media",
+      "basis": "Lyrics, video previews and voice-message controls appear in the source but are not Mikey's authored claims and were not independently audio-checked."
+    }
+  ],
+  "visual_findings": [
+    "All 6 sparse contact-sheet pages (137 frames at 45-second intervals) and all 25 dense contact-sheet pages (604 frames at 10-second intervals) were reviewed. Mikey remains at a desk while a large vertical phone capture carries most of the case evidence.",
+    "From about 15 minutes onward, the display repeatedly exposes private-message threads, avatars, timestamps, voice-message controls, embedded images, call records and profile pages. Sender side and coarse message order are visible, but 10-second sampling cannot reconstruct every transition.",
+    "From about 43:50 to 48:10 a blurred young man appears continuously in a phone view, with a second darker face visible in a small inset at about 46:00 and 47:30. This is visually consistent with a video-call or call-recording display, but it does not confirm a live call, audio, either identity, words, emotional state or consent.",
+    "Around 52-53 minutes a photographed form or vehicle-registration-like document is shown. It may contain personal or transactional details and is unsuitable for reuse without targeted redaction and provenance review.",
+    "Later screens include a PDF/file-like attachment, long messages, third-party photos, voice/video previews and apparent payment or call entries. The contact sheets cannot establish whether voice items were played or verify the claimed payment purpose.",
+    "The 10-second dense still-frame review improves chat chronology and narrows media boundaries, but it is not continuous original audio-visual verification and cannot establish playback, identities, consent/refusal or behavioral outcomes."
+  ],
+  "permissions": {
+    "formal_integration": false,
+    "first_person_answering": false,
+    "action_advice": false,
+    "runtime_level": "research_candidate_restricted",
+    "reason": "The source centers on infidelity, manipulation, intimate images, private communications, unresolved recording/publication consent, possible violence, medical uncertainty, location/account clues, unverified third-party facts and a commercial conflict of interest."
+  },
+  "limitations": [
+    "The automatic transcript was read in full but was not checked word-for-word against the original audio; names, pronouns, prices, technical terms and short viewer questions may be mistranscribed.",
+    "The livestream interleaves Mikey's narration, viewer comments, quoted chats, visible voice messages, calls and music without speaker labels. Fine-grained attribution outside Mikey's direct studio speech remains uncertain.",
+    "Selected screenshots do not constitute a complete raw conversation export. Deletions, omitted context, chronology, authorship and authenticity cannot be independently established.",
+    "The boyfriend's alleged consent does not establish the woman's consent to recording, intimate-image access, screen display or publication.",
+    "Formal-source and sibling comparisons support novelty, but the source is a sequel to mikey-youtube-video-003 and shares the same underlying case; it must not be counted as an independent corroboration of that case's truth.",
+    "The 604-frame dense review samples one still every 10 seconds; it does not equal continuous original audio-visual review and cannot establish brief transitions, playback state or speaker identity between samples."
+  ]
+}

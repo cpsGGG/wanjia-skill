@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-022",
+  "youtube_id": "-ibLhiQv4V8",
+  "decision": "new",
+  "compared_sources": [
+    {"scope": "formal_mikey_guide", "source_count": 202, "comparison": "youtube_id_url_normalized_fulltext_and_12_character_shingles"},
+    {"source_id": "mikey-youtube-live-025-K010", "comparison": "theory poisoning and rigid formula use"},
+    {"source_id": "mikey-youtube-live-001-K012", "comparison": "techniques internalized into natural interaction"},
+    {"source_id": "mikey-youtube-live-019-K010", "comparison": "theory as a map and practice as walking"},
+    {"source_id": "mikey-youtube-live-003-K013", "comparison": "high-frame rationalization contrasted with apology and sincerity"},
+    {"source_id": "mikey-sijiao-014-K0007", "comparison": "technique treated as a tool rather than the interaction itself"},
+    {"scope": "existing_research_and_video_03_batch", "comparison": "normalized fulltext, case, screenshot, wording and argument-sequence screen"}
+  ],
+  "evidence": [
+    {"type": "identity", "result": "no_exact_youtube_id_or_url_overlap", "basis": "video-03/identity-precheck.json and current formal source-index"},
+    {"type": "normalized_fulltext", "target_normalized_chars": 3435, "target_sha256": "c5e064d77393ba4558bc873ad71e971532fa9f7bdcebe314316da566afc72461", "formal_transcripts_checked": 202, "exact_matches": []},
+    {"type": "near_duplicate_screen", "method": "12_character_shingle_containment", "highest_formal_containment": 0.0040887850467289715, "highest_formal_source_id": "mikey-practice-024", "result": "small phrase overlap only; no transcript-scale reuse detected"},
+    {"type": "existing_research_screen", "highest_containment": 0.0040887850467289715, "highest_research_source_id": "mikey-youtube-video-024", "result": "shared stock phrasing and channel vocabulary, not a duplicated case or script"}
+  ],
+  "boundary": "Formal sources already contain the general warning against rigid theory use, but this upload is a distinct student case with private chat screenshots, a specific coaching sequence and unverified outcome claims. Count as a new restricted research source; do not treat the student's reported outcomes as corroboration of the method."
+}

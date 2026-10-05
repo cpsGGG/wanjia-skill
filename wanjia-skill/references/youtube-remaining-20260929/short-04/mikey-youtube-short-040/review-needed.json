@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-040",
+  "youtube_id": "c5c_FjfzBZ4",
+  "review_completed": true,
+  "items": [
+    {"review_id": "s040-r01", "severity": "major", "category": "speaker_attribution", "issue": "The camera-holder is not independently identified as Mikey.", "affected_evidence": ["whole source"], "disposition": "Keep generic attribution and disable first-person use."},
+    {"review_id": "s040-r02", "severity": "blocking", "category": "asr_visual_conflict", "issue": "ASR near S00005 can be misread as ‘has a boyfriend,’ but frame 000004 clearly subtitles ‘我想有男朋友’ (I want a boyfriend).", "affected_evidence": ["S00003-S00006@1.64-11.56", "visual/sampled/000004.jpg"], "disposition": "Use the visible subtitle exactly; do not classify it as a relationship-based refusal without continuous original-audio review."},
+    {"review_id": "s040-r03", "severity": "blocking", "category": "relationship_and_causality", "issue": "An additional man appears as the camera-holder leaves, but the clip does not prove that he is a boyfriend or caused the exit.", "affected_evidence": ["sampled frames 000005-000006", "S00006-S00009"], "disposition": "Keep the man's identity, relationship and causal role unknown."},
+    {"review_id": "s040-r04", "severity": "major", "category": "privacy_and_interpretation", "issue": "Three women and an additional man are clearly visible, and the audible laughter has no reliable motive attribution.", "affected_evidence": ["sampled frames 000001-000006", "S00007-S00009"], "disposition": "Do not package identifiable imagery without privacy review; do not infer ridicule, approval, attraction or consent from laughter."}
+  ]
+}

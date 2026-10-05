@@ -1,0 +1,358 @@
+{
+  "schema_version": "batch4-delete-readiness-validation-1.0",
+  "status": "passed",
+  "checks_run": 160,
+  "error_count": 0,
+  "errors": [],
+  "review_count": 63,
+  "closed_candidate_count": 5,
+  "open_count": 58,
+  "full_audio_count": 9,
+  "continuous_video_window_count": 29,
+  "full_video_proxy_count": 1,
+  "total_preserved_bytes": 3653735014,
+  "media": [
+    {
+      "path": "D:\\startup\\玩家.skill\\research\\youtube-live-batch4\\delete-readiness\\evidence-pack\\full-audio\\mikey-youtube-live-031.m4a",
+      "duration_seconds": 5925.059048,
+      "streams": {
+        "audio": 1
+      },
+      "sha256": "5f194285de14302fd04491b41d5ec64a646cb39bddecfb563f2e0fc8fc7bc9fb"
+    },
+    {
+      "path": "D:\\startup\\玩家.skill\\research\\youtube-live-batch4\\delete-readiness\\evidence-pack\\full-audio\\mikey-youtube-live-032.m4a",
+      "duration_seconds": 4960.084172,
+      "streams": {
+        "audio": 1
+      },
+      "sha256": "a7bfe33e4d8c12cd0d02f5f095cafea7459f2e676e92eb74502fbeb6e4d88cf0"
+    },
+    {
+      "path": "D:\\startup\\玩家.skill\\research\\youtube-live-batch4\\delete-readiness\\evidence-pack\\full-audio\\mikey-youtube-live-033.m4a",
+      "duration_seconds": 4925.068481,
+      "streams": {
+        "audio": 1
+      },
+      "sha256": "dab3de469ccc61492ff41580f4d2c07870161aecae9ebfdb646801d1e19ec3ca"
+    },
+    {
+      "path": "D:\\startup\\玩家.skill\\research\\youtube-live-batch4\\delete-readiness\\evidence-pack\\full-audio\\mikey-youtube-live-034.m4a",
+      "duration_seconds": 4430.065488,
+      "streams": {
+        "audio": 1
+      },
+      "sha256": "b1f637f6dc32e684d9518750233a69b9e6b744e77cc3818b6f509a7d2b6e5b89"
+    },
+    {
+      "path": "D:\\startup\\玩家.skill\\research\\youtube-live-batch4\\delete-readiness\\evidence-pack\\full-audio\\mikey-youtube-live-035.m4a",
+      "duration_seconds": 4894.97542,
+      "streams": {
+        "audio": 1
+      },
+      "sha256": "c962e10a47e0b1b8612eb0a21f56660361f21a571c80cd4ccebc84e4d34df21e"
+    },
+    {
+      "path": "D:\\startup\\玩家.skill\\research\\youtube-live-batch4\\delete-readiness\\evidence-pack\\full-audio\\mikey-youtube-live-036.m4a",
+      "duration_seconds": 5791.915828,
+      "streams": {
+        "audio": 1
+      },
+      "sha256": "d710fd5824fa3385e19fec623bd150dd5ee79ca7cdee39f93b83d5ac083a8c7c"
+    },
+    {
+      "path": "D:\\startup\\玩家.skill\\research\\youtube-live-batch4\\delete-readiness\\evidence-pack\\full-audio\\mikey-youtube-live-037.m4a",
+      "duration_seconds": 4480.08127,
+      "streams": {
+        "audio": 1
+      },
+      "sha256": "3144d773e5e1260fa44cbe52d23ac7b58e5afa7f8538aa9e7bc26ea121c85171"
+    },
+    {
+      "path": "D:\\startup\\玩家.skill\\research\\youtube-live-batch4\\delete-readiness\\evidence-pack\\full-audio\\mikey-youtube-live-038.m4a",
+      "duration_seconds": 6333.010431,
+      "streams": {
+        "audio": 1
+      },
+      "sha256": "6686fb64deced79f4ff22b5a8bf2377d98ca05b60e7ac34e176be683a32ad127"
+    },
+    {
+      "path": "D:\\startup\\玩家.skill\\research\\youtube-live-batch4\\delete-readiness\\evidence-pack\\full-audio\\mikey-youtube-live-039.m4a",
+      "duration_seconds": 4585.058685,
+      "streams": {
+        "audio": 1
+      },
+      "sha256": "490486f731be8dbd7675210dea4a5bb57134e1189d3495286b6cf8802680393c"
+    },
+    {
+      "path": "D:\\startup\\玩家.skill\\research\\youtube-live-batch4\\delete-readiness\\evidence-pack\\continuous-video-windows\\mikey-youtube-live-031-W01-00000-00180.mp4",
+      "duration_seconds": 180.032667,
+      "streams": {
+        "video": 1,
+        "audio": 1
+      },
+      "sha256": "0156342dcd3c41d3520b8c6c87f0a29ee846a7fa014d88de7ec995eab3da65e2"
+    },
+    {
+      "path": "D:\\startup\\玩家.skill\\research\\youtube-live-batch4\\delete-readiness\\evidence-pack\\continuous-video-windows\\mikey-youtube-live-031-W02-00270-00510.mp4",
+      "duration_seconds": 245.045667,
+      "streams": {
+        "video": 1,
+        "audio": 1
+      },
+      "sha256": "93e42d190f90cfd64d51b8ea4a9637135db9e9d1777b50b935e7a16a894cb526"
+    },
+    {
+      "path": "D:\\startup\\玩家.skill\\research\\youtube-live-batch4\\delete-readiness\\evidence-pack\\continuous-video-windows\\mikey-youtube-live-032-W01-00580-00920.mp4",
+      "duration_seconds": 345.036667,
+      "streams": {
+        "video": 1,
+        "audio": 1
+      },
+      "sha256": "cd1c16c59f1aa950d6261b4ab2204ee9af2f808a9928670e597bc14b25a8dd4e"
+    },
+    {
+      "path": "D:\\startup\\玩家.skill\\research\\youtube-live-batch4\\delete-readiness\\evidence-pack\\continuous-video-windows\\mikey-youtube-live-032-W02-00980-01720.mp4",
+      "duration_seconds": 740.568,
+      "streams": {
+        "video": 1,
+        "audio": 1
+      },
+      "sha256": "6fa799df78ac5e0dde4f3b9f4c3648ba5d4c68c7f41cd8da631cd2c1e85f1b6b"
+    },
+    {
+      "path": "D:\\startup\\玩家.skill\\research\\youtube-live-batch4\\delete-readiness\\evidence-pack\\continuous-video-windows\\mikey-youtube-live-033-W01-00080-00340.mp4",
+      "duration_seconds": 260.086,
+      "streams": {
+        "video": 1,
+        "audio": 1
+      },
+      "sha256": "4a13c377c187c28cf295b4e02d6b4da12a7c5c0bdb631e296aa087e69060875e"
+    },
+    {
+      "path": "D:\\startup\\玩家.skill\\research\\youtube-live-batch4\\delete-readiness\\evidence-pack\\continuous-video-windows\\mikey-youtube-live-034-W01-00100-00240.mp4",
+      "duration_seconds": 145.039667,
+      "streams": {
+        "video": 1,
+        "audio": 1
+      },
+      "sha256": "e08f895c8b2f8860f8f902228412df85ccf06d1d8618d21b691d63d0fdf66df0"
+    },
+    {
+      "path": "D:\\startup\\玩家.skill\\research\\youtube-live-batch4\\delete-readiness\\evidence-pack\\continuous-video-windows\\mikey-youtube-live-034-W02-01130-01250.mp4",
+      "duration_seconds": 125.048667,
+      "streams": {
+        "video": 1,
+        "audio": 1
+      },
+      "sha256": "16f2783988646c27cd6f19da54e557dc16249c5a424b05cf443219a0eab0c002"
+    },
+    {
+      "path": "D:\\startup\\玩家.skill\\research\\youtube-live-batch4\\delete-readiness\\evidence-pack\\continuous-video-windows\\mikey-youtube-live-034-W03-01950-02410.mp4",
+      "duration_seconds": 465.035667,
+      "streams": {
+        "video": 1,
+        "audio": 1
+      },
+      "sha256": "d12ad45c27fdd9444781ecfb956e5894db1e8ec622f16a3a8a6075152e9b3495"
+    },
+    {
+      "path": "D:\\startup\\玩家.skill\\research\\youtube-live-batch4\\delete-readiness\\evidence-pack\\continuous-video-windows\\mikey-youtube-live-034-W04-02450-02730.mp4",
+      "duration_seconds": 285.040667,
+      "streams": {
+        "video": 1,
+        "audio": 1
+      },
+      "sha256": "25630419327d860b5b2697003afa59996d0e673c41e9ea229948ffe81fbda78f"
+    },
+    {
+      "path": "D:\\startup\\玩家.skill\\research\\youtube-live-batch4\\delete-readiness\\evidence-pack\\continuous-video-windows\\mikey-youtube-live-034-W05-03440-03520.mp4",
+      "duration_seconds": 85.034667,
+      "streams": {
+        "video": 1,
+        "audio": 1
+      },
+      "sha256": "924324c0da69566b57e4f81c3f423d5d2ebe75439d1cf9144ecf30b59e22e396"
+    },
+    {
+      "path": "D:\\startup\\玩家.skill\\research\\youtube-live-batch4\\delete-readiness\\evidence-pack\\continuous-video-windows\\mikey-youtube-live-035-W01-00730-00870.mp4",
+      "duration_seconds": 143.712333,
+      "streams": {
+        "video": 1,
+        "audio": 1
+      },
+      "sha256": "97257e98a3601cad3877673713be895343b02b00fa80312f52ccdf6bfda26ebc"
+    },
+    {
+      "path": "D:\\startup\\玩家.skill\\research\\youtube-live-batch4\\delete-readiness\\evidence-pack\\continuous-video-windows\\mikey-youtube-live-035-W02-01960-02060.mp4",
+      "duration_seconds": 105.121333,
+      "streams": {
+        "video": 1,
+        "audio": 1
+      },
+      "sha256": "9e2f27b0ece7ac44bb196a58e28b7ef6fca98c20b0044dc3a65d83efd2cf3baa"
+    },
+    {
+      "path": "D:\\startup\\玩家.skill\\research\\youtube-live-batch4\\delete-readiness\\evidence-pack\\continuous-video-windows\\mikey-youtube-live-035-W03-02920-04830.mp4",
+      "duration_seconds": 1910.099333,
+      "streams": {
+        "video": 1,
+        "audio": 1
+      },
+      "sha256": "b7dc41cbaec865008273810b7467bff6c6b845a5e748682047a5a71813d8253c"
+    },
+    {
+      "path": "D:\\startup\\玩家.skill\\research\\youtube-live-batch4\\delete-readiness\\evidence-pack\\continuous-video-windows\\mikey-youtube-live-036-W01-00340-00440.mp4",
+      "duration_seconds": 100.58,
+      "streams": {
+        "video": 1,
+        "audio": 1
+      },
+      "sha256": "f69fa76302ef8e323ec05721398ff27a0c970b5b486d1e1fb55e8bba1838b01b"
+    },
+    {
+      "path": "D:\\startup\\玩家.skill\\research\\youtube-live-batch4\\delete-readiness\\evidence-pack\\continuous-video-windows\\mikey-youtube-live-036-W02-00660-00950.mp4",
+      "duration_seconds": 291.375,
+      "streams": {
+        "video": 1,
+        "audio": 1
+      },
+      "sha256": "2b5138d93e84cdfd9f4dddf617b344850cef0d43a37c76f2fe6e11059107c480"
+    },
+    {
+      "path": "D:\\startup\\玩家.skill\\research\\youtube-live-batch4\\delete-readiness\\evidence-pack\\continuous-video-windows\\mikey-youtube-live-036-W03-02860-03020.mp4",
+      "duration_seconds": 162.445667,
+      "streams": {
+        "video": 1,
+        "audio": 1
+      },
+      "sha256": "b3e076922fffe049dfbf7249e308997e19f7630096dd5fbe56c3ed5a53715a9e"
+    },
+    {
+      "path": "D:\\startup\\玩家.skill\\research\\youtube-live-batch4\\delete-readiness\\evidence-pack\\continuous-video-windows\\mikey-youtube-live-036-W04-03800-04010.mp4",
+      "duration_seconds": 215.102333,
+      "streams": {
+        "video": 1,
+        "audio": 1
+      },
+      "sha256": "6bca82abdb5ea026f10f042ea966845fff5b0f116cb25a7660f6e11642ba6044"
+    },
+    {
+      "path": "D:\\startup\\玩家.skill\\research\\youtube-live-batch4\\delete-readiness\\evidence-pack\\continuous-video-windows\\mikey-youtube-live-036-W05-04820-04960.mp4",
+      "duration_seconds": 141.636667,
+      "streams": {
+        "video": 1,
+        "audio": 1
+      },
+      "sha256": "d29db12ecd2e306dc8879bd01e1ab636f19f03d2517ab9e0576c604066a5011f"
+    },
+    {
+      "path": "D:\\startup\\玩家.skill\\research\\youtube-live-batch4\\delete-readiness\\evidence-pack\\continuous-video-windows\\mikey-youtube-live-037-W01-00160-00330.mp4",
+      "duration_seconds": 170.186,
+      "streams": {
+        "video": 1,
+        "audio": 1
+      },
+      "sha256": "8c6dd00cafd5ac2d0ffb87394f671080e93dd0f74e6a6be94c9b9c8015783937"
+    },
+    {
+      "path": "D:\\startup\\玩家.skill\\research\\youtube-live-batch4\\delete-readiness\\evidence-pack\\continuous-video-windows\\mikey-youtube-live-037-W02-00280-01220.mp4",
+      "duration_seconds": 945.038667,
+      "streams": {
+        "video": 1,
+        "audio": 1
+      },
+      "sha256": "c646abd03797008136183be017312ad24c36263a40d79b20ee071da2c29c91db"
+    },
+    {
+      "path": "D:\\startup\\玩家.skill\\research\\youtube-live-batch4\\delete-readiness\\evidence-pack\\continuous-video-windows\\mikey-youtube-live-037-W03-01480-01930.mp4",
+      "duration_seconds": 455.843667,
+      "streams": {
+        "video": 1,
+        "audio": 1
+      },
+      "sha256": "cd40ff8444c4c4d8ed27ee45c1eac722ca47151b8057ddadd15cd791ba58bebf"
+    },
+    {
+      "path": "D:\\startup\\玩家.skill\\research\\youtube-live-batch4\\delete-readiness\\evidence-pack\\continuous-video-windows\\mikey-youtube-live-038-W01-00000-00450.mp4",
+      "duration_seconds": 450.032667,
+      "streams": {
+        "video": 1,
+        "audio": 1
+      },
+      "sha256": "da950d371c5c7b61e6615bfbb5e5a347c642b1e14584dcff1f593d772f6027da"
+    },
+    {
+      "path": "D:\\startup\\玩家.skill\\research\\youtube-live-batch4\\delete-readiness\\evidence-pack\\continuous-video-windows\\mikey-youtube-live-038-W02-00760-02320.mp4",
+      "duration_seconds": 1562.039667,
+      "streams": {
+        "video": 1,
+        "audio": 1
+      },
+      "sha256": "cf854dbaad7bb99f8985e0d158050bdf34a3d340a8287c5c93e499996eb8bae8"
+    },
+    {
+      "path": "D:\\startup\\玩家.skill\\research\\youtube-live-batch4\\delete-readiness\\evidence-pack\\continuous-video-windows\\mikey-youtube-live-038-W03-02860-04640.mp4",
+      "duration_seconds": 1782.050667,
+      "streams": {
+        "video": 1,
+        "audio": 1
+      },
+      "sha256": "554ebcee51935f8d0348c31d2553522239d882a1366ad467822726ace0eae876"
+    },
+    {
+      "path": "D:\\startup\\玩家.skill\\research\\youtube-live-batch4\\delete-readiness\\evidence-pack\\continuous-video-windows\\mikey-youtube-live-038-W04-05380-06332.mp4",
+      "duration_seconds": 954.035667,
+      "streams": {
+        "video": 1,
+        "audio": 1
+      },
+      "sha256": "ede3d4c35a065e3df6e7389874893c1c0a0d970741ca7733b83f820e7f935505"
+    },
+    {
+      "path": "D:\\startup\\玩家.skill\\research\\youtube-live-batch4\\delete-readiness\\evidence-pack\\continuous-video-windows\\mikey-youtube-live-039-W01-00330-00490.mp4",
+      "duration_seconds": 163.420333,
+      "streams": {
+        "video": 1,
+        "audio": 1
+      },
+      "sha256": "93ce1e1d203db7c43ce4b250a75bc78b7463b3eb83ab486e1bdff50c24bcf23c"
+    },
+    {
+      "path": "D:\\startup\\玩家.skill\\research\\youtube-live-batch4\\delete-readiness\\evidence-pack\\continuous-video-windows\\mikey-youtube-live-039-W02-02380-03080.mp4",
+      "duration_seconds": 704.909333,
+      "streams": {
+        "video": 1,
+        "audio": 1
+      },
+      "sha256": "ddafbac4e9e1672a54e70fe969426432b6fdcebb797c3125ce764b235b005b41"
+    },
+    {
+      "path": "D:\\startup\\玩家.skill\\research\\youtube-live-batch4\\delete-readiness\\evidence-pack\\continuous-video-windows\\mikey-youtube-live-039-W03-03060-03200.mp4",
+      "duration_seconds": 141.569,
+      "streams": {
+        "video": 1,
+        "audio": 1
+      },
+      "sha256": "0658b94c3d36b6805ec09c82312839d894540c77a7d60714879f3e06151d0169"
+    },
+    {
+      "path": "D:\\startup\\玩家.skill\\research\\youtube-live-batch4\\delete-readiness\\evidence-pack\\continuous-video-windows\\mikey-youtube-live-039-W04-04480-04584.mp4",
+      "duration_seconds": 109.035667,
+      "streams": {
+        "video": 1,
+        "audio": 1
+      },
+      "sha256": "15f6fb803fef65b016d81b69a86d28213df2f215c968131a5675d29c57df9f16"
+    },
+    {
+      "path": "D:\\startup\\玩家.skill\\research\\youtube-live-batch4\\delete-readiness\\evidence-pack\\continuous-lowres-proxies\\mikey-youtube-live-031-full-360p.mp4",
+      "duration_seconds": 5925.166667,
+      "streams": {
+        "video": 1,
+        "audio": 1
+      },
+      "sha256": "a6d7001ce0238f01f299eb48b8820562838fedca9f7ec5d741e2bdbde74e5cce"
+    }
+  ]
+}

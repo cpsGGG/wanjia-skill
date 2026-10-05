@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-001",
+  "youtube_id": "IBWuut6XMnA",
+  "review_completed": true,
+  "items": [
+    {"review_id": "s001-r01", "severity": "major", "category": "speaker_attribution", "issue": "The visible speaker appears to be the channel host, but the short contains no internal name and no voice-reference comparison was completed.", "affected_evidence": ["whole source"], "disposition": "Keep attribution provisional and first-person disabled until matched to an identity-established source."},
+    {"review_id": "s001-r02", "severity": "major", "category": "asr_and_exact_quote", "issue": "Both ASR segments contain errors and do not preserve the burned-in wording.", "affected_evidence": ["S00001-S00002"], "disposition": "Use the subtitle-derived paraphrase only; do not present an exact quote without audio check."},
+    {"review_id": "s001-r03", "severity": "major", "category": "overgeneralization_and_consent", "issue": "The words 'impulsive' and 'persistent' have no stopping rule and could be misapplied to unsafe or unwanted pursuit.", "affected_evidence": ["s001-c01"], "disposition": "Do not turn into direct action advice; any romantic action still requires adulthood, mutual willingness, respect for refusal and ordinary safety."}
+  ]
+}

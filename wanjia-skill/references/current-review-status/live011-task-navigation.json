@@ -1,0 +1,580 @@
+{
+  "role": "original_question_and_effective_scope_navigation_only",
+  "source_id": "mikey-youtube-live-011",
+  "items": [
+    {
+      "original_task_id": "mikey-youtube-live-011-R001",
+      "original_question": "核心术语‘潜沟通/潜台词/行为线索/社交认证’被多次转写为‘浅沟通/浅台词/射要认证’，逐处原音是否一致？",
+      "original_required_evidence": "重点窗口原音听校",
+      "original_severity": "major",
+      "original_record": {
+        "id": "mikey-youtube-live-011-R001",
+        "source_id": "mikey-youtube-live-011",
+        "start": 657.4,
+        "end": 844.0,
+        "type": "asr_term",
+        "severity": "major",
+        "question": "核心术语‘潜沟通/潜台词/行为线索/社交认证’被多次转写为‘浅沟通/浅台词/射要认证’，逐处原音是否一致？",
+        "affected_ids": [
+          "mikey-youtube-live-011-E0002",
+          "mikey-youtube-live-011-K001"
+        ],
+        "required_evidence": "重点窗口原音听校",
+        "owner": "audio-review",
+        "status": "open",
+        "evidence_refs": [
+          {
+            "evidence_id": "mikey-youtube-live-011-E0002-R124",
+            "youtube_url": "https://www.youtube.com/watch?v=QKKXbO1JYmw&t=810s"
+          }
+        ]
+      },
+      "reference": {
+        "path": "references/youtube-live-batch2/cross-video/youtube-live-batch2-cross-synthesis.json",
+        "json_pointer": "/review_resolution_ledger/0/as_supplied",
+        "file_sha256": "a757620afbd03ebb62823950a6d88c4609deb4ee8caff8d74d3e9b79f8464a18",
+        "record_canonical_sha256": "928efa5608a67dc7e0a8d9e906b849ca96e7bb5b5948505b1743cc747e400fbe"
+      },
+      "effective_status": "partial",
+      "full_original_task_closed": false,
+      "navigation_only_no_content_or_permission_change": true,
+      "existing_effective_scope_record": {
+        "path": "references/review-status-overlay.json",
+        "json_pointer": "/items/0",
+        "file_sha256": "e6fdf0f8bf85e43512fc9888c067c59e9025c7192913687f382831db3b651b0e",
+        "record_canonical_sha256": "aa8b44891c6f8609a10fd7b735d2cad05df380e2805887e51d77a1238fc0a213",
+        "complete_record": {
+          "original_task_id": "mikey-youtube-live-011-R001",
+          "source_id": "mikey-youtube-live-011",
+          "effective_status": "partial",
+          "full_original_task_closed": false,
+          "accepted_existing_subscope_resolution": true,
+          "original_task": {
+            "question": "核心术语‘潜沟通/潜台词/行为线索/社交认证’被多次转写为‘浅沟通/浅台词/射要认证’，逐处原音是否一致？",
+            "required_evidence": "重点窗口原音听校",
+            "severity": "major",
+            "reference": {
+              "path": "references/youtube-live-batch2/cross-video/youtube-live-batch2-cross-synthesis.json",
+              "locator_kind": "json_pointer",
+              "locator": "/review_resolution_ledger/0/as_supplied",
+              "file_sha256": "a757620afbd03ebb62823950a6d88c4609deb4ee8caff8d74d3e9b79f8464a18",
+              "role": "original_question_record",
+              "required_runtime_reference": true,
+              "path_base": "skill_directory",
+              "record_sha256_canonical_json": "928efa5608a67dc7e0a8d9e906b849ca96e7bb5b5948505b1743cc747e400fbe"
+            }
+          },
+          "accepted_narrow_scope": [
+            "术语身份可规范为潜沟通、潜台词、行为线索、社交认证；这些同音写法不是另外四个概念。"
+          ],
+          "remaining_original_scope": [
+            "657.4–844.0 秒内每一处原音是否一致，尚未被逐处听校证明。",
+            "不能把术语归一推广为整段逐字转写认证。"
+          ],
+          "needed_evidence_or_scope_repair": [
+            "对原任务指定窗口逐处回听并逐项绑定原音与SID；本轮未执行。"
+          ],
+          "effective_decision": "accept_explicit_subscope_only",
+          "basis_scope_explanation": "标题、窗口内反复定义及潜台词作为细分支的对照支持概念归一。targeted-asr-recheck 的此项明确写 contextual resolution，并未记录逐处原音一致性听校。",
+          "historical_disposition": {
+            "history_only_not_current_whole_task_closure": true,
+            "historical_inventory_label": "closed_narrow_existing_disposition",
+            "prior_candidate_status_as_recorded": "resolved",
+            "prior_disposition_label": "terminology_resolved_from_repetition_and_definition",
+            "prior_finding_as_recorded": "Normalize the recurring ASR homophones to 潜沟通、潜台词、行为线索、社交认证. The episode title and repeated in-window definition make the intended terms unambiguous.",
+            "reference": {
+              "path": "references/youtube-live-batch2/delete-readiness/review-dispositions.json",
+              "locator_kind": "json_pointer",
+              "locator": "/rows/0",
+              "file_sha256": "13b4fe7128b712d7b2608761b5c571a28460c367a6b84f008c97ba8345f3e083",
+              "role": "old_disposition_history",
+              "required_runtime_reference": true,
+              "path_base": "skill_directory",
+              "record_sha256_canonical_json": "28bc55dd12dedc2e3d4acf6d29920d9d94687dc5bec4aa453ba359158b370d76"
+            }
+          },
+          "packaged_evidence_bindings": [
+            {
+              "path": "references/youtube-live-batch2/delete-readiness/review-dispositions.json",
+              "locator_kind": "preserved_report_locator",
+              "locator": "$.rows[0]",
+              "file_sha256": "13b4fe7128b712d7b2608761b5c571a28460c367a6b84f008c97ba8345f3e083",
+              "role": "actual_prior_delete_disposition",
+              "required_runtime_reference": false,
+              "path_base": "skill_directory",
+              "scope_notice": "Existing text/report evidence only; no new original-audio or whole-source certification."
+            },
+            {
+              "path": "references/youtube-live-batch2/mikey-youtube-live-011/visual/review.md",
+              "locator_kind": "preserved_report_locator",
+              "locator": "full_document",
+              "file_sha256": "467f6a9e907d10e05e9fa2e1ee1b84541c787196973ae06e5a61bd9c1ddd7e54",
+              "role": "existing_episode_visual_report",
+              "required_runtime_reference": false,
+              "path_base": "skill_directory",
+              "scope_notice": "Existing text/report evidence only; no new original-audio or whole-source certification."
+            },
+            {
+              "path": "references/youtube-live-batch2/mikey-youtube-live-011/transcript.json",
+              "locator_kind": "preserved_report_locator",
+              "locator": "segments: S00215, S00217, S00219, S00246, S00247, S00284, S00307",
+              "file_sha256": "738e9f52d219b9055f19c31c02ae523741c2b3a09e15547200d90f7a306f770c",
+              "role": "automatic_text_read_directly",
+              "required_runtime_reference": false,
+              "path_base": "skill_directory",
+              "scope_notice": "Existing text/report evidence only; no new original-audio or whole-source certification."
+            }
+          ],
+          "independent_review_production_history": {
+            "required_runtime_reference": false,
+            "not_claimed_to_be_in_skill_package": true,
+            "report_label": "2026-10-05 12-task independent narrow-scope review",
+            "project_history_path": "research/v2-remediation-20261004/narrow-closure-independent-gate/result.json",
+            "report_file_sha256": "4da35ae10ec774e86d364b68171b6b6dba273dc9e5ea0b1abe7587b8e010215a",
+            "decision_record_sha256_canonical_json": "9bb5d01c447e080f76c0b40c611bdfdd63a93868b11b72c9e548b864eca9cecf",
+            "task_id": "mikey-youtube-live-011-R001",
+            "notice": "制作历史绑定，不是必需运行链接；运行时须回读上述真实包内原问题/历史引用，并保持此处限定。"
+          },
+          "limits": [
+            "本轮无新的原音回听、声纹映射、逐句听校或全片连续音画核验；已有音画文件被保存不等于已听/已看。",
+            "人物归属、同意/授权、第三方真实性、法律/医疗、隐私与实际效果不得由子问题关闭顺带开放。",
+            "知识等级、人物化、行动建议、运行许可、零权重与有限payload全部不改；既有hold/do_not_generalize继续有效。",
+            "原任务/原处置作为历史保留；只能添加明确标识子范围的状态叠加，不能写回旧closed后自动关闭原任务。",
+            "原任务severity保持；已解决子问题可另记较低severity，不能把尚待原音/连续画面的整体任务降级。"
+          ],
+          "new_audio_listening": false,
+          "new_audiovisual_verification_in_this_materialization": false,
+          "runtime_permission_change": false,
+          "knowledge_text_change": false,
+          "permission_inheritance_allowed": false
+        }
+      }
+    },
+    {
+      "original_task_id": "mikey-youtube-live-011-R002",
+      "original_question": "社交认证、‘预选/慕强/征服欲’及造势方法含普遍化性别断言和操控性用法，哪些只能作为人物观点保留而不能升级为确定建议？",
+      "original_required_evidence": "跨期材料核对、原音回读与编辑边界审查",
+      "original_severity": "blocking",
+      "original_record": {
+        "id": "mikey-youtube-live-011-R002",
+        "source_id": "mikey-youtube-live-011",
+        "start": 839.0,
+        "end": 1510.0,
+        "type": "gender_generalization_and_manipulation",
+        "severity": "blocking",
+        "question": "社交认证、‘预选/慕强/征服欲’及造势方法含普遍化性别断言和操控性用法，哪些只能作为人物观点保留而不能升级为确定建议？",
+        "affected_ids": [
+          "mikey-youtube-live-011-E0003",
+          "mikey-youtube-live-011-E0004",
+          "mikey-youtube-live-011-K002",
+          "mikey-youtube-live-011-K003"
+        ],
+        "required_evidence": "跨期材料核对、原音回读与编辑边界审查",
+        "owner": "cross-source-and-editorial-review",
+        "status": "open",
+        "evidence_refs": [
+          {
+            "evidence_id": "mikey-youtube-live-011-E0004-R188",
+            "youtube_url": "https://www.youtube.com/watch?v=QKKXbO1JYmw&t=1395s"
+          }
+        ]
+      },
+      "reference": {
+        "path": "references/youtube-live-batch2/cross-video/youtube-live-batch2-cross-synthesis.json",
+        "json_pointer": "/review_resolution_ledger/1/as_supplied",
+        "file_sha256": "a757620afbd03ebb62823950a6d88c4609deb4ee8caff8d74d3e9b79f8464a18",
+        "record_canonical_sha256": "c2a6f64fb4ce30b2457221b9be7ae2e5f57760bb46bc2ab42da0ad7be9885030"
+      },
+      "effective_status": "open_existing_disposition",
+      "full_original_task_closed": false,
+      "navigation_only_no_content_or_permission_change": true
+    },
+    {
+      "original_task_id": "mikey-youtube-live-011-R003",
+      "original_question": "转场邀请演示强调状态与无需求感，但没有完整呈现明确同意和拒绝后停止；后续使用时如何避免被读成继续施压？",
+      "original_required_evidence": "连续语境回读，并与正式库明确同意/拒绝边界联读",
+      "original_severity": "blocking",
+      "original_record": {
+        "id": "mikey-youtube-live-011-R003",
+        "source_id": "mikey-youtube-live-011",
+        "start": 1860.0,
+        "end": 1950.0,
+        "type": "consent_boundary",
+        "severity": "blocking",
+        "question": "转场邀请演示强调状态与无需求感，但没有完整呈现明确同意和拒绝后停止；后续使用时如何避免被读成继续施压？",
+        "affected_ids": [
+          "mikey-youtube-live-011-E0006",
+          "mikey-youtube-live-011-K006"
+        ],
+        "required_evidence": "连续语境回读，并与正式库明确同意/拒绝边界联读",
+        "owner": "editorial-review",
+        "status": "open",
+        "evidence_refs": [
+          {
+            "evidence_id": "mikey-youtube-live-011-E0006-R053",
+            "youtube_url": "https://www.youtube.com/watch?v=QKKXbO1JYmw&t=1892s"
+          }
+        ]
+      },
+      "reference": {
+        "path": "references/youtube-live-batch2/cross-video/youtube-live-batch2-cross-synthesis.json",
+        "json_pointer": "/review_resolution_ledger/2/as_supplied",
+        "file_sha256": "a757620afbd03ebb62823950a6d88c4609deb4ee8caff8d74d3e9b79f8464a18",
+        "record_canonical_sha256": "d59297a489690a665857fe1bea636c60fed16bf76034c55b290c54a9c6efc357"
+      },
+      "effective_status": "open_existing_disposition",
+      "full_original_task_closed": false,
+      "navigation_only_no_content_or_permission_change": true
+    },
+    {
+      "original_task_id": "mikey-youtube-live-011-R004",
+      "original_question": "直播把‘废物测试’等同‘一致性测试’，并将对方的拒绝或负面反馈解释为测试；该等同是否会把真实拒绝误读为博弈？",
+      "original_required_evidence": "跨期核对并明确真实拒绝必须按拒绝处理",
+      "original_severity": "major",
+      "original_record": {
+        "id": "mikey-youtube-live-011-R004",
+        "source_id": "mikey-youtube-live-011",
+        "start": 2067.0,
+        "end": 2340.0,
+        "type": "concept_equivalence",
+        "severity": "major",
+        "question": "直播把‘废物测试’等同‘一致性测试’，并将对方的拒绝或负面反馈解释为测试；该等同是否会把真实拒绝误读为博弈？",
+        "affected_ids": [
+          "mikey-youtube-live-011-E0007",
+          "mikey-youtube-live-011-K007"
+        ],
+        "required_evidence": "跨期核对并明确真实拒绝必须按拒绝处理",
+        "owner": "cross-source-and-editorial-review",
+        "status": "open",
+        "evidence_refs": [
+          {
+            "evidence_id": "mikey-youtube-live-011-E0007-R105",
+            "youtube_url": "https://www.youtube.com/watch?v=QKKXbO1JYmw&t=2227s"
+          }
+        ]
+      },
+      "reference": {
+        "path": "references/youtube-live-batch2/cross-video/youtube-live-batch2-cross-synthesis.json",
+        "json_pointer": "/review_resolution_ledger/3/as_supplied",
+        "file_sha256": "a757620afbd03ebb62823950a6d88c4609deb4ee8caff8d74d3e9b79f8464a18",
+        "record_canonical_sha256": "2a224b8135fea7884c9304ed05bff5f9624a97d8c04604c4bf616d653f33dced"
+      },
+      "effective_status": "open_existing_disposition",
+      "full_original_task_closed": false,
+      "navigation_only_no_content_or_permission_change": true
+    },
+    {
+      "original_task_id": "mikey-youtube-live-011-R005",
+      "original_question": "周星驰电影、吴孟达角色和‘重案组之虎’等名称是否转写准确？",
+      "original_required_evidence": "原音与公开片名核对",
+      "original_severity": "minor",
+      "original_record": {
+        "id": "mikey-youtube-live-011-R005",
+        "source_id": "mikey-youtube-live-011",
+        "start": 2380.0,
+        "end": 2700.0,
+        "type": "asr_name_and_film",
+        "severity": "minor",
+        "question": "周星驰电影、吴孟达角色和‘重案组之虎’等名称是否转写准确？",
+        "affected_ids": [
+          "mikey-youtube-live-011-E0008"
+        ],
+        "required_evidence": "原音与公开片名核对",
+        "owner": "fact-and-audio-review",
+        "status": "open",
+        "evidence_refs": [
+          {
+            "evidence_id": "mikey-youtube-live-011-E0008-R036",
+            "youtube_url": "https://www.youtube.com/watch?v=QKKXbO1JYmw&t=2394s"
+          }
+        ]
+      },
+      "reference": {
+        "path": "references/youtube-live-batch2/cross-video/youtube-live-batch2-cross-synthesis.json",
+        "json_pointer": "/review_resolution_ledger/4/as_supplied",
+        "file_sha256": "a757620afbd03ebb62823950a6d88c4609deb4ee8caff8d74d3e9b79f8464a18",
+        "record_canonical_sha256": "28ea20ccad152db07cbcca113768e9c1d1c533290923e9c1da80636ed30e224c"
+      },
+      "effective_status": "open_existing_disposition",
+      "full_original_task_closed": false,
+      "navigation_only_no_content_or_permission_change": true
+    },
+    {
+      "original_task_id": "mikey-youtube-live-011-R006",
+      "original_question": "把约会紧张主要归因为‘把女人定义得太重要’是否遗漏社交焦虑、经验、创伤等其他原因？",
+      "original_required_evidence": "跨期核对并保留个体差异边界",
+      "original_severity": "major",
+      "original_record": {
+        "id": "mikey-youtube-live-011-R006",
+        "source_id": "mikey-youtube-live-011",
+        "start": 2730.0,
+        "end": 2800.0,
+        "type": "cognitive_generalization",
+        "severity": "major",
+        "question": "把约会紧张主要归因为‘把女人定义得太重要’是否遗漏社交焦虑、经验、创伤等其他原因？",
+        "affected_ids": [
+          "mikey-youtube-live-011-E0009",
+          "mikey-youtube-live-011-K009"
+        ],
+        "required_evidence": "跨期核对并保留个体差异边界",
+        "owner": "editorial-review",
+        "status": "open",
+        "evidence_refs": [
+          {
+            "evidence_id": "mikey-youtube-live-011-E0009-R044",
+            "youtube_url": "https://www.youtube.com/watch?v=QKKXbO1JYmw&t=2765s"
+          }
+        ]
+      },
+      "reference": {
+        "path": "references/youtube-live-batch2/cross-video/youtube-live-batch2-cross-synthesis.json",
+        "json_pointer": "/review_resolution_ledger/5/as_supplied",
+        "file_sha256": "a757620afbd03ebb62823950a6d88c4609deb4ee8caff8d74d3e9b79f8464a18",
+        "record_canonical_sha256": "92f92b433d053470fb1bc40d81b440eccb09afc6e2796ec8aee4b2c373dcc0af"
+      },
+      "effective_status": "open_existing_disposition",
+      "full_original_task_closed": false,
+      "navigation_only_no_content_or_permission_change": true
+    },
+    {
+      "original_task_id": "mikey-youtube-live-011-R007",
+      "original_question": "英国政要会谈被说成‘英国女王’，以及领袖、演化、安全感等因果叙述是否事实准确？",
+      "original_required_evidence": "史实核对、跨期来源及事实边界审查",
+      "original_severity": "blocking",
+      "original_record": {
+        "id": "mikey-youtube-live-011-R007",
+        "source_id": "mikey-youtube-live-011",
+        "start": 2860.0,
+        "end": 3230.0,
+        "type": "historical_and_evolutionary_claim",
+        "severity": "blocking",
+        "question": "英国政要会谈被说成‘英国女王’，以及领袖、演化、安全感等因果叙述是否事实准确？",
+        "affected_ids": [
+          "mikey-youtube-live-011-E0010",
+          "mikey-youtube-live-011-K010",
+          "mikey-youtube-live-011-K011"
+        ],
+        "required_evidence": "史实核对、跨期来源及事实边界审查",
+        "owner": "fact-and-cross-source-review",
+        "status": "open",
+        "evidence_refs": [
+          {
+            "evidence_id": "mikey-youtube-live-011-E0010-R013",
+            "youtube_url": "https://www.youtube.com/watch?v=QKKXbO1JYmw&t=2884s"
+          }
+        ]
+      },
+      "reference": {
+        "path": "references/youtube-live-batch2/cross-video/youtube-live-batch2-cross-synthesis.json",
+        "json_pointer": "/review_resolution_ledger/6/as_supplied",
+        "file_sha256": "a757620afbd03ebb62823950a6d88c4609deb4ee8caff8d74d3e9b79f8464a18",
+        "record_canonical_sha256": "b5a3ac59387a3abaccd95628effd7bb8fac6baa22f71db1e8f02a5725e47aba2"
+      },
+      "effective_status": "open_existing_disposition",
+      "full_original_task_closed": false,
+      "navigation_only_no_content_or_permission_change": true
+    },
+    {
+      "original_task_id": "mikey-youtube-live-011-R008",
+      "original_question": "‘第一次试探边界后会变本加厉’是个人经验还是稳定规律，适用条件是什么？",
+      "original_required_evidence": "跨期案例与反例核对",
+      "original_severity": "major",
+      "original_record": {
+        "id": "mikey-youtube-live-011-R008",
+        "source_id": "mikey-youtube-live-011",
+        "start": 3238.0,
+        "end": 3272.0,
+        "type": "boundary_generalization",
+        "severity": "major",
+        "question": "‘第一次试探边界后会变本加厉’是个人经验还是稳定规律，适用条件是什么？",
+        "affected_ids": [
+          "mikey-youtube-live-011-E0010",
+          "mikey-youtube-live-011-E0011",
+          "mikey-youtube-live-011-K012"
+        ],
+        "required_evidence": "跨期案例与反例核对",
+        "owner": "cross-source-review",
+        "status": "open",
+        "evidence_refs": [
+          {
+            "evidence_id": "mikey-youtube-live-011-E0011-R009",
+            "youtube_url": "https://www.youtube.com/watch?v=QKKXbO1JYmw&t=3264s"
+          }
+        ]
+      },
+      "reference": {
+        "path": "references/youtube-live-batch2/cross-video/youtube-live-batch2-cross-synthesis.json",
+        "json_pointer": "/review_resolution_ledger/7/as_supplied",
+        "file_sha256": "a757620afbd03ebb62823950a6d88c4609deb4ee8caff8d74d3e9b79f8464a18",
+        "record_canonical_sha256": "9f846bc3bdf8da6043d908358d11d6948c1a9d0541cdc3cbba448edaaeae8571"
+      },
+      "effective_status": "open_existing_disposition",
+      "full_original_task_closed": false,
+      "navigation_only_no_content_or_permission_change": true
+    },
+    {
+      "original_task_id": "mikey-youtube-live-011-R009",
+      "original_question": "S01881口述/转写称小动作多时‘超大概率都是绿灯’，但紧接着称大概率黄灯或红灯；原音是否为‘红灯’？",
+      "original_required_evidence": "S01878-S01884逐句原音听校",
+      "original_severity": "blocking",
+      "original_record": {
+        "id": "mikey-youtube-live-011-R009",
+        "source_id": "mikey-youtube-live-011",
+        "start": 3690.0,
+        "end": 4000.0,
+        "type": "asr_contradiction",
+        "severity": "blocking",
+        "question": "S01881口述/转写称小动作多时‘超大概率都是绿灯’，但紧接着称大概率黄灯或红灯；原音是否为‘红灯’？",
+        "affected_ids": [
+          "mikey-youtube-live-011-E0012",
+          "mikey-youtube-live-011-K013"
+        ],
+        "required_evidence": "S01878-S01884逐句原音听校",
+        "owner": "audio-review",
+        "status": "open",
+        "evidence_refs": [
+          {
+            "evidence_id": "mikey-youtube-live-011-E0012-R077",
+            "youtube_url": "https://www.youtube.com/watch?v=QKKXbO1JYmw&t=3757s"
+          }
+        ]
+      },
+      "reference": {
+        "path": "references/youtube-live-batch2/cross-video/youtube-live-batch2-cross-synthesis.json",
+        "json_pointer": "/review_resolution_ledger/8/as_supplied",
+        "file_sha256": "a757620afbd03ebb62823950a6d88c4609deb4ee8caff8d74d3e9b79f8464a18",
+        "record_canonical_sha256": "cf6e36d6e8a23e2f462a44a90d3f66165d0a563bf99bb6f2243a05659520c01d"
+      },
+      "effective_status": "open_existing_disposition",
+      "full_original_task_closed": false,
+      "navigation_only_no_content_or_permission_change": true
+    },
+    {
+      "original_task_id": "mikey-youtube-live-011-R010",
+      "original_question": "‘语速慢三倍’的口径、书名《The Game》中文译称及Neil Strauss姓名转写是否准确，三倍是否只是强调性说法？",
+      "original_required_evidence": "原音、原书及跨期材料核对",
+      "original_severity": "major",
+      "original_record": {
+        "id": "mikey-youtube-live-011-R010",
+        "source_id": "mikey-youtube-live-011",
+        "start": 4060.0,
+        "end": 4290.0,
+        "type": "numeric_and_source_claim",
+        "severity": "major",
+        "question": "‘语速慢三倍’的口径、书名《The Game》中文译称及Neil Strauss姓名转写是否准确，三倍是否只是强调性说法？",
+        "affected_ids": [
+          "mikey-youtube-live-011-E0013",
+          "mikey-youtube-live-011-K014"
+        ],
+        "required_evidence": "原音、原书及跨期材料核对",
+        "owner": "audio-and-source-review",
+        "status": "open",
+        "evidence_refs": [
+          {
+            "evidence_id": "mikey-youtube-live-011-E0013-R025",
+            "youtube_url": "https://www.youtube.com/watch?v=QKKXbO1JYmw&t=4075s"
+          }
+        ]
+      },
+      "reference": {
+        "path": "references/youtube-live-batch2/cross-video/youtube-live-batch2-cross-synthesis.json",
+        "json_pointer": "/review_resolution_ledger/9/as_supplied",
+        "file_sha256": "a757620afbd03ebb62823950a6d88c4609deb4ee8caff8d74d3e9b79f8464a18",
+        "record_canonical_sha256": "bc36135b84f6665eb649da1c702a615536d7f22e9c14f80f563e8beb1135e233"
+      },
+      "effective_status": "open_existing_disposition",
+      "full_original_task_closed": false,
+      "navigation_only_no_content_or_permission_change": true
+    },
+    {
+      "original_task_id": "mikey-youtube-live-011-R011",
+      "original_question": "当前把连续主持声统一映射为Mikey；代读评论、模仿台词和可能的短重叠声音是否需要逐句拆分归属？",
+      "original_required_evidence": "连续音画、嘴型和直播评论对应",
+      "original_severity": "major",
+      "original_record": {
+        "id": "mikey-youtube-live-011-R011",
+        "source_id": "mikey-youtube-live-011",
+        "start": 56.85,
+        "end": 4516.07,
+        "type": "speaker_attribution",
+        "severity": "major",
+        "question": "当前把连续主持声统一映射为Mikey；代读评论、模仿台词和可能的短重叠声音是否需要逐句拆分归属？",
+        "affected_ids": [
+          "mikey-youtube-live-011-E0001",
+          "mikey-youtube-live-011-E0002",
+          "mikey-youtube-live-011-E0004",
+          "mikey-youtube-live-011-E0009",
+          "mikey-youtube-live-011-E0011",
+          "mikey-youtube-live-011-E0013"
+        ],
+        "required_evidence": "连续音画、嘴型和直播评论对应",
+        "owner": "audiovisual-review",
+        "status": "open",
+        "evidence_refs": [
+          {
+            "evidence_id": "mikey-youtube-live-011-E0001-R001",
+            "youtube_url": "https://www.youtube.com/watch?v=QKKXbO1JYmw&t=56s"
+          }
+        ]
+      },
+      "reference": {
+        "path": "references/youtube-live-batch2/cross-video/youtube-live-batch2-cross-synthesis.json",
+        "json_pointer": "/review_resolution_ledger/10/as_supplied",
+        "file_sha256": "a757620afbd03ebb62823950a6d88c4609deb4ee8caff8d74d3e9b79f8464a18",
+        "record_canonical_sha256": "7113de2bf25f768c6d11d710706a3f4617f38e76f252055fd3fcd42de85abe30"
+      },
+      "effective_status": "open_existing_disposition",
+      "full_original_task_closed": false,
+      "navigation_only_no_content_or_permission_change": true
+    },
+    {
+      "original_task_id": "mikey-youtube-live-011-R012",
+      "original_question": "本轮只实际查看12个稀疏候选帧，是否存在屏幕展示、私聊截图或短时画面材料未覆盖？",
+      "original_required_evidence": "完整联系表复核与重点窗口顺序帧",
+      "original_severity": "major",
+      "original_record": {
+        "id": "mikey-youtube-live-011-R012",
+        "source_id": "mikey-youtube-live-011",
+        "start": 56.85,
+        "end": 4516.07,
+        "type": "visual_coverage",
+        "severity": "major",
+        "question": "本轮只实际查看12个稀疏候选帧，是否存在屏幕展示、私聊截图或短时画面材料未覆盖？",
+        "affected_ids": [
+          "mikey-youtube-live-011-E0001",
+          "mikey-youtube-live-011-E0002",
+          "mikey-youtube-live-011-E0003",
+          "mikey-youtube-live-011-E0004",
+          "mikey-youtube-live-011-E0005",
+          "mikey-youtube-live-011-E0006",
+          "mikey-youtube-live-011-E0007",
+          "mikey-youtube-live-011-E0008",
+          "mikey-youtube-live-011-E0009",
+          "mikey-youtube-live-011-E0010",
+          "mikey-youtube-live-011-E0011",
+          "mikey-youtube-live-011-E0012",
+          "mikey-youtube-live-011-E0013",
+          "mikey-youtube-live-011-E0014"
+        ],
+        "required_evidence": "完整联系表复核与重点窗口顺序帧",
+        "owner": "visual-review",
+        "status": "open",
+        "evidence_refs": [
+          {
+            "evidence_id": "mikey-youtube-live-011-E0001-R001",
+            "youtube_url": "https://www.youtube.com/watch?v=QKKXbO1JYmw&t=56s"
+          }
+        ]
+      },
+      "reference": {
+        "path": "references/youtube-live-batch2/cross-video/youtube-live-batch2-cross-synthesis.json",
+        "json_pointer": "/review_resolution_ledger/11/as_supplied",
+        "file_sha256": "a757620afbd03ebb62823950a6d88c4609deb4ee8caff8d74d3e9b79f8464a18",
+        "record_canonical_sha256": "f13b02df24acbf1473e8d126a39b7bcb7340ad1aab0b46d0edc30c9879ccd2e3"
+      },
+      "effective_status": "open_existing_disposition",
+      "full_original_task_closed": false,
+      "navigation_only_no_content_or_permission_change": true
+    }
+  ]
+}

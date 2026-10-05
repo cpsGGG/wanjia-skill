@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-035",
+  "youtube_id": "yu4M9Pjy79k",
+  "decision": "reuse",
+  "reuse_of": "quark-live-023",
+  "formal_weight_if_integrated": 0,
+  "compared_sources": [
+    {
+      "scope": "formal_mikey_guide",
+      "source_count": 202,
+      "comparison": "id/url, normalized transcript shingles, distinctive phrase search and semantic screen"
+    },
+    {
+      "scope": "remaining_video_batches_01_05_and_short_01_03",
+      "source_count": 75,
+      "comparison": "id/url, normalized transcript shingles, prior dedup records and semantic screen"
+    },
+    {
+      "source_id": "quark-live-023",
+      "comparison": "strong semantic overlap: attraction/safety, so-called compliance tests, hand-holding, transition to a private home and PS5/Crayon Shin-chan pretexts; no same ordered passage or same visual setup located"
+    },
+    {
+      "source_id": "mikey-practice-008",
+      "comparison": "same broad recommendation to propose going home to watch Crayon Shin-chan with an assertive tone, but different wording and recording"
+    },
+    {
+      "source_id": "quark-live-030",
+      "comparison": "same PS5/Crayon Shin-chan invitation examples, but not the Short's complete passage"
+    }
+  ],
+  "evidence": [
+    {
+      "type": "identity",
+      "result": "no_exact_id_or_url_match"
+    },
+    {
+      "type": "transcript",
+      "result": "no_same_passage_match",
+      "basis": "The screened corpus contains the same method family, but no source reproduces this complete sequence from attraction/safety through hand-holding and waist contact to the PS5 invitation and closing claim."
+    },
+    {
+      "type": "semantic_overlap",
+      "result": "substantially_already_represented_method",
+      "basis": "Formal quark-live-023 already preserves the core compliance-test and private-space transition framework, while mikey-practice-008 and quark-live-030 preserve the assertive invitation and PS5/Crayon Shin-chan examples."
+    },
+    {
+      "type": "visual",
+      "result": "single_instructor_excerpt",
+      "basis": "All 20 sampled frames show one black-shirt instructor seated in one room with subtitles; no date, touch, invitation, recipient response or outcome is shown."
+    }
+  ],
+  "boundary": "Treat as zero-weight semantic reuse. The distinct Short recording and unlocated parent do not create independent method weight because quark-live-023, mikey-practice-008 and quark-live-030 already cover the complete usable method family."
+}

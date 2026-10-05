@@ -1,0 +1,72 @@
+{
+  "schema_version": "mikey-community-post-fulltext-1.0",
+  "source_id": "mikey-youtube-community-024",
+  "post_id": "UgkxW5Ycnupu6MJCsHjRiN2dYL4R6jEEvC_i",
+  "url": "https://www.youtube.com/post/UgkxW5Ycnupu6MJCsHjRiN2dYL4R6jEEvC_i",
+  "published_at": "2025-08-29T06:00:00.226916-07:00",
+  "date_basis": "archived_public_observation",
+  "body": "深夜 这些人仔偷偷开会～\n\n好像在密谋什么",
+  "body_kind": "verbatim_or_as_archived_in_corrected_candidate",
+  "image_refs": [
+    {
+      "image_index": 1,
+      "research_archive_path": "research/youtube-community-batch1/images/UgkxW5Ycnupu6MJCsHjRiN2dYL4R6jEEvC_i/01.jpg",
+      "sha256": "27c389cf57b2de6b1e05756ecbcf4fe94578b8193fcd05b5b1072e16c9e77e5d",
+      "bytes": 226531,
+      "formal_asset_policy": "reference_only_do_not_copy",
+      "safe_summary": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。"
+    },
+    {
+      "image_index": 2,
+      "research_archive_path": "research/youtube-community-batch1/images/UgkxW5Ycnupu6MJCsHjRiN2dYL4R6jEEvC_i/02.jpg",
+      "sha256": "d9f7f033314c2b39d0d06920df22f593cce89e11e660e74c505c3a4dfdde95f8",
+      "bytes": 127448,
+      "formal_asset_policy": "reference_only_do_not_copy",
+      "safe_summary": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。"
+    }
+  ],
+  "segments": [
+    {
+      "sid": "C0024-BODY",
+      "kind": "channel_body",
+      "text": "深夜 这些人仔偷偷开会～\n\n好像在密谋什么",
+      "verbatim_allowed": true,
+      "source_scope": "public_channel_body_as_archived"
+    },
+    {
+      "sid": "C0024-IMG01",
+      "kind": "image_reference_metadata",
+      "text": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。",
+      "verbatim_allowed": false,
+      "image_reference": {
+        "image_index": 1,
+        "research_archive_path": "research/youtube-community-batch1/images/UgkxW5Ycnupu6MJCsHjRiN2dYL4R6jEEvC_i/01.jpg",
+        "sha256": "27c389cf57b2de6b1e05756ecbcf4fe94578b8193fcd05b5b1072e16c9e77e5d",
+        "bytes": 226531,
+        "formal_asset_policy": "reference_only_do_not_copy",
+        "safe_summary": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。"
+      }
+    },
+    {
+      "sid": "C0024-IMG02",
+      "kind": "image_reference_metadata",
+      "text": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。",
+      "verbatim_allowed": false,
+      "image_reference": {
+        "image_index": 2,
+        "research_archive_path": "research/youtube-community-batch1/images/UgkxW5Ycnupu6MJCsHjRiN2dYL4R6jEEvC_i/02.jpg",
+        "sha256": "d9f7f033314c2b39d0d06920df22f593cce89e11e660e74c505c3a4dfdde95f8",
+        "bytes": 127448,
+        "formal_asset_policy": "reference_only_do_not_copy",
+        "safe_summary": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。"
+      }
+    }
+  ],
+  "privacy_policy": {
+    "original_images_copied": false,
+    "raw_ocr_copied": false,
+    "private_chat_transcript_copied": false,
+    "third_party_identity_confirmed": false,
+    "publication_authorization_confirmed": false
+  }
+}

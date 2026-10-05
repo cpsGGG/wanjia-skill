@@ -1,0 +1,41 @@
+{
+  "previous_uploaded_sha256": "664fa19f0e8cacb2fc109e4608f0892412be328b407128f801223721bd7cdcb7",
+  "correction": "Compact v1 omitted attribution_note/citation_allowed fields while retaining text, speaker, global permissions, abnormal raw times and unusable flag. These exact metadata are now restored, without repeating transcripts.",
+  "safe_master_sha256": "46e2601f92a7028820aa8556b18664268b9b991ad065c77541691e92a06bf786",
+  "sources": [
+    {
+      "source_id": "mikey-youtube-video-refresh-001",
+      "attribution_notes": [
+        {
+          "exact_note": "插入段包含对谈来回，不能把所有ASR归为画面中的Mikey；须按实际口述/回应另核",
+          "applies_to_sid_ranges": [
+            [
+              "S00847",
+              "S01618"
+            ]
+          ],
+          "segment_count": 772
+        },
+        {
+          "exact_note": "原end超成品28.699s；裁时不证明该句真实存在，需原音核对",
+          "applies_to_sid_ranges": [
+            [
+              "S01727",
+              "S01727"
+            ]
+          ],
+          "segment_count": 1
+        }
+      ],
+      "citation_forbidden_sids": [
+        "S01727"
+      ]
+    },
+    {
+      "source_id": "mikey-youtube-short-refresh-001",
+      "attribution_notes": [],
+      "citation_forbidden_sids": []
+    }
+  ],
+  "all_first_person_action_and_runtime_answer_permissions": false
+}

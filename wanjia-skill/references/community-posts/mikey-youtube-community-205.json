@@ -1,0 +1,71 @@
+{
+  "schema_version": "mikey-community-post-fulltext-1.0",
+  "source_id": "mikey-youtube-community-205",
+  "post_id": "UgkxvkElXALsn2CKOYIc_rWSi4aNCLVscGHG",
+  "url": "https://www.youtube.com/post/UgkxvkElXALsn2CKOYIc_rWSi4aNCLVscGHG",
+  "published_at": "2026-09-28T08:04:37.57188-07:00",
+  "date_basis": "refetched_public_post_datePublished",
+  "date_display_rule": "calendar_date_in_original_published_at_offset",
+  "observed_at": "2026-10-03T18:42:15.654574+00:00",
+  "body": "高敏感不是软肋，而是天生的高阶感知力。这种敏锐度赋予了你强大的领悟力与深度思考的天赋，但也决定了你无法在狭隘、低效的环境中安放自我",
+  "body_kind": "exact_public_post_body_as_archived",
+  "body_utf8_sha256": "dce221cbf60b879ec80949e4bc40fccb2002c4e6eb065dc1cdf59e9e791b62a8",
+  "source_analysis": "references/community-refresh-20261004/mikey-youtube-community-205.safe.json",
+  "source_analysis_sha256": "12d27d77506989418a2d7f9f18a4a30cbfd43df7206358c0ef2db53321f12965",
+  "image_refs": [
+    {
+      "image_index": 1,
+      "research_archive_path": "research/youtube-channel-refresh-20261004/new-posts/images/UgkxvkElXALsn2CKOYIc_rWSi4aNCLVscGHG/01.jpg",
+      "sha256": "cbc67382dbcce8f12c24e15f26e5c922f0271339aa190025ba5c116010811524",
+      "bytes": 197801,
+      "width": 1440,
+      "height": 1080,
+      "dimensions_basis": "decoded_original_archived_image",
+      "formal_asset_policy": "reference_only_do_not_copy",
+      "safe_summary": "桌面音频设备与屏幕的环境照片，没有心理能力测试或聊天案例。",
+      "summary_origin": "author_visual_analysis_not_mikey_quote",
+      "independent_review_status": "pending",
+      "runtime_answer_allowed": false,
+      "evidence_weight": 0,
+      "editorial_use_limit": "原图只在研究归档保留；摘要来自逐帖分析，独立视觉审查未完成前不据此确认第三方身份、聊天上下文、截图真实性、授权或训练效果。"
+    }
+  ],
+  "segments": [
+    {
+      "sid": "C0205-BODY",
+      "kind": "channel_body",
+      "text": "高敏感不是软肋，而是天生的高阶感知力。这种敏锐度赋予了你强大的领悟力与深度思考的天赋，但也决定了你无法在狭隘、低效的环境中安放自我",
+      "verbatim_allowed": true,
+      "source_scope": "public_channel_body_as_archived"
+    },
+    {
+      "sid": "C0205-IMG01",
+      "kind": "image_reference_metadata",
+      "text": "桌面音频设备与屏幕的环境照片，没有心理能力测试或聊天案例。",
+      "verbatim_allowed": false,
+      "image_reference": {
+        "image_index": 1,
+        "research_archive_path": "research/youtube-channel-refresh-20261004/new-posts/images/UgkxvkElXALsn2CKOYIc_rWSi4aNCLVscGHG/01.jpg",
+        "sha256": "cbc67382dbcce8f12c24e15f26e5c922f0271339aa190025ba5c116010811524",
+        "bytes": 197801,
+        "width": 1440,
+        "height": 1080,
+        "dimensions_basis": "decoded_original_archived_image",
+        "formal_asset_policy": "reference_only_do_not_copy",
+        "safe_summary": "桌面音频设备与屏幕的环境照片，没有心理能力测试或聊天案例。",
+        "summary_origin": "author_visual_analysis_not_mikey_quote",
+        "independent_review_status": "pending",
+        "runtime_answer_allowed": false,
+        "evidence_weight": 0,
+        "editorial_use_limit": "原图只在研究归档保留；摘要来自逐帖分析，独立视觉审查未完成前不据此确认第三方身份、聊天上下文、截图真实性、授权或训练效果。"
+      }
+    }
+  ],
+  "privacy_policy": {
+    "original_images_copied": false,
+    "raw_ocr_copied": false,
+    "private_chat_transcript_copied": false,
+    "third_party_identity_confirmed": false,
+    "publication_authorization_confirmed": false
+  }
+}

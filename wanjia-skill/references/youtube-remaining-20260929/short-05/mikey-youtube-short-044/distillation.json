@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-044",
+  "youtube_id": "SRv3bw4d6AA",
+  "title": "沸羊羊的爱情",
+  "coverage": {
+    "transcript_segments_read": 29,
+    "transcript_time_range_seconds": [0.0, 59.78],
+    "semantic_media_range_seconds": [0.0, 59.814603],
+    "sampled_frames_reviewed": 20,
+    "continuous_original_audio_visual_review": false,
+    "excluded_asr_tail": null
+  },
+  "timeline": [
+    {"start": 0.0, "end": 10.84, "summary": "An unidentified narrator introduces an alleged concert incident and says a woman represented herself as attending alone despite being there with a man."},
+    {"start": 10.84, "end": 23.28, "summary": "Citing unspecified online witnesses, the narration alleges that she told the man not to interact and to pretend they did not know each other."},
+    {"start": 23.28, "end": 39.74, "summary": "Concert footage and reposted text are edited to support an allegation that she answered 'one person,' the man objected, and she told him to leave. The clip does not independently verify the exchange."},
+    {"start": 39.74, "end": 54.82, "summary": "The narrator uses the derogatory 沸羊羊 label and interprets later street footage as showing the man continuing to follow her; motive, relationship and sequence remain unverified."},
+    {"start": 54.82, "end": 59.814603, "summary": "Ticket imagery and a brief noisy tail appear while the ASR becomes garbled; no reliable additional claim is extracted from the ending."}
+  ],
+  "claims": [
+    {"claim_id": "s044-c01", "speaker": "unidentified_editorial_narrator", "statement": "The narration alleges that a woman publicly denied being with a male companion and told him to leave, while he later continued following her.", "conditions": "This is an unverified third-party account assembled from edited footage, comments and reposts; relationship, exact dialogue, chronology and motives are not established.", "evidence": ["S00005-S00025@10.84-52.00", "visual/sampled/000005.jpg-visual/sampled/000018.jpg"], "use_level": "do_not_generalize", "knowledge_status": "reuse_zero_weight"},
+    {"claim_id": "s044-c02", "speaker": "unidentified_editorial_narrator", "statement": "The Short uses the 沸羊羊 label to criticize a man portrayed as continuing a one-sided pursuit after humiliation or rejection.", "conditions": "A stigmatizing editorial label and inferred motive, not a verified diagnosis, relationship fact or evidence-based method.", "evidence": ["S00020-S00026@39.74-54.82", "visual/sampled/000013.jpg-visual/sampled/000018.jpg"], "use_level": "do_not_generalize", "knowledge_status": "reuse_zero_weight"}
+  ],
+  "examples": [
+    {"example_id": "s044-e01", "summary": "A viral-incident compilation mixes concert footage, online comments, cartoon metaphors, reposted text, street footage and tickets to construct a one-sided relationship narrative.", "evidence": ["visual/contact-sheet.jpg", "S00001-S00029@0.00-59.78"]}
+  ],
+  "speaker_attribution": [
+    {"speaker": "unidentified_editorial_narrator", "basis": "A continuous male voice narrates over third-party footage; sampled frames do not show the narrator or authenticate him as Mikey."},
+    {"speaker": "concert_host_and_attendees", "basis": "Visible and quoted third parties in edited footage; their exact words and identities are not independently verified."},
+    {"speaker": "online_commenters_or_repost_authors", "basis": "Screenshots and text cards are third-party material, not Mikey statements or verified witness testimony."}
+  ],
+  "visual_findings": [
+    "All twenty sampled frames were reviewed.",
+    "The video is a compilation of concert footage, social-media comments, cartoons, a reposted narrative, street footage and ticket images rather than a first-hand Mikey case recording.",
+    "Several third parties are identifiable, and visible text may contain account information or other personal details."
+  ],
+  "permissions": {"formal_integration": false, "first_person_allowed": false, "action_advice_allowed": false, "use_level": "reuse_zero_weight_do_not_generalize", "reason": "Unverified third-party event, unknown narrator, stigmatizing label, edited chronology and privacy-sensitive screenshots."},
+  "limitations": [
+    "The title and channel upload do not authenticate the narrator as Mikey.",
+    "The alleged dialogue, relationship, ticket purchase, chronology and motives are not independently verified.",
+    "The narration itself uses hedges such as citing online users and estimating what happened afterward.",
+    "S00027-S00029 are garbled and do not support reliable additional claims.",
+    "Sampled frames do not replace source verification or continuous original-footage review."
+  ]
+}

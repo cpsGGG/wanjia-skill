@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-017",
+  "youtube_id": "Mpw79dj6kmc",
+  "decision": "new",
+  "compared_sources": [
+    {"scope": "formal_mikey_guide", "source_count": 202, "comparison": "youtube_id_url_normalized_fulltext_and_12_character_shingles"},
+    {"source_id": "quark-live-044", "comparison": "brief thematic mention of Neil Strauss/The Game; no transcript-scale reuse"},
+    {"source_id": "quark-live-009", "title": "为什么学习PUA后，反而变得不会把妹了", "comparison": "related PUA history/critique theme only"},
+    {"source_id": "mikey-youtube-video-018", "comparison": "adjacent same-batch series installment; not yet a formal source and not evidence of reuse for this item"}
+  ],
+  "evidence": [
+    {"type": "identity", "result": "no_exact_youtube_id_or_url_overlap", "basis": "video-02 identity precheck and current formal source-index"},
+    {"type": "normalized_fulltext", "target_normalized_chars": 5498, "target_sha256": "b2b60269131d3247b93cb8a880fb287b2a32cd9f9ee59e46e4ae64ec49510521", "formal_transcripts_checked": 202, "exact_matches": []},
+    {"type": "near_duplicate_screen", "method": "12_character_shingle_containment", "highest_formal_containment": 0.0, "result": "no transcript-scale verbatim reuse detected"},
+    {"type": "visual", "result": "edited_documentary_compilation", "basis": "All 25 sampled frames show archival/public/film/website imagery and subtitles rather than a continuous primary interview; the compilation is distinct but is not primary evidence for its historical claims."}
+  ],
+  "boundary": "Count as a new research source only after independent review. Its value is as Mikey's narrated interpretation of PUA history; it is not independent verification of the named people's biography, business disputes, sex lives, mental-health crisis or financial scale."
+}

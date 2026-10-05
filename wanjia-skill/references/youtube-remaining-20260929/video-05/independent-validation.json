@@ -1,0 +1,157 @@
+{
+  "schema_version": 1,
+  "batch_key": "video-05",
+  "validated_at": "2026-09-29T19:50:41.6561893+08:00",
+  "validator_role": "local_independent_review_after_subagent_distillation",
+  "pass": true,
+  "scope": {
+    "items": 5,
+    "media_audit_items": 5,
+    "transcript_segments": 857,
+    "sampled_frames": 31,
+    "timeline_entries": 33,
+    "claims": 23,
+    "claim_sid_references_checked": 56,
+    "review_items": 37
+  },
+  "checks": {
+    "pipeline_validation_report_present_and_pass": true,
+    "media_files_rehashed_against_audit": "5/5",
+    "media_hash_bound_transcripts": "5/5",
+    "transcript_coverage_counts_match": "5/5",
+    "visual_manifest_files_and_hashes_valid": "31/31",
+    "visual_review_counts_match_manifests": "5/5",
+    "timeline_nonempty_and_within_media": "5/5",
+    "claim_segment_ids_exist": "56/56",
+    "reuse_targets_exist_in_formal_source_index": "4/4",
+    "reuse_target_transcript_hashes_match_formal_index": "4/4",
+    "review_ledgers_completed": "5/5",
+    "formal_integration_closed": "5/5",
+    "first_person_permission_closed": "5/5",
+    "action_advice_permission_closed": "5/5"
+  },
+  "transcript_and_visual_counts": {
+    "mikey-youtube-video-041": {
+      "segments": 361,
+      "asr_time_range_seconds": [2.0, 599.02],
+      "media_duration_seconds": 583.70322,
+      "sampled_frames": 13,
+      "timeline_entries": 10,
+      "claims": 6,
+      "review_items": 7
+    },
+    "mikey-youtube-video-042": {
+      "segments": 223,
+      "asr_time_range_seconds": [0.0, 420.26],
+      "media_duration_seconds": 431.914376,
+      "sampled_frames": 10,
+      "timeline_entries": 7,
+      "claims": 6,
+      "review_items": 8
+    },
+    "mikey-youtube-video-043": {
+      "segments": 91,
+      "asr_time_range_seconds": [0.0, 136.79],
+      "media_duration_seconds": 148.909569,
+      "sampled_frames": 3,
+      "timeline_entries": 5,
+      "claims": 3,
+      "review_items": 7
+    },
+    "mikey-youtube-video-044": {
+      "segments": 102,
+      "asr_time_range_seconds": [1.74, 141.35],
+      "media_duration_seconds": 151.092245,
+      "sampled_frames": 3,
+      "timeline_entries": 5,
+      "claims": 4,
+      "review_items": 7
+    },
+    "mikey-youtube-video-045": {
+      "segments": 80,
+      "asr_time_range_seconds": [0.0, 86.97],
+      "media_duration_seconds": 94.017596,
+      "sampled_frames": 2,
+      "timeline_entries": 6,
+      "claims": 4,
+      "review_items": 8
+    }
+  },
+  "deduplication": {
+    "new_research_sources": [
+      "mikey-youtube-video-042"
+    ],
+    "reuse_zero_weight": {
+      "mikey-youtube-video-041": "mikey-sijiao-008",
+      "mikey-youtube-video-043": "mikey-approach-002",
+      "mikey-youtube-video-044": "mikey-approach-010",
+      "mikey-youtube-video-045": "mikey-approach-017"
+    },
+    "independent_reuse_checks": {
+      "mikey-youtube-video-041": {
+        "formal_target_exists": true,
+        "formal_transcript_hash_matches_source_index": true,
+        "media_duration_difference_seconds": 0.022222,
+        "independent_12_character_shingle_containment": 0.411813,
+        "ordered_alignment_spot_check": "The approach, hotel review, repeated WeChat opening, sales/flyer interpretation, second distance review, controllable-voice distinction, third interaction and iced-Americano rehearsal occur in the same order."
+      },
+      "mikey-youtube-video-043": {
+        "formal_target_exists": true,
+        "formal_transcript_hash_matches_source_index": true,
+        "media_duration_difference_seconds": 0.02356,
+        "independent_12_character_shingle_containment": 0.50478,
+        "ordered_alignment_spot_check": "The urgent-time exchange, contact request, age/location talk, next-weekend uncertainty, other-suitor questions, zodiac discussion and closing contact-note request align in order."
+      },
+      "mikey-youtube-video-044": {
+        "formal_target_exists": true,
+        "formal_transcript_hash_matches_source_index": true,
+        "media_duration_difference_seconds": 0.023243,
+        "independent_12_character_shingle_containment": 0.603175,
+        "ordered_alignment_spot_check": "The first participant, fear/restroom/contact sequence and hard cut to the second participant's shopping, student and Shandong exchange align in order."
+      },
+      "mikey-youtube-video-045": {
+        "formal_target_exists": true,
+        "formal_transcript_hash_matches_source_index": true,
+        "media_duration_difference_seconds": 0.046598,
+        "independent_12_character_shingle_containment": 0.607903,
+        "ordered_alignment_spot_check": "The compliment, filming question, coffee rescheduling, WeChat request, age discussion, Chengdu-stay question and final request align in order."
+      }
+    },
+    "new_source_screening": {
+      "mikey-youtube-video-042": {
+        "formal_sources_screened": 202,
+        "maximum_12_character_shingle_containment": 0.008071,
+        "nearest_source": "mikey-approach-022",
+        "shared_shingles": 19,
+        "target_shingles": 2354,
+        "decision": "new",
+        "reason": "The nearest formal source shares only short approach-language fragments and does not reproduce the four-signal teaching sequence or edited example order."
+      }
+    }
+  },
+  "resolved_validation_findings": [
+    {
+      "stable_id": "mikey-youtube-video-041",
+      "finding": "The automatic transcript ends at 599.02 seconds while the audited media ends at 583.70322 seconds.",
+      "resolution": "The existing research package already caps semantic coverage and its final timeline at 583.70322 seconds, excludes S00335-S00361, and no claim cites those tail segments. No file correction was required."
+    },
+    {
+      "stable_id": "mikey-youtube-video-041",
+      "finding": "Independent all-position 12-character shingle normalization produced 0.411813 containment rather than the 0.403131 value recorded in content-dedup.json.",
+      "resolution": "The small normalization-method difference does not change the reuse decision: media durations differ by only 0.022222 seconds and the complete distinctive event and coaching sequence aligns. The original audit metric is preserved rather than overwritten."
+    }
+  ],
+  "open_research_limits": {
+    "review_items_by_severity": {
+      "blocking": 13,
+      "major": 24
+    },
+    "summary": "Duplicate weighting, filming and publication consent, unresolved adulthood, personal-space and withdrawal cues, contact voluntariness, non-diarized turns, gender or regional generalizations, identifiable bystanders and unverified outcomes remain restricted. These are content-use limits rather than blockers to research-package validation."
+  },
+  "permissions": {
+    "formal_mikey_guide_modified": false,
+    "formal_integration_approved": false,
+    "raw_media_deletion_authorized": false,
+    "short_01_started": false
+  }
+}

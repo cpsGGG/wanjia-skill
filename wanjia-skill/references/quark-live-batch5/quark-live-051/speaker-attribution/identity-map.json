@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "source_id": "quark-live-051",
+  "status": "identity_mapped_high_confidence",
+  "review_method": {
+    "primary": "4 fps sequential frames from contiguous 00:13:37–00:13:52, synchronized against transcript S00440–S00445",
+    "secondary": [
+      "2–4 fps sequential frame mosaics over every k001–k007 evidence interval",
+      "visual face comparison with quark-live-050 single-speaker Mikey frame"
+    ],
+    "limitations": [
+      "Frame sequences are sampled from contiguous intervals; they are not claimed as continuous audiovisual playback.",
+      "No formal voiceprint or A/B diarization artifact was available; no acoustic identity claim is made."
+    ]
+  },
+  "people": [
+    {
+      "person_id": "mikey",
+      "screen_position": "viewer-right",
+      "visual_description": "黑色高领上衣、较长侧分头发；靠近画面右侧前景",
+      "identity": "Mikey",
+      "confidence": "high",
+      "basis": [
+        {
+          "type": "explicit_self_identification",
+          "sid_range": [
+            "S00440",
+            "S00442"
+          ],
+          "time_range": [
+            818.69,
+            825.23
+          ],
+          "observation": "画面右侧人物在“哈喽兄弟们我是Mikey”及随后“他是我们的Tinder King”介绍中持续张口发言，画面左侧人物低头/安静。"
+        },
+        {
+          "type": "known_single_speaker_visual_anchor",
+          "source_id": "quark-live-050",
+          "observation": "051画面右侧人物与050单人直播中的Mikey外貌一致。"
+        }
+      ]
+    },
+    {
+      "person_id": "guest_tinder_king",
+      "screen_position": "viewer-left",
+      "visual_description": "黑色西装外套、短发；靠近画面左侧麦克风后方",
+      "identity": "Tinder王／Tinder King（嘉宾）",
+      "confidence": "high",
+      "basis": [
+        {
+          "type": "deictic_introduction",
+          "sid_range": [
+            "S00441",
+            "S00445"
+          ],
+          "time_range": [
+            820.39,
+            831.23
+          ],
+          "observation": "Mikey自称后用“他”介绍Tinder King；同时左侧人物未发言，构成被介绍对象。"
+        }
+      ]
+    }
+  ],
+  "diarization_mapping": {
+    "artifact_present": false,
+    "mapping": null,
+    "note": "transcript.json明确标为not_diarized；不存在可供映射的A/B标签。若后续生成A/B分离，必须以本身份锚点重新映射。"
+  },
+  "identity_anchor_artifacts": [
+    "working/identity-01.jpg",
+    "working/identity-02.jpg",
+    "working/identity-03.jpg"
+  ]
+}

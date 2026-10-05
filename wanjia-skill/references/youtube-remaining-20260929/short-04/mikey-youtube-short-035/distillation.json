@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-035",
+  "youtube_id": "yu4M9Pjy79k",
+  "title": "線下教學展示 如何轉場收尾？一定是需要滿足這些前提條件的丨愛情丨約會丨搭訕丨情感丨戀愛丨dating in china #shorts",
+  "coverage": {
+    "transcript_segments_read": 32,
+    "transcript_time_range_seconds": [0.0, 58.5],
+    "semantic_media_range_seconds": [0.0, 58.630385],
+    "sampled_frames_reviewed": 20,
+    "continuous_original_audio_visual_review": false,
+    "excluded_asr_tail": null
+  },
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 9.48,
+      "summary": "The instructor says that after building attraction and a sense of safety, the next stage is what he calls compliance testing and accumulation; the automatic transcript renders the term as 浮层性."
+    },
+    {
+      "start": 9.48,
+      "end": 21.06,
+      "summary": "He says the purpose is to estimate the woman's interest and remaining safety concern, and gives hand-holding as a test."
+    },
+    {
+      "start": 21.06,
+      "end": 28.02,
+      "summary": "He treats acceptance of touch, including the waist, as support for proposing that she go to his home, while advising against stating the destination without a reason."
+    },
+    {
+      "start": 28.02,
+      "end": 43.02,
+      "summary": "He offers playing PS5, named video games or watching Crayon Shin-chan as reasons for going home."
+    },
+    {
+      "start": 43.02,
+      "end": 58.630385,
+      "summary": "He claims almost any non-contrived reason will be accepted if attraction was built, attributes refusal or a request for explanation to insufficient attraction, and the edit cuts off mid-example."
+    }
+  ],
+  "claims": [
+    {
+      "claim_id": "s035-c01",
+      "speaker": "Mikey (channel/editorial attribution)",
+      "statement": "He presents hand-holding and other physical contact as tests for estimating whether a woman will accept a later transition to his home.",
+      "conditions": "Acceptance of one specific touch does not imply consent to waist contact, entering a home, sex or any later step; each step requires clear, voluntary and revocable agreement.",
+      "evidence": ["S00001-S00012@0.00-25.14"],
+      "use_level": "do_not_generalize"
+    },
+    {
+      "claim_id": "s035-c02",
+      "speaker": "Mikey (channel/editorial attribution)",
+      "statement": "He recommends attaching a benign activity such as playing PS5 or watching a cartoon to an invitation to go home rather than stating only the destination.",
+      "conditions": "The activity must be genuine and the private-home implication must not be obscured; a pretext cannot be used to bypass informed choice or pressure someone into a private space.",
+      "evidence": ["S00013-S00023@25.14-43.02"],
+      "use_level": "do_not_generalize"
+    },
+    {
+      "claim_id": "s035-c03",
+      "speaker": "Mikey (channel/editorial attribution)",
+      "statement": "He claims that when attraction is established, almost any non-contrived invitation reason will be accepted, and that failure to transition means attraction was not built well enough.",
+      "conditions": "This is an unsupported causal and mind-reading generalization. A person may decline or ask why for any reason, and that response must be accepted without diagnosing insufficient attraction.",
+      "evidence": ["S00024-S00032@43.02-58.50"],
+      "use_level": "do_not_generalize"
+    }
+  ],
+  "speaker_attribution": [
+    {
+      "speaker": "Mikey (channel/editorial attribution)",
+      "basis": "One visible instructor speaks throughout in a channel-branded Short; no independent identity marker or parent recording was located."
+    }
+  ],
+  "visual_findings": [
+    "All 20 sampled frames show the same black-shirt instructor seated in one room with a laptop and editorial subtitles.",
+    "No woman, date, hand-holding, waist contact, home transition, consent/refusal event or outcome is visually demonstrated.",
+    "The edit ends during an unfinished verbal example, so the response branch and surrounding teaching context are missing."
+  ],
+  "permissions": {
+    "formal_integration": false,
+    "first_person_allowed": false,
+    "action_advice_allowed": false,
+    "use_level": "reuse_zero_weight_do_not_generalize",
+    "reason": "The usable method is already covered by formal sources; the clip also operationalizes escalating touch and entry into a private home from inferred attraction, uses a potentially obscuring pretext and supplies no recipient or outcome evidence."
+  },
+  "limitations": [
+    "The automatic transcript likely misrecognizes 服从性测试 as 浮层性测试 and other game/cartoon names; no original-audio listening check was performed.",
+    "The Short is cut from a longer teaching context and ends mid-sentence.",
+    "Sparse frames do not constitute continuous audio-visual review, and the parent recording remains unlocated."
+  ]
+}

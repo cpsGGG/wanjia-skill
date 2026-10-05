@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-041",
+  "youtube_id": "OQt6E24FTqc",
+  "decision": "reuse",
+  "reuse_of": "mikey-sijiao-008",
+  "formal_weight_if_integrated": 0,
+  "compared_sources": [
+    {
+      "scope": "formal_mikey_guide",
+      "source_count": 202,
+      "comparison": "youtube_id_url_targeted_normalized_fulltext_and_visual_sequence"
+    },
+    {
+      "source_id": "mikey-sijiao-008",
+      "title": "你的搭讪有一致性么",
+      "comparison": "full transcript, complete event order, episode analysis and formal visual review"
+    }
+  ],
+  "evidence": [
+    {
+      "type": "identity",
+      "result": "different_public_identity_but_same_underlying_recording",
+      "basis": "The formal private-coaching source has no public YouTube ID; video-05 identity precheck found no exact formal ID or URL overlap."
+    },
+    {
+      "type": "normalized_fulltext",
+      "target_segments": 361,
+      "target_normalized_chars": 2566,
+      "target_normalized_sha256": "a22700d454cba6f943f6942dd18f838ce4f104f5a679410fdec07fb31bebf028",
+      "formal_target_segments": 299,
+      "target_12_character_shingle_containment_in_formal_source": 0.403131,
+      "note": "Different ASR passes and segmentation reduce literal overlap; long ordered passages and every major event align."
+    },
+    {
+      "type": "ordered_content_alignment",
+      "result": "same_recording",
+      "basis": "Both run through the same first approach and age/travel exchange; hotel review of an appeasing voice; repeated request-for-WeChat playback; sales/flyer interpretation; second approach with Chongqing/Guangzhou and distance feedback; controllable versus involuntary expression; third approach; friend-leaving tease; and final iced-Americano/directive-voice exercise in the same order and near-identical timing."
+    },
+    {
+      "type": "duration",
+      "target_media_seconds": 583.70322,
+      "formal_source_covered_seconds": 583.7,
+      "result": "same_duration"
+    },
+    {
+      "type": "visual_scope",
+      "result": "same_field_and_hotel_review_structure",
+      "basis": "All 13 sampled frames were reviewed. They show the same mall approaches followed by a hotel-room laptop review with Mikey and a blurred student described in the formal visual review."
+    }
+  ],
+  "boundary": "Preserve this public YouTube upload as a URL and alternate evidence pointer only. It is the same underlying recording as mikey-sijiao-008 and must add zero source, claim, example or outcome weight."
+}

@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-020",
+  "youtube_id": "6B1DNRjY4mE",
+  "decision": "reuse",
+  "reuse_of": "mikey-youtube-live-025",
+  "formal_weight_if_integrated": 0,
+  "compared_sources": [
+    {
+      "scope": "formal_mikey_guide",
+      "source_count": 202,
+      "comparison": "YouTube identity, distinctive phrase search and normalized transcript alignment"
+    },
+    {
+      "scope": "researched_video-01_to_video-05_and_short-01",
+      "comparison": "distinctive transcript phrases and known reuse ledgers"
+    },
+    {
+      "scope": "targeted_formal_source",
+      "source_id": "mikey-youtube-live-025",
+      "comparison": "ordered alignment against S00914-S00929 and S00943-S00997"
+    }
+  ],
+  "evidence": [
+    {
+      "type": "identity",
+      "result": "different_youtube_id_but_edited_excerpt",
+      "short_youtube_id": "6B1DNRjY4mE",
+      "formal_youtube_id": "dSYHWDUlQ4I"
+    },
+    {
+      "type": "normalized_text_alignment",
+      "result": "reuse_confirmed",
+      "formal_source_id": "mikey-youtube-live-025",
+      "formal_evidence": ["S00914-S00929@2304.72-2365.42", "S00943-S00997@2419.18-2580.65"],
+      "matching_characters": 727,
+      "short_normalized_characters": 761,
+      "short_character_coverage": 0.9553,
+      "basis": "The Short joins two ordered portions of the same formal livestream, removing S00930-S00942 promotional and stock-trading chatter."
+    },
+    {
+      "type": "corpus_phrase_search",
+      "result": "only_target_formal_transcript_matched",
+      "phrases": ["阿尔法跟希格玛的差别在哪", "无法说no的那种感觉", "红色感叹号开始报警了"]
+    },
+    {
+      "type": "visual_review",
+      "result": "single_livestream_speaker_with_burned_in_subtitles",
+      "basis": "All 49 sampled frames show the same livestream speaker and set. No independent example media or second speaker is introduced."
+    }
+  ],
+  "boundary": "Treat the Short as an edited reuse of mikey-youtube-live-025. If ever integrated, assign zero source and knowledge weight and preserve the source's blocking consent/coercion restriction."
+}

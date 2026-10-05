@@ -1,0 +1,56 @@
+{
+  "schema_version": "1.0",
+  "source_id": "mikey-youtube-live-038",
+  "speakers": [
+    {
+      "id": "mikey",
+      "role": "host/commentator",
+      "status": "confirmed",
+      "identity_basis": "频道直播由Mikey主持；他负责串场、评论并朗读屏幕材料。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=014QMRiYY28"
+      ],
+      "notes": "只有其明确评论和方法判断可归为Mikey；朗读第三方帖子、截图和私信不等于内容作者。"
+    },
+    {
+      "id": "viewer-question-collective",
+      "role": "collective live-chat author(s)",
+      "status": "collective_placeholder",
+      "identity_basis": "直播观众通过实时评论提问和提供线索。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=014QMRiYY28"
+      ],
+      "notes": "身份和线索真实性未逐条核验。"
+    },
+    {
+      "id": "third-party-post-authors",
+      "role": "authors of displayed screenshots/posts/chats",
+      "status": "mixed_unverified",
+      "identity_basis": "主持人展示并朗读团队群聊、朋友圈、招聘页等外部材料；作者和真伪未独立确认。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=014QMRiYY28"
+      ],
+      "notes": "这些材料中的陈述是第三方指控或自述，不得写成Mikey亲历或已证实事实。"
+    },
+    {
+      "id": "played-media-voices",
+      "role": "voices from played third-party videos",
+      "status": "mixed_not_diarized",
+      "identity_basis": "约0–7分钟及48–76分钟播放外部频道片段，自动稿混入多名外部说话者。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=014QMRiYY28"
+      ],
+      "notes": "未完成逐句说话人分离；外部台词不得作为Mikey明确观点。"
+    },
+    {
+      "id": "private-message-authors",
+      "role": "authors of relayed private messages",
+      "status": "mixed_private_third_parties",
+      "identity_basis": "约90–100分钟主持人口头朗读其社交平台私信并查看第三方主页。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=014QMRiYY28"
+      ],
+      "notes": "私信、头像、照片和主页评价均涉及第三方隐私；不进入通用人物知识。"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-021",
+  "youtube_id": "UQzx50-eHZE",
+  "title": "自信才是男人涅槃重生的唯一方法丨約會丨把妹丨情感丨戀愛丨約炮丨短期關係丨長期關係丨dating in china",
+  "coverage": {
+    "transcript_segments_read": 338,
+    "transcript_time_range_seconds": [0.0, 515.72],
+    "sparse_frames_reviewed": 12,
+    "dense_frames_reviewed": 0,
+    "dense_windows_required_seconds": [],
+    "continuous_original_audio_visual_review": false
+  },
+  "timeline": [
+    {"start": 0.0, "end": 44.84, "summary": "Mikey introduces confidence as the central issue and says common methods confuse confidence with externally rewarded performance."},
+    {"start": 41.42, "end": 157.36, "summary": "He rejects confidence based on money, cars, an attractive partner or women's responses because comparison and rejection can remove it."},
+    {"start": 157.36, "end": 277.22, "summary": "He rejects acting confident merely to obtain clients, dates or sex, and argues that outcome-dependent performance still leaves the person controlled by results."},
+    {"start": 273.54, "end": 325.20, "summary": "He defines real confidence as an intrinsic entitlement or baseline state that should not depend on achievement or permission."},
+    {"start": 324.92, "end": 427.58, "summary": "Sales and poker examples illustrate that confidence does not prevent failure but supposedly speeds recovery, learning and renewed attempts."},
+    {"start": 426.06, "end": 482.72, "summary": "He attributes suppressed confidence to conditional approval in childhood and social conditioning, then says no additional qualification is needed to reclaim it."},
+    {"start": 481.48, "end": 515.72, "summary": "He closes with a spiritual analogy and promotion for his service."}
+  ],
+  "claims": [
+    {"claim_id": "v021-c01", "speaker": "Mikey", "statement": "Confidence based mainly on money, status objects, a partner's attractiveness or other people's approval is vulnerable to comparison and rejection.", "conditions": "A reflection model rather than a measurement; external resources and social feedback can still affect safety and opportunity.", "evidence": ["S00024-S00102@41.42-157.36"], "use_level": "context_only", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v021-c02", "speaker": "Mikey", "statement": "Performing confident behavior only to secure a sale, date or sexual outcome leaves self-worth dependent on the outcome.", "conditions": "The behavioral observation is separable from his inaccurate use of a clinical personality label.", "evidence": ["S00103-S00171@157.36-277.22"], "use_level": "context_only", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v021-c03", "speaker": "Mikey", "statement": "He defines real confidence as an unconditional inner entitlement present before achievement, comparison or external permission.", "conditions": "This is his philosophical definition, not an established psychological construct.", "evidence": ["S00171-S00206@273.54-325.20"], "use_level": "hold", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v021-c04", "speaker": "Mikey", "statement": "Confidence does not guarantee success; its proposed value is recovering from failure, extracting feedback and trying again.", "conditions": "Plausible as a process description, but the video supplies anecdotes rather than comparative evidence.", "evidence": ["S00206-S00283@324.92-427.58"], "use_level": "context_only", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v021-c05", "speaker": "Mikey", "statement": "He uses sales and poker to argue that repeated losses are survivable when they are treated as feedback rather than a verdict on self-worth.", "conditions": "Examples are illustrative and do not establish causal effects or optimal risk-taking.", "evidence": ["S00220-S00283@344.38-427.58"], "use_level": "context_only", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v021-c06", "speaker": "Mikey", "statement": "Conditional love and approval in childhood are presented as a major mechanism by which people learn that worth must be earned.", "conditions": "Broad developmental claim with no history-taking, diagnosis or cited research.", "evidence": ["S00283-S00317@426.06-482.72"], "use_level": "hold", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v021-c07", "speaker": "Mikey", "statement": "He says confidence needs no training or external acquisition and only needs to be released from social constraints.", "conditions": "This conflicts with formal-source material describing confidence as built through small actions and feedback; neither formulation should be treated as universally sufficient.", "evidence": ["S00178-S00206@284.52-325.20", "S00300-S00317@453.36-482.72"], "use_level": "hold", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v021-c08", "speaker": "Mikey", "statement": "He uses the phrase 'act with confidence and do not ask the future' to recommend acting without making self-worth contingent on the result.", "conditions": "Retain only as a motivational framing; it does not justify ignoring consequences, consent, law or risk.", "evidence": ["S00317-S00338@481.48-515.72"], "use_level": "context_only", "knowledge_status": "hold_pending_independent_review"}
+  ],
+  "examples": [
+    {"example_id": "v021-e01", "summary": "A person who feels confident because of a car or attractive partner is contrasted with someone who remains stable when a higher-status rival appears.", "evidence": ["S00039-S00082@63.74-130.58"]},
+    {"example_id": "v021-e02", "summary": "A salesperson and a poker player are used to distinguish failing at one attempt from losing the willingness to continue.", "evidence": ["S00220-S00283@344.38-427.58"]}
+  ],
+  "speaker_attribution": [
+    {"speaker": "Mikey", "basis": "Single continuous on-camera narrator; introduction identifies him and no interview participant speaks."},
+    {"speaker": "illustrative people", "basis": "Money, car, distressed-man, incense and Buddha imagery are editorial inserts and do not provide independent testimony."}
+  ],
+  "visual_findings": [
+    "All 12 sampled frames were reviewed. The video is dominated by the same host speaking to camera, with money, car, distressed-person and spiritual illustrative inserts.",
+    "No chat, document, experiment result or second speaker appears in the sampled frames; the imagery does not independently validate the psychological claims.",
+    "No targeted dense visual window was required because the argument is carried by the narration rather than small on-screen evidence."
+  ],
+  "permissions": {
+    "formal_integration": false,
+    "first_person_allowed": false,
+    "action_advice_allowed": false,
+    "knowledge_status": "hold_pending_independent_review",
+    "reason": "The source offers a coherent but largely philosophical confidence model, contains an inaccurate clinical label and conflicts with existing action-feedback formulations."
+  },
+  "limitations": [
+    "Automatic transcript was not checked word-for-word against original audio; exact quotations require listening verification.",
+    "Twelve sparse frames do not equal continuous full-video audio-visual verification.",
+    "The video cites no psychological research and does not distinguish ordinary insecurity from mental-health conditions.",
+    "Its 'no training needed' claim is unresolved against formal material that links confidence to action and feedback."
+  ]
+}

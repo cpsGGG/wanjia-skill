@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-022",
+  "youtube_id": "siSEYCLz4ww",
+  "review_completed": true,
+  "items": [
+    {
+      "review_id": "s022-r01",
+      "severity": "major",
+      "category": "source_reuse",
+      "issue": "This is the same Short content as short-019 and an edited excerpt of quark-live-046.",
+      "affected_evidence": ["whole source"],
+      "disposition": "Keep formal weight at zero and preserve the formal parent's restrictions."
+    },
+    {
+      "review_id": "s022-r02",
+      "severity": "major",
+      "category": "gender_generalization",
+      "issue": "The speaker presents a fixed chain of what women supposedly infer from people-pleasing.",
+      "affected_evidence": ["S00013-S00024"],
+      "disposition": "Treat it as his interpretation, not established psychology or a rule for reading another person's motives."
+    },
+    {
+      "review_id": "s022-r03",
+      "severity": "major",
+      "category": "demeaning_language",
+      "issue": "The clip compares a person who pleases others to a dog or non-person.",
+      "affected_evidence": ["S00044-S00049"],
+      "disposition": "Do not reproduce or normalize the dehumanizing comparison as guidance."
+    },
+    {
+      "review_id": "s022-r04",
+      "severity": "major",
+      "category": "relationship_control",
+      "issue": "Terms such as command, leadership and control can be misread as permission to dominate another person.",
+      "affected_evidence": ["S00066-S00075"],
+      "disposition": "Limit any summary to self-control and calmness; it grants no authority over another person."
+    }
+  ]
+}

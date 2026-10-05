@@ -1,0 +1,95 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-037",
+  "youtube_id": "EqbzKgXKNC4",
+  "title": "真实搭讪，正妹疯狂大笑丨爱情丨约会丨搭讪丨情感丨恋爱丨dating in china#shorts",
+  "coverage": {
+    "transcript_segments_read": 31,
+    "transcript_time_range_seconds": [0.0, 46.28],
+    "semantic_media_range_seconds": [0.0, 46.347029],
+    "sampled_frames_reviewed": 15,
+    "continuous_original_audio_visual_review": false,
+    "excluded_asr_tail": null
+  },
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 8.7,
+      "summary": "A male camera operator greets a woman, directly asks for her WeChat, calls her cute and asks her age."
+    },
+    {
+      "start": 8.7,
+      "end": 16.9,
+      "summary": "The automatic transcript renders her age response unclearly as '我做01'; she laughs and comments that he is funny or very serious."
+    },
+    {
+      "start": 16.9,
+      "end": 29.3,
+      "summary": "They exchange fragmented remarks about being alone, her being attractive, his usually being funny and his willingness to talk more actively on WeChat."
+    },
+    {
+      "start": 29.3,
+      "end": 41.28,
+      "summary": "She laughs, a phone is handled close to the camera and the transcript contains a request to add a contact, followed by thanks."
+    },
+    {
+      "start": 41.28,
+      "end": 46.347029,
+      "summary": "The male operator says they can go out sometime; she says yes, and both say goodbye."
+    }
+  ],
+  "claims": [
+    {
+      "claim_id": "s037-c01",
+      "speaker": "male camera operator (editorially presented as Mikey)",
+      "statement": "He uses a direct greeting, asks for WeChat, compliments the participant and asks her age.",
+      "conditions": "One edited encounter does not establish that this sequence is broadly effective; age must be clearly verified before any sexual or private-space context.",
+      "evidence": ["S00001-S00007@0.00-10.80"],
+      "use_level": "hold"
+    },
+    {
+      "claim_id": "s037-c02",
+      "speaker": "male camera operator and visible participant",
+      "statement": "They engage in a playful, fragmented exchange in which she laughs and he says he can be more active in WeChat conversation.",
+      "conditions": "Laughter and continued conversation do not prove attraction, comfort with filming or consent to anything beyond the current exchange.",
+      "evidence": ["S00008-S00021@13.00-31.50"],
+      "use_level": "context_only"
+    },
+    {
+      "claim_id": "s037-c03",
+      "speaker": "male camera operator and visible participant",
+      "statement": "A phone interaction occurs, followed by thanks, a suggestion to go out sometime, a brief affirmative reply and mutual goodbye.",
+      "conditions": "The sampled frames do not reveal the account or prove successful contact exchange, and a casual '好' is not proof that a later meeting occurred.",
+      "evidence": ["S00022-S00031@31.50-46.28"],
+      "use_level": "context_only"
+    }
+  ],
+  "speaker_attribution": [
+    {
+      "speaker": "male camera operator (editorially presented as Mikey)",
+      "basis": "The Short is channel-branded and shot from first person, but the operator is not visible and no parent source was found."
+    },
+    {
+      "speaker": "visible participant",
+      "basis": "One woman in a black dress is visible throughout; automatic ASR and editorial subtitles support but do not fully resolve every short turn."
+    }
+  ],
+  "visual_findings": [
+    "All 15 sampled frames show the same woman in a black dress near a large illuminated street display; another woman is briefly visible at the edge early in the clip.",
+    "The participant smiles or laughs in several sampled frames and holds a phone; frames 11-13 show close phone handling, with later frames blurred to conceal details.",
+    "No readable contact account, verified age, filming authorization, later conversation or meeting outcome is shown."
+  ],
+  "permissions": {
+    "formal_integration": false,
+    "first_person_allowed": false,
+    "action_advice_allowed": false,
+    "use_level": "hold",
+    "reason": "This is an edited identifiable street encounter with uncertain authorization, ambiguous age wording, unverified operator identity and no confirmed downstream outcome."
+  },
+  "limitations": [
+    "The age response and several rapid speaker turns are unclear in automatic ASR and were not checked against original audio.",
+    "Sparse three-second frames cannot establish the full approach path, contact operation, editing omissions or continuous body-language response.",
+    "The title's '疯狂大笑' is promotional framing and does not establish why she laughed or what she felt.",
+    "The parent recording and participant authorization remain unknown."
+  ]
+}

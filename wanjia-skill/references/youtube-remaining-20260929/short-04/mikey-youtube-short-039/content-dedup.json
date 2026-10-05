@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-039",
+  "youtube_id": "60HetHyw-tA",
+  "decision": "reuse",
+  "reuse_of": "formal_direct_contact_exchange_cluster",
+  "formal_weight_if_integrated": 0,
+  "compared_sources": [
+    {"scope": "formal_mikey_guide_202_sources", "comparison": "exact ID/URL, distinctive transcript phrases, direct-contact-exchange semantics"},
+    {"scope": "youtube_pipeline_video_01_to_05_and_short_01_to_03", "comparison": "exact ID/URL, transcript and semantic reuse screen"},
+    {"scope": "formal_semantic_sources", "source_ids": ["quark-live-022", "mikey-approach-027", "mikey-practice-005"], "comparison": "direct request for WeChat, brief recovery after startling someone, and light origin/travel questions"}
+  ],
+  "evidence": [
+    {"type": "identity", "result": "no_exact_id_or_url_match"},
+    {"type": "transcript", "result": "no_exact_parent_excerpt_located", "basis": "The exact full sequence was not found, although formal quark-live-022 contains the same direct WeChat-request wording and related startled-recipient examples."},
+    {"type": "semantic_reuse", "result": "already_represented", "basis": "Directly asking for contact, acknowledging a startled reaction, and asking where someone is from are already represented in formal teaching and approach cases."},
+    {"type": "visual", "result": "single_contact_exchange_excerpt", "basis": "All 9 sampled frames show one roadside exchange and phone use; no later conversation or relationship outcome is shown."}
+  ],
+  "boundary": "Keep as a zero-weight edited case. It may illustrate an already-known sequence but is not independent method support."
+}

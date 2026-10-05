@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-013",
+  "youtube_id": "NDYxxv5Tjoo",
+  "review_completed": true,
+  "items": [
+    {"review_id": "v013-r01", "severity": "blocking_for_external_fact", "issue": "The opening undercover report, training company, publication date and alleged reverse-advertising comment response are not identified in the transcript.", "affected_evidence": ["S00003-S00030", "sampled frames 000001-000004"], "disposition": "Require the original report and comment evidence before treating the event as fact; otherwise attribute only to Mikey."},
+    {"review_id": "v013-r02", "severity": "major", "issue": "Edited collages contain multiple small third-party social posts and chats whose authorship, order and wording cannot be recovered from sparse frames.", "affected_evidence": ["sampled frames 000002, 000004, 000011"], "disposition": "Densify 0-70 and 410-480 seconds if visual citations are needed; do not reconstruct missing text or expose private identifiers."},
+    {"review_id": "v013-r03", "severity": "major", "issue": "The argument generalizes from selected online examples to a society-wide fall in tolerance, media incentives and gendered power.", "affected_evidence": ["S00060-S00198", "S00306-S00369"], "disposition": "Keep macro-causal claims on hold pending representative data and independent sources."},
+    {"review_id": "v013-r04", "severity": "blocking_for_action_advice", "issue": "Defending the legitimacy of learning dating skills could be misread as endorsing any tactic taught by a commercial provider.", "affected_evidence": ["S00209-S00305", "S00412-S00430"], "disposition": "Separate skill learning from deception, manipulation, pressure and consent violations; do not recommend the unidentified company or course."},
+    {"review_id": "v013-r05", "severity": "major", "issue": "The video sometimes places clumsy pursuit, screenshot exposure and harassment accusations in one causal chain.", "affected_evidence": ["S00122-S00179"], "disposition": "Preserve the distinction between awkwardness, rejection, boundary crossing and harassment; tolerance for awkwardness does not reduce consent requirements."},
+    {"review_id": "v013-r06", "severity": "major", "issue": "Claims about men's motives, women's standards and the dating market use broad gender categories and moral language.", "affected_evidence": ["S00031-S00050", "S00455-S00502"], "disposition": "Do not generalize to all men or women; use only as Mikey's cultural critique after independent review."},
+    {"review_id": "v013-r07", "severity": "minor", "issue": "ASR corrupts several important phrases and platform terms.", "affected_evidence": ["throughout, especially S00001-S00030 and S00388-S00402"], "disposition": "Listen to original audio before exact quotation or naming the underlying event."}
+  ]
+}

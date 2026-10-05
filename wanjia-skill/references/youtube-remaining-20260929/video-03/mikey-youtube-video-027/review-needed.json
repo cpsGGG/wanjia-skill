@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-027",
+  "youtube_id": "uIiEXJAGugY",
+  "review_completed": true,
+  "items": [
+    {"review_id": "v027-r01", "severity": "blocking_for_case_fact", "issue": "The source attributes private motives, attraction and relationship hierarchy to identifiable public figures.", "affected_evidence": ["S00217-S00297", "visual/dense-public-posts-270-430/"], "disposition": "Attribute to Mikey and keep unverified; do not present as facts about the named people."},
+    {"review_id": "v027-r02", "severity": "major", "issue": "Selected posts and short interview clips are treated as proof of hidden intent even though the full threads, dates, responses and edit context are incomplete.", "affected_evidence": ["S00217-S00297", "dense frames 000014-000032"], "disposition": "Use the frames only to document what was displayed; require original posts and full context for factual interpretation."},
+    {"review_id": "v027-r03", "severity": "major", "issue": "The video equates calmness, commanding language and partner deference with legitimate authority and attraction.", "affected_evidence": ["S00182-S00216", "S00217-S00297"], "disposition": "Do not convert hierarchy or silencing into relationship advice; retain only the narrow self-regulation theme."},
+    {"review_id": "v027-r04", "severity": "major", "issue": "Claims that women submit to stronger people, attack weaker people and admire cognitive strength are broad unsupported gender generalizations.", "affected_evidence": ["S00258-S00297", "S00351-S00379"], "disposition": "Keep as Mikey's model only; do not generalize to women or an individual."},
+    {"review_id": "v027-r05", "severity": "major", "issue": "Student testimonial screenshots are used near claims about course-related change, but authorship, consent, completeness and outcomes are not verified.", "affected_evidence": ["S00182-S00216", "dense frames 000005-000006"], "disposition": "Treat as promotional self-report and do not use as effect evidence."},
+    {"review_id": "v027-r06", "severity": "major", "issue": "The resource-to-problem-solving inference assigns causal credit to the director without production records or comparison.", "affected_evidence": ["S00298-S00350"], "disposition": "Retain the abstract distinction; keep the named-case application speculative."},
+    {"review_id": "v027-r07", "severity": "minor", "issue": "ASR corrupts names, 'rapper', 'strong behavior signals' and several sentences.", "affected_evidence": ["throughout"], "disposition": "Paraphrase; listen before exact quotation."}
+  ]
+}

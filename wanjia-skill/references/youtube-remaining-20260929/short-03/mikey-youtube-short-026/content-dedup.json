@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-026",
+  "youtube_id": "npeClmMFzdE",
+  "decision": "reuse",
+  "formal_weight_if_integrated": 0,
+  "compared_sources": [
+    {
+      "scope": "formal_mikey_guide",
+      "source_count": 202,
+      "comparison": "id/url, normalized 8-character transcript shingles and semantic screen"
+    },
+    {
+      "scope": "remaining_video_batches_01_05_short_01_02_and_other_short_03_items",
+      "source_count": 72,
+      "comparison": "id/url, normalized transcript shingles and semantic screen"
+    },
+    {
+      "source_id": "quark-live-046",
+      "comparison": "same parent livestream passages; 395 of 593 normalized 8-character shingles match, including the 'human bottom-level code' and 'logically dislike, emotionally like' sequences"
+    }
+  ],
+  "evidence": [
+    {
+      "type": "identity",
+      "result": "no_exact_id_or_url_match"
+    },
+    {
+      "type": "transcript",
+      "result": "same_passage_match",
+      "basis": "The Short preserves passages from formal quark-live-046 around 5420-5436 and 5969-5989 seconds, with intervening edits. No other screened source has material overlap."
+    },
+    {
+      "type": "visual",
+      "result": "single_host_excerpt",
+      "basis": "All 46 sampled frames show one black-shirt speaker in one dark setting with editorial subtitles; there is no depicted woman, interaction or outcome."
+    }
+  ],
+  "boundary": "Reuse formal quark-live-046. The Short is an edited excerpt and must carry zero independent formal weight."
+}

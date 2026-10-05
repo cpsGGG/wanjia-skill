@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-005",
+  "youtube_id": "vA3vZJa00qM",
+  "decision": "new",
+  "compared_sources": [
+    {
+      "scope": "formal_mikey_guide",
+      "source_count": 202,
+      "comparison": "youtube_id, URL, normalized full-transcript SHA-256 and 12-character shingle screening across every transcript referenced by source-index.json"
+    }
+  ],
+  "evidence": [
+    {
+      "type": "identity",
+      "result": "no_exact_formal_youtube_id_or_url_overlap",
+      "basis": "The current 202-source formal source-index contains neither vA3vZJa00qM nor its YouTube URL."
+    },
+    {
+      "type": "normalized_fulltext",
+      "target_segments": 343,
+      "target_time_range_seconds": [0.0, 498.8],
+      "target_normalized_chars": 3082,
+      "target_normalized_sha256": "7cb54e780dbf7b7915e18d534db7bbed09382c4be0391ed48209dcf53e607534",
+      "formal_transcripts_checked": 202,
+      "exact_matches": [],
+      "maximum_12_character_shingle_overlap": null
+    },
+    {
+      "type": "distinctive_phrase_screening",
+      "queries": [
+        "索取逻辑",
+        "把这个女人给特殊化",
+        "女人喜欢的是最初的那个你",
+        "通过加钱可以解决问题",
+        "精神损失费"
+      ],
+      "result": "No phrase chain or transcript-level reuse was found. The short phrase 索取逻辑 also appears in mikey-youtube-live-039, but that live discusses it in a different segment and is not the same edited program."
+    },
+    {
+      "type": "visual_screening",
+      "result": "new_edit_no_whole_source_visual_match_established",
+      "basis": "Reviewed all 11 sampled JPGs and all 102 added five-second dense frames. The upload is a distinct narrated montage of public posts, news/article screenshots, celebrity images, film/TV clips and title cards; reused illustrative assets do not establish whole-video duplication."
+    }
+  ],
+  "boundary": "This establishes that the upload is not an exact whole-source reuse of the 202 formal sources. It does not make the celebrity allegations, monetary figures, court status, quoted posts or relationship interpretations true, and it does not exclude shorter stock-asset or thematic reuse."
+}

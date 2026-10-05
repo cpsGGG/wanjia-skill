@@ -1,0 +1,38 @@
+{
+  "source_id": "mikey-youtube-short-007",
+  "status": "preserved_not_indexed_timing_unreliable",
+  "time_alignment_verified": false,
+  "original_transcript": "references/untrimmed-transcripts/mikey-youtube-short-007/transcript.original.json",
+  "original_transcript_sha256": "0b8510acb2f58f111c0d33b1bff78f9bdb1be27245cc4a5311dda2cf0f198e76",
+  "original_research_transcript": "D:\\startup\\玩家.skill\\research\\youtube-all-remaining-pipeline\\integration-candidate\\references\\youtube-remaining-20260929\\short-01\\mikey-youtube-short-007\\transcript.json",
+  "media_duration_seconds": 39.984762,
+  "excluded_segments": [
+    {
+      "sid": "S00026",
+      "start": 40.02,
+      "end": 40.78,
+      "text": "你懂不懂"
+    },
+    {
+      "sid": "S00027",
+      "start": 40.78,
+      "end": 41.62,
+      "text": "你懂不懂"
+    },
+    {
+      "sid": "S00028",
+      "start": 41.62,
+      "end": 42.58,
+      "text": "你懂不懂"
+    }
+  ],
+  "crossing_segments_original": [
+    {
+      "sid": "S00025",
+      "start": 38.9,
+      "end": 40.02,
+      "text": "你懂不懂"
+    }
+  ],
+  "notice": "All original text is retained. Out-of-duration timestamps may be ASR hallucination or misalignment; no information-value verdict or permission upgrade follows from exclusion from the normal timed index."
+}

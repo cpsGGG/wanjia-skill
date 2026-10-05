@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-030",
+  "youtube_id": "RRkgTfaBsEI",
+  "decision": "new",
+  "compared_sources": [
+    {"scope": "formal_mikey_guide", "source_count": 202, "comparison": "youtube_id_url_normalized_fulltext_and_8_12_16_character_shingles"},
+    {"scope": "prior_remaining-video_research", "source_count": 25, "comparison": "normalized_fulltext_and_8_12_16_character_shingles"},
+    {"source_id": "mikey-gameshengjing-003", "title": "第三章 内在价值（女人最无法抗拒哪种男人）", "comparison": "self_internal-standard_boundaries_and_feedback-stability"},
+    {"source_id": "mikey-gameshengjing-017", "comparison": "player-agency_and_external-judgment_theme"},
+    {"source_id": "mikey-youtube-video-029", "comparison": "same-batch_NPC_player_agency_theme"}
+  ],
+  "evidence": [
+    {"type": "identity", "result": "no_exact_youtube_id_or_url_overlap", "basis": "video-03/identity-precheck.json and formal source-index"},
+    {"type": "normalized_fulltext", "target_normalized_chars": 3590, "target_sha256": "850a9a1f71849acbb94d69d8540ff007c6be5ccf92c3299a8f6a3121ec05c512", "formal_transcripts_checked": 202, "exact_matches": []},
+    {"type": "near_duplicate_screen", "method": "rolling_character_shingle_target_containment", "highest_formal_match": "mikey-youtube-live-013", "containment": {"8_chars": 0.0036363636, "12_chars": 0.002236511, "16_chars": 0.0011188811}, "result": "small phrase overlap only; no transcript-scale reuse"},
+    {"type": "prior_research_screen", "highest_match": "mikey-youtube-video-025", "containment": {"8_chars": 0.0005594406, "12_chars": 0.0, "16_chars": 0.0}, "result": "no transcript-scale reuse detected"},
+    {"type": "related_content", "formal_source_id": "mikey-gameshengjing-003", "result": "reuses the internal-standard and boundary framework but adds a four-part practice sequence and a 21-day challenge"}
+  ],
+  "boundary": "Count as a new research source pending independent review. Its self-agency material is partly additive, but film examples, universal claims and the 21-day transformation claim remain unsupported and must not receive extra confidence from thematic repetition."
+}

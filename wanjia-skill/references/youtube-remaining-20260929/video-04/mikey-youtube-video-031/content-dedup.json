@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-031",
+  "youtube_id": "kwMvehGwOU8",
+  "decision": "new",
+  "compared_sources": [
+    {"scope": "formal_mikey_guide", "source_count": 202, "comparison": "youtube_id_url_normalized_fulltext_and_12_character_shingles"},
+    {"source_id": "mikey-youtube-live-014", "comparison": "highest formal transcript overlap; only scattered wording about external approval and self"},
+    {"scope": "video_04_assigned_items", "comparison": "identity, title, normalized transcript and argument sequence"}
+  ],
+  "evidence": [
+    {"type": "identity", "result": "no_exact_youtube_id_or_url_overlap", "basis": "video-04 identity-precheck and formal source-index"},
+    {"type": "normalized_fulltext", "target_normalized_chars": 3370, "target_sha256": "6d5a6c52a7a7de10af76bc82eafa0f67f10fa201874e9905f57284a02ed7a4b5", "formal_transcripts_checked": 202, "exact_matches": []},
+    {"type": "near_duplicate_screen", "method": "12_character_shingle_containment", "highest_formal_containment": 0.005965, "highest_formal_source_id": "mikey-youtube-live-014", "result": "no transcript-scale reuse detected"},
+    {"type": "visual_scope", "result": "distinct_edited_monologue", "basis": "All 18 sampled frames show the host plus case, film, classroom, workplace and other illustrative inserts; no sequence establishes reuse of a formal episode."}
+  ],
+  "boundary": "Formal sources discuss confidence, self-direction, screening and external approval, but this upload builds a distinct subjectivity argument around named public examples. Thematic overlap is not duplication."
+}

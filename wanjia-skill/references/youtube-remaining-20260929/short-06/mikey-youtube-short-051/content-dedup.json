@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-051",
+  "youtube_id": "m-jwCMQU1uQ",
+  "decision": "new",
+  "reuse_of": null,
+  "formal_weight_if_integrated": 1,
+  "compared_sources": [
+    {"scope": "formal_mikey_guide_202_sources", "comparison": "exact ID/URL, normalized transcript, event sequence and visual identity"},
+    {"scope": "youtube_pipeline_video_01_to_05_and_short_01_to_05", "comparison": "exact ID/URL, normalized transcript and semantic reuse screen"},
+    {"source_id": "mikey-approach-009", "comparison": "full transcript, formal knowledge, sparse survey and 1fps key-window visual review; rejected as the parent recording"}
+  ],
+  "evidence": [
+    {"type": "identity", "result": "no_exact_identity_or_parent_recording_confirmed", "basis": "The Short has a distinct YouTube ID, and comparison with the proposed formal source mikey-approach-009 shows different participants, dialogue and scene sequence rather than a vertical edit of the same recording."},
+    {"type": "visual", "result": "mikey_approach_009_rejected_as_parent", "basis": "The Short shows a grey-top first participant, then a red-haired/white-top woman and a dark-top/white-skirt woman beside colorful wall and B-storefront scenery. The formal mikey-approach-009 survey instead shows two different women in beige/striped clothing, a white-shirt red-armband third party and different storefront framing. The black ESSENTIALS shirt and broad street setting are insufficient to establish the same recording."},
+    {"type": "event_sequence", "result": "distinct_recorded_encounter", "basis": "The Short contains an edited first departure, a switch to another group, travel/local-origin questions and a next-day departure. Formal mikey-approach-009 contains a different approach, an explicit refusal candidate, a red-armband intervention, model/coffee language and a hard cut to a promotional page."},
+    {"type": "transcript", "result": "no_parent_excerpt_confirmed", "basis": "Generic approach, WeChat and future-meeting language overlaps many formal cases, but the ordered Short dialogue about shopping, Chengdu/local origin, Jiangsu-Wuxi, being small, tourism and leaving the next day is not the mikey-approach-009 transcript."},
+    {"type": "prior_pipeline", "result": "no_exact_parent_confirmed", "basis": "No exact YouTube ID, URL or reviewed parent recording was established in the formal corpus or completed video/Short batches."}
+  ],
+  "boundary": "New only as a distinct research case in the processed corpus. This does not validate the title's lesson or prove that rejection was handled well. Do not treat phone handling as proof of contact exchange, consent, attraction or a later outcome, and do not attribute the field man to Mikey without independent identity evidence."
+}

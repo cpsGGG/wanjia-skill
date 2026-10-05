@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-032",
+  "youtube_id": "3nXm4bdpzLY",
+  "decision": "new",
+  "compared_sources": [
+    {"scope": "formal_mikey_guide", "source_count": 202, "comparison": "youtube_id_url_normalized_fulltext_and_12_character_shingles"},
+    {"source_id": "mikey-youtube-live-016", "comparison": "highest formal transcript overlap; one common 12-character shingle only"},
+    {"scope": "existing_research_and_video_04_batch", "comparison": "identity, normalized transcript, title and argument sequence"}
+  ],
+  "evidence": [
+    {"type": "identity", "result": "no_exact_youtube_id_or_url_overlap", "basis": "video-04 identity-precheck and formal source-index"},
+    {"type": "normalized_fulltext", "target_normalized_chars": 6869, "target_sha256": "46ed966dad5b4cbdc1699ea717bb799f138ba687201c786bc8b17bb86ff73034", "formal_transcripts_checked": 202, "exact_matches": []},
+    {"type": "near_duplicate_screen", "method": "12_character_shingle_containment", "highest_formal_containment": 0.000146, "highest_formal_source_id": "mikey-youtube-live-016", "result": "no transcript-scale reuse detected"},
+    {"type": "visual_scope", "result": "distinct_long_form_essay", "basis": "All 31 sampled frames show a single host with diagrams, stock footage, memes, public clips and an English-language closing montage."}
+  ],
+  "boundary": "This is a new research source by identity and transcript. Novelty does not validate its legal, biological, historical or social claims."
+}

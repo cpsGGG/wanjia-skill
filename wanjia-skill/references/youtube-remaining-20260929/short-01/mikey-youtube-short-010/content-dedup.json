@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-010",
+  "youtube_id": "5zGlhGJloA0",
+  "decision": "new",
+  "formal_weight_if_integrated": 1,
+  "compared_sources": [
+    {"scope": "formal_mikey_guide", "source_count": 202, "comparison": "youtube_id_url_exact phrase normalized transcript and semantic knowledge screen"},
+    {"scope": "remaining_video_batches_01_05", "source_count": 45, "comparison": "normalized transcript shingle screen"},
+    {"source_id": "o6fS0sTCYcU", "comparison": "semantic overlap on subjectivity and attraction; no same-recording transcript match"},
+    {"source_id": "EIcItpA_RZU", "comparison": "same striped-shirt visual setting as short-008 but no matching passage found"}
+  ],
+  "evidence": [
+    {"type": "identity", "result": "no_exact_id_or_url_match"},
+    {"type": "transcript", "result": "no_same_passage_match", "basis": "No distinctive phrase or material n-gram overlap was found in formal transcripts or 45 processed remaining videos."},
+    {"type": "semantic_overlap", "result": "related_but_not_duplicate", "basis": "The formal guide has prior material on selfhood, agency and non-approval-seeking, but not this exact continuous passage."},
+    {"type": "visual", "result": "possible_shared_unlocated_livestream_session", "basis": "All 29 frames show the same striped-shirt studio setup as shorts 008 and 009; the original parent stream for this passage was not located."}
+  ],
+  "boundary": "New Short candidate relative to the processed corpus, pending future parent-stream dedup. Its categorical gender and attraction claims require hold/do-not-generalize treatment."
+}

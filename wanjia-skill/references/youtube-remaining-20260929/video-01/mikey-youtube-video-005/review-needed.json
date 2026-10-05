@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-005",
+  "youtube_id": "vA3vZJa00qM",
+  "review_completed": true,
+  "items": [
+    {
+      "review_id": "v005-r01",
+      "severity": "blocking_for_case_fact",
+      "issue": "The proposed USD 50 million payment, CNY 30 million transfer or betrothal-gift characterization, chronology and court-recovery status are relayed through edited posts and narration, not verified primary records.",
+      "affected_evidence": ["S00046-S00053", "S00084-S00121", "S00292-S00304", "dense frames 1-40 and 76-92"],
+      "disposition": "Do not present any named-person allegation, amount or legal status as fact; retain only as attributed context."
+    },
+    {
+      "review_id": "v005-r02",
+      "severity": "blocking_for_legal_advice",
+      "issue": "Mikey's repayment and litigation comments are not tied to a jurisdiction, contract, filing or judgment and simplify contested property and relationship law.",
+      "affected_evidence": ["S00097-S00121", "S00295-S00304"],
+      "disposition": "Do not derive legal advice or a definitive entitlement to repayment from this video."
+    },
+    {
+      "review_id": "v005-r03",
+      "severity": "blocking_for_generalization",
+      "issue": "The provider-versus-lover model and claims about women's 'bottom code' are categorical gender generalizations without supporting evidence.",
+      "affected_evidence": ["S00125-S00155"],
+      "disposition": "Keep do_not_generalize and unavailable for first-person or action advice."
+    },
+    {
+      "review_id": "v005-r04",
+      "severity": "blocking_for_generalization",
+      "issue": "The claim that changing for one woman necessarily makes her lose attraction assigns a universal cause and an unobservable subconscious motive.",
+      "affected_evidence": ["S00256-S00271"],
+      "disposition": "Keep as Mikey's theory only; do not state it as a prediction about an individual woman."
+    },
+    {
+      "review_id": "v005-r05",
+      "severity": "major",
+      "issue": "Descriptions of named people's private attitudes, pet names, sexual preferences and comparative relationship dynamics are inferred from gossip, edited screenshots and Mikey's interpretation.",
+      "affected_evidence": ["S00156-S00169", "S00209-S00229", "S00272-S00289"],
+      "disposition": "Do not use as biographical fact; if cited in research notes, explicitly attribute to Mikey's interpretation."
+    },
+    {
+      "review_id": "v005-r06",
+      "severity": "major",
+      "issue": "Screenshots and article cards are cropped, too small in several frames and not complete source documents.",
+      "affected_evidence": ["all 11 sampled frames", "dense frames 1-102"],
+      "disposition": "Do not quote unreadable text, reconstruct omissions or treat the montage as a complete evidentiary record."
+    },
+    {
+      "review_id": "v005-r07",
+      "severity": "major",
+      "issue": "The final 496.1-510.0 second material follows Mikey's sign-off, changes subject and lacks reliable speaker and relevance attribution.",
+      "affected_evidence": ["S00336-S00343", "dense frames 101-102"],
+      "disposition": "Exclude the tail from substantive claims."
+    },
+    {
+      "review_id": "v005-r08",
+      "severity": "minor",
+      "issue": "Automatic ASR repeatedly misrecognizes public-figure names and key terms, including 孙宇晨, 景甜, 慕强, 彩礼 and 服从性测试.",
+      "affected_evidence": ["S00016-S00017", "S00046", "S00084", "S00129", "S00144", "S00150", "S00156-S00159", "S00168", "S00174", "S00187-S00190", "S00242-S00250", "S00271-S00278", "S00290-S00296", "S00321-S00322", "S00327-S00338"],
+      "disposition": "Use normalized names only where confirmed by the title or readable cards; do not quote uncertain ASR wording without audio review."
+    }
+  ]
+}

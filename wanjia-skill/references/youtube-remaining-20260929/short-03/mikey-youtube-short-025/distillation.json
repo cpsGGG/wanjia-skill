@@ -1,0 +1,83 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-025",
+  "youtube_id": "0yq9ZVn7Cmc",
+  "title": "活在当下是一种习惯",
+  "coverage": {
+    "transcript_segments_read": 73,
+    "transcript_time_range_seconds": [1.0, 110.44],
+    "semantic_media_range_seconds": [0.0, 95.480454],
+    "sampled_frames_reviewed": 32,
+    "continuous_original_audio_visual_review": false,
+    "excluded_asr_tail": "S00058 crosses the audited 95.480454-second media endpoint; S00059-S00073 are wholly beyond it. S00058-S00073 are excluded from claims and timeline evidence."
+  },
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 16.0,
+      "summary": "He presents being present as a habit and says his three-second rule is meant to prevent delay from pulling someone out of the moment."
+    },
+    {
+      "start": 16.0,
+      "end": 40.44,
+      "summary": "He contrasts being capable in ordinary life with becoming tense and unlike oneself on a date because of fear of rejection or lost attention."
+    },
+    {
+      "start": 40.44,
+      "end": 66.72,
+      "summary": "He says worry about an unrealized future changes speech and behavior and can lead to visible mistakes."
+    },
+    {
+      "start": 66.72,
+      "end": 95.480454,
+      "summary": "He claims attraction may take time to build but can drop within seconds after an awkward act; the ASR after the media cut is excluded."
+    }
+  ],
+  "claims": [
+    {
+      "claim_id": "s025-c01",
+      "speaker": "Mikey",
+      "statement": "He treats staying in the present as a trainable habit and frames the three-second rule as a way to interrupt avoidant delay.",
+      "conditions": "A motivational technique, not a requirement to act impulsively; safety, consent and adequate deliberation still take priority.",
+      "evidence": ["S00001-S00007@1.00-16.00"],
+      "use_level": "hold"
+    },
+    {
+      "claim_id": "s025-c02",
+      "speaker": "Mikey",
+      "statement": "He says fear of rejection or losing attention can pull a person out of the present during a date and make speech and behavior less natural.",
+      "conditions": "This is his explanatory framing, not a diagnosis or a universal causal account.",
+      "evidence": ["S00016-S00036@29.22-60.64"],
+      "use_level": "hold"
+    },
+    {
+      "claim_id": "s025-c03",
+      "speaker": "Mikey",
+      "statement": "He claims attraction may take ten to twenty minutes to build yet can collapse within seconds after an awkward act.",
+      "conditions": "The numbers and sudden causal claim are rhetorical and unsupported by outcome evidence in the clip.",
+      "evidence": ["S00037-S00057@60.64-94.82"],
+      "use_level": "hold"
+    }
+  ],
+  "speaker_attribution": [
+    {
+      "speaker": "Mikey",
+      "basis": "One visible channel host speaks throughout, and the wording matches formal mikey-youtube-live-010."
+    }
+  ],
+  "visual_findings": [
+    "All 32 sampled frames show the same black-shirt speaker in one purple-lit setup with added subtitles.",
+    "No date interaction, woman, demonstration or independent outcome evidence is shown."
+  ],
+  "permissions": {
+    "formal_integration": false,
+    "first_person_allowed": false,
+    "action_advice_allowed": false,
+    "use_level": "reuse_zero_weight",
+    "reason": "Edited excerpt of formal mikey-youtube-live-010; numeric and attraction-causality claims remain unverified."
+  },
+  "limitations": [
+    "Automatic ASR continues about 14.96 seconds beyond the audited media endpoint.",
+    "The clip is edited from a longer livestream and does not independently demonstrate its attraction claims."
+  ]
+}

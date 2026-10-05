@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-040",
+  "youtube_id": "c5c_FjfzBZ4",
+  "decision": "reuse",
+  "reuse_of": "formal_approach_case_cluster",
+  "formal_weight_if_integrated": 0,
+  "compared_sources": [
+    {"scope": "formal_mikey_guide_202_sources", "comparison": "exact ID/URL, distinctive transcript phrases, approach-case semantics"},
+    {"scope": "youtube_pipeline_video_01_to_05_and_short_01_to_03", "comparison": "exact ID/URL, transcript and semantic reuse screen"},
+    {"scope": "formal_semantic_sources", "source_ids": ["mikey-approach-002", "mikey-approach-018", "mikey-practice-001"], "comparison": "a direct approach that ends without a verified contact exchange or later outcome"}
+  ],
+  "evidence": [
+    {"type": "identity", "result": "no_exact_id_or_url_match"},
+    {"type": "transcript", "result": "no_exact_parent_excerpt_located", "basis": "No formal or completed-pipeline transcript contained the full short sequence verbatim."},
+    {"type": "semantic_reuse", "result": "already_represented", "basis": "The clip adds no reliable method beyond a direct approach that breaks off without a verified contact exchange; formal approach cases already cover this limited sequence."},
+    {"type": "visual", "result": "single_ambiguous_approach_excerpt", "basis": "Six sampled frames show three seated women, the subtitle ‘我想有男朋友’, an additional man entering the scene, and the camera-holder walking away; their relationship and the reason the interaction ends are not established."}
+  ],
+  "boundary": "Zero weight. Preserve as an ambiguous case observation; do not recast ‘我想有男朋友’ as ‘我有男朋友’ or infer a refusal, relationship, consent state, or outcome."
+}

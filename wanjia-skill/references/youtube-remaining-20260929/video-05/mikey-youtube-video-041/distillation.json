@@ -1,0 +1,174 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-041",
+  "youtube_id": "OQt6E24FTqc",
+  "title": "你的搭讪有一致性么？丨Game里的一致性",
+  "coverage": {
+    "transcript_segments_read": 361,
+    "transcript_time_range_seconds": [2.0, 599.02],
+    "semantic_media_range_seconds": [0.0, 583.70322],
+    "sparse_frames_reviewed": 13,
+    "dense_frames_reviewed": 0,
+    "continuous_original_audio_visual_review": false,
+    "asr_tail_excluded": "S00335-S00361 extend beyond media duration and repeat an apparent recognition error; they carry no semantic claim."
+  },
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 61.23,
+      "summary": "A student approaches a woman in a mall, asks about age, travel and the evening, and appears to exchange contact details; exact turns and the result remain edited field footage."
+    },
+    {
+      "start": 61.23,
+      "end": 139.68,
+      "summary": "In a hotel-room laptop review, Mikey contrasts the student's ordinary speaking state with a more appeasing approach voice and introduces 'consistency' as alignment between intent, voice and ordinary manner."
+    },
+    {
+      "start": 139.68,
+      "end": 192.09,
+      "summary": "They replay a formulaic opening built around requesting WeChat, travel questions, assurances of not disturbing her and a future coffee invitation."
+    },
+    {
+      "start": 192.09,
+      "end": 255.18,
+      "summary": "Mikey says the woman later stopped and talked, but speculates that the early presentation initially resembled sales, promotion or handing out flyers."
+    },
+    {
+      "start": 255.18,
+      "end": 324.29,
+      "summary": "A second field interaction includes a clothing compliment, location exchange and same-day drink invitation; in review, Mikey suggests modestly reducing distance after she stops and retreating if she steps back."
+    },
+    {
+      "start": 324.29,
+      "end": 384.76,
+      "summary": "The review separates deliberately playful or relaxed expression from an uncontrolled appeasing pattern, using the student's ordinary voice as a contrast."
+    },
+    {
+      "start": 384.76,
+      "end": 428.05,
+      "summary": "A third approach uses a louder greeting and spontaneous compliment, followed by travel/education talk and a future drink proposal; the later result is not shown."
+    },
+    {
+      "start": 428.05,
+      "end": 485.13,
+      "summary": "Mikey praises an improvised tease about a companion leaving, then makes broad outcome claims about consistency and the opening stage."
+    },
+    {
+      "start": 485.13,
+      "end": 570.8,
+      "summary": "They review distance changes and rehearse a more direct drink invitation. Mikey closes by defining the problem as being unable to control voice or behavior, rather than choosing among different expressions."
+    },
+    {
+      "start": 570.8,
+      "end": 583.70322,
+      "summary": "Closing repetition/outro; no additional reliable proposition is recoverable from the automatic transcript."
+    }
+  ],
+  "claims": [
+    {
+      "claim_id": "v041-c01",
+      "speaker": "Mikey",
+      "statement": "He defines approach consistency as the person's intent, voice and behavior matching the more grounded way that person ordinarily communicates, rather than shifting into an appeasing persona.",
+      "conditions": "A coaching interpretation from an edited review; it does not prove how the approached person perceived the interaction.",
+      "evidence": ["S00058-S00094@92.18-139.18", "S00200-S00221@311.82-382.66"],
+      "reuse_note": "Already covered by mikey-sijiao-008-K0001/K0004.",
+      "use_level": "context_only",
+      "knowledge_status": "reuse_zero_weight_pending_independent_review"
+    },
+    {
+      "claim_id": "v041-c02",
+      "speaker": "Mikey",
+      "statement": "He interprets a shallow, formulaic opening as liable to resemble sales or flyer distribution and says a more congruent presentation can reduce that misclassification.",
+      "conditions": "The woman's internal judgment and cause of her initial response are speculative and cannot be stated as fact.",
+      "evidence": ["S00132-S00158@194.85-244.85"],
+      "reuse_note": "Already covered by mikey-sijiao-008-K0002.",
+      "use_level": "hold",
+      "knowledge_status": "reuse_zero_weight_pending_independent_review"
+    },
+    {
+      "claim_id": "v041-c03",
+      "speaker": "Mikey",
+      "statement": "After a person has voluntarily stopped, he suggests reducing an overly large conversational distance, while stepping back if she steps back.",
+      "conditions": "Stopping is not consent to approach closer or touch. Preserve personal space, ask when uncertain, and immediately honor retreat, refusal or discomfort.",
+      "evidence": ["S00181-S00190@283.40-295.40"],
+      "reuse_note": "Already covered by mikey-sijiao-008-K0003.",
+      "use_level": "hold",
+      "knowledge_status": "reuse_zero_weight_pending_independent_review"
+    },
+    {
+      "claim_id": "v041-c04",
+      "speaker": "Mikey",
+      "statement": "He distinguishes consciously choosing a playful or soft style from being unable to vary one's voice and behavior; the latter is the pattern he wants the student to change.",
+      "conditions": "A coaching model, not a diagnosis of personality, anxiety or vocal ability.",
+      "evidence": ["S00200-S00221@311.82-382.66", "S00316-S00333@532.32-570.02"],
+      "reuse_note": "Already covered by mikey-sijiao-008-K0004/K0006.",
+      "use_level": "context_only",
+      "knowledge_status": "reuse_zero_weight_pending_independent_review"
+    },
+    {
+      "claim_id": "v041-c05",
+      "speaker": "Mikey",
+      "statement": "He praises a tease that grew from the companion leaving as more spontaneous and connected to the immediate scene than a memorized line.",
+      "conditions": "Humor must remain non-degrading and responsive to the other person's comfort; a short edited clip cannot establish later interest or consent.",
+      "evidence": ["S00253-S00265@434.45-462.82"],
+      "reuse_note": "Already covered by mikey-sijiao-008-K0005.",
+      "use_level": "context_only",
+      "knowledge_status": "reuse_zero_weight_pending_independent_review"
+    },
+    {
+      "claim_id": "v041-c06",
+      "speaker": "Mikey",
+      "statement": "He claims fixing consistency could produce many results and make the student's day-game highly reliable.",
+      "conditions": "Promotional overstatement with no denominator, follow-up verification or causal control; never use as an efficacy promise.",
+      "evidence": ["S00265-S00285@457.82-484.82"],
+      "use_level": "do_not_generalize",
+      "knowledge_status": "reuse_zero_weight_pending_independent_review"
+    }
+  ],
+  "examples": [
+    {
+      "example_id": "v041-e01",
+      "summary": "Three edited mall interactions are replayed during coaching to compare appeasing, more direct and more improvised openings; contact exchange and follow-up outcomes are not continuously verified.",
+      "evidence": ["S00001-S00038", "S00096-S00131", "S00163-S00199", "S00224-S00252"]
+    },
+    {
+      "example_id": "v041-e02",
+      "summary": "The student rehearses '以后约你喝冰美式' in different voices to illustrate controllable delivery rather than a recommended fixed line.",
+      "evidence": ["S00302-S00333@512.32-570.02"]
+    }
+  ],
+  "speaker_attribution": [
+    {
+      "speaker": "Mikey",
+      "basis": "He is visibly identifiable in the hotel-room review and is addressed as Mikey during the rehearsal; the longer coaching explanations are assigned to him."
+    },
+    {
+      "speaker": "student",
+      "basis": "Blurred male participant shown approaching in the field and responding during the hotel review; precise short turns remain partly uncertain without diarization."
+    },
+    {
+      "speaker": "approached women and companions",
+      "basis": "Visible public participants in edited field footage; their words, motives, age and later outcomes cannot be inferred beyond the recorded exchange."
+    }
+  ],
+  "visual_findings": [
+    "All 13 sampled frames were reviewed. Frame 000001 shows a mall approach; frames 000002-000013 show Mikey and a blurred student reviewing the footage on a laptop in a hotel room.",
+    "The sequence matches the formal mikey-sijiao-008 visual record: field interactions alternate with hotel/laptop review and screen replay is not an independent second interaction.",
+    "The student's face is blurred in the review, but at least one approached woman's face is visible in the sampled public footage; filming and publication consent are unknown.",
+    "Sparse frames support the broad scene and speaker-role split but cannot establish phone-contact exchange, the approached persons' internal state, adulthood, consent to proximity or later results."
+  ],
+  "permissions": {
+    "formal_integration": false,
+    "first_person_allowed": false,
+    "action_advice_allowed": false,
+    "knowledge_status": "reuse_zero_weight_pending_independent_review",
+    "reason": "Same underlying recording as formal mikey-sijiao-008. Its public URL may be retained, but it adds no independent weight and contains unresolved age, privacy, consent, attribution and outcome boundaries."
+  },
+  "limitations": [
+    "The automatic transcript was not checked word-for-word against original audio and was not speaker-diarized.",
+    "Thirteen 45-second samples do not equal continuous audio-visual review.",
+    "ASR S00335-S00361 runs beyond the 583.703-second media duration and repeats an apparent recognition artifact; it was excluded from semantic claims.",
+    "Edited field footage cannot prove contact exchange, continued interest, later meetings or causal effects of the coaching.",
+    "Public participants' identity, age, filming consent and publication consent are not established."
+  ]
+}

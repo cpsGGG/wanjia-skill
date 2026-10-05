@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-012",
+  "youtube_id": "GSFHvvEzMxA",
+  "decision": "new",
+  "formal_weight_if_integrated": 1,
+  "compared_sources": [
+    {
+      "scope": "formal_mikey_guide",
+      "source_count": 202,
+      "comparison": "id/url, normalized transcript shingle and semantic screen"
+    },
+    {
+      "scope": "remaining_video_batches_01_05_and_short_01",
+      "source_count": 55,
+      "comparison": "normalized transcript shingle screen"
+    }
+  ],
+  "evidence": [
+    {
+      "type": "identity",
+      "result": "no_exact_id_or_url_match"
+    },
+    {
+      "type": "transcript",
+      "result": "no_same_passage_match",
+      "basis": "No material 8-character shingle match was found across the screened formal and remaining-video transcripts."
+    },
+    {
+      "type": "semantic_overlap",
+      "result": "related_but_not_duplicate",
+      "basis": "Other sources discuss execution and business process, but this exact complete-the-workflow-before-delegating passage was not located."
+    },
+    {
+      "type": "visual",
+      "result": "single_host_excerpt",
+      "basis": "All 25 sampled frames show the striped-shirt speaker; no external demonstration or result evidence."
+    }
+  ],
+  "boundary": "Treat as a new research candidate within the processed corpus, subject to re-dedup if its parent long stream is later located."
+}

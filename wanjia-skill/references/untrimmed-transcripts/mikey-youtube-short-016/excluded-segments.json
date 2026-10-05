@@ -1,0 +1,74 @@
+{
+  "source_id": "mikey-youtube-short-016",
+  "status": "preserved_not_indexed_timing_unreliable",
+  "time_alignment_verified": false,
+  "original_transcript": "references/untrimmed-transcripts/mikey-youtube-short-016/transcript.original.json",
+  "original_transcript_sha256": "2c2e363198fea08b2b6c735cd92231fa17a7143d09a1b37e6eb5a793a9df6566",
+  "original_research_transcript": "D:\\startup\\玩家.skill\\research\\youtube-all-remaining-pipeline\\integration-candidate\\references\\youtube-remaining-20260929\\short-02\\mikey-youtube-short-016\\transcript.json",
+  "media_duration_seconds": 74.210975,
+  "excluded_segments": [
+    {
+      "sid": "S00025",
+      "start": 74.42,
+      "end": 75.42,
+      "text": "然後你們就能夠並秽古"
+    },
+    {
+      "sid": "S00026",
+      "start": 75.42,
+      "end": 89.42,
+      "text": "在我之前就穿過"
+    },
+    {
+      "sid": "S00027",
+      "start": 89.42,
+      "end": 90.42,
+      "text": "到你怎麼看"
+    },
+    {
+      "sid": "S00028",
+      "start": 90.42,
+      "end": 91.42,
+      "text": "台灣有的"
+    },
+    {
+      "sid": "S00029",
+      "start": 91.42,
+      "end": 92.42,
+      "text": "也是相對"
+    },
+    {
+      "sid": "S00030",
+      "start": 92.42,
+      "end": 93.42,
+      "text": "地人之間"
+    },
+    {
+      "sid": "S00031",
+      "start": 93.42,
+      "end": 95.42,
+      "text": "非常聰明"
+    },
+    {
+      "sid": "S00032",
+      "start": 95.42,
+      "end": 96.42,
+      "text": "那麼有些有的"
+    },
+    {
+      "sid": "S00033",
+      "start": 96.42,
+      "end": 98.42,
+      "text": "抱歉"
+    }
+  ],
+  "crossing_segments_original": [
+    {
+      "sid": "S00024",
+      "start": 73.42,
+      "end": 74.42,
+      "text": "禮貝旦"
+    }
+  ],
+  "notice": "All original text is retained. Out-of-duration timestamps may be ASR hallucination or misalignment; no information-value verdict or permission upgrade follows from exclusion from the normal timed index."
+}

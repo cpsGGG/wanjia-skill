@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-041",
+  "youtube_id": "OQt6E24FTqc",
+  "review_completed": true,
+  "items": [
+    {
+      "review_id": "v041-r01",
+      "severity": "blocking",
+      "category": "duplicate",
+      "issue": "This public upload is the same underlying recording as formal source mikey-sijiao-008.",
+      "affected_evidence": ["whole source"],
+      "disposition": "Reuse with formal weight 0; do not count its claims, examples or results as independent corroboration."
+    },
+    {
+      "review_id": "v041-r02",
+      "severity": "blocking",
+      "category": "age_and_adulthood",
+      "issue": "The first interaction includes joking that the woman looks born in 2008 and later coaching language that calls her a woman; the edited transcript does not safely establish adulthood before romantic pursuit.",
+      "affected_evidence": ["S00010-S00038", "S00080-S00094"],
+      "disposition": "Never generalize the 'treat her as a woman' phrasing. Confirm adulthood before romantic or sexual pursuit; exclude minors and unresolved-age participants."
+    },
+    {
+      "review_id": "v041-r03",
+      "severity": "blocking",
+      "category": "consent_and_distance",
+      "issue": "Stopping, talking or exchanging contact is interpreted as being 'hooked', and the review suggests moving closer after she stops.",
+      "affected_evidence": ["S00132-S00158", "S00181-S00197", "S00288-S00309"],
+      "disposition": "Do not infer consent from stopping or proximity. Keep distance non-threatening, ask when uncertain, and stop or step back on withdrawal, refusal or discomfort."
+    },
+    {
+      "review_id": "v041-r04",
+      "severity": "major",
+      "category": "mind_reading_and_gender_generalization",
+      "issue": "Mikey assigns sales/flyer impressions and attraction states to approached women without their verified account.",
+      "affected_evidence": ["S00132-S00158", "S00260-S00274"],
+      "disposition": "Attribute as Mikey's interpretation only; do not state women's motives or attraction as fact."
+    },
+    {
+      "review_id": "v041-r05",
+      "severity": "major",
+      "category": "privacy_and_filming",
+      "issue": "Public participants are filmed and at least one woman's face remains visible; filming and publication consent are unknown.",
+      "affected_evidence": ["sampled frame 000001", "field footage throughout"],
+      "disposition": "Do not expose identities or reuse identifiable imagery without privacy and consent review."
+    },
+    {
+      "review_id": "v041-r06",
+      "severity": "major",
+      "category": "outcome_and_efficacy_claim",
+      "issue": "The claim that consistency could yield many results or make approaches reliably succeed is unsupported by follow-up or a complete attempt denominator.",
+      "affected_evidence": ["S00265-S00285"],
+      "disposition": "Keep as promotional rhetoric; do not use as outcome evidence or promise."
+    },
+    {
+      "review_id": "v041-r07",
+      "severity": "major",
+      "category": "attribution_and_editing",
+      "issue": "Short field and hotel turns are not diarized, and replayed laptop footage is intercut with the original field footage.",
+      "affected_evidence": ["whole source"],
+      "disposition": "Use only the clearly contextualized Mikey coaching blocks; do not double-count replays or assign ambiguous short turns."
+    }
+  ]
+}

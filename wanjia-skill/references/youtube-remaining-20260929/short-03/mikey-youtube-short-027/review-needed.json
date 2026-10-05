@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-027",
+  "youtube_id": "PuvtjUuI6Co",
+  "review_completed": true,
+  "items": [
+    {
+      "review_id": "s027-r01",
+      "severity": "blocking",
+      "category": "violence_animal_harm",
+      "issue": "The opening explicitly endorses slapping a dog and uses it as a model for responding to people.",
+      "affected_evidence": ["S00001-S00012"],
+      "disposition": "Do not literalize, recommend or generalize the violent analogy."
+    },
+    {
+      "review_id": "s027-r02",
+      "severity": "major",
+      "category": "unsupported_causality",
+      "issue": "The clip says bullying or disrespect necessarily results from the target showing weakness or fearing loss.",
+      "affected_evidence": ["S00010-S00020", "S00081-S00089"],
+      "disposition": "Do not blame a target for another person's conduct; preserve only as Mikey's claim."
+    },
+    {
+      "review_id": "s027-r03",
+      "severity": "major",
+      "category": "asr_tail",
+      "issue": "S00090 crosses the media endpoint and S00091-S00117 are post-cut hallucinated continuation.",
+      "affected_evidence": ["S00090-S00117"],
+      "disposition": "Exclude all affected SIDs from claims and timeline evidence."
+    },
+    {
+      "review_id": "s027-r04",
+      "severity": "major",
+      "category": "source_reuse",
+      "issue": "The Short compiles passages already present in formal mikey-youtube-live-010.",
+      "affected_evidence": ["whole source"],
+      "disposition": "Keep formal weight at zero."
+    }
+  ]
+}

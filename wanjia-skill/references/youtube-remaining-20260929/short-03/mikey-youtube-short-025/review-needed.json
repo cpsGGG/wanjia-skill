@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-025",
+  "youtube_id": "0yq9ZVn7Cmc",
+  "review_completed": true,
+  "items": [
+    {
+      "review_id": "s025-r01",
+      "severity": "major",
+      "category": "asr_tail",
+      "issue": "S00058 crosses the media endpoint and S00059-S00073 continue well after the video ends.",
+      "affected_evidence": ["S00058-S00073"],
+      "disposition": "Exclude these SIDs from claims and timeline evidence."
+    },
+    {
+      "review_id": "s025-r02",
+      "severity": "major",
+      "category": "unsupported_causality",
+      "issue": "The ten-to-twenty-minute build and seconds-long collapse of attraction are presented as general facts without evidence.",
+      "affected_evidence": ["S00042-S00057"],
+      "disposition": "Preserve only as Mikey's rhetorical claim; do not present the timing or causal inference as established."
+    },
+    {
+      "review_id": "s025-r03",
+      "severity": "major",
+      "category": "source_reuse",
+      "issue": "The Short repeats passages already present in formal mikey-youtube-live-010.",
+      "affected_evidence": ["whole source"],
+      "disposition": "Keep formal weight at zero."
+    }
+  ]
+}

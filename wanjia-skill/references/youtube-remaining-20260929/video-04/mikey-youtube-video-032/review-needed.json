@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-032",
+  "youtube_id": "3nXm4bdpzLY",
+  "review_completed": true,
+  "items": [
+    {"review_id": "v032-r01", "severity": "blocking", "category": "consent_safety", "issue": "The speaker uses pornography and stereotyped emotional resistance to suggest that verbal 'no' may not express refusal.", "affected_evidence": ["S00065-S00089"], "disposition": "Do not use as advice. Require clear, voluntary and ongoing consent; stop on refusal, uncertainty, incapacity or withdrawal."},
+    {"review_id": "v032-r02", "severity": "blocking", "category": "legal_accuracy", "issue": "The upload characterizes a criminal judgment, evidentiary record and burden of proof without providing the judgment or complete record.", "affected_evidence": ["S00001-S00064", "sampled frames 000001-000003"], "disposition": "Verify primary court materials and current jurisdiction-specific law before any legal summary; do not give legal advice from this source."},
+    {"review_id": "v032-r03", "severity": "blocking", "category": "gender_hostility", "issue": "Women and feminism are repeatedly described as a system that exploits, controls or devalues men.", "affected_evidence": ["S00201-S00541"], "disposition": "Retain only as the speaker's ideology; do not generalize to women, individual partners or institutions."},
+    {"review_id": "v032-r04", "severity": "major", "category": "pseudoscience", "issue": "The evolutionary sequence moves from reproductive biology to individual psychology, marriage, patriarchy and modern law without citations or testable intermediate evidence.", "affected_evidence": ["S00112-S00317"], "disposition": "Do not use as scientific explanation; require domain-expert and primary-literature review."},
+    {"review_id": "v032-r05", "severity": "major", "category": "social_prediction", "issue": "The video predicts worsening male conditions and links low fertility, economic decline and welfare pressure to feminism without analysis.", "affected_evidence": ["S00521-S00560"], "disposition": "Treat as political opinion, not forecast or causal finding."},
+    {"review_id": "v032-r06", "severity": "major", "category": "source_context", "issue": "Public clips, quotations, diagrams and the closing English montage lack provenance and complete context.", "affected_evidence": ["throughout", "sampled frames 000004-000031"], "disposition": "Trace each original source before quotation or factual use."},
+    {"review_id": "v032-r07", "severity": "minor", "category": "asr", "issue": "Technical biology terms, names and quotations are heavily distorted in ASR.", "affected_evidence": ["S00001-S00727"], "disposition": "Do not quote or cite technical terminology without audio and source checking."}
+  ]
+}

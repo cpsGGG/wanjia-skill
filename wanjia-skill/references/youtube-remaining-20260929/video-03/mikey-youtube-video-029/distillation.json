@@ -1,0 +1,239 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-029",
+  "youtube_id": "Nk8m70zAZAk",
+  "title": "拥有玩家心态，NPC和主角的区别",
+  "coverage": {
+    "transcript_segments_read": 298,
+    "transcript_time_range_seconds": [
+      0.14,
+      519.14
+    ],
+    "sparse_frames_reviewed": 12,
+    "dense_frames_reviewed": 29,
+    "dense_windows_required_seconds": [
+      [
+        267.0,
+        279.0
+      ]
+    ],
+    "dense_windows_reviewed_seconds": [
+      [
+        267.0,
+        279.0
+      ]
+    ],
+    "targeted_frames_retained": 13,
+    "continuous_original_audio_visual_review": false
+  },
+  "timeline": [
+    {
+      "start": 0.14,
+      "end": 66.78,
+      "summary": "An animated game metaphor contrasts a rule-bound NPC with a player who approaches a woman in an unexpected way."
+    },
+    {
+      "start": 66.78,
+      "end": 113.67,
+      "summary": "Mikey explains the channel name: approach represents freedom and connection with the world, while player represents the desired mindset."
+    },
+    {
+      "start": 113.67,
+      "end": 208.66,
+      "summary": "He describes childhood curiosity, distinguishes useful social learning from restrictive rules and says accumulating external prescriptions turns a person into an NPC."
+    },
+    {
+      "start": 208.66,
+      "end": 260.86,
+      "summary": "A Minecraft story illustrates the shift from following optimal instructions to asking what he actually wanted and building something personally meaningful."
+    },
+    {
+      "start": 260.86,
+      "end": 340.54,
+      "summary": "A student chat story and edited chat collage are used to argue that anxious over-explanation and forced tactics come from surrendering one’s own judgment."
+    },
+    {
+      "start": 340.54,
+      "end": 404.06,
+      "summary": "He criticizes templates, scripted coaching and AI-written chat as code execution rather than genuine communication, using film and game references."
+    },
+    {
+      "start": 404.06,
+      "end": 481.94,
+      "summary": "Mikey narrates his movement from scripts and approach shame toward experimentation, then defines player mindset as understanding rules, using judgment, enjoying process and choosing."
+    },
+    {
+      "start": 481.94,
+      "end": 519.14,
+      "summary": "He closes the first chapter by inviting viewers to remove the NPC symbol and identify as players."
+    }
+  ],
+  "claims": [
+    {
+      "claim_id": "v029-c01",
+      "speaker": "Mikey",
+      "statement": "He defines approach as a behavior symbolizing freedom, connection with the world and willingness to act beyond one's usual social circle.",
+      "conditions": "Freedom remains bounded by law, context, the other person's autonomy and a prompt end after disinterest.",
+      "evidence": [
+        "S00033-S00051@66.78-113.67"
+      ],
+      "use_level": "hold",
+      "knowledge_status": "hold_pending_independent_review"
+    },
+    {
+      "claim_id": "v029-c02",
+      "speaker": "Mikey",
+      "statement": "Social rules can protect people, but accumulated prescriptions about emotion, dating and self-expression can suppress curiosity and agency.",
+      "conditions": "The video does not give a method for distinguishing protective rules from arbitrary or harmful ones.",
+      "evidence": [
+        "S00052-S00102@113.67-208.66"
+      ],
+      "use_level": "context_only",
+      "knowledge_status": "hold_pending_independent_review"
+    },
+    {
+      "claim_id": "v029-c03",
+      "speaker": "Mikey",
+      "statement": "His Minecraft story contrasts asking 'what should I do' with 'what do I want to do' and treats the latter as recovery of player agency.",
+      "conditions": "Personal metaphor, not evidence that all guidance or optimized practice destroys agency.",
+      "evidence": [
+        "S00103-S00134@208.66-260.86",
+        "sampled frames 000004-000005"
+      ],
+      "use_level": "context_only",
+      "knowledge_status": "hold_pending_independent_review"
+    },
+    {
+      "claim_id": "v029-c04",
+      "speaker": "Mikey",
+      "statement": "He claims anxious over-explanation and searching for the correct reply arise when a person treats a woman as the main character and makes his own worth secondary.",
+      "conditions": "Can be used as a self-reflection prompt, but a question mark or short response may have many ordinary meanings.",
+      "evidence": [
+        "S00135-S00184@260.86-340.54",
+        "targeted/0273.5s-chat-collage.jpg@273.5"
+      ],
+      "use_level": "context_only",
+      "knowledge_status": "hold_pending_independent_review"
+    },
+    {
+      "claim_id": "v029-c05",
+      "speaker": "Mikey",
+      "statement": "He criticizes fixed scripts, copied replies and AI-generated chat because they replace live attention and genuine expression with program execution.",
+      "conditions": "Tools can support reflection or drafting if the user remains honest, context-aware and responsible for the message.",
+      "evidence": [
+        "S00185-S00233@340.54-404.06"
+      ],
+      "use_level": "context_only",
+      "knowledge_status": "hold_pending_independent_review"
+    },
+    {
+      "claim_id": "v029-c06",
+      "speaker": "Mikey",
+      "statement": "Player mindset is presented as moving from merely obeying rules to understanding them, from fearing failure to engaging the process, and from executing instructions to making decisions.",
+      "conditions": "Understanding rules does not authorize deception, exploitation or ignoring consent; agency includes accepting consequences and others' choices.",
+      "evidence": [
+        "S00234-S00298@404.06-519.14"
+      ],
+      "use_level": "context_only",
+      "knowledge_status": "hold_pending_independent_review"
+    },
+    {
+      "claim_id": "v029-c07",
+      "speaker": "Mikey",
+      "statement": "He repeatedly calls women and other people NPCs in order to reduce the viewer's fear and center his own agency.",
+      "conditions": "Dehumanizing metaphor can erase other people's equal subjectivity, knowledge and boundaries; it must not become an interpersonal rule.",
+      "evidence": [
+        "S00001-S00032@0.14-66.78",
+        "S00135-S00184@260.86-340.54"
+      ],
+      "use_level": "do_not_generalize",
+      "knowledge_status": "hold_pending_independent_review"
+    },
+    {
+      "claim_id": "v029-c08",
+      "speaker": "Mikey (visible green coaching messages in an edited chat collage)",
+      "statement": "When a student says liking a woman has made him anxious and tactical, Mikey tells him to accept that he likes her, chat normally and stop deliberately stretching reply times for technique.",
+      "conditions": "The collage supports only the clearly readable coaching messages. The underlying student-woman conversation is partial, small and not independently authenticated, so it cannot establish the woman’s intent or the full outcome.",
+      "evidence": [
+        "targeted/0273.5s-chat-collage.jpg@273.5",
+        "S00135-S00160@260.86-296.32"
+      ],
+      "use_level": "hold",
+      "knowledge_status": "hold_pending_independent_review"
+    }
+  ],
+  "examples": [
+    {
+      "example_id": "v029-e01",
+      "summary": "In Minecraft, following guides and optimizing survival becomes work-like; building a strange structure for pleasure restores a sense of play.",
+      "evidence": [
+        "S00103-S00134@208.66-260.86",
+        "sampled frame 000005"
+      ]
+    },
+    {
+      "example_id": "v029-e02",
+      "summary": "An edited three-panel collage shows a student reporting anxiety and Mikey visibly advising him to like openly, chat normally and avoid artificial reply-delay tactics; the underlying student-woman thread remains partial and too small to reconstruct fully.",
+      "evidence": [
+        "S00135-S00160@260.86-296.32",
+        "targeted/0273.5s-chat-collage.jpg@273.5"
+      ]
+    },
+    {
+      "example_id": "v029-e03",
+      "summary": "The Truman Show and Ready Player One are used as fictional examples of questioning a designed script and understanding game logic.",
+      "evidence": [
+        "S00214-S00233@372.00-404.06",
+        "sampled frames 000009-000010"
+      ]
+    }
+  ],
+  "speaker_attribution": [
+    {
+      "speaker": "Mikey",
+      "basis": "Single self-identified studio narrator throughout the teaching sections."
+    },
+    {
+      "speaker": "student and woman in chat anecdote",
+      "basis": "Only described by Mikey; no full chat page or independent speaker is shown in the reviewed frames."
+    },
+    {
+      "speaker": "film and game characters",
+      "basis": "Illustrative edited clips; dialogue and actions belong to the cited fiction rather than Mikey's lived evidence."
+    }
+  ],
+  "visual_findings": [
+    "All 12 regenerated sparse frames were reviewed at 1080p. They show Mikey in studio, game/approach montage, film clips, crowd imagery and an episode title card.",
+    "A targeted 267–279 second review found an edited three-panel chat collage that the earlier 360p sparse screening missed. Mikey’s green coaching replies are readable, while the underlying student-woman conversation is partial and too small to reconstruct fully.",
+    "The collage is evidence for the visible coaching wording, not proof of message authenticity, the woman’s intent, the relationship history or the outcome.",
+    "The illustrative films and game imagery support the metaphor’s presentation, not its truth or transfer to real people.",
+    "No full continuous audio-visual review was performed; brief approach or film inserts cannot establish consent, outcome or full context."
+  ],
+  "permissions": {
+    "formal_integration": false,
+    "first_person_allowed": false,
+    "action_advice_allowed": false,
+    "knowledge_status": "hold_pending_independent_review",
+    "reason": "Contains a useful agency framework but also dehumanizing NPC language, rule-transcendence rhetoric and unverified anecdotes."
+  },
+  "limitations": [
+    "Automatic transcript was not checked word-for-word and still misrecognizes some names, titles and idioms; the 1080p burned captions were used only for targeted visual confirmation.",
+    "The approach montage does not provide a complete evidence chain, and the edited chat collage does not show a complete readable student-woman conversation.",
+    "The NPC/player framework substantially overlaps mikey-gameshengjing-017 and mikey-sijiao-015 but is independently scripted.",
+    "Fictional examples and personal stories illustrate the model but do not establish general effects.",
+    "Other people remain equal decision-makers, not game objects, regardless of the viewer’s mindset."
+  ],
+  "reprocessing": {
+    "date": "2026-09-29",
+    "reason": "Original download had fallen back to 360p after a temporary HLS metadata failure.",
+    "old_media": {
+      "resolution": "640x360",
+      "sha256": "dd636027b17c292e9521707456c0f391164ecfef54414f016696b17671c362cd"
+    },
+    "new_media": {
+      "resolution": "1920x1080",
+      "sha256": "c91be2e80f61dc36651c22db06b88eef9353416083b3cc0052a8bf7929cf8bdc"
+    },
+    "result": "Full ASR and visual extraction rerun; semantic evidence ranges rebound; targeted 1080p review added one screenshot-grounded candidate claim."
+  }
+}

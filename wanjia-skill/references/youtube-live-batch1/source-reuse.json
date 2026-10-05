@@ -1,0 +1,19 @@
+{
+  "schema_version": "youtube-live-batch1-source-reuse-runtime-1.0",
+  "status": "complete",
+  "new_source_ids": [
+    "mikey-youtube-live-001",
+    "mikey-youtube-live-002",
+    "mikey-youtube-live-003",
+    "mikey-youtube-live-004",
+    "mikey-youtube-live-005",
+    "mikey-youtube-live-006",
+    "mikey-youtube-live-007",
+    "mikey-youtube-live-008",
+    "mikey-youtube-live-009",
+    "mikey-youtube-live-010"
+  ],
+  "aliases": [],
+  "source_ledger": "source-reuse-ledger.json",
+  "source_ledger_sha256": "35914d6240b033e34df5159a515a3ef250167ec0545f76301034f2f5649a2d10"
+}

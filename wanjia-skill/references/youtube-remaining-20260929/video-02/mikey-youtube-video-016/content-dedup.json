@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-016",
+  "youtube_id": "KdUrSM8j7iQ",
+  "decision": "new",
+  "compared_sources": [
+    {"scope": "formal_mikey_guide", "source_count": 202, "comparison": "youtube_id_url_normalized_fulltext_and_12_character_shingles"},
+    {"source_id": "mikey-gameshengjing-010", "title": "第十章 身份重塑", "comparison": "related self-concept theme; no transcript-scale reuse"},
+    {"source_id": "EIcItpA_RZU", "comparison": "related private-cinema example; different case, sequence and wording"},
+    {"source_id": "mikey-youtube-live-036", "comparison": "related gaming-hotel discussion; no transcript-scale reuse"}
+  ],
+  "evidence": [
+    {"type": "identity", "result": "no_exact_youtube_id_or_url_overlap", "basis": "video-02 identity precheck and current formal source-index"},
+    {"type": "normalized_fulltext", "target_normalized_chars": 5700, "target_sha256": "8f9603641c445323b8f1a2677aae870b505dcea8faf58ec61976fb8dbe82fcbf", "formal_transcripts_checked": 202, "exact_matches": []},
+    {"type": "near_duplicate_screen", "method": "12_character_shingle_containment", "highest_formal_containment": 0.001054666901037089, "highest_formal_source_id": "mikey-gameshengjing-010", "result": "no transcript-scale reuse detected"},
+    {"type": "content_boundary", "result": "new_case_package", "basis": "The 23-year-old salesperson narrative, sex-work coping loop, claimed 45-day coaching arc, private chat screenshots, first approach/date and reported job outcome form a distinct sequence not found in the formal transcripts."}
+  ],
+  "boundary": "Count as a new research source only after independent review. The case outcome is Mikey's marketing narrative supported by selected private screenshots, not an independently verified client study."
+}

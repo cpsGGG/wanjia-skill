@@ -1,0 +1,140 @@
+{
+  "source_id": "mikey-youtube-short-017",
+  "status": "preserved_not_indexed_timing_unreliable",
+  "time_alignment_verified": false,
+  "original_transcript": "references/untrimmed-transcripts/mikey-youtube-short-017/transcript.original.json",
+  "original_transcript_sha256": "6827b4d90074bf41adc464e81682f87ec3297d70439e7e9ea7423142b769b96e",
+  "original_research_transcript": "D:\\startup\\玩家.skill\\research\\youtube-all-remaining-pipeline\\integration-candidate\\references\\youtube-remaining-20260929\\short-02\\mikey-youtube-short-017\\transcript.json",
+  "media_duration_seconds": 69.032925,
+  "excluded_segments": [
+    {
+      "sid": "S00032",
+      "start": 69.86,
+      "end": 72.26,
+      "text": "那这个时候我们要不要玩"
+    },
+    {
+      "sid": "S00033",
+      "start": 72.26,
+      "end": 72.42,
+      "text": "啊"
+    },
+    {
+      "sid": "S00034",
+      "start": 72.42,
+      "end": 72.44,
+      "text": "我看到你"
+    },
+    {
+      "sid": "S00035",
+      "start": 72.44,
+      "end": 73.5,
+      "text": "我偷懒不讲"
+    },
+    {
+      "sid": "S00036",
+      "start": 73.5,
+      "end": 74.0,
+      "text": "那这个时候"
+    },
+    {
+      "sid": "S00037",
+      "start": 74.0,
+      "end": 74.76,
+      "text": "我按时就算"
+    },
+    {
+      "sid": "S00038",
+      "start": 74.76,
+      "end": 75.26,
+      "text": "对我吗"
+    },
+    {
+      "sid": "S00039",
+      "start": 75.26,
+      "end": 75.98,
+      "text": "我当 Italia"
+    },
+    {
+      "sid": "S00040",
+      "start": 75.98,
+      "end": 77.02,
+      "text": "我还有那种"
+    },
+    {
+      "sid": "S00041",
+      "start": 77.02,
+      "end": 77.46,
+      "text": "我们就想要不要跑"
+    },
+    {
+      "sid": "S00042",
+      "start": 77.46,
+      "end": 78.38,
+      "text": "别的"
+    },
+    {
+      "sid": "S00043",
+      "start": 78.38,
+      "end": 79.88,
+      "text": "我还要说"
+    },
+    {
+      "sid": "S00044",
+      "start": 79.88,
+      "end": 80.5,
+      "text": "我像也是"
+    },
+    {
+      "sid": "S00045",
+      "start": 80.5,
+      "end": 81.38,
+      "text": "一个啊"
+    },
+    {
+      "sid": "S00046",
+      "start": 81.38,
+      "end": 81.9,
+      "text": "我还要是"
+    },
+    {
+      "sid": "S00047",
+      "start": 81.9,
+      "end": 82.26,
+      "text": "有什么"
+    },
+    {
+      "sid": "S00048",
+      "start": 82.26,
+      "end": 82.46,
+      "text": "我还要有什么"
+    },
+    {
+      "sid": "S00049",
+      "start": 82.46,
+      "end": 83.12,
+      "text": "我还要不想要"
+    },
+    {
+      "sid": "S00050",
+      "start": 83.12,
+      "end": 83.66,
+      "text": "我"
+    },
+    {
+      "sid": "S00051",
+      "start": 83.66,
+      "end": 84.54,
+      "text": "我还要有什么"
+    }
+  ],
+  "crossing_segments_original": [
+    {
+      "sid": "S00031",
+      "start": 68.52,
+      "end": 69.86,
+      "text": "就讲到这个时候"
+    }
+  ],
+  "notice": "All original text is retained. Out-of-duration timestamps may be ASR hallucination or misalignment; no information-value verdict or permission upgrade follows from exclusion from the normal timed index."
+}

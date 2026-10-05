@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-030",
+  "youtube_id": "RRkgTfaBsEI",
+  "title": "人生必看！你蜕变的第一步丨如何获得自我丨21天",
+  "coverage": {
+    "transcript_segments_read": 423,
+    "transcript_time_range_seconds": [0.0, 673.9],
+    "sparse_frames_reviewed": 15,
+    "dense_frames_reviewed": 0,
+    "dense_windows_required_seconds": [],
+    "continuous_original_audio_visual_review": false
+  },
+  "timeline": [
+    {"start": 0.0, "end": 60.54, "summary": "A hypothetical high-status date contrasts anxiety under evaluation with ease after imagined observers and judgment disappear."},
+    {"start": 60.54, "end": 92.4, "summary": "Mikey links the episode to an earlier discussion of selfhood and promises a stepwise method from thought to behavior."},
+    {"start": 92.4, "end": 180.92, "summary": "Step one moves from external approval to internal standards: replace questions about what she likes with what one likes, and do one self-chosen activity each day."},
+    {"start": 180.92, "end": 292.22, "summary": "Step two establishes boundaries and saying no, distinguishing calm refusal from attacking workers or weaker people."},
+    {"start": 292.22, "end": 397.08, "summary": "Step three favors active choice over passive acceptance, illustrated with Parasite and Joker while explicitly disclaiming harm as a route to selfhood."},
+    {"start": 397.08, "end": 426.84, "summary": "He recommends offering three options in conversation and making more everyday decisions from one's own first-person standard."},
+    {"start": 426.84, "end": 521.78, "summary": "Step four says behavior can shape thought: imitate eye contact, direct expression and boundaries until those patterns become more stable."},
+    {"start": 521.78, "end": 573.44, "summary": "He turns the method into a 21-day challenge involving one self-directed act, one refusal, one active choice and one performance of confidence each day."},
+    {"start": 573.44, "end": 612.24, "summary": "Music or montage without transcribed teaching separates the main conclusion from later imported film dialogue."},
+    {"start": 612.24, "end": 673.9, "summary": "English film clips about authenticity, effort and resilience play as an inspirational coda; they are third-party dialogue rather than Mikey's original statements."}
+  ],
+  "claims": [
+    {"claim_id": "v030-c01", "speaker": "Mikey", "statement": "He proposes replacing external-approval questions with internal-standard questions such as what one likes and how one evaluates oneself.", "conditions": "Internal standards do not eliminate responsibility, feedback or the other person's preferences and boundaries.", "evidence": ["S00058-S00130@92.40-180.92"], "use_level": "context_only", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v030-c02", "speaker": "Mikey", "statement": "He recommends doing one activity each day primarily because one personally wants to do it, then reflecting on how outside evaluation affects the decision.", "conditions": "The activity must remain lawful, safe and respectful; sending a message because one wants to does not create a right to response or repeated contact.", "evidence": ["S00082-S00130@116.28-180.92"], "use_level": "context_only", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v030-c03", "speaker": "Mikey", "statement": "Boundary practice means refusing, naming discomfort or leaving when another person repeatedly crosses a stated line.", "conditions": "Use proportionate, respectful language and distinguish a genuine boundary from punishment, control or a test imposed on someone else.", "evidence": ["S00131-S00213@180.92-292.22"], "use_level": "context_only", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v030-c04", "speaker": "Mikey", "statement": "He distinguishes self-respect from venting at service workers or weaker people, calling the latter powerless rage rather than healthy boundaries.", "conditions": "The COVID-era security-guard comparison is a broad stereotype and is not needed for the narrower point.", "evidence": ["S00165-S00191@223.88-245.12"], "use_level": "context_only", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v030-c05", "speaker": "Mikey", "statement": "Active choice means proposing what one wants, supplying concrete options and making ordinary decisions rather than waiting for others to define every choice.", "conditions": "Offering choices is not control; the other person may reject every option or propose another.", "evidence": ["S00214-S00308@292.22-426.84"], "use_level": "context_only", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v030-c06", "speaker": "Mikey", "statement": "He uses Parasite and Joker to contrast dependence on approval with radical self-definition, while explicitly saying viewers do not need to harm anyone.", "conditions": "Fictional violence and distorted subjectivity are not models of healthy agency; the explicit disclaimer must remain attached.", "evidence": ["S00231-S00285@317.96-395.66", "sampled frames 000009-000010"], "use_level": "hold", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v030-c07", "speaker": "Mikey", "statement": "He argues behavior can shape mindset, recommending small rehearsals of eye contact, expression and boundary-setting before confidence feels natural.", "conditions": "Practice should be graded and authentic enough to avoid deception, intimidation or forced eye contact.", "evidence": ["S00309-S00366@426.84-521.78"], "use_level": "context_only", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v030-c08", "speaker": "Mikey", "statement": "He claims repeated performance of confidence and boundaries can become genuine selfhood and habit.", "conditions": "Plausible practice principle, but the video provides no measured outcome, adverse-effect monitoring or distinction between skill rehearsal and false persona.", "evidence": ["S00309-S00366@426.84-521.78"], "use_level": "hold", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v030-c09", "speaker": "Mikey", "statement": "He offers a 21-day challenge and predicts viewers will return transformed or grateful after daily self-directed acts, refusals, choices and displays of confidence.", "conditions": "Twenty-one days is an unsupported duration and not an effect guarantee; arbitrary daily refusal or performative bravado may be counterproductive.", "evidence": ["S00367-S00400@521.78-573.44"], "use_level": "hold", "knowledge_status": "hold_pending_independent_review"}
+  ],
+  "examples": [
+    {"example_id": "v030-e01", "summary": "The opening thought experiment removes the date and audience as evaluators to reveal how much anxiety comes from external judgment.", "evidence": ["S00001-S00057@0.00-92.40", "sampled frames 000001-000005"]},
+    {"example_id": "v030-e02", "summary": "Examples of boundaries include refusing an unreasonable overtime request, addressing lateness, naming discomfort and leaving after repeated crossing.", "evidence": ["S00131-S00213@180.92-292.22"]},
+    {"example_id": "v030-e03", "summary": "Suggested behavior rehearsals include three seconds of eye contact, stating an opinion and telling a late date that the behavior is impolite.", "evidence": ["S00327-S00348@453.38-469.18"]},
+    {"example_id": "v030-e04", "summary": "Film clips from Parasite, Joker and later English-language motivational scenes provide narrative illustrations rather than independent support.", "evidence": ["S00231-S00285@317.96-395.66", "S00401-S00423@612.24-673.90", "sampled frames 000009-000015"]}
+  ],
+  "speaker_attribution": [
+    {"speaker": "Mikey", "basis": "Single self-identified narrator for the Chinese teaching segment through 573 seconds."},
+    {"speaker": "film characters and motivational clip speakers", "basis": "English dialogue from 612-674 seconds and earlier film inserts; kept separate from Mikey's direct testimony."},
+    {"speaker": "hypothetical date, coworkers and workers", "basis": "Illustrative roles described by Mikey, not independently observed speakers."}
+  ],
+  "visual_findings": [
+    "All 15 sparse frames were reviewed. The program alternates Mikey's studio narration with dramatized social scenes, stock imagery and recognizable film clips.",
+    "No private chat screenshot or real-time boundary interaction appears in the sampled set; the exercises are narrated methods rather than observed outcomes.",
+    "Parasite, Joker and motivational-film inserts are editorial illustrations and cannot establish the psychological claims or the 21-day effect.",
+    "The last three sampled frames correspond to third-party English film dialogue, which must not be quoted as Mikey's own wording."
+  ],
+  "permissions": {"formal_integration": false, "first_person_allowed": false, "action_advice_allowed": false, "knowledge_status": "hold_pending_independent_review", "reason": "Contains potentially useful self-agency exercises but unsupported transformation claims, fictional violence examples and ambiguous daily refusal/performance instructions."},
+  "limitations": [
+    "Automatic transcript was not checked word-for-word and contains corrupt film titles, terms and idioms.",
+    "Fifteen sparse frames do not equal continuous audio-visual review.",
+    "The source does not measure baseline, adherence, outcomes or harms of the 21-day challenge.",
+    "The self and boundary framework overlaps formal Game Bible and live sources; repetition is not effectiveness evidence.",
+    "Agency must remain compatible with mutual choice, accurate communication and responsibility for impact."
+  ]
+}

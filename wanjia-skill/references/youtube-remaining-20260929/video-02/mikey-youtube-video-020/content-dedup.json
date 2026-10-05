@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-020",
+  "youtube_id": "myHvEWyuWZI",
+  "decision": "new",
+  "compared_sources": [
+    {"scope": "formal_mikey_guide", "source_count": 202, "comparison": "youtube_id_url_normalized_fulltext_and_8_12_16_character_shingles"},
+    {"source_id": "mikey-gameshengjing-015", "title": "第十五章 约会中常见的强行为线索（附赠）", "comparison": "closest formal topic; only 0.157% target containment at 12 characters"},
+    {"source_id": "9zRpsnsPGxU", "comparison": "related attraction/慕强 framework, no transcript-scale reuse"},
+    {"source_id": "mikey-gameshengjing-010", "comparison": "related persona/behavior-signaling theme, no transcript-scale reuse"}
+  ],
+  "evidence": [
+    {"type": "identity", "result": "no_exact_youtube_id_or_url_overlap", "basis": "current 202-source formal source-index"},
+    {"type": "normalized_fulltext", "target_normalized_chars": 3830, "target_sha256": "0c5d3b474333eae405a75950c819532e3253ccb1c0d3490f697e7f69dab321aa", "formal_transcripts_checked": 202, "exact_matches": []},
+    {"type": "near_duplicate_screen", "method": "rolling_character_shingle_target_containment", "highest_formal_match": "mikey-gameshengjing-015", "containment": {"8_chars": 0.0058062813, "12_chars": 0.0015731515, "16_chars": 0.0005242464}, "result": "topic overlap without transcript or clip-scale reuse"},
+    {"type": "visual_scope", "result": "distinct_studio_essay", "basis": "All 16 sampled frames were opened. The video is a single-host studio essay with illustrative film, graphic, message and fashion clips; no visual sequence indicates reuse of a full formal source."}
+  ],
+  "boundary": "Count as a new research-source candidate only after independent review. Topic overlap with formal strong-behavior and attraction sources should be reconciled at the claim level rather than treated as source reuse."
+}

@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-021",
+  "youtube_id": "1l8zI7O_wAc",
+  "title": "不要用力证明价值，这样只会暴露你的不安",
+  "coverage": {
+    "transcript_segments_read": 10,
+    "transcript_time_range_seconds": [0.0, 22.24],
+    "semantic_media_range_seconds": [0.0, 23.127075],
+    "sampled_frames_reviewed": 8,
+    "continuous_original_audio_visual_review": false,
+    "excluded_asr_tail": null
+  },
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 9.44,
+      "summary": "The speaker contrasts a genuinely happy, relaxed state with forcing a high-energy, excellent or cool performance."
+    },
+    {
+      "start": 9.44,
+      "end": 20.48,
+      "summary": "He says the performance lacks consistency when it does not match the person's current ordinary life and may come across as trying too hard or strange."
+    },
+    {
+      "start": 20.48,
+      "end": 23.127075,
+      "summary": "The final ASR phrase is unintelligible and is retained as an unresolved closing fragment rather than used as evidence."
+    }
+  ],
+  "claims": [
+    {
+      "claim_id": "s021-c01",
+      "speaker": "Mikey",
+      "statement": "He distinguishes a naturally happy and relaxed state from deliberately performing high energy, excellence or coolness.",
+      "conditions": "A statement about self-presentation in social interaction, not a clinical rule for reading anxiety or personality.",
+      "evidence": ["S00001-S00004@0.00-9.44"],
+      "use_level": "hold"
+    },
+    {
+      "claim_id": "s021-c02",
+      "speaker": "Mikey",
+      "statement": "He says a forced persona is inconsistent when it does not match the person's ordinary state and may be perceived as trying too hard.",
+      "conditions": "The claimed reaction from women is his generalization; the clip shows no recipient response or outcome.",
+      "evidence": ["S00005-S00009@9.44-20.48"],
+      "use_level": "hold"
+    }
+  ],
+  "speaker_attribution": [
+    {
+      "speaker": "Mikey",
+      "basis": "A single channel host is visible throughout and speaks continuously; no second speaker appears in the sampled frames."
+    }
+  ],
+  "visual_findings": [
+    "All 8 sampled frames show one seated man in the same cafe-like setting.",
+    "The frames add no chat screenshot, demonstration, recipient reaction, consent/refusal event, or independent outcome evidence."
+  ],
+  "permissions": {
+    "formal_integration": false,
+    "first_person_allowed": false,
+    "action_advice_allowed": false,
+    "use_level": "reuse_zero_weight",
+    "reason": "The consistency/non-performance lesson is already represented in formal sources."
+  },
+  "limitations": [
+    "The final S00010 ASR text is unintelligible and is excluded from claims.",
+    "Sparse sampled frames do not constitute continuous audio-visual review.",
+    "No audience reaction is shown, so the predicted perception is not independently demonstrated."
+  ]
+}

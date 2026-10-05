@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-023",
+  "youtube_id": "XyrXy0MmqDo",
+  "title": "你並不普通為什麼卻一點也不自信?丨強行爲線索丨自我提升丨社交認證丨自我意識覺醒丨社會底層代碼丨情感丨約會丨dating in china",
+  "coverage": {
+    "transcript_segments_read": 473,
+    "transcript_time_range_seconds": [0.0, 736.26],
+    "sparse_frames_reviewed": 16,
+    "dense_frames_reviewed": 0,
+    "dense_windows_required_seconds": [],
+    "continuous_original_audio_visual_review": false
+  },
+  "timeline": [
+    {"start": 0.0, "end": 79.26, "summary": "Mikey introduces low confidence as a deliberately produced social condition rather than an individual trait."},
+    {"start": 78.44, "end": 170.52, "summary": "He defines 'bottom men' through emotional, sexual and discursive passivity, then invokes a public accusation case and broad arrest-rate claims about Japan and Korea."},
+    {"start": 173.54, "end": 241.72, "summary": "He proposes a historical model in which private property and class hierarchy made male violence a threat that rulers needed to control."},
+    {"start": 240.72, "end": 342.80, "summary": "Marriage and monogamy are presented as institutions designed to bind ordinary men to families and remove incentives for revolt."},
+    {"start": 343.44, "end": 426.44, "summary": "Prostitution restrictions are interpreted as deliberate management of sexual-resource scarcity rather than public-health, labor or exploitation policy."},
+    {"start": 425.64, "end": 564.54, "summary": "He describes humility, education, family approval and selected Confucian sayings as spiritual controls that suppress male confidence."},
+    {"start": 562.62, "end": 661.64, "summary": "He argues that both women's expectations and men's ridicule enforce the same hierarchy and keep lower-status men competing."},
+    {"start": 658.22, "end": 736.26, "summary": "He concludes that insecure men are economically useful to elites and presents confidence as a system-breaking 'bug,' linking to the next confidence video."}
+  ],
+  "claims": [
+    {"claim_id": "v023-c01", "speaker": "Mikey", "statement": "He defines a socially subordinate man by passivity in emotional, sexual and public expression rather than by income alone.", "conditions": "A rhetorical category with moral loading, not a validated social-science classification.", "evidence": ["S00001-S00065@0.0-104.34"], "use_level": "hold", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v023-c02", "speaker": "Mikey discussing legal systems", "statement": "He claims false sexual accusations commonly lead to male detention and asserts that Japan and Korea arrest about 80 percent of accused men.", "conditions": "High-impact legal and statistical assertion; jurisdiction, offense definition, denominator, date and source are absent.", "evidence": ["S00048-S00110@78.44-170.52"], "use_level": "do_not_generalize", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v023-c03", "speaker": "Mikey", "statement": "He claims East Asian legal systems systematically privilege women and tolerate wrongful punishment of men to preserve social order.", "conditions": "Unsupported cross-jurisdiction legal and gender generalization; no statutes, cases or comparative data are supplied.", "evidence": ["S00081-S00110@129.92-170.52"], "use_level": "do_not_generalize", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v023-c04", "speaker": "Mikey", "statement": "His historical thesis is that property and class hierarchy made uncontrolled male violence dangerous to rulers, who then built institutions to channel it.", "conditions": "Large causal history inferred without sources and with many alternative explanations omitted.", "evidence": ["S00113-S00156@173.54-241.72"], "use_level": "hold", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v023-c05", "speaker": "Mikey", "statement": "Marriage and monogamy are framed as technologies that tie ordinary men to wives and children and reduce their willingness to rebel.", "conditions": "Historical and functional claim stated as intent; it cannot be inferred from selected customs alone.", "evidence": ["S00156-S00217@240.72-342.80"], "use_level": "do_not_generalize", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v023-c06", "speaker": "Mikey", "statement": "He claims bans on prostitution mainly preserve sexual scarcity so that men remain controllable through access to women.", "conditions": "Policy-intent attribution that omits exploitation, trafficking, labor, health and jurisdiction-specific law; no evidence is given.", "evidence": ["S00218-S00265@343.44-426.44"], "use_level": "do_not_generalize", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v023-c07", "speaker": "Mikey", "statement": "He says family, school, employment and selective teachings about humility train men to seek approval and suppress confidence.", "conditions": "Potential reflection theme, but the video collapses distinct institutions and quotes into one deliberate-control explanation.", "evidence": ["S00265-S00355@425.64-564.54"], "use_level": "hold", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v023-c08", "speaker": "Mikey", "statement": "He claims women's expectations and male peer ridicule jointly police low-status men and prevent them from challenging hierarchy.", "conditions": "Broad gender and peer-group generalization with no sampling or evidence; individual behavior cannot be inferred from it.", "evidence": ["S00355-S00423@562.62-661.64"], "use_level": "do_not_generalize", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v023-c09", "speaker": "Mikey", "statement": "He argues that elites and the economy require insecure men to work, compete and generate output, so confidence is systematically discouraged.", "conditions": "Conspiracy-like institutional-intent claim; the video provides no mechanism test, documentary record or counterevidence.", "evidence": ["S00423-S00462@658.22-719.44"], "use_level": "do_not_generalize", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v023-c10", "speaker": "Mikey", "statement": "He presents personal confidence as a 'system bug' that can loosen dependence on imposed rankings.", "conditions": "Retain only as a metaphor for questioning external status measures; it does not validate the preceding legal or historical claims.", "evidence": ["S00450-S00473@699.96-736.26"], "use_level": "context_only", "knowledge_status": "hold_pending_independent_review"}
+  ],
+  "examples": [
+    {"example_id": "v023-e01", "summary": "A public false-accusation case is used to introduce the claim that legal systems sacrifice men, but the video does not provide the case record or disposition.", "evidence": ["S00048-S00092@78.44-145.98", "sampled frames 000003-000004"]},
+    {"example_id": "v023-e02", "summary": "Historical imagery, rulers, soldiers, marriage scenes, Confucian symbols and institutional buildings illustrate the proposed control system without serving as primary evidence.", "evidence": ["S00113-S00355@173.54-564.54", "sampled frames 000005-000013"]}
+  ],
+  "speaker_attribution": [
+    {"speaker": "Mikey", "basis": "Single continuous host narration; all historical, legal and gender-system claims are his interpretation."},
+    {"speaker": "public-case participants and historical figures", "basis": "Shown or referenced through edited images and narration only; no complete independent statement is available."}
+  ],
+  "visual_findings": [
+    "All 16 sampled frames were reviewed. The edit alternates the host with public-case images, historical stock footage, marriage scenes, police or institutional imagery and symbolic graphics.",
+    "The visuals do not show statutes, court judgments, datasets, historical documents or policy records supporting the arrest-rate and institutional-intent claims.",
+    "No small-text evidentiary screen requiring targeted dense extraction was identified; the factual gaps require external source verification rather than more frames from the same montage."
+  ],
+  "permissions": {
+    "formal_integration": false,
+    "first_person_allowed": false,
+    "action_advice_allowed": false,
+    "knowledge_status": "hold_pending_independent_review",
+    "reason": "The source combines unsupported legal statistics, broad gender claims, historical intent attribution and conspiracy-like social explanations."
+  },
+  "limitations": [
+    "Automatic transcript was not checked word-for-word against original audio and contains uncertain names, historical terms and jurisdiction references.",
+    "Sixteen sparse frames do not equal continuous full-video audio-visual verification.",
+    "No primary legal, statistical, historical or policy sources are supplied in the video or visible samples.",
+    "The argument frequently moves from observed inequality to deliberate coordinated intent without testing alternative explanations.",
+    "Related formal knowledge repeats parts of the thesis but does not independently corroborate it."
+  ]
+}

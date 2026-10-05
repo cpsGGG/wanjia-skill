@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-045",
+  "youtube_id": "iMi4ns51Xgw",
+  "decision": "reuse",
+  "reuse_of": "mikey-approach-017",
+  "formal_weight_if_integrated": 0,
+  "compared_sources": [
+    {"scope": "formal_mikey_guide", "source_count": 202, "comparison": "youtube_id_url_and_targeted_fulltext_screen"},
+    {"source_id": "mikey-approach-017", "title": "搭讪甜妹", "comparison": "complete transcript, duration, event order, episode analysis and visual review"}
+  ],
+  "evidence": [
+    {"type": "identity", "result": "different_public_identity_but_same_underlying_recording", "basis": "The formal local source has no public URL; video-05 identity precheck therefore has no exact ID match."},
+    {"type": "normalized_fulltext", "target_segments": 80, "target_normalized_chars": 340, "target_normalized_sha256": "26ff873f38219459a1d5f1e73a5acb26ad1dbcb99b0d44ebed06129a078373e3", "formal_target_segments": 70, "target_12_character_shingle_containment_in_formal_source": 0.607903, "note": "Different ASR segmentation; all events and distinctive filming/age passages align."},
+    {"type": "duration", "target_media_seconds": 94.017596, "formal_media_seconds": 93.970998, "difference_seconds": 0.046598, "result": "same_duration"},
+    {"type": "ordered_content_alignment", "result": "same_recording", "basis": "Same compliment/introduction, filming question and denial/qualification, coffee rescheduling, WeChat request, age-18 exchange, Chinese-makeup age generalization, Chengdu-stay question and 'give me a chance' ending."},
+    {"type": "visual_scope", "result": "same_single_public_interaction", "basis": "Both sampled frames show the same man and white-jacketed woman beside the same advertising panel, matching formal approach-017's single continuous street scene."}
+  ],
+  "boundary": "Same recording as mikey-approach-017. Preserve its public URL as a pointer only, with zero additional source, claim, example or outcome weight."
+}

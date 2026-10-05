@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-004",
+  "youtube_id": "ea-wnYQpZWM",
+  "review_completed": true,
+  "items": [
+    {"review_id": "v004-r01", "severity": "blocking_for_case_fact", "issue": "The student's identity, the photographer's identity, the three-date chronology and the claimed sexual outcome are not independently verifiable from this edited upload.", "affected_evidence": ["S00001-S00009", "S00372-S00386"], "disposition": "Keep the case outcome context_only."},
+    {"review_id": "v004-r02", "severity": "major", "issue": "The video shows edited and partly blurred chat/feedback cards rather than a complete export; exact roles, omissions and message order cannot be fully reconstructed.", "affected_evidence": ["visual dense windows 120-210, 240-335, 450-535"], "disposition": "Use only the coarse sequence explicitly narrated; do not quote unreadable screenshot text."},
+    {"review_id": "v004-r03", "severity": "major", "issue": "The attribution of the woman's motivations and fear of being hurt is relayed through the student's post-date report and Mikey's interpretation.", "affected_evidence": ["S00344-S00371"], "disposition": "Attribute the interpretation to Mikey and avoid treating it as her verified internal state."},
+    {"review_id": "v004-r04", "severity": "major", "issue": "The claim that using alcohol creates legal risk is not tied to a jurisdiction or legal source.", "affected_evidence": ["S00270-S00299"], "disposition": "Preserve the ethical/consent warning; do not give jurisdiction-specific legal advice from this source."},
+    {"review_id": "v004-r05", "severity": "minor", "issue": "Several automatic-transcript terms are likely recognition errors, including the venue at S00071 and some gender pronouns.", "affected_evidence": ["S00038", "S00059", "S00071", "S00125", "S00315-S00318"], "disposition": "Do not quote these words verbatim without audio review; the surrounding argument remains understandable."}
+  ]
+}

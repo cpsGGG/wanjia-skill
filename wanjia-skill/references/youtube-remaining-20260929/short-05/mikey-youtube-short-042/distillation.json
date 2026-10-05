@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-042",
+  "youtube_id": "VBGL7Bb12Io",
+  "title": "真实搭讪，在故宫搭讪",
+  "coverage": {
+    "transcript_segments_read": 14,
+    "transcript_time_range_seconds": [0.0, 37.63],
+    "semantic_media_range_seconds": [0.0, 36.850068],
+    "sampled_frames_reviewed": 12,
+    "dense_1s_frames_reviewed": 37,
+    "continuous_original_audio_visual_review": false,
+    "excluded_asr_tail": "S00014@35.63-37.63 ends 0.779932 seconds after the audited 36.850068-second media duration and is excluded in full from timeline, claims and evidence."
+  },
+  "timeline": [
+    {"start": 0.0, "end": 9.22, "summary": "The first-person camera follows and approaches a woman in the Forbidden City plaza; the opening speech is too unclear to support a claim."},
+    {"start": 9.22, "end": 15.22, "summary": "The camera-holder greets her, says he wants to meet her and says he finds her attractive."},
+    {"start": 15.22, "end": 27.39, "summary": "The woman checks whether he wants to add WeChat, he confirms, and they present phones for what appears to be a scan or contact exchange. The device state is not readable."},
+    {"start": 27.39, "end": 35.63, "summary": "He asks where she is going, she says she is going to buy water, and the in-bounds transcript records an OK and goodbye."},
+    {"start": 35.63, "end": 36.850068, "summary": "The media closes after the goodbye. S00014 is excluded because its timestamp extends beyond the audited media duration, so this interval supplies no additional dialogue claim."}
+  ],
+  "claims": [
+    {"claim_id": "s042-c01", "speaker": "male_camera_holder_unconfirmed", "statement": "The camera-holder clearly states that he wants to meet the woman and gives a direct appearance-based compliment.", "conditions": "This is an observed line in one edited encounter, not proof that the line caused cooperation; his identity is not independently authenticated.", "evidence": ["S00003-S00005@9.22-15.22", "visual/dense-1s/000010.jpg-visual/dense-1s/000015.jpg"], "use_level": "hold"},
+    {"claim_id": "s042-c02", "speaker": "woman_and_male_camera_holder", "statement": "The woman verbally clarifies that he wants to add WeChat, and the two then hold phones together in an apparent scan attempt.", "conditions": "The screens are unreadable; this does not prove a saved contact, attraction, informed filming consent or later interaction.", "evidence": ["S00006-S00010@15.22-27.39", "visual/dense-1s/000016.jpg-visual/dense-1s/000027.jpg"], "use_level": "hold"}
+  ],
+  "examples": [
+    {"example_id": "s042-e01", "summary": "A public approach progresses from an explicit wish to meet, through mutual clarification about WeChat, to phone handling and a short logistical close.", "evidence": ["S00003-S00013@9.22-35.63", "visual/dense-contact-sheet.jpg"]}
+  ],
+  "speaker_attribution": [
+    {"speaker": "male_camera_holder_unconfirmed", "basis": "Male speech aligns with the first-person camera and hands, but no reviewed frame independently identifies him as Mikey."},
+    {"speaker": "woman", "basis": "The visible woman speaks while facing the camera-holder; exact turn boundaries around S00006-S00010 remain partly automatic."}
+  ],
+  "visual_findings": [
+    "All twelve sampled frames and all thirty-seven one-second dense frames were reviewed.",
+    "The woman is identifiable in a public tourist site and visibly holds her phone during the exchange.",
+    "The camera-holder brings a phone close to hers, but no readable screen confirms a saved contact or account identity."
+  ],
+  "permissions": {"formal_integration": false, "first_person_allowed": false, "action_advice_allowed": false, "use_level": "research_candidate_hold", "reason": "Distinct edited case only; identity, publication consent, device result and later outcome are unverified, and S00014 overruns the media."},
+  "limitations": [
+    "S00014 is excluded in full because its end time exceeds the media duration; it is not used as dialogue evidence or in any claim.",
+    "The opening S00001-S00002 is too unclear for semantic use.",
+    "An apparent QR or phone scan does not establish that the contact was saved or voluntarily used later.",
+    "Visible identity and an unverified filming/publication context create privacy concerns.",
+    "One-second visual review is not continuous original audio-visual verification."
+  ]
+}

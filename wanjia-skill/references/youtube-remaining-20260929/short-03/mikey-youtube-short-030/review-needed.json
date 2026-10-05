@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-030",
+  "youtube_id": "Dn0SHuE89J0",
+  "review_completed": true,
+  "items": [
+    {
+      "review_id": "s030-r01",
+      "severity": "major",
+      "category": "third_party_attribution",
+      "issue": "The opening dialogue and the woman's reaction are available only through Mikey's retelling.",
+      "affected_evidence": ["S00001-S00016"],
+      "disposition": "Attribute as an unverified self-report and do not treat the woman's words or silence as independently confirmed."
+    },
+    {
+      "review_id": "s030-r02",
+      "severity": "blocking",
+      "category": "gender_hostility",
+      "issue": "The clip responds to a gendered insult with reciprocal labeling, intelligence insults and broad claims about women's self-interested reasoning.",
+      "affected_evidence": ["S00014-S00038"],
+      "disposition": "Do not generate retaliatory insults or use the passage to infer an individual's motives from gender."
+    },
+    {
+      "review_id": "s030-r03",
+      "severity": "major",
+      "category": "philosophy_scope",
+      "issue": "Materialism and idealism are redefined as selectively following facts or personal interests, without a stable explanation and in tension with other formal passages.",
+      "affected_evidence": ["S00039-S00060"],
+      "disposition": "Preserve as his local terminology only; do not present as standard philosophy or a factual decision rule."
+    },
+    {
+      "review_id": "s030-r04",
+      "severity": "major",
+      "category": "asr_tail",
+      "issue": "S00061 crosses the 109.226667-second endpoint and S00062-S00063 lie beyond it.",
+      "affected_evidence": ["S00061-S00063"],
+      "disposition": "Exclude all three SIDs from claims and timeline evidence."
+    },
+    {
+      "review_id": "s030-r05",
+      "severity": "major",
+      "category": "source_reuse",
+      "issue": "No same-passage parent was found, but the usable method content is already represented by formal live-037 and EIcItpA_RZU.",
+      "affected_evidence": ["whole source"],
+      "disposition": "Record semantic reuse explicitly and keep formal weight at zero."
+    }
+  ]
+}

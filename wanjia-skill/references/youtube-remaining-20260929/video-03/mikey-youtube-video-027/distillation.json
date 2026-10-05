@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-027",
+  "youtube_id": "uIiEXJAGugY",
+  "title": "男性魅力的底层逻辑，车澈的魅力",
+  "coverage": {
+    "transcript_segments_read": 396,
+    "transcript_time_range_seconds": [0.0, 634.87],
+    "sparse_frames_reviewed": 14,
+    "dense_frames_reviewed": 32,
+    "dense_windows_required_seconds": [],
+    "dense_review_paths": ["visual/dense-public-posts-270-430/manifest.json"],
+    "continuous_original_audio_visual_review": false
+  },
+  "timeline": [
+    {"start": 0.0, "end": 30.0, "summary": "A montage asks why two named women are drawn to director Che Che and answers with Mikey's strong-behavior framework."},
+    {"start": 30.0, "end": 148.67, "summary": "Mikey introduces a trending public-figure incident, criticizes moralizing and money-only explanations, and says viewers should infer the values behind behavior rather than copy techniques."},
+    {"start": 148.67, "end": 280.94, "summary": "He interprets the director's authority among rappers as achievement attraction produced by creating a cultural platform and value."},
+    {"start": 280.94, "end": 336.56, "summary": "He contrasts workplace status with behavior around women and defines consistency as carrying calm, self-directed authority across contexts."},
+    {"start": 336.56, "end": 459.08, "summary": "Using public posts and interview clips, he assigns protective, submissive and hostile motives to the director's former wife and another named woman."},
+    {"start": 459.08, "end": 527.42, "summary": "Resources are reframed as the capacity to identify talent, connect it to platforms and solve problems rather than mere possession of contacts."},
+    {"start": 527.42, "end": 571.49, "summary": "He claims modern attraction to strength has shifted from physical protection to cognition and behavior, while providers without those traits become ATMs."},
+    {"start": 571.49, "end": 634.87, "summary": "He invokes a mission to change viewers and ends with contemptuous generalizations about women and men who disagree; the final section contains long music or held audio."}
+  ],
+  "claims": [
+    {"claim_id": "v027-c01", "speaker": "Mikey", "statement": "He asks viewers to infer underlying values and judgment patterns rather than mechanically copying one line or technique.", "conditions": "Useful as a learning principle only if the underlying values themselves are critically assessed.", "evidence": ["S00020-S00102@30.00-148.67"], "use_level": "context_only", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v027-c02", "speaker": "Mikey", "statement": "He defines achievement attraction as respect or interest generated when someone creates value, starts a cultural movement or becomes a recognized problem solver.", "conditions": "A conceptual interpretation; the video does not establish a causal psychological construct or the named people's attraction.", "evidence": ["S00103-S00181@148.67-280.94", "S00298-S00350@459.08-527.42"], "use_level": "hold", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v027-c03", "speaker": "Mikey", "statement": "Strong behavior is described as consistency across contexts, calmness, self-direction and authority rather than workplace status alone.", "conditions": "Calm self-regulation is separable; ordering a partner to be quiet or maintaining a high position is not automatically healthy authority.", "evidence": ["S00182-S00216@280.94-336.56"], "use_level": "context_only", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v027-c04", "speaker": "Mikey discussing identifiable people", "statement": "He claims a former wife's divorce clarification was primarily intended to protect her ex-husband and that another woman redirected attacks toward the former wife because both women were weaker than the man.", "conditions": "Hidden-intent attribution about identifiable people based on edited posts and clips; no direct testimony establishes these motives.", "evidence": ["S00217-S00297@336.56-459.08", "visual/dense-public-posts-270-430/"], "use_level": "do_not_generalize", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v027-c05", "speaker": "Mikey discussing identifiable people", "statement": "He treats deference, public clarification and a calm public response as evidence that the director occupies a genuinely higher position in the relationships.", "conditions": "Edited public material cannot establish private relationship dynamics, attraction, sexual conduct or power hierarchy.", "evidence": ["S00217-S00297@336.56-459.08"], "use_level": "do_not_generalize", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v027-c06", "speaker": "Mikey", "statement": "He distinguishes having resources from being able to recognize talent, connect people and platforms, and solve problems when obstacles appear.", "conditions": "The general capability distinction is plausible, but the named director's role and causal contribution are inferred rather than demonstrated.", "evidence": ["S00298-S00350@459.08-527.42"], "use_level": "context_only", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v027-c07", "speaker": "Mikey", "statement": "He claims contemporary women admire cognitive and behavioral strength rather than only physical protection or resource provision.", "conditions": "Broad gender generalization without representative evidence; retain only as his stated model.", "evidence": ["S00351-S00379@527.42-571.49"], "use_level": "hold", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v027-c08", "speaker": "Mikey", "statement": "He dismisses critics as envious crowds and ends by suggesting badly socialized women would behave differently if fewer men knelt to them.", "conditions": "Contemptuous and unsupported group framing; not usable as advice or evidence about critics or women.", "evidence": ["S00035-S00065@50.24-102.42", "S00380-S00396@571.49-634.87"], "use_level": "do_not_generalize", "knowledge_status": "hold_pending_independent_review"}
+  ],
+  "examples": [
+    {"example_id": "v027-e01", "summary": "The director's perceived authority among rappers is used to illustrate achievement attraction, but the footage is selected and does not rule out formal workplace power or editing.", "evidence": ["S00103-S00181@148.67-280.94", "sampled frames 000002-000005"]},
+    {"example_id": "v027-e02", "summary": "A former wife's clarification, another woman's long post, reactions and interview fragments are displayed in an edited sequence; the visuals establish that selected posts were shown, not Mikey's motive theory.", "evidence": ["S00217-S00297@336.56-459.08", "visual/dense-public-posts-270-430/manifest.json"]},
+    {"example_id": "v027-e03", "summary": "Long student testimonial screenshots appear while Mikey contrasts social status with insecurity around women; their authenticity, privacy authorization and outcomes are not established.", "evidence": ["S00182-S00216@280.94-336.56", "visual/dense-public-posts-270-430/000005.jpg", "visual/dense-public-posts-270-430/000006.jpg"]}
+  ],
+  "speaker_attribution": [
+    {"speaker": "Mikey", "basis": "Single self-identified studio narrator in the main footage."},
+    {"speaker": "Che Che, Li Jiage and NINEONE", "basis": "Identifiable public figures shown through selected public clips and posts; private motives are narrated by Mikey rather than confirmed by them."},
+    {"speaker": "students or testimonial authors", "basis": "Text appears in blurred or partly redacted screenshots; authorship and permission are not independently verified."},
+    {"speaker": "commenters and embedded interview subjects", "basis": "Appear only in edited screenshots or short clips and are not mapped as Mikey's statements."}
+  ],
+  "visual_findings": [
+    "All 14 sparse frames and 32 targeted dense frames from 270-430 seconds were reviewed. The video alternates Mikey's studio narration with entertainment clips, public posts, long testimonials and news-style inserts.",
+    "The dense sequence preserves readable excerpts of a divorce clarification, NINEONE's public response, third-party reactions and a longer green chat-like statement. These are selected screens without provenance, full thread context or response completeness.",
+    "Two long student testimonial screenshots contain personal experience and course praise; identities are partly blurred, but the material remains a promotional self-report rather than independent outcome evidence.",
+    "The displayed public posts support only that the video showed those words. They do not support Mikey's claims that one woman acted to protect the man, another attacked downward, or either admired him because of a power hierarchy."
+  ],
+  "permissions": {"formal_integration": false, "first_person_allowed": false, "action_advice_allowed": false, "knowledge_status": "hold_pending_independent_review", "reason": "Relies on identifiable-person motive speculation, selected public posts, private testimonial screens and broad gender/power generalizations."},
+  "limitations": [
+    "Automatic transcript was not checked word-for-word and repeatedly corrupts names and terms.",
+    "Targeted stills remain discontinuous and do not establish the full chronology or authenticity of posts and clips.",
+    "No independent evidence establishes the named people's relationship status at each event, motives, sexual conduct or private power dynamics.",
+    "Course testimonials and Mikey's student observations are promotional self-reports, not controlled evidence.",
+    "The general ideas of consistency and problem solving must be separated from dominance, contempt and unilateral control."
+  ]
+}

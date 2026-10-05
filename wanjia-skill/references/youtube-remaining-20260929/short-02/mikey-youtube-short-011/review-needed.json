@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-011",
+  "youtube_id": "kKNgwMlrzk8",
+  "review_completed": true,
+  "items": [
+    {
+      "review_id": "s011-r01",
+      "severity": "blocking",
+      "category": "consent",
+      "issue": "The clip discusses body contact through inferred confidence and availability but never establishes explicit consent.",
+      "affected_evidence": [
+        "S00017-S00040"
+      ],
+      "disposition": "Never convert this into permission to touch; require freely given, reversible consent."
+    },
+    {
+      "review_id": "s011-r02",
+      "severity": "major",
+      "category": "asr_tail",
+      "issue": "The ASR continues 4.41 seconds past the media endpoint.",
+      "affected_evidence": [
+        "S00041-S00047"
+      ],
+      "disposition": "Exclude all overrun SIDs from timeline and claims."
+    },
+    {
+      "review_id": "s011-r03",
+      "severity": "major",
+      "category": "source_reuse",
+      "issue": "The same lesson is already covered by formal jvFRTgH_4cE and video-01 source 007.",
+      "affected_evidence": [
+        "whole source"
+      ],
+      "disposition": "Keep formal weight at zero."
+    }
+  ]
+}

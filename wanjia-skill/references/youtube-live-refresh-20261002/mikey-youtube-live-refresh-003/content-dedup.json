@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-live-refresh-003",
+  "youtube_id": "EPmR6XOphxY",
+  "decision": "reuse_pending",
+  "reuse_of": "mikey-youtube-video-003",
+  "independent_source_weight": 0,
+  "formal_weight": 0,
+  "compared_sources": [
+    {
+      "scope": "formal_mikey_guide",
+      "source_count": 202,
+      "comparison": "Identity and prior formal full-transcript screening inherited from mikey-youtube-video-003/content-dedup.json; neither YouTube ID is an exact formal source identity."
+    },
+    {
+      "scope": "same_case_edited_upload",
+      "source_id": "mikey-youtube-video-003",
+      "youtube_id": "efyqkeWyhUw",
+      "comparison": "Full normalized transcript sequence, exact normalized n-grams, duration/context and raw Chromaprint sequence; both full transcripts and the edited upload's distillation/review files were read."
+    },
+    {
+      "scope": "same_batch",
+      "source_count": 3,
+      "comparison": "Batch identity metadata and mature sibling dedup files; o1Auc_79NR8 is a later follow-up to the same underlying case, not proof of the narrated events."
+    }
+  ],
+  "evidence": [
+    {
+      "type": "identity_and_duration",
+      "result": "same_title_long_live_and_short_edited_upload",
+      "basis": "EPmR6XOphxY is the approximately 8076-second live version; efyqkeWyhUw is the approximately 2441-second edited upload of the same named case."
+    },
+    {
+      "type": "normalized_fulltext_ordered_containment",
+      "result": "suspected_containment_supported",
+      "basis": "Candidate has 14,259 normalized units; 12,996 appear in order in the live, for 0.911424 candidate containment. There are 1,003 matching blocks. This supports suspected containment but does not by itself prove common origin."
+    },
+    {
+      "type": "unrelated_video_negative_controls",
+      "result": "text_similarity_specificity_supported",
+      "basis": "Using the same ordered normalized-text containment method, unrelated video-001, video-002 and video-004 score only 0.012343, 0.026439 and 0.009327 against the live. This makes the 0.911424 result specific to efyqkeWyhUw rather than a generic corpus effect."
+    },
+    {
+      "type": "normalized_exact_ngrams",
+      "result": "large_overlap",
+      "basis": "Candidate containment is 0.544408 for 8-unit unique n-grams, 0.390079 for 12, 0.282916 for 16 and 0.158261 for 24."
+    },
+    {
+      "type": "audio_fingerprint",
+      "result": "conflicting_limiting_signal",
+      "basis": "Raw Chromaprint sequence containment is only 0.002235 with a largest contiguous ratio of 0.000254; it does not establish audio containment and may be affected by editing, overlays, pauses or codec differences."
+    },
+    {
+      "type": "semantic_and_visual_sequence",
+      "result": "same_case_sequence",
+      "basis": "Both sources cover the same progression: social-media like and private message, low-investment replies, mutual voice notes, a 361-minute call, disclosure of a boyfriend, edited call material, concealment/travel plans, Tianfu airport arrival, alleged meeting, pregnancy/paternity audio and the provider-versus-lover conclusion."
+    },
+    {
+      "type": "live_unique_context",
+      "result": "retained_without_independent_weight",
+      "basis": "The live preserves setup, audio/layout adjustments, viewer comments, repeated teaching explanations, pauses, longer chat scrolling, editing disclosures, regret/contradiction and closing promotion. These contextual differences do not make the underlying case independent evidence."
+    }
+  ],
+  "boundary": "Treat mikey-youtube-live-refresh-003 as reuse_pending relative to mikey-youtube-video-003 with independent_source_weight=0 and formal_weight=0. The 91.14% ordered text containment is a strong suspected-containment signal, but the 0.22% Chromaprint result conflicts and common origin is not proven. Preserve unique pre-roll, post-roll, live commentary and visual context as provenance and interpretation evidence. Do not use repetition across the two uploads, or the later follow-up, as corroboration that the private case claims are true. Resolve only with stronger continuous-audio or edit-chain evidence."
+}

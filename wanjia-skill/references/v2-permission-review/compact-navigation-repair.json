@@ -1,0 +1,1617 @@
+{
+  "role": "exact_locator_mechanical_repair",
+  "proposal_sha256": "3aa772df4ca40610b163e2a8725607e683f747c92add9bc817a019c16f6a7717",
+  "items": [
+    {
+      "knowledge_id": "mikey-youtube-live-010-K0007",
+      "child_id": "v2-action-live010-recovered-k0007",
+      "old_proposed_atom_record_sha256": "ad9857e27dd405f87a727ed9cf665791ee947ed3b83059d3cfebb1af34b92ccf",
+      "proposed_atom_record_sha256": "febe4bd8407dbd3f87e9054198d81dc17234a023c823e158037ee1bfd40b2398",
+      "original_raw_line_sha256_including_line_ending": "66a3e5d00e9d44dacdcafa77e87029d53ba06aa92332e46b9fd74e33cdafacf1",
+      "before_whole_object": {
+        "action_payload": {
+          "editorial_applicability": [
+            "讨论正常、双方愿意继续的聊天或约会中，思考与当下体验的关系。",
+            "本载荷没有规定约会阶段的分类、转场目的或具体推进动作；那些内容必须另找来源。"
+          ],
+          "goal": "在聊天或约会里，短暂判断当前阶段和下一步策略，与投入当下的互动并不矛盾；确定行动后，再回到当下去执行。",
+          "next_observation": {
+            "instruction": null,
+            "origin": "editorial_runtime_status_only",
+            "source_taught": false,
+            "status": "not_provided_by_source"
+          },
+          "not_in_payload": [
+            "[证据范围] 完整已保存自动稿的真实SID已回读，修正的是旧段号对应；本轮没有新回听、声纹、连续画面或逐句音校。",
+            "[归属范围] 读题与回答按原问答结构分开；只改述本段Mikey回应，不冒认本人、亲历或原话。",
+            "[必要条件] 讨论正常、双方愿意继续的聊天或约会中，思考与当下体验的关系。",
+            "[必要条件] 本载荷没有规定约会阶段的分类、转场目的或具体推进动作；那些内容必须另找来源。",
+            "[未授权扩展] 不把原十几二十秒定为必须遵守的计时规则。",
+            "[未授权扩展] 原稿S00448/S00449有记了等未音校词面，不用于直接引语或成功率预测。",
+            "[未授权扩展] 游戏只是Mikey的类比，不能作为已经证明所有约会都适用的实验。",
+            "[未授权扩展] 不能把全程思考必然失败、疲惫必然没享受等人物强判断当成现实诊断或确定效果。",
+            "[观察归属] 本载荷没有来源明确的观察量表，不额外编造复盘指标、频率或疗效。",
+            "[父条与效果] 父条与其他SID不继承许可；实际效果和完整原问题未获全面核实。",
+            "[读题边界] S00388–S00390是代读观众问题，只作上下文；人物回应从S00391开始，读题不作为Mikey立场。",
+            "[编者条件归属] 双方愿意继续及遇到拒绝即停止是项目的使用条件，不声称这是本段来源教出的步骤；本方法不补出约会阶段分类、推进目的或具体推进动作。"
+          ],
+          "source_and_review_limits": [
+            "不把原十几二十秒定为必须遵守的计时规则。",
+            "原稿S00448/S00449有记了等未音校词面，不用于直接引语或成功率预测。",
+            "游戏只是Mikey的类比，不能作为已经证明所有约会都适用的实验。",
+            "不能把全程思考必然失败、疲惫必然没享受等人物强判断当成现实诊断或确定效果。"
+          ],
+          "source_applicability": [
+            "本段讨论聊天或约会中，短暂判断当前阶段和下一步策略之后回到互动的关系。"
+          ],
+          "source_viewpoint": {
+            "claim": "在聊天或约会里，短暂判断当前阶段和下一步策略，与投入当下的互动并不矛盾；确定行动后，再回到当下去执行。",
+            "editorial_use_limits": [
+              "[证据范围] 完整已保存自动稿的真实SID已回读，修正的是旧段号对应；本轮没有新回听、声纹、连续画面或逐句音校。",
+              "[归属范围] 读题与回答按原问答结构分开；只改述本段Mikey回应，不冒认本人、亲历或原话。",
+              "[必要条件] 讨论正常、双方愿意继续的聊天或约会中，思考与当下体验的关系。",
+              "[必要条件] 本载荷没有规定约会阶段的分类、转场目的或具体推进动作；那些内容必须另找来源。",
+              "[未授权扩展] 不把原十几二十秒定为必须遵守的计时规则。",
+              "[未授权扩展] 原稿S00448/S00449有记了等未音校词面，不用于直接引语或成功率预测。",
+              "[未授权扩展] 游戏只是Mikey的类比，不能作为已经证明所有约会都适用的实验。",
+              "[未授权扩展] 不能把全程思考必然失败、疲惫必然没享受等人物强判断当成现实诊断或确定效果。",
+              "[观察归属] 本载荷没有来源明确的观察量表，不额外编造复盘指标、频率或疗效。",
+              "[父条与效果] 父条与其他SID不继承许可；实际效果和完整原问题未获全面核实。",
+              "[读题边界] S00388–S00390是代读观众问题，只作上下文；人物回应从S00391开始，读题不作为Mikey立场。",
+              "[编者条件归属] 双方愿意继续及遇到拒绝即停止是项目的使用条件，不声称这是本段来源教出的步骤；本方法不补出约会阶段分类、推进目的或具体推进动作。"
+            ],
+            "reason": "Mikey区分短暂判断与全程在头脑里反复演算，用游戏时查看小地图或计分板后继续操作的类比解释二者可以交替。"
+          },
+          "steps": [
+            {
+              "number": 1,
+              "origin": "source_explicit_action_paraphrase",
+              "source_sids": [
+                "S00393",
+                "S00394",
+                "S00395",
+                "S00396",
+                "S00397",
+                "S00398",
+                "S00399",
+                "S00400",
+                "S00401"
+              ],
+              "text": "短暂思考当前互动处于什么阶段，下一步打算做什么。"
+            },
+            {
+              "number": 2,
+              "origin": "source_explicit_action_paraphrase",
+              "source_sids": [
+                "S00402",
+                "S00403",
+                "S00404",
+                "S00405",
+                "S00406",
+                "S00407"
+              ],
+              "text": "确定这次行动后，回到当下互动并执行刚确定的策略。"
+            }
+          ]
+        },
+        "claim": "在聊天或约会里，短暂判断当前阶段和下一步策略，与投入当下的互动并不矛盾；确定行动后，再回到当下去执行。",
+        "conditions": [
+          "讨论正常、双方愿意继续的聊天或约会中，思考与当下体验的关系。",
+          "本载荷没有规定约会阶段的分类、转场目的或具体推进动作；那些内容必须另找来源。"
+        ],
+        "conditions_attribution": "source_context_with_explicit_editorial_usage_boundary_not_all_source_taught",
+        "editorial_conditions": [
+          "不按本条解决同意、身份、医疗或其他缺证据问题；对方拒绝或不愿继续时不推进。该停止边界为项目使用条件，不是本段新增Mikey步骤。"
+        ],
+        "editorial_use_limits": [
+          "[证据范围] 完整已保存自动稿的真实SID已回读，修正的是旧段号对应；本轮没有新回听、声纹、连续画面或逐句音校。",
+          "[归属范围] 读题与回答按原问答结构分开；只改述本段Mikey回应，不冒认本人、亲历或原话。",
+          "[必要条件] 讨论正常、双方愿意继续的聊天或约会中，思考与当下体验的关系。",
+          "[必要条件] 本载荷没有规定约会阶段的分类、转场目的或具体推进动作；那些内容必须另找来源。",
+          "[未授权扩展] 不把原十几二十秒定为必须遵守的计时规则。",
+          "[未授权扩展] 原稿S00448/S00449有记了等未音校词面，不用于直接引语或成功率预测。",
+          "[未授权扩展] 游戏只是Mikey的类比，不能作为已经证明所有约会都适用的实验。",
+          "[未授权扩展] 不能把全程思考必然失败、疲惫必然没享受等人物强判断当成现实诊断或确定效果。",
+          "[观察归属] 本载荷没有来源明确的观察量表，不额外编造复盘指标、频率或疗效。",
+          "[父条与效果] 父条与其他SID不继承许可；实际效果和完整原问题未获全面核实。",
+          "[读题边界] S00388–S00390是代读观众问题，只作上下文；人物回应从S00391开始，读题不作为Mikey立场。",
+          "[编者条件归属] 双方愿意继续及遇到拒绝即停止是项目的使用条件，不声称这是本段来源教出的步骤；本方法不补出约会阶段分类、推进目的或具体推进动作。"
+        ],
+        "effectiveness": {
+          "status": "not_verified"
+        },
+        "evidence": [
+          {
+            "end": 908.74,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00388",
+            "source_id": "mikey-youtube-live-010",
+            "start": 904.28,
+            "text": "但是学了学习了约会的几个阶段"
+          },
+          {
+            "end": 910.4,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00389",
+            "source_id": "mikey-youtube-live-010",
+            "start": 908.74,
+            "text": "关注约会处于什么阶段"
+          },
+          {
+            "end": 911.7,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00390",
+            "source_id": "mikey-youtube-live-010",
+            "start": 910.4,
+            "text": "是不是就不是在当下"
+          },
+          {
+            "end": 912.78,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00391",
+            "source_id": "mikey-youtube-live-010",
+            "start": 911.7,
+            "text": "不是这样子的"
+          },
+          {
+            "end": 914.46,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00392",
+            "source_id": "mikey-youtube-live-010",
+            "start": 912.78,
+            "text": "比如说我跟你们讲"
+          },
+          {
+            "end": 916.6,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00393",
+            "source_id": "mikey-youtube-live-010",
+            "start": 914.46,
+            "text": "怎么样去评估当下这个阶段"
+          },
+          {
+            "end": 918.3,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00394",
+            "source_id": "mikey-youtube-live-010",
+            "start": 916.6,
+            "text": "我们在跟这女生聊天的时候"
+          },
+          {
+            "end": 919.12,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00395",
+            "source_id": "mikey-youtube-live-010",
+            "start": 918.3,
+            "text": "约会的时候呢"
+          },
+          {
+            "end": 921.74,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00396",
+            "source_id": "mikey-youtube-live-010",
+            "start": 919.12,
+            "text": "我们突然就是把大脑"
+          },
+          {
+            "end": 925.14,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00397",
+            "source_id": "mikey-youtube-live-010",
+            "start": 921.74,
+            "text": "就是把我们人给抽离回当下"
+          },
+          {
+            "end": 926.64,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00398",
+            "source_id": "mikey-youtube-live-010",
+            "start": 925.14,
+            "text": "回来然后就是进入头脑"
+          },
+          {
+            "end": 927.58,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00399",
+            "source_id": "mikey-youtube-live-010",
+            "start": 926.64,
+            "text": "去思考一下"
+          },
+          {
+            "end": 928.8,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00400",
+            "source_id": "mikey-youtube-live-010",
+            "start": 927.58,
+            "text": "我们当下是属于一个什么阶段"
+          },
+          {
+            "end": 929.84,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00401",
+            "source_id": "mikey-youtube-live-010",
+            "start": 928.8,
+            "text": "我下一步策略是什么"
+          },
+          {
+            "end": 931.68,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00402",
+            "source_id": "mikey-youtube-live-010",
+            "start": 929.84,
+            "text": "好一旦敲定这个策略"
+          },
+          {
+            "end": 933.04,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00403",
+            "source_id": "mikey-youtube-live-010",
+            "start": 931.68,
+            "text": "确定了这个行动"
+          },
+          {
+            "end": 934.64,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00404",
+            "source_id": "mikey-youtube-live-010",
+            "start": 933.04,
+            "text": "马上再回到当下"
+          },
+          {
+            "end": 936.86,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00405",
+            "source_id": "mikey-youtube-live-010",
+            "start": 934.64,
+            "text": "然后继续做你当"
+          },
+          {
+            "end": 939.74,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00406",
+            "source_id": "mikey-youtube-live-010",
+            "start": 936.86,
+            "text": "就你当时大脑里的演算的那个策略"
+          },
+          {
+            "end": 941.62,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00407",
+            "source_id": "mikey-youtube-live-010",
+            "start": 939.74,
+            "text": "就行执行那个策略就OK了"
+          },
+          {
+            "end": 942.42,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00408",
+            "source_id": "mikey-youtube-live-010",
+            "start": 941.62,
+            "text": "能理解吧"
+          },
+          {
+            "end": 943.6,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00409",
+            "source_id": "mikey-youtube-live-010",
+            "start": 942.42,
+            "text": "就你需要"
+          },
+          {
+            "end": 946.74,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00410",
+            "source_id": "mikey-youtube-live-010",
+            "start": 943.6,
+            "text": "就比如说我们在打游戏的时候呢"
+          },
+          {
+            "end": 948.06,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00411",
+            "source_id": "mikey-youtube-live-010",
+            "start": 946.74,
+            "text": "我们思考归思考"
+          },
+          {
+            "end": 950.56,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00412",
+            "source_id": "mikey-youtube-live-010",
+            "start": 948.06,
+            "text": "但是我们在沉浸式跟别人兑现的时候"
+          },
+          {
+            "end": 951.9,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00413",
+            "source_id": "mikey-youtube-live-010",
+            "start": 950.56,
+            "text": "我们是沉浸式兑现的"
+          },
+          {
+            "end": 952.88,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00414",
+            "source_id": "mikey-youtube-live-010",
+            "start": 951.9,
+            "text": "能理解吧"
+          },
+          {
+            "end": 955.08,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00415",
+            "source_id": "mikey-youtube-live-010",
+            "start": 952.88,
+            "text": "我们可能就是打一会之后呢"
+          },
+          {
+            "end": 956.1,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00416",
+            "source_id": "mikey-youtube-live-010",
+            "start": 955.08,
+            "text": "我们看一会小地图"
+          },
+          {
+            "end": 957.36,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00417",
+            "source_id": "mikey-youtube-live-010",
+            "start": 956.1,
+            "text": "我们打一会之后呢"
+          },
+          {
+            "end": 958.42,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00418",
+            "source_id": "mikey-youtube-live-010",
+            "start": 957.36,
+            "text": "我们看一下积分版"
+          },
+          {
+            "end": 959.44,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00419",
+            "source_id": "mikey-youtube-live-010",
+            "start": 958.42,
+            "text": "我们看完之后呢"
+          },
+          {
+            "end": 960.58,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00420",
+            "source_id": "mikey-youtube-live-010",
+            "start": 959.44,
+            "text": "马上又回到当下了"
+          },
+          {
+            "end": 961.62,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00421",
+            "source_id": "mikey-youtube-live-010",
+            "start": 960.58,
+            "text": "那一样的"
+          },
+          {
+            "end": 962.88,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00422",
+            "source_id": "mikey-youtube-live-010",
+            "start": 961.62,
+            "text": "我们跟女生约会的时候呢"
+          },
+          {
+            "end": 963.2,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00423",
+            "source_id": "mikey-youtube-live-010",
+            "start": 962.88,
+            "text": "也是"
+          },
+          {
+            "end": 964.16,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00424",
+            "source_id": "mikey-youtube-live-010",
+            "start": 963.2,
+            "text": "就是我们"
+          },
+          {
+            "end": 965.54,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00425",
+            "source_id": "mikey-youtube-live-010",
+            "start": 964.16,
+            "text": "可能约会的时候"
+          },
+          {
+            "end": 966.84,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00426",
+            "source_id": "mikey-youtube-live-010",
+            "start": 965.54,
+            "text": "我们在享受咖啡"
+          },
+          {
+            "end": 967.68,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00427",
+            "source_id": "mikey-youtube-live-010",
+            "start": 966.84,
+            "text": "享受美酒"
+          },
+          {
+            "end": 968.68,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00428",
+            "source_id": "mikey-youtube-live-010",
+            "start": 967.68,
+            "text": "享受聊天"
+          },
+          {
+            "end": 969.36,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00429",
+            "source_id": "mikey-youtube-live-010",
+            "start": 968.68,
+            "text": "然后呢"
+          },
+          {
+            "end": 970.94,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00430",
+            "source_id": "mikey-youtube-live-010",
+            "start": 969.36,
+            "text": "这个时候短暂的抽离回来"
+          },
+          {
+            "end": 971.52,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00431",
+            "source_id": "mikey-youtube-live-010",
+            "start": 970.94,
+            "text": "然后看一下"
+          },
+          {
+            "end": 973.32,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00432",
+            "source_id": "mikey-youtube-live-010",
+            "start": 971.52,
+            "text": "我们当下是处于一个什么样的阶段"
+          },
+          {
+            "end": 974.22,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00433",
+            "source_id": "mikey-youtube-live-010",
+            "start": 973.32,
+            "text": "我下一步该干嘛"
+          },
+          {
+            "end": 975.92,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00434",
+            "source_id": "mikey-youtube-live-010",
+            "start": 974.22,
+            "text": "一旦确定马上回到当下"
+          },
+          {
+            "end": 977.98,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00435",
+            "source_id": "mikey-youtube-live-010",
+            "start": 975.92,
+            "text": "然后继续执行刚下的策略"
+          },
+          {
+            "end": 979.96,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00436",
+            "source_id": "mikey-youtube-live-010",
+            "start": 977.98,
+            "text": "它是不冲突的"
+          },
+          {
+            "end": 980.9,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00437",
+            "source_id": "mikey-youtube-live-010",
+            "start": 979.96,
+            "text": "它是不冲突的"
+          },
+          {
+            "end": 981.98,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00438",
+            "source_id": "mikey-youtube-live-010",
+            "start": 980.9,
+            "text": "最怕的是那种"
+          },
+          {
+            "end": 982.88,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00439",
+            "source_id": "mikey-youtube-live-010",
+            "start": 981.98,
+            "text": "就是我全程"
+          },
+          {
+            "end": 983.9,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00440",
+            "source_id": "mikey-youtube-live-010",
+            "start": 982.88,
+            "text": "我都在回到头脑里"
+          },
+          {
+            "end": 985.32,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00441",
+            "source_id": "mikey-youtube-live-010",
+            "start": 983.9,
+            "text": "我一直在想来想去"
+          },
+          {
+            "end": 985.86,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00442",
+            "source_id": "mikey-youtube-live-010",
+            "start": 985.32,
+            "text": "想话术"
+          },
+          {
+            "end": 986.84,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00443",
+            "source_id": "mikey-youtube-live-010",
+            "start": 985.86,
+            "text": "想各种各样的策略"
+          },
+          {
+            "end": 988.16,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00444",
+            "source_id": "mikey-youtube-live-010",
+            "start": 986.84,
+            "text": "想东想西"
+          },
+          {
+            "end": 989.14,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00445",
+            "source_id": "mikey-youtube-live-010",
+            "start": 988.16,
+            "text": "想给IOI"
+          },
+          {
+            "end": 989.84,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00446",
+            "source_id": "mikey-youtube-live-010",
+            "start": 989.14,
+            "text": "想给IOD"
+          }
+        ],
+        "evidence_scope": {
+          "ambiguous_context_only_sids": [],
+          "mikey_response_paraphrase_sids": [
+            "S00391",
+            "S00392",
+            "S00393",
+            "S00394",
+            "S00395",
+            "S00396",
+            "S00397",
+            "S00398",
+            "S00399",
+            "S00400",
+            "S00401",
+            "S00402",
+            "S00403",
+            "S00404",
+            "S00405",
+            "S00406",
+            "S00407",
+            "S00408",
+            "S00409",
+            "S00410",
+            "S00411",
+            "S00412",
+            "S00413",
+            "S00414",
+            "S00415",
+            "S00416",
+            "S00417",
+            "S00418",
+            "S00419",
+            "S00420",
+            "S00421",
+            "S00422",
+            "S00423",
+            "S00424",
+            "S00425",
+            "S00426",
+            "S00427",
+            "S00428",
+            "S00429",
+            "S00430",
+            "S00431",
+            "S00432",
+            "S00433",
+            "S00434",
+            "S00435",
+            "S00436",
+            "S00437",
+            "S00438",
+            "S00439",
+            "S00440",
+            "S00441",
+            "S00442",
+            "S00443",
+            "S00444",
+            "S00445",
+            "S00446"
+          ],
+          "new_audio_voice_or_continuous_visual_verification": false,
+          "question_context_sids": [
+            "S00388",
+            "S00389",
+            "S00390"
+          ],
+          "question_words_are_not_mikey_position": true,
+          "saved_text_binding_only": true
+        },
+        "example_modality": "问答与游戏类比/日常举例分列，无新亲历或效果认证",
+        "id": "v2-action-live010-recovered-k0007",
+        "limits": [
+          "不把原十几二十秒定为必须遵守的计时规则。",
+          "原稿S00448/S00449有记了等未音校词面，不用于直接引语或成功率预测。",
+          "游戏只是Mikey的类比，不能作为已经证明所有约会都适用的实验。",
+          "不能把全程思考必然失败、疲惫必然没享受等人物强判断当成现实诊断或确定效果。"
+        ],
+        "limits_attribution": "editorial_review_and_scope_limits_not_new_source_steps",
+        "parent_ids_are_provenance_only": true,
+        "parent_knowledge_id": "mikey-youtube-live-010-K0007",
+        "parent_knowledge_ids": [
+          "mikey-youtube-live-010-K0007"
+        ],
+        "payload_scope": {
+          "action_fields": [
+            "action_payload.steps"
+          ],
+          "approved_evidence_sids": [
+            "S00391",
+            "S00392",
+            "S00393",
+            "S00394",
+            "S00395",
+            "S00396",
+            "S00397",
+            "S00398",
+            "S00399",
+            "S00400",
+            "S00401",
+            "S00402",
+            "S00403",
+            "S00404",
+            "S00405",
+            "S00406",
+            "S00407",
+            "S00408",
+            "S00409",
+            "S00410",
+            "S00411",
+            "S00412",
+            "S00413",
+            "S00414",
+            "S00415",
+            "S00416",
+            "S00417",
+            "S00418",
+            "S00419",
+            "S00420",
+            "S00421",
+            "S00422",
+            "S00423",
+            "S00424",
+            "S00425",
+            "S00426",
+            "S00427",
+            "S00428",
+            "S00429",
+            "S00430",
+            "S00431",
+            "S00432",
+            "S00433",
+            "S00434",
+            "S00435",
+            "S00436",
+            "S00437",
+            "S00438",
+            "S00439",
+            "S00440",
+            "S00441",
+            "S00442",
+            "S00443",
+            "S00444",
+            "S00445",
+            "S00446"
+          ],
+          "context_only_evidence_sids": [
+            "S00388",
+            "S00389",
+            "S00390"
+          ],
+          "editorial_fields": [
+            "editorial_conditions",
+            "action_payload.editorial_applicability",
+            "action_payload.next_observation"
+          ],
+          "kind": "finite_method_payload_only",
+          "parent_payload_inherited": false,
+          "raw_transcript_action_allowed": false,
+          "raw_transcript_personification_allowed": false
+        },
+        "provenance": {
+          "new_audio_visual_verification": false,
+          "stage": "proposal_only_pending_independent_semantic_and_runtime_gate",
+          "transcript_sha256": "402fcaf372fef0e086d5c5c46d82c351bfa7b375770c6d95ba4448ddd3a67bf3",
+          "whole_original_review_closures": 0
+        },
+        "reason": "Mikey区分短暂判断与全程在头脑里反复演算，用游戏时查看小地图或计分板后继续操作的类比解释二者可以交替。",
+        "reason_attribution": "source_viewpoint_paraphrase_only",
+        "source_id": "mikey-youtube-live-010",
+        "source_method": [
+          {
+            "action": "短暂思考当前互动处于什么阶段，下一步打算做什么。",
+            "order": 1,
+            "source_sids": [
+              "S00393",
+              "S00394",
+              "S00395",
+              "S00396",
+              "S00397",
+              "S00398",
+              "S00399",
+              "S00400",
+              "S00401"
+            ]
+          },
+          {
+            "action": "确定这次行动后，回到当下互动并执行刚确定的策略。",
+            "order": 2,
+            "source_sids": [
+              "S00402",
+              "S00403",
+              "S00404",
+              "S00405",
+              "S00406",
+              "S00407"
+            ]
+          }
+        ],
+        "status": {
+          "action_advice_allowed": true,
+          "cross_use_level": "direct",
+          "first_person_allowed": true,
+          "payload_kind": "isolated_action_method",
+          "speaker_claim_scope": "source_response_paraphrase_only_not_viewer_question_identity_verbatim_or_personal_history"
+        },
+        "title": "策略与体验（真实SID恢复后的有限方法）"
+      },
+      "proposed_atom_record": {
+        "action_payload": {
+          "editorial_applicability": [
+            "讨论正常、双方愿意继续的聊天或约会中，思考与当下体验的关系。",
+            "本载荷没有规定约会阶段的分类、转场目的或具体推进动作；那些内容必须另找来源。"
+          ],
+          "goal": "在聊天或约会里，短暂判断当前阶段和下一步策略，与投入当下的互动并不矛盾；确定行动后，再回到当下去执行。",
+          "next_observation": {
+            "instruction": null,
+            "origin": "editorial_runtime_status_only",
+            "source_taught": false,
+            "status": "not_provided_by_source"
+          },
+          "not_in_payload": [
+            "[证据范围] 完整已保存自动稿的真实SID已回读，修正的是旧段号对应；本轮没有新回听、声纹、连续画面或逐句音校。",
+            "[归属范围] 读题与回答按原问答结构分开；只改述本段Mikey回应，不冒认本人、亲历或原话。",
+            "[必要条件] 讨论正常、双方愿意继续的聊天或约会中，思考与当下体验的关系。",
+            "[必要条件] 本载荷没有规定约会阶段的分类、转场目的或具体推进动作；那些内容必须另找来源。",
+            "[未授权扩展] 不把原十几二十秒定为必须遵守的计时规则。",
+            "[未授权扩展] 原稿S00448/S00449有记了等未音校词面，不用于直接引语或成功率预测。",
+            "[未授权扩展] 游戏只是Mikey的类比，不能作为已经证明所有约会都适用的实验。",
+            "[未授权扩展] 不能把全程思考必然失败、疲惫必然没享受等人物强判断当成现实诊断或确定效果。",
+            "[观察归属] 本载荷没有来源明确的观察量表，不额外编造复盘指标、频率或疗效。",
+            "[父条与效果] 父条与其他SID不继承许可；实际效果和完整原问题未获全面核实。",
+            "[读题边界] S00388–S00390是代读观众问题，只作上下文；人物回应从S00391开始，读题不作为Mikey立场。",
+            "[编者条件归属] 双方愿意继续及遇到拒绝即停止是项目的使用条件，不声称这是本段来源教出的步骤；本方法不补出约会阶段分类、推进目的或具体推进动作。"
+          ],
+          "source_and_review_limits": [
+            "不把原十几二十秒定为必须遵守的计时规则。",
+            "原稿S00448/S00449有记了等未音校词面，不用于直接引语或成功率预测。",
+            "游戏只是Mikey的类比，不能作为已经证明所有约会都适用的实验。",
+            "不能把全程思考必然失败、疲惫必然没享受等人物强判断当成现实诊断或确定效果。"
+          ],
+          "source_applicability": [
+            "本段讨论聊天或约会中，短暂判断当前阶段和下一步策略之后回到互动的关系。"
+          ],
+          "source_viewpoint": {
+            "claim": "在聊天或约会里，短暂判断当前阶段和下一步策略，与投入当下的互动并不矛盾；确定行动后，再回到当下去执行。",
+            "editorial_use_limits": [
+              "[证据范围] 完整已保存自动稿的真实SID已回读，修正的是旧段号对应；本轮没有新回听、声纹、连续画面或逐句音校。",
+              "[归属范围] 读题与回答按原问答结构分开；只改述本段Mikey回应，不冒认本人、亲历或原话。",
+              "[必要条件] 讨论正常、双方愿意继续的聊天或约会中，思考与当下体验的关系。",
+              "[必要条件] 本载荷没有规定约会阶段的分类、转场目的或具体推进动作；那些内容必须另找来源。",
+              "[未授权扩展] 不把原十几二十秒定为必须遵守的计时规则。",
+              "[未授权扩展] 原稿S00448/S00449有记了等未音校词面，不用于直接引语或成功率预测。",
+              "[未授权扩展] 游戏只是Mikey的类比，不能作为已经证明所有约会都适用的实验。",
+              "[未授权扩展] 不能把全程思考必然失败、疲惫必然没享受等人物强判断当成现实诊断或确定效果。",
+              "[观察归属] 本载荷没有来源明确的观察量表，不额外编造复盘指标、频率或疗效。",
+              "[父条与效果] 父条与其他SID不继承许可；实际效果和完整原问题未获全面核实。",
+              "[读题边界] S00388–S00390是代读观众问题，只作上下文；人物回应从S00391开始，读题不作为Mikey立场。",
+              "[编者条件归属] 双方愿意继续及遇到拒绝即停止是项目的使用条件，不声称这是本段来源教出的步骤；本方法不补出约会阶段分类、推进目的或具体推进动作。"
+            ],
+            "reason": "Mikey区分短暂判断与全程在头脑里反复演算，用游戏时查看小地图或计分板后继续操作的类比解释二者可以交替。"
+          },
+          "steps": [
+            {
+              "number": 1,
+              "origin": "source_explicit_action_paraphrase",
+              "source_sids": [
+                "S00393",
+                "S00394",
+                "S00395",
+                "S00396",
+                "S00397",
+                "S00398",
+                "S00399",
+                "S00400",
+                "S00401"
+              ],
+              "text": "短暂思考当前互动处于什么阶段，下一步打算做什么。"
+            },
+            {
+              "number": 2,
+              "origin": "source_explicit_action_paraphrase",
+              "source_sids": [
+                "S00402",
+                "S00403",
+                "S00404",
+                "S00405",
+                "S00406",
+                "S00407"
+              ],
+              "text": "确定这次行动后，回到当下互动并执行刚确定的策略。"
+            }
+          ]
+        },
+        "claim": "在聊天或约会里，短暂判断当前阶段和下一步策略，与投入当下的互动并不矛盾；确定行动后，再回到当下去执行。",
+        "conditions": [
+          "讨论正常、双方愿意继续的聊天或约会中，思考与当下体验的关系。",
+          "本载荷没有规定约会阶段的分类、转场目的或具体推进动作；那些内容必须另找来源。"
+        ],
+        "conditions_attribution": "source_context_with_explicit_editorial_usage_boundary_not_all_source_taught",
+        "editorial_conditions": [
+          "不按本条解决同意、身份、医疗或其他缺证据问题；对方拒绝或不愿继续时不推进。该停止边界为项目使用条件，不是本段新增Mikey步骤。"
+        ],
+        "editorial_use_limits": [
+          "[证据范围] 完整已保存自动稿的真实SID已回读，修正的是旧段号对应；本轮没有新回听、声纹、连续画面或逐句音校。",
+          "[归属范围] 读题与回答按原问答结构分开；只改述本段Mikey回应，不冒认本人、亲历或原话。",
+          "[必要条件] 讨论正常、双方愿意继续的聊天或约会中，思考与当下体验的关系。",
+          "[必要条件] 本载荷没有规定约会阶段的分类、转场目的或具体推进动作；那些内容必须另找来源。",
+          "[未授权扩展] 不把原十几二十秒定为必须遵守的计时规则。",
+          "[未授权扩展] 原稿S00448/S00449有记了等未音校词面，不用于直接引语或成功率预测。",
+          "[未授权扩展] 游戏只是Mikey的类比，不能作为已经证明所有约会都适用的实验。",
+          "[未授权扩展] 不能把全程思考必然失败、疲惫必然没享受等人物强判断当成现实诊断或确定效果。",
+          "[观察归属] 本载荷没有来源明确的观察量表，不额外编造复盘指标、频率或疗效。",
+          "[父条与效果] 父条与其他SID不继承许可；实际效果和完整原问题未获全面核实。",
+          "[读题边界] S00388–S00390是代读观众问题，只作上下文；人物回应从S00391开始，读题不作为Mikey立场。",
+          "[编者条件归属] 双方愿意继续及遇到拒绝即停止是项目的使用条件，不声称这是本段来源教出的步骤；本方法不补出约会阶段分类、推进目的或具体推进动作。"
+        ],
+        "effectiveness": {
+          "status": "not_verified"
+        },
+        "evidence": [
+          {
+            "end": 912.78,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00391",
+            "source_id": "mikey-youtube-live-010",
+            "start": 911.7,
+            "text": "不是这样子的"
+          },
+          {
+            "end": 908.74,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00388",
+            "source_id": "mikey-youtube-live-010",
+            "start": 904.28,
+            "text": "但是学了学习了约会的几个阶段"
+          },
+          {
+            "end": 910.4,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00389",
+            "source_id": "mikey-youtube-live-010",
+            "start": 908.74,
+            "text": "关注约会处于什么阶段"
+          },
+          {
+            "end": 911.7,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00390",
+            "source_id": "mikey-youtube-live-010",
+            "start": 910.4,
+            "text": "是不是就不是在当下"
+          },
+          {
+            "end": 914.46,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00392",
+            "source_id": "mikey-youtube-live-010",
+            "start": 912.78,
+            "text": "比如说我跟你们讲"
+          },
+          {
+            "end": 916.6,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00393",
+            "source_id": "mikey-youtube-live-010",
+            "start": 914.46,
+            "text": "怎么样去评估当下这个阶段"
+          },
+          {
+            "end": 918.3,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00394",
+            "source_id": "mikey-youtube-live-010",
+            "start": 916.6,
+            "text": "我们在跟这女生聊天的时候"
+          },
+          {
+            "end": 919.12,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00395",
+            "source_id": "mikey-youtube-live-010",
+            "start": 918.3,
+            "text": "约会的时候呢"
+          },
+          {
+            "end": 921.74,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00396",
+            "source_id": "mikey-youtube-live-010",
+            "start": 919.12,
+            "text": "我们突然就是把大脑"
+          },
+          {
+            "end": 925.14,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00397",
+            "source_id": "mikey-youtube-live-010",
+            "start": 921.74,
+            "text": "就是把我们人给抽离回当下"
+          },
+          {
+            "end": 926.64,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00398",
+            "source_id": "mikey-youtube-live-010",
+            "start": 925.14,
+            "text": "回来然后就是进入头脑"
+          },
+          {
+            "end": 927.58,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00399",
+            "source_id": "mikey-youtube-live-010",
+            "start": 926.64,
+            "text": "去思考一下"
+          },
+          {
+            "end": 928.8,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00400",
+            "source_id": "mikey-youtube-live-010",
+            "start": 927.58,
+            "text": "我们当下是属于一个什么阶段"
+          },
+          {
+            "end": 929.84,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00401",
+            "source_id": "mikey-youtube-live-010",
+            "start": 928.8,
+            "text": "我下一步策略是什么"
+          },
+          {
+            "end": 931.68,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00402",
+            "source_id": "mikey-youtube-live-010",
+            "start": 929.84,
+            "text": "好一旦敲定这个策略"
+          },
+          {
+            "end": 933.04,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00403",
+            "source_id": "mikey-youtube-live-010",
+            "start": 931.68,
+            "text": "确定了这个行动"
+          },
+          {
+            "end": 934.64,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00404",
+            "source_id": "mikey-youtube-live-010",
+            "start": 933.04,
+            "text": "马上再回到当下"
+          },
+          {
+            "end": 936.86,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00405",
+            "source_id": "mikey-youtube-live-010",
+            "start": 934.64,
+            "text": "然后继续做你当"
+          },
+          {
+            "end": 939.74,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00406",
+            "source_id": "mikey-youtube-live-010",
+            "start": 936.86,
+            "text": "就你当时大脑里的演算的那个策略"
+          },
+          {
+            "end": 941.62,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00407",
+            "source_id": "mikey-youtube-live-010",
+            "start": 939.74,
+            "text": "就行执行那个策略就OK了"
+          },
+          {
+            "end": 942.42,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00408",
+            "source_id": "mikey-youtube-live-010",
+            "start": 941.62,
+            "text": "能理解吧"
+          },
+          {
+            "end": 943.6,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00409",
+            "source_id": "mikey-youtube-live-010",
+            "start": 942.42,
+            "text": "就你需要"
+          },
+          {
+            "end": 946.74,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00410",
+            "source_id": "mikey-youtube-live-010",
+            "start": 943.6,
+            "text": "就比如说我们在打游戏的时候呢"
+          },
+          {
+            "end": 948.06,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00411",
+            "source_id": "mikey-youtube-live-010",
+            "start": 946.74,
+            "text": "我们思考归思考"
+          },
+          {
+            "end": 950.56,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00412",
+            "source_id": "mikey-youtube-live-010",
+            "start": 948.06,
+            "text": "但是我们在沉浸式跟别人兑现的时候"
+          },
+          {
+            "end": 951.9,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00413",
+            "source_id": "mikey-youtube-live-010",
+            "start": 950.56,
+            "text": "我们是沉浸式兑现的"
+          },
+          {
+            "end": 952.88,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00414",
+            "source_id": "mikey-youtube-live-010",
+            "start": 951.9,
+            "text": "能理解吧"
+          },
+          {
+            "end": 955.08,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00415",
+            "source_id": "mikey-youtube-live-010",
+            "start": 952.88,
+            "text": "我们可能就是打一会之后呢"
+          },
+          {
+            "end": 956.1,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00416",
+            "source_id": "mikey-youtube-live-010",
+            "start": 955.08,
+            "text": "我们看一会小地图"
+          },
+          {
+            "end": 957.36,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00417",
+            "source_id": "mikey-youtube-live-010",
+            "start": 956.1,
+            "text": "我们打一会之后呢"
+          },
+          {
+            "end": 958.42,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00418",
+            "source_id": "mikey-youtube-live-010",
+            "start": 957.36,
+            "text": "我们看一下积分版"
+          },
+          {
+            "end": 959.44,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00419",
+            "source_id": "mikey-youtube-live-010",
+            "start": 958.42,
+            "text": "我们看完之后呢"
+          },
+          {
+            "end": 960.58,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00420",
+            "source_id": "mikey-youtube-live-010",
+            "start": 959.44,
+            "text": "马上又回到当下了"
+          },
+          {
+            "end": 961.62,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00421",
+            "source_id": "mikey-youtube-live-010",
+            "start": 960.58,
+            "text": "那一样的"
+          },
+          {
+            "end": 962.88,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00422",
+            "source_id": "mikey-youtube-live-010",
+            "start": 961.62,
+            "text": "我们跟女生约会的时候呢"
+          },
+          {
+            "end": 963.2,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00423",
+            "source_id": "mikey-youtube-live-010",
+            "start": 962.88,
+            "text": "也是"
+          },
+          {
+            "end": 964.16,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00424",
+            "source_id": "mikey-youtube-live-010",
+            "start": 963.2,
+            "text": "就是我们"
+          },
+          {
+            "end": 965.54,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00425",
+            "source_id": "mikey-youtube-live-010",
+            "start": 964.16,
+            "text": "可能约会的时候"
+          },
+          {
+            "end": 966.84,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00426",
+            "source_id": "mikey-youtube-live-010",
+            "start": 965.54,
+            "text": "我们在享受咖啡"
+          },
+          {
+            "end": 967.68,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00427",
+            "source_id": "mikey-youtube-live-010",
+            "start": 966.84,
+            "text": "享受美酒"
+          },
+          {
+            "end": 968.68,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00428",
+            "source_id": "mikey-youtube-live-010",
+            "start": 967.68,
+            "text": "享受聊天"
+          },
+          {
+            "end": 969.36,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00429",
+            "source_id": "mikey-youtube-live-010",
+            "start": 968.68,
+            "text": "然后呢"
+          },
+          {
+            "end": 970.94,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00430",
+            "source_id": "mikey-youtube-live-010",
+            "start": 969.36,
+            "text": "这个时候短暂的抽离回来"
+          },
+          {
+            "end": 971.52,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00431",
+            "source_id": "mikey-youtube-live-010",
+            "start": 970.94,
+            "text": "然后看一下"
+          },
+          {
+            "end": 973.32,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00432",
+            "source_id": "mikey-youtube-live-010",
+            "start": 971.52,
+            "text": "我们当下是处于一个什么样的阶段"
+          },
+          {
+            "end": 974.22,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00433",
+            "source_id": "mikey-youtube-live-010",
+            "start": 973.32,
+            "text": "我下一步该干嘛"
+          },
+          {
+            "end": 975.92,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00434",
+            "source_id": "mikey-youtube-live-010",
+            "start": 974.22,
+            "text": "一旦确定马上回到当下"
+          },
+          {
+            "end": 977.98,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00435",
+            "source_id": "mikey-youtube-live-010",
+            "start": 975.92,
+            "text": "然后继续执行刚下的策略"
+          },
+          {
+            "end": 979.96,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00436",
+            "source_id": "mikey-youtube-live-010",
+            "start": 977.98,
+            "text": "它是不冲突的"
+          },
+          {
+            "end": 980.9,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00437",
+            "source_id": "mikey-youtube-live-010",
+            "start": 979.96,
+            "text": "它是不冲突的"
+          },
+          {
+            "end": 981.98,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00438",
+            "source_id": "mikey-youtube-live-010",
+            "start": 980.9,
+            "text": "最怕的是那种"
+          },
+          {
+            "end": 982.88,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00439",
+            "source_id": "mikey-youtube-live-010",
+            "start": 981.98,
+            "text": "就是我全程"
+          },
+          {
+            "end": 983.9,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00440",
+            "source_id": "mikey-youtube-live-010",
+            "start": 982.88,
+            "text": "我都在回到头脑里"
+          },
+          {
+            "end": 985.32,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00441",
+            "source_id": "mikey-youtube-live-010",
+            "start": 983.9,
+            "text": "我一直在想来想去"
+          },
+          {
+            "end": 985.86,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00442",
+            "source_id": "mikey-youtube-live-010",
+            "start": 985.32,
+            "text": "想话术"
+          },
+          {
+            "end": 986.84,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00443",
+            "source_id": "mikey-youtube-live-010",
+            "start": 985.86,
+            "text": "想各种各样的策略"
+          },
+          {
+            "end": 988.16,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00444",
+            "source_id": "mikey-youtube-live-010",
+            "start": 986.84,
+            "text": "想东想西"
+          },
+          {
+            "end": 989.14,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00445",
+            "source_id": "mikey-youtube-live-010",
+            "start": 988.16,
+            "text": "想给IOI"
+          },
+          {
+            "end": 989.84,
+            "kind": "saved_automatic_text_not_verbatim_certified",
+            "sid": "S00446",
+            "source_id": "mikey-youtube-live-010",
+            "start": 989.14,
+            "text": "想给IOD"
+          }
+        ],
+        "evidence_scope": {
+          "ambiguous_context_only_sids": [],
+          "mikey_response_paraphrase_sids": [
+            "S00391",
+            "S00392",
+            "S00393",
+            "S00394",
+            "S00395",
+            "S00396",
+            "S00397",
+            "S00398",
+            "S00399",
+            "S00400",
+            "S00401",
+            "S00402",
+            "S00403",
+            "S00404",
+            "S00405",
+            "S00406",
+            "S00407",
+            "S00408",
+            "S00409",
+            "S00410",
+            "S00411",
+            "S00412",
+            "S00413",
+            "S00414",
+            "S00415",
+            "S00416",
+            "S00417",
+            "S00418",
+            "S00419",
+            "S00420",
+            "S00421",
+            "S00422",
+            "S00423",
+            "S00424",
+            "S00425",
+            "S00426",
+            "S00427",
+            "S00428",
+            "S00429",
+            "S00430",
+            "S00431",
+            "S00432",
+            "S00433",
+            "S00434",
+            "S00435",
+            "S00436",
+            "S00437",
+            "S00438",
+            "S00439",
+            "S00440",
+            "S00441",
+            "S00442",
+            "S00443",
+            "S00444",
+            "S00445",
+            "S00446"
+          ],
+          "new_audio_voice_or_continuous_visual_verification": false,
+          "question_context_sids": [
+            "S00388",
+            "S00389",
+            "S00390"
+          ],
+          "question_words_are_not_mikey_position": true,
+          "saved_text_binding_only": true
+        },
+        "example_modality": "问答与游戏类比/日常举例分列，无新亲历或效果认证",
+        "id": "v2-action-live010-recovered-k0007",
+        "limits": [
+          "不把原十几二十秒定为必须遵守的计时规则。",
+          "原稿S00448/S00449有记了等未音校词面，不用于直接引语或成功率预测。",
+          "游戏只是Mikey的类比，不能作为已经证明所有约会都适用的实验。",
+          "不能把全程思考必然失败、疲惫必然没享受等人物强判断当成现实诊断或确定效果。"
+        ],
+        "limits_attribution": "editorial_review_and_scope_limits_not_new_source_steps",
+        "parent_ids_are_provenance_only": true,
+        "parent_knowledge_id": "mikey-youtube-live-010-K0007",
+        "parent_knowledge_ids": [
+          "mikey-youtube-live-010-K0007"
+        ],
+        "payload_scope": {
+          "action_fields": [
+            "action_payload.steps"
+          ],
+          "approved_evidence_sids": [
+            "S00391",
+            "S00392",
+            "S00393",
+            "S00394",
+            "S00395",
+            "S00396",
+            "S00397",
+            "S00398",
+            "S00399",
+            "S00400",
+            "S00401",
+            "S00402",
+            "S00403",
+            "S00404",
+            "S00405",
+            "S00406",
+            "S00407",
+            "S00408",
+            "S00409",
+            "S00410",
+            "S00411",
+            "S00412",
+            "S00413",
+            "S00414",
+            "S00415",
+            "S00416",
+            "S00417",
+            "S00418",
+            "S00419",
+            "S00420",
+            "S00421",
+            "S00422",
+            "S00423",
+            "S00424",
+            "S00425",
+            "S00426",
+            "S00427",
+            "S00428",
+            "S00429",
+            "S00430",
+            "S00431",
+            "S00432",
+            "S00433",
+            "S00434",
+            "S00435",
+            "S00436",
+            "S00437",
+            "S00438",
+            "S00439",
+            "S00440",
+            "S00441",
+            "S00442",
+            "S00443",
+            "S00444",
+            "S00445",
+            "S00446"
+          ],
+          "context_only_evidence_sids": [
+            "S00388",
+            "S00389",
+            "S00390"
+          ],
+          "editorial_fields": [
+            "editorial_conditions",
+            "action_payload.editorial_applicability",
+            "action_payload.next_observation"
+          ],
+          "kind": "finite_method_payload_only",
+          "parent_payload_inherited": false,
+          "raw_transcript_action_allowed": false,
+          "raw_transcript_personification_allowed": false
+        },
+        "provenance": {
+          "new_audio_visual_verification": false,
+          "stage": "proposal_only_pending_independent_semantic_and_runtime_gate",
+          "transcript_sha256": "402fcaf372fef0e086d5c5c46d82c351bfa7b375770c6d95ba4448ddd3a67bf3",
+          "whole_original_review_closures": 0
+        },
+        "reason": "Mikey区分短暂判断与全程在头脑里反复演算，用游戏时查看小地图或计分板后继续操作的类比解释二者可以交替。",
+        "reason_attribution": "source_viewpoint_paraphrase_only",
+        "source_id": "mikey-youtube-live-010",
+        "source_method": [
+          {
+            "action": "短暂思考当前互动处于什么阶段，下一步打算做什么。",
+            "order": 1,
+            "source_sids": [
+              "S00393",
+              "S00394",
+              "S00395",
+              "S00396",
+              "S00397",
+              "S00398",
+              "S00399",
+              "S00400",
+              "S00401"
+            ]
+          },
+          {
+            "action": "确定这次行动后，回到当下互动并执行刚确定的策略。",
+            "order": 2,
+            "source_sids": [
+              "S00402",
+              "S00403",
+              "S00404",
+              "S00405",
+              "S00406",
+              "S00407"
+            ]
+          }
+        ],
+        "status": {
+          "action_advice_allowed": true,
+          "cross_use_level": "direct",
+          "first_person_allowed": true,
+          "payload_kind": "isolated_action_method",
+          "speaker_claim_scope": "source_response_paraphrase_only_not_viewer_question_identity_verbatim_or_personal_history"
+        },
+        "title": "策略与体验（真实SID恢复后的有限方法）"
+      },
+      "unchanged_action_payload_sha256": "01bce9a3dedaa40e3f66e2ade5da484562269430db94bafaf107c25bf0a39571",
+      "allowed_changed_fields": [
+        "evidence"
+      ],
+      "exact_reorder_rule": {
+        "move_existing_sid_to_front": "S00391",
+        "all_other_evidence_relative_order_preserved": true,
+        "every_evidence_object_deep_equal": true,
+        "no_evidence_added_or_deleted": true,
+        "context_only_sids_remain": [
+          "S00388",
+          "S00389",
+          "S00390"
+        ],
+        "approved_context_scope_unchanged": true
+      },
+      "why": "search.compact_result emits row.evidence[0] with exact knowledge binding; existing firstS00388 is intentionally context_only and read_context correctly refused it (actual exit2). ExistingS00391 is already approved and can be a valid navigation target. No runtime engine changes."
+    }
+  ],
+  "new_permissions": 0
+}

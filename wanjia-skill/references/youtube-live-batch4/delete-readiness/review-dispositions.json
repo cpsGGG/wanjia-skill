@@ -1,0 +1,1691 @@
+{
+  "schema_version": "batch4-delete-readiness-review-dispositions-1.0",
+  "created_at": "2026-09-28T14:33:20.206090+00:00",
+  "scope": "Candidate-only review decisions. Original review files and formal mikey-guide are unchanged.",
+  "decision_count": 63,
+  "counts_by_disposition": {
+    "open_source_evidence_preserved": 34,
+    "open_audio_and_context_preserved": 10,
+    "open_persistent_external_limit": 14,
+    "closed_question_answered_by_source_context": 2,
+    "closed_question_answered_with_persistent_boundary": 2,
+    "closed_question_answered_confirmed_privacy_exposure": 1
+  },
+  "counts_by_proposed_status": {
+    "open": 58,
+    "closed": 5
+  },
+  "decisions": [
+    {
+      "review_id": "mikey-youtube-live-031-R001",
+      "source_id": "mikey-youtube-live-031",
+      "original_type": "consent_and_coercion",
+      "original_severity": "blocking",
+      "original_status": "open",
+      "question": "明确说不、让对方离开后又以‘推拉’继续推进的案例是否被误读成技巧？",
+      "disposition": "open_source_evidence_preserved",
+      "proposed_status": "open",
+      "proposed_severity": "blocking",
+      "deletion_dependency": "preserved_in_evidence_pack",
+      "finding": "The review still requires finer speaker, consent, privacy, or continuous-context work. Exact full audio and targeted continuous video windows have been preserved with source times and hashes; no finding is promoted to a Mikey recommendation.",
+      "visual_observation": "9/9 survey sheets inspected: two men are visible together for most of the stream; phones are handled; no reliable per-utterance mapping is possible from sparse frames.",
+      "preserved_full_audio": {
+        "path": "evidence-pack\\full-audio\\mikey-youtube-live-031.m4a",
+        "sha256": "5f194285de14302fd04491b41d5ec64a646cb39bddecfb563f2e0fc8fc7bc9fb",
+        "operation": "AAC stream copied without transcoding"
+      },
+      "preserved_video_windows": [
+        {
+          "path": "evidence-pack\\continuous-video-windows\\mikey-youtube-live-031-W02-00270-00510.mp4",
+          "original_start_seconds": 270,
+          "original_end_seconds": 510.0,
+          "sha256": "93e42d190f90cfd64d51b8ea4a9637135db9e9d1777b50b935e7a16a894cb526"
+        }
+      ],
+      "formal_skill_change": false
+    },
+    {
+      "review_id": "mikey-youtube-live-031-R002",
+      "source_id": "mikey-youtube-live-031",
+      "original_type": "gender_stereotype_and_aggression",
+      "original_severity": "blocking",
+      "original_status": "open",
+      "question": "女性低认知、弱肉强食、NPC及黑人/社会化比较是否必须限制为人物言论并隔离？",
+      "disposition": "open_audio_and_context_preserved",
+      "proposed_status": "open",
+      "proposed_severity": "blocking",
+      "deletion_dependency": "full_audio_preserved_visual_context_surveyed",
+      "finding": "The remaining issue concerns semantics, harmful framing, consent/authorization, or a generalization. Exact full audio preserves the source statement; the unresolved factual or ethical component cannot be cleared by sparse video inspection alone.",
+      "visual_observation": "9/9 survey sheets inspected: two men are visible together for most of the stream; phones are handled; no reliable per-utterance mapping is possible from sparse frames.",
+      "preserved_full_audio": {
+        "path": "evidence-pack\\full-audio\\mikey-youtube-live-031.m4a",
+        "sha256": "5f194285de14302fd04491b41d5ec64a646cb39bddecfb563f2e0fc8fc7bc9fb",
+        "operation": "AAC stream copied without transcoding"
+      },
+      "preserved_video_windows": [],
+      "formal_skill_change": false
+    },
+    {
+      "review_id": "mikey-youtube-live-031-R003",
+      "source_id": "mikey-youtube-live-031",
+      "original_type": "speaker_and_visual_pending",
+      "original_severity": "major",
+      "original_status": "open",
+      "question": "同场门徒、观众代读、聊天或屏幕材料是否被错误归给Mikey？",
+      "disposition": "open_source_evidence_preserved",
+      "proposed_status": "open",
+      "proposed_severity": "major",
+      "deletion_dependency": "preserved_in_evidence_pack",
+      "finding": "The review still requires finer speaker, consent, privacy, or continuous-context work. Exact full audio and targeted continuous video windows have been preserved with source times and hashes; no finding is promoted to a Mikey recommendation.",
+      "visual_observation": "9/9 survey sheets inspected: two men are visible together for most of the stream; phones are handled; no reliable per-utterance mapping is possible from sparse frames.",
+      "preserved_full_audio": {
+        "path": "evidence-pack\\full-audio\\mikey-youtube-live-031.m4a",
+        "sha256": "5f194285de14302fd04491b41d5ec64a646cb39bddecfb563f2e0fc8fc7bc9fb",
+        "operation": "AAC stream copied without transcoding"
+      },
+      "preserved_video_windows": [
+        {
+          "path": "evidence-pack\\continuous-video-windows\\mikey-youtube-live-031-W01-00000-00180.mp4",
+          "original_start_seconds": 0,
+          "original_end_seconds": 180.0,
+          "sha256": "0156342dcd3c41d3520b8c6c87f0a29ee846a7fa014d88de7ec995eab3da65e2"
+        }
+      ],
+      "formal_skill_change": false
+    },
+    {
+      "review_id": "mikey-youtube-live-032-R001",
+      "source_id": "mikey-youtube-live-032",
+      "original_type": "gender_stereotype_and_public_claims",
+      "original_severity": "blocking",
+      "original_status": "open",
+      "question": "对社会事件、女性质量和群体动机的评论是否只能作为人物立场，不能转成事实？",
+      "disposition": "open_audio_and_context_preserved",
+      "proposed_status": "open",
+      "proposed_severity": "blocking",
+      "deletion_dependency": "full_audio_preserved_visual_context_surveyed",
+      "finding": "The remaining issue concerns semantics, harmful framing, consent/authorization, or a generalization. Exact full audio preserves the source statement; the unresolved factual or ethical component cannot be cleared by sparse video inspection alone.",
+      "visual_observation": "8/8 survey sheets inspected: one host remains visible; viewer chat and phone handling occur; no fixed visible assistant or second speaker was found.",
+      "preserved_full_audio": {
+        "path": "evidence-pack\\full-audio\\mikey-youtube-live-032.m4a",
+        "sha256": "a7bfe33e4d8c12cd0d02f5f095cafea7459f2e676e92eb74502fbeb6e4d88cf0",
+        "operation": "AAC stream copied without transcoding"
+      },
+      "preserved_video_windows": [],
+      "formal_skill_change": false
+    },
+    {
+      "review_id": "mikey-youtube-live-032-R002",
+      "source_id": "mikey-youtube-live-032",
+      "original_type": "sexual_outcome_and_pressure",
+      "original_severity": "blocking",
+      "original_status": "open",
+      "question": "‘拒绝后离开/回来’、性结果和报复性推拉是否越过同意边界？",
+      "disposition": "open_source_evidence_preserved",
+      "proposed_status": "open",
+      "proposed_severity": "blocking",
+      "deletion_dependency": "preserved_in_evidence_pack",
+      "finding": "The review still requires finer speaker, consent, privacy, or continuous-context work. Exact full audio and targeted continuous video windows have been preserved with source times and hashes; no finding is promoted to a Mikey recommendation.",
+      "visual_observation": "8/8 survey sheets inspected: one host remains visible; viewer chat and phone handling occur; no fixed visible assistant or second speaker was found.",
+      "preserved_full_audio": {
+        "path": "evidence-pack\\full-audio\\mikey-youtube-live-032.m4a",
+        "sha256": "a7bfe33e4d8c12cd0d02f5f095cafea7459f2e676e92eb74502fbeb6e4d88cf0",
+        "operation": "AAC stream copied without transcoding"
+      },
+      "preserved_video_windows": [
+        {
+          "path": "evidence-pack\\continuous-video-windows\\mikey-youtube-live-032-W01-00580-00920.mp4",
+          "original_start_seconds": 580,
+          "original_end_seconds": 920.0,
+          "sha256": "cd1c16c59f1aa950d6261b4ab2204ee9af2f808a9928670e597bc14b25a8dd4e"
+        }
+      ],
+      "formal_skill_change": false
+    },
+    {
+      "review_id": "mikey-youtube-live-032-R003",
+      "source_id": "mikey-youtube-live-032",
+      "original_type": "visual_and_speaker_pending",
+      "original_severity": "major",
+      "original_status": "open",
+      "question": "助教出镜、屏幕留言、课程宣传和酒店/身体接触语境是否需要精确归属？",
+      "disposition": "open_source_evidence_preserved",
+      "proposed_status": "open",
+      "proposed_severity": "major",
+      "deletion_dependency": "preserved_in_evidence_pack",
+      "finding": "The review still requires finer speaker, consent, privacy, or continuous-context work. Exact full audio and targeted continuous video windows have been preserved with source times and hashes; no finding is promoted to a Mikey recommendation.",
+      "visual_observation": "8/8 survey sheets inspected: one host remains visible; viewer chat and phone handling occur; no fixed visible assistant or second speaker was found.",
+      "preserved_full_audio": {
+        "path": "evidence-pack\\full-audio\\mikey-youtube-live-032.m4a",
+        "sha256": "a7bfe33e4d8c12cd0d02f5f095cafea7459f2e676e92eb74502fbeb6e4d88cf0",
+        "operation": "AAC stream copied without transcoding"
+      },
+      "preserved_video_windows": [
+        {
+          "path": "evidence-pack\\continuous-video-windows\\mikey-youtube-live-032-W01-00580-00920.mp4",
+          "original_start_seconds": 580,
+          "original_end_seconds": 920.0,
+          "sha256": "cd1c16c59f1aa950d6261b4ab2204ee9af2f808a9928670e597bc14b25a8dd4e"
+        },
+        {
+          "path": "evidence-pack\\continuous-video-windows\\mikey-youtube-live-032-W02-00980-01720.mp4",
+          "original_start_seconds": 980,
+          "original_end_seconds": 1720.0,
+          "sha256": "6fa799df78ac5e0dde4f3b9f4c3648ba5d4c68c7f41cd8da631cd2c1e85f1b6b"
+        }
+      ],
+      "formal_skill_change": false
+    },
+    {
+      "review_id": "mikey-youtube-live-032-R004",
+      "source_id": "mikey-youtube-live-032",
+      "original_type": "health_and_smoking",
+      "original_severity": "major",
+      "original_status": "open",
+      "question": "抽烟、皮肤和‘多吃正妹’等健康/安全说法是否需要专业限制？",
+      "disposition": "open_persistent_external_limit",
+      "proposed_status": "open",
+      "proposed_severity": "major",
+      "deletion_dependency": "not_resolvable_from_full_source_video",
+      "finding": "The source recording can establish what was displayed or said, but cannot establish the external truth, legality, medical validity, publication consent, or independent outcome requested by this review. Deleting the full video would not remove the missing external evidence.",
+      "visual_observation": "8/8 survey sheets inspected: one host remains visible; viewer chat and phone handling occur; no fixed visible assistant or second speaker was found.",
+      "preserved_full_audio": {
+        "path": "evidence-pack\\full-audio\\mikey-youtube-live-032.m4a",
+        "sha256": "a7bfe33e4d8c12cd0d02f5f095cafea7459f2e676e92eb74502fbeb6e4d88cf0",
+        "operation": "AAC stream copied without transcoding"
+      },
+      "preserved_video_windows": [
+        {
+          "path": "evidence-pack\\continuous-video-windows\\mikey-youtube-live-032-W02-00980-01720.mp4",
+          "original_start_seconds": 980,
+          "original_end_seconds": 1720.0,
+          "sha256": "6fa799df78ac5e0dde4f3b9f4c3648ba5d4c68c7f41cd8da631cd2c1e85f1b6b"
+        }
+      ],
+      "formal_skill_change": false
+    },
+    {
+      "review_id": "mikey-youtube-live-033-R001",
+      "source_id": "mikey-youtube-live-033",
+      "original_type": "sexual_consent_and_coercion",
+      "original_severity": "blocking",
+      "original_status": "open",
+      "question": "‘太快—让她走—继续发生性行为’的案例是否存在明确、持续同意？",
+      "disposition": "open_source_evidence_preserved",
+      "proposed_status": "open",
+      "proposed_severity": "blocking",
+      "deletion_dependency": "preserved_in_evidence_pack",
+      "finding": "The review still requires finer speaker, consent, privacy, or continuous-context work. Exact full audio and targeted continuous video windows have been preserved with source times and hashes; no finding is promoted to a Mikey recommendation.",
+      "visual_observation": "9/9 survey sheets inspected: one host remains visible; viewer chat and phone handling occur; no fixed visible second speaker was found.",
+      "preserved_full_audio": {
+        "path": "evidence-pack\\full-audio\\mikey-youtube-live-033.m4a",
+        "sha256": "dab3de469ccc61492ff41580f4d2c07870161aecae9ebfdb646801d1e19ec3ca",
+        "operation": "AAC stream copied without transcoding"
+      },
+      "preserved_video_windows": [
+        {
+          "path": "evidence-pack\\continuous-video-windows\\mikey-youtube-live-033-W01-00080-00340.mp4",
+          "original_start_seconds": 80,
+          "original_end_seconds": 340.0,
+          "sha256": "4a13c377c187c28cf295b4e02d6b4da12a7c5c0bdb631e296aa087e69060875e"
+        }
+      ],
+      "formal_skill_change": false
+    },
+    {
+      "review_id": "mikey-youtube-live-033-R002",
+      "source_id": "mikey-youtube-live-033",
+      "original_type": "gender_body_and_health_claims",
+      "original_severity": "blocking",
+      "original_status": "open",
+      "question": "关于女性心理、ASD、体重、城市和群体的概括，以及美容/抽烟建议是否必须限制？",
+      "disposition": "open_audio_and_context_preserved",
+      "proposed_status": "open",
+      "proposed_severity": "blocking",
+      "deletion_dependency": "full_audio_preserved_visual_context_surveyed",
+      "finding": "The remaining issue concerns semantics, harmful framing, consent/authorization, or a generalization. Exact full audio preserves the source statement; the unresolved factual or ethical component cannot be cleared by sparse video inspection alone.",
+      "visual_observation": "9/9 survey sheets inspected: one host remains visible; viewer chat and phone handling occur; no fixed visible second speaker was found.",
+      "preserved_full_audio": {
+        "path": "evidence-pack\\full-audio\\mikey-youtube-live-033.m4a",
+        "sha256": "dab3de469ccc61492ff41580f4d2c07870161aecae9ebfdb646801d1e19ec3ca",
+        "operation": "AAC stream copied without transcoding"
+      },
+      "preserved_video_windows": [],
+      "formal_skill_change": false
+    },
+    {
+      "review_id": "mikey-youtube-live-033-R003",
+      "source_id": "mikey-youtube-live-033",
+      "original_type": "speaker_and_visual_pending",
+      "original_severity": "major",
+      "original_status": "open",
+      "question": "房间、助教、观众问题、屏幕留言和现场人物是否需要逐句归属？",
+      "disposition": "open_source_evidence_preserved",
+      "proposed_status": "open",
+      "proposed_severity": "major",
+      "deletion_dependency": "preserved_in_evidence_pack",
+      "finding": "The review still requires finer speaker, consent, privacy, or continuous-context work. Exact full audio and targeted continuous video windows have been preserved with source times and hashes; no finding is promoted to a Mikey recommendation.",
+      "visual_observation": "9/9 survey sheets inspected: one host remains visible; viewer chat and phone handling occur; no fixed visible second speaker was found.",
+      "preserved_full_audio": {
+        "path": "evidence-pack\\full-audio\\mikey-youtube-live-033.m4a",
+        "sha256": "dab3de469ccc61492ff41580f4d2c07870161aecae9ebfdb646801d1e19ec3ca",
+        "operation": "AAC stream copied without transcoding"
+      },
+      "preserved_video_windows": [
+        {
+          "path": "evidence-pack\\continuous-video-windows\\mikey-youtube-live-033-W01-00080-00340.mp4",
+          "original_start_seconds": 80,
+          "original_end_seconds": 340.0,
+          "sha256": "4a13c377c187c28cf295b4e02d6b4da12a7c5c0bdb631e296aa087e69060875e"
+        }
+      ],
+      "formal_skill_change": false
+    },
+    {
+      "review_id": "mikey-youtube-live-034-R001",
+      "source_id": "mikey-youtube-live-034",
+      "original_type": "consent_and_third_party_claim",
+      "original_severity": "blocking",
+      "original_status": "open",
+      "question": "开场约会/性经历是否涉及当事人明确同意公开，叙述事实能否核验？",
+      "disposition": "open_source_evidence_preserved",
+      "proposed_status": "open",
+      "proposed_severity": "blocking",
+      "deletion_dependency": "preserved_in_evidence_pack",
+      "finding": "The review still requires finer speaker, consent, privacy, or continuous-context work. Exact full audio and targeted continuous video windows have been preserved with source times and hashes; no finding is promoted to a Mikey recommendation.",
+      "visual_observation": "7/7 survey sheets inspected: fixed single-host camera with viewer-chat overlay; no readable private screen was found; the phone/courier window still needs audio attribution.",
+      "preserved_full_audio": {
+        "path": "evidence-pack\\full-audio\\mikey-youtube-live-034.m4a",
+        "sha256": "b1f637f6dc32e684d9518750233a69b9e6b744e77cc3818b6f509a7d2b6e5b89",
+        "operation": "AAC stream copied without transcoding"
+      },
+      "preserved_video_windows": [
+        {
+          "path": "evidence-pack\\continuous-video-windows\\mikey-youtube-live-034-W01-00100-00240.mp4",
+          "original_start_seconds": 100,
+          "original_end_seconds": 240.0,
+          "sha256": "e08f895c8b2f8860f8f902228412df85ccf06d1d8618d21b691d63d0fdf66df0"
+        }
+      ],
+      "formal_skill_change": false
+    },
+    {
+      "review_id": "mikey-youtube-live-034-R002",
+      "source_id": "mikey-youtube-live-034",
+      "original_type": "coercive_framing",
+      "original_severity": "blocking",
+      "original_status": "open",
+      "question": "‘支配但不让对方察觉’是否把操控当成吸引方法？",
+      "disposition": "open_source_evidence_preserved",
+      "proposed_status": "open",
+      "proposed_severity": "blocking",
+      "deletion_dependency": "preserved_in_evidence_pack",
+      "finding": "The review still requires finer speaker, consent, privacy, or continuous-context work. Exact full audio and targeted continuous video windows have been preserved with source times and hashes; no finding is promoted to a Mikey recommendation.",
+      "visual_observation": "7/7 survey sheets inspected: fixed single-host camera with viewer-chat overlay; no readable private screen was found; the phone/courier window still needs audio attribution.",
+      "preserved_full_audio": {
+        "path": "evidence-pack\\full-audio\\mikey-youtube-live-034.m4a",
+        "sha256": "b1f637f6dc32e684d9518750233a69b9e6b744e77cc3818b6f509a7d2b6e5b89",
+        "operation": "AAC stream copied without transcoding"
+      },
+      "preserved_video_windows": [
+        {
+          "path": "evidence-pack\\continuous-video-windows\\mikey-youtube-live-034-W02-01130-01250.mp4",
+          "original_start_seconds": 1130,
+          "original_end_seconds": 1250.0,
+          "sha256": "16f2783988646c27cd6f19da54e557dc16249c5a424b05cf443219a0eab0c002"
+        }
+      ],
+      "formal_skill_change": false
+    },
+    {
+      "review_id": "mikey-youtube-live-034-R003",
+      "source_id": "mikey-youtube-live-034",
+      "original_type": "medical_claim",
+      "original_severity": "blocking",
+      "original_status": "open",
+      "question": "性功能问题被笼统归为心理压力的判断是否错误或延误就医？",
+      "disposition": "open_persistent_external_limit",
+      "proposed_status": "open",
+      "proposed_severity": "blocking",
+      "deletion_dependency": "not_resolvable_from_full_source_video",
+      "finding": "The source recording can establish what was displayed or said, but cannot establish the external truth, legality, medical validity, publication consent, or independent outcome requested by this review. Deleting the full video would not remove the missing external evidence.",
+      "visual_observation": "7/7 survey sheets inspected: fixed single-host camera with viewer-chat overlay; no readable private screen was found; the phone/courier window still needs audio attribution.",
+      "preserved_full_audio": {
+        "path": "evidence-pack\\full-audio\\mikey-youtube-live-034.m4a",
+        "sha256": "b1f637f6dc32e684d9518750233a69b9e6b744e77cc3818b6f509a7d2b6e5b89",
+        "operation": "AAC stream copied without transcoding"
+      },
+      "preserved_video_windows": [
+        {
+          "path": "evidence-pack\\continuous-video-windows\\mikey-youtube-live-034-W03-01950-02410.mp4",
+          "original_start_seconds": 1950,
+          "original_end_seconds": 2410.0,
+          "sha256": "d12ad45c27fdd9444781ecfb956e5894db1e8ec622f16a3a8a6075152e9b3495"
+        }
+      ],
+      "formal_skill_change": false
+    },
+    {
+      "review_id": "mikey-youtube-live-034-R004",
+      "source_id": "mikey-youtube-live-034",
+      "original_type": "consent_boundary",
+      "original_severity": "blocking",
+      "original_status": "open",
+      "question": "ASD很重时讲者是否明确承认可能就是拒绝？",
+      "disposition": "closed_question_answered_by_source_context",
+      "proposed_status": "closed",
+      "proposed_severity": null,
+      "deletion_dependency": "resolved_and_materialized",
+      "finding": "The automatic transcript at 3481.54-3483.42 states explicitly: 'ASD太重可能就是拒绝'. The surrounding source window is preserved for later listening. This closes the narrow factual question of whether the speaker acknowledged refusal; it does not authorize treating resistance as a technique, and refusal remains a stop condition.",
+      "visual_observation": "7/7 survey sheets inspected: fixed single-host camera with viewer-chat overlay; no readable private screen was found; the phone/courier window still needs audio attribution.",
+      "preserved_full_audio": {
+        "path": "evidence-pack\\full-audio\\mikey-youtube-live-034.m4a",
+        "sha256": "b1f637f6dc32e684d9518750233a69b9e6b744e77cc3818b6f509a7d2b6e5b89",
+        "operation": "AAC stream copied without transcoding"
+      },
+      "preserved_video_windows": [
+        {
+          "path": "evidence-pack\\continuous-video-windows\\mikey-youtube-live-034-W05-03440-03520.mp4",
+          "original_start_seconds": 3440,
+          "original_end_seconds": 3520.0,
+          "sha256": "924324c0da69566b57e4f81c3f423d5d2ebe75439d1cf9144ecf30b59e22e396"
+        }
+      ],
+      "formal_skill_change": false
+    },
+    {
+      "review_id": "mikey-youtube-live-034-R005",
+      "source_id": "mikey-youtube-live-034",
+      "original_type": "speaker_attribution",
+      "original_severity": "major",
+      "original_status": "open",
+      "question": "送餐/电话片段中哪些话是Mikey、哪些是外部声音？",
+      "disposition": "open_source_evidence_preserved",
+      "proposed_status": "open",
+      "proposed_severity": "major",
+      "deletion_dependency": "preserved_in_evidence_pack",
+      "finding": "The review still requires finer speaker, consent, privacy, or continuous-context work. Exact full audio and targeted continuous video windows have been preserved with source times and hashes; no finding is promoted to a Mikey recommendation.",
+      "visual_observation": "7/7 survey sheets inspected: fixed single-host camera with viewer-chat overlay; no readable private screen was found; the phone/courier window still needs audio attribution.",
+      "preserved_full_audio": {
+        "path": "evidence-pack\\full-audio\\mikey-youtube-live-034.m4a",
+        "sha256": "b1f637f6dc32e684d9518750233a69b9e6b744e77cc3818b6f509a7d2b6e5b89",
+        "operation": "AAC stream copied without transcoding"
+      },
+      "preserved_video_windows": [
+        {
+          "path": "evidence-pack\\continuous-video-windows\\mikey-youtube-live-034-W04-02450-02730.mp4",
+          "original_start_seconds": 2450,
+          "original_end_seconds": 2730.0,
+          "sha256": "25630419327d860b5b2697003afa59996d0e673c41e9ea229948ffe81fbda78f"
+        }
+      ],
+      "formal_skill_change": false
+    },
+    {
+      "review_id": "mikey-youtube-live-034-R006",
+      "source_id": "mikey-youtube-live-034",
+      "original_type": "legal_claim",
+      "original_severity": "major",
+      "original_status": "open",
+      "question": "关于翻墙风险的说法是否把法律风险过度简化？",
+      "disposition": "open_persistent_external_limit",
+      "proposed_status": "open",
+      "proposed_severity": "major",
+      "deletion_dependency": "not_resolvable_from_full_source_video",
+      "finding": "The source recording can establish what was displayed or said, but cannot establish the external truth, legality, medical validity, publication consent, or independent outcome requested by this review. Deleting the full video would not remove the missing external evidence.",
+      "visual_observation": "7/7 survey sheets inspected: fixed single-host camera with viewer-chat overlay; no readable private screen was found; the phone/courier window still needs audio attribution.",
+      "preserved_full_audio": {
+        "path": "evidence-pack\\full-audio\\mikey-youtube-live-034.m4a",
+        "sha256": "b1f637f6dc32e684d9518750233a69b9e6b744e77cc3818b6f509a7d2b6e5b89",
+        "operation": "AAC stream copied without transcoding"
+      },
+      "preserved_video_windows": [],
+      "formal_skill_change": false
+    },
+    {
+      "review_id": "mikey-youtube-live-034-R007",
+      "source_id": "mikey-youtube-live-034",
+      "original_type": "visual_review_pending",
+      "original_severity": "major",
+      "original_status": "open",
+      "question": "本期是否展示聊天记录、照片、来电界面或其他承载信息的画面？",
+      "disposition": "closed_question_answered_with_persistent_boundary",
+      "proposed_status": "closed",
+      "proposed_severity": null,
+      "deletion_dependency": "resolved_and_materialized",
+      "finding": "7/7 survey sheets were inspected. The episode is a fixed single-host camera with a persistent viewer-chat overlay; the host handles a phone, but no readable private chat, contact card, or full-screen third-party photo was found in the sparse survey. Viewer-chat attribution and unreadable short phone flashes remain excluded from knowledge.",
+      "visual_observation": "7/7 survey sheets inspected: fixed single-host camera with viewer-chat overlay; no readable private screen was found; the phone/courier window still needs audio attribution.",
+      "preserved_full_audio": {
+        "path": "evidence-pack\\full-audio\\mikey-youtube-live-034.m4a",
+        "sha256": "b1f637f6dc32e684d9518750233a69b9e6b744e77cc3818b6f509a7d2b6e5b89",
+        "operation": "AAC stream copied without transcoding"
+      },
+      "preserved_video_windows": [],
+      "formal_skill_change": false
+    },
+    {
+      "review_id": "mikey-youtube-live-035-R001",
+      "source_id": "mikey-youtube-live-035",
+      "original_type": "sexual_consent_and_group_sex",
+      "original_severity": "blocking",
+      "original_status": "open",
+      "question": "‘测试女性能接受多少男性’是否存在同意、压力或第三方隐私问题？",
+      "disposition": "open_source_evidence_preserved",
+      "proposed_status": "open",
+      "proposed_severity": "blocking",
+      "deletion_dependency": "preserved_in_evidence_pack",
+      "finding": "The review still requires finer speaker, consent, privacy, or continuous-context work. Exact full audio and targeted continuous video windows have been preserved with source times and hashes; no finding is promoted to a Mikey recommendation.",
+      "visual_observation": "8/8 survey sheets inspected: fixed single-host camera; a third-party portrait/profile is shown on a phone near 00:42:24 and calls begin after about 00:49.",
+      "preserved_full_audio": {
+        "path": "evidence-pack\\full-audio\\mikey-youtube-live-035.m4a",
+        "sha256": "c962e10a47e0b1b8612eb0a21f56660361f21a571c80cd4ccebc84e4d34df21e",
+        "operation": "AAC stream copied without transcoding"
+      },
+      "preserved_video_windows": [
+        {
+          "path": "evidence-pack\\continuous-video-windows\\mikey-youtube-live-035-W01-00730-00870.mp4",
+          "original_start_seconds": 730,
+          "original_end_seconds": 870.0,
+          "sha256": "97257e98a3601cad3877673713be895343b02b00fa80312f52ccdf6bfda26ebc"
+        }
+      ],
+      "formal_skill_change": false
+    },
+    {
+      "review_id": "mikey-youtube-live-035-R002",
+      "source_id": "mikey-youtube-live-035",
+      "original_type": "coercive_transfer",
+      "original_severity": "blocking",
+      "original_status": "open",
+      "question": "用‘吃药/喝酒’作为去酒店理由是否属于误导或增加酒精相关同意风险？",
+      "disposition": "open_source_evidence_preserved",
+      "proposed_status": "open",
+      "proposed_severity": "blocking",
+      "deletion_dependency": "preserved_in_evidence_pack",
+      "finding": "The review still requires finer speaker, consent, privacy, or continuous-context work. Exact full audio and targeted continuous video windows have been preserved with source times and hashes; no finding is promoted to a Mikey recommendation.",
+      "visual_observation": "8/8 survey sheets inspected: fixed single-host camera; a third-party portrait/profile is shown on a phone near 00:42:24 and calls begin after about 00:49.",
+      "preserved_full_audio": {
+        "path": "evidence-pack\\full-audio\\mikey-youtube-live-035.m4a",
+        "sha256": "c962e10a47e0b1b8612eb0a21f56660361f21a571c80cd4ccebc84e4d34df21e",
+        "operation": "AAC stream copied without transcoding"
+      },
+      "preserved_video_windows": [
+        {
+          "path": "evidence-pack\\continuous-video-windows\\mikey-youtube-live-035-W02-01960-02060.mp4",
+          "original_start_seconds": 1960,
+          "original_end_seconds": 2060.0,
+          "sha256": "9e2f27b0ece7ac44bb196a58e28b7ef6fca98c20b0044dc3a65d83efd2cf3baa"
+        }
+      ],
+      "formal_skill_change": false
+    },
+    {
+      "review_id": "mikey-youtube-live-035-R003",
+      "source_id": "mikey-youtube-live-035",
+      "original_type": "speaker_attribution",
+      "original_severity": "blocking",
+      "original_status": "open",
+      "question": "三段电话中每句话分别由Mikey还是电话对象说出？",
+      "disposition": "open_source_evidence_preserved",
+      "proposed_status": "open",
+      "proposed_severity": "blocking",
+      "deletion_dependency": "preserved_in_evidence_pack",
+      "finding": "The review still requires finer speaker, consent, privacy, or continuous-context work. Exact full audio and targeted continuous video windows have been preserved with source times and hashes; no finding is promoted to a Mikey recommendation.",
+      "visual_observation": "8/8 survey sheets inspected: fixed single-host camera; a third-party portrait/profile is shown on a phone near 00:42:24 and calls begin after about 00:49.",
+      "preserved_full_audio": {
+        "path": "evidence-pack\\full-audio\\mikey-youtube-live-035.m4a",
+        "sha256": "c962e10a47e0b1b8612eb0a21f56660361f21a571c80cd4ccebc84e4d34df21e",
+        "operation": "AAC stream copied without transcoding"
+      },
+      "preserved_video_windows": [
+        {
+          "path": "evidence-pack\\continuous-video-windows\\mikey-youtube-live-035-W03-02920-04830.mp4",
+          "original_start_seconds": 2920,
+          "original_end_seconds": 4830.0,
+          "sha256": "b7dc41cbaec865008273810b7467bff6c6b845a5e748682047a5a71813d8253c"
+        }
+      ],
+      "formal_skill_change": false
+    },
+    {
+      "review_id": "mikey-youtube-live-035-R004",
+      "source_id": "mikey-youtube-live-035",
+      "original_type": "mental_health_and_medication",
+      "original_severity": "blocking",
+      "original_status": "open",
+      "question": "电话中谈到吃药、心情和抑郁时，具体是谁在说、是否涉及真实医疗信息？",
+      "disposition": "open_source_evidence_preserved",
+      "proposed_status": "open",
+      "proposed_severity": "blocking",
+      "deletion_dependency": "preserved_in_evidence_pack",
+      "finding": "The review still requires finer speaker, consent, privacy, or continuous-context work. Exact full audio and targeted continuous video windows have been preserved with source times and hashes; no finding is promoted to a Mikey recommendation.",
+      "visual_observation": "8/8 survey sheets inspected: fixed single-host camera; a third-party portrait/profile is shown on a phone near 00:42:24 and calls begin after about 00:49.",
+      "preserved_full_audio": {
+        "path": "evidence-pack\\full-audio\\mikey-youtube-live-035.m4a",
+        "sha256": "c962e10a47e0b1b8612eb0a21f56660361f21a571c80cd4ccebc84e4d34df21e",
+        "operation": "AAC stream copied without transcoding"
+      },
+      "preserved_video_windows": [
+        {
+          "path": "evidence-pack\\continuous-video-windows\\mikey-youtube-live-035-W03-02920-04830.mp4",
+          "original_start_seconds": 2920,
+          "original_end_seconds": 4830.0,
+          "sha256": "b7dc41cbaec865008273810b7467bff6c6b845a5e748682047a5a71813d8253c"
+        }
+      ],
+      "formal_skill_change": false
+    },
+    {
+      "review_id": "mikey-youtube-live-035-R005",
+      "source_id": "mikey-youtube-live-035",
+      "original_type": "sexual_coercion_boundary",
+      "original_severity": "blocking",
+      "original_status": "open",
+      "question": "多人性邀约片段中是否存在持续同意、拒绝后继续施压或公开隐私问题？",
+      "disposition": "open_source_evidence_preserved",
+      "proposed_status": "open",
+      "proposed_severity": "blocking",
+      "deletion_dependency": "preserved_in_evidence_pack",
+      "finding": "The review still requires finer speaker, consent, privacy, or continuous-context work. Exact full audio and targeted continuous video windows have been preserved with source times and hashes; no finding is promoted to a Mikey recommendation.",
+      "visual_observation": "8/8 survey sheets inspected: fixed single-host camera; a third-party portrait/profile is shown on a phone near 00:42:24 and calls begin after about 00:49.",
+      "preserved_full_audio": {
+        "path": "evidence-pack\\full-audio\\mikey-youtube-live-035.m4a",
+        "sha256": "c962e10a47e0b1b8612eb0a21f56660361f21a571c80cd4ccebc84e4d34df21e",
+        "operation": "AAC stream copied without transcoding"
+      },
+      "preserved_video_windows": [
+        {
+          "path": "evidence-pack\\continuous-video-windows\\mikey-youtube-live-035-W03-02920-04830.mp4",
+          "original_start_seconds": 2920,
+          "original_end_seconds": 4830.0,
+          "sha256": "b7dc41cbaec865008273810b7467bff6c6b845a5e748682047a5a71813d8253c"
+        }
+      ],
+      "formal_skill_change": false
+    },
+    {
+      "review_id": "mikey-youtube-live-035-R006",
+      "source_id": "mikey-youtube-live-035",
+      "original_type": "generalization_from_one_person",
+      "original_severity": "major",
+      "original_status": "open",
+      "question": "电话对象的个人偏好被推广成所有女性喜欢‘坏男人’是否过度概括？",
+      "disposition": "open_source_evidence_preserved",
+      "proposed_status": "open",
+      "proposed_severity": "major",
+      "deletion_dependency": "preserved_in_evidence_pack",
+      "finding": "The review still requires finer speaker, consent, privacy, or continuous-context work. Exact full audio and targeted continuous video windows have been preserved with source times and hashes; no finding is promoted to a Mikey recommendation.",
+      "visual_observation": "8/8 survey sheets inspected: fixed single-host camera; a third-party portrait/profile is shown on a phone near 00:42:24 and calls begin after about 00:49.",
+      "preserved_full_audio": {
+        "path": "evidence-pack\\full-audio\\mikey-youtube-live-035.m4a",
+        "sha256": "c962e10a47e0b1b8612eb0a21f56660361f21a571c80cd4ccebc84e4d34df21e",
+        "operation": "AAC stream copied without transcoding"
+      },
+      "preserved_video_windows": [
+        {
+          "path": "evidence-pack\\continuous-video-windows\\mikey-youtube-live-035-W03-02920-04830.mp4",
+          "original_start_seconds": 2920,
+          "original_end_seconds": 4830.0,
+          "sha256": "b7dc41cbaec865008273810b7467bff6c6b845a5e748682047a5a71813d8253c"
+        }
+      ],
+      "formal_skill_change": false
+    },
+    {
+      "review_id": "mikey-youtube-live-035-R007",
+      "source_id": "mikey-youtube-live-035",
+      "original_type": "visual_review_pending",
+      "original_severity": "major",
+      "original_status": "open",
+      "question": "现场是否展示第三方照片、来电界面、聊天消息或可识别账号？",
+      "disposition": "closed_question_answered_confirmed_privacy_exposure",
+      "proposed_status": "closed",
+      "proposed_severity": null,
+      "deletion_dependency": "resolved_and_materialized",
+      "finding": "8/8 survey sheets were inspected. A phone screen displaying a third-party portrait/profile is visible at about 00:42:24; after about 00:49 the host uses the phone for calls, without a reliably readable contact name or number in the survey. The portrait is confirmed private material and remains excluded from reusable knowledge; its continuous call windows are preserved.",
+      "visual_observation": "8/8 survey sheets inspected: fixed single-host camera; a third-party portrait/profile is shown on a phone near 00:42:24 and calls begin after about 00:49.",
+      "preserved_full_audio": {
+        "path": "evidence-pack\\full-audio\\mikey-youtube-live-035.m4a",
+        "sha256": "c962e10a47e0b1b8612eb0a21f56660361f21a571c80cd4ccebc84e4d34df21e",
+        "operation": "AAC stream copied without transcoding"
+      },
+      "preserved_video_windows": [],
+      "formal_skill_change": false
+    },
+    {
+      "review_id": "mikey-youtube-live-036-R001",
+      "source_id": "mikey-youtube-live-036",
+      "original_type": "approach_safety",
+      "original_severity": "major",
+      "original_status": "open",
+      "question": "搭讪前侧角度与不触碰建议是否被原音完整表达？",
+      "disposition": "closed_question_answered_by_source_context",
+      "proposed_status": "closed",
+      "proposed_severity": null,
+      "deletion_dependency": "resolved_and_materialized",
+      "finding": "The automatic transcript at 377.55-405.54 explicitly advises approaching to the front-side/roughly 45-degree shoulder angle and repeats that one should not touch a woman from behind. The continuous 340-440s source window is preserved. This closes the narrow wording check; it does not verify outcomes or replace ordinary safety and respect boundaries.",
+      "visual_observation": "10/10 survey sheets inspected: fixed single-host camera; no separate information-bearing screen or fixed second person was found.",
+      "preserved_full_audio": {
+        "path": "evidence-pack\\full-audio\\mikey-youtube-live-036.m4a",
+        "sha256": "d710fd5824fa3385e19fec623bd150dd5ee79ca7cdee39f93b83d5ac083a8c7c",
+        "operation": "AAC stream copied without transcoding"
+      },
+      "preserved_video_windows": [
+        {
+          "path": "evidence-pack\\continuous-video-windows\\mikey-youtube-live-036-W01-00340-00440.mp4",
+          "original_start_seconds": 340,
+          "original_end_seconds": 440.0,
+          "sha256": "f69fa76302ef8e323ec05721398ff27a0c970b5b486d1e1fb55e8bba1838b01b"
+        }
+      ],
+      "formal_skill_change": false
+    },
+    {
+      "review_id": "mikey-youtube-live-036-R002",
+      "source_id": "mikey-youtube-live-036",
+      "original_type": "coercive_manipulation",
+      "original_severity": "blocking",
+      "original_status": "open",
+      "question": "‘剥夺认同感’和中途撤离是否被用于制造崩溃与服从？",
+      "disposition": "open_source_evidence_preserved",
+      "proposed_status": "open",
+      "proposed_severity": "blocking",
+      "deletion_dependency": "preserved_in_evidence_pack",
+      "finding": "The review still requires finer speaker, consent, privacy, or continuous-context work. Exact full audio and targeted continuous video windows have been preserved with source times and hashes; no finding is promoted to a Mikey recommendation.",
+      "visual_observation": "10/10 survey sheets inspected: fixed single-host camera; no separate information-bearing screen or fixed second person was found.",
+      "preserved_full_audio": {
+        "path": "evidence-pack\\full-audio\\mikey-youtube-live-036.m4a",
+        "sha256": "d710fd5824fa3385e19fec623bd150dd5ee79ca7cdee39f93b83d5ac083a8c7c",
+        "operation": "AAC stream copied without transcoding"
+      },
+      "preserved_video_windows": [
+        {
+          "path": "evidence-pack\\continuous-video-windows\\mikey-youtube-live-036-W02-00660-00950.mp4",
+          "original_start_seconds": 660,
+          "original_end_seconds": 950.0,
+          "sha256": "2b5138d93e84cdfd9f4dddf617b344850cef0d43a37c76f2fe6e11059107c480"
+        }
+      ],
+      "formal_skill_change": false
+    },
+    {
+      "review_id": "mikey-youtube-live-036-R003",
+      "source_id": "mikey-youtube-live-036",
+      "original_type": "gender_pseudoscience",
+      "original_severity": "major",
+      "original_status": "open",
+      "question": "关于男女脑区、狩猎与部落分工的解释是否为无证据的性别本质论？",
+      "disposition": "open_persistent_external_limit",
+      "proposed_status": "open",
+      "proposed_severity": "major",
+      "deletion_dependency": "not_resolvable_from_full_source_video",
+      "finding": "The source recording can establish what was displayed or said, but cannot establish the external truth, legality, medical validity, publication consent, or independent outcome requested by this review. Deleting the full video would not remove the missing external evidence.",
+      "visual_observation": "10/10 survey sheets inspected: fixed single-host camera; no separate information-bearing screen or fixed second person was found.",
+      "preserved_full_audio": {
+        "path": "evidence-pack\\full-audio\\mikey-youtube-live-036.m4a",
+        "sha256": "d710fd5824fa3385e19fec623bd150dd5ee79ca7cdee39f93b83d5ac083a8c7c",
+        "operation": "AAC stream copied without transcoding"
+      },
+      "preserved_video_windows": [],
+      "formal_skill_change": false
+    },
+    {
+      "review_id": "mikey-youtube-live-036-R004",
+      "source_id": "mikey-youtube-live-036",
+      "original_type": "consent_and_media_claim",
+      "original_severity": "blocking",
+      "original_status": "open",
+      "question": "以反叛人格拒绝对方音乐偏好、并把结果归因于‘照样TD’是否忽略协商与持续同意？",
+      "disposition": "open_source_evidence_preserved",
+      "proposed_status": "open",
+      "proposed_severity": "blocking",
+      "deletion_dependency": "preserved_in_evidence_pack",
+      "finding": "The review still requires finer speaker, consent, privacy, or continuous-context work. Exact full audio and targeted continuous video windows have been preserved with source times and hashes; no finding is promoted to a Mikey recommendation.",
+      "visual_observation": "10/10 survey sheets inspected: fixed single-host camera; no separate information-bearing screen or fixed second person was found.",
+      "preserved_full_audio": {
+        "path": "evidence-pack\\full-audio\\mikey-youtube-live-036.m4a",
+        "sha256": "d710fd5824fa3385e19fec623bd150dd5ee79ca7cdee39f93b83d5ac083a8c7c",
+        "operation": "AAC stream copied without transcoding"
+      },
+      "preserved_video_windows": [
+        {
+          "path": "evidence-pack\\continuous-video-windows\\mikey-youtube-live-036-W03-02860-03020.mp4",
+          "original_start_seconds": 2860,
+          "original_end_seconds": 3020.0,
+          "sha256": "b3e076922fffe049dfbf7249e308997e19f7630096dd5fbe56c3ed5a53715a9e"
+        }
+      ],
+      "formal_skill_change": false
+    },
+    {
+      "review_id": "mikey-youtube-live-036-R005",
+      "source_id": "mikey-youtube-live-036",
+      "original_type": "relationship_insecurity",
+      "original_severity": "blocking",
+      "original_status": "open",
+      "question": "‘让对方没有安全感才有吸引’是否鼓励制造焦虑和不稳定？",
+      "disposition": "open_source_evidence_preserved",
+      "proposed_status": "open",
+      "proposed_severity": "blocking",
+      "deletion_dependency": "preserved_in_evidence_pack",
+      "finding": "The review still requires finer speaker, consent, privacy, or continuous-context work. Exact full audio and targeted continuous video windows have been preserved with source times and hashes; no finding is promoted to a Mikey recommendation.",
+      "visual_observation": "10/10 survey sheets inspected: fixed single-host camera; no separate information-bearing screen or fixed second person was found.",
+      "preserved_full_audio": {
+        "path": "evidence-pack\\full-audio\\mikey-youtube-live-036.m4a",
+        "sha256": "d710fd5824fa3385e19fec623bd150dd5ee79ca7cdee39f93b83d5ac083a8c7c",
+        "operation": "AAC stream copied without transcoding"
+      },
+      "preserved_video_windows": [
+        {
+          "path": "evidence-pack\\continuous-video-windows\\mikey-youtube-live-036-W04-03800-04010.mp4",
+          "original_start_seconds": 3800,
+          "original_end_seconds": 4010.0,
+          "sha256": "6bca82abdb5ea026f10f042ea966845fff5b0f116cb25a7660f6e11642ba6044"
+        }
+      ],
+      "formal_skill_change": false
+    },
+    {
+      "review_id": "mikey-youtube-live-036-R006",
+      "source_id": "mikey-youtube-live-036",
+      "original_type": "body_shaming",
+      "original_severity": "major",
+      "original_status": "open",
+      "question": "用他人外形作负面对照是否构成贬损且与结论无关？",
+      "disposition": "open_source_evidence_preserved",
+      "proposed_status": "open",
+      "proposed_severity": "major",
+      "deletion_dependency": "preserved_in_evidence_pack",
+      "finding": "The review still requires finer speaker, consent, privacy, or continuous-context work. Exact full audio and targeted continuous video windows have been preserved with source times and hashes; no finding is promoted to a Mikey recommendation.",
+      "visual_observation": "10/10 survey sheets inspected: fixed single-host camera; no separate information-bearing screen or fixed second person was found.",
+      "preserved_full_audio": {
+        "path": "evidence-pack\\full-audio\\mikey-youtube-live-036.m4a",
+        "sha256": "d710fd5824fa3385e19fec623bd150dd5ee79ca7cdee39f93b83d5ac083a8c7c",
+        "operation": "AAC stream copied without transcoding"
+      },
+      "preserved_video_windows": [
+        {
+          "path": "evidence-pack\\continuous-video-windows\\mikey-youtube-live-036-W04-03800-04010.mp4",
+          "original_start_seconds": 3800,
+          "original_end_seconds": 4010.0,
+          "sha256": "6bca82abdb5ea026f10f042ea966845fff5b0f116cb25a7660f6e11642ba6044"
+        }
+      ],
+      "formal_skill_change": false
+    },
+    {
+      "review_id": "mikey-youtube-live-036-R007",
+      "source_id": "mikey-youtube-live-036",
+      "original_type": "childhood_violence",
+      "original_severity": "blocking",
+      "original_status": "open",
+      "question": "父亲用衣架打人的童年经历是否被合理化为爱？",
+      "disposition": "open_source_evidence_preserved",
+      "proposed_status": "open",
+      "proposed_severity": "blocking",
+      "deletion_dependency": "preserved_in_evidence_pack",
+      "finding": "The review still requires finer speaker, consent, privacy, or continuous-context work. Exact full audio and targeted continuous video windows have been preserved with source times and hashes; no finding is promoted to a Mikey recommendation.",
+      "visual_observation": "10/10 survey sheets inspected: fixed single-host camera; no separate information-bearing screen or fixed second person was found.",
+      "preserved_full_audio": {
+        "path": "evidence-pack\\full-audio\\mikey-youtube-live-036.m4a",
+        "sha256": "d710fd5824fa3385e19fec623bd150dd5ee79ca7cdee39f93b83d5ac083a8c7c",
+        "operation": "AAC stream copied without transcoding"
+      },
+      "preserved_video_windows": [
+        {
+          "path": "evidence-pack\\continuous-video-windows\\mikey-youtube-live-036-W05-04820-04960.mp4",
+          "original_start_seconds": 4820,
+          "original_end_seconds": 4960.0,
+          "sha256": "d29db12ecd2e306dc8879bd01e1ab636f19f03d2517ab9e0576c604066a5011f"
+        }
+      ],
+      "formal_skill_change": false
+    },
+    {
+      "review_id": "mikey-youtube-live-036-R008",
+      "source_id": "mikey-youtube-live-036",
+      "original_type": "political_factual_claim",
+      "original_severity": "major",
+      "original_status": "open",
+      "question": "中东局势和伊朗历史判断是否存在时点、事实或人物名称错误？",
+      "disposition": "open_persistent_external_limit",
+      "proposed_status": "open",
+      "proposed_severity": "major",
+      "deletion_dependency": "not_resolvable_from_full_source_video",
+      "finding": "The source recording can establish what was displayed or said, but cannot establish the external truth, legality, medical validity, publication consent, or independent outcome requested by this review. Deleting the full video would not remove the missing external evidence.",
+      "visual_observation": "10/10 survey sheets inspected: fixed single-host camera; no separate information-bearing screen or fixed second person was found.",
+      "preserved_full_audio": {
+        "path": "evidence-pack\\full-audio\\mikey-youtube-live-036.m4a",
+        "sha256": "d710fd5824fa3385e19fec623bd150dd5ee79ca7cdee39f93b83d5ac083a8c7c",
+        "operation": "AAC stream copied without transcoding"
+      },
+      "preserved_video_windows": [],
+      "formal_skill_change": false
+    },
+    {
+      "review_id": "mikey-youtube-live-036-R009",
+      "source_id": "mikey-youtube-live-036",
+      "original_type": "social_isolation",
+      "original_severity": "major",
+      "original_status": "open",
+      "question": "把对所有人无感、随时断联和贬低旧圈子解释为‘变强开悟’是否可能误导心理状态判断？",
+      "disposition": "open_audio_and_context_preserved",
+      "proposed_status": "open",
+      "proposed_severity": "major",
+      "deletion_dependency": "full_audio_preserved_visual_context_surveyed",
+      "finding": "The remaining issue concerns semantics, harmful framing, consent/authorization, or a generalization. Exact full audio preserves the source statement; the unresolved factual or ethical component cannot be cleared by sparse video inspection alone.",
+      "visual_observation": "10/10 survey sheets inspected: fixed single-host camera; no separate information-bearing screen or fixed second person was found.",
+      "preserved_full_audio": {
+        "path": "evidence-pack\\full-audio\\mikey-youtube-live-036.m4a",
+        "sha256": "d710fd5824fa3385e19fec623bd150dd5ee79ca7cdee39f93b83d5ac083a8c7c",
+        "operation": "AAC stream copied without transcoding"
+      },
+      "preserved_video_windows": [],
+      "formal_skill_change": false
+    },
+    {
+      "review_id": "mikey-youtube-live-036-R010",
+      "source_id": "mikey-youtube-live-036",
+      "original_type": "visual_review_pending",
+      "original_severity": "major",
+      "original_status": "open",
+      "question": "本期音乐播放、现场物品和可能展示的消息是否含额外教学或隐私信息？",
+      "disposition": "closed_question_answered_with_persistent_boundary",
+      "proposed_status": "closed",
+      "proposed_severity": null,
+      "deletion_dependency": "resolved_and_materialized",
+      "finding": "10/10 survey sheets were inspected. The video remains a fixed single-host camera with viewer-chat overlay and ordinary handheld objects/phone use. No full-screen message, family photo, or separate information-bearing teaching visual was found. Music and viewer-chat text remain non-Mikey material unless explicitly read aloud.",
+      "visual_observation": "10/10 survey sheets inspected: fixed single-host camera; no separate information-bearing screen or fixed second person was found.",
+      "preserved_full_audio": {
+        "path": "evidence-pack\\full-audio\\mikey-youtube-live-036.m4a",
+        "sha256": "d710fd5824fa3385e19fec623bd150dd5ee79ca7cdee39f93b83d5ac083a8c7c",
+        "operation": "AAC stream copied without transcoding"
+      },
+      "preserved_video_windows": [],
+      "formal_skill_change": false
+    },
+    {
+      "review_id": "mikey-youtube-live-037-R001",
+      "source_id": "mikey-youtube-live-037",
+      "original_type": "paternity_and_gender_generalization",
+      "original_severity": "blocking",
+      "original_status": "open",
+      "question": "新闻个案、亲子事实和所谓‘生理性慕强’因果是否有可靠依据？",
+      "disposition": "open_persistent_external_limit",
+      "proposed_status": "open",
+      "proposed_severity": "blocking",
+      "deletion_dependency": "not_resolvable_from_full_source_video",
+      "finding": "The source recording can establish what was displayed or said, but cannot establish the external truth, legality, medical validity, publication consent, or independent outcome requested by this review. Deleting the full video would not remove the missing external evidence.",
+      "visual_observation": "7/7 survey sheets inspected: single-host camera plus viewer chat; no fixed second visible speaker or third-party video.",
+      "preserved_full_audio": {
+        "path": "evidence-pack\\full-audio\\mikey-youtube-live-037.m4a",
+        "sha256": "3144d773e5e1260fa44cbe52d23ac7b58e5afa7f8538aa9e7bc26ea121c85171",
+        "operation": "AAC stream copied without transcoding"
+      },
+      "preserved_video_windows": [
+        {
+          "path": "evidence-pack\\continuous-video-windows\\mikey-youtube-live-037-W01-00160-00330.mp4",
+          "original_start_seconds": 160,
+          "original_end_seconds": 330.0,
+          "sha256": "8c6dd00cafd5ac2d0ffb87394f671080e93dd0f74e6a6be94c9b9c8015783937"
+        }
+      ],
+      "formal_skill_change": false
+    },
+    {
+      "review_id": "mikey-youtube-live-037-R002",
+      "source_id": "mikey-youtube-live-037",
+      "original_type": "dominance_and_coercive_framing",
+      "original_severity": "blocking",
+      "original_status": "open",
+      "question": "高低位、失去主动权和‘弱者不配尊重’是否鼓励控制或贬低对方？",
+      "disposition": "open_source_evidence_preserved",
+      "proposed_status": "open",
+      "proposed_severity": "blocking",
+      "deletion_dependency": "preserved_in_evidence_pack",
+      "finding": "The review still requires finer speaker, consent, privacy, or continuous-context work. Exact full audio and targeted continuous video windows have been preserved with source times and hashes; no finding is promoted to a Mikey recommendation.",
+      "visual_observation": "7/7 survey sheets inspected: single-host camera plus viewer chat; no fixed second visible speaker or third-party video.",
+      "preserved_full_audio": {
+        "path": "evidence-pack\\full-audio\\mikey-youtube-live-037.m4a",
+        "sha256": "3144d773e5e1260fa44cbe52d23ac7b58e5afa7f8538aa9e7bc26ea121c85171",
+        "operation": "AAC stream copied without transcoding"
+      },
+      "preserved_video_windows": [
+        {
+          "path": "evidence-pack\\continuous-video-windows\\mikey-youtube-live-037-W02-00280-01220.mp4",
+          "original_start_seconds": 280,
+          "original_end_seconds": 1220.0,
+          "sha256": "c646abd03797008136183be017312ad24c36263a40d79b20ee071da2c29c91db"
+        }
+      ],
+      "formal_skill_change": false
+    },
+    {
+      "review_id": "mikey-youtube-live-037-R003",
+      "source_id": "mikey-youtube-live-037",
+      "original_type": "privacy_and_manufactured_jealousy",
+      "original_severity": "blocking",
+      "original_status": "open",
+      "question": "派对是否取得参与者知情同意，私聊截图转发和故意制造竞争是否侵犯隐私或操控？",
+      "disposition": "open_source_evidence_preserved",
+      "proposed_status": "open",
+      "proposed_severity": "blocking",
+      "deletion_dependency": "preserved_in_evidence_pack",
+      "finding": "The review still requires finer speaker, consent, privacy, or continuous-context work. Exact full audio and targeted continuous video windows have been preserved with source times and hashes; no finding is promoted to a Mikey recommendation.",
+      "visual_observation": "7/7 survey sheets inspected: single-host camera plus viewer chat; no fixed second visible speaker or third-party video.",
+      "preserved_full_audio": {
+        "path": "evidence-pack\\full-audio\\mikey-youtube-live-037.m4a",
+        "sha256": "3144d773e5e1260fa44cbe52d23ac7b58e5afa7f8538aa9e7bc26ea121c85171",
+        "operation": "AAC stream copied without transcoding"
+      },
+      "preserved_video_windows": [
+        {
+          "path": "evidence-pack\\continuous-video-windows\\mikey-youtube-live-037-W03-01480-01930.mp4",
+          "original_start_seconds": 1480,
+          "original_end_seconds": 1930.0,
+          "sha256": "cd40ff8444c4c4d8ed27ee45c1eac722ca47151b8057ddadd15cd791ba58bebf"
+        }
+      ],
+      "formal_skill_change": false
+    },
+    {
+      "review_id": "mikey-youtube-live-037-R004",
+      "source_id": "mikey-youtube-live-037",
+      "original_type": "gender_pseudoscience",
+      "original_severity": "blocking",
+      "original_status": "open",
+      "question": "关于女性不在意忠诚、基因和多偶制的说法是否为无证据性别本质论？",
+      "disposition": "open_persistent_external_limit",
+      "proposed_status": "open",
+      "proposed_severity": "blocking",
+      "deletion_dependency": "not_resolvable_from_full_source_video",
+      "finding": "The source recording can establish what was displayed or said, but cannot establish the external truth, legality, medical validity, publication consent, or independent outcome requested by this review. Deleting the full video would not remove the missing external evidence.",
+      "visual_observation": "7/7 survey sheets inspected: single-host camera plus viewer chat; no fixed second visible speaker or third-party video.",
+      "preserved_full_audio": {
+        "path": "evidence-pack\\full-audio\\mikey-youtube-live-037.m4a",
+        "sha256": "3144d773e5e1260fa44cbe52d23ac7b58e5afa7f8538aa9e7bc26ea121c85171",
+        "operation": "AAC stream copied without transcoding"
+      },
+      "preserved_video_windows": [],
+      "formal_skill_change": false
+    },
+    {
+      "review_id": "mikey-youtube-live-037-R005",
+      "source_id": "mikey-youtube-live-037",
+      "original_type": "platform_and_legal_claim",
+      "original_severity": "major",
+      "original_status": "open",
+      "question": "关于平台用户智商和翻墙的说法是否包含事实、法律和群体贬损错误？",
+      "disposition": "open_persistent_external_limit",
+      "proposed_status": "open",
+      "proposed_severity": "major",
+      "deletion_dependency": "not_resolvable_from_full_source_video",
+      "finding": "The source recording can establish what was displayed or said, but cannot establish the external truth, legality, medical validity, publication consent, or independent outcome requested by this review. Deleting the full video would not remove the missing external evidence.",
+      "visual_observation": "7/7 survey sheets inspected: single-host camera plus viewer chat; no fixed second visible speaker or third-party video.",
+      "preserved_full_audio": {
+        "path": "evidence-pack\\full-audio\\mikey-youtube-live-037.m4a",
+        "sha256": "3144d773e5e1260fa44cbe52d23ac7b58e5afa7f8538aa9e7bc26ea121c85171",
+        "operation": "AAC stream copied without transcoding"
+      },
+      "preserved_video_windows": [],
+      "formal_skill_change": false
+    },
+    {
+      "review_id": "mikey-youtube-live-037-R006",
+      "source_id": "mikey-youtube-live-037",
+      "original_type": "body_and_height_pseudoscience",
+      "original_severity": "major",
+      "original_status": "open",
+      "question": "用狩猎进化解释身高、体型偏好的断言是否过度简化？",
+      "disposition": "open_persistent_external_limit",
+      "proposed_status": "open",
+      "proposed_severity": "major",
+      "deletion_dependency": "not_resolvable_from_full_source_video",
+      "finding": "The source recording can establish what was displayed or said, but cannot establish the external truth, legality, medical validity, publication consent, or independent outcome requested by this review. Deleting the full video would not remove the missing external evidence.",
+      "visual_observation": "7/7 survey sheets inspected: single-host camera plus viewer chat; no fixed second visible speaker or third-party video.",
+      "preserved_full_audio": {
+        "path": "evidence-pack\\full-audio\\mikey-youtube-live-037.m4a",
+        "sha256": "3144d773e5e1260fa44cbe52d23ac7b58e5afa7f8538aa9e7bc26ea121c85171",
+        "operation": "AAC stream copied without transcoding"
+      },
+      "preserved_video_windows": [],
+      "formal_skill_change": false
+    },
+    {
+      "review_id": "mikey-youtube-live-037-R007",
+      "source_id": "mikey-youtube-live-037",
+      "original_type": "body_shaming",
+      "original_severity": "major",
+      "original_status": "open",
+      "question": "对女性外貌、体重和群体的羞辱是否与有效方法无关并可能造成伤害？",
+      "disposition": "open_audio_and_context_preserved",
+      "proposed_status": "open",
+      "proposed_severity": "major",
+      "deletion_dependency": "full_audio_preserved_visual_context_surveyed",
+      "finding": "The remaining issue concerns semantics, harmful framing, consent/authorization, or a generalization. Exact full audio preserves the source statement; the unresolved factual or ethical component cannot be cleared by sparse video inspection alone.",
+      "visual_observation": "7/7 survey sheets inspected: single-host camera plus viewer chat; no fixed second visible speaker or third-party video.",
+      "preserved_full_audio": {
+        "path": "evidence-pack\\full-audio\\mikey-youtube-live-037.m4a",
+        "sha256": "3144d773e5e1260fa44cbe52d23ac7b58e5afa7f8538aa9e7bc26ea121c85171",
+        "operation": "AAC stream copied without transcoding"
+      },
+      "preserved_video_windows": [],
+      "formal_skill_change": false
+    },
+    {
+      "review_id": "mikey-youtube-live-037-R008",
+      "source_id": "mikey-youtube-live-037",
+      "original_type": "mental_health_and_support",
+      "original_severity": "major",
+      "original_status": "open",
+      "question": "把频繁倾诉直接等同懦弱、索取认可是否忽略真实心理支持需求？",
+      "disposition": "open_audio_and_context_preserved",
+      "proposed_status": "open",
+      "proposed_severity": "major",
+      "deletion_dependency": "full_audio_preserved_visual_context_surveyed",
+      "finding": "The remaining issue concerns semantics, harmful framing, consent/authorization, or a generalization. Exact full audio preserves the source statement; the unresolved factual or ethical component cannot be cleared by sparse video inspection alone.",
+      "visual_observation": "7/7 survey sheets inspected: single-host camera plus viewer chat; no fixed second visible speaker or third-party video.",
+      "preserved_full_audio": {
+        "path": "evidence-pack\\full-audio\\mikey-youtube-live-037.m4a",
+        "sha256": "3144d773e5e1260fa44cbe52d23ac7b58e5afa7f8538aa9e7bc26ea121c85171",
+        "operation": "AAC stream copied without transcoding"
+      },
+      "preserved_video_windows": [],
+      "formal_skill_change": false
+    },
+    {
+      "review_id": "mikey-youtube-live-038-R001",
+      "source_id": "mikey-youtube-live-038",
+      "original_type": "played_media_attribution",
+      "original_severity": "blocking",
+      "original_status": "open",
+      "question": "开场外部视频中每句话分别由谁说，主持人评论从何处开始？",
+      "disposition": "open_source_evidence_preserved",
+      "proposed_status": "open",
+      "proposed_severity": "blocking",
+      "deletion_dependency": "preserved_in_evidence_pack",
+      "finding": "The review still requires finer speaker, consent, privacy, or continuous-context work. Exact full audio and targeted continuous video windows have been preserved with source times and hashes; no finding is promoted to a Mikey recommendation.",
+      "visual_observation": "14/14 survey sheets plus five full-resolution keyframes inspected: dense third-party videos, posts, chats, private messages and profiles are confirmed; display does not authenticate them.",
+      "preserved_full_audio": {
+        "path": "evidence-pack\\full-audio\\mikey-youtube-live-038.m4a",
+        "sha256": "6686fb64deced79f4ff22b5a8bf2377d98ca05b60e7ac34e176be683a32ad127",
+        "operation": "AAC stream copied without transcoding"
+      },
+      "preserved_video_windows": [
+        {
+          "path": "evidence-pack\\continuous-video-windows\\mikey-youtube-live-038-W01-00000-00450.mp4",
+          "original_start_seconds": 0,
+          "original_end_seconds": 450.0,
+          "sha256": "da950d371c5c7b61e6615bfbb5e5a347c642b1e14584dcff1f593d772f6027da"
+        }
+      ],
+      "formal_skill_change": false
+    },
+    {
+      "review_id": "mikey-youtube-live-038-R002",
+      "source_id": "mikey-youtube-live-038",
+      "original_type": "third_party_evidence_authenticity",
+      "original_severity": "blocking",
+      "original_status": "open",
+      "question": "群聊、朋友圈、招聘页和爆料截图是否真实、完整、未编辑且账号归属可靠？",
+      "disposition": "open_persistent_external_limit",
+      "proposed_status": "open",
+      "proposed_severity": "blocking",
+      "deletion_dependency": "not_resolvable_from_full_source_video",
+      "finding": "The source recording can establish what was displayed or said, but cannot establish the external truth, legality, medical validity, publication consent, or independent outcome requested by this review. Deleting the full video would not remove the missing external evidence.",
+      "visual_observation": "14/14 survey sheets plus five full-resolution keyframes inspected: dense third-party videos, posts, chats, private messages and profiles are confirmed; display does not authenticate them.",
+      "preserved_full_audio": {
+        "path": "evidence-pack\\full-audio\\mikey-youtube-live-038.m4a",
+        "sha256": "6686fb64deced79f4ff22b5a8bf2377d98ca05b60e7ac34e176be683a32ad127",
+        "operation": "AAC stream copied without transcoding"
+      },
+      "preserved_video_windows": [
+        {
+          "path": "evidence-pack\\continuous-video-windows\\mikey-youtube-live-038-W02-00760-02320.mp4",
+          "original_start_seconds": 760,
+          "original_end_seconds": 2320.0,
+          "sha256": "cf854dbaad7bb99f8985e0d158050bdf34a3d340a8287c5c93e499996eb8bae8"
+        }
+      ],
+      "formal_skill_change": false
+    },
+    {
+      "review_id": "mikey-youtube-live-038-R003",
+      "source_id": "mikey-youtube-live-038",
+      "original_type": "legal_claim",
+      "original_severity": "blocking",
+      "original_status": "open",
+      "question": "把摆拍直接定性为诈骗、把真实偷拍视频简化为肖像权问题是否法律错误？",
+      "disposition": "open_persistent_external_limit",
+      "proposed_status": "open",
+      "proposed_severity": "blocking",
+      "deletion_dependency": "not_resolvable_from_full_source_video",
+      "finding": "The source recording can establish what was displayed or said, but cannot establish the external truth, legality, medical validity, publication consent, or independent outcome requested by this review. Deleting the full video would not remove the missing external evidence.",
+      "visual_observation": "14/14 survey sheets plus five full-resolution keyframes inspected: dense third-party videos, posts, chats, private messages and profiles are confirmed; display does not authenticate them.",
+      "preserved_full_audio": {
+        "path": "evidence-pack\\full-audio\\mikey-youtube-live-038.m4a",
+        "sha256": "6686fb64deced79f4ff22b5a8bf2377d98ca05b60e7ac34e176be683a32ad127",
+        "operation": "AAC stream copied without transcoding"
+      },
+      "preserved_video_windows": [
+        {
+          "path": "evidence-pack\\continuous-video-windows\\mikey-youtube-live-038-W02-00760-02320.mp4",
+          "original_start_seconds": 760,
+          "original_end_seconds": 2320.0,
+          "sha256": "cf854dbaad7bb99f8985e0d158050bdf34a3d340a8287c5c93e499996eb8bae8"
+        }
+      ],
+      "formal_skill_change": false
+    },
+    {
+      "review_id": "mikey-youtube-live-038-R004",
+      "source_id": "mikey-youtube-live-038",
+      "original_type": "played_media_attribution",
+      "original_severity": "blocking",
+      "original_status": "open",
+      "question": "投屏浏览第三方频道期间，哪些台词来自外部视频、哪些是Mikey现场评论？",
+      "disposition": "open_source_evidence_preserved",
+      "proposed_status": "open",
+      "proposed_severity": "blocking",
+      "deletion_dependency": "preserved_in_evidence_pack",
+      "finding": "The review still requires finer speaker, consent, privacy, or continuous-context work. Exact full audio and targeted continuous video windows have been preserved with source times and hashes; no finding is promoted to a Mikey recommendation.",
+      "visual_observation": "14/14 survey sheets plus five full-resolution keyframes inspected: dense third-party videos, posts, chats, private messages and profiles are confirmed; display does not authenticate them.",
+      "preserved_full_audio": {
+        "path": "evidence-pack\\full-audio\\mikey-youtube-live-038.m4a",
+        "sha256": "6686fb64deced79f4ff22b5a8bf2377d98ca05b60e7ac34e176be683a32ad127",
+        "operation": "AAC stream copied without transcoding"
+      },
+      "preserved_video_windows": [
+        {
+          "path": "evidence-pack\\continuous-video-windows\\mikey-youtube-live-038-W03-02860-04640.mp4",
+          "original_start_seconds": 2860,
+          "original_end_seconds": 4640.0,
+          "sha256": "554ebcee51935f8d0348c31d2553522239d882a1366ad467822726ace0eae876"
+        }
+      ],
+      "formal_skill_change": false
+    },
+    {
+      "review_id": "mikey-youtube-live-038-R005",
+      "source_id": "mikey-youtube-live-038",
+      "original_type": "sexual_content_and_consent",
+      "original_severity": "blocking",
+      "original_status": "open",
+      "question": "外部案例中的性行为、亲吻、带回家和身体接触是否真实且有清楚持续同意？",
+      "disposition": "open_source_evidence_preserved",
+      "proposed_status": "open",
+      "proposed_severity": "blocking",
+      "deletion_dependency": "preserved_in_evidence_pack",
+      "finding": "The review still requires finer speaker, consent, privacy, or continuous-context work. Exact full audio and targeted continuous video windows have been preserved with source times and hashes; no finding is promoted to a Mikey recommendation.",
+      "visual_observation": "14/14 survey sheets plus five full-resolution keyframes inspected: dense third-party videos, posts, chats, private messages and profiles are confirmed; display does not authenticate them.",
+      "preserved_full_audio": {
+        "path": "evidence-pack\\full-audio\\mikey-youtube-live-038.m4a",
+        "sha256": "6686fb64deced79f4ff22b5a8bf2377d98ca05b60e7ac34e176be683a32ad127",
+        "operation": "AAC stream copied without transcoding"
+      },
+      "preserved_video_windows": [
+        {
+          "path": "evidence-pack\\continuous-video-windows\\mikey-youtube-live-038-W03-02860-04640.mp4",
+          "original_start_seconds": 2860,
+          "original_end_seconds": 4640.0,
+          "sha256": "554ebcee51935f8d0348c31d2553522239d882a1366ad467822726ace0eae876"
+        }
+      ],
+      "formal_skill_change": false
+    },
+    {
+      "review_id": "mikey-youtube-live-038-R006",
+      "source_id": "mikey-youtube-live-038",
+      "original_type": "defamation_and_identity",
+      "original_severity": "blocking",
+      "original_status": "open",
+      "question": "对可识别同行、团队及个人的造假/诈骗指控能否独立核实，是否存在误认或剪辑？",
+      "disposition": "open_persistent_external_limit",
+      "proposed_status": "open",
+      "proposed_severity": "blocking",
+      "deletion_dependency": "not_resolvable_from_full_source_video",
+      "finding": "The source recording can establish what was displayed or said, but cannot establish the external truth, legality, medical validity, publication consent, or independent outcome requested by this review. Deleting the full video would not remove the missing external evidence.",
+      "visual_observation": "14/14 survey sheets plus five full-resolution keyframes inspected: dense third-party videos, posts, chats, private messages and profiles are confirmed; display does not authenticate them.",
+      "preserved_full_audio": {
+        "path": "evidence-pack\\full-audio\\mikey-youtube-live-038.m4a",
+        "sha256": "6686fb64deced79f4ff22b5a8bf2377d98ca05b60e7ac34e176be683a32ad127",
+        "operation": "AAC stream copied without transcoding"
+      },
+      "preserved_video_windows": [
+        {
+          "path": "evidence-pack\\continuous-video-windows\\mikey-youtube-live-038-W01-00000-00450.mp4",
+          "original_start_seconds": 0,
+          "original_end_seconds": 450.0,
+          "sha256": "da950d371c5c7b61e6615bfbb5e5a347c642b1e14584dcff1f593d772f6027da"
+        },
+        {
+          "path": "evidence-pack\\continuous-video-windows\\mikey-youtube-live-038-W02-00760-02320.mp4",
+          "original_start_seconds": 760,
+          "original_end_seconds": 2320.0,
+          "sha256": "cf854dbaad7bb99f8985e0d158050bdf34a3d340a8287c5c93e499996eb8bae8"
+        },
+        {
+          "path": "evidence-pack\\continuous-video-windows\\mikey-youtube-live-038-W03-02860-04640.mp4",
+          "original_start_seconds": 2860,
+          "original_end_seconds": 4640.0,
+          "sha256": "554ebcee51935f8d0348c31d2553522239d882a1366ad467822726ace0eae876"
+        }
+      ],
+      "formal_skill_change": false
+    },
+    {
+      "review_id": "mikey-youtube-live-038-R007",
+      "source_id": "mikey-youtube-live-038",
+      "original_type": "privacy_and_doxxing",
+      "original_severity": "blocking",
+      "original_status": "open",
+      "question": "朗读私信、查看照片和主页是否取得第三方同意，是否暴露账号或可识别信息？",
+      "disposition": "open_source_evidence_preserved",
+      "proposed_status": "open",
+      "proposed_severity": "blocking",
+      "deletion_dependency": "preserved_in_evidence_pack",
+      "finding": "The review still requires finer speaker, consent, privacy, or continuous-context work. Exact full audio and targeted continuous video windows have been preserved with source times and hashes; no finding is promoted to a Mikey recommendation.",
+      "visual_observation": "14/14 survey sheets plus five full-resolution keyframes inspected: dense third-party videos, posts, chats, private messages and profiles are confirmed; display does not authenticate them.",
+      "preserved_full_audio": {
+        "path": "evidence-pack\\full-audio\\mikey-youtube-live-038.m4a",
+        "sha256": "6686fb64deced79f4ff22b5a8bf2377d98ca05b60e7ac34e176be683a32ad127",
+        "operation": "AAC stream copied without transcoding"
+      },
+      "preserved_video_windows": [
+        {
+          "path": "evidence-pack\\continuous-video-windows\\mikey-youtube-live-038-W04-05380-06332.mp4",
+          "original_start_seconds": 5380,
+          "original_end_seconds": 6332.0,
+          "sha256": "ede3d4c35a065e3df6e7389874893c1c0a0d970741ca7733b83f820e7f935505"
+        }
+      ],
+      "formal_skill_change": false
+    },
+    {
+      "review_id": "mikey-youtube-live-038-R008",
+      "source_id": "mikey-youtube-live-038",
+      "original_type": "body_sex_work_and_gender_shaming",
+      "original_severity": "major",
+      "original_status": "open",
+      "question": "依据照片给第三方贴性工作、女权或外貌标签是否毫无证据且造成伤害？",
+      "disposition": "open_source_evidence_preserved",
+      "proposed_status": "open",
+      "proposed_severity": "major",
+      "deletion_dependency": "preserved_in_evidence_pack",
+      "finding": "The review still requires finer speaker, consent, privacy, or continuous-context work. Exact full audio and targeted continuous video windows have been preserved with source times and hashes; no finding is promoted to a Mikey recommendation.",
+      "visual_observation": "14/14 survey sheets plus five full-resolution keyframes inspected: dense third-party videos, posts, chats, private messages and profiles are confirmed; display does not authenticate them.",
+      "preserved_full_audio": {
+        "path": "evidence-pack\\full-audio\\mikey-youtube-live-038.m4a",
+        "sha256": "6686fb64deced79f4ff22b5a8bf2377d98ca05b60e7ac34e176be683a32ad127",
+        "operation": "AAC stream copied without transcoding"
+      },
+      "preserved_video_windows": [
+        {
+          "path": "evidence-pack\\continuous-video-windows\\mikey-youtube-live-038-W04-05380-06332.mp4",
+          "original_start_seconds": 5380,
+          "original_end_seconds": 6332.0,
+          "sha256": "ede3d4c35a065e3df6e7389874893c1c0a0d970741ca7733b83f820e7f935505"
+        }
+      ],
+      "formal_skill_change": false
+    },
+    {
+      "review_id": "mikey-youtube-live-038-R009",
+      "source_id": "mikey-youtube-live-038",
+      "original_type": "profile_visual_advice",
+      "original_severity": "major",
+      "original_status": "open",
+      "question": "展示面点评所指具体照片、正脸可见度和构图是否与口述一致？",
+      "disposition": "open_source_evidence_preserved",
+      "proposed_status": "open",
+      "proposed_severity": "major",
+      "deletion_dependency": "preserved_in_evidence_pack",
+      "finding": "The review still requires finer speaker, consent, privacy, or continuous-context work. Exact full audio and targeted continuous video windows have been preserved with source times and hashes; no finding is promoted to a Mikey recommendation.",
+      "visual_observation": "14/14 survey sheets plus five full-resolution keyframes inspected: dense third-party videos, posts, chats, private messages and profiles are confirmed; display does not authenticate them.",
+      "preserved_full_audio": {
+        "path": "evidence-pack\\full-audio\\mikey-youtube-live-038.m4a",
+        "sha256": "6686fb64deced79f4ff22b5a8bf2377d98ca05b60e7ac34e176be683a32ad127",
+        "operation": "AAC stream copied without transcoding"
+      },
+      "preserved_video_windows": [
+        {
+          "path": "evidence-pack\\continuous-video-windows\\mikey-youtube-live-038-W04-05380-06332.mp4",
+          "original_start_seconds": 5380,
+          "original_end_seconds": 6332.0,
+          "sha256": "ede3d4c35a065e3df6e7389874893c1c0a0d970741ca7733b83f820e7f935505"
+        }
+      ],
+      "formal_skill_change": false
+    },
+    {
+      "review_id": "mikey-youtube-live-038-R010",
+      "source_id": "mikey-youtube-live-038",
+      "original_type": "dense_visual_and_privacy_boundary",
+      "original_severity": "blocking",
+      "original_status": "open",
+      "question": "14张联系表已完成全片稀疏普查；密集截图、外部视频、私信和个人主页仍是否需要逐项原尺寸核对、脱敏及句级人物分离？",
+      "disposition": "open_source_evidence_preserved",
+      "proposed_status": "open",
+      "proposed_severity": "blocking",
+      "deletion_dependency": "preserved_in_evidence_pack",
+      "finding": "The review still requires finer speaker, consent, privacy, or continuous-context work. Exact full audio and targeted continuous video windows have been preserved with source times and hashes; no finding is promoted to a Mikey recommendation.",
+      "visual_observation": "14/14 survey sheets plus five full-resolution keyframes inspected: dense third-party videos, posts, chats, private messages and profiles are confirmed; display does not authenticate them.",
+      "preserved_full_audio": {
+        "path": "evidence-pack\\full-audio\\mikey-youtube-live-038.m4a",
+        "sha256": "6686fb64deced79f4ff22b5a8bf2377d98ca05b60e7ac34e176be683a32ad127",
+        "operation": "AAC stream copied without transcoding"
+      },
+      "preserved_video_windows": [
+        {
+          "path": "evidence-pack\\continuous-video-windows\\mikey-youtube-live-038-W01-00000-00450.mp4",
+          "original_start_seconds": 0,
+          "original_end_seconds": 450.0,
+          "sha256": "da950d371c5c7b61e6615bfbb5e5a347c642b1e14584dcff1f593d772f6027da"
+        },
+        {
+          "path": "evidence-pack\\continuous-video-windows\\mikey-youtube-live-038-W02-00760-02320.mp4",
+          "original_start_seconds": 760,
+          "original_end_seconds": 2320.0,
+          "sha256": "cf854dbaad7bb99f8985e0d158050bdf34a3d340a8287c5c93e499996eb8bae8"
+        },
+        {
+          "path": "evidence-pack\\continuous-video-windows\\mikey-youtube-live-038-W03-02860-04640.mp4",
+          "original_start_seconds": 2860,
+          "original_end_seconds": 4640.0,
+          "sha256": "554ebcee51935f8d0348c31d2553522239d882a1366ad467822726ace0eae876"
+        },
+        {
+          "path": "evidence-pack\\continuous-video-windows\\mikey-youtube-live-038-W04-05380-06332.mp4",
+          "original_start_seconds": 5380,
+          "original_end_seconds": 6332.0,
+          "sha256": "ede3d4c35a065e3df6e7389874893c1c0a0d970741ca7733b83f820e7f935505"
+        }
+      ],
+      "formal_skill_change": false
+    },
+    {
+      "review_id": "mikey-youtube-live-039-R001",
+      "source_id": "mikey-youtube-live-039",
+      "original_type": "privacy_and_relationship_claim",
+      "original_severity": "blocking",
+      "original_status": "open",
+      "question": "展示或描述上一周认识对象的消息、亲密关系和反应是否取得同意且叙述准确？",
+      "disposition": "open_source_evidence_preserved",
+      "proposed_status": "open",
+      "proposed_severity": "blocking",
+      "deletion_dependency": "preserved_in_evidence_pack",
+      "finding": "The review still requires finer speaker, consent, privacy, or continuous-context work. Exact full audio and targeted continuous video windows have been preserved with source times and hashes; no finding is promoted to a Mikey recommendation.",
+      "visual_observation": "7/7 survey sheets plus four keyframes inspected: fixed host camera; phone at about 00:06:45 is unreadable; a second male is visible about 00:41:30-00:52:45; identity and speech remain unmapped.",
+      "preserved_full_audio": {
+        "path": "evidence-pack\\full-audio\\mikey-youtube-live-039.m4a",
+        "sha256": "490486f731be8dbd7675210dea4a5bb57134e1189d3495286b6cf8802680393c",
+        "operation": "AAC stream copied without transcoding"
+      },
+      "preserved_video_windows": [
+        {
+          "path": "evidence-pack\\continuous-video-windows\\mikey-youtube-live-039-W01-00330-00490.mp4",
+          "original_start_seconds": 330,
+          "original_end_seconds": 490.0,
+          "sha256": "93ce1e1d203db7c43ce4b250a75bc78b7463b3eb83ab486e1bdff50c24bcf23c"
+        }
+      ],
+      "formal_skill_change": false
+    },
+    {
+      "review_id": "mikey-youtube-live-039-R002",
+      "source_id": "mikey-youtube-live-039",
+      "original_type": "approach_safety_and_attribution",
+      "original_severity": "major",
+      "original_status": "open",
+      "question": "秒删是否真因恐惧，搭讪过程是否存在压迫或持续纠缠？",
+      "disposition": "open_audio_and_context_preserved",
+      "proposed_status": "open",
+      "proposed_severity": "major",
+      "deletion_dependency": "full_audio_preserved_visual_context_surveyed",
+      "finding": "The remaining issue concerns semantics, harmful framing, consent/authorization, or a generalization. Exact full audio preserves the source statement; the unresolved factual or ethical component cannot be cleared by sparse video inspection alone.",
+      "visual_observation": "7/7 survey sheets plus four keyframes inspected: fixed host camera; phone at about 00:06:45 is unreadable; a second male is visible about 00:41:30-00:52:45; identity and speech remain unmapped.",
+      "preserved_full_audio": {
+        "path": "evidence-pack\\full-audio\\mikey-youtube-live-039.m4a",
+        "sha256": "490486f731be8dbd7675210dea4a5bb57134e1189d3495286b6cf8802680393c",
+        "operation": "AAC stream copied without transcoding"
+      },
+      "preserved_video_windows": [],
+      "formal_skill_change": false
+    },
+    {
+      "review_id": "mikey-youtube-live-039-R003",
+      "source_id": "mikey-youtube-live-039",
+      "original_type": "public_figure_dispute",
+      "original_severity": "blocking",
+      "original_status": "open",
+      "question": "公开人物的关系、金额、彩礼和行为指控是否真实、时点一致且有可靠来源？",
+      "disposition": "open_persistent_external_limit",
+      "proposed_status": "open",
+      "proposed_severity": "blocking",
+      "deletion_dependency": "not_resolvable_from_full_source_video",
+      "finding": "The source recording can establish what was displayed or said, but cannot establish the external truth, legality, medical validity, publication consent, or independent outcome requested by this review. Deleting the full video would not remove the missing external evidence.",
+      "visual_observation": "7/7 survey sheets plus four keyframes inspected: fixed host camera; phone at about 00:06:45 is unreadable; a second male is visible about 00:41:30-00:52:45; identity and speech remain unmapped.",
+      "preserved_full_audio": {
+        "path": "evidence-pack\\full-audio\\mikey-youtube-live-039.m4a",
+        "sha256": "490486f731be8dbd7675210dea4a5bb57134e1189d3495286b6cf8802680393c",
+        "operation": "AAC stream copied without transcoding"
+      },
+      "preserved_video_windows": [],
+      "formal_skill_change": false
+    },
+    {
+      "review_id": "mikey-youtube-live-039-R004",
+      "source_id": "mikey-youtube-live-039",
+      "original_type": "gender_generalization",
+      "original_severity": "blocking",
+      "original_status": "open",
+      "question": "用个别名人关系推广‘女性喜欢不尊重她的男人’是否为无证据概括？",
+      "disposition": "open_audio_and_context_preserved",
+      "proposed_status": "open",
+      "proposed_severity": "blocking",
+      "deletion_dependency": "full_audio_preserved_visual_context_surveyed",
+      "finding": "The remaining issue concerns semantics, harmful framing, consent/authorization, or a generalization. Exact full audio preserves the source statement; the unresolved factual or ethical component cannot be cleared by sparse video inspection alone.",
+      "visual_observation": "7/7 survey sheets plus four keyframes inspected: fixed host camera; phone at about 00:06:45 is unreadable; a second male is visible about 00:41:30-00:52:45; identity and speech remain unmapped.",
+      "preserved_full_audio": {
+        "path": "evidence-pack\\full-audio\\mikey-youtube-live-039.m4a",
+        "sha256": "490486f731be8dbd7675210dea4a5bb57134e1189d3495286b6cf8802680393c",
+        "operation": "AAC stream copied without transcoding"
+      },
+      "preserved_video_windows": [],
+      "formal_skill_change": false
+    },
+    {
+      "review_id": "mikey-youtube-live-039-R005",
+      "source_id": "mikey-youtube-live-039",
+      "original_type": "third_party_privacy_and_body_shaming",
+      "original_severity": "blocking",
+      "original_status": "open",
+      "question": "跑车聚会的参与者是否可识别，外貌、口音、关系和性行为叙述是否侵犯隐私或造成羞辱？",
+      "disposition": "open_source_evidence_preserved",
+      "proposed_status": "open",
+      "proposed_severity": "blocking",
+      "deletion_dependency": "preserved_in_evidence_pack",
+      "finding": "The review still requires finer speaker, consent, privacy, or continuous-context work. Exact full audio and targeted continuous video windows have been preserved with source times and hashes; no finding is promoted to a Mikey recommendation.",
+      "visual_observation": "7/7 survey sheets plus four keyframes inspected: fixed host camera; phone at about 00:06:45 is unreadable; a second male is visible about 00:41:30-00:52:45; identity and speech remain unmapped.",
+      "preserved_full_audio": {
+        "path": "evidence-pack\\full-audio\\mikey-youtube-live-039.m4a",
+        "sha256": "490486f731be8dbd7675210dea4a5bb57134e1189d3495286b6cf8802680393c",
+        "operation": "AAC stream copied without transcoding"
+      },
+      "preserved_video_windows": [
+        {
+          "path": "evidence-pack\\continuous-video-windows\\mikey-youtube-live-039-W02-02380-03080.mp4",
+          "original_start_seconds": 2380,
+          "original_end_seconds": 3080.0,
+          "sha256": "ddafbac4e9e1672a54e70fe969426432b6fdcebb797c3125ce764b235b005b41"
+        }
+      ],
+      "formal_skill_change": false
+    },
+    {
+      "review_id": "mikey-youtube-live-039-R006",
+      "source_id": "mikey-youtube-live-039",
+      "original_type": "alcohol_and_consent",
+      "original_severity": "blocking",
+      "original_status": "open",
+      "question": "‘多灌酒、磨、灌晕带回家’是否被正常化，项目是否已明确拒绝执行？",
+      "disposition": "open_source_evidence_preserved",
+      "proposed_status": "open",
+      "proposed_severity": "blocking",
+      "deletion_dependency": "preserved_in_evidence_pack",
+      "finding": "The review still requires finer speaker, consent, privacy, or continuous-context work. Exact full audio and targeted continuous video windows have been preserved with source times and hashes; no finding is promoted to a Mikey recommendation.",
+      "visual_observation": "7/7 survey sheets plus four keyframes inspected: fixed host camera; phone at about 00:06:45 is unreadable; a second male is visible about 00:41:30-00:52:45; identity and speech remain unmapped.",
+      "preserved_full_audio": {
+        "path": "evidence-pack\\full-audio\\mikey-youtube-live-039.m4a",
+        "sha256": "490486f731be8dbd7675210dea4a5bb57134e1189d3495286b6cf8802680393c",
+        "operation": "AAC stream copied without transcoding"
+      },
+      "preserved_video_windows": [
+        {
+          "path": "evidence-pack\\continuous-video-windows\\mikey-youtube-live-039-W02-02380-03080.mp4",
+          "original_start_seconds": 2380,
+          "original_end_seconds": 3080.0,
+          "sha256": "ddafbac4e9e1672a54e70fe969426432b6fdcebb797c3125ce764b235b005b41"
+        }
+      ],
+      "formal_skill_change": false
+    },
+    {
+      "review_id": "mikey-youtube-live-039-R007",
+      "source_id": "mikey-youtube-live-039",
+      "original_type": "extremism_and_gender_hostility",
+      "original_severity": "blocking",
+      "original_status": "open",
+      "question": "‘男性觉醒必须极端’是否鼓励性别敌意、去人化或报复？",
+      "disposition": "open_audio_and_context_preserved",
+      "proposed_status": "open",
+      "proposed_severity": "blocking",
+      "deletion_dependency": "full_audio_preserved_visual_context_surveyed",
+      "finding": "The remaining issue concerns semantics, harmful framing, consent/authorization, or a generalization. Exact full audio preserves the source statement; the unresolved factual or ethical component cannot be cleared by sparse video inspection alone.",
+      "visual_observation": "7/7 survey sheets plus four keyframes inspected: fixed host camera; phone at about 00:06:45 is unreadable; a second male is visible about 00:41:30-00:52:45; identity and speech remain unmapped.",
+      "preserved_full_audio": {
+        "path": "evidence-pack\\full-audio\\mikey-youtube-live-039.m4a",
+        "sha256": "490486f731be8dbd7675210dea4a5bb57134e1189d3495286b6cf8802680393c",
+        "operation": "AAC stream copied without transcoding"
+      },
+      "preserved_video_windows": [],
+      "formal_skill_change": false
+    },
+    {
+      "review_id": "mikey-youtube-live-039-R008",
+      "source_id": "mikey-youtube-live-039",
+      "original_type": "dehumanization",
+      "original_severity": "blocking",
+      "original_status": "open",
+      "question": "把女性与宠物类比、把尊重缩减为不虐待是否去人化？",
+      "disposition": "open_audio_and_context_preserved",
+      "proposed_status": "open",
+      "proposed_severity": "blocking",
+      "deletion_dependency": "full_audio_preserved_visual_context_surveyed",
+      "finding": "The remaining issue concerns semantics, harmful framing, consent/authorization, or a generalization. Exact full audio preserves the source statement; the unresolved factual or ethical component cannot be cleared by sparse video inspection alone.",
+      "visual_observation": "7/7 survey sheets plus four keyframes inspected: fixed host camera; phone at about 00:06:45 is unreadable; a second male is visible about 00:41:30-00:52:45; identity and speech remain unmapped.",
+      "preserved_full_audio": {
+        "path": "evidence-pack\\full-audio\\mikey-youtube-live-039.m4a",
+        "sha256": "490486f731be8dbd7675210dea4a5bb57134e1189d3495286b6cf8802680393c",
+        "operation": "AAC stream copied without transcoding"
+      },
+      "preserved_video_windows": [],
+      "formal_skill_change": false
+    },
+    {
+      "review_id": "mikey-youtube-live-039-R009",
+      "source_id": "mikey-youtube-live-039",
+      "original_type": "course_marketing_claim",
+      "original_severity": "major",
+      "original_status": "open",
+      "question": "私教学员逐月巨大改变、短期出师和课程效果是否有统一指标与独立数据？",
+      "disposition": "open_persistent_external_limit",
+      "proposed_status": "open",
+      "proposed_severity": "major",
+      "deletion_dependency": "not_resolvable_from_full_source_video",
+      "finding": "The source recording can establish what was displayed or said, but cannot establish the external truth, legality, medical validity, publication consent, or independent outcome requested by this review. Deleting the full video would not remove the missing external evidence.",
+      "visual_observation": "7/7 survey sheets plus four keyframes inspected: fixed host camera; phone at about 00:06:45 is unreadable; a second male is visible about 00:41:30-00:52:45; identity and speech remain unmapped.",
+      "preserved_full_audio": {
+        "path": "evidence-pack\\full-audio\\mikey-youtube-live-039.m4a",
+        "sha256": "490486f731be8dbd7675210dea4a5bb57134e1189d3495286b6cf8802680393c",
+        "operation": "AAC stream copied without transcoding"
+      },
+      "preserved_video_windows": [],
+      "formal_skill_change": false
+    },
+    {
+      "review_id": "mikey-youtube-live-039-R010",
+      "source_id": "mikey-youtube-live-039",
+      "original_type": "external_voice_and_live_arrival",
+      "original_severity": "major",
+      "original_status": "open",
+      "question": "尾段外卖/来客和计划电话中是否混入外部声音或可识别信息？",
+      "disposition": "open_source_evidence_preserved",
+      "proposed_status": "open",
+      "proposed_severity": "major",
+      "deletion_dependency": "preserved_in_evidence_pack",
+      "finding": "The review still requires finer speaker, consent, privacy, or continuous-context work. Exact full audio and targeted continuous video windows have been preserved with source times and hashes; no finding is promoted to a Mikey recommendation.",
+      "visual_observation": "7/7 survey sheets plus four keyframes inspected: fixed host camera; phone at about 00:06:45 is unreadable; a second male is visible about 00:41:30-00:52:45; identity and speech remain unmapped.",
+      "preserved_full_audio": {
+        "path": "evidence-pack\\full-audio\\mikey-youtube-live-039.m4a",
+        "sha256": "490486f731be8dbd7675210dea4a5bb57134e1189d3495286b6cf8802680393c",
+        "operation": "AAC stream copied without transcoding"
+      },
+      "preserved_video_windows": [
+        {
+          "path": "evidence-pack\\continuous-video-windows\\mikey-youtube-live-039-W04-04480-04584.mp4",
+          "original_start_seconds": 4480,
+          "original_end_seconds": 4584.0,
+          "sha256": "15f6fb803fef65b016d81b69a86d28213df2f215c968131a5675d29c57df9f16"
+        }
+      ],
+      "formal_skill_change": false
+    },
+    {
+      "review_id": "mikey-youtube-live-039-R011",
+      "source_id": "mikey-youtube-live-039",
+      "original_type": "sparse_visual_followup",
+      "original_severity": "major",
+      "original_status": "open",
+      "question": "7张联系表确认全片无屏幕共享；约00:06:45手机屏幕不可读、约00:41:30至00:52:45第二名男性出镜，其身份、发言和隐私边界仍待连续音画确认。",
+      "disposition": "open_source_evidence_preserved",
+      "proposed_status": "open",
+      "proposed_severity": "major",
+      "deletion_dependency": "preserved_in_evidence_pack",
+      "finding": "The review still requires finer speaker, consent, privacy, or continuous-context work. Exact full audio and targeted continuous video windows have been preserved with source times and hashes; no finding is promoted to a Mikey recommendation.",
+      "visual_observation": "7/7 survey sheets plus four keyframes inspected: fixed host camera; phone at about 00:06:45 is unreadable; a second male is visible about 00:41:30-00:52:45; identity and speech remain unmapped.",
+      "preserved_full_audio": {
+        "path": "evidence-pack\\full-audio\\mikey-youtube-live-039.m4a",
+        "sha256": "490486f731be8dbd7675210dea4a5bb57134e1189d3495286b6cf8802680393c",
+        "operation": "AAC stream copied without transcoding"
+      },
+      "preserved_video_windows": [
+        {
+          "path": "evidence-pack\\continuous-video-windows\\mikey-youtube-live-039-W01-00330-00490.mp4",
+          "original_start_seconds": 330,
+          "original_end_seconds": 490.0,
+          "sha256": "93ce1e1d203db7c43ce4b250a75bc78b7463b3eb83ab486e1bdff50c24bcf23c"
+        },
+        {
+          "path": "evidence-pack\\continuous-video-windows\\mikey-youtube-live-039-W02-02380-03080.mp4",
+          "original_start_seconds": 2380,
+          "original_end_seconds": 3080.0,
+          "sha256": "ddafbac4e9e1672a54e70fe969426432b6fdcebb797c3125ce764b235b005b41"
+        },
+        {
+          "path": "evidence-pack\\continuous-video-windows\\mikey-youtube-live-039-W03-03060-03200.mp4",
+          "original_start_seconds": 3060,
+          "original_end_seconds": 3200.0,
+          "sha256": "0658b94c3d36b6805ec09c82312839d894540c77a7d60714879f3e06151d0169"
+        },
+        {
+          "path": "evidence-pack\\continuous-video-windows\\mikey-youtube-live-039-W04-04480-04584.mp4",
+          "original_start_seconds": 4480,
+          "original_end_seconds": 4584.0,
+          "sha256": "15f6fb803fef65b016d81b69a86d28213df2f215c968131a5675d29c57df9f16"
+        }
+      ],
+      "formal_skill_change": false
+    }
+  ]
+}

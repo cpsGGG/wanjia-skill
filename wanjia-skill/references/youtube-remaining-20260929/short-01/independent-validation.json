@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "batch_key": "short-01",
+  "validated_at": "2026-09-29T20:20:00+08:00",
+  "validator_role": "local_independent_review_after_subagent_distillation_and_blocker_repairs",
+  "pass": true,
+  "scope": {
+    "items": 10,
+    "media_audit_items": 10,
+    "transcript_segments": 306,
+    "sampled_frames": 179,
+    "dense_frames_reviewed": 132,
+    "timeline_entries": 39,
+    "claims": 20,
+    "claim_sid_references_checked": 46,
+    "review_items": 33
+  },
+  "checks": {
+    "pipeline_validation_report_present_and_pass": true,
+    "media_files_rehashed_against_audit": "10/10",
+    "media_hash_bound_transcripts": "10/10",
+    "media_hash_bound_visual_manifests": "10/10",
+    "visual_manifest_files_and_hashes_valid": "179/179",
+    "timeline_nonempty_and_within_media": "10/10",
+    "claim_segment_ids_exist": "46/46",
+    "claim_segment_ids_within_media": "46/46",
+    "review_ledgers_completed": "10/10",
+    "first_person_permission_closed": "10/10",
+    "action_advice_permission_closed": "10/10",
+    "formal_integration_approved": "0/10",
+    "reuse_formal_targets_exist": "3/3 unique formal targets",
+    "reuse_formal_target_transcript_hashes_match_source_index": "3/3",
+    "researched_video_024_target_exists": true
+  },
+  "transcript_and_visual_counts": {
+    "mikey-youtube-short-001": {"segments": 2, "asr_time_range_seconds": [0.0, 4.08], "media_duration_seconds": 16.114649, "sampled_frames": 5, "dense_frames": 16, "timeline_entries": 2, "claims": 1, "claim_sid_references": 2, "review_items": 3},
+    "mikey-youtube-short-002": {"segments": 31, "asr_time_range_seconds": [0.0, 47.72], "media_duration_seconds": 53.499667, "sampled_frames": 18, "dense_frames": 53, "timeline_entries": 5, "claims": 2, "claim_sid_references": 6, "review_items": 4},
+    "mikey-youtube-short-003": {"segments": 44, "asr_time_range_seconds": [0.0, 62.92], "media_duration_seconds": 62.997333, "sampled_frames": 21, "dense_frames": 63, "timeline_entries": 5, "claims": 2, "claim_sid_references": 6, "review_items": 5},
+    "mikey-youtube-short-004": {"segments": 22, "asr_time_range_seconds": [0.0, 40.42], "media_duration_seconds": 40.449161, "sampled_frames": 13, "dense_frames": 0, "timeline_entries": 3, "claims": 0, "claim_sid_references": 0, "review_items": 3},
+    "mikey-youtube-short-005": {"segments": 27, "asr_time_range_seconds": [0.3, 62.0], "media_duration_seconds": 60.464762, "sampled_frames": 20, "dense_frames": 0, "timeline_entries": 3, "claims": 2, "claim_sid_references": 4, "review_items": 2},
+    "mikey-youtube-short-006": {"segments": 37, "asr_time_range_seconds": [0.69, 68.95], "media_duration_seconds": 66.43229, "sampled_frames": 22, "dense_frames": 0, "timeline_entries": 4, "claims": 2, "claim_sid_references": 4, "review_items": 3},
+    "mikey-youtube-short-007": {"segments": 28, "asr_time_range_seconds": [0.0, 42.58], "media_duration_seconds": 39.984762, "sampled_frames": 13, "dense_frames": 0, "timeline_entries": 3, "claims": 2, "claim_sid_references": 4, "review_items": 3},
+    "mikey-youtube-short-008": {"segments": 27, "asr_time_range_seconds": [0.18, 79.08], "media_duration_seconds": 68.057687, "sampled_frames": 23, "dense_frames": 0, "timeline_entries": 4, "claims": 2, "claim_sid_references": 4, "review_items": 3},
+    "mikey-youtube-short-009": {"segments": 24, "asr_time_range_seconds": [0.0, 44.8], "media_duration_seconds": 46.18449, "sampled_frames": 15, "dense_frames": 0, "timeline_entries": 4, "claims": 3, "claim_sid_references": 6, "review_items": 3},
+    "mikey-youtube-short-010": {"segments": 64, "asr_time_range_seconds": [0.0, 89.0], "media_duration_seconds": 86.81941, "sampled_frames": 29, "dense_frames": 0, "timeline_entries": 6, "claims": 4, "claim_sid_references": 10, "review_items": 4}
+  },
+  "deduplication": {
+    "identity_decisions": {"new": 4, "reuse": 6},
+    "knowledge_weight_decisions": {"new_positive_weight_candidates": 3, "new_zero_weight_third_party_edit": 1, "reuse_zero_weight": 6},
+    "new_positive_weight_candidates": ["mikey-youtube-short-001", "mikey-youtube-short-009", "mikey-youtube-short-010"],
+    "new_zero_weight_third_party_edit": ["mikey-youtube-short-004"],
+    "reuse_zero_weight": {
+      "mikey-youtube-short-002": ["mikey-youtube-live-038", "mikey-youtube-video-024"],
+      "mikey-youtube-short-003": ["mikey-youtube-live-038", "mikey-youtube-video-024"],
+      "mikey-youtube-short-005": ["Gs467Dozs3w"],
+      "mikey-youtube-short-006": ["Gs467Dozs3w"],
+      "mikey-youtube-short-007": ["Gs467Dozs3w"],
+      "mikey-youtube-short-008": ["EIcItpA_RZU"]
+    },
+    "independent_reuse_checks": {
+      "mikey-youtube-short-002": {"result": "reuse_supported_as_same_restricted_dispute_chain", "detail": "No normalized transcript match was found, but the clip is another edit of the same non-Mikey Jackson/Hank/Cim allegation and defense chain already preserved in live-038 and researched video-024. It adds no independent testimony or corroboration."},
+      "mikey-youtube-short-003": {"result": "exact_underlying_audio_excerpt_confirmed", "detail": "Independent 1 kHz normalized audio cross-correlation of short 45-50 seconds against live-038 W01 peaks at live 54.307 seconds with coefficient 0.507881, confirming the embedded source despite ASR differences."},
+      "mikey-youtube-short-005": {"result": "formal_clip_match", "independent_8_character_shingle_containment": 0.498024},
+      "mikey-youtube-short-006": {"result": "formal_clip_match", "independent_8_character_shingle_containment": 0.749175},
+      "mikey-youtube-short-007": {"result": "formal_clip_match", "independent_8_character_shingle_containment": 0.653061},
+      "mikey-youtube-short-008": {"result": "reuse_supported_by_ordered_semantic_and_visual_sequence", "detail": "The asset-allocation, young Ferrari purchase, age-dependent experience, local-history-record and future-memory sequence matches formal EIcItpA_RZU in order. ASR wording differs enough that 8-character containment is only 0.010381, so this is not claimed as a transcript-exact match."}
+    },
+    "new_candidate_checks": {
+      "mikey-youtube-short-001": {"result": "new_low_context_identity", "detail": "No formal ID or transcript-scale match. The visible speaker appears consistent with the channel host, but the clip contains no internal name and the ASR captures only 4.08 of 16.11 seconds; attribution and exact wording remain restricted."},
+      "mikey-youtube-short-004": {"result": "new_identity_zero_knowledge_weight", "detail": "Third-party composite with no safely attributable Mikey claim. Formal weight 0 is appropriate."},
+      "mikey-youtube-short-009": {"result": "provisional_new_candidate", "detail": "No 12-character formal transcript overlap was found. It shares the striped-shirt studio session with shorts 008 and 010, so an unlocated parent livestream may later convert it to reuse."},
+      "mikey-youtube-short-010": {"result": "provisional_new_candidate", "detail": "No 12-character formal transcript overlap was found. It shares the striped-shirt studio session with shorts 008 and 009, so an unlocated parent livestream may later convert it to reuse."}
+    }
+  },
+  "resolved_validation_findings": [
+    {"stable_id": "mikey-youtube-short-002", "finding": "Claim s002-c01 originally cited nonexistent S00033-S00035.", "resolution": "The producer corrected the evidence to existing S00008-S00012, S00015-S00016 and S00029-S00031; independent recheck passes."},
+    {"stable_ids": ["mikey-youtube-short-005", "mikey-youtube-short-006", "mikey-youtube-short-007", "mikey-youtube-short-008", "mikey-youtube-short-010"], "finding": "Automatic ASR contains low-quality tail segments beyond audited media duration.", "resolution": "All semantic timelines are now capped at media duration, overrun tails are explicitly excluded, and none of the 26 claim SID references in these five items points beyond the media."}
+  ],
+  "open_research_limits": {
+    "review_items_by_severity": {"blocking": 17, "major": 16},
+    "summary": "Speaker identity for short-001, third-party allegations and publication/consent boundaries in 002-004, and the unlocated parent livestream for 009-010 remain open. These limits keep all first-person and action-advice permissions closed and do not block validation of the restricted research package."
+  },
+  "permissions": {
+    "formal_mikey_guide_modified": false,
+    "formal_source_index_sha256": "bec0688ff67e13cc849b8f3ad03e570ee13473477788a72fc7cfebfa008e8d75",
+    "formal_integration_approved": false,
+    "raw_media_deletion_authorized": false,
+    "short_02_started": false
+  }
+}

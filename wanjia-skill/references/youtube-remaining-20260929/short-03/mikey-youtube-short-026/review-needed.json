@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-026",
+  "youtube_id": "npeClmMFzdE",
+  "review_completed": true,
+  "items": [
+    {
+      "review_id": "s026-r01",
+      "severity": "blocking",
+      "category": "consent_refusal",
+      "issue": "The clip claims pressure can make a woman unable to refuse and later reinterprets dislike and discomfort as hidden attraction.",
+      "affected_evidence": ["S00013-S00025", "S00039-S00076"],
+      "disposition": "Do not expose as action advice; stated refusal, dislike and discomfort remain valid boundaries."
+    },
+    {
+      "review_id": "s026-r02",
+      "severity": "blocking",
+      "category": "coercive_dominance",
+      "issue": "Dominance, pressure, low comfort and helplessness are framed as desirable tools or attraction signals.",
+      "affected_evidence": ["S00013-S00025", "S00058-S00072"],
+      "disposition": "Do not operationalize; require voluntary, reversible participation and stop when the other person is uncomfortable."
+    },
+    {
+      "review_id": "s026-r03",
+      "severity": "major",
+      "category": "unsupported_outcome",
+      "issue": "The claimed behavior and reactions of multiple women are uncorroborated self-report and not depicted.",
+      "affected_evidence": ["S00026-S00057"],
+      "disposition": "Attribute only as his claim; do not infer that rudeness or hostility caused attraction."
+    },
+    {
+      "review_id": "s026-r04",
+      "severity": "major",
+      "category": "source_reuse",
+      "issue": "The Short re-edits passages already preserved in formal quark-live-046.",
+      "affected_evidence": ["whole source"],
+      "disposition": "Keep formal weight at zero."
+    }
+  ]
+}

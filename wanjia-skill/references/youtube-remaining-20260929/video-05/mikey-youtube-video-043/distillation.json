@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-043",
+  "youtube_id": "f6_phteCGeM",
+  "title": "有效搭讪的关键：私密距离",
+  "coverage": {"transcript_segments_read": 91, "transcript_time_range_seconds": [0.0, 136.79], "semantic_media_range_seconds": [0.0, 148.909569], "sparse_frames_reviewed": 3, "dense_frames_reviewed": 0, "continuous_original_audio_visual_review": false},
+  "timeline": [
+    {"start": 0.0, "end": 39.8, "summary": "A man stops a masked woman, states that he wants to meet her, compliments her and requests WeChat after she says she has something urgent."},
+    {"start": 39.8, "end": 93.02, "summary": "They remain standing together and exchange school/work, age, study, origin and appearance talk; speaker turns and several ASR words remain uncertain."},
+    {"start": 93.02, "end": 117.02, "summary": "He proposes a next-weekend meeting; she says timing is uncertain, after which he asks about other men and frames competition."},
+    {"start": 117.02, "end": 136.79, "summary": "They discuss zodiac signs, say they can talk on WeChat, mention that she needs to find friends, and close with a request to send a contact note."},
+    {"start": 136.79, "end": 148.909569, "summary": "No reliable ASR; formal visual review classifies the final window as the same plaza interaction followed by the ending, not proof of contact or follow-up."}
+  ],
+  "claims": [
+    {"claim_id": "v043-c01", "speaker": "field man, identity not independently verified", "statement": "He states his approach intention directly and gives appearance-based reasons for wanting to meet.", "conditions": "Case behavior only; directness does not create an obligation to stop, converse or share contact information.", "evidence": ["S00001-S00017@0.00-29.00"], "reuse_note": "Covered by mikey-approach-002-K0001.", "use_level": "context_only", "knowledge_status": "reuse_zero_weight_pending_independent_review"},
+    {"claim_id": "v043-c02", "speaker": "field participants, turns partly uncertain", "statement": "When the woman says she has an urgent matter and prefers talking online, the interaction shifts toward a WeChat request.", "conditions": "Her time limit must be honored without pressure. Sparse footage and an unreadable phone do not prove voluntary contact exchange.", "evidence": ["S00018-S00030@29.00-44.20"], "reuse_note": "Covered by mikey-approach-002-K0002.", "use_level": "hold", "knowledge_status": "reuse_zero_weight_pending_independent_review"},
+    {"claim_id": "v043-c03", "speaker": "field man", "statement": "He proposes meeting the next weekend, receives uncertainty, and leaves the arrangement for later WeChat discussion.", "conditions": "Uncertainty is not acceptance. Questions about other suitors and competition must not be used to pressure a decision.", "evidence": ["S00056-S00078@82.08-117.02", "S00086-S00091@126.02-136.79"], "reuse_note": "Covered by mikey-approach-002-K0003.", "use_level": "hold", "knowledge_status": "reuse_zero_weight_pending_independent_review"}
+  ],
+  "examples": [
+    {"example_id": "v043-e01", "summary": "One edited plaza interaction moves from a direct introduction to personal information and a future invitation; it does not show a later reply or meeting.", "evidence": ["S00001-S00091"]}
+  ],
+  "speaker_attribution": [
+    {"speaker": "field man", "basis": "Visible red-hooded participant; formal source did not independently prove that he is Mikey, so claims remain role-attributed."},
+    {"speaker": "approached woman", "basis": "Masked woman visible throughout; short turns are inferred from exchange structure but are not formally diarized."}
+  ],
+  "visual_findings": [
+    "All three sampled frames show the same two people standing in one public plaza location; there is no visible case change.",
+    "The woman is masked but otherwise identifiable by clothing, body and location; bystanders are visible and publication consent is unknown.",
+    "The samples show continued standing conversation, not a readable contact-save screen, confirmed follow-up or later meeting."
+  ],
+  "permissions": {"formal_integration": false, "first_person_allowed": false, "action_advice_allowed": false, "knowledge_status": "reuse_zero_weight_pending_independent_review", "reason": "Duplicate formal source with uncertain speaker identity, contact outcome, age turns, privacy and pressure boundaries."},
+  "limitations": [
+    "Automatic transcript was not word-for-word audio checked or diarized.",
+    "Three 45-second samples do not equal continuous audio-visual review.",
+    "Contact exchange, later replies and meeting outcome are not verified.",
+    "The public participant's filming and publication consent are unknown."
+  ]
+}

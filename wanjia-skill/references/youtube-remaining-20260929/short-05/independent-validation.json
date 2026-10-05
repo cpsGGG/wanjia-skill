@@ -1,0 +1,93 @@
+{
+  "schema_version": 1,
+  "batch_key": "short-05",
+  "validated_at": "2026-09-29T22:38:29+08:00",
+  "validator_role": "cross_agent_and_local_independent_review_after_subagent_distillation",
+  "pass": true,
+  "scope": {
+    "items": 10,
+    "media_audit_items": 10,
+    "transcript_segments": 147,
+    "transcript_segments_in_bounds": 146,
+    "excluded_asr_segments": 1,
+    "sampled_frames": 116,
+    "dense_frames_additionally_reviewed": 126,
+    "timeline_entries": 38,
+    "claims": 21,
+    "review_items": 36
+  },
+  "checks": {
+    "pipeline_validation_report_present_and_pass": true,
+    "media_files_rehashed_against_audit": "10/10",
+    "media_hash_bound_transcripts": "10/10",
+    "media_hash_bound_visual_manifests": "10/10",
+    "visual_manifest_files_and_hashes_valid": "116/116",
+    "asr_segments_within_media": "146/147; short-042 S00014 is the single expected overrun and is explicitly excluded",
+    "timelines_contiguous_from_zero_to_media_end": "10/10",
+    "claim_sid_references_valid": "21/21 transcript-backed references; visual/title-only evidence identified separately",
+    "review_ledgers_completed": "10/10",
+    "first_person_permission_closed": "10/10",
+    "action_advice_permission_closed": "10/10",
+    "formal_integration_approved": "0/10",
+    "reuse_zero_weight": "7/7",
+    "new_candidates_restricted": "3/3",
+    "formal_source_index_unchanged": true
+  },
+  "deduplication": {
+    "identity_decisions": {"new": 3, "reuse": 7},
+    "new_positive_weight_candidates": [
+      "mikey-youtube-short-041",
+      "mikey-youtube-short-042",
+      "mikey-youtube-short-045"
+    ],
+    "reuse_zero_weight": {
+      "mikey-youtube-short-043": ["quark-live-007", "Gs467Dozs3w"],
+      "mikey-youtube-short-044": ["quark-live-010", "formal_feiyangyang_one_sided_pursuit_theme"],
+      "mikey-youtube-short-046": ["mikey-youtube-live-034-K004", "mikey-youtube-live-007-K024", "quark-live-033-k014"],
+      "mikey-youtube-short-047": ["YEm81yAdw2E:K38", "mikey-youtube-live-035-K006", "quark-live-033-k011"],
+      "mikey-youtube-short-048": ["HgnLR9S39is:K22", "quark-live-051-k003"],
+      "mikey-youtube-short-049": ["quark-live-006-k034", "quark-live-028-k014", "quark-live-030-k008"],
+      "mikey-youtube-short-050": ["mikey-youtube-short-044", "quark-live-010"]
+    },
+    "notes": {
+      "mikey-youtube-short-041": "Distinct edited public encounter only; the university-student label is unverified title metadata, and contact save, identity, consent and outcome remain unknown.",
+      "mikey-youtube-short-042": "Distinct Forbidden City encounter only; the apparent phone scan is not a verified saved contact or later result.",
+      "mikey-youtube-short-045": "Distinct relationship-choice formulation, held as a philosophical candidate without reciprocity, safety or outcome evidence.",
+      "mikey-youtube-short-044": "Unverified third-party compilation; no incident detail or narration is authenticated as Mikey testimony.",
+      "mikey-youtube-short-050": "Third-party cartoon excerpt with no authenticated Mikey speech and incomplete ASR."
+    }
+  },
+  "resolved_validation_findings": [
+    {
+      "stable_id": "mikey-youtube-short-042",
+      "finding": "S00014 ends 0.779932 seconds after the audited media duration.",
+      "resolution": "Excluded S00014 from all dialogue claims and evidence, then added a non-semantic 35.63-36.850068 tail entry so the timeline still covers the full media."
+    },
+    {
+      "stable_id": "mikey-youtube-short-041",
+      "finding": "The title calls the women university students, but reviewed speech and frames do not establish that identity.",
+      "resolution": "Restricted student status to unverified title metadata and added a review item."
+    },
+    {
+      "stable_ids": ["mikey-youtube-short-045", "mikey-youtube-short-046", "mikey-youtube-short-047"],
+      "finding": "Dense subtitle corrections needed direct evidence attachment, and short-047's timeline included an unsupported phrase.",
+      "resolution": "Attached dense-frame evidence to the affected claims and removed the unsupported short-047 wording."
+    }
+  ],
+  "open_research_limits": {
+    "review_items_by_severity": {"blocking": 12, "major": 24, "minor": 0},
+    "summary": "Open limits cover identifiable participants and publication consent, uncertain operator and narrator identity, unverified contact or later outcomes, philosophical or psychological generalizations, responsibility and repair boundaries, alcohol/game refusal autonomy, gendered ridicule, third-party allegations, copyright and incomplete ASR."
+  },
+  "permissions": {
+    "formal_mikey_guide_modified": false,
+    "formal_source_index_sha256": "bec0688ff67e13cc849b8f3ad03e570ee13473477788a72fc7cfebfa008e8d75",
+    "formal_integration_approved": false,
+    "raw_media_deletion_authorized": false,
+    "short_06_started": false
+  },
+  "cross_validation": {
+    "mikey-youtube-short-041_to_044": "PASS after restricting title-only student identity and preserving the excluded short-042 overrun.",
+    "mikey-youtube-short-045_to_047": "PASS after attaching dense subtitle evidence and removing one unsupported short-047 phrase.",
+    "mikey-youtube-short-048_to_050": "PASS in local independent review; all three are zero-weight reuse with consent, autonomy, attribution and third-party-rights boundaries preserved."
+  }
+}

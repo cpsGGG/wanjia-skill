@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-031",
+  "youtube_id": "kwMvehGwOU8",
+  "title": "什么是吸引？99%的人都不知道关于男性魅力的真相丨自我意识觉醒丨小明剑魔丨龟男丨約會丨把妹丨情感丨戀愛丨約炮丨男性自我提升丨短期關係丨長期關係丨dating in china",
+  "coverage": {
+    "transcript_segments_read": 437,
+    "transcript_time_range_seconds": [0.0, 780.44],
+    "sparse_frames_reviewed": 18,
+    "dense_frames_reviewed": 0,
+    "dense_windows_required_seconds": [],
+    "continuous_original_audio_visual_review": false
+  },
+  "timeline": [
+    {"start": 0.0, "end": 47.64, "summary": "Mikey introduces personal subjectivity or a sense of self as his central explanation of attraction."},
+    {"start": 47.64, "end": 227.44, "summary": "An edited third-party relationship dispute and named public cases are used to argue that men without a self become exploitable; the facts and legal status are not independently established here."},
+    {"start": 227.44, "end": 384.48, "summary": "He contrasts self-improvement chosen for oneself with appearance, fitness, money, humor and helpfulness pursued mainly for approval."},
+    {"start": 384.48, "end": 543.64, "summary": "He attributes approval-seeking to family, school and social conditioning and illustrates it with a film plot; the broad causal story is presented without evidence."},
+    {"start": 543.64, "end": 609.26, "summary": "He defines a self-directed life through motives, feelings, direct expression, enjoying a date, questioning lateness and screening conduct."},
+    {"start": 609.26, "end": 670.42, "summary": "Titanic's Jack and a 'hunter' analogy illustrate composure and independence from status judgment."},
+    {"start": 670.42, "end": 729.84, "summary": "He contrasts approval-seeking on dates with self-directed attention and treats dependence on positive feedback as the same underlying issue."},
+    {"start": 729.84, "end": 780.44, "summary": "He closes with a declaration of inherent worth and a literary quotation about acting and loving without chasing external validation."}
+  ],
+  "claims": [
+    {"claim_id": "v031-c01", "speaker": "Mikey", "statement": "He defines subjectivity as noticing what one wants and feels before optimizing for other people's approval.", "conditions": "A personal-development framework, not a validated definition of attraction or mental health.", "evidence": ["S00131-S00177@222.88-294.52", "S00277-S00316@538.36-600.96"], "use_level": "context_only", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v031-c02", "speaker": "Mikey", "statement": "Appearance, fitness, money, humor and helpful behavior do not create durable respect when they are used mainly to secure approval.", "conditions": "The motive-versus-behavior distinction can be retained; the universal relationship outcome is unsupported.", "evidence": ["S00147-S00223@268.40-384.48"], "use_level": "context_only", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v031-c03", "speaker": "Mikey", "statement": "Kindness chosen freely is different from giving in order to obtain affection, compliance or status.", "conditions": "Do not infer hidden motives or worth from one behavior; reciprocity and explicit agreements still matter.", "evidence": ["S00205-S00214@355.32-368.16", "S00301-S00305@572.24-577.34"], "use_level": "context_only", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v031-c04", "speaker": "Mikey", "statement": "On a date, he recommends attending to one's own experience and expressing ordinary boundaries rather than constantly monitoring whether the other person approves.", "conditions": "Expression must remain respectful and proportionate; it never overrides consent, safety or the other person's boundaries.", "evidence": ["S00306-S00325@577.34-609.26"], "use_level": "context_only", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v031-c05", "speaker": "Mikey", "statement": "Needing clear positive feedback before acting is presented as another form of dependence on external approval.", "conditions": "In sexual or intimate escalation, uncertainty is a reason to slow down and seek clear consent, not to act through ambiguity.", "evidence": ["S00367-S00399@670.42-729.84"], "use_level": "hold", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v031-c06", "speaker": "Mikey", "statement": "He proposes that self-respect and willingness to express oneself should not depend entirely on achievement or permission from others.", "conditions": "A motivational value statement; it does not establish that everyone will be respected or loved.", "evidence": ["S00400-S00437@729.84-780.44"], "use_level": "context_only", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v031-c07", "speaker": "Mikey", "statement": "He claims men who lack subjectivity reliably cause partners to exploit them or become 'bad women'.", "conditions": "Unsupported, victim-blaming and gender-essentialist causal claim; relationship abuse cannot be attributed to a victim's mindset.", "evidence": ["S00117-S00139@193.58-259.54", "S00224-S00231@384.48-469.90"], "use_level": "do_not_generalize", "knowledge_status": "hold_pending_independent_review"}
+  ],
+  "examples": [
+    {"example_id": "v031-e01", "summary": "A school joker and an always-accommodating colleague illustrate approval-seeking behavior, although no evidence shows the proposed outcomes are universal.", "evidence": ["S00175-S00214@315.50-368.16"]},
+    {"example_id": "v031-e02", "summary": "Titanic's Jack is used as a fictional example of comfort with status differences and direct self-expression.", "evidence": ["S00326-S00359@609.26-660.28"]}
+  ],
+  "speaker_attribution": [
+    {"speaker": "Mikey", "basis": "Single identified host carries the main argument in a continuous studio monologue."},
+    {"speaker": "third-party clips and fictional/public figures", "basis": "Edited inserts, chat/stream excerpts and film scenes are examples; their words and circumstances are not Mikey's first-person experience or independently verified facts."}
+  ],
+  "visual_findings": [
+    "All 18 sampled frames were reviewed. Most show Mikey speaking to camera; inserts include a phone chat/stream screen, public-figure clips, classroom and workplace stock footage, a film scene and road or social-behavior clips.",
+    "The sampled phone screen and third-party footage contain identities and alleged relationship facts that are too small or incomplete to establish chronology, authenticity or legal conclusions.",
+    "No sampled frame supplies independent evidence for the causal claims about partners, upbringing or attraction; no dense window was needed to preserve the narration-level argument."
+  ],
+  "permissions": {
+    "formal_integration": false,
+    "first_person_allowed": false,
+    "action_advice_allowed": false,
+    "knowledge_status": "hold_pending_independent_review",
+    "reason": "The useful motive-and-boundary distinctions are mixed with victim-blaming, gender essentialism, named third-party allegations and unsafe ambiguity around feedback."
+  },
+  "limitations": [
+    "Automatic transcript was not checked word-for-word against original audio.",
+    "Eighteen sparse frames do not equal continuous audio-visual verification.",
+    "Named relationship events, financial details and legal implications are based on edited public material and commentary.",
+    "The broad family, school and gender causal claims are not supported by research in the upload."
+  ]
+}

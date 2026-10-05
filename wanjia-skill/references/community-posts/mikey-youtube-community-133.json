@@ -1,0 +1,50 @@
+{
+  "schema_version": "mikey-community-post-fulltext-1.0",
+  "source_id": "mikey-youtube-community-133",
+  "post_id": "Ugkxgfr-N03XONlZ2_NokC7u1KhSx2zQL3F2",
+  "url": "https://www.youtube.com/post/Ugkxgfr-N03XONlZ2_NokC7u1KhSx2zQL3F2",
+  "published_at": "2026-04-20T03:26:06.656371-07:00",
+  "date_basis": "archived_public_observation",
+  "body": "说到我心坎去了😭",
+  "body_kind": "verbatim_or_as_archived_in_corrected_candidate",
+  "image_refs": [
+    {
+      "image_index": 1,
+      "research_archive_path": "research/youtube-community-batch1/images/Ugkxgfr-N03XONlZ2_NokC7u1KhSx2zQL3F2/01.jpg",
+      "sha256": "065625c6a29e4e5e5a3411016441e7f00232efb4cbc927cca1be0778193752a3",
+      "bytes": 262809,
+      "formal_asset_policy": "reference_only_do_not_copy",
+      "safe_summary": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。"
+    }
+  ],
+  "segments": [
+    {
+      "sid": "C0133-BODY",
+      "kind": "channel_body",
+      "text": "说到我心坎去了😭",
+      "verbatim_allowed": true,
+      "source_scope": "public_channel_body_as_archived"
+    },
+    {
+      "sid": "C0133-IMG01",
+      "kind": "image_reference_metadata",
+      "text": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。",
+      "verbatim_allowed": false,
+      "image_reference": {
+        "image_index": 1,
+        "research_archive_path": "research/youtube-community-batch1/images/Ugkxgfr-N03XONlZ2_NokC7u1KhSx2zQL3F2/01.jpg",
+        "sha256": "065625c6a29e4e5e5a3411016441e7f00232efb4cbc927cca1be0778193752a3",
+        "bytes": 262809,
+        "formal_asset_policy": "reference_only_do_not_copy",
+        "safe_summary": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。"
+      }
+    }
+  ],
+  "privacy_policy": {
+    "original_images_copied": false,
+    "raw_ocr_copied": false,
+    "private_chat_transcript_copied": false,
+    "third_party_identity_confirmed": false,
+    "publication_authorization_confirmed": false
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "source_id": "mikey-youtube-live-032",
+  "speakers": [
+    {
+      "id": "mikey",
+      "role": "host",
+      "status": "confirmed",
+      "identity_basis": "标题明确为Mikey直播，开场自述、个人经历与连续主持答疑结构共同确认主讲人为Mikey；短暂现场声音仍未逐句分离。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=Qk5w8-va0g0&t=30s"
+      ],
+      "notes": "观众问题与主持回答未逐句标注。"
+    },
+    {
+      "id": "viewer-question-01",
+      "role": "collective live-chat question author(s)",
+      "status": "collective_placeholder",
+      "identity_basis": "直播中持续读取观众问题。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=Qk5w8-va0g0"
+      ],
+      "notes": "观众经历不归给Mikey。"
+    },
+    {
+      "id": "unknown-voice-01",
+      "role": "未逐句分离的直播语音",
+      "status": "unresolved",
+      "identity_basis": "自动稿无说话人标签，偶有助教或现场声音。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=Qk5w8-va0g0"
+      ],
+      "notes": "仅作待核占位。"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-029",
+  "youtube_id": "Nk8m70zAZAk",
+  "review_completed": true,
+  "items": [
+    {
+      "review_id": "v029-r01",
+      "severity": "major",
+      "issue": "The core NPC metaphor explicitly treats women and surrounding people as game characters rather than equal subjects.",
+      "affected_evidence": [
+        "S00001-S00032",
+        "S00161-S00184"
+      ],
+      "disposition": "Keep do_not_generalize; if the agency theme is used, restate it without dehumanizing others."
+    },
+    {
+      "review_id": "v029-r02",
+      "severity": "major",
+      "issue": "Approach is described as transcending rules, but the source does not distinguish social anxiety from protective legal and consent boundaries.",
+      "affected_evidence": [
+        "S00033-S00051",
+        "S00052-S00102"
+      ],
+      "disposition": "Any later use must explicitly preserve law, safety, disinterest and consent boundaries."
+    },
+    {
+      "review_id": "v029-r03",
+      "severity": "major",
+      "issue": "The 1080p targeted review reveals a readable coaching collage, but the underlying student-woman message sequence remains partial, small and unauthenticated.",
+      "affected_evidence": [
+        "S00135-S00160",
+        "targeted/0273.5s-chat-collage.jpg@273.5"
+      ],
+      "disposition": "Use only the clearly visible Mikey coaching messages as a held candidate view; do not infer the woman’s intent, full chronology, authenticity or outcome."
+    },
+    {
+      "review_id": "v029-r04",
+      "severity": "major",
+      "issue": "The anti-script argument can be overextended to reject all planning or communication support.",
+      "affected_evidence": [
+        "S00185-S00233"
+      ],
+      "disposition": "Retain the live-attention principle while allowing ethical drafting tools and preparation."
+    },
+    {
+      "review_id": "v029-r05",
+      "severity": "major",
+      "issue": "The source substantially overlaps the NPC/player doctrine in mikey-gameshengjing-017 and private-coaching sources.",
+      "affected_evidence": [
+        "entire source"
+      ],
+      "disposition": "Count as a distinct source but give no additional empirical confidence to repeated doctrine."
+    },
+    {
+      "review_id": "v029-r06",
+      "severity": "minor",
+      "issue": "ASR corrupts Minecraft, film titles, AI references and several idioms.",
+      "affected_evidence": [
+        "throughout"
+      ],
+      "disposition": "Paraphrase and verify original audio before exact quotation."
+    }
+  ]
+}

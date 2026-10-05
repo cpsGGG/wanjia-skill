@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-043",
+  "youtube_id": "beVlsu3s1mQ",
+  "decision": "reuse",
+  "reuse_of": ["quark-live-007", "Gs467Dozs3w"],
+  "formal_weight_if_integrated": 0,
+  "compared_sources": [
+    {"scope": "formal_mikey_guide_202_sources", "comparison": "exact ID/URL, normalized phrases and acceptance/change semantics"},
+    {"scope": "youtube_pipeline_video_01_to_05_and_short_01_to_04", "comparison": "exact ID/URL, transcript and semantic reuse screen"},
+    {"source_id": "quark-live-007", "comparison": "accept the present self while continuing improvement rather than postponing action"},
+    {"source_id": "mikey-youtube-short-005", "formal_parent": "Gs467Dozs3w", "comparison": "accept fear without self-conflict and continue the action judged right"}
+  ],
+  "evidence": [
+    {"type": "identity", "result": "no_exact_id_or_url_match"},
+    {"type": "transcript", "result": "no_exact_parent_excerpt_located", "basis": "The precise self-criticism and self-esteem wording was not found verbatim in formal or completed-pipeline transcripts."},
+    {"type": "semantic_reuse", "result": "already_represented", "basis": "Formal quark-live-007 and the formal parent of short-005 already preserve the useful distinction between accepting the present state and continuing to change or act."},
+    {"type": "visual", "result": "single_speaker_direct_to_camera", "basis": "All twelve sampled frames show the same male speaker walking outdoors with burned subtitles matching the transcript's main sequence."}
+  ],
+  "boundary": "Zero weight semantic reuse. The Short adds a concise formulation about self-criticism, but its broad causal claims about self-esteem and energy are not independently verified; acceptance of wrongdoing must not be used to erase accountability or repair owed to others."
+}

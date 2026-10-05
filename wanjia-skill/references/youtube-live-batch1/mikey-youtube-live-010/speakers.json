@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "source_id": "mikey-youtube-live-010",
+  "speakers": [
+    {
+      "id": "mikey",
+      "role": "host",
+      "status": "confirmed",
+      "identity_basis": "标题和10张联系表确认全片同一主持人；未见嘉宾、连麦或播放案例视频。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=CxNdBfHWns8&t=8s",
+        "https://www.youtube.com/watch?v=CxNdBfHWns8&t=2400s",
+        "https://www.youtube.com/watch?v=CxNdBfHWns8&t=4750s"
+      ],
+      "notes": "主持人主要查看右侧公屏后口播问题。"
+    },
+    {
+      "id": "viewer-question-collective",
+      "role": "live-chat question authors",
+      "status": "collective_placeholder",
+      "identity_basis": "右侧直播留言持续滚动，Mikey频繁低头看手机或公屏后代读问题。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=CxNdBfHWns8&t=90s",
+        "https://www.youtube.com/watch?v=CxNdBfHWns8&t=1800s",
+        "https://www.youtube.com/watch?v=CxNdBfHWns8&t=3300s"
+      ],
+      "notes": "问题作者是多个观众，口播声音仍是Mikey。"
+    },
+    {
+      "id": "screen-chat-authors",
+      "role": "visible live-chat authors",
+      "status": "unresolved",
+      "identity_basis": "联系表可见大量小字留言，但无法逐条可靠辨认账号和消息。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=CxNdBfHWns8&t=900s"
+      ],
+      "notes": "屏幕文字不得自动归为Mikey观点。"
+    }
+  ]
+}

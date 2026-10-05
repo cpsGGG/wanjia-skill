@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-022",
+  "youtube_id": "siSEYCLz4ww",
+  "decision": "reuse",
+  "reuse_of": "quark-live-046",
+  "formal_weight_if_integrated": 0,
+  "compared_sources": [
+    {
+      "scope": "formal_mikey_guide",
+      "source_count": 202,
+      "comparison": "YouTube identity, distinctive phrase search and ordered transcript alignment"
+    },
+    {
+      "scope": "video-01_to_video-05_short-01_to_short-02_and_short-03_known_items",
+      "comparison": "YouTube identity, normalized transcript and known reuse ledgers"
+    },
+    {
+      "scope": "exact_short_duplicate",
+      "source_id": "mikey-youtube-short-019",
+      "comparison": "all 75 ASR segments and normalized transcript are identical"
+    },
+    {
+      "scope": "targeted_formal_source",
+      "source_id": "quark-live-046",
+      "comparison": "same edited excerpt already mapped by short-019 to formal S01120-S01188 and S01234-S01248"
+    }
+  ],
+  "evidence": [
+    {
+      "type": "exact_transcript_duplicate",
+      "result": "reuse_confirmed",
+      "duplicate_source_id": "mikey-youtube-short-019",
+      "basis": "The two Shorts have the same 75 ASR segments from 0.00 to 137.58 seconds."
+    },
+    {
+      "type": "formal_alignment",
+      "result": "reuse_confirmed",
+      "formal_source_id": "quark-live-046",
+      "formal_evidence": ["S01120-S01188@3451.02-3570.12", "S01234-S01248@3676.00-3703.64"],
+      "basis": "Distinctive phrases and ordering match the already validated short-019 reuse record."
+    },
+    {
+      "type": "visual",
+      "result": "single_studio_speaker",
+      "basis": "All 46 sampled frames show the same speaker and dark studio setup; no independent case or outcome is introduced."
+    }
+  ],
+  "boundary": "Treat as the same edited reuse already recorded for short-019 and ultimately quark-live-046. Assign zero source and knowledge weight."
+}

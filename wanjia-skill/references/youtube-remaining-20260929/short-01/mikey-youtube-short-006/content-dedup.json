@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-006",
+  "youtube_id": "NB1KsmdaoxI",
+  "decision": "reuse",
+  "reuse_of": "Gs467Dozs3w",
+  "formal_weight_if_integrated": 0,
+  "compared_sources": [
+    {"scope": "formal_mikey_guide", "source_count": 202, "comparison": "youtube_id_url_and_normalized_fulltext"},
+    {"source_id": "Gs467Dozs3w", "title": "2026-06-16 - mikey正在直播", "comparison": "ordered transcript passage and same studio visual"}
+  ],
+  "evidence": [
+    {"type": "normalized_transcript", "result": "clip_match", "short_8_character_shingle_containment": 0.749175},
+    {"type": "exact_phrase", "result": "match", "short_evidence": "S00010@14.95-19.03", "formal_evidence": "Gs467Dozs3w:S00734@3803.00-3807.10"},
+    {"type": "ordered_alignment", "result": "same_passage", "basis": "The deadline question, enjoy-the-date answer, second-date argument and Mikey's changing outcome targets appear in the same order."},
+    {"type": "visual", "result": "same_livestream_setup", "basis": "All 22 sampled frames show the same black-shirt studio livestream."}
+  ],
+  "boundary": "Vertical excerpt of Gs467Dozs3w; weight 0 and no independent outcome evidence."
+}

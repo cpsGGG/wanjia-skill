@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-039",
+  "youtube_id": "60HetHyw-tA",
+  "review_completed": true,
+  "items": [
+    {"review_id": "s039-r01", "severity": "major", "category": "speaker_attribution", "issue": "The male camera-holder is not independently identified as Mikey.", "affected_evidence": ["whole source"], "disposition": "Keep generic attribution and prohibit first-person use."},
+    {"review_id": "s039-r02", "severity": "major", "category": "contact_outcome", "issue": "Phone use and apparent agreement do not prove that contact was successfully saved or welcomed after the clip.", "affected_evidence": ["S00004-S00007", "sampled frames 000002-000005"], "disposition": "Describe only the visible exchange; do not claim success or later consent."},
+    {"review_id": "s039-r03", "severity": "major", "category": "asr_uncertainty", "issue": "S00002 and S00007 are garbled, and S00009 ends in an incomplete causal phrase.", "affected_evidence": ["S00002", "S00007", "S00009"], "disposition": "Exclude uncertain wording from reusable claims."},
+    {"review_id": "s039-r04", "severity": "blocking", "category": "privacy_and_publication_authorization", "issue": "The woman is identifiable in roadside footage, while consent to filming or public posting is not documented in the research package.", "affected_evidence": ["sampled frames 000001-000009"], "disposition": "Do not package identifiable frames into a formal distributable skill without privacy and authorization review."}
+  ]
+}

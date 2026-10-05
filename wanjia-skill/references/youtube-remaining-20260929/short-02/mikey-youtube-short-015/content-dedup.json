@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-015",
+  "youtube_id": "nXb_5CmBvpc",
+  "decision": "reuse",
+  "formal_weight_if_integrated": 0,
+  "compared_sources": [
+    {
+      "scope": "formal_mikey_guide",
+      "source_count": 202,
+      "comparison": "id/url, normalized transcript shingle and semantic screen"
+    },
+    {
+      "scope": "remaining_video_batches_01_05_and_short_01",
+      "source_count": 55,
+      "comparison": "normalized transcript screen"
+    },
+    {
+      "source_id": "o6fS0sTCYcU",
+      "comparison": "same parent recording; over 80% of 8-character Short shingles occur in the formal transcript"
+    }
+  ],
+  "evidence": [
+    {
+      "type": "identity",
+      "result": "different_youtube_id_same_parent_excerpt"
+    },
+    {
+      "type": "transcript",
+      "result": "same_passage_match",
+      "basis": "The full Short sequence about sensitivity, upper/lower status and observing employees occurs in formal o6fS0sTCYcU."
+    },
+    {
+      "type": "visual",
+      "result": "same_livestream_family",
+      "basis": "All 14 sampled frames show one light-jacket livestream host with public chat overlay."
+    }
+  ],
+  "boundary": "Reuse formal o6fS0sTCYcU with zero additional weight."
+}

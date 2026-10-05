@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "status": "complete",
+  "batch_id": "mikey-gameshengjing-21",
+  "inventory_source_count": 21,
+  "new_source_ids": [
+    "mikey-gameshengjing-000",
+    "mikey-gameshengjing-001",
+    "mikey-gameshengjing-002",
+    "mikey-gameshengjing-003",
+    "mikey-gameshengjing-004",
+    "mikey-gameshengjing-005",
+    "mikey-gameshengjing-006",
+    "mikey-gameshengjing-007",
+    "mikey-gameshengjing-008",
+    "mikey-gameshengjing-009",
+    "mikey-gameshengjing-010",
+    "mikey-gameshengjing-011",
+    "mikey-gameshengjing-015",
+    "mikey-gameshengjing-016",
+    "mikey-gameshengjing-017",
+    "mikey-gameshengjing-018",
+    "mikey-gameshengjing-019",
+    "mikey-gameshengjing-020"
+  ],
+  "reused_source_ids": [
+    "mikey-gameshengjing-012",
+    "mikey-gameshengjing-013",
+    "mikey-gameshengjing-014"
+  ],
+  "aliases": [
+    {
+      "source_id": "mikey-gameshengjing-012",
+      "existing_source_id": "quark-live-005",
+      "relation": "same_lesson_near_complete_duplicate",
+      "case_weight": 0
+    },
+    {
+      "source_id": "mikey-gameshengjing-013",
+      "existing_source_id": "quark-live-004",
+      "relation": "same_lesson_near_complete_duplicate",
+      "case_weight": 0
+    },
+    {
+      "source_id": "mikey-gameshengjing-014",
+      "existing_source_id": "quark-live-002",
+      "relation": "same_lesson_near_complete_duplicate",
+      "case_weight": 0
+    }
+  ],
+  "basis": "research/gameshengjing/duplicate-audit-text-final.json",
+  "handling": "reused chapters keep local audit artifacts but add no formal source, knowledge, or case weight"
+}

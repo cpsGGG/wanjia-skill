@@ -1,0 +1,50 @@
+{
+  "schema_version": "mikey-community-post-fulltext-1.0",
+  "source_id": "mikey-youtube-community-041",
+  "post_id": "UgkxtKGyP5v7zJM_87Qe94wSFnknweAC9HTg",
+  "url": "https://www.youtube.com/post/UgkxtKGyP5v7zJM_87Qe94wSFnknweAC9HTg",
+  "published_at": "2025-09-18T06:30:00.817706-07:00",
+  "date_basis": "archived_public_observation",
+  "body": "毕业学员的水平，不是盲目堆量，而是有自己的节奏，有稳定的转化和舒适的长期关系\n毕业时数据\n六个月 18个约会\n收尾11个（自己放掉了三个）\n3段长期",
+  "body_kind": "verbatim_or_as_archived_in_corrected_candidate",
+  "image_refs": [
+    {
+      "image_index": 1,
+      "research_archive_path": "research/youtube-community-batch1/images/UgkxtKGyP5v7zJM_87Qe94wSFnknweAC9HTg/01.jpg",
+      "sha256": "8686db9a261ee12fff5bd9c4a6fbceae848f6b9d91251b7aa954943bb8e2d533",
+      "bytes": 264381,
+      "formal_asset_policy": "reference_only_do_not_copy",
+      "safe_summary": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。"
+    }
+  ],
+  "segments": [
+    {
+      "sid": "C0041-BODY",
+      "kind": "channel_body",
+      "text": "毕业学员的水平，不是盲目堆量，而是有自己的节奏，有稳定的转化和舒适的长期关系\n毕业时数据\n六个月 18个约会\n收尾11个（自己放掉了三个）\n3段长期",
+      "verbatim_allowed": true,
+      "source_scope": "public_channel_body_as_archived"
+    },
+    {
+      "sid": "C0041-IMG01",
+      "kind": "image_reference_metadata",
+      "text": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。",
+      "verbatim_allowed": false,
+      "image_reference": {
+        "image_index": 1,
+        "research_archive_path": "research/youtube-community-batch1/images/UgkxtKGyP5v7zJM_87Qe94wSFnknweAC9HTg/01.jpg",
+        "sha256": "8686db9a261ee12fff5bd9c4a6fbceae848f6b9d91251b7aa954943bb8e2d533",
+        "bytes": 264381,
+        "formal_asset_policy": "reference_only_do_not_copy",
+        "safe_summary": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。"
+      }
+    }
+  ],
+  "privacy_policy": {
+    "original_images_copied": false,
+    "raw_ocr_copied": false,
+    "private_chat_transcript_copied": false,
+    "third_party_identity_confirmed": false,
+    "publication_authorization_confirmed": false
+  }
+}

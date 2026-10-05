@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-048",
+  "youtube_id": "wRh8BssCwuQ",
+  "title": "练习不是低质量的重复 #dating #pua #搭讪",
+  "coverage": {"transcript_segments_read": 12, "transcript_time_range_seconds": [0.0, 22.76], "semantic_media_range_seconds": [0.0, 23.289615], "sampled_frames_reviewed": 8, "continuous_original_audio_visual_review": false, "excluded_asr_tail": null},
+  "timeline": [
+    {"start": 0.0, "end": 6.04, "summary": "Mikey distinguishes practice from mere repetition and says repetition by itself cannot produce effective progress."},
+    {"start": 6.04, "end": 12.84, "summary": "He says proper practice needs a good mentor, a goal and feedback, contrasting that structure with effort that looks diligent but produces no result."},
+    {"start": 12.84, "end": 23.289615, "summary": "For approach practice, he favors phased progress and targeted strategy adjustments over spending hours approaching only to accumulate repetitions."}
+  ],
+  "claims": [
+    {"claim_id": "s048-c01", "speaker": "Mikey (visual/channel continuity)", "statement": "Mechanical repetition is not sufficient practice; he says useful practice needs goals, feedback and targeted adjustment.", "conditions": "A general teaching claim rather than verified evidence that a particular mentor or program works.", "evidence": ["S00001-S00008@0.00-12.84", "visual/sampled/000001.jpg-visual/sampled/000004.jpg"], "use_level": "hold", "knowledge_status": "reuse_zero_weight"},
+    {"claim_id": "s048-c02", "speaker": "Mikey (visual/channel continuity)", "statement": "He recommends measuring approach practice by phased improvement and changing strategy in response to feedback rather than by hours or repetitions alone.", "conditions": "The Short gives no operational milestones, feedback standard or evidence that quantity is never useful.", "evidence": ["S00009-S00012@12.84-22.76", "visual/sampled/000005.jpg-visual/sampled/000008.jpg"], "use_level": "hold", "knowledge_status": "reuse_zero_weight"}
+  ],
+  "speaker_attribution": [{"speaker": "Mikey (visual/channel continuity)", "basis": "One on-camera narrator speaks throughout; face and presentation match formal Mikey talking-head sources, with no second speaker or quoted third-party material."}],
+  "visual_findings": ["All eight sampled frames were reviewed at original resolution.", "The video is a continuous selfie monologue with Chinese and English editorial subtitles.", "No screenshot, demonstrated interaction, result or other visual evidence independently verifies the claimed training effectiveness."],
+  "permissions": {"formal_integration": false, "first_person_allowed": false, "action_advice_allowed": false, "use_level": "reuse_zero_weight", "reason": "The method is already represented in formal sources and the Short supplies no independent effectiveness evidence."},
+  "limitations": ["The automatic transcript was not checked word-for-word against original audio.", "Good mentor, goal and feedback are asserted but not operationally defined.", "The clip does not show a practice session, feedback cycle or measured outcome.", "Sparse frames do not replace continuous audio-visual review."]
+}

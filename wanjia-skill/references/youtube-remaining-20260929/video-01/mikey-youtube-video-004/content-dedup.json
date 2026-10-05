@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-004",
+  "youtube_id": "ea-wnYQpZWM",
+  "decision": "new",
+  "compared_sources": [
+    {
+      "scope": "formal_mikey_guide",
+      "source_count": 202,
+      "comparison": "youtube_id_url_and_normalized_full_transcript_sha256"
+    }
+  ],
+  "evidence": [
+    {
+      "type": "identity",
+      "result": "no_exact_youtube_id_or_url_overlap",
+      "basis": "video-01/identity-precheck.json and current formal source-index"
+    },
+    {
+      "type": "normalized_fulltext",
+      "target_normalized_chars": 3622,
+      "target_sha256": "61ca64e23d475af6d9b595e785a9eb16e8b0a6fc042703d12a7812b69246ca12",
+      "formal_transcripts_checked": 202,
+      "exact_matches": []
+    },
+    {
+      "type": "phrase_screening",
+      "queries": [
+        "高吸引低可得性",
+        "女摄影师",
+        "接吻就等于愿意",
+        "吸引完全不是酒灌出来的"
+      ],
+      "exact_formal_hits": 0
+    }
+  ],
+  "boundary": "This establishes no exact whole-transcript reuse among the 202 formal sources. It does not rule out shorter reused examples or thematic overlap."
+}

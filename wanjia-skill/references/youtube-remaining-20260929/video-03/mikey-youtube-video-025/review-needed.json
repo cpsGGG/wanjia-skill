@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-025",
+  "youtube_id": "EHKvEfaObSE",
+  "review_completed": true,
+  "items": [
+    {"review_id": "v025-r01", "severity": "blocking_for_personal_claim", "issue": "The video infers an identifiable bride's sexual arousal, dissatisfaction and marriage motives from a public wedding-day post.", "affected_evidence": ["S00001-S00066", "visual/dense/055-130-every2s/"], "disposition": "Do not present the inference as fact; keep it attributed to Mikey and exclude it from user-specific advice."},
+    {"review_id": "v025-r02", "severity": "blocking_for_privacy", "issue": "Archived frames retain public usernames, faces, wedding images and comments involving people who did not participate in the guide project.", "affected_evidence": ["visual/dense/055-130-every2s/", "visual/dense/690-735-every2s/"], "disposition": "Keep in restricted research evidence; minimize or redact before any user-facing reproduction."},
+    {"review_id": "v025-r03", "severity": "major", "issue": "The social-proof thesis is presented as a general female preference based on selected school, celebrity and wedding examples.", "affected_evidence": ["S00066-S00249"], "disposition": "Keep as a tentative social-inference model and do not universalize by gender."},
+    {"review_id": "v025-r04", "severity": "major", "issue": "Women are described as feeling-driven and genetically unable to prioritize facts.", "affected_evidence": ["S00184-S00249"], "disposition": "Keep do_not_generalize; exclude biological essentialism from advice."},
+    {"review_id": "v025-r05", "severity": "major", "issue": "The proposed 'excitement transfer' mechanism rests on a nightclub anecdote and may encourage exploiting arousal created in another context.", "affected_evidence": ["S00250-S00342"], "disposition": "Do not use as a causal technique or shortcut around direct attraction and consent."},
+    {"review_id": "v025-r06", "severity": "major", "issue": "The lover-provider binary reduces relationships to sexual access versus material support and predicts infidelity without evidence.", "affected_evidence": ["S00342-S00443"], "disposition": "Keep do_not_generalize and do not diagnose couples with this framework."},
+    {"review_id": "v025-r07", "severity": "major", "issue": "Claims that women seek superior genes elsewhere and have providers raise another man's child are unsupported and stigmatizing.", "affected_evidence": ["S00378-S00443"], "disposition": "Exclude from factual and action-guidance use unless supported by relevant population evidence and individual facts."},
+    {"review_id": "v025-r08", "severity": "major", "issue": "Mikey's condomless-sex and genetic-selection anecdote is an unverified self-report involving absent partners.", "affected_evidence": ["S00443-S00468"], "disposition": "Do not use as evidence for women's motives, Mikey's status or a general sexual strategy."},
+    {"review_id": "v025-r09", "severity": "major", "issue": "The husband's housing, bride-price, gold, sexual status and future marital risk are asserted without direct evidence.", "affected_evidence": ["S00478-S00527", "visual/dense/690-735-every2s/"], "disposition": "Keep as unverified speculation and do not repeat as fact about the couple."},
+    {"review_id": "v025-r10", "severity": "major", "issue": "The narrow condom-use statement is embedded in unsupported genetic and status claims.", "affected_evidence": ["S00443-S00478"], "disposition": "If independently retained, separate the general safer-sex point from all partner-motive and genetic-preference claims."},
+    {"review_id": "v025-r11", "severity": "minor", "issue": "ASR may corrupt the public-post wording, names and sexual slang.", "affected_evidence": ["throughout"], "disposition": "Check original audio and source post before exact quotation; current summary uses conservative paraphrase."}
+  ]
+}

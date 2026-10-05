@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-010",
+  "youtube_id": "pWKKfVHT0Ck",
+  "title": "【私教案例】富家公子哥也会被捞女折磨，如何破局？",
+  "coverage": {
+    "transcript_segments_read": 671,
+    "transcript_time_range_seconds": [0.0, 927.06],
+    "sparse_frames_reviewed": 21,
+    "dense_frames_reviewed": 80,
+    "dense_windows_seconds": [[200, 300], [410, 560], [620, 690], [770, 850]],
+    "continuous_original_audio_visual_review": false
+  },
+  "timeline": [
+    {"start": 0.0, "end": 194.42, "summary": "Mikey introduces 'value-only thinking' and an anonymized affluent student, then assigns an unverified motive and label to a woman in the case."},
+    {"start": 194.42, "end": 294.72, "summary": "Edited chats are used to argue that the student sounds condescending, performs status and sends extra messages from neediness rather than keeping the conversation relaxed."},
+    {"start": 294.72, "end": 407.92, "summary": "He defines explicit and implicit interest signals, then recommends making the woman invest time, emotion and money; the hotel-booking tactic is consent-sensitive and restricted."},
+    {"start": 407.92, "end": 621.30, "summary": "Further edited screenshots support a 'high-value paradox' and push-pull interpretation; Mikey repeatedly infers the woman's hidden motives from selected messages."},
+    {"start": 621.30, "end": 769.58, "summary": "A travel and hotel exchange is used to criticize pressure, overexplaining and conspicuous self-promotion, and to favor relaxed conversation that invites the other person to speak."},
+    {"start": 769.58, "end": 927.06, "summary": "Mikey reads videos with male friends as a test, recommends cold handling and multiple alternatives, then reports a sexual outcome and promotes coaching; neither the motive nor outcome is independently verified."}
+  ],
+  "claims": [
+    {"claim_id": "v010-c01", "speaker": "Mikey", "statement": "Money, credentials and other status signals do not automatically create affection; treating relationships as a direct exchange can lead to over-spending and over-proving.", "conditions": "General coaching interpretation, not proof that material conditions never matter.", "evidence": ["S00001-S00054@0.0-70.42", "S00431-S00454@593.78-621.30"], "use_level": "context_only"},
+    {"claim_id": "v010-c02", "speaker": "Mikey", "statement": "A relaxed, curious conversation can signal confidence better than a condescending tone or repeated status display.", "conditions": "The child/niece analogy is only an analogy and should not define an adult relationship hierarchy.", "evidence": ["S00155-S00193@213.42-267.88", "S00504-S00538@671.92-729.22"], "use_level": "context_only"},
+    {"claim_id": "v010-c03", "speaker": "Mikey", "statement": "After sharing something, avoid adding messages solely to force a response or justify yourself; leave room for the other person to participate voluntarily.", "conditions": "This is communication pacing advice, not a rule for withholding necessary clarification.", "evidence": ["S00194-S00217@271.58-294.72", "S00528-S00538@717.76-729.22"], "use_level": "context_only"},
+    {"claim_id": "v010-c04", "speaker": "Mikey", "statement": "Relationship conversations have an interpersonal flow that cannot be reduced to the commercial rule that higher objective value must win.", "conditions": "Broad conceptual claim; the video's gendered explanatory model is not independently validated.", "evidence": ["S00431-S00454@593.78-621.30"], "use_level": "context_only"},
+    {"claim_id": "v010-c05", "speaker": "Mikey", "statement": "He recommends deliberately increasing the woman's sunk costs by having her book a hotel and invest emotion, time or money.", "conditions": "Manipulative and consent-sensitive tactic; do not convert into action advice.", "evidence": ["S00250-S00284@350.68-399.28"], "use_level": "do_not_generalize"},
+    {"claim_id": "v010-c06", "speaker": "Mikey", "statement": "He interprets messages about friends and male companions as deliberate competition tests and recommends alternating coldness with interest.", "conditions": "The woman's internal motive is speculative and the selected screenshots do not establish it.", "evidence": ["S00342-S00414@481.60-559.26", "S00563-S00630@769.58-844.64"], "use_level": "hold"},
+    {"claim_id": "v010-c07", "speaker": "Mikey", "statement": "During travel planning, pressuring someone to share one hotel room is framed as insecurity; the video says separate rooms do not prevent voluntary later contact.", "conditions": "Separate rooms and ongoing, step-specific consent are required boundaries; later contact cannot be assumed or engineered.", "evidence": ["S00469-S00490@638.64-669.94"], "use_level": "hold"},
+    {"claim_id": "v010-c08", "speaker": "Mikey narrating third-party material", "statement": "The video says an anonymized wealthy student eventually had sex with the woman after following coaching.", "conditions": "Promotional, anonymized outcome claim with no independent verification; no consent details or complete record are available.", "evidence": ["S00656-S00671@869.02-927.06"], "use_level": "context_only"}
+  ],
+  "examples": [
+    {"example_id": "v010-e01", "summary": "Selected chats are used to contrast stiff, evaluative replies with a more relaxed conversational stance.", "evidence": ["S00155-S00217@213.42-294.72", "visual dense window 200-300"]},
+    {"example_id": "v010-e02", "summary": "A hotel-booking exchange illustrates both the video's investment tactic and the need to keep consent and sleeping arrangements explicit.", "evidence": ["S00250-S00284@350.68-399.28", "S00469-S00490@638.64-669.94", "visual dense window 620-690"]},
+    {"example_id": "v010-e03", "summary": "Selected messages and videos involving other men are interpreted by Mikey as a test; that motive is not established by the images themselves.", "evidence": ["S00563-S00630@769.58-844.64", "visual dense window 770-850"]}
+  ],
+  "speaker_attribution": [
+    {"speaker": "Mikey", "basis": "On-camera host and continuous narration; he self-identifies at the close."},
+    {"speaker": "student (pseudonym 老张)", "basis": "Represented through Mikey's narration and selected chat screenshots; no independently verified direct voice."},
+    {"speaker": "woman in the case", "basis": "Represented through Mikey's narration and selected, blurred chat screenshots; her motives and full message history are not independently available."},
+    {"speaker": "film/animation characters", "basis": "Illustrative editing inserts, not evidence speakers."}
+  ],
+  "visual_findings": [
+    "The video alternates among Mikey speaking, title cards, illustrative film/animation clips and many edited chat screenshots.",
+    "Dense review preserves the visible order of the selected cards, including immigration discussion, coaching chats, travel/hotel planning and videos involving male friends.",
+    "Names and avatars are blurred, but the screenshots are cropped selections rather than a complete export; some small text is unreadable and message continuity cannot be guaranteed."
+  ],
+  "permissions": {"formal_integration": false, "first_person_answering": false, "action_advice": false, "reason": "Research candidate containing edited third-party private chats, speculative motive attribution, promotional outcome claims, manipulation tactics and consent-sensitive hotel advice."},
+  "limitations": [
+    "Automatic transcript was not checked word-for-word against original audio.",
+    "Sparse screening and four targeted dense windows do not equal continuous full-video audio-visual verification.",
+    "The full chat history, original files, participant identities and claimed outcome are unavailable.",
+    "Labels about the woman and claims about her immigration motive are Mikey's narration, not independently verified facts."
+  ]
+}

@@ -1,0 +1,902 @@
+{
+  "schema_version": 1,
+  "source_id": "quark-live-051",
+  "identity_map": "identity-map.json",
+  "audit_status": "complete_with_two_micro_uncertainties",
+  "knowledge": [
+    {
+      "knowledge_id": "quark-live-051-k001",
+      "title": "不感兴趣就不是必须通过的“情关”",
+      "checked_intervals": [
+        [
+          1568,
+          1606
+        ]
+      ],
+      "evidence_sid_audit": [
+        {
+          "sid": "S00753",
+          "start": 1573.15,
+          "end": 1574.63,
+          "text": "泡妞是一件很困难的事情",
+          "speaker": "mikey",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S00754",
+          "start": 1574.63,
+          "end": 1575.61,
+          "text": "或者是一个关卡",
+          "speaker": "mikey",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S00755",
+          "start": 1575.61,
+          "end": 1577.21,
+          "text": "所以说你说这种人",
+          "speaker": "mikey",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S00756",
+          "start": 1577.21,
+          "end": 1578.23,
+          "text": "需不需要过情关",
+          "speaker": "mikey",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S00757",
+          "start": 1578.23,
+          "end": 1578.91,
+          "text": "肯定不需要",
+          "speaker": "mikey",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S00758",
+          "start": 1578.91,
+          "end": 1580.39,
+          "text": "因为他本来就没有这个关",
+          "speaker": "mikey",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S00763",
+          "start": 1586.09,
+          "end": 1587.39,
+          "text": "情关一定要过吗",
+          "speaker": "mikey",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S00764",
+          "start": 1587.39,
+          "end": 1588.29,
+          "text": "跳过情关",
+          "speaker": "mikey",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S00765",
+          "start": 1588.29,
+          "end": 1589.61,
+          "text": "去搞自己感兴趣的事",
+          "speaker": "mikey",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S00767",
+          "start": 1590.09,
+          "end": 1591.05,
+          "text": "如果这件事情",
+          "speaker": "mikey",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S00768",
+          "start": 1591.05,
+          "end": 1592.87,
+          "text": "你对他不感兴趣",
+          "speaker": "mikey",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S00769",
+          "start": 1592.87,
+          "end": 1594.11,
+          "text": "那他就不是你的关卡",
+          "speaker": "mikey",
+          "confidence": "high",
+          "role": "proposition"
+        }
+      ],
+      "proposition_owner": "mikey",
+      "mikey_stance": "proposes",
+      "mikey_stance_evidence": [
+        "S00753–S00769"
+      ],
+      "recommended_action": "retain_as_mikey",
+      "notes": "全部证据由画面右侧Mikey连续说明；左侧嘉宾主要聆听。"
+    },
+    {
+      "knowledge_id": "quark-live-051-k002",
+      "title": "通过情关后把精力转向事业和人生其他板块",
+      "checked_intervals": [
+        [
+          1411,
+          1436
+        ],
+        [
+          1442,
+          1482
+        ]
+      ],
+      "evidence_sid_audit": [
+        {
+          "sid": "S00674",
+          "start": 1418.32,
+          "end": 1419.56,
+          "text": "你只需要花",
+          "speaker": "mikey",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S00675",
+          "start": 1419.56,
+          "end": 1421.08,
+          "text": "在人生中花一到两年时间",
+          "speaker": "mikey",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S00676",
+          "start": 1421.08,
+          "end": 1422.1,
+          "text": "把这个东西通关了",
+          "speaker": "mikey",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S00677",
+          "start": 1422.1,
+          "end": 1423.4,
+          "text": "把情关给过了",
+          "speaker": "mikey",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S00678",
+          "start": 1423.4,
+          "end": 1425.48,
+          "text": "你就可以去做更伟大的事情了",
+          "speaker": "mikey",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S00694",
+          "start": 1451.2,
+          "end": 1453.82,
+          "text": "你的下一步就不应该是我怎么样",
+          "speaker": "mikey",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S00695",
+          "start": 1453.82,
+          "end": 1456.72,
+          "text": "就是再去睡什么什么什么样的女生",
+          "speaker": "mikey",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S00696",
+          "start": 1456.72,
+          "end": 1457.9,
+          "text": "你更多的应该去想的是",
+          "speaker": "mikey",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S00697",
+          "start": 1457.9,
+          "end": 1461.06,
+          "text": "我怎么样就是我在我的商业上",
+          "speaker": "mikey",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S00698",
+          "start": 1461.06,
+          "end": 1463.82,
+          "text": "或者是我在我人生中的其他板块上",
+          "speaker": "mikey",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S00699",
+          "start": 1463.82,
+          "end": 1466.32,
+          "text": "获得就是成长通关",
+          "speaker": "mikey",
+          "confidence": "high",
+          "role": "proposition"
+        }
+      ],
+      "proposition_owner": "mikey",
+      "mikey_stance": "proposes",
+      "mikey_stance_evidence": [
+        "S00674–S00678",
+        "S00694–S00699"
+      ],
+      "recommended_action": "retain_as_mikey",
+      "notes": "证据均由Mikey提出；嘉宾随后约S00701说“是这样的”，属于简短认同，后面的个人澄清不改变核心归属。"
+    },
+    {
+      "knowledge_id": "quark-live-051-k003",
+      "title": "把搭讪融入生活，而非专门上街完成配额",
+      "checked_intervals": [
+        [
+          1698,
+          1748
+        ]
+      ],
+      "evidence_sid_audit": [
+        {
+          "sid": "S00830",
+          "start": 1701.24,
+          "end": 1705.94,
+          "text": "如果交友软体就足够了",
+          "speaker": "guest_tinder_king",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S00831",
+          "start": 1705.94,
+          "end": 1707.04,
+          "text": "而不去搭讪的话",
+          "speaker": "guest_tinder_king",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S00832",
+          "start": 1707.04,
+          "end": 1709.54,
+          "text": "是不是会觉得很可惜",
+          "speaker": "guest_tinder_king",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S00833",
+          "start": 1709.54,
+          "end": 1711.72,
+          "text": "搭讪其实一开始",
+          "speaker": "guest_tinder_king",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S00834",
+          "start": 1711.72,
+          "end": 1713.62,
+          "text": "我也是有搭讪焦虑的",
+          "speaker": "guest_tinder_king",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S00836",
+          "start": 1716.3,
+          "end": 1717.82,
+          "text": "搭讪这个东西呢",
+          "speaker": "guest_tinder_king",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S00837",
+          "start": 1717.82,
+          "end": 1720.2,
+          "text": "是取决于你在生活中",
+          "speaker": "guest_tinder_king",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S00838",
+          "start": 1720.2,
+          "end": 1721.66,
+          "text": "突然遇到了一个女生",
+          "speaker": "guest_tinder_king",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S00839",
+          "start": 1721.66,
+          "end": 1723.06,
+          "text": "你觉得很不错",
+          "speaker": "guest_tinder_king",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S00840",
+          "start": 1723.06,
+          "end": 1724.06,
+          "text": "你可以去搭讪",
+          "speaker": "guest_tinder_king",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S00841",
+          "start": 1724.06,
+          "end": 1727.0,
+          "text": "但是你不能为了搭讪去上街",
+          "speaker": "guest_tinder_king",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S00842",
+          "start": 1727.0,
+          "end": 1729.12,
+          "text": "为了搭讪去上街",
+          "speaker": "guest_tinder_king",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S00843",
+          "start": 1729.12,
+          "end": 1731.38,
+          "text": "会消耗我们兄弟们很多的时间成本",
+          "speaker": "guest_tinder_king",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S00845",
+          "start": 1732.88,
+          "end": 1735.28,
+          "text": "你们要就是把它融入在生活中",
+          "speaker": "guest_tinder_king",
+          "confidence": "high",
+          "role": "proposition"
+        }
+      ],
+      "proposition_owner": "guest_tinder_king",
+      "mikey_stance": "no_clear_response_in_checked_context",
+      "mikey_stance_evidence": [],
+      "recommended_action": "exclude_from_mikey_keep_guest_reference",
+      "notes": "S00830–S00845全由画面左侧嘉宾说明；Mikey低头看手机。紧接着嘉宾继续读/答下一题，未见Mikey明确认同或反驳。"
+    },
+    {
+      "knowledge_id": "quark-live-051-k004",
+      "title": "正常直接邀约，去掉刻意吸引语气",
+      "checked_intervals": [
+        [
+          1886,
+          1936
+        ]
+      ],
+      "evidence_sid_audit": [
+        {
+          "sid": "S00912",
+          "start": 1897.04,
+          "end": 1899.44,
+          "text": "那我们普通人怎么约呢",
+          "speaker": "guest_tinder_king",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S00913",
+          "start": 1899.44,
+          "end": 1901.0,
+          "text": "其实就很简单",
+          "speaker": "guest_tinder_king",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S00914",
+          "start": 1901.0,
+          "end": 1904.88,
+          "text": "不要给那些就是所谓的那种要吸引的语气词",
+          "speaker": "guest_tinder_king",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S00915",
+          "start": 1904.88,
+          "end": 1906.96,
+          "text": "然后你给他的感觉呢是",
+          "speaker": "guest_tinder_king",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S00916",
+          "start": 1906.96,
+          "end": 1909.12,
+          "text": "我只是想跟你见一个面而已",
+          "speaker": "guest_tinder_king",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S00917",
+          "start": 1909.12,
+          "end": 1909.88,
+          "text": "就这么简单",
+          "speaker": "guest_tinder_king",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S00918",
+          "start": 1909.88,
+          "end": 1911.92,
+          "text": "没有什么小姐姐啊你什么什么什么",
+          "speaker": "guest_tinder_king",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S00919",
+          "start": 1911.92,
+          "end": 1912.96,
+          "text": "然后说一些",
+          "speaker": "guest_tinder_king",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S00920",
+          "start": 1912.96,
+          "end": 1916.88,
+          "text": "你自己感觉很很有趣的那些话术",
+          "speaker": "guest_tinder_king",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S00921",
+          "start": 1916.88,
+          "end": 1919.76,
+          "text": "你其实正常一点邀约",
+          "speaker": "guest_tinder_king",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S00922",
+          "start": 1919.76,
+          "end": 1921.88,
+          "text": "我正常邀约十个",
+          "speaker": "guest_tinder_king",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S00923",
+          "start": 1921.88,
+          "end": 1923.48,
+          "text": "七个都能出来",
+          "speaker": "guest_tinder_king",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S00924",
+          "start": 1923.48,
+          "end": 1924.86,
+          "text": "只要是有时间",
+          "speaker": "guest_tinder_king",
+          "confidence": "high",
+          "role": "proposition"
+        }
+      ],
+      "proposition_owner": "guest_tinder_king",
+      "mikey_stance": "no_clear_response_in_checked_context",
+      "mikey_stance_evidence": [],
+      "recommended_action": "exclude_from_mikey_keep_guest_reference",
+      "notes": "“正常邀约十个，七个能出来”也是嘉宾个人自述，不能写成Mikey成绩或观点。Mikey在该段主要看手机。"
+    },
+    {
+      "knowledge_id": "quark-live-051-k005",
+      "title": "多人场景避免雄竞与情绪波动",
+      "checked_intervals": [
+        [
+          2247,
+          2271
+        ],
+        [
+          2347,
+          2362
+        ]
+      ],
+      "evidence_sid_audit": [
+        {
+          "sid": "S01081",
+          "start": 2249.26,
+          "end": 2250.58,
+          "text": "雄静真的很无聊",
+          "speaker": "guest_tinder_king",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S01082",
+          "start": 2250.58,
+          "end": 2251.68,
+          "text": "千万不要雄静",
+          "speaker": "guest_tinder_king",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S01083",
+          "start": 2251.68,
+          "end": 2252.08,
+          "text": "雄静",
+          "speaker": "guest_tinder_king",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S01084",
+          "start": 2252.08,
+          "end": 2253.24,
+          "text": "雄静是",
+          "speaker": "guest_tinder_king",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S01085",
+          "start": 2253.24,
+          "end": 2255.64,
+          "text": "调吸引的唯一",
+          "speaker": "guest_tinder_king",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S01086",
+          "start": 2255.64,
+          "end": 2256.76,
+          "text": "就是最大的原因",
+          "speaker": "guest_tinder_king",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S01087",
+          "start": 2256.76,
+          "end": 2259.08,
+          "text": "就是只要场上有第二个男人",
+          "speaker": "guest_tinder_king",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S01088",
+          "start": 2259.08,
+          "end": 2260.34,
+          "text": "或者第三个男人",
+          "speaker": "guest_tinder_king",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S01142",
+          "start": 2354.64,
+          "end": 2355.36,
+          "text": "你们两个就是",
+          "speaker": "mikey",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S01143",
+          "start": 2355.36,
+          "end": 2356.68,
+          "text": "谁都得不到",
+          "speaker": "mikey",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S01144",
+          "start": 2356.68,
+          "end": 2357.58,
+          "text": "是",
+          "speaker": "mikey",
+          "confidence": "medium",
+          "role": "brief_affirmation"
+        },
+        {
+          "sid": "S01145",
+          "start": 2357.58,
+          "end": 2359.36,
+          "text": "你不能有任何的情绪波动",
+          "speaker": "mikey",
+          "confidence": "high",
+          "role": "proposition"
+        }
+      ],
+      "proposition_owner": "mixed_guest_then_mikey",
+      "mikey_stance": "agrees_and_continues",
+      "mikey_stance_evidence": [
+        "S01142–S01145"
+      ],
+      "recommended_action": "split_and_retain_mikey_narrow_claim",
+      "notes": "S01081–S01088由嘉宾提出雄竞会降低吸引；约95秒后Mikey在同一主题上说明“谁都得不到”“不能有任何情绪波动”。可保留Mikey自己的窄主张，不把嘉宾的完整因果框架全部算给Mikey。"
+    },
+    {
+      "knowledge_id": "quark-live-051-k006",
+      "title": "暂时受限也不能忘记人生目标",
+      "checked_intervals": [
+        [
+          3387,
+          3435
+        ]
+      ],
+      "evidence_sid_audit": [
+        {
+          "sid": "S01661",
+          "start": 3401.09,
+          "end": 3402.79,
+          "text": "其实你跟死了没什么区别",
+          "speaker": "mikey",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S01662",
+          "start": 3402.79,
+          "end": 3408.04,
+          "text": "只是有一个只是说",
+          "speaker": "mikey",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S01663",
+          "start": 3408.04,
+          "end": 3412.82,
+          "text": "就是韬光养晦的和不韬光养晦的一个点",
+          "speaker": "mikey",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S01664",
+          "start": 3412.82,
+          "end": 3415.82,
+          "text": "但是你永远不能忘记自己的人生目标",
+          "speaker": "mikey",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S01665",
+          "start": 3415.82,
+          "end": 3416.86,
+          "text": "这个是最重要的",
+          "speaker": "mikey",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S01666",
+          "start": 3416.86,
+          "end": 3419.1,
+          "text": "你可以说我现在有一个很伟大的梦想",
+          "speaker": "mikey",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S01667",
+          "start": 3419.1,
+          "end": 3420.62,
+          "text": "只是我现在暂时杀不开手",
+          "speaker": "mikey",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S01668",
+          "start": 3420.62,
+          "end": 3423.58,
+          "text": "但是你只要就是不忘初心",
+          "speaker": "mikey",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S01669",
+          "start": 3423.58,
+          "end": 3427.3,
+          "text": "好然后等到就是鱼翼分满的时候就去做",
+          "speaker": "mikey",
+          "confidence": "high",
+          "role": "proposition"
+        }
+      ],
+      "proposition_owner": "mikey",
+      "mikey_stance": "proposes",
+      "mikey_stance_evidence": [
+        "S01661–S01669"
+      ],
+      "recommended_action": "retain_as_mikey",
+      "notes": "全部证据由画面右侧Mikey连续说明；嘉宾在证据末尾仍主要聆听。"
+    },
+    {
+      "knowledge_id": "quark-live-051-k007",
+      "title": "约会沉默无需急着填满",
+      "checked_intervals": [
+        [
+          3688,
+          3732
+        ]
+      ],
+      "evidence_sid_audit": [
+        {
+          "sid": "S01779",
+          "start": 3691.89,
+          "end": 3705.86,
+          "text": "害怕有空白期怎么办",
+          "speaker": "mikey",
+          "confidence": "medium",
+          "role": "reads_audience_question"
+        },
+        {
+          "sid": "S01780",
+          "start": 3705.86,
+          "end": 3707.1,
+          "text": "我有一期素材",
+          "speaker": "guest_tinder_king",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S01781",
+          "start": 3707.1,
+          "end": 3710.86,
+          "text": "跟女人差不多沉默了20分钟",
+          "speaker": "guest_tinder_king",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S01782",
+          "start": 3710.86,
+          "end": 3714.08,
+          "text": "就一句话没说",
+          "speaker": "guest_tinder_king",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S01783",
+          "start": 3714.08,
+          "end": 3715.28,
+          "text": "我是那种话老",
+          "speaker": "guest_tinder_king",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S01784",
+          "start": 3715.28,
+          "end": 3716.16,
+          "text": "我没有说话",
+          "speaker": "guest_tinder_king",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S01785",
+          "start": 3716.16,
+          "end": 3719.06,
+          "text": "然后直接带回",
+          "speaker": "guest_tinder_king",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S01786",
+          "start": 3719.06,
+          "end": 3721.81,
+          "text": "不需要",
+          "speaker": "guest_tinder_king",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S01787",
+          "start": 3721.81,
+          "end": 3723.39,
+          "text": "你不要害怕沉默",
+          "speaker": "guest_tinder_king",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S01788",
+          "start": 3723.39,
+          "end": 3724.31,
+          "text": "不重要",
+          "speaker": "guest_tinder_king",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S01789",
+          "start": 3724.31,
+          "end": 3726.57,
+          "text": "沉默我他妈的",
+          "speaker": "mikey",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S01790",
+          "start": 3726.57,
+          "end": 3727.89,
+          "text": "反而是深吸引的时候",
+          "speaker": "mikey",
+          "confidence": "high",
+          "role": "proposition"
+        },
+        {
+          "sid": "S01791",
+          "start": 3727.89,
+          "end": 3729.47,
+          "text": "我约会我经常沉默的",
+          "speaker": "mikey",
+          "confidence": "high",
+          "role": "proposition"
+        }
+      ],
+      "proposition_owner": "mixed_guest_then_mikey",
+      "mikey_stance": "agrees_and_extends",
+      "mikey_stance_evidence": [
+        "S01789–S01791"
+      ],
+      "recommended_action": "split_and_retain_mikey_narrow_claim",
+      "notes": "Mikey先读问题；嘉宾讲“沉默20分钟后带回”的个人案例并说不要怕沉默；随后Mikey补充“沉默反而是深吸引的时候”“我约会经常沉默”。嘉宾案例不可改写为Mikey经历。"
+    }
+  ]
+}

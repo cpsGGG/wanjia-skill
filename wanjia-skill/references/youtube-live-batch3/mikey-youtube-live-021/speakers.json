@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0",
+  "source_id": "mikey-youtube-live-021",
+  "speakers": [
+    {
+      "id": "mikey",
+      "role": "host",
+      "status": "confirmed",
+      "identity_basis": "标题标明Mikey直播；实际查看7/7张全片联系表，00:00–01:01持续为同一男性主持固定机位，右侧为直播评论区。静帧不能逐句证明嘴型。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=gkADT8_5s14&t=120s",
+        "https://www.youtube.com/watch?v=gkADT8_5s14&t=1800s",
+        "https://www.youtube.com/watch?v=gkADT8_5s14&t=3540s"
+      ],
+      "notes": "自动稿以主持代读观众问题并连续回答为主；手机画面和评论文本未逐条OCR。"
+    },
+    {
+      "id": "viewer-question-01",
+      "role": "collective live-chat question author(s)",
+      "status": "collective_placeholder",
+      "identity_basis": "7张联系表均显示直播评论区，自动稿反复出现主持代读问题。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=gkADT8_5s14&t=300s"
+      ],
+      "notes": "多名观众集合占位；问题内容不是Mikey自己的主张。"
+    }
+  ]
+}

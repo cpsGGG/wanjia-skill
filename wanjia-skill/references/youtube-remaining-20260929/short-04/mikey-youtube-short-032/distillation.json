@@ -1,0 +1,98 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-032",
+  "youtube_id": "vT44uMVNSes",
+  "title": "思考一個問題為什麽你在變優秀 變得越來越好，但是你game的女生Lev依然沒什麽變化？",
+  "coverage": {
+    "transcript_segments_read": 89,
+    "transcript_time_range_seconds": [0.0, 169.88],
+    "semantic_media_range_seconds": [0.0, 170.225488],
+    "sampled_frames_reviewed": 57,
+    "continuous_original_audio_visual_review": false,
+    "excluded_asr_tail": null
+  },
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 36.78,
+      "summary": "The speaker describes a viewer who has improved income and appearance but believes his dating results have stagnated or worsened."
+    },
+    {
+      "start": 36.78,
+      "end": 81.24,
+      "summary": "He diagnoses the problem as avoiding women he ranks as higher-status, losing composure around them, and staying within a lower-pressure comfort zone; he asserts that results with one high-ranked woman are more useful than many lower-ranked results."
+    },
+    {
+      "start": 81.24,
+      "end": 127.48,
+      "summary": "He distinguishes external value from self-worth and proposes a feedback loop in which feeling unworthy leads to downward social selection, whose low-quality feedback then reinforces low self-worth."
+    },
+    {
+      "start": 127.48,
+      "end": 154.44,
+      "summary": "He proposes refusing downward socializing, pursuing and 'conquering' higher-ranked women, and using repeated outcomes to strengthen self-worth."
+    },
+    {
+      "start": 154.44,
+      "end": 170.225488,
+      "summary": "He says upward socializing may require breaking class barriers and techniques, then closes with a channel promotion rather than evidence of the method's effectiveness."
+    }
+  ],
+  "claims": [
+    {
+      "claim_id": "s032-c01",
+      "speaker": "Mikey",
+      "statement": "He distinguishes improved income, appearance, clothing and physique from a person's felt self-worth.",
+      "conditions": "The distinction is presented in the dating context; the clip does not provide a validated measure of either construct.",
+      "evidence": ["S00049-S00060@81.24-106.52"],
+      "use_level": "reuse_zero_weight"
+    },
+    {
+      "claim_id": "s032-c02",
+      "speaker": "Mikey",
+      "statement": "He says feeling unworthy around a person one ranks highly can reduce composure and natural self-expression and encourage avoidance.",
+      "conditions": "This is his explanation of a pattern, not a diagnosis; anxiety, preference, compatibility, discrimination, opportunity and many other causes are not assessed.",
+      "evidence": ["S00023-S00032@36.78-54.26", "S00059-S00061@102.38-110.56"],
+      "use_level": "reuse_zero_weight"
+    },
+    {
+      "claim_id": "s032-c03",
+      "speaker": "Mikey",
+      "statement": "He describes a self-reinforcing loop in which selecting only low-pressure partners yields feedback he considers low quality and further lowers self-worth.",
+      "conditions": "The loop is asserted without shown cases or outcomes and depends on a demeaning one-dimensional ranking of women.",
+      "evidence": ["S00063-S00067@111.32-125.94"],
+      "use_level": "do_not_generalize"
+    },
+    {
+      "claim_id": "s032-c04",
+      "speaker": "Mikey",
+      "statement": "He recommends rejecting women he ranks low, repeatedly pursuing women he ranks high, and using outcomes to build self-worth.",
+      "conditions": "Recorded as a high-risk speaker prescription only; it objectifies people, makes self-worth contingent on outcomes, and gives no evidence of consent, reciprocity, safety or effectiveness.",
+      "evidence": ["S00068-S00081@125.94-154.44"],
+      "use_level": "do_not_generalize"
+    }
+  ],
+  "speaker_attribution": [
+    {
+      "speaker": "Mikey",
+      "basis": "The same channel host appears alone and speaks to camera across all 57 sampled frames; no second speaker or inserted audio is visible."
+    }
+  ],
+  "visual_findings": [
+    "All 57 sampled frames show one man in a black top against the same curtain with embedded subtitles.",
+    "The video shows no women, dates, social outcomes, private messages, statistics or other evidence for the ranking and feedback-loop claims."
+  ],
+  "permissions": {
+    "formal_integration": false,
+    "first_person_allowed": false,
+    "action_advice_allowed": false,
+    "use_level": "reuse_zero_weight_with_do_not_generalize_spans",
+    "reason": "The usable external-value/self-worth and equality principles are already formal; the added ranking and conquest prescription is unsafe and unsupported."
+  },
+  "limitations": [
+    "Sparse sampled frames are not continuous audio-visual review.",
+    "Several ASR phrases are corrupt, especially S00002, S00015, S00018, S00022, S00029, S00036 and S00058.",
+    "No recipient reaction or outcome is shown.",
+    "The labels high-score, low-score, upward and downward socializing are the speaker's hierarchy, not established facts about the people discussed."
+  ]
+}

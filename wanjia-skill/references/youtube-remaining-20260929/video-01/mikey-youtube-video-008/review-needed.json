@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-008",
+  "youtube_id": "tkDjl6MSYoA",
+  "review_completed": true,
+  "items": [
+    {"review_id": "v008-r01", "severity": "blocking_for_case_fact", "issue": "The named event chronology, identities, harassment history, apology and death by suicide are high-impact third-party claims not independently verified in this task.", "affected_evidence": ["S00009-S00045", "visual 0-100s"], "disposition": "Keep event claims hold and do not present them as established facts from this source alone."},
+    {"review_id": "v008-r02", "severity": "blocking_for_privacy", "issue": "The edit displays faces, handles, dates, locations, engagement counts and allegations from multiple third-party posts and comments; some but not all account details are blurred.", "affected_evidence": ["dense frames 12-24, 36-48, 50-60, 78-112"], "disposition": "Do not copy the frames or identifiers into the formal package without a privacy, necessity and redaction decision."},
+    {"review_id": "v008-r03", "severity": "major", "issue": "The 25-40 second embedded livestream/performance material is third-party source audio/visual, but the ASR does not isolate exact speech or speaker boundaries.", "affected_evidence": ["S00015-S00018", "dense frames approximately 20-40s"], "disposition": "Do not quote or attribute exact words from the embedded clip without direct audio review."},
+    {"review_id": "v008-r04", "severity": "major", "issue": "Beauty-based envy is asserted as the cause of targeting and generalized to women as a group without evidence sufficient to exclude other causes.", "affected_evidence": ["S00045-S00110"], "disposition": "Keep do_not_generalize and attribute only as Mikey's speculation."},
+    {"review_id": "v008-r05", "severity": "major", "issue": "Claims about media incentives, platform effects and declining dialectical thought are plausible theses but are not supported by systematic evidence in the upload.", "affected_evidence": ["S00121-S00334"], "disposition": "Keep as context_only reasoning, not established social-science fact."},
+    {"review_id": "v008-r06", "severity": "major", "issue": "Formal source mikey-youtube-live-037 later replays approximately 101.89-117.49 of this essay and comments on reactions to it.", "affected_evidence": ["S00049-S00060", "mikey-youtube-live-037 segments 588-600 at 1416.65-1435.91"], "disposition": "Mark as dependent partial overlap; do not count the live replay as independent corroboration."},
+    {"review_id": "v008-r07", "severity": "minor", "issue": "ASR has names and terms with inconsistent scripts or likely errors, including 西村莉/西村里, 雌竞 and several garbled words.", "affected_evidence": ["full transcript"], "disposition": "Use source IDs and time ranges; avoid verbatim quotation without audio review."}
+  ]
+}

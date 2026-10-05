@@ -1,0 +1,150 @@
+{
+  "schema_version": "1.0",
+  "source_id": "mikey-youtube-live-002",
+  "speakers": [
+    {
+      "id": "mikey",
+      "role": "host",
+      "status": "confirmed",
+      "identity_basis": "标题明确Mikey在线答疑；S00064自称Mike，S01638称Mikey本人微信；全片固定模板右下摄像头为同一主持人，群友反复直接称呼Mikey。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=NhBTViHCwso&t=152s",
+        "https://www.youtube.com/watch?v=NhBTViHCwso&t=2940s",
+        "https://www.youtube.com/watch?v=NhBTViHCwso&t=7550s"
+      ],
+      "notes": "主持人身份可确认；未听校的短插话及逐句轮次仍可能错分。"
+    },
+    {
+      "id": "caller-01",
+      "role": "internal-group caller",
+      "status": "provisional",
+      "identity_basis": "按连续问题/案例轮次临时编号；无实名或声纹确认。",
+      "evidence_refs": [],
+      "notes": "不同编号不保证对应不同自然人。"
+    },
+    {
+      "id": "caller-02",
+      "role": "internal-group caller",
+      "status": "provisional",
+      "identity_basis": "按连续问题/案例轮次临时编号；无实名或声纹确认。",
+      "evidence_refs": [],
+      "notes": "不同编号不保证对应不同自然人。"
+    },
+    {
+      "id": "caller-03",
+      "role": "internal-group caller",
+      "status": "provisional",
+      "identity_basis": "按连续问题/案例轮次临时编号；无实名或声纹确认。",
+      "evidence_refs": [],
+      "notes": "不同编号不保证对应不同自然人。"
+    },
+    {
+      "id": "caller-04",
+      "role": "internal-group caller",
+      "status": "provisional",
+      "identity_basis": "按连续问题/案例轮次临时编号；无实名或声纹确认。",
+      "evidence_refs": [],
+      "notes": "不同编号不保证对应不同自然人。"
+    },
+    {
+      "id": "caller-05",
+      "role": "internal-group caller",
+      "status": "provisional",
+      "identity_basis": "按连续问题/案例轮次临时编号；无实名或声纹确认。",
+      "evidence_refs": [],
+      "notes": "不同编号不保证对应不同自然人。"
+    },
+    {
+      "id": "caller-06",
+      "role": "internal-group caller",
+      "status": "provisional",
+      "identity_basis": "按连续问题/案例轮次临时编号；无实名或声纹确认。",
+      "evidence_refs": [],
+      "notes": "不同编号不保证对应不同自然人。"
+    },
+    {
+      "id": "caller-07",
+      "role": "internal-group caller",
+      "status": "provisional",
+      "identity_basis": "按连续问题/案例轮次临时编号；无实名或声纹确认。",
+      "evidence_refs": [],
+      "notes": "不同编号不保证对应不同自然人。"
+    },
+    {
+      "id": "caller-08",
+      "role": "internal-group caller",
+      "status": "provisional",
+      "identity_basis": "按连续问题/案例轮次临时编号；无实名或声纹确认。",
+      "evidence_refs": [],
+      "notes": "不同编号不保证对应不同自然人。"
+    },
+    {
+      "id": "caller-09",
+      "role": "internal-group caller",
+      "status": "provisional",
+      "identity_basis": "按连续问题/案例轮次临时编号；无实名或声纹确认。",
+      "evidence_refs": [],
+      "notes": "不同编号不保证对应不同自然人。"
+    },
+    {
+      "id": "caller-10",
+      "role": "internal-group caller",
+      "status": "provisional",
+      "identity_basis": "按连续问题/案例轮次临时编号；无实名或声纹确认。",
+      "evidence_refs": [],
+      "notes": "不同编号不保证对应不同自然人。"
+    },
+    {
+      "id": "caller-11",
+      "role": "internal-group caller",
+      "status": "provisional",
+      "identity_basis": "按连续问题/案例轮次临时编号；无实名或声纹确认。",
+      "evidence_refs": [],
+      "notes": "不同编号不保证对应不同自然人。"
+    },
+    {
+      "id": "caller-12",
+      "role": "internal-group caller",
+      "status": "provisional",
+      "identity_basis": "按连续问题/案例轮次临时编号；无实名或声纹确认。",
+      "evidence_refs": [],
+      "notes": "不同编号不保证对应不同自然人。"
+    },
+    {
+      "id": "caller-13",
+      "role": "internal-group caller",
+      "status": "provisional",
+      "identity_basis": "按连续问题/案例轮次临时编号；无实名或声纹确认。",
+      "evidence_refs": [],
+      "notes": "不同编号不保证对应不同自然人。"
+    },
+    {
+      "id": "viewer-question-01",
+      "role": "YouTube viewer question author(s)",
+      "status": "collective_placeholder",
+      "identity_basis": "主持人明确切换到YouTube问题并代读。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=NhBTViHCwso&t=250s"
+      ],
+      "notes": "代表多个观众；代读问题不是Mikey观点。"
+    },
+    {
+      "id": "unknown-voice-01",
+      "role": "unknown or mixed caller voice",
+      "status": "disputed",
+      "identity_basis": "自动稿无说话人分离，问答短句和重叠处无法可靠逐句映射。",
+      "evidence_refs": [],
+      "notes": "不得按Mikey第一人称使用。"
+    },
+    {
+      "id": "unknown-voice-02",
+      "role": "unknown caller voice while host away",
+      "status": "disputed",
+      "identity_basis": "主持人离席期间多名群友互相讨论。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=NhBTViHCwso&t=2953s"
+      ],
+      "notes": "不得归为Mikey。"
+    }
+  ]
+}

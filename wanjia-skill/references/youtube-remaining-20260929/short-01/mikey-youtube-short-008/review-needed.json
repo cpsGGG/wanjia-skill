@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-008",
+  "youtube_id": "jOgZRlESuv0",
+  "review_completed": true,
+  "items": [
+    {"review_id": "s008-r01", "severity": "blocking", "category": "duplicate", "issue": "The Short is an excerpt of formal source EIcItpA_RZU.", "affected_evidence": ["whole source"], "disposition": "Reuse with weight 0."},
+    {"review_id": "s008-r02", "severity": "blocking", "category": "financial", "issue": "The story names a large asset percentage and an expensive purchase without verified finances, risk tolerance or downstream effect.", "affected_evidence": ["S00005-S00016"], "disposition": "Do not convert the anecdote into financial advice or recommend a comparable allocation."},
+    {"review_id": "s008-r03", "severity": "major", "category": "asr", "issue": "Ferrari and several closing sentences are badly recognized in the automatic transcript.", "affected_evidence": ["S00006", "S00012", "S00019-S00027"], "disposition": "Use the visible subtitles and formal long-form passage for gist; do not quote the corrupted text verbatim."}
+  ]
+}

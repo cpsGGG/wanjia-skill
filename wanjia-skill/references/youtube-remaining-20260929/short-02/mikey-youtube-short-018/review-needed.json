@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-018",
+  "youtube_id": "Tt5Hdf1YPvU",
+  "review_completed": true,
+  "items": [
+    {
+      "review_id": "s018-r01",
+      "severity": "major",
+      "category": "transcript_media_boundary",
+      "issue": "S00027-S00030 extend 2.904898 seconds beyond the audited media duration and repeat the closing phrase.",
+      "affected_evidence": ["S00027-S00030@49.40-53.06"],
+      "disposition": "Exclude these SIDs from semantic claims and any future evidence export unless the transcript timing is repaired."
+    },
+    {
+      "review_id": "s018-r02",
+      "severity": "major",
+      "category": "overgeneralization",
+      "issue": "The dating section treats women and social competition as uniform and calls dating the best investment without alternatives or conditions.",
+      "affected_evidence": ["s018-c02"],
+      "disposition": "Keep do_not_generalize; do not convert it into universal life or financial advice."
+    },
+    {
+      "review_id": "s018-r03",
+      "severity": "major",
+      "category": "source_reuse",
+      "issue": "The Short is an edited excerpt already preserved in formal source mikey-youtube-live-027.",
+      "affected_evidence": ["whole source"],
+      "disposition": "If integrated, retain zero formal weight and point to the formal livestream evidence."
+    }
+  ]
+}

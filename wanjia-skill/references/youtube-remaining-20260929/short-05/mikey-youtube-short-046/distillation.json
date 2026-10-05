@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-046",
+  "youtube_id": "zHgwYvflSrs",
+  "title": "这世上到处都是害怕迈出第一步的孤独之人 #dating #pua",
+  "coverage": {
+    "transcript_segments_read": 12,
+    "transcript_time_range_seconds": [0.0, 35.72],
+    "semantic_media_range_seconds": [0.0, 35.92127],
+    "sampled_frames_reviewed": 12,
+    "dense_frames_reviewed": 10,
+    "dense_windows_reviewed_seconds": [[22.0, 27.0]],
+    "continuous_original_audio_visual_review": false,
+    "excluded_asr_tail": null
+  },
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 13.94,
+      "summary": "Mikey asks why people tolerate long-term loneliness, disappointment or inferiority rather than the brief anxiety of approaching someone or challenging the unknown."
+    },
+    {
+      "start": 13.94,
+      "end": 28.1,
+      "summary": "He answers that anxiety and fear are brief but intense, while disappointment and inferiority can be prolonged but milder. Dense subtitles confirm the missing predicate in ASR: the brain rejects intense feelings and more readily accepts mild ones."
+    },
+    {
+      "start": 28.1,
+      "end": 35.92127,
+      "summary": "He concludes that people therefore tend to choose the long but mild emotional cost over short, intense fear."
+    }
+  ],
+  "claims": [
+    {
+      "claim_id": "s046-c01",
+      "speaker": "Mikey (visual/channel continuity)",
+      "statement": "He explains avoidance as a choice between brief intense anxiety and a longer but milder state of loneliness, disappointment or inferiority.",
+      "conditions": "A motivational generalization, not a demonstrated psychological law; people may avoid approaches for many other reasons, including preference, safety, context and respect for others.",
+      "evidence": ["S00001-S00012@0.00-35.72", "visual/dense-22_0-contact.jpg@22.0-26.5"],
+      "use_level": "hold"
+    },
+    {
+      "claim_id": "s046-c02",
+      "speaker": "Mikey (visual/channel continuity)",
+      "statement": "The implied method is to accept a short period of anxiety and take an appropriate first step instead of waiting for fear to disappear.",
+      "conditions": "Only for safe, lawful, low-pressure actions that do not intrude on another person; rejection or discomfort requires stopping.",
+      "evidence": ["S00001-S00004@0.00-13.94", "S00011-S00012@28.10-35.72"],
+      "use_level": "reuse_zero_weight"
+    }
+  ],
+  "speaker_attribution": [
+    {
+      "speaker": "Mikey (visual/channel continuity)",
+      "basis": "One on-camera narrator speaks throughout; face and presentation match the channel's formal Mikey talking-head sources. No second speaker appears."
+    }
+  ],
+  "visual_findings": [
+    "All 12 sampled frames show the same man speaking directly to camera at an outdoor night venue with editorial subtitles.",
+    "No approach, recipient, behavioral test or outcome is shown; the visual track does not validate the causal psychology claim.",
+    "Ten 2-fps frames from 22.0-27.0 seconds confirm the subtitle '人们的大脑是排斥猛烈的感受', resolving the ASR omission in S00009."
+  ],
+  "permissions": {
+    "formal_integration": false,
+    "first_person_allowed": false,
+    "action_advice_allowed": false,
+    "use_level": "reuse_zero_weight_hold",
+    "reason": "The usable first-step method is already represented, while the universal brain explanation is unsupported and overgeneralized."
+  },
+  "limitations": [
+    "The automatic transcript was not checked word-for-word against original audio; one omitted word was resolved from embedded subtitles only.",
+    "Sparse and targeted dense frames are not continuous audio-visual review.",
+    "The video supplies no research, comparison group or observed behavior supporting its brain-level explanation.",
+    "Fear, avoidance, loneliness and self-evaluation are compressed into one binary choice and should not be used to diagnose an individual."
+  ]
+}

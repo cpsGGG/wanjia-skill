@@ -1,0 +1,41 @@
+{
+  "schema_version": "community-safe-distillation-reference-1.0",
+  "source_id": "mikey-youtube-community-207",
+  "post_id": "UgkxSZn_ooWnYNcwljrc8UuuXRqcC8kavy9r",
+  "public_body_sha256": "bf3f04d4bb42af6eccf55e10a7ad568b65ebb4b22a2caea4e8418ac6b838655a",
+  "safe_summary": "正文用包容变为过度防御、反内耗变为强迫不多想两例反对过度自我改造。附图是店面照片，没有学员案例或心理效果证据。",
+  "source_body_scope": "正文明确支持不要因标签推翻自己、不要把调整推到反面极端；“困扰不来自本身自我”是经验性宽泛概括，不能成为所有心理困扰的病因判断。",
+  "summary_origin": "author_distillation_with_editorial_boundaries_not_mikey_quote",
+  "image_summaries": [
+    {
+      "image_index": 1,
+      "sha256": "a38be92568ab66b8362a8d453f91bf8aa7a70172fe9886bd3b59b118ec3667dd",
+      "safe_summary": "店面建筑照片，没有聊天、学员案例或心理变化证据。",
+      "summary_origin": "author_visual_analysis_not_mikey_quote",
+      "independent_review_status": "pending",
+      "runtime_answer_allowed": false,
+      "evidence_weight": 0
+    }
+  ],
+  "new_knowledge_count": 0,
+  "research_distillation_path": "research/youtube-channel-refresh-20261004/distillation/mikey-youtube-community-207.json",
+  "research_distillation_sha256": "df6dd48e1a22b51f178c3f7fb8fc198c79cd3c8dc76d6a4adc2c8d7cb7b3538b",
+  "independent_review_status": "pending",
+  "permissions": {
+    "first_person_allowed": false,
+    "persona_first_person_allowed": false,
+    "action_advice_allowed": false,
+    "runtime_answer_allowed": false,
+    "evidence_weight": 0
+  },
+  "privacy_policy": {
+    "raw_screenshot_text_packaged": false,
+    "raw_images_packaged": false,
+    "third_party_identifiers_packaged": false,
+    "private_customer_ui_packaged": false
+  },
+  "limits": [
+    "原图只在研究归档保留；摘要来自逐帖分析，独立视觉审查未完成前不据此确认第三方身份、聊天上下文、截图真实性、授权或训练效果。",
+    "公开正文保留作者发帖文字；转述和营销效果不视为事实验证或行动许可。"
+  ]
+}

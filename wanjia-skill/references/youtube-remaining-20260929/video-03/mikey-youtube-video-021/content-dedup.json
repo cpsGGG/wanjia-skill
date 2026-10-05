@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-021",
+  "youtube_id": "UQzx50-eHZE",
+  "decision": "new",
+  "compared_sources": [
+    {"scope": "formal_mikey_guide", "source_count": 202, "comparison": "youtube_id_url_normalized_fulltext_and_12_character_shingles"},
+    {"source_id": "mikey-youtube-live-026-K009", "comparison": "long-term direction independent of immediate external feedback"},
+    {"source_id": "mikey-youtube-live-030-K006", "comparison": "resources and external response distinguished from self-worth"},
+    {"source_id": "quark-live-029-k018", "comparison": "failure reframed as feedback"},
+    {"source_id": "mikey-youtube-live-007-K007", "comparison": "situational and underlying confidence"},
+    {"source_id": "mikey-youtube-live-013-K010", "comparison": "confidence built through action and feedback; substantive tension with this upload"},
+    {"scope": "existing_research_and_video_03_batch", "comparison": "normalized fulltext, theme, wording and argument-sequence screen"}
+  ],
+  "evidence": [
+    {"type": "identity", "result": "no_exact_youtube_id_or_url_overlap", "basis": "video-03/identity-precheck.json and current formal source-index"},
+    {"type": "normalized_fulltext", "target_normalized_chars": 2869, "target_sha256": "e5b9812824cbcb10a02b867c28cc79288847011f4ed1281c2ad6a504b40f3857", "formal_transcripts_checked": 202, "exact_matches": []},
+    {"type": "near_duplicate_screen", "method": "12_character_shingle_containment", "highest_formal_containment": 0.0003498950314905528, "highest_formal_source_id": "mikey-practice-012", "result": "no transcript-scale verbatim reuse detected"},
+    {"type": "existing_research_screen", "highest_containment": 0.0, "result": "no research-package transcript-scale reuse detected"}
+  ],
+  "boundary": "Several formal claims discuss confidence, external feedback and recovery after failure, but this upload supplies a distinct seven-part argument and examples. It is a new research source; thematic agreement is not duplication and thematic conflict is not evidence that either claim is correct."
+}

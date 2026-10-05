@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-013",
+  "youtube_id": "NDYxxv5Tjoo",
+  "title": "底层男性扎堆付费学撩妹，谁的问题？",
+  "coverage": {
+    "transcript_segments_read": 504,
+    "transcript_time_range_seconds": [0.0, 651.37],
+    "sparse_frames_reviewed": 14,
+    "dense_frames_reviewed": 0,
+    "dense_windows_required_seconds": [[0, 70], [410, 480]],
+    "continuous_original_audio_visual_review": false
+  },
+  "timeline": [
+    {"start": 0.0, "end": 77.64, "summary": "Mikey describes an unspecified undercover report on a men's dating/self-improvement company whose comment section allegedly became a reverse advertisement."},
+    {"start": 82.91, "end": 141.51, "summary": "He argues that low tolerance for clumsy courtship makes sincerity risky and standardized tactics attractive as self-protection."},
+    {"start": 141.51, "end": 274.19, "summary": "A four-stage narrative moves from rising romantic standards and emotional-value demands to screenshot exposure, ridicule of over-giving men and a turn toward commercial scripts."},
+    {"start": 275.15, "end": 407.63, "summary": "He frames polished dating behavior as a learned professional skill and says people cannot demand polished results while condemning the learning process."},
+    {"start": 412.00, "end": 480.40, "summary": "He claims media incentives and asymmetric audience power produce one-sided moral judgment and deny ordinary men room to explain themselves."},
+    {"start": 480.40, "end": 583.73, "summary": "He interprets the popularity of training as a symptom of intimacy becoming a market of value matching, emotional labor, optimization and negotiation."},
+    {"start": 583.73, "end": 651.37, "summary": "He concludes that shaming students or reporting one company will not solve the issue and advocates a social norm that allows imperfect, awkward people to learn within relationships."}
+  ],
+  "claims": [
+    {"claim_id": "v013-c01", "speaker": "Mikey", "statement": "He says an undercover news report intended to expose a men's dating-training business instead generated many requests to enroll.", "conditions": "The outlet, article, company, date and comment dataset are not identified in the transcript and must be externally verified.", "evidence": ["S00003-S00030@4.12-44.70"], "use_level": "hold", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v013-c02", "speaker": "Mikey", "statement": "When ordinary awkwardness is punished harshly, some men may prefer scripts and coaching because they perceive trial and error as socially risky.", "conditions": "A causal interpretation, not evidence that all criticism is unfair or that all training is safe or effective.", "evidence": ["S00060-S00097@96.35-145.83", "S00164-S00198@230.11-274.19"], "use_level": "context_only", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v013-c03", "speaker": "Mikey", "statement": "He argues that polished conversation, planning, emotional attunement, clothing and photography are learned skills rather than traits everyone naturally possesses.", "conditions": "Reasonable skill-learning frame; it does not justify deception, boundary violations or manipulative tactics.", "evidence": ["S00209-S00244@286.93-328.91"], "use_level": "context_only", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v013-c04", "speaker": "Mikey", "statement": "People who demand highly polished relationship performance should not automatically condemn someone merely for learning the relevant skills.", "conditions": "Evaluate what is taught and how it is used; learning itself and the ethics of particular methods are separate questions.", "evidence": ["S00245-S00305@328.91-407.63"], "use_level": "context_only", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v013-c05", "speaker": "Mikey", "statement": "He claims social-media algorithms, consumer power and content marketers systematically amplify one gender's demands and deny ordinary men a fair defense.", "conditions": "Broad platform, economic and gender-causation claim with no dataset or comparative analysis supplied.", "evidence": ["S00306-S00369@407.63-479.62"], "use_level": "hold", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v013-c06", "speaker": "Mikey", "statement": "He describes modern intimacy as increasingly commercialized through concepts such as value matching, emotional labor, sunk cost and optimization.", "conditions": "A cultural critique; the transcript does not establish prevalence or direction of causation.", "evidence": ["S00370-S00430@479.62-546.56"], "use_level": "context_only", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v013-c07", "speaker": "Mikey", "statement": "If people want sincerity, they should leave room for imperfect expression, mistakes and gradual growth rather than publicly humiliating every awkward attempt.", "conditions": "Tolerance for awkwardness never overrides consent, safety, rejection or accountability for harassment.", "evidence": ["S00455-S00502@579.84-649.29"], "use_level": "context_only", "knowledge_status": "hold_pending_independent_review"}
+  ],
+  "examples": [
+    {"example_id": "v013-e01", "summary": "The restaurant analogy compares dating skills learned from coaching with professional cooking learned at school; it illustrates the learning argument but does not validate any specific course.", "evidence": ["S00245-S00276@328.91-375.03"]},
+    {"example_id": "v013-e02", "summary": "The examination analogy argues that harsh evaluation systems predict test-preparation businesses; it is a rhetorical model rather than causal proof about the dating market.", "evidence": ["S00431-S00454@546.56-579.84"]}
+  ],
+  "speaker_attribution": [
+    {"speaker": "Mikey", "basis": "Single narrator with closing self-identification as Mike; no live guest is established."},
+    {"speaker": "journalist, company, commenters and social-media users", "basis": "Represented through narration and edited third-party images; their full original statements are not supplied."},
+    {"speaker": "film/animation/news subjects", "basis": "Illustrative inserts, not evidence speakers for Mikey's causal claims."}
+  ],
+  "visual_findings": [
+    "All 14 sampled frames were reviewed. The edit uses a woman speaking on a program, collages of social posts/chats, film and animation clips, a blurred interview, news-style footage and headline cards.",
+    "The collages in sampled frames 000002, 000004 and 000011 contain multiple small third-party posts whose exact authors, chronology and full wording are unreadable at sparse resolution.",
+    "Targeted dense review at 0-70 and 410-480 seconds is required before citing the alleged report, comment reaction, or platform/media examples as visual evidence."
+  ],
+  "permissions": {
+    "formal_integration": false,
+    "first_person_allowed": false,
+    "action_advice_allowed": false,
+    "knowledge_status": "hold_pending_independent_review",
+    "reason": "New research candidate with unidentified external events, edited third-party posts and broad social/gender causation claims."
+  },
+  "limitations": [
+    "Automatic transcript was not checked word-for-word against original audio.",
+    "Fourteen sparse frames do not equal continuous full-video audio-visual verification.",
+    "The underlying news report, company, comments, platform actions and prevalence claims were not independently verified.",
+    "The video sometimes collapses awkward pursuit, criticism and harassment labeling; these categories must remain distinct in later use."
+  ]
+}

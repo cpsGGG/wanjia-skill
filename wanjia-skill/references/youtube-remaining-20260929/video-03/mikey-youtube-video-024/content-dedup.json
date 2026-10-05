@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-024",
+  "youtube_id": "WtkiYS2CJ6Q",
+  "decision": "new",
+  "compared_sources": [
+    {"scope": "formal_mikey_guide", "source_count": 202, "comparison": "youtube_id_url_normalized_fulltext_and_12_character_shingles"},
+    {"source_id": "quark-live-051", "comparison": "same Tinder King guest and dating-industry ecosystem, distinct episode and claims"},
+    {"source_id": "mikey-youtube-live-038", "comparison": "highest formal shingle score but no shared case sequence or transcript-scale excerpt"},
+    {"source_id": "mikey-practice-024", "comparison": "related interaction-practice vocabulary"},
+    {"scope": "existing_research_and_video_03_batch", "comparison": "normalized fulltext, guest, named-party, embedded-video and argument-sequence screen"}
+  ],
+  "evidence": [
+    {"type": "identity", "result": "no_exact_youtube_id_or_url_overlap", "basis": "video-03/identity-precheck.json and current formal source-index"},
+    {"type": "normalized_fulltext", "target_normalized_chars": 7443, "target_sha256": "f14fc753e55eccd7e18f68c9bbaa735f86de8227daab2dc8b6849b9926a7cd61", "formal_transcripts_checked": 202, "exact_matches": []},
+    {"type": "near_duplicate_screen", "method": "12_character_shingle_containment", "highest_formal_containment": 0.004737412019491067, "highest_formal_source_id": "mikey-youtube-live-038", "result": "small channel-vocabulary overlap only; no transcript-scale reuse detected"},
+    {"type": "existing_research_screen", "highest_containment": 0.0018949648077964266, "highest_research_source_id": "mikey-youtube-video-022", "result": "shared dating-coaching vocabulary, not a duplicated script or case"}
+  ],
+  "boundary": "The guest appears in quark-live-051 and related formal material, but this upload is a separate reaction episode built around a third-party accusation video, named teams, private material and later sexual/medical discussion. Count as a new restricted research source; repeated or mutually agreeable allegations are not corroboration."
+}

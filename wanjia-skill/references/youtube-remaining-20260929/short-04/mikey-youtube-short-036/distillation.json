@@ -1,0 +1,89 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-036",
+  "youtube_id": "STDni-HM_bo",
+  "title": "真实搭讪 女生不停下怎么办？丨爱情丨约会丨搭讪丨情感丨恋爱丨dating in china#shorts",
+  "coverage": {
+    "transcript_segments_read": 13,
+    "transcript_time_range_seconds": [0.0, 30.18],
+    "semantic_media_range_seconds": [0.0, 30.232381],
+    "sampled_frames_reviewed": 10,
+    "continuous_original_audio_visual_review": false,
+    "excluded_asr_tail": null
+  },
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 7.22,
+      "summary": "A first-person camera follows a walking woman in an indoor corridor and calls out several times before she turns toward the speaker."
+    },
+    {
+      "start": 7.22,
+      "end": 15.0,
+      "summary": "The male camera operator says he finds her attractive and came over to ask for WeChat."
+    },
+    {
+      "start": 15.0,
+      "end": 20.36,
+      "summary": "He says he called several times without being heard; she replies that she was wearing earphones and could not hear."
+    },
+    {
+      "start": 20.36,
+      "end": 30.232381,
+      "summary": "After a brief phone-handling interval, he says he thinks she is cool; she thanks him and both say goodbye."
+    }
+  ],
+  "claims": [
+    {
+      "claim_id": "s036-c01",
+      "speaker": "male camera operator (editorially presented as Mikey)",
+      "statement": "He directly states that he finds the participant attractive and asks to add her on WeChat.",
+      "conditions": "This records one edited encounter, not a general recommendation or evidence that the approach was welcome before she responded.",
+      "evidence": ["S00001-S00005@0.00-14.25"],
+      "use_level": "hold"
+    },
+    {
+      "claim_id": "s036-c02",
+      "speaker": "visible participant",
+      "statement": "She says she did not hear the earlier calls because she was wearing earphones.",
+      "conditions": "This explanation applies only to this participant's shown reply and does not justify assuming that another non-responsive person has not heard.",
+      "evidence": ["S00006-S00008@16.46-20.36"],
+      "use_level": "context_only"
+    },
+    {
+      "claim_id": "s036-c03",
+      "speaker": "male camera operator and visible participant",
+      "statement": "The encounter ends with a compliment, thanks and mutual goodbye after a brief phone interaction.",
+      "conditions": "Sparse frames and ASR do not confirm that WeChat was successfully added, what was displayed on the phone or whether any later contact occurred.",
+      "evidence": ["S00009-S00013@22.93-30.18"],
+      "use_level": "context_only"
+    }
+  ],
+  "speaker_attribution": [
+    {
+      "speaker": "male camera operator (editorially presented as Mikey)",
+      "basis": "The Short is channel-branded and shot from first person, but the operator's face is never visible and no parent source was found."
+    },
+    {
+      "speaker": "visible participant",
+      "basis": "The blonde woman is visible when the earphone explanation, thanks and goodbye occur; exact turn boundaries remain based on automatic ASR and subtitles."
+    }
+  ],
+  "visual_findings": [
+    "All 10 sampled frames show one blonde participant in an indoor corridor; the camera operator remains off-screen and holds a drink.",
+    "The participant turns, faces the camera and handles a phone; later frames are deliberately blurred, so account details and the exact operation are not readable.",
+    "The sampled frames do not establish contact exchange success, later communication, attraction or any outcome beyond the shown goodbye."
+  ],
+  "permissions": {
+    "formal_integration": false,
+    "first_person_allowed": false,
+    "action_advice_allowed": false,
+    "use_level": "hold",
+    "reason": "This is an edited identifiable street encounter with uncertain authorization, an unverified camera-operator identity and no confirmed contact or later outcome."
+  },
+  "limitations": [
+    "There are silent or untranscribed gaps at the opening and during phone handling.",
+    "Sparse three-second frames cannot show the full approach path, distance, interruption, phone operation or continuous response.",
+    "The parent recording and participant authorization are unknown."
+  ]
+}

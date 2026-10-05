@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-018",
+  "youtube_id": "YGHYMz3gpqA",
+  "decision": "new",
+  "compared_sources": [
+    {"scope": "formal_mikey_guide", "source_count": 202, "comparison": "youtube_id_url_normalized_fulltext_and_8_12_16_character_shingles"},
+    {"source_id": "mikey-gameshengjing-010", "comparison": "highest formal transcript shingle overlap, still only 0.219% at 12 characters"},
+    {"source_id": "quark-live-044", "comparison": "related The Game/PUA-history references only"},
+    {"source_id": "mikey-youtube-video-017", "comparison": "adjacent series installment about Mystery; not a formal source and not the same narrative"}
+  ],
+  "evidence": [
+    {"type": "identity", "result": "no_exact_youtube_id_or_url_overlap", "basis": "current 202-source formal source-index"},
+    {"type": "normalized_fulltext", "target_normalized_chars": 2746, "target_sha256": "8922158dbbb96c6f5c593f1c7cad3138369606dfac3a45f5846aaa8c39c6e8a6", "formal_transcripts_checked": 202, "exact_matches": []},
+    {"type": "near_duplicate_screen", "method": "rolling_character_shingle_target_containment", "highest_formal_match": "mikey-gameshengjing-010", "containment": {"8_chars": 0.0036509675, "12_chars": 0.0021937843, "16_chars": 0.0007323325}, "result": "no transcript-scale reuse detected"},
+    {"type": "visual_scope", "result": "distinct_documentary_edit", "basis": "All 12 sampled frames were opened. The sequence combines Mikey or third-party talking heads, archival street and interview footage, document/web imagery, books and subtitles; it is not visually the same item as any identified formal source."}
+  ],
+  "boundary": "Treat as a new research source only after independent review. New-source status does not verify the narration's history, psychology, medical, quotation, commercial or efficacy claims."
+}

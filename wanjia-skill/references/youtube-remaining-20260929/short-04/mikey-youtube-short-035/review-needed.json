@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-035",
+  "youtube_id": "yu4M9Pjy79k",
+  "review_completed": true,
+  "items": [
+    {
+      "review_id": "s035-r01",
+      "severity": "blocking",
+      "category": "consent_escalation",
+      "issue": "The clip treats acceptance of earlier touch, including waist contact, as evidence for escalating toward a private home.",
+      "affected_evidence": ["S00009-S00017"],
+      "disposition": "Do not expose as an escalation script. Require clear, separate and revocable consent for each touch, destination and intimate act."
+    },
+    {
+      "review_id": "s035-r02",
+      "severity": "blocking",
+      "category": "deceptive_pretext",
+      "issue": "PS5, games or cartoons are framed as reasons for going home in a context that implies a sexual closing goal.",
+      "affected_evidence": ["S00013-S00023"],
+      "disposition": "Do not use a benign activity to conceal intent or reduce informed choice; any invitation must be truthful and easy to decline."
+    },
+    {
+      "review_id": "s035-r03",
+      "severity": "major",
+      "category": "unsupported_causality",
+      "issue": "Acceptance is attributed to successful attraction, while refusal or asking why is attributed to failed attraction.",
+      "affected_evidence": ["S00024-S00032"],
+      "disposition": "Keep only as the speaker's claim; do not infer another person's motives or treat refusal as a problem to overcome."
+    },
+    {
+      "review_id": "s035-r04",
+      "severity": "major",
+      "category": "asr_terminology",
+      "issue": "The automatic transcript contains likely errors including 浮层性测试 and several game/cartoon names.",
+      "affected_evidence": ["S00002-S00004", "S00009-S00012", "S00018-S00021"],
+      "disposition": "Treat the wording as unverified and use paraphrase rather than quotation until original audio is checked."
+    },
+    {
+      "review_id": "s035-r05",
+      "severity": "major",
+      "category": "source_parent",
+      "issue": "No parent long-form recording was located, and the clip ends mid-sentence.",
+      "affected_evidence": ["whole source"],
+      "disposition": "Keep as zero-weight semantic reuse; re-run parent-level dedup and context review if the parent recording appears."
+    }
+  ]
+}

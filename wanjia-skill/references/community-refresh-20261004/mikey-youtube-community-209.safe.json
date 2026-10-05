@@ -1,0 +1,104 @@
+{
+  "schema_version": "community-safe-distillation-reference-1.0",
+  "source_id": "mikey-youtube-community-209",
+  "post_id": "Ugkx5qR8O7FI6qP-d83lBR2S7KD0xUqgLhp6",
+  "public_body_sha256": "dbf2c7b245bef1ed1190e03dcf39ac4a614deacca104ed742164ce90fb5d7e04",
+  "safe_summary": "正文是线下课程与未来场次宣传；8图包含标注前后的造型照、景观和两张聊天反馈。互动百分比与平均值均未独立核实，不能推出课程、颜值或约会效果。",
+  "source_body_scope": "正文证明作者宣传欧洲线下课程与下一场土耳其活动，并声称软件反馈变化；宣传不能作为效果实证，未给训练内容/步骤/样本/时间窗/对照。",
+  "summary_origin": "author_distillation_with_editorial_boundaries_not_mikey_quote",
+  "image_summaries": [
+    {
+      "image_index": 1,
+      "sha256": "ebf1cc519e115010b71603da687f1417bd2a94dce361fd2bd4e3cfb2f24c1c75",
+      "safe_summary": "带前后标签的着装与拍摄环境对照，不能据此证明课程效果。",
+      "summary_origin": "author_visual_analysis_not_mikey_quote",
+      "independent_review_status": "pending",
+      "runtime_answer_allowed": false,
+      "evidence_weight": 0
+    },
+    {
+      "image_index": 2,
+      "sha256": "0b7d03aad58708e1b8e1acb4af1c3675d885b9408febae48430c14260feab0ea",
+      "safe_summary": "打码人物的服饰与景观照片，不说明吸引力结果。",
+      "summary_origin": "author_visual_analysis_not_mikey_quote",
+      "independent_review_status": "pending",
+      "runtime_answer_allowed": false,
+      "evidence_weight": 0
+    },
+    {
+      "image_index": 3,
+      "sha256": "f03aa5d665c6335ce81d6fa3bb04aa789a4e9da6732dc9d6d765d818c6538fb0",
+      "safe_summary": "夜景建筑照片，没有方法步骤或客户效果。",
+      "summary_origin": "author_visual_analysis_not_mikey_quote",
+      "independent_review_status": "pending",
+      "runtime_answer_allowed": false,
+      "evidence_weight": 0
+    },
+    {
+      "image_index": 4,
+      "sha256": "1581f95b6b16d5ecff1e3f409953de3c3ac5c3e5697f62b3a0ddeb333b1b65bb",
+      "safe_summary": "建筑环境照片，无聊天或培训过程证据。",
+      "summary_origin": "author_visual_analysis_not_mikey_quote",
+      "independent_review_status": "pending",
+      "runtime_answer_allowed": false,
+      "evidence_weight": 0
+    },
+    {
+      "image_index": 5,
+      "sha256": "3ff14ada56abc69783ec8382e2bc74a7557c2bbc0f8f28b1318c37f18dc2d328",
+      "safe_summary": "城市夜景照片，没有方法或效果证据。",
+      "summary_origin": "author_visual_analysis_not_mikey_quote",
+      "independent_review_status": "pending",
+      "runtime_answer_allowed": false,
+      "evidence_weight": 0
+    },
+    {
+      "image_index": 6,
+      "sha256": "4c356a3baa70253364feb0cf92ab6bb05faeed22b535c87331ddc4a0a1e3a773",
+      "safe_summary": "阶梯剧场与城市景观照片，没有客户结果或教学步骤。",
+      "summary_origin": "author_visual_analysis_not_mikey_quote",
+      "independent_review_status": "pending",
+      "runtime_answer_allowed": false,
+      "evidence_weight": 0
+    },
+    {
+      "image_index": 7,
+      "sha256": "3e45877b0ac3954647c5a5feb45182086303f03c0237583aef09b7ac38548941",
+      "safe_summary": "匿名角色在聊天中自报图片反馈，嵌套界面含个人账户资料；基线与效果因果未核，截图原字只留研究。",
+      "summary_origin": "author_visual_analysis_not_mikey_quote",
+      "independent_review_status": "pending",
+      "runtime_answer_allowed": false,
+      "evidence_weight": 0
+    },
+    {
+      "image_index": 8,
+      "sha256": "a4981037d6aa0fcdac84cf8ac07637b825b6e41affec191d90992cdccb0b552a",
+      "safe_summary": "匿名角色讨论照片替换并分享评论截图；第三方身份和真实关系效果未确认，个人账户与私聊原字只留研究。",
+      "summary_origin": "author_visual_analysis_not_mikey_quote",
+      "independent_review_status": "pending",
+      "runtime_answer_allowed": false,
+      "evidence_weight": 0
+    }
+  ],
+  "new_knowledge_count": 0,
+  "research_distillation_path": "research/youtube-channel-refresh-20261004/distillation/mikey-youtube-community-209.json",
+  "research_distillation_sha256": "d238163d3b4c6714575d7aacbe40414dab48a3d049f38e79a4e3ef320b2dbd5e",
+  "independent_review_status": "pending",
+  "permissions": {
+    "first_person_allowed": false,
+    "persona_first_person_allowed": false,
+    "action_advice_allowed": false,
+    "runtime_answer_allowed": false,
+    "evidence_weight": 0
+  },
+  "privacy_policy": {
+    "raw_screenshot_text_packaged": false,
+    "raw_images_packaged": false,
+    "third_party_identifiers_packaged": false,
+    "private_customer_ui_packaged": false
+  },
+  "limits": [
+    "原图只在研究归档保留；摘要来自逐帖分析，独立视觉审查未完成前不据此确认第三方身份、聊天上下文、截图真实性、授权或训练效果。",
+    "公开正文保留作者发帖文字；转述和营销效果不视为事实验证或行动许可。"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "source_id": "mikey-youtube-short-014",
+  "status": "preserved_not_indexed_timing_unreliable",
+  "time_alignment_verified": false,
+  "original_transcript": "references/untrimmed-transcripts/mikey-youtube-short-014/transcript.original.json",
+  "original_transcript_sha256": "ba066fa54679590d1d5c8fce3a41faec5cdab2147c5c1dee16ea683052d4a5b9",
+  "original_research_transcript": "D:\\startup\\玩家.skill\\research\\youtube-all-remaining-pipeline\\integration-candidate\\references\\youtube-remaining-20260929\\short-02\\mikey-youtube-short-014\\transcript.json",
+  "media_duration_seconds": 86.81941,
+  "excluded_segments": [
+    {
+      "sid": "S00047",
+      "start": 92.36,
+      "end": 93.36,
+      "text": "优优独播剧场——YoYo Television Series Exclusive"
+    }
+  ],
+  "crossing_segments_original": [
+    {
+      "sid": "S00046",
+      "start": 86.52,
+      "end": 88.6,
+      "text": "好"
+    }
+  ],
+  "notice": "All original text is retained. Out-of-duration timestamps may be ASR hallucination or misalignment; no information-value verdict or permission upgrade follows from exclusion from the normal timed index."
+}

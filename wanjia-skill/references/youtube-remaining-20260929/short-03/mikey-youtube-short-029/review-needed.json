@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-029",
+  "youtube_id": "TUx4Jo4wEBk",
+  "review_completed": true,
+  "items": [
+    {
+      "review_id": "s029-r01",
+      "severity": "major",
+      "category": "demeaning_value_hierarchy",
+      "issue": "A person begging on the street is used as proof that being oneself has no value.",
+      "affected_evidence": ["S00002-S00005"],
+      "disposition": "Do not turn economic status into a ranking of human worth."
+    },
+    {
+      "review_id": "s029-r02",
+      "severity": "blocking",
+      "category": "consent_body_contact",
+      "issue": "A hug is presented as simple reassurance once attraction exists.",
+      "affected_evidence": ["S00017-S00021"],
+      "disposition": "Attraction is not consent; require freely given present permission for contact."
+    },
+    {
+      "review_id": "s029-r03",
+      "severity": "major",
+      "category": "unsupported_causality",
+      "issue": "The clip treats attraction as the factor that converts identical contact or messages from harassment into reassurance.",
+      "affected_evidence": ["S00017-S00023"],
+      "disposition": "Do not present as a causal rule; respect expressed welcome, refusal and communication boundaries."
+    },
+    {
+      "review_id": "s029-r04",
+      "severity": "blocking",
+      "category": "death_spiritual_claim",
+      "issue": "Death is minimized through an unverified claim of immortal souls and reincarnation.",
+      "affected_evidence": ["S00024-S00035"],
+      "disposition": "Do not use in crisis, medical or self-harm guidance; preserve only as his spiritual belief."
+    },
+    {
+      "review_id": "s029-r05",
+      "severity": "major",
+      "category": "source_reuse",
+      "issue": "Both edited passages already exist in formal mikey-youtube-live-009.",
+      "affected_evidence": ["whole source"],
+      "disposition": "Keep formal weight at zero."
+    }
+  ]
+}

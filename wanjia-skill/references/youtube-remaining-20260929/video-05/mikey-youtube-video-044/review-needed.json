@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-044",
+  "youtube_id": "wVlG5mlGWbI",
+  "review_completed": true,
+  "items": [
+    {"review_id": "v044-r01", "severity": "blocking", "category": "duplicate", "issue": "Same underlying recording as formal mikey-approach-010.", "affected_evidence": ["whole source"], "disposition": "Reuse with formal weight 0."},
+    {"review_id": "v044-r02", "severity": "blocking", "category": "withdrawal_and_contact_pressure", "issue": "The first woman asks to go to the restroom, followed by a contact request and a 'green light' interpretation.", "affected_evidence": ["S00026-S00049"], "disposition": "Honor the departure immediately; do not interpret contact assent as broader consent or proof of attraction."},
+    {"review_id": "v044-r03", "severity": "major", "category": "case_boundary", "issue": "Two different interactions are separated by a hard cut around 74.88 seconds.", "affected_evidence": ["S00001-S00102", "sampled frames 000001-000003"], "disposition": "Keep cases separate; never combine first-case opening with second-case ending."},
+    {"review_id": "v044-r04", "severity": "major", "category": "speaker_and_negation", "issue": "Fear, restroom need, normal no-contact rule and assent are high-impact turns without independent diarization/audio check.", "affected_evidence": ["S00009-S00049"], "disposition": "Do not quote or assign as certain until original audio and turns are checked."},
+    {"review_id": "v044-r05", "severity": "major", "category": "privacy_and_filming", "issue": "Participants and bystanders are visibly recorded with no demonstrated publication consent.", "affected_evidence": ["sampled frames 000001-000003"], "disposition": "Do not expose identities or reuse images without privacy and consent review."},
+    {"review_id": "v044-r06", "severity": "major", "category": "outcome", "issue": "Phone handling and brief affirmatives do not verify contact saving, later replies or an outing.", "affected_evidence": ["S00045-S00049", "S00073-S00102"], "disposition": "Do not count either case as a successful contact or date."},
+    {"review_id": "v044-r07", "severity": "major", "category": "gender_and_region_generalization", "issue": "The man makes broad girlfriend/region comments around Shandong identity.", "affected_evidence": ["S00076-S00095"], "disposition": "Keep as case banter; do not generalize women or regional traits."}
+  ]
+}

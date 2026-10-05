@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-023",
+  "youtube_id": "XyrXy0MmqDo",
+  "decision": "new",
+  "compared_sources": [
+    {"scope": "formal_mikey_guide", "source_count": 202, "comparison": "youtube_id_url_normalized_fulltext_and_12_character_shingles"},
+    {"source_id": "quark-live-031-k013", "comparison": "rulers controlling lower-status men through women and sexual access"},
+    {"source_id": "quark-live-029-k005", "comparison": "sexual-resource scarcity and control narrative"},
+    {"source_id": "quark-live-029-k021", "comparison": "gender-control claim explicitly lacking evidence"},
+    {"scope": "existing_research_and_video_03_batch", "comparison": "normalized fulltext, topic, historical sequence and wording screen"}
+  ],
+  "evidence": [
+    {"type": "identity", "result": "no_exact_youtube_id_or_url_overlap", "basis": "video-03/identity-precheck.json and current formal source-index"},
+    {"type": "normalized_fulltext", "target_normalized_chars": 4016, "target_sha256": "6096360c4b671d6ed785848cd4f4e6619417c4194eaf8ce30ea543d75caeedc5", "formal_transcripts_checked": 202, "exact_matches": []},
+    {"type": "near_duplicate_screen", "method": "12_character_shingle_containment", "highest_formal_containment": 0.000749063670411985, "highest_formal_source_id": "quark-live-029", "result": "related ideological theme but no transcript-scale verbatim reuse"},
+    {"type": "existing_research_screen", "highest_containment": 0.0, "result": "no research-package transcript-scale reuse detected"}
+  ],
+  "boundary": "The upload expands a gender-and-social-control thesis also present in restricted formal knowledge, but its historical, legal and policy chain is a distinct script. Count as a new restricted source; repetition of the thesis is not independent support for its factual premises."
+}

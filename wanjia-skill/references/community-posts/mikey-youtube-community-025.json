@@ -1,0 +1,50 @@
+{
+  "schema_version": "mikey-community-post-fulltext-1.0",
+  "source_id": "mikey-youtube-community-025",
+  "post_id": "UgkxQr1OoGRQcgVZaihvgRxnwDSCZTj4bZOO",
+  "url": "https://www.youtube.com/post/UgkxQr1OoGRQcgVZaihvgRxnwDSCZTj4bZOO",
+  "published_at": "2025-08-30T06:00:00.532945-07:00",
+  "date_basis": "archived_public_observation",
+  "body": "Pick Up 我曾经的兴趣：Artist",
+  "body_kind": "verbatim_or_as_archived_in_corrected_candidate",
+  "image_refs": [
+    {
+      "image_index": 1,
+      "research_archive_path": "research/youtube-community-batch1/images/UgkxQr1OoGRQcgVZaihvgRxnwDSCZTj4bZOO/01.jpg",
+      "sha256": "e98537e56d332a6a4459cdff63f511fffa996c0a735b8439b9e464d45e3b822b",
+      "bytes": 77675,
+      "formal_asset_policy": "reference_only_do_not_copy",
+      "safe_summary": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。"
+    }
+  ],
+  "segments": [
+    {
+      "sid": "C0025-BODY",
+      "kind": "channel_body",
+      "text": "Pick Up 我曾经的兴趣：Artist",
+      "verbatim_allowed": true,
+      "source_scope": "public_channel_body_as_archived"
+    },
+    {
+      "sid": "C0025-IMG01",
+      "kind": "image_reference_metadata",
+      "text": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。",
+      "verbatim_allowed": false,
+      "image_reference": {
+        "image_index": 1,
+        "research_archive_path": "research/youtube-community-batch1/images/UgkxQr1OoGRQcgVZaihvgRxnwDSCZTj4bZOO/01.jpg",
+        "sha256": "e98537e56d332a6a4459cdff63f511fffa996c0a735b8439b9e464d45e3b822b",
+        "bytes": 77675,
+        "formal_asset_policy": "reference_only_do_not_copy",
+        "safe_summary": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。"
+      }
+    }
+  ],
+  "privacy_policy": {
+    "original_images_copied": false,
+    "raw_ocr_copied": false,
+    "private_chat_transcript_copied": false,
+    "third_party_identity_confirmed": false,
+    "publication_authorization_confirmed": false
+  }
+}

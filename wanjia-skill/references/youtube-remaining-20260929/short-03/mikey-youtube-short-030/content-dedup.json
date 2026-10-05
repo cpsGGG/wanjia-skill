@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-030",
+  "youtube_id": "Dn0SHuE89J0",
+  "decision": "reuse",
+  "formal_weight_if_integrated": 0,
+  "compared_sources": [
+    {
+      "scope": "formal_mikey_guide",
+      "source_count": 202,
+      "comparison": "id/url, normalized transcript shingles and semantic screen"
+    },
+    {
+      "scope": "remaining_video_batches_01_05_short_01_02_and_other_short_03_items",
+      "source_count": 74,
+      "comparison": "id/url, normalized transcript shingles and semantic screen"
+    },
+    {
+      "source_id": "mikey-youtube-live-037",
+      "comparison": "semantic reuse: formal K003/K006/K007 already cover opponent-evaluation, ordinary appearance and stable self-confidence; its transcript separately uses the same 'position decides thinking' phrase"
+    },
+    {
+      "source_id": "EIcItpA_RZU",
+      "comparison": "semantic reuse: formal C60/K27/K34 already preserve and limit Mikey's materialism/idealism distinction"
+    }
+  ],
+  "evidence": [
+    {
+      "type": "identity",
+      "result": "no_exact_id_or_url_match"
+    },
+    {
+      "type": "transcript",
+      "result": "no_same_passage_match",
+      "basis": "No material 8-character same-passage match was found in the screened corpus; therefore this is not represented as a parent-source excerpt."
+    },
+    {
+      "type": "semantic_overlap",
+      "result": "method_already_represented",
+      "basis": "The usable propositions about ordinary people, self-confidence, standpoint-shaped judgment and Mikey's nonstandard materialism/idealism vocabulary are already represented and bounded by formal live-037 and EIcItpA_RZU. The Short's added gender insult and self-interest formulation are restricted, not counted as a new method."
+    },
+    {
+      "type": "visual",
+      "result": "single_host_excerpt",
+      "basis": "All 36 sampled frames show one black-shirt host at a microphone with editorial subtitles; the reported woman and conversation are not shown."
+    }
+  ],
+  "boundary": "Semantic reuse only, not a verified parent excerpt. Keep at zero weight because its usable method is already represented; retain the specific hostile wording only as restricted viewpoint evidence."
+}

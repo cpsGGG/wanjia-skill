@@ -1,0 +1,339 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-live-refresh-002",
+  "youtube_id": "dpwFz0FpGzU",
+  "title": "外賣頂級外圍女 事後問我要錢 我分幣不掏 白嫖兩次",
+  "coverage": {
+    "transcript_segments_read": 4447,
+    "transcript_time_range_seconds": [0.72, 8080.25],
+    "semantic_media_range_seconds": [0.0, 8080.265578],
+    "contact_sheet_pages_reviewed": 8,
+    "sparse_frames_reviewed": 180,
+    "dense_frames_reviewed": 806,
+    "dense_contact_sheet_pages_reviewed": 33,
+    "continuous_original_audio_visual_review": false
+  },
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 665.51,
+      "summary": "Mikey opens with an on-set woman, labels the absent case woman as a materialistic woman or sex worker, and previews a story about sex, money demands and expelling her. These are one-sided allegations, not verified facts."
+    },
+    {
+      "start": 665.51,
+      "end": 1415.8,
+      "summary": "He scrolls early private messages, describes the case woman reinitiating contact, interprets emojis and reactions as attraction, and frames forgetting calls or replies as evidence of abundance and stronger positioning."
+    },
+    {
+      "start": 1415.8,
+      "end": 1932.8,
+      "summary": "He discusses her planned trip, shows a car-damage exchange, infers financial motives from her reaction to his Ferrari, and asks viewers not to expose his Mikey identity on domestic social accounts."
+    },
+    {
+      "start": 1932.8,
+      "end": 2648.77,
+      "summary": "The chat turns to calls, boundaries, clinginess and 'availability'. He generalizes about women's preferences, promotes private coaching, and defines subjectivity in strongly adversarial terms."
+    },
+    {
+      "start": 2648.77,
+      "end": 3390.0,
+      "summary": "He recounts repeatedly making the woman wait for calls, then giving romantic reassurance as availability. He argues that wealth is an attraction modifier rather than a universal deciding factor and continues arranging her trip."
+    },
+    {
+      "start": 3390.0,
+      "end": 4206.3,
+      "summary": "A dispute over buying a flight and entering identity details escalates into mutual insults. Mikey presents his refusal to soften, later phone call and completion of the booking as a lesson in aggression plus problem solving."
+    },
+    {
+      "start": 4206.3,
+      "end": 4692.5,
+      "summary": "He says the woman arrived, was made to wait roughly two hours, ate with him and stayed at his home. He acknowledges continuing partly to produce a teaching case despite disliking her, then narrates the lead-up to sex."
+    },
+    {
+      "start": 4692.5,
+      "end": 5040.7,
+      "summary": "He describes a kiss, her later touching and sexual initiation, intercourse, and her subsequent abdominal pain and request to visit a hospital. Consent, exact sequence and medical cause are not independently verified."
+    },
+    {
+      "start": 5040.7,
+      "end": 6210.0,
+      "summary": "From about 83:50 to 102:50 the screen shows a visually distinct vertical video of a third-party young man with burned-in subtitles while the transcript contains discussion of examination costs, reimbursement, responsibility and money. The still frames do not establish whether the clip audio was audible or which transcript lines belong to the young man, Mikey, the on-set woman or another played source; medical, legal and financial conclusions remain restricted."
+    },
+    {
+      "start": 6210.0,
+      "end": 6813.9,
+      "summary": "He says he required the woman to collect her belongings, rejected her request for an apology, expelled her and later investigated her background with friends. He admits there was no conclusive evidence while repeating sex-work allegations and promoting coaching."
+    },
+    {
+      "start": 6813.9,
+      "end": 7421.9,
+      "summary": "In Q&A he defines safety as perceived availability, says money is only a threshold compared with personality, advises telling stories without seeking approval, and describes two years of practice and reflection."
+    },
+    {
+      "start": 7421.9,
+      "end": 8080.265578,
+      "summary": "He gives risky generalizations about why sex may not occur on a first date, offers a simplistic acne-food comment, uses an imagined empty-world exercise to explain subjectivity, recommends Cast Away, promotes his services and ends the stream."
+    }
+  ],
+  "claims": [
+    {
+      "claim_id": "lr002-c01",
+      "speaker": "Mikey",
+      "attribution": "host commentary about an absent third party",
+      "statement": "He alleges that the case woman was a sex worker or habitually sought money, based on her messages, travel/lifestyle posts and consultation with friends.",
+      "conditions": "He later says no conclusive evidence was found. The woman's occupation, finances, motives and conduct are third-party allegations and must not be stated as fact.",
+      "evidence": ["S00047-S00105@156.64-255.48", "S02127-S02154@3612.20-3654.80", "S03807-S03823@6601.70-6623.50"],
+      "use_level": "do_not_generalize",
+      "knowledge_status": "hold_pending_independent_review",
+      "permission_recommendation": {"first_person_allowed": false, "action_advice_allowed": false, "reason": "Unverified and potentially defamatory allegation about sex work and financial conduct."}
+    },
+    {
+      "claim_id": "lr002-c02",
+      "speaker": "Mikey",
+      "attribution": "host interpretation of displayed private messages",
+      "statement": "He treats proactive messages, emojis, irritation after a dropped call and repeated call attempts as signs of attraction or an 'open window'.",
+      "conditions": "These cues can also reflect ordinary interest, confusion or frustration; they do not prove romantic intent, consent or willingness to travel or have sex.",
+      "evidence": ["S00363-S00435@667.01-773.85", "S00676-S00705@1263.10-1297.50", "S01519-S01563@2684.00-2755.00"],
+      "use_level": "hold",
+      "knowledge_status": "hold_pending_independent_review",
+      "permission_recommendation": {"first_person_allowed": false, "action_advice_allowed": false, "reason": "Private-message interpretation with no independent confirmation of intent or consent."}
+    },
+    {
+      "claim_id": "lr002-c03",
+      "speaker": "Mikey",
+      "attribution": "host teaching claim",
+      "statement": "He frames delayed replies, forgotten calls and making the woman wait as evidence of non-scarcity, then describes reassurance as restoring availability after withholding attention.",
+      "conditions": "Deliberate waiting, intermittent reinforcement and emotional destabilization are not safe proxies for attraction or subjectivity; scheduling should be clear and respectful.",
+      "evidence": ["S00645-S00705@1216.00-1297.50", "S01519-S01651@2684.00-2881.80", "S01737-S01825@3007.10-3132.90"],
+      "use_level": "do_not_generalize",
+      "knowledge_status": "hold_pending_independent_review",
+      "permission_recommendation": {"first_person_allowed": false, "action_advice_allowed": false, "reason": "Operationalizes manipulative delay and intermittent reinforcement."}
+    },
+    {
+      "claim_id": "lr002-c04",
+      "speaker": "Mikey",
+      "attribution": "host conceptual explanation",
+      "statement": "He argues that relationship safety follows from perceived availability: when a partner reliably shows liking and availability, insecurity tends to decrease.",
+      "conditions": "A broad relationship hypothesis, not a diagnosis or guarantee; safety also depends on trust, conduct, history and individual needs.",
+      "evidence": ["S01620-S01645@2842.70-2873.60", "S03934-S03945@6885.20-6903.30"],
+      "use_level": "context_only",
+      "knowledge_status": "hold_pending_independent_review",
+      "permission_recommendation": {"first_person_allowed": false, "action_advice_allowed": false, "reason": "Potentially useful concept embedded in an unverified and manipulative case framing."}
+    },
+    {
+      "claim_id": "lr002-c05",
+      "speaker": "Mikey",
+      "attribution": "host commentary and suggestion",
+      "statement": "He says money or a luxury car can affect some women's reactions but is not universally decisive, then suggests viewers repost his car images to test responses.",
+      "conditions": "The first part is a broad stereotype and the proposed test involves deceptive self-presentation; no outcome evidence supports it.",
+      "evidence": ["S01837-S01929@3158.00-3278.80"],
+      "use_level": "do_not_generalize",
+      "knowledge_status": "hold_pending_independent_review",
+      "permission_recommendation": {"first_person_allowed": false, "action_advice_allowed": false, "reason": "Includes deceptive identity/status representation and gendered financial generalization."}
+    },
+    {
+      "claim_id": "lr002-c06",
+      "speaker": "Mikey",
+      "attribution": "host account of a private travel-booking dispute",
+      "statement": "He says a disagreement about prepaying a flight and supplying identity information escalated into mutual insults, after which a phone call resolved the booking.",
+      "conditions": "The private chat and call are one-sided, contain sensitive identity and financial details, and do not validate insults, coercion or forced disclosure.",
+      "evidence": ["S02016-S02175@3469.80-3681.10", "S02204-S02480@3727.20-4183.50"],
+      "use_level": "do_not_generalize",
+      "knowledge_status": "hold_pending_independent_review",
+      "permission_recommendation": {"first_person_allowed": false, "action_advice_allowed": false, "reason": "Privacy, financial, verbal-abuse and coercion risks."}
+    },
+    {
+      "claim_id": "lr002-c07",
+      "speaker": "Mikey",
+      "attribution": "host teaching interpretation",
+      "statement": "He presents refusing to soften, insulting the woman and then returning to problem solving as 'subjectivity' and claims the conflict increased attraction.",
+      "conditions": "The claimed attraction is inferred from continued contact; abusive language and intimidation must not be treated as confidence, consent or a reproducible method.",
+      "evidence": ["S02177-S02229@3684.20-3770.30", "S02382-S02515@4052.90-4231.60"],
+      "use_level": "do_not_generalize",
+      "knowledge_status": "hold_pending_independent_review",
+      "permission_recommendation": {"first_person_allowed": false, "action_advice_allowed": false, "reason": "Explicitly models verbal abuse and intimidation as attraction technique."}
+    },
+    {
+      "claim_id": "lr002-c08",
+      "speaker": "Mikey",
+      "attribution": "host retrospective account of an absent woman's private conduct",
+      "statement": "He says the woman stayed at his home, he kissed her, she later initiated touching, and they had sex.",
+      "conditions": "No direct, ongoing consent dialogue is preserved; arrival, staying over, touching, prior flirtation or later contact cannot substitute for affirmative and revocable consent.",
+      "evidence": ["S02652-S02813@4430.10-4647.60", "S02839-S02883@4682.40-4735.40"],
+      "use_level": "do_not_generalize",
+      "knowledge_status": "hold_pending_independent_review",
+      "permission_recommendation": {"first_person_allowed": false, "action_advice_allowed": false, "reason": "Private sexual narrative with unresolved consent, attribution and privacy."}
+    },
+    {
+      "claim_id": "lr002-c09",
+      "speaker": "speaker(s) uncertain; a third-party young man is visually present in an embedded vertical video while Mikey and an on-set woman remain in the studio",
+      "attribution": "the 83:50-102:50 third-party clip is a separate visual source; its audio and the surrounding transcript are not mapped well enough to assign the dispute to Mikey or to the visible young man",
+      "statement": "After sex, the woman reportedly had abdominal pain, went to a hospital and argued with Mikey about examination costs, reimbursement, responsibility and an immediate money transfer.",
+      "conditions": "The medical cause, diagnosis, bill, exact words and speaker mapping are unverified. Pain after sex warrants appropriate medical attention, not speculation about motive.",
+      "evidence": ["S02916-S03012@4804.00-4952.90", "S03049-S03588@5017.60-6180.10", "dense visual frames @5030-6170s", "visual/visual-review.json"],
+      "use_level": "do_not_generalize",
+      "knowledge_status": "hold_pending_continuous_av_and_medical_review",
+      "permission_recommendation": {"first_person_allowed": false, "action_advice_allowed": false, "reason": "Medical, sexual, financial and uncertain-speaker content from private playback."}
+    },
+    {
+      "claim_id": "lr002-c10",
+      "speaker": "Mikey",
+      "attribution": "host answer to audience legal-risk question",
+      "statement": "He says false rape allegations would be difficult against him because chat and call records exist.",
+      "conditions": "This is not reliable legal advice. Records do not by themselves establish lawful consent, defeat an allegation or replace jurisdiction-specific counsel and evidence review.",
+      "evidence": ["S03241-S03249@5468.50-5483.10"],
+      "use_level": "do_not_generalize",
+      "knowledge_status": "hold_pending_legal_review",
+      "permission_recommendation": {"first_person_allowed": false, "action_advice_allowed": false, "reason": "Potentially dangerous legal assurance concerning sexual assault evidence."}
+    },
+    {
+      "claim_id": "lr002-c11",
+      "speaker": "Mikey",
+      "attribution": "host account of ending the encounter",
+      "statement": "He says he gave an ultimatum to collect belongings, rejected the woman's demand for an apology, gave a perfunctory apology only to make her leave and then expelled her.",
+      "conditions": "A host may end a visit, but threats, humiliation or coercion are not endorsed; safe departure, property access and immediate de-escalation matter.",
+      "evidence": ["S03603-S03638@6208.10-6260.10", "S03682-S03746@6374.80-6447.60"],
+      "use_level": "do_not_generalize",
+      "knowledge_status": "hold_pending_independent_review",
+      "permission_recommendation": {"first_person_allowed": false, "action_advice_allowed": false, "reason": "Contains ultimatum, humiliation and unsafe conflict-escalation framing."}
+    },
+    {
+      "claim_id": "lr002-c12",
+      "speaker": "Mikey",
+      "attribution": "host self-reflection about content production",
+      "statement": "He acknowledges that audience demand for cases can push him to date people he does not like, pursue events for teaching value and expose private life, which makes him uncomfortable.",
+      "conditions": "Useful only as a conflict-of-interest disclosure; it does not establish the absent participant's consent to being used as content or excuse privacy violations.",
+      "evidence": ["S02546-S02602@4276.10-4346.10"],
+      "use_level": "context_only",
+      "knowledge_status": "hold_pending_independent_review",
+      "permission_recommendation": {"first_person_allowed": false, "action_advice_allowed": false, "reason": "Relevant creator incentive disclosure tied to private sexual material and consent concerns."}
+    },
+    {
+      "claim_id": "lr002-c13",
+      "speaker": "Mikey",
+      "attribution": "host Q&A claim",
+      "statement": "He argues that economic stability can be a threshold, while personality and interpersonal appeal distinguish someone among equally wealthy competitors.",
+      "conditions": "A broad attraction model supported only by anecdotes and gender/class stereotypes; it cannot predict an individual's preferences or outcomes.",
+      "evidence": ["S03957-S04035@6932.60-7095.30"],
+      "use_level": "context_only",
+      "knowledge_status": "hold_pending_independent_review",
+      "permission_recommendation": {"first_person_allowed": false, "action_advice_allowed": false, "reason": "Potentially useful framing but unverified and mixed with class and gender generalizations."}
+    },
+    {
+      "claim_id": "lr002-c14",
+      "speaker": "Mikey",
+      "attribution": "host Q&A claim",
+      "statement": "He says personal stories lose value when told mainly to seek approval, whereas calmly describing relevant experience can be more compelling.",
+      "conditions": "Communication heuristic only; relevance, truthfulness, audience interest and privacy still matter.",
+      "evidence": ["S04037-S04051@7096.10-7130.80"],
+      "use_level": "context_only",
+      "knowledge_status": "hold_pending_independent_review",
+      "permission_recommendation": {"first_person_allowed": false, "action_advice_allowed": false, "reason": "Low-risk heuristic, but source-level privacy and attribution review is unresolved."}
+    },
+    {
+      "claim_id": "lr002-c15",
+      "speaker": "Mikey",
+      "attribution": "host Q&A exercise",
+      "statement": "He explains subjectivity through an imagined world with no other people: notice how one would think and act without social evaluation, then carry some of that state back into ordinary life.",
+      "conditions": "A reflection exercise, not permission to ignore law, consent, obligations or the effects of one's conduct on others.",
+      "evidence": ["S04270-S04318@7584.60-7671.60"],
+      "use_level": "context_only",
+      "knowledge_status": "hold_pending_independent_review",
+      "permission_recommendation": {"first_person_allowed": false, "action_advice_allowed": false, "reason": "Concept can be retained only with explicit interpersonal and legal boundaries."}
+    },
+    {
+      "claim_id": "lr002-c16",
+      "speaker": "Mikey",
+      "attribution": "host retrospective self-report",
+      "statement": "He says he treated an earlier encounter as a failure despite sex occurring, then used repeated dating, reflection and later reconnection to test whether his interpersonal appeal had changed.",
+      "conditions": "Self-reported outcome and third-party attraction are unverified; people are not experiments, and sex is not proof of skill or relationship quality.",
+      "evidence": ["S04107-S04188@7255.90-7378.80"],
+      "use_level": "hold",
+      "knowledge_status": "hold_pending_independent_review",
+      "permission_recommendation": {"first_person_allowed": false, "action_advice_allowed": false, "reason": "Sexual outcome, third-party privacy and instrumental treatment of partners."}
+    },
+    {
+      "claim_id": "lr002-c17",
+      "speaker": "Mikey",
+      "attribution": "host Q&A generalization",
+      "statement": "He says first-date sex may not happen because of insufficient attraction, moral restraint or an existing partner.",
+      "conditions": "This list is speculative and incomplete. A refusal or delay needs no diagnosis or persuasion and must be accepted immediately.",
+      "evidence": ["S04197-S04219@7396.40-7435.40"],
+      "use_level": "do_not_generalize",
+      "knowledge_status": "hold_pending_independent_review",
+      "permission_recommendation": {"first_person_allowed": false, "action_advice_allowed": false, "reason": "Risks converting refusal into a target for diagnosis, persistence or pressure."}
+    },
+    {
+      "claim_id": "lr002-c18",
+      "speaker": "Mikey",
+      "attribution": "host informal health comment",
+      "statement": "He suggests eating less spicy food for recurring acne because he personally breaks out after eating spicy food.",
+      "conditions": "A personal observation, not a diagnosis or evidence-based treatment plan; persistent acne should be assessed by a qualified clinician.",
+      "evidence": ["S04247-S04251@7490.70-7497.70"],
+      "use_level": "hold",
+      "knowledge_status": "hold_pending_medical_review",
+      "permission_recommendation": {"first_person_allowed": false, "action_advice_allowed": false, "reason": "Simplistic medical advice based on anecdote."}
+    }
+  ],
+  "examples": [
+    {
+      "example_id": "lr002-e01",
+      "summary": "A displayed private-chat chronology is used to infer attraction, financial motives, travel plans and later sexual intent; the screenshots establish that messages were displayed, not that Mikey's interpretation is correct.",
+      "evidence": ["sampled frames 000001-000112@0-4995s"]
+    },
+    {
+      "example_id": "lr002-e02",
+      "summary": "An inserted vertical video of a separate young man and later visible voice-message controls create multiple source layers whose speech cannot be safely collapsed into Mikey's narration.",
+      "evidence": ["dense visual frames @5030-6170s", "sampled frames 000139-000180@6210-8055s", "visual/visual-review.json"]
+    },
+    {
+      "example_id": "lr002-e03",
+      "summary": "The host's admission that he continued partly to create a teaching case exposes a content-production incentive that may distort decisions and increases the need for participant consent and privacy safeguards.",
+      "evidence": ["S02546-S02602@4276.10-4346.10"]
+    }
+  ],
+  "speaker_attribution": [
+    {
+      "speaker": "Mikey",
+      "basis": "Visible male host at the desk and dominant narrator; many first-person statements are attributable to him, but automatic transcript boundaries are not diarized."
+    },
+    {
+      "speaker": "on-set woman / 'Shandong woman'",
+      "basis": "Visible beside Mikey throughout most of the stream and gives occasional answers; exact short turns require continuous audiovisual mapping. She is not the absent case woman."
+    },
+    {
+      "speaker": "case woman",
+      "basis": "Appears only through private messages, images, quoted speech and possible call/voice playback. The transcript does not reliably separate her recorded voice from Mikey's repetition or commentary."
+    },
+    {
+      "speaker": "embedded young man",
+      "basis": "A separate man appears in an embedded vertical video from about 83:50 to 102:50. His burned-in subtitles and any possible clip audio must not be attributed to Mikey or the on-set woman; the 10-second stills do not establish whether the clip audio was audible."
+    },
+    {
+      "speaker": "friends, editors, audience and named public figures",
+      "basis": "Mostly described, quoted or shown indirectly. Their views, motives and conduct are not independently verified."
+    }
+  ],
+  "visual_findings": [
+    "All 8 sparse contact-sheet pages covering 180 frames at 45-second intervals and all 33 dense contact-sheet pages covering 806 frames at 10-second intervals were reviewed.",
+    "Mikey and an on-set woman are visible together at the desk, while a persistent cutout of another woman is a graphic rather than evidence of presence or speech.",
+    "The right panel repeatedly exposes a long private-message thread with avatars, timestamps, stickers, photos, voice-message controls, profile material and a map/location image; small text is not reliably readable from the contact sheets.",
+    "A separate young man appears in a long embedded vertical video with subtitles from about 83:50 to 102:50, creating a distinct attribution boundary. His visible presence must not be collapsed into Mikey's narration.",
+    "After the embedded clip, the display returns to chats and a visible 00:32 voice-message control; 10-second frames do not establish which audio was played or who spoke.",
+    "The upper-left sexualized cutout, third-party faces, chat screenshots, profile images and location/media thumbnails create substantial privacy and reuse-rights concerns."
+  ],
+  "permissions": {
+    "formal_integration": false,
+    "first_person_allowed": false,
+    "action_advice_allowed": false,
+    "knowledge_status": "hold_pending_independent_and_continuous_av_review",
+    "reason": "The source is dominated by private chats and call playback, unverified sex-work and third-party allegations, sexual-consent uncertainty, medical and legal claims, financial/identity information, abusive interaction patterns and unresolved speaker boundaries."
+  },
+  "limitations": [
+    "The 4,447-segment automatic transcript was read in full but not checked word for word against original audio.",
+    "Eight sparse contact sheets (180 frames) and 33 dense contact sheets (806 frames) were reviewed, but the 10-second sampling is not continuous audiovisual verification.",
+    "The dense frames narrow the embedded young man's visual segment to about 83:50-102:50 and improve private-message order, but voice-message speakers, clip audio, replay boundaries and exact transcript attribution still require continuous audiovisual review.",
+    "The case woman's occupation, finances, motives, medical condition, consent, hospital visit, bills and later conduct are not independently verified.",
+    "No displayed image, message, call record or continued contact establishes informed consent to recording, publication or reuse."
+  ]
+}

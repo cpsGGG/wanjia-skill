@@ -1,0 +1,133 @@
+{
+  "stable_id": "mikey-youtube-live-refresh-002",
+  "youtube_id": "dpwFz0FpGzU",
+  "review_completed": true,
+  "all_contact_sheets_reviewed": true,
+  "review_scope": "Reviewed all 8 sparse contact-sheet pages covering 180 frames sampled every 45 seconds and all 33 dense contact-sheet pages sampled every 10 seconds. This remains a still-frame visual screening, not continuous audiovisual verification.",
+  "observations": [
+    {
+      "time_seconds": 0,
+      "type": "multiple_people_on_set",
+      "description": "Mikey and a woman are both visible at the desk from the start, with a persistent cutout image of another woman at upper left and a private-chat panel at right.",
+      "risk": "high"
+    },
+    {
+      "time_seconds": 180,
+      "type": "embedded_vertical_video",
+      "description": "A vertical clip of a young man holding a phone appears at the opening and again from about 02:50 to 04:40, distinct from the two people at the desk.",
+      "risk": "high"
+    },
+    {
+      "time_seconds": 720,
+      "type": "private_chat_screenshots",
+      "description": "The phone panel scrolls through a long private conversation with alternating green/grey bubbles, images, stickers, voice-message controls, and dates/times.",
+      "risk": "high"
+    },
+    {
+      "time_seconds": 3360,
+      "type": "form_or_information_card",
+      "description": "A green information-card/form graphic and adjacent screenshots are shown inside the conversation sequence; exact text is too small for reliable reading in the contact sheet.",
+      "risk": "medium"
+    },
+    {
+      "time_seconds": 4140,
+      "type": "mixed_media_and_location",
+      "description": "The chat includes image thumbnails, a map/location screenshot, profile images, and short video previews, all apparently used to explain the case chronology.",
+      "risk": "high"
+    },
+    {
+      "time_seconds": 5030,
+      "type": "long_embedded_person_video",
+      "description": "The right panel changes from chat screenshots to a vertical video of a young man seated with a phone; ten-second frames and burned-in subtitles persist from about 83:50 to 102:50. This establishes a distinct third-party media segment, not whether its audio was audible to the stream.",
+      "risk": "high"
+    },
+    {
+      "time_seconds": 6210,
+      "type": "return_to_chat_and_voice",
+      "description": "The display returns to private chats with message bubbles and a visible 00:32 voice-message control while Mikey and the woman continue on set.",
+      "risk": "high"
+    },
+    {
+      "time_seconds": 7740,
+      "type": "person_movement_on_set",
+      "description": "Near the end, another person or the seated woman stands/moves through the right side of the studio frame; the fixed sparse view does not establish whether speaking roles changed.",
+      "risk": "medium"
+    }
+  ],
+  "dense_review_windows": [
+    {
+      "start_seconds": 0,
+      "end_seconds": 5040,
+      "reason": "Extended multi-person commentary over scrolling private chats, images, stickers, voice messages, and location/profile material; sender order and speaker mapping require denser review."
+    },
+    {
+      "start_seconds": 5030,
+      "end_seconds": 6170,
+      "reason": "Inserted vertical video of a different man with subtitles; verify clip boundaries, whether its audio is played, and how Mikey and the woman frame or respond to it."
+    },
+    {
+      "start_seconds": 6170,
+      "end_seconds": 8055,
+      "reason": "Return to private chat with voice-message material and multiple on-set people; verify exact speaker turns, playback, and case outcome claims."
+    }
+  ],
+  "attribution_limits": [
+    "Mikey and a woman are simultaneously visible, so audio diarization must be mapped to the pictured speakers before assigning claims.",
+    "The persistent upper-left female cutout appears to be a graphic, not proof that the pictured person is present or speaking.",
+    "The young man in the embedded vertical video is a separate source/person; his subtitled statements must not be attributed to Mikey or the woman at the desk.",
+    "Private-chat text and voice messages belong to several parties; sender-side, playback, quoting, and commentary boundaries require continuous audiovisual checking.",
+    "Sparse frames do not establish consent, refusal, or behavioral outcomes even when surrounding conversation may discuss them."
+  ],
+  "privacy_or_third_party_risks": [
+    "Private messages include avatars, text, timestamps, stickers, media, and possible voice recordings from third parties.",
+    "A third-party young man's face and speech appear in the embedded video sequence.",
+    "Map/location and profile-related screenshots may expose identifying or location information.",
+    "The persistent female cutout and other image thumbnails are third-party likenesses whose reuse rights and context are not established."
+  ],
+  "dense_review_completed": true,
+  "dense_contact_sheets_reviewed": 33,
+  "dense_observations": [
+    {
+      "time_seconds": 0,
+      "type": "multi_person_studio_and_embedded_media",
+      "description": "Mikey and a woman remain visible together in the studio through most of the review. A separate young man appears in embedded vertical media at the opening and again around 02:50-04:40; the upper-left woman remains a static cutout graphic.",
+      "risk": "high"
+    },
+    {
+      "time_seconds": 680,
+      "type": "private_chat_sender_changes",
+      "description": "From roughly 11:20 onward the right panel advances through alternating green and grey messages, stickers, photos, video previews, and voice or call-like entries. The side changes are visible, but they do not identify the people or prove who authored quoted material.",
+      "risk": "high"
+    },
+    {
+      "time_seconds": 3120,
+      "type": "call_duration_like_entry",
+      "description": "Around 52:00 a call-duration-like record appears inside the chat. It supports only that such a record is displayed; it does not establish who called, whether the call was played, or the substance of the call.",
+      "risk": "high"
+    },
+    {
+      "time_seconds": 4130,
+      "type": "location_and_media_sequence",
+      "description": "Around 68:50-74:50 the displayed evidence moves among media previews, a map/location-like screen, images, and short call-duration entries. These materials are third-party case evidence and may expose identity or location details.",
+      "risk": "high"
+    },
+    {
+      "time_seconds": 5030,
+      "type": "third_party_vertical_video",
+      "description": "A distinct young man occupies the embedded vertical video from about 83:50 to 102:50 and is shown holding a phone with burned-in subtitles. His visual presence is confirmed, but his audio, exact wording, and the hosts' agreement or criticism cannot be determined from still frames.",
+      "risk": "high"
+    },
+    {
+      "time_seconds": 6250,
+      "type": "voice_message_after_video",
+      "description": "After the embedded video ends, the panel returns to chat and shows a 00:32 voice-message control among other private messages. The static control does not prove playback or speaker identity.",
+      "risk": "high"
+    }
+  ],
+  "remaining_visual_limits": [
+    "The dense review samples one still every 10 seconds; it is not continuous audiovisual verification and cannot map exact speaking turns between Mikey, the woman at the desk, and embedded sources.",
+    "The embedded young man's clip boundaries are visually narrowed, but whether its audio was played, paused, muted, quoted, endorsed, or criticized remains unresolved.",
+    "Small chat text, sender identities, message omissions, and playback-state changes between samples remain unreadable or unproven.",
+    "No consent, refusal, or behavioral outcome is visually established by the contact sheets alone."
+  ]
+}

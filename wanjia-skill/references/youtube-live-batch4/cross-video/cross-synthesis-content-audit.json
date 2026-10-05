@@ -1,0 +1,309 @@
+{
+  "schema_version": "youtube-live-batch4-cross-synthesis-content-audit-1.0",
+  "status": "PASS",
+  "current_input": {
+    "path": "D:\\startup\\玩家.skill\\research\\youtube-live-batch4\\youtube-live-batch4-cross-input.json",
+    "bytes": 569809,
+    "sha256": "05c6d4935e3c31e9726ee07e27764eafa1283c2c6f8a265ea42f0ed1e663cecc"
+  },
+  "summary": {
+    "assertions": 52,
+    "passed": 52,
+    "must_fix_failed": 0,
+    "optional_failed": 0
+  },
+  "findings": [
+    {
+      "assertion": "input_schema",
+      "status": "pass",
+      "severity": "pass"
+    },
+    {
+      "assertion": "synthesis_schema",
+      "status": "pass",
+      "severity": "pass"
+    },
+    {
+      "assertion": "source_range_031_039",
+      "status": "pass",
+      "severity": "pass"
+    },
+    {
+      "assertion": "scope_exact_current_input",
+      "status": "pass",
+      "severity": "pass"
+    },
+    {
+      "assertion": "statistics_exact_current_input",
+      "status": "pass",
+      "severity": "pass"
+    },
+    {
+      "assertion": "sources_exact_current_input",
+      "status": "pass",
+      "severity": "pass"
+    },
+    {
+      "assertion": "speaker_registries_exact_current_input",
+      "status": "pass",
+      "severity": "pass"
+    },
+    {
+      "assertion": "event_catalog_exact_current_input",
+      "status": "pass",
+      "severity": "pass"
+    },
+    {
+      "assertion": "review_catalog_exact_current_input",
+      "status": "pass",
+      "severity": "pass"
+    },
+    {
+      "assertion": "source_reuse_ledger_exact_current_input",
+      "status": "pass",
+      "severity": "pass"
+    },
+    {
+      "assertion": "section_present:themes",
+      "status": "pass",
+      "severity": "pass"
+    },
+    {
+      "assertion": "section_fields:themes",
+      "status": "pass",
+      "severity": "pass"
+    },
+    {
+      "assertion": "section_present:propositions",
+      "status": "pass",
+      "severity": "pass"
+    },
+    {
+      "assertion": "section_fields:propositions",
+      "status": "pass",
+      "severity": "pass"
+    },
+    {
+      "assertion": "section_present:method_relations",
+      "status": "pass",
+      "severity": "pass"
+    },
+    {
+      "assertion": "section_fields:method_relations",
+      "status": "pass",
+      "severity": "pass"
+    },
+    {
+      "assertion": "section_present:conflicts",
+      "status": "pass",
+      "severity": "pass"
+    },
+    {
+      "assertion": "section_fields:conflicts",
+      "status": "pass",
+      "severity": "pass"
+    },
+    {
+      "assertion": "section_present:duplicate_case_ledger",
+      "status": "pass",
+      "severity": "pass"
+    },
+    {
+      "assertion": "section_fields:duplicate_case_ledger",
+      "status": "pass",
+      "severity": "pass"
+    },
+    {
+      "assertion": "section_present:speaker_attribution_boundaries",
+      "status": "pass",
+      "severity": "pass"
+    },
+    {
+      "assertion": "section_fields:speaker_attribution_boundaries",
+      "status": "pass",
+      "severity": "pass"
+    },
+    {
+      "assertion": "section_present:answer_patterns",
+      "status": "pass",
+      "severity": "pass"
+    },
+    {
+      "assertion": "section_fields:answer_patterns",
+      "status": "pass",
+      "severity": "pass"
+    },
+    {
+      "assertion": "section_present:do_not_generalize_ledger",
+      "status": "pass",
+      "severity": "pass"
+    },
+    {
+      "assertion": "section_fields:do_not_generalize_ledger",
+      "status": "pass",
+      "severity": "pass"
+    },
+    {
+      "assertion": "section_present:visual_calibration_ledger",
+      "status": "pass",
+      "severity": "pass"
+    },
+    {
+      "assertion": "section_fields:visual_calibration_ledger",
+      "status": "pass",
+      "severity": "pass"
+    },
+    {
+      "assertion": "section_present:traceability_issues",
+      "status": "pass",
+      "severity": "pass"
+    },
+    {
+      "assertion": "section_fields:traceability_issues",
+      "status": "pass",
+      "severity": "pass"
+    },
+    {
+      "assertion": "section_present:knowledge_index",
+      "status": "pass",
+      "severity": "pass"
+    },
+    {
+      "assertion": "section_fields:knowledge_index",
+      "status": "pass",
+      "severity": "pass"
+    },
+    {
+      "assertion": "knowledge_coverage_exact_102",
+      "status": "pass",
+      "severity": "pass"
+    },
+    {
+      "assertion": "knowledge_release_attribution_and_content_preserved",
+      "status": "pass",
+      "severity": "pass"
+    },
+    {
+      "assertion": "local_runtime_policy_tightened_to_94_hold_8_dng",
+      "status": "pass",
+      "severity": "pass"
+    },
+    {
+      "assertion": "runtime_use_level_counts",
+      "status": "pass",
+      "severity": "pass",
+      "details": {
+        "hold": 94,
+        "do_not_generalize": 8
+      }
+    },
+    {
+      "assertion": "no_runtime_or_first_person_authorization",
+      "status": "pass",
+      "severity": "pass"
+    },
+    {
+      "assertion": "critical_boundary_keys_exact",
+      "status": "pass",
+      "severity": "pass"
+    },
+    {
+      "assertion": "critical_boundaries_remain_unresolved_and_unauthorized",
+      "status": "pass",
+      "severity": "pass"
+    },
+    {
+      "assertion": "dng_ledger_exact_8",
+      "status": "pass",
+      "severity": "pass"
+    },
+    {
+      "assertion": "dng_not_used_as_positive_proposition_or_method",
+      "status": "pass",
+      "severity": "pass"
+    },
+    {
+      "assertion": "speaker_boundaries_match_current_031_039_registries",
+      "status": "pass",
+      "severity": "pass"
+    },
+    {
+      "assertion": "039_visible_visitor_preserved_as_unknown_unmapped",
+      "status": "pass",
+      "severity": "pass",
+      "details": {
+        "input": true,
+        "boundary": true
+      }
+    },
+    {
+      "assertion": "phone_voice_boundaries_034_036_preserved",
+      "status": "pass",
+      "severity": "pass"
+    },
+    {
+      "assertion": "038_third_party_material_layers_preserved",
+      "status": "pass",
+      "severity": "pass"
+    },
+    {
+      "assertion": "038_allegations_not_promoted_to_fact",
+      "status": "pass",
+      "severity": "pass"
+    },
+    {
+      "assertion": "consent_boundary_covers_all_nine_sources",
+      "status": "pass",
+      "severity": "pass"
+    },
+    {
+      "assertion": "privacy_boundary_contains_038_private_material",
+      "status": "pass",
+      "severity": "pass"
+    },
+    {
+      "assertion": "all_json_and_markdown_ids_exist_in_current_input",
+      "status": "pass",
+      "severity": "pass",
+      "details": {
+        "json_source_ids": [],
+        "markdown_source_ids": [],
+        "knowledge_ids": [],
+        "event_ids": [],
+        "review_ids": [],
+        "evidence_ids": [],
+        "sids": []
+      }
+    },
+    {
+      "assertion": "evidence_sid_url_objects_match_current_input",
+      "status": "pass",
+      "severity": "pass"
+    },
+    {
+      "assertion": "input_integrity_manifest_matches_current_input",
+      "status": "pass",
+      "severity": "pass",
+      "details": {
+        "expected_bytes": 569809,
+        "expected_sha256": "05c6d4935e3c31e9726ee07e27764eafa1283c2c6f8a265ea42f0ed1e663cecc",
+        "artifact": {
+          "zip_entry_index": 1,
+          "sha256": "05c6d4935e3c31e9726ee07e27764eafa1283c2c6f8a265ea42f0ed1e663cecc",
+          "name": "youtube-live-batch4-cross-input.json",
+          "bytes": 569809,
+          "role": "current_input_or_incremental_evidence"
+        }
+      }
+    },
+    {
+      "assertion": "markdown_input_manifest_matches_current_input",
+      "status": "pass",
+      "severity": "pass",
+      "details": {
+        "expected_bytes": 569809,
+        "expected_sha256": "05c6d4935e3c31e9726ee07e27764eafa1283c2c6f8a265ea42f0ed1e663cecc"
+      }
+    }
+  ]
+}

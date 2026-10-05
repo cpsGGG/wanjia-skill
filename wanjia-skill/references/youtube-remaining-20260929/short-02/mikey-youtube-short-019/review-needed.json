@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-019",
+  "youtube_id": "1mleRuRP_78",
+  "review_completed": true,
+  "items": [
+    {
+      "review_id": "s019-r01",
+      "severity": "major",
+      "category": "absolute_and_gender_claims",
+      "issue": "The excerpt asserts that women will always detect approval-seeking and that pleasing behavior guarantees failure.",
+      "affected_evidence": ["s019-c01", "s019-c02"],
+      "disposition": "Keep as attributed rhetoric only; do not generalize into a prediction about all women or all interactions."
+    },
+    {
+      "review_id": "s019-r02",
+      "severity": "major",
+      "category": "dehumanizing_and_sexual_language",
+      "issue": "The speaker describes sexual motivation crudely and compares approval-seeking men to dogs or other animals.",
+      "affected_evidence": ["S00008-S00009", "S00053-S00056"],
+      "disposition": "Do not reproduce the insults as guidance or as the assistant's voice."
+    },
+    {
+      "review_id": "s019-r03",
+      "severity": "major",
+      "category": "context_loss",
+      "issue": "The Short jumps from the direct-message example to self-control, omitting quark-live-046 S01189-S01233 and its case context.",
+      "affected_evidence": ["edit near 109 seconds"],
+      "disposition": "Use the formal source for surrounding context; do not infer a direct causal bridge across the cut."
+    },
+    {
+      "review_id": "s019-r04",
+      "severity": "major",
+      "category": "source_reuse",
+      "issue": "The Short is an edited excerpt already preserved in formal source quark-live-046.",
+      "affected_evidence": ["whole source"],
+      "disposition": "If integrated, retain zero formal weight and inherit the original source's restrictions."
+    }
+  ]
+}

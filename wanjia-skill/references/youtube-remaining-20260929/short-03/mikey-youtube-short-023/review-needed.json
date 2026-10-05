@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-023",
+  "youtube_id": "8vTeGYRtoyM",
+  "review_completed": true,
+  "items": [
+    {
+      "review_id": "s023-r01",
+      "severity": "major",
+      "category": "source_reuse",
+      "issue": "The complete passage is excerpted from formal mikey-youtube-live-009 at 4601.32-4744.34 seconds.",
+      "affected_evidence": ["whole source"],
+      "disposition": "Keep formal weight at zero and rely on the parent source for any future use."
+    },
+    {
+      "review_id": "s023-r02",
+      "severity": "major",
+      "category": "unsupported_generalization",
+      "issue": "The clip generalizes that external value determines access to meetings and that women infer a man's internal value within minutes.",
+      "affected_evidence": ["S00031-S00038", "S00064-S00078"],
+      "disposition": "Keep these as Mikey's model; do not present them as measured facts or use them to infer an individual's motives."
+    },
+    {
+      "review_id": "s023-r03",
+      "severity": "major",
+      "category": "socioeconomic_bias",
+      "issue": "Income and appearance are treated as a broad gate to women's willingness to meet.",
+      "affected_evidence": ["S00023-S00053"],
+      "disposition": "Do not convert the framework into a ranking of human worth or a guarantee of access to another person."
+    },
+    {
+      "review_id": "s023-r04",
+      "severity": "major",
+      "category": "boundary_and_consent",
+      "issue": "Confidence, abundance and boundary expression can be misread as authority over another person's response.",
+      "affected_evidence": ["S00079-S00102"],
+      "disposition": "Preserve reciprocal boundaries and explicit consent; self-confidence grants no entitlement."
+    }
+  ]
+}

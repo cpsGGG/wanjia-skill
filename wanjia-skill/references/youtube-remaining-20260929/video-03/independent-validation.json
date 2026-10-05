@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "batch_key": "video-03",
+  "generated_at": "2026-09-29T22:38:31.355620+08:00",
+  "pass": true,
+  "checks": {
+    "official_validation_pass": true,
+    "ten_expected_items_present": true,
+    "all_json_utf8_and_parseable": true,
+    "stable_ids_and_youtube_ids_consistent": true,
+    "transcript_segment_ranges_valid": true,
+    "claim_evidence_segment_ids_in_range": true,
+    "claim_evidence_times_within_media": true,
+    "visual_counts_match_manifests": true,
+    "review_ledgers_complete": true,
+    "all_claims_hold_pending_independent_review": true,
+    "formal_first_person_and_action_permissions_disabled": true,
+    "dedup_decisions_structurally_valid": true,
+    "formal_source_index_unchanged_during_final_audit": true,
+    "raw_media_retained": true,
+    "targeted_1080p_visual_sha_valid": true,
+    "reprocessed_evidence_ranges_valid": true
+  },
+  "counts": {
+    "items": 10,
+    "media_gib": 1.277,
+    "transcript_segments": 4807,
+    "sparse_frames": 172,
+    "dense_frames": 353,
+    "timeline_entries": 89,
+    "claims": 93,
+    "examples": 28,
+    "review_items": 88,
+    "new_candidates": 10,
+    "reuse_zero_weight": 0,
+    "targeted_frames_retained": 13
+  },
+  "formal_source_index_sha256": "BEC0688FF67E13CC849B8F3AD03E570EE13473477788A72FC7CFEBFA008E8D75",
+  "repair_applied": {
+    "stable_id": "mikey-youtube-video-028",
+    "issue": "The ASR tail timestamp ended 11.73 seconds beyond the 749.03-second media duration.",
+    "resolution": "Clamped the final semantic timeline entry to the media duration and recorded the ASR overshoot in limitations and review-needed; no claim evidence cites beyond the media duration."
+  },
+  "scope": "Independent structural, evidence-range, permission and artifact audit of the research package, including the 1080p reprocessing of mikey-youtube-video-029. This does not approve formal mikey-guide integration or raw-media deletion.",
+  "reprocessing_applied": {
+    "stable_id": "mikey-youtube-video-029",
+    "old_resolution": "640x360",
+    "new_resolution": "1920x1080",
+    "new_media_sha256": "C91BE2E80F61DC36651C22DB06B88EEF9353416083B3CC0052A8BF7929CF8BDC",
+    "resolution": "Regenerated 298-segment ASR and 12 sparse frames; reviewed 29 targeted frames around 267–342 seconds; retained 13 targeted evidence frames; rebound all semantic ranges; added one held screenshot-grounded claim."
+  }
+}

@@ -1,0 +1,1145 @@
+{
+  "schema_version": "youtube-remaining-integration-migration-1.0",
+  "created_utc": "2026-10-01T18:41:36.606456+00:00",
+  "formal_baseline": {
+    "source_index_sha256": "bec0688ff67e13cc849b8f3ad03e570ee13473477788a72fc7cfebfa008e8d75",
+    "sources": 202,
+    "knowledge": 3226
+  },
+  "candidate": {
+    "sources": 298,
+    "knowledge": 3499,
+    "registered_new_candidates": 42,
+    "active_weighted_new_sources": 40,
+    "reuse_zero_weight_sources": 54,
+    "other_zero_weight_sources": 2,
+    "appended_runtime_knowledge": 273
+  },
+  "batch_validation": [
+    {
+      "batch": "short-01",
+      "item_count": 10,
+      "validation": "pass",
+      "independent_validation": "pass"
+    },
+    {
+      "batch": "short-02",
+      "item_count": 10,
+      "validation": "pass",
+      "independent_validation": "pass"
+    },
+    {
+      "batch": "short-03",
+      "item_count": 10,
+      "validation": "pass",
+      "independent_validation": "pass"
+    },
+    {
+      "batch": "short-04",
+      "item_count": 10,
+      "validation": "pass",
+      "independent_validation": "pass"
+    },
+    {
+      "batch": "short-05",
+      "item_count": 10,
+      "validation": "pass",
+      "independent_validation": "pass"
+    },
+    {
+      "batch": "short-06",
+      "item_count": 1,
+      "validation": "pass",
+      "independent_validation": "pass"
+    },
+    {
+      "batch": "video-01",
+      "item_count": 10,
+      "validation": "pass",
+      "independent_validation": "artifact_not_present"
+    },
+    {
+      "batch": "video-02",
+      "item_count": 10,
+      "validation": "pass",
+      "independent_validation": "artifact_not_present"
+    },
+    {
+      "batch": "video-03",
+      "item_count": 10,
+      "validation": "pass",
+      "independent_validation": "pass"
+    },
+    {
+      "batch": "video-04",
+      "item_count": 10,
+      "validation": "pass",
+      "independent_validation": "pass"
+    },
+    {
+      "batch": "video-05",
+      "item_count": 5,
+      "validation": "pass",
+      "independent_validation": "pass"
+    }
+  ],
+  "open_dedup": {
+    "source_id": "mikey-youtube-video-003",
+    "candidate_youtube_id": "efyqkeWyhUw",
+    "comparison_youtube_id": "EPmR6XOphxY",
+    "disposition": "registered_at_weight_zero_with_no_runtime_knowledge_until_complete transcript/audio containment comparison is available"
+  },
+  "rows": [
+    {
+      "source_id": "mikey-youtube-short-001",
+      "youtube_id": "IBWuut6XMnA",
+      "dedup_decision": "new",
+      "formal_weight": 1,
+      "runtime_knowledge_count": 1,
+      "canonical_source_ids": [],
+      "zero_weight_reason": null
+    },
+    {
+      "source_id": "mikey-youtube-short-002",
+      "youtube_id": "Z2sgjH3FmeU",
+      "dedup_decision": "reuse",
+      "formal_weight": 0,
+      "runtime_knowledge_count": 0,
+      "canonical_source_ids": [
+        "mikey-youtube-live-038",
+        "mikey-youtube-video-024"
+      ],
+      "zero_weight_reason": "Preserve as a clearer alternate excerpt only. Add zero source, claim or corroboration weight; the man speaking is not Mikey, and editorial subtitles are channel framing rather than his spoken testimony."
+    },
+    {
+      "source_id": "mikey-youtube-short-003",
+      "youtube_id": "pcOGT-RUlLk",
+      "dedup_decision": "reuse",
+      "formal_weight": 0,
+      "runtime_knowledge_count": 0,
+      "canonical_source_ids": [
+        "mikey-youtube-live-038",
+        "mikey-youtube-video-024"
+      ],
+      "zero_weight_reason": "This is a standalone copy/edit of third-party material already embedded in the formal live source, not a new Mikey statement. Preserve only as a clearer alternate evidence pointer at weight 0."
+    },
+    {
+      "source_id": "mikey-youtube-short-004",
+      "youtube_id": "G2NnCHUH0n0",
+      "dedup_decision": "new",
+      "formal_weight": 0,
+      "runtime_knowledge_count": 0,
+      "canonical_source_ids": [],
+      "zero_weight_reason": "third-party composite with no safely attributable Mikey claim"
+    },
+    {
+      "source_id": "mikey-youtube-short-005",
+      "youtube_id": "7oqg4ft8AGs",
+      "dedup_decision": "reuse",
+      "formal_weight": 0,
+      "runtime_knowledge_count": 0,
+      "canonical_source_ids": [
+        "Gs467Dozs3w"
+      ],
+      "zero_weight_reason": "A vertical excerpt of formal source Gs467Dozs3w; preserve as alternate public pointer only and add zero independent weight."
+    },
+    {
+      "source_id": "mikey-youtube-short-006",
+      "youtube_id": "NB1KsmdaoxI",
+      "dedup_decision": "reuse",
+      "formal_weight": 0,
+      "runtime_knowledge_count": 0,
+      "canonical_source_ids": [
+        "Gs467Dozs3w"
+      ],
+      "zero_weight_reason": "Vertical excerpt of Gs467Dozs3w; weight 0 and no independent outcome evidence."
+    },
+    {
+      "source_id": "mikey-youtube-short-007",
+      "youtube_id": "xai9p7jJdFg",
+      "dedup_decision": "reuse",
+      "formal_weight": 0,
+      "runtime_knowledge_count": 0,
+      "canonical_source_ids": [
+        "Gs467Dozs3w"
+      ],
+      "zero_weight_reason": "Vertical excerpt of Gs467Dozs3w; add zero source or claim weight."
+    },
+    {
+      "source_id": "mikey-youtube-short-008",
+      "youtube_id": "jOgZRlESuv0",
+      "dedup_decision": "reuse",
+      "formal_weight": 0,
+      "runtime_knowledge_count": 0,
+      "canonical_source_ids": [
+        "EIcItpA_RZU"
+      ],
+      "zero_weight_reason": "A vertical excerpt of formal source EIcItpA_RZU. Preserve as alternate public pointer and clearer subtitle evidence only; add zero independent source, claim or outcome weight."
+    },
+    {
+      "source_id": "mikey-youtube-short-009",
+      "youtube_id": "vmnNcNnT4mE",
+      "dedup_decision": "new",
+      "formal_weight": 1,
+      "runtime_knowledge_count": 3,
+      "canonical_source_ids": [
+        "o6fS0sTCYcU"
+      ],
+      "zero_weight_reason": null
+    },
+    {
+      "source_id": "mikey-youtube-short-010",
+      "youtube_id": "5zGlhGJloA0",
+      "dedup_decision": "new",
+      "formal_weight": 1,
+      "runtime_knowledge_count": 4,
+      "canonical_source_ids": [
+        "o6fS0sTCYcU"
+      ],
+      "zero_weight_reason": null
+    },
+    {
+      "source_id": "mikey-youtube-short-011",
+      "youtube_id": "kKNgwMlrzk8",
+      "dedup_decision": "reuse",
+      "formal_weight": 0,
+      "runtime_knowledge_count": 0,
+      "canonical_source_ids": [
+        "jvFRTgH_4cE"
+      ],
+      "zero_weight_reason": "Reuse the existing long-form body-contact/availability source. Do not count this Short as independent support."
+    },
+    {
+      "source_id": "mikey-youtube-short-012",
+      "youtube_id": "GSFHvvEzMxA",
+      "dedup_decision": "new",
+      "formal_weight": 1,
+      "runtime_knowledge_count": 3,
+      "canonical_source_ids": [],
+      "zero_weight_reason": null
+    },
+    {
+      "source_id": "mikey-youtube-short-013",
+      "youtube_id": "uSsi-dXlMwk",
+      "dedup_decision": "new",
+      "formal_weight": 1,
+      "runtime_knowledge_count": 3,
+      "canonical_source_ids": [
+        "quark-live-021"
+      ],
+      "zero_weight_reason": null
+    },
+    {
+      "source_id": "mikey-youtube-short-014",
+      "youtube_id": "CMpHMvwuZRI",
+      "dedup_decision": "reuse",
+      "formal_weight": 0,
+      "runtime_knowledge_count": 0,
+      "canonical_source_ids": [
+        "mikey-youtube-live-028"
+      ],
+      "zero_weight_reason": "Reuse formal mikey-youtube-live-028. This Short is edited and must not add independent weight."
+    },
+    {
+      "source_id": "mikey-youtube-short-015",
+      "youtube_id": "nXb_5CmBvpc",
+      "dedup_decision": "reuse",
+      "formal_weight": 0,
+      "runtime_knowledge_count": 0,
+      "canonical_source_ids": [
+        "o6fS0sTCYcU"
+      ],
+      "zero_weight_reason": "Reuse formal o6fS0sTCYcU with zero additional weight."
+    },
+    {
+      "source_id": "mikey-youtube-short-016",
+      "youtube_id": "cIE63w6uJXs",
+      "dedup_decision": "reuse",
+      "formal_weight": 0,
+      "runtime_knowledge_count": 0,
+      "canonical_source_ids": [
+        "o6fS0sTCYcU"
+      ],
+      "zero_weight_reason": "A vertical edit of formal source o6fS0sTCYcU. Preserve only as an alternate public pointer and subtitle/visual aid; add zero independent source, claim or corroboration weight."
+    },
+    {
+      "source_id": "mikey-youtube-short-017",
+      "youtube_id": "HK4ubB2vW0Q",
+      "dedup_decision": "reuse",
+      "formal_weight": 0,
+      "runtime_knowledge_count": 0,
+      "canonical_source_ids": [
+        "mikey-youtube-live-028"
+      ],
+      "zero_weight_reason": "A vertical excerpt of formal source mikey-youtube-live-028. Assign zero independent weight; short-014 is another excerpt from the same parent and cannot corroborate it independently."
+    },
+    {
+      "source_id": "mikey-youtube-short-018",
+      "youtube_id": "Tt5Hdf1YPvU",
+      "dedup_decision": "reuse",
+      "formal_weight": 0,
+      "runtime_knowledge_count": 0,
+      "canonical_source_ids": [
+        "mikey-youtube-live-027"
+      ],
+      "zero_weight_reason": "Treat the Short as an edited reuse of mikey-youtube-live-027. If ever integrated, retain the Short only as a discovery pointer and assign zero source and knowledge weight."
+    },
+    {
+      "source_id": "mikey-youtube-short-019",
+      "youtube_id": "1mleRuRP_78",
+      "dedup_decision": "reuse",
+      "formal_weight": 0,
+      "runtime_knowledge_count": 0,
+      "canonical_source_ids": [
+        "quark-live-046"
+      ],
+      "zero_weight_reason": "Treat the Short as an edited reuse of quark-live-046. If ever integrated, assign zero source and knowledge weight and preserve the original source's review restrictions."
+    },
+    {
+      "source_id": "mikey-youtube-short-020",
+      "youtube_id": "6B1DNRjY4mE",
+      "dedup_decision": "reuse",
+      "formal_weight": 0,
+      "runtime_knowledge_count": 0,
+      "canonical_source_ids": [
+        "mikey-youtube-live-025"
+      ],
+      "zero_weight_reason": "Treat the Short as an edited reuse of mikey-youtube-live-025. If ever integrated, assign zero source and knowledge weight and preserve the source's blocking consent/coercion restriction."
+    },
+    {
+      "source_id": "mikey-youtube-short-021",
+      "youtube_id": "1l8zI7O_wAc",
+      "dedup_decision": "reuse",
+      "formal_weight": 0,
+      "runtime_knowledge_count": 0,
+      "canonical_source_ids": [
+        "mikey-youtube-live-005"
+      ],
+      "zero_weight_reason": "Treat as a semantic reuse of the established consistency/non-performance lesson. Do not count the Short as independent support or assign source or knowledge weight."
+    },
+    {
+      "source_id": "mikey-youtube-short-022",
+      "youtube_id": "siSEYCLz4ww",
+      "dedup_decision": "reuse",
+      "formal_weight": 0,
+      "runtime_knowledge_count": 0,
+      "canonical_source_ids": [
+        "quark-live-046"
+      ],
+      "zero_weight_reason": "Treat as the same edited reuse already recorded for short-019 and ultimately quark-live-046. Assign zero source and knowledge weight."
+    },
+    {
+      "source_id": "mikey-youtube-short-023",
+      "youtube_id": "8vTeGYRtoyM",
+      "dedup_decision": "reuse",
+      "formal_weight": 0,
+      "runtime_knowledge_count": 0,
+      "canonical_source_ids": [
+        "mikey-youtube-live-009"
+      ],
+      "zero_weight_reason": "Treat as an excerpt reuse of formal mikey-youtube-live-009. Do not count the Short as a new source or independent support."
+    },
+    {
+      "source_id": "mikey-youtube-short-024",
+      "youtube_id": "d8xHM4XCRQw",
+      "dedup_decision": "reuse",
+      "formal_weight": 0,
+      "runtime_knowledge_count": 0,
+      "canonical_source_ids": [
+        "mikey-youtube-live-024"
+      ],
+      "zero_weight_reason": "Treat as an excerpt reuse of formal mikey-youtube-live-024. Assign zero source and knowledge weight and retain the parent's restrictions."
+    },
+    {
+      "source_id": "mikey-youtube-short-025",
+      "youtube_id": "0yq9ZVn7Cmc",
+      "dedup_decision": "reuse",
+      "formal_weight": 0,
+      "runtime_knowledge_count": 0,
+      "canonical_source_ids": [
+        "mikey-youtube-live-010"
+      ],
+      "zero_weight_reason": "Reuse formal mikey-youtube-live-010. This edited Short must not add independent source or claim weight."
+    },
+    {
+      "source_id": "mikey-youtube-short-026",
+      "youtube_id": "npeClmMFzdE",
+      "dedup_decision": "reuse",
+      "formal_weight": 0,
+      "runtime_knowledge_count": 0,
+      "canonical_source_ids": [
+        "quark-live-046"
+      ],
+      "zero_weight_reason": "Reuse formal quark-live-046. The Short is an edited excerpt and must carry zero independent formal weight."
+    },
+    {
+      "source_id": "mikey-youtube-short-027",
+      "youtube_id": "PuvtjUuI6Co",
+      "dedup_decision": "reuse",
+      "formal_weight": 0,
+      "runtime_knowledge_count": 0,
+      "canonical_source_ids": [
+        "mikey-youtube-live-010"
+      ],
+      "zero_weight_reason": "Reuse formal mikey-youtube-live-010. This edited compilation adds no independent source or claim weight."
+    },
+    {
+      "source_id": "mikey-youtube-short-028",
+      "youtube_id": "MqnwsxmTFL8",
+      "dedup_decision": "reuse",
+      "formal_weight": 0,
+      "runtime_knowledge_count": 0,
+      "canonical_source_ids": [
+        "mikey-youtube-live-025"
+      ],
+      "zero_weight_reason": "Reuse formal mikey-youtube-live-025. This Short is an edited excerpt and must add no independent weight."
+    },
+    {
+      "source_id": "mikey-youtube-short-029",
+      "youtube_id": "TUx4Jo4wEBk",
+      "dedup_decision": "reuse",
+      "formal_weight": 0,
+      "runtime_knowledge_count": 0,
+      "canonical_source_ids": [
+        "mikey-youtube-live-009"
+      ],
+      "zero_weight_reason": "Reuse formal mikey-youtube-live-009. This Short compiles two separated parent passages and carries zero independent weight."
+    },
+    {
+      "source_id": "mikey-youtube-short-030",
+      "youtube_id": "Dn0SHuE89J0",
+      "dedup_decision": "reuse",
+      "formal_weight": 0,
+      "runtime_knowledge_count": 0,
+      "canonical_source_ids": [
+        "mikey-youtube-live-037"
+      ],
+      "zero_weight_reason": "Semantic reuse only, not a verified parent excerpt. Keep at zero weight because its usable method is already represented; retain the specific hostile wording only as restricted viewpoint evidence."
+    },
+    {
+      "source_id": "mikey-youtube-short-031",
+      "youtube_id": "iJ-sPn7b1_Q",
+      "dedup_decision": "reuse",
+      "formal_weight": 0,
+      "runtime_knowledge_count": 0,
+      "canonical_source_ids": [
+        "quark-live-044"
+      ],
+      "zero_weight_reason": "Treat as a vertical excerpt of formal quark-live-044. Preserve the Short as an alternate public pointer and subtitle aid only; assign no independent source, claim, or corroboration weight."
+    },
+    {
+      "source_id": "mikey-youtube-short-032",
+      "youtube_id": "vT44uMVNSes",
+      "dedup_decision": "reuse",
+      "formal_weight": 0,
+      "runtime_knowledge_count": 0,
+      "canonical_source_ids": [
+        "quark-live-034",
+        "quark-live-014",
+        "quark-live-030"
+      ],
+      "zero_weight_reason": "Reuse only the already formalized distinction between external value and self-worth plus the equality/relaxation principle. Do not import the gender ranking, conquest language, rejection prescription, or result-dependent self-worth loop as general advice."
+    },
+    {
+      "source_id": "mikey-youtube-short-033",
+      "youtube_id": "apoG8W9NziA",
+      "dedup_decision": "reuse",
+      "formal_weight": 0,
+      "runtime_knowledge_count": 0,
+      "canonical_source_ids": [
+        "quark-live-030"
+      ],
+      "zero_weight_reason": "Treat the useful anti-negging, calm-expression lesson as semantic reuse of quark-live-030. Preserve the student's alleged behavior and dating outcomes as unverified second-hand setup."
+    },
+    {
+      "source_id": "mikey-youtube-short-034",
+      "youtube_id": "-uU-eZT5c_E",
+      "dedup_decision": "reuse",
+      "formal_weight": 0,
+      "runtime_knowledge_count": 0,
+      "canonical_source_ids": [
+        "mikey-approach-004",
+        "mikey-approach-012",
+        "mikey-youtube-video-044"
+      ],
+      "zero_weight_reason": "Keep only as another zero-weight example of an already represented street-approach sequence. Do not infer that contact details were successfully saved, that a date occurred, or that the camera-wearer is Mikey."
+    },
+    {
+      "source_id": "mikey-youtube-short-035",
+      "youtube_id": "yu4M9Pjy79k",
+      "dedup_decision": "reuse",
+      "formal_weight": 0,
+      "runtime_knowledge_count": 0,
+      "canonical_source_ids": [
+        "quark-live-023"
+      ],
+      "zero_weight_reason": "Treat as zero-weight semantic reuse. The distinct Short recording and unlocated parent do not create independent method weight because quark-live-023, mikey-practice-008 and quark-live-030 already cover the complete usable method family."
+    },
+    {
+      "source_id": "mikey-youtube-short-036",
+      "youtube_id": "STDni-HM_bo",
+      "dedup_decision": "new",
+      "formal_weight": 1,
+      "runtime_knowledge_count": 3,
+      "canonical_source_ids": [
+        "mikey-approach-020"
+      ],
+      "zero_weight_reason": null
+    },
+    {
+      "source_id": "mikey-youtube-short-037",
+      "youtube_id": "EqbzKgXKNC4",
+      "dedup_decision": "new",
+      "formal_weight": 1,
+      "runtime_knowledge_count": 3,
+      "canonical_source_ids": [
+        "quark-live-022"
+      ],
+      "zero_weight_reason": null
+    },
+    {
+      "source_id": "mikey-youtube-short-038",
+      "youtube_id": "Vi9Jw-UOwVU",
+      "dedup_decision": "reuse",
+      "formal_weight": 0,
+      "runtime_knowledge_count": 0,
+      "canonical_source_ids": [
+        "formal_approach_case_cluster"
+      ],
+      "zero_weight_reason": "Retain as a zero-weight case excerpt. It adds no independently supported method claim and must not be counted as separate corroboration."
+    },
+    {
+      "source_id": "mikey-youtube-short-039",
+      "youtube_id": "60HetHyw-tA",
+      "dedup_decision": "reuse",
+      "formal_weight": 0,
+      "runtime_knowledge_count": 0,
+      "canonical_source_ids": [
+        "formal_direct_contact_exchange_cluster"
+      ],
+      "zero_weight_reason": "Keep as a zero-weight edited case. It may illustrate an already-known sequence but is not independent method support."
+    },
+    {
+      "source_id": "mikey-youtube-short-040",
+      "youtube_id": "c5c_FjfzBZ4",
+      "dedup_decision": "reuse",
+      "formal_weight": 0,
+      "runtime_knowledge_count": 0,
+      "canonical_source_ids": [
+        "formal_approach_case_cluster"
+      ],
+      "zero_weight_reason": "Zero weight. Preserve as an ambiguous case observation; do not recast ‘我想有男朋友’ as ‘我有男朋友’ or infer a refusal, relationship, consent state, or outcome."
+    },
+    {
+      "source_id": "mikey-youtube-short-041",
+      "youtube_id": "o65H-5O2EsQ",
+      "dedup_decision": "new",
+      "formal_weight": 1,
+      "runtime_knowledge_count": 2,
+      "canonical_source_ids": [],
+      "zero_weight_reason": null
+    },
+    {
+      "source_id": "mikey-youtube-short-042",
+      "youtube_id": "VBGL7Bb12Io",
+      "dedup_decision": "new",
+      "formal_weight": 1,
+      "runtime_knowledge_count": 2,
+      "canonical_source_ids": [
+        "mikey-sijiao-006"
+      ],
+      "zero_weight_reason": null
+    },
+    {
+      "source_id": "mikey-youtube-short-043",
+      "youtube_id": "beVlsu3s1mQ",
+      "dedup_decision": "reuse",
+      "formal_weight": 0,
+      "runtime_knowledge_count": 0,
+      "canonical_source_ids": [
+        "quark-live-007",
+        "Gs467Dozs3w"
+      ],
+      "zero_weight_reason": "Zero weight semantic reuse. The Short adds a concise formulation about self-criticism, but its broad causal claims about self-esteem and energy are not independently verified; acceptance of wrongdoing must not be used to erase accountability or repair owed to others."
+    },
+    {
+      "source_id": "mikey-youtube-short-044",
+      "youtube_id": "SRv3bw4d6AA",
+      "dedup_decision": "reuse",
+      "formal_weight": 0,
+      "runtime_knowledge_count": 0,
+      "canonical_source_ids": [
+        "formal_feiyangyang_one_sided_pursuit_theme"
+      ],
+      "zero_weight_reason": "Zero weight. Preserve only as an example of the channel's use of the 沸羊羊 label. The incident, quoted dialogue, relationship, ticket purchase, motives and post-concert behavior are unverified third-party claims and must not be attributed to Mikey as witnessed fact."
+    },
+    {
+      "source_id": "mikey-youtube-short-045",
+      "youtube_id": "juXjBbeF0vs",
+      "dedup_decision": "new",
+      "formal_weight": 1,
+      "runtime_knowledge_count": 2,
+      "canonical_source_ids": [],
+      "zero_weight_reason": null
+    },
+    {
+      "source_id": "mikey-youtube-short-046",
+      "youtube_id": "zHgwYvflSrs",
+      "dedup_decision": "reuse",
+      "formal_weight": 0,
+      "runtime_knowledge_count": 0,
+      "canonical_source_ids": [
+        "mikey-youtube-live-034-K004",
+        "mikey-youtube-live-007-K024",
+        "quark-live-033-k014",
+        "mikey-youtube-live-035-K006"
+      ],
+      "zero_weight_reason": "Zero weight. Preserve the short/intense versus long/mild contrast as Mikey's motivational explanation, but do not count it as independent evidence or as a psychological fact about all people."
+    },
+    {
+      "source_id": "mikey-youtube-short-047",
+      "youtube_id": "n5elOH9OnBA",
+      "dedup_decision": "reuse",
+      "formal_weight": 0,
+      "runtime_knowledge_count": 0,
+      "canonical_source_ids": [
+        "YEm81yAdw2E:K38",
+        "mikey-youtube-video-021",
+        "mikey-youtube-live-035-K006",
+        "quark-live-033-k011"
+      ],
+      "zero_weight_reason": "Zero weight. Retain the hindsight self-compassion wording as an alternate expression only. 'Never regret' and 'never doubt my judgment' must not be used to excuse preventable harm, ignore new evidence or repeat a damaging decision."
+    },
+    {
+      "source_id": "mikey-youtube-short-048",
+      "youtube_id": "wRh8BssCwuQ",
+      "dedup_decision": "reuse",
+      "formal_weight": 0,
+      "runtime_knowledge_count": 0,
+      "canonical_source_ids": [
+        "HgnLR9S39is:K22",
+        "quark-live-051-k003"
+      ],
+      "zero_weight_reason": "Zero weight. Preserve as a concise restatement of the existing practice-feedback theme; it does not verify mentor quality, training effectiveness or any promised rate of improvement."
+    },
+    {
+      "source_id": "mikey-youtube-short-049",
+      "youtube_id": "J4fxjbY8u0U",
+      "dedup_decision": "reuse",
+      "formal_weight": 0,
+      "runtime_knowledge_count": 0,
+      "canonical_source_ids": [
+        "quark-live-006-k034",
+        "quark-live-028-k014",
+        "quark-live-030-k008"
+      ],
+      "zero_weight_reason": "Zero weight. Refusing alcohol or games is not evidence of disrespect and participation cannot be coerced. The gendered insults and predictions about social reputation or aging are unsupported and must not be generalized."
+    },
+    {
+      "source_id": "mikey-youtube-short-050",
+      "youtube_id": "s-htda5k6Yo",
+      "dedup_decision": "reuse",
+      "formal_weight": 0,
+      "runtime_knowledge_count": 0,
+      "canonical_source_ids": [
+        "mikey-youtube-short-044",
+        "quark-live-010"
+      ],
+      "zero_weight_reason": "Zero weight. Treat the animation and its dialogue as third-party copyrighted material, not as Mikey testimony, experience or a verified relationship model. The upload title alone does not establish a detailed Mikey-authored argument."
+    },
+    {
+      "source_id": "mikey-youtube-short-051",
+      "youtube_id": "m-jwCMQU1uQ",
+      "dedup_decision": "new",
+      "formal_weight": 1,
+      "runtime_knowledge_count": 2,
+      "canonical_source_ids": [
+        "mikey-approach-009"
+      ],
+      "zero_weight_reason": null
+    },
+    {
+      "source_id": "mikey-youtube-video-001",
+      "youtube_id": "GQ6Md8q2R30",
+      "dedup_decision": "new",
+      "formal_weight": 1,
+      "runtime_knowledge_count": 9,
+      "canonical_source_ids": [
+        "mikey-youtube-live-002"
+      ],
+      "zero_weight_reason": null
+    },
+    {
+      "source_id": "mikey-youtube-video-002",
+      "youtube_id": "oWRX-9Dl-QA",
+      "dedup_decision": "reuse",
+      "formal_weight": 0,
+      "runtime_knowledge_count": 0,
+      "canonical_source_ids": [
+        "quark-live-015"
+      ],
+      "zero_weight_reason": null
+    },
+    {
+      "source_id": "mikey-youtube-video-003",
+      "youtube_id": "efyqkeWyhUw",
+      "dedup_decision": "new",
+      "formal_weight": 0,
+      "runtime_knowledge_count": 0,
+      "canonical_source_ids": [
+        "mikey-youtube-live-030"
+      ],
+      "zero_weight_reason": "unresolved same-title containment against EPmR6XOphxY"
+    },
+    {
+      "source_id": "mikey-youtube-video-004",
+      "youtube_id": "ea-wnYQpZWM",
+      "dedup_decision": "new",
+      "formal_weight": 1,
+      "runtime_knowledge_count": 8,
+      "canonical_source_ids": [],
+      "zero_weight_reason": null
+    },
+    {
+      "source_id": "mikey-youtube-video-005",
+      "youtube_id": "vA3vZJa00qM",
+      "dedup_decision": "new",
+      "formal_weight": 1,
+      "runtime_knowledge_count": 7,
+      "canonical_source_ids": [
+        "mikey-youtube-live-039"
+      ],
+      "zero_weight_reason": null
+    },
+    {
+      "source_id": "mikey-youtube-video-006",
+      "youtube_id": "mFQnUFGEFEY",
+      "dedup_decision": "new",
+      "formal_weight": 1,
+      "runtime_knowledge_count": 10,
+      "canonical_source_ids": [
+        "mikey-gameshengjing-010"
+      ],
+      "zero_weight_reason": null
+    },
+    {
+      "source_id": "mikey-youtube-video-007",
+      "youtube_id": "r7rpeVQxTis",
+      "dedup_decision": "reuse",
+      "formal_weight": 0,
+      "runtime_knowledge_count": 0,
+      "canonical_source_ids": [
+        "jvFRTgH_4cE"
+      ],
+      "zero_weight_reason": "Treat this upload as a repackaged excerpt of formal source jvFRTgH_4cE and assign no additional source or claim weight. The target transcript and edit remain useful only as a traceable packaging artifact."
+    },
+    {
+      "source_id": "mikey-youtube-video-008",
+      "youtube_id": "tkDjl6MSYoA",
+      "dedup_decision": "new",
+      "formal_weight": 1,
+      "runtime_knowledge_count": 9,
+      "canonical_source_ids": [
+        "mikey-youtube-live-037"
+      ],
+      "zero_weight_reason": null
+    },
+    {
+      "source_id": "mikey-youtube-video-009",
+      "youtube_id": "K6TC-m0pJfU",
+      "dedup_decision": "reuse",
+      "formal_weight": 0,
+      "runtime_knowledge_count": 0,
+      "canonical_source_ids": [
+        "OSEq7tPwrqY"
+      ],
+      "zero_weight_reason": "The upload has a different YouTube ID and is not a byte-for-byte transcript duplicate, but its same-title teaching sequence substantially reuses the formal live source. Preserve it as a research pointer only and assign zero source weight if later linked."
+    },
+    {
+      "source_id": "mikey-youtube-video-010",
+      "youtube_id": "pWKKfVHT0Ck",
+      "dedup_decision": "new",
+      "formal_weight": 1,
+      "runtime_knowledge_count": 8,
+      "canonical_source_ids": [],
+      "zero_weight_reason": null
+    },
+    {
+      "source_id": "mikey-youtube-video-011",
+      "youtube_id": "MJep9Wpzixg",
+      "dedup_decision": "new",
+      "formal_weight": 1,
+      "runtime_knowledge_count": 8,
+      "canonical_source_ids": [
+        "S-cMTEvo6To"
+      ],
+      "zero_weight_reason": null
+    },
+    {
+      "source_id": "mikey-youtube-video-012",
+      "youtube_id": "T3Yy6VpMJwI",
+      "dedup_decision": "reuse",
+      "formal_weight": 0,
+      "runtime_knowledge_count": 0,
+      "canonical_source_ids": [
+        "S-cMTEvo6To"
+      ],
+      "zero_weight_reason": "This upload has a different YouTube ID and edited timing, but most of its normalized sequence and all major teaching blocks reuse S-cMTEvo6To. Preserve it as a research pointer with zero additional formal source weight."
+    },
+    {
+      "source_id": "mikey-youtube-video-013",
+      "youtube_id": "NDYxxv5Tjoo",
+      "dedup_decision": "new",
+      "formal_weight": 1,
+      "runtime_knowledge_count": 7,
+      "canonical_source_ids": [],
+      "zero_weight_reason": null
+    },
+    {
+      "source_id": "mikey-youtube-video-014",
+      "youtube_id": "NRaAhclf_nY",
+      "dedup_decision": "new",
+      "formal_weight": 1,
+      "runtime_knowledge_count": 7,
+      "canonical_source_ids": [],
+      "zero_weight_reason": null
+    },
+    {
+      "source_id": "mikey-youtube-video-015",
+      "youtube_id": "6zV5Ud9tcNA",
+      "dedup_decision": "reuse",
+      "formal_weight": 0,
+      "runtime_knowledge_count": 0,
+      "canonical_source_ids": [
+        "9zRpsnsPGxU"
+      ],
+      "zero_weight_reason": "Treat this upload as an edited reuse of formal source 9zRpsnsPGxU. Preserve its source identity and research package, but do not count its repeated claims or examples as a new independent source or extra corroboration."
+    },
+    {
+      "source_id": "mikey-youtube-video-016",
+      "youtube_id": "KdUrSM8j7iQ",
+      "dedup_decision": "new",
+      "formal_weight": 1,
+      "runtime_knowledge_count": 9,
+      "canonical_source_ids": [
+        "mikey-gameshengjing-010"
+      ],
+      "zero_weight_reason": null
+    },
+    {
+      "source_id": "mikey-youtube-video-017",
+      "youtube_id": "Mpw79dj6kmc",
+      "dedup_decision": "new",
+      "formal_weight": 1,
+      "runtime_knowledge_count": 10,
+      "canonical_source_ids": [
+        "quark-live-044"
+      ],
+      "zero_weight_reason": null
+    },
+    {
+      "source_id": "mikey-youtube-video-018",
+      "youtube_id": "YGHYMz3gpqA",
+      "dedup_decision": "new",
+      "formal_weight": 1,
+      "runtime_knowledge_count": 10,
+      "canonical_source_ids": [
+        "mikey-gameshengjing-010"
+      ],
+      "zero_weight_reason": null
+    },
+    {
+      "source_id": "mikey-youtube-video-019",
+      "youtube_id": "X2hSCB-EtEQ",
+      "dedup_decision": "reuse",
+      "formal_weight": 0,
+      "runtime_knowledge_count": 0,
+      "canonical_source_ids": [
+        "mikey-gameshengjing-000"
+      ],
+      "zero_weight_reason": "Preserve as a public packaging/URL pointer only. It substantially reuses formal source mikey-gameshengjing-000 and must carry zero additional source, claim or outcome weight."
+    },
+    {
+      "source_id": "mikey-youtube-video-020",
+      "youtube_id": "myHvEWyuWZI",
+      "dedup_decision": "new",
+      "formal_weight": 1,
+      "runtime_knowledge_count": 10,
+      "canonical_source_ids": [
+        "mikey-gameshengjing-015"
+      ],
+      "zero_weight_reason": null
+    },
+    {
+      "source_id": "mikey-youtube-video-021",
+      "youtube_id": "UQzx50-eHZE",
+      "dedup_decision": "new",
+      "formal_weight": 1,
+      "runtime_knowledge_count": 8,
+      "canonical_source_ids": [
+        "mikey-practice-012"
+      ],
+      "zero_weight_reason": null
+    },
+    {
+      "source_id": "mikey-youtube-video-022",
+      "youtube_id": "-ibLhiQv4V8",
+      "dedup_decision": "new",
+      "formal_weight": 1,
+      "runtime_knowledge_count": 10,
+      "canonical_source_ids": [
+        "mikey-practice-024"
+      ],
+      "zero_weight_reason": null
+    },
+    {
+      "source_id": "mikey-youtube-video-023",
+      "youtube_id": "XyrXy0MmqDo",
+      "dedup_decision": "new",
+      "formal_weight": 1,
+      "runtime_knowledge_count": 10,
+      "canonical_source_ids": [
+        "quark-live-029"
+      ],
+      "zero_weight_reason": null
+    },
+    {
+      "source_id": "mikey-youtube-video-024",
+      "youtube_id": "WtkiYS2CJ6Q",
+      "dedup_decision": "new",
+      "formal_weight": 1,
+      "runtime_knowledge_count": 11,
+      "canonical_source_ids": [
+        "quark-live-051"
+      ],
+      "zero_weight_reason": null
+    },
+    {
+      "source_id": "mikey-youtube-video-025",
+      "youtube_id": "EHKvEfaObSE",
+      "dedup_decision": "new",
+      "formal_weight": 1,
+      "runtime_knowledge_count": 10,
+      "canonical_source_ids": [],
+      "zero_weight_reason": null
+    },
+    {
+      "source_id": "mikey-youtube-video-026",
+      "youtube_id": "dKHIueGB0UE",
+      "dedup_decision": "new",
+      "formal_weight": 1,
+      "runtime_knowledge_count": 9,
+      "canonical_source_ids": [
+        "mikey-gameshengjing-001"
+      ],
+      "zero_weight_reason": null
+    },
+    {
+      "source_id": "mikey-youtube-video-027",
+      "youtube_id": "uIiEXJAGugY",
+      "dedup_decision": "new",
+      "formal_weight": 1,
+      "runtime_knowledge_count": 8,
+      "canonical_source_ids": [
+        "9zRpsnsPGxU"
+      ],
+      "zero_weight_reason": null
+    },
+    {
+      "source_id": "mikey-youtube-video-028",
+      "youtube_id": "suYJ3bMCxJc",
+      "dedup_decision": "new",
+      "formal_weight": 1,
+      "runtime_knowledge_count": 10,
+      "canonical_source_ids": [
+        "mikey-practice-013"
+      ],
+      "zero_weight_reason": null
+    },
+    {
+      "source_id": "mikey-youtube-video-029",
+      "youtube_id": "Nk8m70zAZAk",
+      "dedup_decision": "new",
+      "formal_weight": 1,
+      "runtime_knowledge_count": 8,
+      "canonical_source_ids": [
+        "mikey-gameshengjing-017"
+      ],
+      "zero_weight_reason": null
+    },
+    {
+      "source_id": "mikey-youtube-video-030",
+      "youtube_id": "RRkgTfaBsEI",
+      "dedup_decision": "new",
+      "formal_weight": 1,
+      "runtime_knowledge_count": 9,
+      "canonical_source_ids": [
+        "mikey-gameshengjing-003"
+      ],
+      "zero_weight_reason": null
+    },
+    {
+      "source_id": "mikey-youtube-video-031",
+      "youtube_id": "kwMvehGwOU8",
+      "dedup_decision": "new",
+      "formal_weight": 1,
+      "runtime_knowledge_count": 7,
+      "canonical_source_ids": [
+        "mikey-youtube-live-014"
+      ],
+      "zero_weight_reason": null
+    },
+    {
+      "source_id": "mikey-youtube-video-032",
+      "youtube_id": "3nXm4bdpzLY",
+      "dedup_decision": "new",
+      "formal_weight": 1,
+      "runtime_knowledge_count": 8,
+      "canonical_source_ids": [
+        "mikey-youtube-live-016"
+      ],
+      "zero_weight_reason": null
+    },
+    {
+      "source_id": "mikey-youtube-video-033",
+      "youtube_id": "0hG_JSFWXwE",
+      "dedup_decision": "new",
+      "formal_weight": 1,
+      "runtime_knowledge_count": 8,
+      "canonical_source_ids": [
+        "quark-live-031"
+      ],
+      "zero_weight_reason": null
+    },
+    {
+      "source_id": "mikey-youtube-video-034",
+      "youtube_id": "JpmWNxPyhLc",
+      "dedup_decision": "new",
+      "formal_weight": 1,
+      "runtime_knowledge_count": 4,
+      "canonical_source_ids": [
+        "quark-live-016"
+      ],
+      "zero_weight_reason": null
+    },
+    {
+      "source_id": "mikey-youtube-video-035",
+      "youtube_id": "BGO3cSrAnsA",
+      "dedup_decision": "reuse",
+      "formal_weight": 0,
+      "runtime_knowledge_count": 0,
+      "canonical_source_ids": [
+        "mikey-sijiao-001"
+      ],
+      "zero_weight_reason": "Reuse formal source mikey-sijiao-001 with zero additional source, claim or outcome weight. Preserve BGO3cSrAnsA only as the public URL/packaging identity and as a fresh sparse visual sample; it does not close the formal source's consent, chronology, authenticity, privacy or outcome reviews."
+    },
+    {
+      "source_id": "mikey-youtube-video-036",
+      "youtube_id": "OnmvpRXMkmo",
+      "dedup_decision": "reuse",
+      "formal_weight": 0,
+      "runtime_knowledge_count": 0,
+      "canonical_source_ids": [
+        "mikey-sijiao-003"
+      ],
+      "zero_weight_reason": "Reuse mikey-sijiao-003 with zero additional weight. New ASR or sampled frames do not justify double counting."
+    },
+    {
+      "source_id": "mikey-youtube-video-037",
+      "youtube_id": "JGy32y2Qed4",
+      "dedup_decision": "reuse",
+      "formal_weight": 0,
+      "runtime_knowledge_count": 0,
+      "canonical_source_ids": [
+        "mikey-sijiao-004"
+      ],
+      "zero_weight_reason": "The designated comparison list omitted 037, but conservative screening identifies it as mikey-sijiao-004. Reuse with zero additional weight."
+    },
+    {
+      "source_id": "mikey-youtube-video-038",
+      "youtube_id": "7lRcZRGpezU",
+      "dedup_decision": "reuse",
+      "formal_weight": 0,
+      "runtime_knowledge_count": 0,
+      "canonical_source_ids": [
+        "mikey-sijiao-006"
+      ],
+      "zero_weight_reason": "Reuse mikey-sijiao-006 with zero additional weight. Target semantic time is capped at 2255.366 seconds; ASR after that point is excluded."
+    },
+    {
+      "source_id": "mikey-youtube-video-039",
+      "youtube_id": "Wmvp6Lb9y_E",
+      "dedup_decision": "reuse",
+      "formal_weight": 0,
+      "runtime_knowledge_count": 0,
+      "canonical_source_ids": [
+        "mikey-sijiao-005"
+      ],
+      "zero_weight_reason": "Reuse mikey-sijiao-005 with zero additional weight; the new pass does not add independent evidence."
+    },
+    {
+      "source_id": "mikey-youtube-video-040",
+      "youtube_id": "apXQmh1SYcQ",
+      "dedup_decision": "new",
+      "formal_weight": 1,
+      "runtime_knowledge_count": 7,
+      "canonical_source_ids": [
+        "mikey-youtube-live-010"
+      ],
+      "zero_weight_reason": null
+    },
+    {
+      "source_id": "mikey-youtube-video-041",
+      "youtube_id": "OQt6E24FTqc",
+      "dedup_decision": "reuse",
+      "formal_weight": 0,
+      "runtime_knowledge_count": 0,
+      "canonical_source_ids": [
+        "mikey-sijiao-008"
+      ],
+      "zero_weight_reason": "Preserve this public YouTube upload as a URL and alternate evidence pointer only. It is the same underlying recording as mikey-sijiao-008 and must add zero source, claim, example or outcome weight."
+    },
+    {
+      "source_id": "mikey-youtube-video-042",
+      "youtube_id": "ZPqbKTYMsuc",
+      "dedup_decision": "new",
+      "formal_weight": 1,
+      "runtime_knowledge_count": 6,
+      "canonical_source_ids": [],
+      "zero_weight_reason": null
+    },
+    {
+      "source_id": "mikey-youtube-video-043",
+      "youtube_id": "f6_phteCGeM",
+      "dedup_decision": "reuse",
+      "formal_weight": 0,
+      "runtime_knowledge_count": 0,
+      "canonical_source_ids": [
+        "mikey-approach-002"
+      ],
+      "zero_weight_reason": "Preserve the public URL and alternate encode only. This is the same recording as mikey-approach-002 and adds zero independent source, claim, example or outcome weight."
+    },
+    {
+      "source_id": "mikey-youtube-video-044",
+      "youtube_id": "wVlG5mlGWbI",
+      "dedup_decision": "reuse",
+      "formal_weight": 0,
+      "runtime_knowledge_count": 0,
+      "canonical_source_ids": [
+        "mikey-approach-010"
+      ],
+      "zero_weight_reason": "Same recording as mikey-approach-010. Keep the public URL as an alternate pointer, with zero additional source, claim, example or outcome weight."
+    },
+    {
+      "source_id": "mikey-youtube-video-045",
+      "youtube_id": "iMi4ns51Xgw",
+      "dedup_decision": "reuse",
+      "formal_weight": 0,
+      "runtime_knowledge_count": 0,
+      "canonical_source_ids": [
+        "mikey-approach-017"
+      ],
+      "zero_weight_reason": "Same recording as mikey-approach-017. Preserve its public URL as a pointer only, with zero additional source, claim, example or outcome weight."
+    }
+  ]
+}

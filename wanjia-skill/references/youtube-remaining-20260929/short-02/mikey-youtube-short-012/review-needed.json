@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-012",
+  "youtube_id": "GSFHvvEzMxA",
+  "review_completed": true,
+  "items": [
+    {
+      "review_id": "s012-r01",
+      "severity": "major",
+      "category": "asr_tail",
+      "issue": "The ASR continues beyond the media endpoint.",
+      "affected_evidence": [
+        "S00040-S00042"
+      ],
+      "disposition": "Exclude the overrun from claims and timeline."
+    },
+    {
+      "review_id": "s012-r02",
+      "severity": "major",
+      "category": "employment",
+      "issue": "The clip recommends assigning routine work to recent graduates because pay is low.",
+      "affected_evidence": [
+        "S00023-S00027"
+      ],
+      "disposition": "Do not turn this into exploitative hiring advice; require fair pay, lawful employment and role fit."
+    },
+    {
+      "review_id": "s012-r03",
+      "severity": "major",
+      "category": "scope",
+      "issue": "Running the whole workflow personally is not safe or lawful in every technical, medical, legal or regulated domain.",
+      "affected_evidence": [
+        "S00013-S00022"
+      ],
+      "disposition": "Limit it to understanding the process; use qualified specialists where required."
+    },
+    {
+      "review_id": "s012-r04",
+      "severity": "major",
+      "category": "source_parent",
+      "issue": "No parent long-form recording was located.",
+      "affected_evidence": [
+        "whole source"
+      ],
+      "disposition": "Keep as a provisional new candidate and re-run dedup if the parent appears."
+    }
+  ]
+}

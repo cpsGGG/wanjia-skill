@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-040",
+  "youtube_id": "c5c_FjfzBZ4",
+  "title": "真实搭讪 男朋友出现",
+  "coverage": {"transcript_segments_read": 9, "transcript_time_range_seconds": [0.0, 17.02], "semantic_media_range_seconds": [0.0, 17.531066], "sampled_frames_reviewed": 6, "continuous_original_audio_visual_review": false, "excluded_asr_tail": null},
+  "timeline": [
+    {"start": 0.0, "end": 3.86, "summary": "The male camera-holder greets three seated women and starts a request that the ASR renders as asking for WeChat."},
+    {"start": 3.86, "end": 11.56, "summary": "After a broken ASR fragment, the on-screen subtitle clearly reads ‘我想有男朋友’ (I want a boyfriend). The automatic transcript is too unclear to establish the following words or turn boundaries."},
+    {"start": 11.56, "end": 17.531066, "summary": "Another man enters or passes through the scene, the camera-holder walks away, and laughter is audible. The clip does not establish who the man is or why the interaction ends."}
+  ],
+  "claims": [
+    {"claim_id": "s040-c01", "speaker": "woman_in_group", "statement": "The visible subtitle records the woman saying ‘I want a boyfriend’; this is not the same as saying that she already has one.", "conditions": "The subtitle is visually clear, while the ASR and exact speaker-turn timing are uncertain; no broader intent or consent inference is permitted.", "evidence": ["visual/sampled/000004.jpg@approximately-9-seconds", "S00005@9.22-11.32-asr-uncertain"], "use_level": "hold"},
+    {"claim_id": "s040-c02", "speaker": "male_camera_holder_unconfirmed", "statement": "The camera-holder leaves after another man enters or passes through the scene.", "conditions": "The other man's identity and relationship to the women are not established, and the edit does not prove why the camera-holder leaves.", "evidence": ["visual/sampled/000005.jpg-visual/sampled/000006.jpg", "S00006-S00009@11.32-17.02"], "use_level": "hold"}
+  ],
+  "speaker_attribution": [{"speaker": "male_camera_holder_unconfirmed", "basis": "Male voice and first-person camera movement align, but sampled frames do not independently identify him as Mikey."}, {"speaker": "woman_in_group", "basis": "One of the three visible women is subtitled ‘我想有男朋友’; sparse sampling cannot map the voice to a specific woman with certainty."}, {"speaker": "additional_man_unknown", "basis": "A man appears in the last two sampled frames, but no evidence proves that he is anyone's boyfriend."}],
+  "visual_findings": ["The first four sampled frames show three seated women and the camera-holder's gesturing hand.", "Frame 000004 clearly subtitles ‘我想有男朋友’ (I want a boyfriend).", "An additional man appears in frames 000005-000006 as the camera-holder walks away; his identity and role are unknown."],
+  "permissions": {"formal_integration": false, "first_person_allowed": false, "action_advice_allowed": false, "use_level": "reuse_zero_weight", "reason": "The edited case adds no reliable novel method, and speaker, relationship, reason for exit and outcome remain uncertain."},
+  "limitations": ["S00003-S00006 are garbled and cannot establish precise wording or turn boundaries.", "The visible phrase must not be changed from ‘I want a boyfriend’ to ‘I have a boyfriend’.", "The additional man is not proven to be a boyfriend.", "Laughter cannot safely be assigned a motive or meaning.", "Sparse frames do not replace continuous audio-visual review."]
+}

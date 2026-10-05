@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-009",
+  "youtube_id": "vmnNcNnT4mE",
+  "review_completed": true,
+  "items": [
+    {"review_id": "s009-r01", "severity": "major", "category": "source_reuse", "issue": "The striped-shirt shot suggests an excerpt from the same unlocated long session as nearby Shorts, but no source transcript match was found.", "affected_evidence": ["whole source"], "disposition": "Keep as a new candidate only within the current corpus and re-run dedup if the parent stream is acquired."},
+    {"review_id": "s009-r02", "severity": "blocking", "category": "dehumanizing_language", "issue": "The answer calls people without subjectivity dogs and servile partners.", "affected_evidence": ["S00008-S00013"], "disposition": "Never reproduce the insult as guidance or identity judgment; retain only the agency distinction."},
+    {"review_id": "s009-r03", "severity": "major", "category": "relationship_generalization", "issue": "The clip links investment to relationship length and noninvestment to one-night sex without evidence or mutual-context detail.", "affected_evidence": ["S00018-S00022"], "disposition": "Keep as hold and do not predict relationship outcomes."}
+  ]
+}

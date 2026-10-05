@@ -1,0 +1,1070 @@
+{
+  "schema_version": "mikey-current-operational-followup-1.0",
+  "role": "post_release_navigation_and_answered_question_overlay_not_knowledge_or_permission_authority",
+  "baseline_release": {
+    "version": "0.2.0",
+    "status": "PASS_LOCAL_V2_DELIVERY_AND_FORMAL_DEPLOYMENT",
+    "guide_snapshot_sha256": "a0e01b0eb7d6baf4da3d4377b3dcaadb5c018309d2dc984b6957f6a924938ec4",
+    "final_acceptance_sha256": "e865bbddcdad5ac4d0b9a500247efbd841516cebc9847ac16d72cd9a6907cb5c"
+  },
+  "counts": {
+    "sources": 512,
+    "video_sources": 303,
+    "community_sources": 209,
+    "knowledge": 3649,
+    "source_original_knowledge": 3544,
+    "isolated_concept_atoms": 54,
+    "isolated_action_methods": 51,
+    "video_segments": 334097,
+    "community_segments": 533,
+    "packaged_images": 5,
+    "incomplete_permission_schema_rows": 0
+  },
+  "bounded_expression_count": 117,
+  "action_payload_count_included_in_expression": 51,
+  "new_knowledge_subrecords": {
+    "total": 98,
+    "concept": 50,
+    "method": 48
+  },
+  "original_location_question": {
+    "status": "LOCATION_QUESTION_CLOSED_PER_USER_AFTER_SELF_SEARCH",
+    "source_count": 100,
+    "location_confirmation_question_pending": false,
+    "repeat_original_location_request": false,
+    "user_statement": "你自己找啊，没有就是删了",
+    "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+    "content_audio_visual_review_tasks_closed": false,
+    "search_original_matches": 0,
+    "named_audio_matches": 0,
+    "related_zip_directories_read": 8,
+    "zip_original_video_members": 0,
+    "search_boundaries": [
+      "只搜索本机C/D可访问目录；权限拒绝目录及离线/未挂载位置未声称查遍。",
+      "保存两盘错误日志和文件清单；rg返回2源于目录访问错误，不隐瞒搜索边界。",
+      "按用户说明记为删除，不把这种处置误写成删除操作日志或完整听校结论。"
+    ],
+    "original_disposition_record_sha256": "00172a9cf0b36cb73052d684ff621a8e1de8f748d0abedb301c5e1128d4081ad",
+    "sources": [
+      {
+        "source_id": "quark-live-001",
+        "title": "如何提高社交软件配对成功率 社交软件的正确使用方法",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "quark-live-002",
+        "title": "如何网聊 可以制造出超强吸引力",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "quark-live-003",
+        "title": "外卖方法 让女人千里来找我 【Tinder王专场】",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "quark-live-004",
+        "title": "网聊绝技 只撩不攻 让女生无限上头",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "quark-live-005",
+        "title": "无敌网聊公式 解放你的大脑",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "quark-live-011",
+        "title": "直播10：高分妹外卖千里送",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "quark-live-012",
+        "title": "直播12- 我是如何拿下装逼高冷正妹的，mikey在内部群的日常分享。",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "quark-live-013",
+        "title": "直播13 我与离异少妇的爱恨情仇mikey在内部群的日常分享",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "quark-live-015",
+        "title": "直播15-月入4000的臭屌丝的大战顶级捞女",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "quark-live-016",
+        "title": "直播17聊天的目的 引导投资",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "quark-live-017",
+        "title": "直播20跨省外卖 约炮南京正妹人在家中坐妞从天上来约会搭讪",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "quark-live-018",
+        "title": "直播21大战某rapper前女友约会搭讪 ",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "quark-live-019",
+        "title": "直播22大战黄推博主约会",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "quark-live-020",
+        "title": "直播8：mikey讲解聊天案例 如何和女人网聊",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "quark-live-021",
+        "title": "直播23零成本约炮18岁清纯女高外卖方法帝王长期框架建立方法约会",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "quark-live-022",
+        "title": "直播24：把小区变成后宫最高效的得吃方法女邻居帝王长期框架建立方法约会搭讪 两性_1080p",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "quark-live-023",
+        "title": "直播26：约炮36D眼镜妹 历史最干直播 直播约会案例讲解 解决你所有的约会问题_720p",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "quark-live-024",
+        "title": "直播28：和绿茶女的极限拉扯 网聊讲解_720p",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "quark-live-026",
+        "title": "直播32：聊天如何 让女生主动想要",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "quark-live-027",
+        "title": "直播33：Mikey哥 泡妞失败 公开检讨",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "quark-live-031",
+        "title": "直播39：為什麽黑人、黃毛比你會泡妞丨愛情丨約會丨搭訕丨情感丨戀愛丨dating in china",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "quark-live-032",
+        "title": "直播40：網聊火熱，卻約不出來丨愛情丨約會丨搭訕丨情感丨戀愛丨dating in china",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "quark-live-035",
+        "title": "直播48_ 一口气大战八个女生 近期网聊案例分析",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "quark-live-036",
+        "title": "直播51_ 两性情感，近期网聊案例分析 泡妞 搭讪 约会丨搭訕玩家TV",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "quark-live-037",
+        "title": "直播52_ 聊天中的强行为线索",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "quark-live-038",
+        "title": "直播55_ 近期约炮案例分享 泡妞 搭讪 约会丨搭訕玩家TV",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "quark-live-039",
+        "title": "直播56_ 网聊对抗，大战大奶案例分享 泡妞 搭讪 约会丨搭訕玩家TV",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "quark-live-040",
+        "title": "直播63_ 被女神发现用过的避孕套丨 案例分享 丨搭訕玩家TV",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "quark-live-041",
+        "title": "直播64_ 时长三年的网聊，从黄灯转绿灯丨MIKEY的梦中情人丨 案例分享 丨搭訕玩家TV",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "quark-live-042",
+        "title": "直播66_ 一场约会，收尾A9富婆丨MIKEY的约会日常丨 案例分享 丨搭訕玩家TV",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "quark-live-043",
+        "title": "直播67_ 猫线理论，约P性压抑正妹丨MIKEY的约会日常丨 案例分享 丨搭訕玩家TV",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "quark-live-044",
+        "title": "直播71_上海把妹体验分享 丨案例分享 丨搭訕玩家TV",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "quark-live-045",
+        "title": "直播73_ 如何和绿茶女博弈，直播答疑 泡妞 搭讪 约会丨搭訕玩家TV",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "quark-live-046",
+        "title": "直播76_从搭讪到约炮.....直播打电话 聊骚",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "quark-live-047",
+        "title": "直播78：从被单删到打炮……mikey案例解析 聊骚丨搭訕玩家TV",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "quark-live-048",
+        "title": "直播85：又被删了...",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "quark-live-049",
+        "title": "直播86：网聊精讲",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "mikey-practice-002",
+        "title": "一约拿下假兴趣女（精讲系列）",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "mikey-practice-003",
+        "title": "一约拿下震动玩具女网红",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "mikey-practice-004",
+        "title": "一约会拿下 A9富婆",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "mikey-practice-005",
+        "title": "一约拿下36D顶美 必看",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "mikey-practice-006",
+        "title": "一约拿下 英国清冷顶美（必看系列）",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "mikey-practice-007",
+        "title": "一约拿下 极限约会拿下英国利兹留学富家女",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "mikey-practice-008",
+        "title": "一约拿下模特比例顶美 巧舌如簧的秘诀",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "mikey-practice-009",
+        "title": "一约拿下马术富家女",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "mikey-practice-010",
+        "title": "一约拿下超模",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "mikey-practice-011",
+        "title": "一约拿下少妇 约会全程一刀未剪",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "mikey-practice-012",
+        "title": "一约拿下双马尾（精讲系列）",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "mikey-practice-013",
+        "title": "一约拿下 25分钟光速TD顶美 行业巅峰",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "mikey-practice-014",
+        "title": "一约拿下 25分钟光速TD顶美（完整版）",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "mikey-practice-015",
+        "title": "一约拿下 从搭讪到拿下的全过程 可爱女生",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "mikey-practice-016",
+        "title": "一约拿下 从搭讪到拿下 全流程",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "mikey-practice-017",
+        "title": "街头搭讪把陌生女生带回酒店（纯享版 一刀未剪）",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "mikey-practice-020",
+        "title": "一约拿下 长沙富家女（精讲系列）",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "mikey-practice-021",
+        "title": "一约拿下甜妹",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "mikey-practice-022",
+        "title": "一约拿下172艺术留学生",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "mikey-practice-023",
+        "title": "一约拿下留学艺术生完整版 一刀未剪",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "mikey-practice-024",
+        "title": "一约拿下 美国名校留学生（精讲系列）",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "mikey-practice-025",
+        "title": "一约拿下 私密空间调情拿下河北正妹",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "mikey-practice-026",
+        "title": "一约拿下 夜店搭讪甜美萌妹视觉系，直接带回家收尾",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "mikey-practice-029",
+        "title": "一约拿下 酒桌游戏玩法 全程一刀未剪",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "mikey-practice-030",
+        "title": "一约拿下 搭讪即时约会 全过程",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "mikey-practice-031",
+        "title": "一约拿下闷骚女（精讲系列）",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "mikey-practice-032",
+        "title": "一约拿下保守女人",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "mikey-practice-033",
+        "title": "一约拿下抖音小网红（精讲系列）",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "mikey-practice-034",
+        "title": "一约拿下排球运动员",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "mikey-practice-035",
+        "title": "一约拿下小绿茶全流程",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "mikey-practice-036",
+        "title": "一约拿下SM教主",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "mikey-practice-037",
+        "title": "一约拿下嫩妹学生 白天约会",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "mikey-practice-038",
+        "title": "38.如何一次约会全垒打（内含实战讲解）.mp4",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "mikey-practice-039",
+        "title": "39.深圳学员搭讪失败 我上阵全垒打.mp4",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "mikey-practice-040",
+        "title": "40.一约拿下 深圳外卖女生到酒店.mp4",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "mikey-practice-041",
+        "title": "一约拿下C",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "mikey-practice-042",
+        "title": "一约拿下 一品啤酒 帮忙破C",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "mikey-practice-043",
+        "title": "一约拿下歌剧女（精讲系列）",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "mikey-practice-044",
+        "title": "搭讪可爱清纯女生，一天之内拿下",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "mikey-approach-002",
+        "title": "太古里搭讪御姐",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "mikey-approach-010",
+        "title": "搭讪日常3",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "mikey-approach-017",
+        "title": "搭讪甜妹",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "mikey-approach-020",
+        "title": "香港搭讪戴耳机",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "mikey-approach-028",
+        "title": "搭讪日常",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "mikey-approach-029",
+        "title": "搭讪日常4",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "mikey-gameshengjing-000",
+        "title": "搭讪玩家Game圣经-前言",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "mikey-gameshengjing-001",
+        "title": "第一章 三伪神（这个世界束缚你的三尊伪神）",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "mikey-gameshengjing-002",
+        "title": "第二章 外在价值（如何得到更高质量的女人）",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "mikey-gameshengjing-003",
+        "title": "第三章 内在价值（女人最无法抗拒哪种男人）",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "mikey-gameshengjing-004",
+        "title": "第四章 自我（让女人对你饥渴的关键）",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "mikey-gameshengjing-005",
+        "title": "第五章 你为什么没有约会（关于你为什么没有约会）",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "mikey-gameshengjing-006",
+        "title": "第六章 资源获取（如何大批量收号）",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "mikey-gameshengjing-007",
+        "title": "第七章 朋友圈怎么发能拥有超高线上吸引",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "mikey-gameshengjing-008",
+        "title": "第八章 展示面的审美 如何拥有一个高质量审美",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "mikey-gameshengjing-009",
+        "title": "第九章 应该怎么网聊（网聊必须具备的基本认知）",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "mikey-gameshengjing-010",
+        "title": "第十章 网聊人设（在这个世界上你可以成为任何人）",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "mikey-gameshengjing-011",
+        "title": "第十一章 垂直聊天“她我我们”（99 的男人都不懂的垂直聊天法）",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "mikey-gameshengjing-015",
+        "title": "第十五章 约会中常见的强行为线索（附赠）",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "mikey-gameshengjing-016",
+        "title": "第十六章 搭讪前的准备工作（导师搭讪之前都会做的准备工作）",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "mikey-gameshengjing-017",
+        "title": "第十七章 搭讪心态（什么是搭讪前的焚决心态）",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "mikey-gameshengjing-018",
+        "title": "第十八章 开场即吸引（如何做到搭讪开场即吸引）",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "mikey-gameshengjing-019",
+        "title": "第十九章 搭讪SOP（搭讪全流程SOP）",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      },
+      {
+        "source_id": "mikey-gameshengjing-020",
+        "title": "第二十章 结语 救赎之道，就在其中",
+        "original_disposition": "deleted_per_user_statement_after_accessible_local_search",
+        "basis": "2026-10-05用户：你自己找啊，没有就是删了；C/D可访问路径搜索无匹配，历史路径复查无文件。",
+        "needs_user_original_location_answer": false,
+        "content_audio_visual_review_closed": false,
+        "existing_text_audio_image_evidence_retained": true,
+        "permission_or_knowledge_changed": false
+      }
+    ]
+  },
+  "resolved_user_requests": [
+    "two_refresh_media_cookie_download_and_delivery",
+    "old_account_connection_and_existing_results_retrieval",
+    "designated_new_analysis_account",
+    "specific_two_private_review_packages_upload_permission",
+    "unsent_web_draft_disposition"
+  ],
+  "superseded_snapshot_request_fields": [
+    "references/transcript-status/README.md:需用户原件位置",
+    "references/transcript-status/original-location-needed.csv:needs_user_original_location_answer",
+    "references/transcript-status/transcript-status.json:proposal_status",
+    "references/v2-remediation-summary.json:unresolved[2]"
+  ],
+  "runtime_authority_unchanged": true,
+  "raw_asr_replaced": false,
+  "independent_new_listening_or_identity_verification": false,
+  "mikey_10_status": "PAUSED",
+  "global_install_or_online_mikey_publication_claimed": false,
+  "other_yongsheng_project_modified": false
+}

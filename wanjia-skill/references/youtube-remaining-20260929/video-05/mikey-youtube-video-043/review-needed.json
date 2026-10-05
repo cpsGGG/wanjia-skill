@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-043",
+  "youtube_id": "f6_phteCGeM",
+  "review_completed": true,
+  "items": [
+    {"review_id": "v043-r01", "severity": "blocking", "category": "duplicate", "issue": "Same underlying recording as formal mikey-approach-002.", "affected_evidence": ["whole source"], "disposition": "Reuse with formal weight 0."},
+    {"review_id": "v043-r02", "severity": "blocking", "category": "time_limit_and_contact_consent", "issue": "The woman says she has an urgent matter, followed by a request for WeChat; phone actions and voluntariness are not continuously verified.", "affected_evidence": ["S00018-S00030"], "disposition": "Honor the time limit immediately; do not infer contact consent or success from standing, a phone, or brief assent."},
+    {"review_id": "v043-r03", "severity": "major", "category": "invitation_pressure", "issue": "After an uncertain next-weekend answer, the man asks about other men and frames competition.", "affected_evidence": ["S00056-S00078"], "disposition": "Treat uncertainty as unresolved and avoid jealousy or competition pressure."},
+    {"review_id": "v043-r04", "severity": "major", "category": "age_and_attribution", "issue": "The transcript includes age 24 and student status, but short turns were not independently diarized.", "affected_evidence": ["S00027-S00055"], "disposition": "Do not rely on age or adulthood attribution without verified speaker turns; never infer age from appearance."},
+    {"review_id": "v043-r05", "severity": "major", "category": "nationality_stereotype", "issue": "The man guesses Vietnamese identity from appearance/context and links it to food preference.", "affected_evidence": ["S00039-S00043"], "disposition": "Do not generalize ethnicity or nationality from appearance."},
+    {"review_id": "v043-r06", "severity": "major", "category": "privacy_and_filming", "issue": "A public participant and bystanders are recorded; consent to recording/publication is not shown.", "affected_evidence": ["sampled frames 000001-000003"], "disposition": "Do not expose identity or reuse imagery without privacy and consent review."},
+    {"review_id": "v043-r07", "severity": "major", "category": "outcome", "issue": "The edit does not verify contact saving, later replies or a meeting.", "affected_evidence": ["S00086-S00091", "136.79-148.91"], "disposition": "Do not count this as a successful contact or date."}
+  ]
+}

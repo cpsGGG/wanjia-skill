@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-041",
+  "youtube_id": "o65H-5O2EsQ",
+  "title": "真实搭讪，搭讪大学生",
+  "coverage": {
+    "transcript_segments_read": 12,
+    "transcript_time_range_seconds": [0.0, 22.48],
+    "semantic_media_range_seconds": [0.0, 23.150295],
+    "sampled_frames_reviewed": 8,
+    "dense_1s_frames_reviewed": 23,
+    "continuous_original_audio_visual_review": false,
+    "excluded_asr_tail": null
+  },
+  "timeline": [
+    {"start": 0.0, "end": 7.56, "summary": "The male camera-holder says he is not selling something, asks for one woman's WeChat and says he wants to meet her. The burned subtitles clarify several phrases that the ASR garbles."},
+    {"start": 7.56, "end": 12.38, "summary": "One woman and the camera-holder bring out phones and move them close together; the edit does not show enough device detail to prove that a contact was saved."},
+    {"start": 12.38, "end": 16.82, "summary": "They discuss the many photographers nearby and the possibility of being mistaken for one. A woman responds that it is all right."},
+    {"start": 16.82, "end": 23.150295, "summary": "Phone handling continues briefly and the parties separate with an OK and goodbye; no later contact or outcome is shown."}
+  ],
+  "claims": [
+    {"claim_id": "s041-c01", "speaker": "male_camera_holder_unconfirmed", "statement": "The camera-holder opens by stating that he is not selling something, directly asks for one woman's WeChat and says he wants to meet her.", "conditions": "This is an observed approach sequence, not evidence that the wording caused cooperation; the camera-holder is not independently authenticated as Mikey.", "evidence": ["S00001-S00006@0.00-7.56", "visual/dense-1s/000001.jpg-visual/dense-1s/000007.jpg"], "use_level": "hold"},
+    {"claim_id": "s041-c02", "speaker": "woman_in_group_and_male_camera_holder", "statement": "One woman participates in phone handling after the request and later says the photographer concern is not a problem.", "conditions": "Participation in this moment does not establish informed consent to filming, attraction, a completed contact save or consent to later interaction.", "evidence": ["S00007-S00010@12.38-16.82", "visual/dense-1s/000008.jpg-visual/dense-1s/000020.jpg"], "use_level": "hold"}
+  ],
+  "examples": [
+    {"example_id": "s041-e01", "summary": "A short public approach moves from an explicit contact request to phone handling, a brief photographer clarification and a goodbye.", "evidence": ["S00001-S00012@0.00-22.48", "visual/dense-contact-sheet.jpg"]}
+  ],
+  "speaker_attribution": [
+    {"speaker": "male_camera_holder_unconfirmed", "basis": "Male speech aligns with first-person camera movement and an outstretched hand, but no reviewed frame independently identifies him as Mikey."},
+    {"speaker": "woman_in_group", "basis": "Two women are visible; sparse and one-second frames cannot map every short response to a specific woman with certainty."}
+  ],
+  "visual_findings": [
+    "All eight sampled frames and all twenty-three one-second dense frames were reviewed.",
+    "Two women are identifiable in a public shopping area; one appears to present or operate a phone during the exchange.",
+    "The phones' screens are not readable enough to verify a saved contact, and the edit ends after a goodbye."
+  ],
+  "permissions": {"formal_integration": false, "first_person_allowed": false, "action_advice_allowed": false, "use_level": "research_candidate_hold", "reason": "Distinct case only; identity, filming consent, completed exchange and downstream outcome are unverified."},
+  "limitations": [
+    "The automatic transcript is garbled in S00002-S00006; burned subtitles support the broad sequence but were not treated as a word-for-word audio check.",
+    "The title calls the women university students, but neither the transcript nor the reviewed frames establish their student status.",
+    "Phone proximity and handling do not prove a successful WeChat exchange.",
+    "Visible faces create privacy risk; do not package identifiable imagery without privacy review.",
+    "One-second visual review is denser than the manifest sampling but is not continuous original audio-visual verification."
+  ]
+}

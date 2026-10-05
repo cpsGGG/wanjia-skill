@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-021",
+  "youtube_id": "1l8zI7O_wAc",
+  "decision": "reuse",
+  "reuse_of": "mikey-youtube-live-005",
+  "formal_weight_if_integrated": 0,
+  "compared_sources": [
+    {
+      "scope": "formal_mikey_guide",
+      "source_count": 202,
+      "comparison": "YouTube identity, normalized transcript phrase screen, and semantic knowledge screen"
+    },
+    {
+      "scope": "video-01_to_video-05_short-01_to_short-02_and_short-03_known_items",
+      "comparison": "YouTube identity, normalized transcript phrase screen, and semantic screen"
+    },
+    {
+      "scope": "formal_semantic_sources",
+      "source_ids": [
+        "mikey-youtube-live-005",
+        "mikey-sijiao-008",
+        "mikey-practice-005"
+      ],
+      "comparison": "same rule against performing a high-energy or impressive persona that does not match the person's ordinary state"
+    }
+  ],
+  "evidence": [
+    {
+      "type": "identity",
+      "result": "no_exact_id_or_url_match"
+    },
+    {
+      "type": "transcript",
+      "result": "no_exact_parent_excerpt_located",
+      "basis": "Distinctive phrase searches did not locate this exact 22.24-second wording in the screened corpus."
+    },
+    {
+      "type": "semantic_reuse",
+      "result": "already_represented",
+      "basis": "Formal mikey-youtube-live-005-K004/K015 already covers relaxed non-performative delivery and inconsistency exposed by forced performance; mikey-sijiao-008-K0001 and mikey-practice-005-K0003 cover the same daily-state versus performed-persona boundary."
+    },
+    {
+      "type": "visual",
+      "result": "single_speaker_cafe_excerpt",
+      "basis": "All 8 sampled frames show the same seated man in a cafe-like setting; no demonstration, second speaker, private chat, refusal, consent event, or outcome appears."
+    }
+  ],
+  "boundary": "Treat as a semantic reuse of the established consistency/non-performance lesson. Do not count the Short as independent support or assign source or knowledge weight."
+}

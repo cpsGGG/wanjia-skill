@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-042",
+  "youtube_id": "VBGL7Bb12Io",
+  "review_completed": true,
+  "items": [
+    {"review_id": "s042-r01", "severity": "blocking", "category": "asr_duration_overrun", "issue": "S00014 ends at 37.63 seconds, 0.779932 seconds beyond the audited 36.850068-second media duration.", "affected_evidence": ["S00014@35.63-37.63"], "disposition": "Exclude S00014 in full from the timeline, claims and evidence."},
+    {"review_id": "s042-r02", "severity": "major", "category": "speaker_attribution", "issue": "The male camera-holder is not independently identified as Mikey, and some automatic turn boundaries are uncertain.", "affected_evidence": ["whole source"], "disposition": "Use generic speaker labels and disable first-person use."},
+    {"review_id": "s042-r03", "severity": "blocking", "category": "consent_and_outcome", "issue": "The phones are brought together, but the clip does not establish a saved contact, informed filming/publication consent, attraction or later contact.", "affected_evidence": ["S00006-S00010@15.22-27.39", "visual/dense-1s/000016.jpg-visual/dense-1s/000027.jpg"], "disposition": "Describe only the apparent scan attempt and keep all success and consent inferences out."},
+    {"review_id": "s042-r04", "severity": "major", "category": "privacy", "issue": "The woman is clearly identifiable in public footage.", "affected_evidence": ["all sampled and dense frames"], "disposition": "Require privacy review or redaction before packaging imagery outside the research archive."}
+  ]
+}

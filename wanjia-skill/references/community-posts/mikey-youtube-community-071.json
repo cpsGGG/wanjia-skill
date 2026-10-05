@@ -1,0 +1,50 @@
+{
+  "schema_version": "mikey-community-post-fulltext-1.0",
+  "source_id": "mikey-youtube-community-071",
+  "post_id": "UgkxWwVnL0wnRTeT73_XRQYbq6lDjTVTmOYm",
+  "url": "https://www.youtube.com/post/UgkxWwVnL0wnRTeT73_XRQYbq6lDjTVTmOYm",
+  "published_at": "2025-11-13T05:00:00.16707-08:00",
+  "date_basis": "archived_public_observation",
+  "body": "你们是一起进入森林的两个人而已 你也可能是猎物 他也可能是猎人 这个东西是不断互换的 最终你们一起到达的山顶 而不是你独自进入这个森林 她已经在那里准备好了",
+  "body_kind": "verbatim_or_as_archived_in_corrected_candidate",
+  "image_refs": [
+    {
+      "image_index": 1,
+      "research_archive_path": "research/youtube-community-batch1/images/UgkxWwVnL0wnRTeT73_XRQYbq6lDjTVTmOYm/01.jpg",
+      "sha256": "562c44d9e6bf363a8633814f6f7dd8e09457d6e6b88f8d1df5e54c9a524634e8",
+      "bytes": 280548,
+      "formal_asset_policy": "reference_only_do_not_copy",
+      "safe_summary": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。"
+    }
+  ],
+  "segments": [
+    {
+      "sid": "C0071-BODY",
+      "kind": "channel_body",
+      "text": "你们是一起进入森林的两个人而已 你也可能是猎物 他也可能是猎人 这个东西是不断互换的 最终你们一起到达的山顶 而不是你独自进入这个森林 她已经在那里准备好了",
+      "verbatim_allowed": true,
+      "source_scope": "public_channel_body_as_archived"
+    },
+    {
+      "sid": "C0071-IMG01",
+      "kind": "image_reference_metadata",
+      "text": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。",
+      "verbatim_allowed": false,
+      "image_reference": {
+        "image_index": 1,
+        "research_archive_path": "research/youtube-community-batch1/images/UgkxWwVnL0wnRTeT73_XRQYbq6lDjTVTmOYm/01.jpg",
+        "sha256": "562c44d9e6bf363a8633814f6f7dd8e09457d6e6b88f8d1df5e54c9a524634e8",
+        "bytes": 280548,
+        "formal_asset_policy": "reference_only_do_not_copy",
+        "safe_summary": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。"
+      }
+    }
+  ],
+  "privacy_policy": {
+    "original_images_copied": false,
+    "raw_ocr_copied": false,
+    "private_chat_transcript_copied": false,
+    "third_party_identity_confirmed": false,
+    "publication_authorization_confirmed": false
+  }
+}

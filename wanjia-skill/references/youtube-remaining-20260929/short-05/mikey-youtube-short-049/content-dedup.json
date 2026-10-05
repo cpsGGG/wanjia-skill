@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-049",
+  "youtube_id": "J4fxjbY8u0U",
+  "decision": "reuse",
+  "reuse_of": ["quark-live-006-k034", "quark-live-028-k014", "quark-live-030-k008"],
+  "formal_weight_if_integrated": 0,
+  "compared_sources": [
+    {"scope": "formal_mikey_guide_202_sources", "comparison": "exact ID/URL, distinctive phrases and phone-distraction/respect semantics"},
+    {"scope": "youtube_pipeline_video_01_to_05_and_short_01_to_04", "comparison": "exact ID/URL, transcript and semantic reuse screen"},
+    {"source_id": "quark-live-006-k034", "comparison": "persistent phone use treated as a signal of low participation"},
+    {"source_id": "quark-live-028-k014", "comparison": "phone use framed as disrespect, with explicit formal limits against equating noncompliance with disrespect"},
+    {"source_id": "quark-live-030-k008", "comparison": "ask about continued participation instead of assigning motive to phone use"}
+  ],
+  "evidence": [
+    {"type": "identity", "result": "no_exact_id_or_url_match"},
+    {"type": "transcript", "result": "no_exact_parent_excerpt_located", "basis": "No processed transcript reproduced the full 30.90-second wording in order."},
+    {"type": "semantic_reuse", "result": "already_represented", "basis": "The only portable theme—persistent phone use may signal disengagement or disrespect—is already represented with stronger boundaries in formal sources."},
+    {"type": "visual", "result": "single_speaker_selfie", "basis": "All eleven sampled frames show a single on-camera monologue; no gathering, woman, phone interaction or outcome is shown."}
+  ],
+  "boundary": "Zero weight. Refusing alcohol or games is not evidence of disrespect and participation cannot be coerced. The gendered insults and predictions about social reputation or aging are unsupported and must not be generalized."
+}

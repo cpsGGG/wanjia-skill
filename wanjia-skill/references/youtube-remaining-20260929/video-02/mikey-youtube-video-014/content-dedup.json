@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-014",
+  "youtube_id": "NRaAhclf_nY",
+  "decision": "new",
+  "compared_sources": [
+    {"scope": "formal_mikey_guide", "source_count": 202, "comparison": "youtube_id_url_normalized_fulltext_and_12_character_shingles"},
+    {"scope": "formal_analyses_phrase_screen", "queries": ["勇敢的小羊", "独立男性", "boys help boys", "散帅词条", "词条被封"]}
+  ],
+  "evidence": [
+    {"type": "identity", "result": "no_exact_youtube_id_or_url_overlap", "basis": "video-02/identity-precheck.json and current formal source-index"},
+    {"type": "normalized_fulltext", "target_normalized_chars": 3997, "target_sha256": "ac7c290c845837a749d345081131ecfb2ec5054d117f1f2338a78ec4b82d948c", "formal_transcripts_checked": 202, "exact_matches": []},
+    {"type": "near_duplicate_screen", "method": "12_character_shingle_containment", "highest_formal_containment": 0.0015105740181268882, "result": "no transcript-scale reuse detected"},
+    {"type": "phrase_screen", "result": "no formal analysis matched the named meme, song, or removal narrative"}
+  ],
+  "boundary": "No exact or transcript-scale reuse was found. The platform-removal chronology and comparative enforcement claims require external evidence and must not be treated as verified merely because edited screenshots appear in the video."
+}

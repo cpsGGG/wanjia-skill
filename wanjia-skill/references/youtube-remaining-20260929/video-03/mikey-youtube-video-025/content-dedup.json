@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-025",
+  "youtube_id": "EHKvEfaObSE",
+  "decision": "new",
+  "compared_sources": [
+    {"scope": "formal_mikey_guide", "source_count": 202, "comparison": "youtube_id_url_normalized_fulltext_and_12_character_shingles"},
+    {"source_id": "mikey-practice-018-K0014", "comparison": "social proof and attraction"},
+    {"source_id": "YEm81yAdw2E:K04", "comparison": "women noticing men recognized by other women"},
+    {"source_id": "mikey-youtube-live-011-K001", "comparison": "provider and attraction-role distinction"},
+    {"source_id": "mikey-youtube-live-011-K002", "comparison": "social proof and preselection"},
+    {"source_id": "mikey-youtube-live-011-K003", "comparison": "provider-lover framework and its restrictions"},
+    {"source_id": "i6bCkJEnMHM:K09", "comparison": "status and social recognition"},
+    {"source_id": "i6bCkJEnMHM:K10", "comparison": "emotion and attraction framing"},
+    {"source_id": "i6bCkJEnMHM:K12", "comparison": "provider-lover generalization"},
+    {"scope": "existing_research_and_video_03_batch", "comparison": "normalized fulltext, public-post case, wording and argument-sequence screen"}
+  ],
+  "evidence": [
+    {"type": "identity", "result": "no_exact_youtube_id_or_url_overlap", "basis": "video-03/identity-precheck.json and current formal source-index"},
+    {"type": "normalized_fulltext", "target_normalized_chars": 4481, "target_sha256": "64b86718abd5fb68bd7109f2210e79a11ca36cc0e563f1fa1652e3706af714fc", "formal_transcripts_checked": 202, "exact_matches": []},
+    {"type": "near_duplicate_screen", "method": "12_character_shingle_containment", "highest_formal_containment": 0.0, "result": "no transcript-scale verbatim reuse detected"},
+    {"type": "existing_research_screen", "highest_containment": 0.0, "result": "no research-package transcript-scale reuse detected"}
+  ],
+  "boundary": "Formal material already contains social-proof and provider-lover themes, but this upload applies them to a distinct public wedding-post case and adds an excitement-transfer and genetic-selection narrative. It is a new restricted source; the public post does not validate the narrator's private-motive inferences."
+}

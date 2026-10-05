@@ -1,0 +1,50 @@
+{
+  "schema_version": "mikey-community-post-fulltext-1.0",
+  "source_id": "mikey-youtube-community-021",
+  "post_id": "UgkxI4r5Q1CGtfKjIJOxqKz-dHadViW4HmdT",
+  "url": "https://www.youtube.com/post/UgkxI4r5Q1CGtfKjIJOxqKz-dHadViW4HmdT",
+  "published_at": "2025-08-27T01:57:40.625888-07:00",
+  "date_basis": "archived_public_observation",
+  "body": "雌性是无法对于弱势或者被主导的雄性，产生心动（即所谓的爱的感觉）即使她用理智道德强迫自己也做不到。就像你无法在吃饱的时候强迫自己产生饿的感觉。",
+  "body_kind": "verbatim_or_as_archived_in_corrected_candidate",
+  "image_refs": [
+    {
+      "image_index": 1,
+      "research_archive_path": "research/youtube-community-batch1/images/UgkxI4r5Q1CGtfKjIJOxqKz-dHadViW4HmdT/01.jpg",
+      "sha256": "138e93c824f060105a5fb25d3bfef4f5c1dc6652a0d7e1a907eaeb6f2c2e6ca2",
+      "bytes": 183831,
+      "formal_asset_policy": "reference_only_do_not_copy",
+      "safe_summary": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。"
+    }
+  ],
+  "segments": [
+    {
+      "sid": "C0021-BODY",
+      "kind": "channel_body",
+      "text": "雌性是无法对于弱势或者被主导的雄性，产生心动（即所谓的爱的感觉）即使她用理智道德强迫自己也做不到。就像你无法在吃饱的时候强迫自己产生饿的感觉。",
+      "verbatim_allowed": true,
+      "source_scope": "public_channel_body_as_archived"
+    },
+    {
+      "sid": "C0021-IMG01",
+      "kind": "image_reference_metadata",
+      "text": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。",
+      "verbatim_allowed": false,
+      "image_reference": {
+        "image_index": 1,
+        "research_archive_path": "research/youtube-community-batch1/images/UgkxI4r5Q1CGtfKjIJOxqKz-dHadViW4HmdT/01.jpg",
+        "sha256": "138e93c824f060105a5fb25d3bfef4f5c1dc6652a0d7e1a907eaeb6f2c2e6ca2",
+        "bytes": 183831,
+        "formal_asset_policy": "reference_only_do_not_copy",
+        "safe_summary": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。"
+      }
+    }
+  ],
+  "privacy_policy": {
+    "original_images_copied": false,
+    "raw_ocr_copied": false,
+    "private_chat_transcript_copied": false,
+    "third_party_identity_confirmed": false,
+    "publication_authorization_confirmed": false
+  }
+}

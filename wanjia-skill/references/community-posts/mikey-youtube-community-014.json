@@ -1,0 +1,50 @@
+{
+  "schema_version": "mikey-community-post-fulltext-1.0",
+  "source_id": "mikey-youtube-community-014",
+  "post_id": "UgkxVTm0c8Gb6GvIx-bpzPQ1L7UfKOY0zXhc",
+  "url": "https://www.youtube.com/post/UgkxVTm0c8Gb6GvIx-bpzPQ1L7UfKOY0zXhc",
+  "published_at": "2025-08-12T00:00:00.304731-07:00",
+  "date_basis": "archived_public_observation",
+  "body": "可得性就是女生觉得是否和你在一起的可能。可得性高，她会觉得你非她不可，从而拿你的需求感控制你；可得性过低，她会觉得这个人虽然好但是和我没关系。喜欢但不可得的跑车不会让你想入非非；随时可得却没价值的石头也不会被带回家。掌控可得性的关键是平衡。",
+  "body_kind": "readable_normalized_summary_not_verbatim",
+  "image_refs": [
+    {
+      "image_index": 1,
+      "research_archive_path": "research/youtube-community-batch1/images/UgkxVTm0c8Gb6GvIx-bpzPQ1L7UfKOY0zXhc/01.jpg",
+      "sha256": "e0005082d62ce93b2c2f2744168bf1aefb59264e28169b57248096cbbd5a3b56",
+      "bytes": 296709,
+      "formal_asset_policy": "reference_only_do_not_copy",
+      "safe_summary": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。"
+    }
+  ],
+  "segments": [
+    {
+      "sid": "C0014-BODY",
+      "kind": "channel_body",
+      "text": "可得性就是女生觉得是否和你在一起的可能。可得性高，她会觉得你非她不可，从而拿你的需求感控制你；可得性过低，她会觉得这个人虽然好但是和我没关系。喜欢但不可得的跑车不会让你想入非非；随时可得却没价值的石头也不会被带回家。掌控可得性的关键是平衡。",
+      "verbatim_allowed": false,
+      "source_scope": "readable_normalized_summary_not_verbatim"
+    },
+    {
+      "sid": "C0014-IMG01",
+      "kind": "image_reference_metadata",
+      "text": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。",
+      "verbatim_allowed": false,
+      "image_reference": {
+        "image_index": 1,
+        "research_archive_path": "research/youtube-community-batch1/images/UgkxVTm0c8Gb6GvIx-bpzPQ1L7UfKOY0zXhc/01.jpg",
+        "sha256": "e0005082d62ce93b2c2f2744168bf1aefb59264e28169b57248096cbbd5a3b56",
+        "bytes": 296709,
+        "formal_asset_policy": "reference_only_do_not_copy",
+        "safe_summary": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。"
+      }
+    }
+  ],
+  "privacy_policy": {
+    "original_images_copied": false,
+    "raw_ocr_copied": false,
+    "private_chat_transcript_copied": false,
+    "third_party_identity_confirmed": false,
+    "publication_authorization_confirmed": false
+  }
+}

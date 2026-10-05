@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-046",
+  "youtube_id": "zHgwYvflSrs",
+  "decision": "reuse",
+  "reuse_of": [
+    "mikey-youtube-live-034-K004",
+    "mikey-youtube-live-007-K024",
+    "quark-live-033-k014",
+    "mikey-youtube-live-035-K006"
+  ],
+  "formal_weight_if_integrated": 0,
+  "compared_sources": [
+    {
+      "scope": "formal_mikey_guide",
+      "source_count": 202,
+      "comparison": "exact ID/URL, distinctive phrase search, normalized transcript 5-character shingles and semantic screen"
+    },
+    {
+      "scope": "youtube_pipeline_video_01_to_05_and_short_01_to_04",
+      "comparison": "exact ID/URL, transcript and semantic reuse screen"
+    },
+    {
+      "source_id": "mikey-youtube-live-034-K004",
+      "comparison": "same usable method: enter anxiety-producing situations gradually and repeatedly instead of waiting for fear to disappear"
+    },
+    {
+      "source_id": "mikey-youtube-live-007-K024",
+      "comparison": "same action-start principle for taking the first step in a safe, appropriate public setting"
+    },
+    {
+      "source_id": "quark-live-033-k014",
+      "comparison": "same acceptance of approach anxiety and low-pressure warm-up framing"
+    },
+    {
+      "source_id": "mikey-youtube-live-035-K006",
+      "comparison": "same action, mistakes and review loop for turning understanding into stable behavior"
+    }
+  ],
+  "evidence": [
+    {
+      "type": "identity",
+      "result": "no_exact_youtube_id_or_url_match"
+    },
+    {
+      "type": "transcript",
+      "result": "no_same_passage_match",
+      "basis": "No processed source reproduces the complete contrast between short intense fear and long mild disappointment."
+    },
+    {
+      "type": "semantic_overlap",
+      "result": "usable_method_already_represented",
+      "basis": "The only actionable implication is to take a safe first step despite temporary anxiety rather than wait for fear to vanish; formal sources already preserve that method and its gradual, low-pressure conditions."
+    },
+    {
+      "type": "visual",
+      "result": "single_speaker_motivational_clip",
+      "basis": "All 12 sampled frames show the same on-camera narrator; no behavior, comparison group or outcome is demonstrated."
+    }
+  ],
+  "boundary": "Zero weight. Preserve the short/intense versus long/mild contrast as Mikey's motivational explanation, but do not count it as independent evidence or as a psychological fact about all people."
+}

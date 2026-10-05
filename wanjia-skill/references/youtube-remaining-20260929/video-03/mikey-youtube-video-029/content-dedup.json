@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-029",
+  "youtube_id": "Nk8m70zAZAk",
+  "decision": "new",
+  "compared_sources": [
+    {
+      "scope": "formal_mikey_guide",
+      "source_count": 202,
+      "comparison": "youtube_id_url_normalized_fulltext_and_8_12_16_character_shingles"
+    },
+    {
+      "scope": "prior_remaining-video_research",
+      "source_count": 44,
+      "comparison": "normalized_fulltext_and_8_12_16_character_shingles_after_1080p_retranscription"
+    },
+    {
+      "source_id": "mikey-gameshengjing-017",
+      "title": "第十七章 搭讪心态",
+      "comparison": "NPC_player_metaphor_external-judgment_and_action_theme"
+    },
+    {
+      "source_id": "mikey-sijiao-015",
+      "comparison": "player-mindset_and_non-scripted-response_theme"
+    },
+    {
+      "source_id": "mikey-youtube-video-030",
+      "comparison": "same-batch_self_agency_and_NPC_theme"
+    }
+  ],
+  "evidence": [
+    {
+      "type": "identity",
+      "result": "no_exact_youtube_id_or_url_overlap",
+      "basis": "video-03/identity-precheck.json and formal source-index"
+    },
+    {
+      "type": "normalized_fulltext",
+      "target_normalized_chars": 2347,
+      "target_sha256": "62d5a70285730c759b874802e31cba93ca38858f0abf72e339c50b73b607d1b4",
+      "formal_transcripts_checked": 202,
+      "exact_matches": []
+    },
+    {
+      "type": "near_duplicate_screen",
+      "method": "rolling_character_shingle_target_containment",
+      "highest_formal_match": "mikey-practice-030",
+      "containment": {
+        "8_chars": 0.0030017153,
+        "12_chars": 0.0,
+        "16_chars": 0.0
+      },
+      "result": "no transcript-scale reuse detected after 1080p retranscription"
+    },
+    {
+      "type": "prior_research_screen",
+      "highest_match": "mikey-youtube-video-042",
+      "containment": {
+        "8_chars": 0.0012864494,
+        "12_chars": 0.0,
+        "16_chars": 0.0
+      },
+      "result": "no transcript-scale reuse detected across 44 other remaining-video transcripts"
+    },
+    {
+      "type": "related_content",
+      "formal_source_id": "mikey-gameshengjing-017",
+      "result": "same NPC/player metaphor, but this upload adds a Minecraft origin story, rule-understanding sequence, anti-script argument and full channel-name explanation"
+    }
+  ],
+  "boundary": "Count as a new research source pending independent review. The NPC/player metaphor is recurrent doctrine, while this upload's wording and narrative sequence are distinct; repetition does not validate dehumanizing treatment of other people."
+}

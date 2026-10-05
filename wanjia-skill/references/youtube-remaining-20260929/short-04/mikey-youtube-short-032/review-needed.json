@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-032",
+  "youtube_id": "vT44uMVNSes",
+  "review_completed": true,
+  "items": [
+    {
+      "review_id": "s032-r01",
+      "severity": "major",
+      "category": "source_reuse",
+      "issue": "The usable distinction between external value and self-worth, plus the equality/relaxation principle, is already represented in formal sources.",
+      "affected_evidence": ["S00023-S00032", "S00049-S00061"],
+      "disposition": "Keep formal weight at zero and link to quark-live-034-k006, quark-live-014-k014 and quark-live-030-k002/k003."
+    },
+    {
+      "review_id": "s032-r02",
+      "severity": "blocking",
+      "category": "objectification_and_unsupported_advice",
+      "issue": "The clip ranks women as high/low, tells viewers to reject lower-ranked women and pursue or conquer higher-ranked women, and treats them as instruments for self-worth.",
+      "affected_evidence": ["S00034-S00048", "S00063-S00081"],
+      "disposition": "Keep these spans do_not_generalize; do not convert them into first-person or action advice."
+    },
+    {
+      "review_id": "s032-r03",
+      "severity": "major",
+      "category": "unsupported_causal_claim",
+      "issue": "The proposed feedback loop and claim that repeated high-ranked outcomes build self-worth are not demonstrated by cases, measures or follow-up.",
+      "affected_evidence": ["S00063-S00081@111.32-154.44"],
+      "disposition": "Record only as the speaker's hypothesis/prescription; do not present as established psychology or effectiveness evidence."
+    },
+    {
+      "review_id": "s032-r04",
+      "severity": "major",
+      "category": "asr_uncertainty",
+      "issue": "Multiple meaning-bearing phrases are corrupt in the automatic transcript.",
+      "affected_evidence": ["S00002", "S00015", "S00018", "S00022", "S00029", "S00036", "S00058"],
+      "disposition": "Do not quote these fragments without manual audio review."
+    }
+  ]
+}

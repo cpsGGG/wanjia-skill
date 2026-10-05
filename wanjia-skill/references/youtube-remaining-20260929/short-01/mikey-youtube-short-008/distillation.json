@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-008",
+  "youtube_id": "jOgZRlESuv0",
+  "title": "人生的意义是什么？",
+  "coverage": {"transcript_segments_read": 27, "transcript_time_range_seconds": [0.18, 79.08], "semantic_media_range_seconds": [0.0, 68.057687], "sampled_frames_reviewed": 23, "continuous_original_audio_visual_review": false, "asr_tail_excluded": "S00021-S00027 extend beyond the audited media duration and are degraded/repeated recognition; no claim relies on them."},
+  "timeline": [
+    {"start": 0.18, "end": 15.28, "summary": "Asked about life's meaning, Mikey answers with a game metaphor: leave and enrich one's personal 'local history record.'"},
+    {"start": 15.28, "end": 36.10, "summary": "He uses buying a Ferrari with a large share of his assets as an example; he concedes that investing instead is financially reasonable."},
+    {"start": 36.10, "end": 59.16, "summary": "He says experiencing the car in one's twenties feels different from doing so in one's thirties and frames the choice as enriching his own life record."},
+    {"start": 59.16, "end": 68.057687, "summary": "He imagines later telling descendants about the experience; degraded/repeated ASR after the audited media boundary is excluded."}
+  ],
+  "claims": [
+    {"claim_id": "s008-c01", "speaker": "Mikey", "statement": "He describes life's meaning as accumulating personally meaningful experiences and memories, using a game-save metaphor.", "conditions": "A personal philosophy, not a universal factual definition of meaning.", "evidence": ["S00001-S00004@0.18-18.58"], "use_level": "context_only", "knowledge_status": "reuse_zero_weight"},
+    {"claim_id": "s008-c02", "speaker": "Mikey", "statement": "He chose an expensive car while young because the timing changed the experience and enriched his life story, while acknowledging that investing would be financially sensible.", "conditions": "Personal retrospective; the claimed 40% figure is unverified and should not become financial guidance.", "evidence": ["S00005-S00018@18.58-63.46"], "use_level": "hold", "knowledge_status": "reuse_zero_weight"}
+  ],
+  "examples": [{"example_id": "s008-e01", "summary": "Buying a Ferrari in one's twenties as a deliberate memory-making choice", "evidence": ["S00004-S00027"]}],
+  "permissions": {"use_level": "context_only", "first_person_allowed": false, "action_advice_allowed": false}
+}

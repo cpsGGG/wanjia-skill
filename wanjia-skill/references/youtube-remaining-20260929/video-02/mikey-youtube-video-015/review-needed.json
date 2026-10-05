@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-015",
+  "youtube_id": "6zV5Ud9tcNA",
+  "review_completed": true,
+  "items": [
+    {"review_id": "v015-r01", "severity": "blocking_for_source_count", "issue": "The upload substantially reuses formal source 9zRpsnsPGxU in the same order, including distinctive examples and the 10,000-yuan anecdote.", "affected_evidence": ["entire source"], "disposition": "Keep as a reuse record; assign zero independent source weight and do not treat repetition as corroboration."},
+    {"review_id": "v015-r02", "severity": "blocking_for_action_advice", "issue": "The source recommends or positively describes strategic coldness, instability, a breakup-edge dynamic, treating a partner as a tool and borrowing money to manipulate attraction.", "affected_evidence": ["S00481-S00498", "S01497-S01581", "S01787-S01858"], "disposition": "Do not convert to advice. Preserve the borrowing-tactic disclaimer and classify these passages as manipulative relationship material."},
+    {"review_id": "v015-r03", "severity": "blocking_for_abuse_content", "issue": "It claims abuse can create loyalty and uses women remaining with abusive men as support for a dominance theory.", "affected_evidence": ["S01173-S01188"], "disposition": "Keep do_not_generalize. The explicit anti-domestic-violence sentence must remain attached, and the mechanism requires independent evidence before any descriptive claim."},
+    {"review_id": "v015-r04", "severity": "blocking_for_group_harm", "issue": "It contains sweeping sexist and racist assertions, including a claim that Black people are less civilized and therefore more criminal.", "affected_evidence": ["S00097-S00126", "S00910-S00931", "S01893-S02017"], "disposition": "Never present as biological, criminological or relationship fact; no first-person or advice permission."},
+    {"review_id": "v015-r05", "severity": "major", "issue": "Named public figures' attraction, relationships and motives are inferred from selected public behavior.", "affected_evidence": ["S00073-S00115", "S00136-S00192", "S00340-S00349"], "disposition": "Attribute only as Mikey's commentary and require primary context plus the subjects' accounts for factual use."},
+    {"review_id": "v015-r06", "severity": "major", "issue": "The 10,000-yuan loan result, partner behavior and causal interpretation are uncorroborated self-report.", "affected_evidence": ["S01497-S01581"], "disposition": "Do not infer that financial manipulation increases attraction; verify original audio for the amount and qualification before exact quotation."},
+    {"review_id": "v015-r07", "severity": "major", "issue": "Sparse visuals cannot determine whether short comments are read from chat, simulated dialogue or direct assertions, and cannot verify anecdotes.", "affected_evidence": ["S00212-S00217", "S01410-S01418", "S01859-S01864"], "disposition": "Use continuous audio-visual review around listed dense windows if exact speaker transition matters."},
+    {"review_id": "v015-r08", "severity": "minor", "issue": "ASR corrupts recurring terms and names, including 慕强, 贾乃亮, 关系动态 and multiple idioms.", "affected_evidence": ["throughout"], "disposition": "Use normalized wording only where context is clear; listen to original audio before quoting."}
+  ]
+}

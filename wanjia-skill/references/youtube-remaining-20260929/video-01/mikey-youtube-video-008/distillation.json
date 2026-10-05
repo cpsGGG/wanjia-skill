@@ -1,0 +1,126 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-008",
+  "youtube_id": "tkDjl6MSYoA",
+  "title": "25岁女孩mina之死 深剖女性雌竞心理 偶像成神 网络世界二极管横行",
+  "coverage": {
+    "transcript_segments_read": 369,
+    "transcript_time_range_seconds": [0.0, 564.33],
+    "sparse_frames_reviewed": 13,
+    "dense_frames_reviewed": 114,
+    "dense_interval_seconds": 5,
+    "continuous_original_audio_visual_review": false
+  },
+  "timeline": [
+    {"start": 0.0, "end": 97.09, "summary": "Mikey narrates an online controversy involving Mina and Nishimura Riki, includes a performance clip and a dark livestream clip, criticizes the idol's wording, and alleges that fans harassed Mina before her apology and death."},
+    {"start": 97.09, "end": 200.79, "summary": "He advances a beauty-and-envy explanation for why Mina was targeted and generalizes it to women's in-group competition. The argument is speculative and not established by the displayed posts or clips."},
+    {"start": 200.79, "end": 316.49, "summary": "He shifts from the specific event to media and platform incentives, arguing that anger, labels and simple moral stories spread more easily than complex explanations."},
+    {"start": 316.49, "end": 405.29, "summary": "He defines dialectical thinking as holding multiple layers of fact at once rather than compulsory neutrality, and says conformity under fear of criticism helps reproduce online mobbing."},
+    {"start": 405.29, "end": 465.13, "summary": "He describes reversal cycles in which groups search for new enemies and says edited narratives turn individuals into symbols and conflicts into group wars."},
+    {"start": 465.13, "end": 564.33, "summary": "He treats the case as an example of a broader attention environment, advocates investigation before judgment, and closes by warning against emotion, labels and identity replacing facts and independent thought."}
+  ],
+  "claims": [
+    {
+      "claim_id": "v008-c01",
+      "speaker": "Mikey narrating third-party events",
+      "statement": "The video gives a chronology in which a fan attempted to send flowers at a performance, the idol later discussed it, fans identified Mina, and Mina later apologized and died by suicide.",
+      "conditions": "High-impact third-party claims assembled from edited posts and clips; not independently verified in this task.",
+      "evidence": ["S00009-S00045@12.6-94.19"],
+      "use_level": "hold"
+    },
+    {
+      "claim_id": "v008-c02",
+      "speaker": "Mikey",
+      "statement": "He says the idol's remarks were not necessarily malicious but were tactless in a polarized fan environment and could be used as permission for harassment.",
+      "conditions": "His interpretation of intent and likely effects, not verified knowledge of the idol's state of mind or responsibility.",
+      "evidence": ["S00017-S00031@27.1-66.5"],
+      "use_level": "context_only"
+    },
+    {
+      "claim_id": "v008-c03",
+      "speaker": "Mikey",
+      "statement": "He attributes Mina's targeting primarily to beauty-based envy and extends that explanation to women as a group.",
+      "conditions": "A speculative causal account and sex-wide generalization unsupported by evidence in the upload.",
+      "evidence": ["S00045-S00110@89.0-190.79"],
+      "use_level": "do_not_generalize"
+    },
+    {
+      "claim_id": "v008-c04",
+      "speaker": "Mikey",
+      "statement": "Anger, short labels and simple hero-victim-villain stories are easier to distribute than explanations that preserve complexity.",
+      "conditions": "A general media-incentive thesis; the upload gives examples but no systematic evidence.",
+      "evidence": ["S00121-S00189@205.76-291.96"],
+      "use_level": "context_only"
+    },
+    {
+      "claim_id": "v008-c05",
+      "speaker": "Mikey",
+      "statement": "Dialectical thinking means considering multiple layers of fact and responsibility at once; it does not require neutrality or prohibit criticism.",
+      "conditions": "A stated reasoning method, useful apart from the video's unverified event claims.",
+      "evidence": ["S00206-S00220@316.49-339.69"],
+      "use_level": "context_only"
+    },
+    {
+      "claim_id": "v008-c06",
+      "speaker": "Mikey",
+      "statement": "When disagreement is treated as betrayal, fear of criticism encourages conformity and helps reproduce the same online mob behavior.",
+      "conditions": "A general explanatory claim, not a measured causal result.",
+      "evidence": ["S00221-S00248@339.69-384.69"],
+      "use_level": "context_only"
+    },
+    {
+      "claim_id": "v008-c07",
+      "speaker": "Mikey",
+      "statement": "He describes contemporary online judgment as classifying people first and searching for evidence afterward, producing reversal cycles and new targets rather than resolving the underlying problem.",
+      "conditions": "A broad critique of online discourse; do not attach it to named people as fact without source-specific evidence.",
+      "evidence": ["S00249-S00300@384.69-466.33"],
+      "use_level": "context_only"
+    },
+    {
+      "claim_id": "v008-c08",
+      "speaker": "Mikey",
+      "statement": "A healthier discussion environment should allow questioning, thought, error and correction before social judgment is fixed by a short clip or screenshot.",
+      "conditions": "Normative conclusion from the essay.",
+      "evidence": ["S00305-S00314@473.93-488.03", "S00335-S00351@515.33-540.63"],
+      "use_level": "context_only"
+    },
+    {
+      "claim_id": "v008-c09",
+      "speaker": "Mikey",
+      "statement": "The closing warning targets a process in which emotion replaces thought, labels replace facts and position replaces reason, rather than declaring one entire group the enemy.",
+      "conditions": "This closing qualification conflicts with earlier sex-wide assertions and does not validate them.",
+      "evidence": ["S00352-S00365@540.63-560.93"],
+      "use_level": "context_only"
+    }
+  ],
+  "examples": [
+    {"example_id": "v008-e01", "summary": "A cluster of blurred posts, comments and short-video thumbnails illustrates how the same event is recut into competing narratives; the screenshots are incomplete and not a verified archive.", "evidence": ["dense frames approximately 55-115s and 200-245s"]},
+    {"example_id": "v008-e02", "summary": "The labels 'hero', 'victim', 'villain' and identity categories are presented as fast narrative buttons that reduce the need to inspect a complex case.", "evidence": ["S00151-S00188@250.26-291.16"]},
+    {"example_id": "v008-e03", "summary": "The conclusion contrasts a public trained to find enemies with one allowed to question, think, err and revise.", "evidence": ["S00335-S00351@515.33-540.63"]}
+  ],
+  "speaker_attribution": [
+    {"speaker": "Mikey", "basis": "Continuous first-person Mandarin narration and end identification at S00366; the essay is primarily voice-over rather than on-camera presentation."},
+    {"speaker": "Nishimura Riki or source-clip speaker", "basis": "A dark embedded livestream clip appears around 25-40 seconds. The automatic transcript does not isolate its speech cleanly, so exact words and identity-specific attribution remain unverified."},
+    {"speaker": "post and comment authors", "basis": "Their text appears in screenshots with partial blurring and editorial cropping; it is third-party material, not Mikey speech or a complete conversation."},
+    {"speaker": "other commentators and news/illustrative clips", "basis": "Brief faces and vertical clips are embedded as examples; no statement from them is adopted as Mikey's claim unless his narration explicitly does so."}
+  ],
+  "visual_findings": [
+    "The video is a chaptered edited essay with five visible navigation headings and a persistent 'personal opinion for reference only' marker.",
+    "All 13 sparse frames and all 114 five-second dense frames were opened and reviewed. Visual material includes performance and livestream clips, portraits, posts, comment threads, news-like cards, other commentators, memes and illustrative footage.",
+    "Several screenshots expose third-party handles, faces, locations, dates, engagement counts and allegations, although many account names are blurred. They must not be copied into a formal package without privacy and relevance review.",
+    "The displayed posts and clips are cropped selections and do not independently establish the narrated chronology, causation, identity, intent or death-related claims."
+  ],
+  "permissions": {
+    "formal_integration": false,
+    "first_person_answering": false,
+    "action_advice": false,
+    "reason": "Named third-party death and harassment claims, privacy-bearing screenshots, speculative causation and sex-wide generalizations require independent verification and cross-source review."
+  },
+  "limitations": [
+    "Automatic transcript was read completely but not checked word-for-word against original audio.",
+    "Five-second dense sampling does not equal continuous audio-visual or frame-by-frame verification.",
+    "No external fact-check was performed for the named event, dates, identities, alleged harassment or death.",
+    "The short replay inside formal live source mikey-youtube-live-037 is dependent overlap, not independent corroboration.",
+    "Motives attributed to the idol, fans, women or media actors cannot be inferred reliably from edited screenshots alone."
+  ]
+}

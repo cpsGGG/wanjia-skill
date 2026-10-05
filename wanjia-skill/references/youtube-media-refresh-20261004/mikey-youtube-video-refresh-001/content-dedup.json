@@ -1,0 +1,1036 @@
+{
+  "schema_version": "pro-complete-dedup-retention-1.0",
+  "source_id": "mikey-youtube-video-refresh-001",
+  "decision": "same_case_partial_reuse_reordering_plus_unmatched_edited_dialogue",
+  "reuse_relationship": {
+    "decision": "same_case_partial_reuse_reordering_plus_unmatched_edited_dialogue",
+    "whole_video_confirmed_duplicate": false,
+    "canonical_source_ids": [
+      "mikey-youtube-live-refresh-001"
+    ],
+    "canonical_scope": "外围旧直播叙述／案例材料的来源关系，不覆盖插入段每个命题。",
+    "case_family": [
+      "mikey-youtube-video-003",
+      "mikey-youtube-live-refresh-003",
+      "mikey-youtube-live-refresh-001"
+    ],
+    "same_underlying_case_relation": "supported_by_local_report_not_independent_case_authentication",
+    "independent_story_weight": 0,
+    "canonical_knowledge_ids": [],
+    "report_file": "dedup-supplement-safe.json",
+    "report_pointer": "/sources/0/content_dedup",
+    "latest_report_scope": {
+      "source_records": 510,
+      "video_transcripts": 301,
+      "video_segments": 332368,
+      "community_fulltexts": 209,
+      "community_segments": 533,
+      "total_segments": 332901,
+      "missing_fulltext_sources": []
+    },
+    "coverage_scope_note": "以上为本地报告的筛查范围，本轮完整读取报告但未再次运行或独立读取510全文。社区图像安全摘要不等于原像素OCR或作者原话。",
+    "reordered_anchor_examples": [
+      {
+        "new_range_seconds": [
+          0,
+          30
+        ],
+        "old_range_seconds": [
+          133.69,
+          208.32
+        ],
+        "old_sid_range": [
+          "S00018",
+          "S00056"
+        ]
+      },
+      {
+        "new_range_seconds": [
+          30,
+          60
+        ],
+        "old_range_seconds": [
+          556.85,
+          662.2
+        ],
+        "old_sid_range": [
+          "S00246",
+          "S00294"
+        ]
+      },
+      {
+        "new_range_seconds": [
+          150,
+          180
+        ],
+        "old_range_seconds": [
+          3797.29,
+          3956.1
+        ],
+        "old_sid_range": [
+          "S02051",
+          "S02138"
+        ]
+      },
+      {
+        "new_range_seconds": [
+          180,
+          210
+        ],
+        "old_range_seconds": [
+          3956.1,
+          4068.65
+        ],
+        "old_sid_range": [
+          "S02139",
+          "S02202"
+        ]
+      },
+      {
+        "new_range_seconds": [
+          240,
+          270
+        ],
+        "old_range_seconds": [
+          1173.92,
+          1291.47
+        ],
+        "old_sid_range": [
+          "S00613",
+          "S00673"
+        ]
+      },
+      {
+        "new_range_seconds": [
+          1050,
+          1080
+        ],
+        "old_range_seconds": [
+          664.2,
+          718.15
+        ],
+        "old_sid_range": [
+          "S00296",
+          "S00322"
+        ]
+      },
+      {
+        "new_range_seconds": [
+          1080,
+          1110
+        ],
+        "old_range_seconds": [
+          720.15,
+          839.8
+        ],
+        "old_sid_range": [
+          "S00325",
+          "S00400"
+        ]
+      },
+      {
+        "new_range_seconds": [
+          2190,
+          2220
+        ],
+        "old_range_seconds": [
+          4856.4,
+          4963.24
+        ],
+        "old_sid_range": [
+          "S02621",
+          "S02692"
+        ]
+      },
+      {
+        "new_range_seconds": [
+          2280,
+          2310
+        ],
+        "old_range_seconds": [
+          5428.38,
+          5513.97
+        ],
+        "old_sid_range": [
+          "S02899",
+          "S02935"
+        ]
+      },
+      {
+        "new_range_seconds": [
+          2310,
+          2340
+        ],
+        "old_range_seconds": [
+          5514.23,
+          5629.0
+        ],
+        "old_sid_range": [
+          "S02937",
+          "S02962"
+        ]
+      }
+    ],
+    "anchor_map_summary": {
+      "window_seconds": 30,
+      "windows_checked": 82,
+      "insert_windows_1140_to_2190": 35,
+      "insert_windows_with_old_12gram_match": 0,
+      "outside_insert_0_to_1110_and_2190_to_2340_windows_with_candidate": 42
+    },
+    "alignment_limits": [
+      "82个30秒窗是报告统计；仅提供10个定位例子，不伪造其余逐剪点映射。",
+      "35个插入窗旧直播12字串匹配为0，不等于35条新知识，也不等于全库语义从未出现。",
+      "2190–2220秒锚点跨越回切，不能据它把2190–2195也认作旧直播音频。",
+      "字串比例与单调匹配比例不是媒体复用时长、准确率或语义新颖度。"
+    ],
+    "same_case_publication_anchor": {
+      "source_id": "mikey-youtube-live-refresh-001",
+      "sid_start": "S02605",
+      "sid_end": "S02677",
+      "start_seconds": 4830,
+      "end_seconds": 4930,
+      "input_file": "dedup-supplement-safe.json",
+      "input_json_pointer": "/sources/0/content_dedup/old_clip_promise_readback",
+      "authority": "本地旧稿回读报告的安全概述，本轮未取得该旧段全文或原音",
+      "safe_summary": "旧直播主讲报告较长对谈已经录制，并说不能直接展示，因为对谈含私人资料，需要剪辑保护人物隐私。新片插入段与这一出版关系相容，但不能据此确认对谈身份、完整性、所有授权或新命题。",
+      "supports": "已有同一案例长对谈经隐私剪辑再公开的出版意图，与新增机位对谈相容。",
+      "does_not_support": [
+        "对谈双方真实身份",
+        "全程完整性",
+        "全部参与者授权",
+        "所有插入论点的全库新颖性",
+        "独立现实案例计数"
+      ]
+    },
+    "known_editorial_changes": [
+      "新片叠加章节条、字幕和红框（本地视觉报告）。",
+      "外围叙述存在重新排序，不能当作连续原直播时间。",
+      "1114–2195秒可见另一机位对谈，进出剪点仅定位在1113–1114及2195–2196秒。",
+      "片尾有音乐分享卡片与渐暗；2335秒后无可用方法提炼。"
+    ],
+    "omitted_context_inventory": {
+      "status": "EXACT_DELETED_CONTEXT_NOT_PROVIDED",
+      "known": [
+        "旧直播报告说较长对谈包含隐私，需要剪辑后发布。",
+        "新成片中的聊天与案例画面经过选择，窗口顺序和旧直播不同。"
+      ],
+      "unknown": [
+        "每一处被剪掉的问答、对方完整反应与过渡句。",
+        "插入对谈内部删减的所有内容及顺序。",
+        "字幕、章节标题每一处相对旧版的逐字增删。"
+      ],
+      "count_warning": "3160旧ASR段与1727新ASR段分段方式不同，且有插入，不能相减当作被删除段数。"
+    },
+    "new_knowledge_decision_this_review": "SUBSTANTIVE_RESEARCH_COMPLETED_NO_FORMAL_METHOD_ADMITTED"
+  },
+  "input_resource_map": {
+    "complete-safe-input.json": "references/youtube-media-refresh-20261004/shared-inputs/complete-safe-input.json",
+    "attribution-addendum.json": "references/youtube-media-refresh-20261004/shared-inputs/attribution-addendum.json",
+    "dedup-supplement-safe.json": "references/youtube-media-refresh-20261004/shared-inputs/dedup-supplement-safe.json"
+  },
+  "independent_story_weight": 0,
+  "new_knowledge_candidates": [
+    {
+      "candidate_id": "VR001-N001",
+      "title": "恐惧／舒适圈与爱之间的解释区分",
+      "research_classification": "mikey_role_candidate",
+      "claim_ids": [
+        "VR001-C022"
+      ],
+      "source_owner": "A（Mikey语境候选，待音频映射）",
+      "substantive_content": "解释方把愤怒理解为恐惧，并提出一种区分：是真心爱伴侣，还是习惯了这段关系、害怕没有对方生活不下去。他认为后一种恐惧容易被误认成深切的爱。",
+      "available_old_material_comparison": {
+        "basis": "本包外围复用叙述的论点与查重报告；不是本轮重读3551条旧知识。",
+        "comparator_claim_ids": [
+          "VR001-C008",
+          "VR001-C016"
+        ],
+        "canonical_source_id": "mikey-youtube-live-refresh-001",
+        "canonical_knowledge_ids": [],
+        "knowledge_id_gap": "两份查重报告没有提供与本候选成对的旧knowledge_id、完整claim与条件；不猜造。",
+        "semantic_delta": "外围复用叙述主要说吸引、安抚与学习；此处明确给出愤怒—恐惧—习惯依赖的解释链。报告也列这些话题不见于旧同题自动稿，但不能确认全库新颖。"
+      },
+      "novelty": {
+        "new_publication_material": "插入段的具体对谈展开，查重报告未在旧直播自动稿中包含；不等于每一命题全库首次。",
+        "confirmed_new_real_world_case": false,
+        "whole_corpus_proposition_novelty": "NOT_ESTABLISHED",
+        "lexical_zero_match_is_not_semantic_novelty": true
+      },
+      "research_retention_reason": "保留具体解释链和不能据此诊断他人的边界，比只写“要自信”更忠实。",
+      "use_level": "hold",
+      "permission_suggestion": {
+        "first_person_allowed": false,
+        "action_advice_allowed": false,
+        "runtime_answer_allowed": false,
+        "formal_knowledge_entry_allowed": false,
+        "verbatim_quote_allowed": false
+      },
+      "formal_admission": {
+        "eligible_now": false,
+        "count_as_new_mikey_knowledge": false,
+        "count_as_new_formal_method": false,
+        "decision": "RESEARCH_ONLY_PENDING_LOCAL_REVIEW",
+        "blocking_reasons": [
+          "原始speaker均未分离；逐句角色到声音的本地映射未完成。",
+          "未提供旧知识命题层的成对比对，不以字串未匹配代替语义去重。"
+        ]
+      },
+      "evidence": [
+        {
+          "source_id": "mikey-youtube-video-refresh-001",
+          "sid_start": "S00895",
+          "sid_end": "S00910",
+          "start_seconds": 1195.54,
+          "end_seconds": 1221.98,
+          "evidence_role": "claim_support",
+          "evidence_kind": "safe_asr_and_or_privacy_summary_not_audio_verified",
+          "input_file": "complete-safe-input.json",
+          "input_json_pointer": "/sources/0/safe_transcript/segments",
+          "segment_count": 16,
+          "contains_restored_dialogue_warning": true,
+          "private_summary_is_not_verbatim": true,
+          "safe_text_sequence_sha256": "bac552aceab04748d0c34c5e0a35b0bbb23646fb4ef5531c7ec666f9c2df672d",
+          "locator_not_verbatim_quote": true
+        }
+      ],
+      "independent_story_weight": 0
+    },
+    {
+      "candidate_id": "VR001-N002",
+      "title": "内在优先级不等于减少聊天次数",
+      "research_classification": "mikey_role_candidate",
+      "claim_ids": [
+        "VR001-C023"
+      ],
+      "source_owner": "A（待核）",
+      "substantive_content": "解释方说，不应把长期关系中的全部重心放在女性身上；他马上限定，这不是说每天聊天就算围着对方转，而是对方在心里占了多大位置。他用20%与80%的对比说明内心重心会流露到行为中。",
+      "available_old_material_comparison": {
+        "basis": "本包外围复用叙述的论点与查重报告；不是本轮重读3551条旧知识。",
+        "comparator_claim_ids": [
+          "VR001-C005"
+        ],
+        "canonical_source_id": "mikey-youtube-live-refresh-001",
+        "canonical_knowledge_ids": [],
+        "knowledge_id_gap": "两份查重报告没有提供与本候选成对的旧knowledge_id、完整claim与条件；不猜造。",
+        "semantic_delta": "比外围关于吸引重要的口号多了明确反例：每天聊天不自动等于围着对方转；20／80是比喻，不是执行阈值。"
+      },
+      "novelty": {
+        "new_publication_material": "插入段的具体对谈展开，查重报告未在旧直播自动稿中包含；不等于每一命题全库首次。",
+        "confirmed_new_real_world_case": false,
+        "whole_corpus_proposition_novelty": "NOT_ESTABLISHED",
+        "lexical_zero_match_is_not_semantic_novelty": true
+      },
+      "research_retention_reason": "该限定能防止指南把内在自主误抄成机械少回复规则。",
+      "use_level": "hold",
+      "permission_suggestion": {
+        "first_person_allowed": false,
+        "action_advice_allowed": false,
+        "runtime_answer_allowed": false,
+        "formal_knowledge_entry_allowed": false,
+        "verbatim_quote_allowed": false
+      },
+      "formal_admission": {
+        "eligible_now": false,
+        "count_as_new_mikey_knowledge": false,
+        "count_as_new_formal_method": false,
+        "decision": "RESEARCH_ONLY_PENDING_LOCAL_REVIEW",
+        "blocking_reasons": [
+          "原始speaker均未分离；逐句角色到声音的本地映射未完成。",
+          "未提供旧知识命题层的成对比对，不以字串未匹配代替语义去重。"
+        ]
+      },
+      "evidence": [
+        {
+          "source_id": "mikey-youtube-video-refresh-001",
+          "sid_start": "S00911",
+          "sid_end": "S00930",
+          "start_seconds": 1221.98,
+          "end_seconds": 1250.12,
+          "evidence_role": "claim_support",
+          "evidence_kind": "safe_asr_and_or_privacy_summary_not_audio_verified",
+          "input_file": "complete-safe-input.json",
+          "input_json_pointer": "/sources/0/safe_transcript/segments",
+          "segment_count": 20,
+          "contains_restored_dialogue_warning": true,
+          "private_summary_is_not_verbatim": true,
+          "safe_text_sequence_sha256": "8b5b0a778bc1c3c565a6b3bf4fab751186398225fcd588af6e48b97e0bd81439",
+          "locator_not_verbatim_quote": true
+        }
+      ],
+      "independent_story_weight": 0
+    },
+    {
+      "candidate_id": "VR001-N003",
+      "title": "投入成本与较早看见风险的类比",
+      "research_classification": "mikey_role_candidate",
+      "claim_ids": [
+        "VR001-C031"
+      ],
+      "source_owner": "A的类比，夹有朋友转述",
+      "substantive_content": "解释方承认长期投入会形成难以抽离的成本，并用朋友交易获利后又受损的故事作比：较早看见风险，可以避免未来投入更大时承受更难扛的损失。",
+      "available_old_material_comparison": {
+        "basis": "本包外围复用叙述的论点与查重报告；不是本轮重读3551条旧知识。",
+        "comparator_claim_ids": [
+          "VR001-C015"
+        ],
+        "canonical_source_id": "mikey-youtube-live-refresh-001",
+        "canonical_knowledge_ids": [],
+        "knowledge_id_gap": "两份查重报告没有提供与本候选成对的旧knowledge_id、完整claim与条件；不猜造。",
+        "semantic_delta": "外围对纠结次数的批评没有这一完整“投入—受损—较早识别风险”的类比；新增的是解释方式，不是投资法或已验证情绪方法。"
+      },
+      "novelty": {
+        "new_publication_material": "插入段的具体对谈展开，查重报告未在旧直播自动稿中包含；不等于每一命题全库首次。",
+        "confirmed_new_real_world_case": false,
+        "whole_corpus_proposition_novelty": "NOT_ESTABLISHED",
+        "lexical_zero_match_is_not_semantic_novelty": true
+      },
+      "research_retention_reason": "可研究他怎样回应亏损感，同时把朋友交易故事的真实性与金融效果隔离。",
+      "use_level": "hold",
+      "permission_suggestion": {
+        "first_person_allowed": false,
+        "action_advice_allowed": false,
+        "runtime_answer_allowed": false,
+        "formal_knowledge_entry_allowed": false,
+        "verbatim_quote_allowed": false
+      },
+      "formal_admission": {
+        "eligible_now": false,
+        "count_as_new_mikey_knowledge": false,
+        "count_as_new_formal_method": false,
+        "decision": "RESEARCH_ONLY_PENDING_LOCAL_REVIEW",
+        "blocking_reasons": [
+          "原始speaker均未分离；逐句角色到声音的本地映射未完成。",
+          "未提供旧知识命题层的成对比对，不以字串未匹配代替语义去重。"
+        ]
+      },
+      "evidence": [
+        {
+          "source_id": "mikey-youtube-video-refresh-001",
+          "sid_start": "S01043",
+          "sid_end": "S01059",
+          "start_seconds": 1415.5,
+          "end_seconds": 1440.9,
+          "evidence_role": "claim_support",
+          "evidence_kind": "safe_asr_and_or_privacy_summary_not_audio_verified",
+          "input_file": "complete-safe-input.json",
+          "input_json_pointer": "/sources/0/safe_transcript/segments",
+          "segment_count": 17,
+          "contains_restored_dialogue_warning": true,
+          "private_summary_is_not_verbatim": true,
+          "safe_text_sequence_sha256": "ad71a452b47110a6b2e5dbc731671e447727f3a7cce4e248345e836c71966581",
+          "locator_not_verbatim_quote": true
+        }
+      ],
+      "independent_story_weight": 0
+    },
+    {
+      "candidate_id": "VR001-N004",
+      "title": "继续关系的维系因素与吸引强度分开",
+      "research_classification": "mikey_role_candidate",
+      "claim_ids": [
+        "VR001-C032"
+      ],
+      "source_owner": "A解释与B局部回应分层",
+      "substantive_content": "面对爱是否转移的提问，解释方判断感情已变化，并把目前关系的维系因素说成责任、道德和既有投入多于初识时的吸引；他用从90到60的口头分数示意下降，提问方有表示认可的短回应。",
+      "available_old_material_comparison": {
+        "basis": "本包外围复用叙述的论点与查重报告；不是本轮重读3551条旧知识。",
+        "comparator_claim_ids": [
+          "VR001-C013"
+        ],
+        "canonical_source_id": "mikey-youtube-live-refresh-001",
+        "canonical_knowledge_ids": [],
+        "knowledge_id_gap": "两份查重报告没有提供与本候选成对的旧knowledge_id、完整claim与条件；不猜造。",
+        "semantic_delta": "外围已说继续相处不等于恢复峰值；插入段增补责任、道德、投入成本及90／60示意，属于旧判断的理由扩展，不能重复计成全新大原则。"
+      },
+      "novelty": {
+        "new_publication_material": "插入段的具体对谈展开，查重报告未在旧直播自动稿中包含；不等于每一命题全库首次。",
+        "confirmed_new_real_world_case": false,
+        "whole_corpus_proposition_novelty": "NOT_ESTABLISHED",
+        "lexical_zero_match_is_not_semantic_novelty": true
+      },
+      "research_retention_reason": "优先作为既有条目补充理由和条件，而不是直接新建知识；比较句须听校。",
+      "use_level": "hold",
+      "permission_suggestion": {
+        "first_person_allowed": false,
+        "action_advice_allowed": false,
+        "runtime_answer_allowed": false,
+        "formal_knowledge_entry_allowed": false,
+        "verbatim_quote_allowed": false
+      },
+      "formal_admission": {
+        "eligible_now": false,
+        "count_as_new_mikey_knowledge": false,
+        "count_as_new_formal_method": false,
+        "decision": "RESEARCH_ONLY_PENDING_LOCAL_REVIEW",
+        "blocking_reasons": [
+          "原始speaker均未分离；逐句角色到声音的本地映射未完成。",
+          "未提供旧知识命题层的成对比对，不以字串未匹配代替语义去重。"
+        ]
+      },
+      "evidence": [
+        {
+          "source_id": "mikey-youtube-video-refresh-001",
+          "sid_start": "S01060",
+          "sid_end": "S01073",
+          "start_seconds": 1440.9,
+          "end_seconds": 1462.3,
+          "evidence_role": "claim_support",
+          "evidence_kind": "safe_asr_and_or_privacy_summary_not_audio_verified",
+          "input_file": "complete-safe-input.json",
+          "input_json_pointer": "/sources/0/safe_transcript/segments",
+          "segment_count": 14,
+          "contains_restored_dialogue_warning": true,
+          "private_summary_is_not_verbatim": true,
+          "safe_text_sequence_sha256": "948f0556902e433f6eff11f2b90ed6ec9770967ffe4032939ff26a131e5e9cc0",
+          "locator_not_verbatim_quote": true
+        }
+      ],
+      "independent_story_weight": 0
+    },
+    {
+      "candidate_id": "VR001-N005",
+      "title": "爱情作为动力的对方论述",
+      "research_classification": "other_party_context",
+      "claim_ids": [
+        "VR001-C038"
+      ],
+      "source_owner": "B（不归Mikey）",
+      "substantive_content": "自述方提出把爱情当作能量而非唯一目标或结局：在关系中，爱与家庭可以推动事业；关系出问题后，仍可把体验转向理解自己、改进情感认识和继续做事。他还强调，某些情形下错误不在自己，离开后仍有向前的力量。",
+      "available_old_material_comparison": {
+        "basis": "本包外围复用叙述的论点与查重报告；不是本轮重读3551条旧知识。",
+        "comparator_claim_ids": [
+          "VR001-C016",
+          "VR001-C017"
+        ],
+        "canonical_source_id": "mikey-youtube-live-refresh-001",
+        "canonical_knowledge_ids": [],
+        "knowledge_id_gap": "两份查重报告没有提供与本候选成对的旧knowledge_id、完整claim与条件；不猜造。",
+        "semantic_delta": "外围叙述未完整呈现这段主动思考；它让当事人角色不再只是被开导对象，但不是Mikey方法增量。"
+      },
+      "novelty": {
+        "new_publication_material": "插入段的具体对谈展开，查重报告未在旧直播自动稿中包含；不等于每一命题全库首次。",
+        "confirmed_new_real_world_case": false,
+        "whole_corpus_proposition_novelty": "NOT_ESTABLISHED",
+        "lexical_zero_match_is_not_semantic_novelty": true
+      },
+      "research_retention_reason": "保留“错误不在我”与“关系之外仍能继续”的立场，防止把对方的复原尝试挪给主讲。",
+      "use_level": "hold",
+      "permission_suggestion": {
+        "first_person_allowed": false,
+        "action_advice_allowed": false,
+        "runtime_answer_allowed": false,
+        "formal_knowledge_entry_allowed": false,
+        "verbatim_quote_allowed": false
+      },
+      "formal_admission": {
+        "eligible_now": false,
+        "count_as_new_mikey_knowledge": false,
+        "count_as_new_formal_method": false,
+        "decision": "THIRD_PARTY_CONTEXT_NOT_MIKEY_METHOD",
+        "blocking_reasons": [
+          "原始speaker均未分离；逐句角色到声音的本地映射未完成。",
+          "未提供旧知识命题层的成对比对，不以字串未匹配代替语义去重。",
+          "主要论点属于对方自述／回应，不能转为Mikey原创方法。"
+        ]
+      },
+      "evidence": [
+        {
+          "source_id": "mikey-youtube-video-refresh-001",
+          "sid_start": "S01165",
+          "sid_end": "S01204",
+          "start_seconds": 1596.86,
+          "end_seconds": 1645.6,
+          "evidence_role": "claim_support",
+          "evidence_kind": "safe_asr_and_or_privacy_summary_not_audio_verified",
+          "input_file": "complete-safe-input.json",
+          "input_json_pointer": "/sources/0/safe_transcript/segments",
+          "segment_count": 40,
+          "contains_restored_dialogue_warning": true,
+          "private_summary_is_not_verbatim": true,
+          "safe_text_sequence_sha256": "74dd1d0de9129c0036095ec305235a14a564e7b9d70dafbdcce850911599a9f5",
+          "locator_not_verbatim_quote": true
+        }
+      ],
+      "independent_story_weight": 0
+    },
+    {
+      "candidate_id": "VR001-N006",
+      "title": "承认过去关系价值的回应比喻",
+      "research_classification": "mikey_role_candidate",
+      "claim_ids": [
+        "VR001-C040"
+      ],
+      "source_owner": "A回应B，不夺取B命题作者权",
+      "substantive_content": "解释方接着用过河需要船、上路需要别的工具的比喻说明阶段会变化，并推测过去的恋爱可能曾推动对方努力；又用前六个馒头的比喻提醒，不应因最后的变化就否认前面的积累。",
+      "available_old_material_comparison": {
+        "basis": "本包外围复用叙述的论点与查重报告；不是本轮重读3551条旧知识。",
+        "comparator_claim_ids": [
+          "VR001-C015",
+          "VR001-C016"
+        ],
+        "canonical_source_id": "mikey-youtube-live-refresh-001",
+        "canonical_knowledge_ids": [],
+        "knowledge_id_gap": "两份查重报告没有提供与本候选成对的旧knowledge_id、完整claim与条件；不猜造。",
+        "semantic_delta": "在对方能量论之后，解释方用船与馒头补充“阶段改变不抹掉过去贡献”；它是回应式扩展，非独立发现整套能量论。"
+      },
+      "novelty": {
+        "new_publication_material": "插入段的具体对谈展开，查重报告未在旧直播自动稿中包含；不等于每一命题全库首次。",
+        "confirmed_new_real_world_case": false,
+        "whole_corpus_proposition_novelty": "NOT_ESTABLISHED",
+        "lexical_zero_match_is_not_semantic_novelty": true
+      },
+      "research_retention_reason": "能补齐对谈思想形成的往返顺序；过去是否促成事业仅有“也许”。",
+      "use_level": "hold",
+      "permission_suggestion": {
+        "first_person_allowed": false,
+        "action_advice_allowed": false,
+        "runtime_answer_allowed": false,
+        "formal_knowledge_entry_allowed": false,
+        "verbatim_quote_allowed": false
+      },
+      "formal_admission": {
+        "eligible_now": false,
+        "count_as_new_mikey_knowledge": false,
+        "count_as_new_formal_method": false,
+        "decision": "RESEARCH_ONLY_PENDING_LOCAL_REVIEW",
+        "blocking_reasons": [
+          "原始speaker均未分离；逐句角色到声音的本地映射未完成。",
+          "未提供旧知识命题层的成对比对，不以字串未匹配代替语义去重。"
+        ]
+      },
+      "evidence": [
+        {
+          "source_id": "mikey-youtube-video-refresh-001",
+          "sid_start": "S01211",
+          "sid_end": "S01228",
+          "start_seconds": 1654.92,
+          "end_seconds": 1677.48,
+          "evidence_role": "claim_support",
+          "evidence_kind": "safe_asr_and_or_privacy_summary_not_audio_verified",
+          "input_file": "complete-safe-input.json",
+          "input_json_pointer": "/sources/0/safe_transcript/segments",
+          "segment_count": 18,
+          "contains_restored_dialogue_warning": true,
+          "private_summary_is_not_verbatim": true,
+          "safe_text_sequence_sha256": "f1a16004a838db660c734a82bd68e2b7781922c09b0651a85c14c131c9b4fa23",
+          "locator_not_verbatim_quote": true
+        }
+      ],
+      "independent_story_weight": 0
+    },
+    {
+      "candidate_id": "VR001-N007",
+      "title": "需求感到商业谈判的跨域类比",
+      "research_classification": "mikey_role_candidate",
+      "claim_ids": [
+        "VR001-C044"
+      ],
+      "source_owner": "A（待核）",
+      "substantive_content": "解释方把需求感控制类比到谈合作：越不依赖对方、越显得不急于得到结果，越可能处在较高位置；甚至说有需求时表现得没有，也会影响筹码。",
+      "available_old_material_comparison": {
+        "basis": "本包外围复用叙述的论点与查重报告；不是本轮重读3551条旧知识。",
+        "comparator_claim_ids": [
+          "VR001-C014",
+          "VR001-C005"
+        ],
+        "canonical_source_id": "mikey-youtube-live-refresh-001",
+        "canonical_knowledge_ids": [],
+        "knowledge_id_gap": "两份查重报告没有提供与本候选成对的旧knowledge_id、完整claim与条件；不猜造。",
+        "semantic_delta": "外围争论财富与吸引，未在给定叙述内细分真实低需求与表演低需求；该类比与内在优先级概念存在范围差别，不能混成一条执行规则。"
+      },
+      "novelty": {
+        "new_publication_material": "插入段的具体对谈展开，查重报告未在旧直播自动稿中包含；不等于每一命题全库首次。",
+        "confirmed_new_real_world_case": false,
+        "whole_corpus_proposition_novelty": "NOT_ESTABLISHED",
+        "lexical_zero_match_is_not_semantic_novelty": true
+      },
+      "research_retention_reason": "研究迁移逻辑及其局限；不因提到商业就认证高位或谈判效果。",
+      "use_level": "hold",
+      "permission_suggestion": {
+        "first_person_allowed": false,
+        "action_advice_allowed": false,
+        "runtime_answer_allowed": false,
+        "formal_knowledge_entry_allowed": false,
+        "verbatim_quote_allowed": false
+      },
+      "formal_admission": {
+        "eligible_now": false,
+        "count_as_new_mikey_knowledge": false,
+        "count_as_new_formal_method": false,
+        "decision": "RESEARCH_ONLY_PENDING_LOCAL_REVIEW",
+        "blocking_reasons": [
+          "原始speaker均未分离；逐句角色到声音的本地映射未完成。",
+          "未提供旧知识命题层的成对比对，不以字串未匹配代替语义去重。"
+        ]
+      },
+      "evidence": [
+        {
+          "source_id": "mikey-youtube-video-refresh-001",
+          "sid_start": "S01281",
+          "sid_end": "S01289",
+          "start_seconds": 1751.92,
+          "end_seconds": 1764.9,
+          "evidence_role": "claim_support",
+          "evidence_kind": "safe_asr_and_or_privacy_summary_not_audio_verified",
+          "input_file": "complete-safe-input.json",
+          "input_json_pointer": "/sources/0/safe_transcript/segments",
+          "segment_count": 9,
+          "contains_restored_dialogue_warning": true,
+          "private_summary_is_not_verbatim": true,
+          "safe_text_sequence_sha256": "7e038302afd80801ef8cca5a3fdaf734c250fc2f131264e80671c10d1ce7f8f2",
+          "locator_not_verbatim_quote": true
+        }
+      ],
+      "independent_story_weight": 0
+    },
+    {
+      "candidate_id": "VR001-N008",
+      "title": "普通人也需要韧性、家庭责任不等于讨好",
+      "research_classification": "other_party_context",
+      "claim_ids": [
+        "VR001-C030",
+        "VR001-C025"
+      ],
+      "source_owner": "B（不归Mikey）",
+      "substantive_content": "提问方指出，不可能所有人商业上都很成功，因此仍需要一种自我保护、出问题不崩溃并能激励自己向前的理解方式。他又说，若只是分手、忘掉、当作没发生，会觉得这次受挫没有换来任何收获。 提问方回应说，自己未必像解释方描述得那样围着伴侣转，更在意的是工作挣钱、维持这个家庭。",
+      "available_old_material_comparison": {
+        "basis": "本包外围复用叙述的论点与查重报告；不是本轮重读3551条旧知识。",
+        "comparator_claim_ids": [
+          "VR001-C008",
+          "VR001-C009"
+        ],
+        "canonical_source_id": "mikey-youtube-live-refresh-001",
+        "canonical_knowledge_ids": [],
+        "knowledge_id_gap": "两份查重报告没有提供与本候选成对的旧knowledge_id、完整claim与条件；不猜造。",
+        "semantic_delta": "对方在经济成功和自利解释前提出适用条件与不同动机；这些不是主讲单向教学的附属复述。"
+      },
+      "novelty": {
+        "new_publication_material": "插入段的具体对谈展开，查重报告未在旧直播自动稿中包含；不等于每一命题全库首次。",
+        "confirmed_new_real_world_case": false,
+        "whole_corpus_proposition_novelty": "NOT_ESTABLISHED",
+        "lexical_zero_match_is_not_semantic_novelty": true
+      },
+      "research_retention_reason": "把另一方的反例条件和家庭责任观作为争论边界保存，不升级为Mikey统一立场。",
+      "use_level": "hold",
+      "permission_suggestion": {
+        "first_person_allowed": false,
+        "action_advice_allowed": false,
+        "runtime_answer_allowed": false,
+        "formal_knowledge_entry_allowed": false,
+        "verbatim_quote_allowed": false
+      },
+      "formal_admission": {
+        "eligible_now": false,
+        "count_as_new_mikey_knowledge": false,
+        "count_as_new_formal_method": false,
+        "decision": "THIRD_PARTY_CONTEXT_NOT_MIKEY_METHOD",
+        "blocking_reasons": [
+          "原始speaker均未分离；逐句角色到声音的本地映射未完成。",
+          "未提供旧知识命题层的成对比对，不以字串未匹配代替语义去重。",
+          "主要论点属于对方自述／回应，不能转为Mikey原创方法。"
+        ]
+      },
+      "evidence": [
+        {
+          "source_id": "mikey-youtube-video-refresh-001",
+          "sid_start": "S01025",
+          "sid_end": "S01029",
+          "start_seconds": 1381.84,
+          "end_seconds": 1389.52,
+          "evidence_role": "claim_support",
+          "evidence_kind": "safe_asr_and_or_privacy_summary_not_audio_verified",
+          "input_file": "complete-safe-input.json",
+          "input_json_pointer": "/sources/0/safe_transcript/segments",
+          "segment_count": 5,
+          "contains_restored_dialogue_warning": true,
+          "private_summary_is_not_verbatim": true,
+          "safe_text_sequence_sha256": "34d6886f1db9c2636523f8cbadfda2cd8197e16f218a6d22e35904db787e7e1a",
+          "locator_not_verbatim_quote": true
+        },
+        {
+          "source_id": "mikey-youtube-video-refresh-001",
+          "sid_start": "S01031",
+          "sid_end": "S01033",
+          "start_seconds": 1391.34,
+          "end_seconds": 1403.18,
+          "evidence_role": "claim_support",
+          "evidence_kind": "safe_asr_and_or_privacy_summary_not_audio_verified",
+          "input_file": "complete-safe-input.json",
+          "input_json_pointer": "/sources/0/safe_transcript/segments",
+          "segment_count": 3,
+          "contains_restored_dialogue_warning": true,
+          "private_summary_is_not_verbatim": true,
+          "safe_text_sequence_sha256": "3735b6fc7862cef584c08430e015c0d61c0e99668132f1c6bbf1e63e4fb7f80d",
+          "locator_not_verbatim_quote": true
+        },
+        {
+          "source_id": "mikey-youtube-video-refresh-001",
+          "sid_start": "S01036",
+          "sid_end": "S01042",
+          "start_seconds": 1405.26,
+          "end_seconds": 1415.5,
+          "evidence_role": "claim_support",
+          "evidence_kind": "safe_asr_and_or_privacy_summary_not_audio_verified",
+          "input_file": "complete-safe-input.json",
+          "input_json_pointer": "/sources/0/safe_transcript/segments",
+          "segment_count": 7,
+          "contains_restored_dialogue_warning": true,
+          "private_summary_is_not_verbatim": true,
+          "safe_text_sequence_sha256": "811c316911d8c2895e06b23463c87559607d23b76c68f4a28cc8809ec82217a8",
+          "locator_not_verbatim_quote": true
+        },
+        {
+          "source_id": "mikey-youtube-video-refresh-001",
+          "sid_start": "S00937",
+          "sid_end": "S00939",
+          "start_seconds": 1256.2,
+          "end_seconds": 1260.92,
+          "evidence_role": "claim_support",
+          "evidence_kind": "safe_asr_and_or_privacy_summary_not_audio_verified",
+          "input_file": "complete-safe-input.json",
+          "input_json_pointer": "/sources/0/safe_transcript/segments",
+          "segment_count": 3,
+          "contains_restored_dialogue_warning": true,
+          "private_summary_is_not_verbatim": true,
+          "safe_text_sequence_sha256": "7f86dc134cd0d0b5cfac3348d3fbeb075da3fcd6b5a2c645e45a6abc635bac5f",
+          "locator_not_verbatim_quote": true
+        }
+      ],
+      "independent_story_weight": 0
+    },
+    {
+      "candidate_id": "VR001-N009",
+      "title": "继续对谈与梦境：对方如何给直面问题赋义",
+      "research_classification": "other_party_context",
+      "claim_ids": [
+        "VR001-C059",
+        "VR001-C060"
+      ],
+      "source_owner": "B自述；A短回应另记",
+      "substantive_content": "回应方说周围人并不赞成自己继续剖析、对话或合作，但他认为这样做是在面对困难；当解释方夸他令自己刮目相看时，他特意纠正，关注的不是获得对方赞赏。 自述方讲述梦中从害怕到决定直视恐惧形象的变化，称这次没有再感到受伤，并推想同类梦可能不会再来；回应方简短认可直面的意义。",
+      "available_old_material_comparison": {
+        "basis": "本包外围复用叙述的论点与查重报告；不是本轮重读3551条旧知识。",
+        "comparator_claim_ids": [
+          "VR001-C016",
+          "VR001-C019"
+        ],
+        "canonical_source_id": "mikey-youtube-live-refresh-001",
+        "canonical_knowledge_ids": [],
+        "knowledge_id_gap": "两份查重报告没有提供与本候选成对的旧knowledge_id、完整claim与条件；不猜造。",
+        "semantic_delta": "外围只是主讲称其冷静、有格局；插入段有对方纠正赞赏解释及自己的梦境叙述。新增的是当事人话语，而不是已验证疗法。"
+      },
+      "novelty": {
+        "new_publication_material": "插入段的具体对谈展开，查重报告未在旧直播自动稿中包含；不等于每一命题全库首次。",
+        "confirmed_new_real_world_case": false,
+        "whole_corpus_proposition_novelty": "NOT_ESTABLISHED",
+        "lexical_zero_match_is_not_semantic_novelty": true
+      },
+      "research_retention_reason": "能防止指南把所有改变归功于主讲或将梦境挪作他的亲身经验。",
+      "use_level": "hold",
+      "permission_suggestion": {
+        "first_person_allowed": false,
+        "action_advice_allowed": false,
+        "runtime_answer_allowed": false,
+        "formal_knowledge_entry_allowed": false,
+        "verbatim_quote_allowed": false
+      },
+      "formal_admission": {
+        "eligible_now": false,
+        "count_as_new_mikey_knowledge": false,
+        "count_as_new_formal_method": false,
+        "decision": "THIRD_PARTY_CONTEXT_NOT_MIKEY_METHOD",
+        "blocking_reasons": [
+          "原始speaker均未分离；逐句角色到声音的本地映射未完成。",
+          "未提供旧知识命题层的成对比对，不以字串未匹配代替语义去重。",
+          "主要论点属于对方自述／回应，不能转为Mikey原创方法。"
+        ]
+      },
+      "evidence": [
+        {
+          "source_id": "mikey-youtube-video-refresh-001",
+          "sid_start": "S01477",
+          "sid_end": "S01493",
+          "start_seconds": 2015.94,
+          "end_seconds": 2035.14,
+          "evidence_role": "claim_support",
+          "evidence_kind": "safe_asr_and_or_privacy_summary_not_audio_verified",
+          "input_file": "complete-safe-input.json",
+          "input_json_pointer": "/sources/0/safe_transcript/segments",
+          "segment_count": 17,
+          "contains_restored_dialogue_warning": true,
+          "private_summary_is_not_verbatim": true,
+          "safe_text_sequence_sha256": "c66b501778df8868d0fbae89bdd8544afa9e7ffa2bbe14a0ac2592098b782b48",
+          "locator_not_verbatim_quote": true
+        },
+        {
+          "source_id": "mikey-youtube-video-refresh-001",
+          "sid_start": "S01494",
+          "sid_end": "S01520",
+          "start_seconds": 2035.14,
+          "end_seconds": 2069.1,
+          "evidence_role": "claim_support",
+          "evidence_kind": "safe_asr_and_or_privacy_summary_not_audio_verified",
+          "input_file": "complete-safe-input.json",
+          "input_json_pointer": "/sources/0/safe_transcript/segments",
+          "segment_count": 27,
+          "contains_restored_dialogue_warning": true,
+          "private_summary_is_not_verbatim": true,
+          "safe_text_sequence_sha256": "cab29b580e8cbccd073aced80402b87ea402e0c3e2e1f8db5fb150a8d297221f",
+          "locator_not_verbatim_quote": true
+        },
+        {
+          "source_id": "mikey-youtube-video-refresh-001",
+          "sid_start": "S01521",
+          "sid_end": "S01522",
+          "start_seconds": 2069.1,
+          "end_seconds": 2070.98,
+          "evidence_role": "response_context",
+          "evidence_kind": "safe_asr_and_or_privacy_summary_not_audio_verified",
+          "input_file": "complete-safe-input.json",
+          "input_json_pointer": "/sources/0/safe_transcript/segments",
+          "segment_count": 2,
+          "contains_restored_dialogue_warning": true,
+          "private_summary_is_not_verbatim": true,
+          "safe_text_sequence_sha256": "df10d0da5e4aa2ab76448bb3174891899316a082c7e694085d6c1357c46e52f6",
+          "locator_not_verbatim_quote": true
+        }
+      ],
+      "independent_story_weight": 0
+    },
+    {
+      "candidate_id": "VR001-N010",
+      "title": "暂时无解时停止强求，体验悬而未决情绪的自报顺序",
+      "research_classification": "mikey_role_candidate",
+      "claim_ids": [
+        "VR001-C061"
+      ],
+      "source_owner": "A（归属与效果均待核）",
+      "substantive_content": "解释方说，自己曾因被骚扰及家人被牵连而反复焦虑、踱步；某一刻觉得眼下无法解决，便停止强求立即解决，躺下体验痛苦、焦虑和不确定感。他报告约半小时后压抑减轻，后来面对类似事情反应也较小。",
+      "available_old_material_comparison": {
+        "basis": "本包外围复用叙述的论点与查重报告；不是本轮重读3551条旧知识。",
+        "comparator_claim_ids": [
+          "VR001-C008",
+          "VR001-C016",
+          "VR001-C018"
+        ],
+        "canonical_source_id": "mikey-youtube-live-refresh-001",
+        "canonical_knowledge_ids": [],
+        "knowledge_id_gap": "两份查重报告没有提供与本候选成对的旧knowledge_id、完整claim与条件；不猜造。",
+        "semantic_delta": "外围泛称安抚、学习，未给这段自身经历中的状态—选择—体验—自报变化顺序；这是值得继续核验的过程性材料，不预设因同案例而无增量。"
+      },
+      "novelty": {
+        "new_publication_material": "插入段的具体对谈展开，查重报告未在旧直播自动稿中包含；不等于每一命题全库首次。",
+        "confirmed_new_real_world_case": false,
+        "whole_corpus_proposition_novelty": "NOT_ESTABLISHED",
+        "lexical_zero_match_is_not_semantic_novelty": true
+      },
+      "research_retention_reason": "有具体步骤、主观前提和效果声称，适合保留为研究候选；半小时不能变成疗效承诺。",
+      "use_level": "hold",
+      "permission_suggestion": {
+        "first_person_allowed": false,
+        "action_advice_allowed": false,
+        "runtime_answer_allowed": false,
+        "formal_knowledge_entry_allowed": false,
+        "verbatim_quote_allowed": false
+      },
+      "formal_admission": {
+        "eligible_now": false,
+        "count_as_new_mikey_knowledge": false,
+        "count_as_new_formal_method": false,
+        "decision": "RESEARCH_ONLY_PENDING_LOCAL_REVIEW",
+        "blocking_reasons": [
+          "原始speaker均未分离；逐句角色到声音的本地映射未完成。",
+          "未提供旧知识命题层的成对比对，不以字串未匹配代替语义去重。"
+        ]
+      },
+      "evidence": [
+        {
+          "source_id": "mikey-youtube-video-refresh-001",
+          "sid_start": "S01523",
+          "sid_end": "S01574",
+          "start_seconds": 2070.98,
+          "end_seconds": 2133.64,
+          "evidence_role": "claim_support",
+          "evidence_kind": "safe_asr_and_or_privacy_summary_not_audio_verified",
+          "input_file": "complete-safe-input.json",
+          "input_json_pointer": "/sources/0/safe_transcript/segments",
+          "segment_count": 52,
+          "contains_restored_dialogue_warning": true,
+          "private_summary_is_not_verbatim": true,
+          "safe_text_sequence_sha256": "1c2430b8a8b92cdc8c8a7d7cbf54b10ac7fea6182afddee22f2cd798f59b40f5",
+          "locator_not_verbatim_quote": true
+        }
+      ],
+      "independent_story_weight": 0
+    },
+    {
+      "candidate_id": "VR001-N011",
+      "title": "从倒带后悔转向学习的解释",
+      "research_classification": "mikey_role_candidate",
+      "claim_ids": [
+        "VR001-C062"
+      ],
+      "source_owner": "A（待核）",
+      "substantive_content": "解释方把成长解释为从受挫里学到东西，而不是反复设想当初拦住某件事就能避免一切；在相邻段落，他还用灵性区分能否理解这番经验的人。",
+      "available_old_material_comparison": {
+        "basis": "本包外围复用叙述的论点与查重报告；不是本轮重读3551条旧知识。",
+        "comparator_claim_ids": [
+          "VR001-C015"
+        ],
+        "canonical_source_id": "mikey-youtube-live-refresh-001",
+        "canonical_knowledge_ids": [],
+        "knowledge_id_gap": "两份查重报告没有提供与本候选成对的旧knowledge_id、完整claim与条件；不猜造。",
+        "semantic_delta": "外围批评反复追问次数，此处补出反事实后悔与从经历学习的不同问题意识；可能是旧观点的展开，需命题级比对后决定补充或合并。"
+      },
+      "novelty": {
+        "new_publication_material": "插入段的具体对谈展开，查重报告未在旧直播自动稿中包含；不等于每一命题全库首次。",
+        "confirmed_new_real_world_case": false,
+        "whole_corpus_proposition_novelty": "NOT_ESTABLISHED",
+        "lexical_zero_match_is_not_semantic_novelty": true
+      },
+      "research_retention_reason": "保留对反事实执念的批评，同时隔离灵性评判与责备受伤者的风险。",
+      "use_level": "hold",
+      "permission_suggestion": {
+        "first_person_allowed": false,
+        "action_advice_allowed": false,
+        "runtime_answer_allowed": false,
+        "formal_knowledge_entry_allowed": false,
+        "verbatim_quote_allowed": false
+      },
+      "formal_admission": {
+        "eligible_now": false,
+        "count_as_new_mikey_knowledge": false,
+        "count_as_new_formal_method": false,
+        "decision": "RESEARCH_ONLY_PENDING_LOCAL_REVIEW",
+        "blocking_reasons": [
+          "原始speaker均未分离；逐句角色到声音的本地映射未完成。",
+          "未提供旧知识命题层的成对比对，不以字串未匹配代替语义去重。"
+        ]
+      },
+      "evidence": [
+        {
+          "source_id": "mikey-youtube-video-refresh-001",
+          "sid_start": "S01575",
+          "sid_end": "S01589",
+          "start_seconds": 2133.64,
+          "end_seconds": 2157.48,
+          "evidence_role": "claim_support",
+          "evidence_kind": "safe_asr_and_or_privacy_summary_not_audio_verified",
+          "input_file": "complete-safe-input.json",
+          "input_json_pointer": "/sources/0/safe_transcript/segments",
+          "segment_count": 15,
+          "contains_restored_dialogue_warning": true,
+          "private_summary_is_not_verbatim": true,
+          "safe_text_sequence_sha256": "23efd016937a64225b762bb6c34b3ed1dd4aed2b29072403dc3a93119fa8a87b",
+          "locator_not_verbatim_quote": true
+        }
+      ],
+      "independent_story_weight": 0
+    }
+  ],
+  "canonical_source_ids": [
+    "mikey-youtube-live-refresh-001"
+  ],
+  "original_pro_artifact_sha256": "a941d5c6aa858c6020fa80d7e058fa1bd09d010881023dee41b93f92e8ed3822"
+}

@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-036",
+  "youtube_id": "STDni-HM_bo",
+  "decision": "new",
+  "formal_weight_if_integrated": 1,
+  "compared_sources": [
+    {
+      "scope": "formal_mikey_guide",
+      "source_count": 202,
+      "comparison": "id/url, normalized transcript shingles, distinctive phrase search and semantic screen"
+    },
+    {
+      "scope": "remaining_video_batches_01_05_and_short_01_03",
+      "source_count": 75,
+      "comparison": "id/url, normalized transcript shingles, prior dedup records and semantic screen"
+    },
+    {
+      "source_id": "mikey-approach-020",
+      "comparison": "related earphone/non-response scenario, but its Hong Kong outdoor pink-haired participant, IG request and transcript sequence differ from this indoor blonde-participant WeChat encounter"
+    },
+    {
+      "source_id": "quark-live-020",
+      "comparison": "retells another earphone encounter and advice to enter the person's visual field; no same dialogue or same visible scene"
+    },
+    {
+      "source_id": "mikey-approach-012",
+      "comparison": "incidental overlap in the phrase 'I think you're cool'; different participant, setting and conversation"
+    }
+  ],
+  "evidence": [
+    {
+      "type": "identity",
+      "result": "no_exact_id_or_url_match"
+    },
+    {
+      "type": "transcript",
+      "result": "no_same_passage_match",
+      "basis": "No screened transcript contains the full ordered exchange from repeated greeting through the participant saying she could not hear because of earphones, the compliment and mutual goodbye."
+    },
+    {
+      "type": "visual",
+      "result": "distinct_street_encounter",
+      "basis": "All 10 sampled frames show one blonde participant in an indoor corridor and a first-person camera holding a drink; this does not match the screened formal earphone example."
+    },
+    {
+      "type": "semantic_overlap",
+      "result": "related_but_not_duplicate",
+      "basis": "Formal sources already discuss earphones as one possible reason for not responding, but this Short supplies a distinct observed reply and ending."
+    }
+  ],
+  "boundary": "New only as a distinct recorded encounter within the processed corpus. The parent recording is unlocated, the camera operator is not independently authenticated, and the contact-exchange result is not established."
+}

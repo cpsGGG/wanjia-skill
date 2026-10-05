@@ -1,0 +1,379 @@
+{
+  "schema_version": "two-new-media-source-review-supplement-1",
+  "source_safe_input_first_review_sha256": "46e2601f92a7028820aa8556b18664268b9b991ad065c77541691e92a06bf786",
+  "formal_fulltext_records_screened": 510,
+  "formal_video_segments_screened": 332368,
+  "formal_community_segments_screened": 533,
+  "sources": [
+    {
+      "source_id": "mikey-youtube-video-refresh-001",
+      "content_dedup": {
+        "source_id": "mikey-youtube-video-refresh-001",
+        "decision": "mixed_edited_reuse_with_unmatched_call_insert",
+        "canonical_source_ids": [
+          "mikey-youtube-live-refresh-001"
+        ],
+        "case_family": [
+          "mikey-youtube-video-003",
+          "mikey-youtube-live-refresh-003",
+          "mikey-youtube-live-refresh-001"
+        ],
+        "formal_transcripts_screened": 301,
+        "formal_segments_screened": 332368,
+        "target_segments": 1727,
+        "candidate_metrics": [
+          {
+            "source_id": "mikey-youtube-live-refresh-001",
+            "title": "愛上別人的女朋友后 她男朋友找上了我…",
+            "transcript": "mikey-guide\\references\\youtube-live-refresh-20261002\\mikey-youtube-live-refresh-001\\transcript.json",
+            "source_segments": 3160,
+            "source_chars": 20341,
+            "fulltext_exact": false,
+            "target_contained_exactly": false,
+            "metrics": {
+              "6": {
+                "shared_distinct_shingles": 5594,
+                "target_distinct_shingles": 15293,
+                "target_shingle_coverage": 0.365788
+              },
+              "12": {
+                "shared_distinct_shingles": 3464,
+                "target_distinct_shingles": 15428,
+                "target_shingle_coverage": 0.224527
+              },
+              "24": {
+                "shared_distinct_shingles": 1406,
+                "target_distinct_shingles": 15421,
+                "target_shingle_coverage": 0.091174
+              }
+            }
+          },
+          {
+            "source_id": "mikey-youtube-video-035",
+            "title": "【私教案例】40岁老板三天收尾女大学生丨线上聊天案例讲解丨約會丨把妹丨情感丨戀愛丨約炮丨男性自我提升丨短期關係丨長期關係丨dating in china",
+            "transcript": "mikey-guide\\references\\youtube-remaining-20260929\\video-04\\mikey-youtube-video-035\\transcript.json",
+            "source_segments": 713,
+            "source_chars": 7041,
+            "fulltext_exact": false,
+            "target_contained_exactly": false,
+            "metrics": {
+              "6": {
+                "shared_distinct_shingles": 49,
+                "target_distinct_shingles": 15293,
+                "target_shingle_coverage": 0.003204
+              },
+              "12": {
+                "shared_distinct_shingles": 24,
+                "target_distinct_shingles": 15428,
+                "target_shingle_coverage": 0.001556
+              },
+              "24": {
+                "shared_distinct_shingles": 12,
+                "target_distinct_shingles": 15421,
+                "target_shingle_coverage": 0.000778
+              }
+            }
+          },
+          {
+            "source_id": "mikey-practice-037",
+            "title": "一约拿下嫩妹学生 白天约会",
+            "transcript": "mikey-guide\\references\\mikey-practice\\mikey-practice-037\\transcript.json",
+            "source_segments": 802,
+            "source_chars": 5416,
+            "fulltext_exact": false,
+            "target_contained_exactly": false,
+            "metrics": {
+              "6": {
+                "shared_distinct_shingles": 33,
+                "target_distinct_shingles": 15293,
+                "target_shingle_coverage": 0.002158
+              },
+              "12": {
+                "shared_distinct_shingles": 24,
+                "target_distinct_shingles": 15428,
+                "target_shingle_coverage": 0.001556
+              },
+              "24": {
+                "shared_distinct_shingles": 12,
+                "target_distinct_shingles": 15421,
+                "target_shingle_coverage": 0.000778
+              }
+            }
+          }
+        ],
+        "single_monotonic_char_match_fraction": 0.450531,
+        "reused_layout_ranges_seconds": [
+          [
+            0,
+            1113
+          ],
+          [
+            2196,
+            2433.741
+          ]
+        ],
+        "unmatched_insert_range_seconds": [
+          1114,
+          2195
+        ],
+        "insert_not_present_in_old_transcript_check": "Old o1Auc_79NR8 has no occurrences of the inserted discourse terms about anger/fear, comfort zone, suspended uncertainty, crossing the river or main-character stance; corpus shingles overwhelmingly choose o1Auc_79NR8 for surrounding material. This is not proof that every insert proposition is novel across the whole skill.",
+        "decision_basis": "Different camera/collared shirt insert between explicit scene transitions, paired with mechanically matched surrounding narration. Whole-video duplication is rejected. All old-case facts remain one underlying case and do not gain independent corroboration.",
+        "new_knowledge_decision": "PENDING_WEB_PRO_SEMANTIC_REVIEW",
+        "independent_story_weight": 0,
+        "limitations": [
+          "Char ratios reflect ASR and editing, not a measured media reuse or accuracy percentage.",
+          "Insert dialogue attribution and cross-corpus proposition novelty need semantic review.",
+          "30-second anchor map permits reordering and was sampled against 217 old raw segments; every edit boundary and every audio source frame was not independently matched."
+        ],
+        "formal_fulltexts_screened": 510,
+        "formal_fulltext_segments_screened": 332901,
+        "formal_screen_scope": "All 510 source records: 301 video transcripts/332368 rows + 209 community fulltexts/533 rows. Community image safe summaries are editorial metadata, not original image OCR or authored quotes.",
+        "missing_fulltext_sources": [],
+        "complete_screen_research_path": "research/youtube-channel-refresh-20261004/media-distillation/items/mikey-youtube-video-refresh-001/formal-all-fulltext-screen.json",
+        "edit_reordering_map": {
+          "window_seconds": 30,
+          "windows_checked": 82,
+          "insert_windows_1140_to_2190": 35,
+          "insert_windows_with_old_12gram_match": 0,
+          "outside_insert_0_to_1110_and_2190_to_2340_windows_with_candidate": 42,
+          "examples": [
+            {
+              "new_range_seconds": [
+                0,
+                30
+              ],
+              "old_range_seconds": [
+                133.69,
+                208.32
+              ],
+              "old_sid_range": [
+                "S00018",
+                "S00056"
+              ]
+            },
+            {
+              "new_range_seconds": [
+                30,
+                60
+              ],
+              "old_range_seconds": [
+                556.85,
+                662.2
+              ],
+              "old_sid_range": [
+                "S00246",
+                "S00294"
+              ]
+            },
+            {
+              "new_range_seconds": [
+                150,
+                180
+              ],
+              "old_range_seconds": [
+                3797.29,
+                3956.1
+              ],
+              "old_sid_range": [
+                "S02051",
+                "S02138"
+              ]
+            },
+            {
+              "new_range_seconds": [
+                180,
+                210
+              ],
+              "old_range_seconds": [
+                3956.1,
+                4068.65
+              ],
+              "old_sid_range": [
+                "S02139",
+                "S02202"
+              ]
+            },
+            {
+              "new_range_seconds": [
+                240,
+                270
+              ],
+              "old_range_seconds": [
+                1173.92,
+                1291.47
+              ],
+              "old_sid_range": [
+                "S00613",
+                "S00673"
+              ]
+            },
+            {
+              "new_range_seconds": [
+                1050,
+                1080
+              ],
+              "old_range_seconds": [
+                664.2,
+                718.15
+              ],
+              "old_sid_range": [
+                "S00296",
+                "S00322"
+              ]
+            },
+            {
+              "new_range_seconds": [
+                1080,
+                1110
+              ],
+              "old_range_seconds": [
+                720.15,
+                839.8
+              ],
+              "old_sid_range": [
+                "S00325",
+                "S00400"
+              ]
+            },
+            {
+              "new_range_seconds": [
+                2190,
+                2220
+              ],
+              "old_range_seconds": [
+                4856.4,
+                4963.24
+              ],
+              "old_sid_range": [
+                "S02621",
+                "S02692"
+              ]
+            },
+            {
+              "new_range_seconds": [
+                2280,
+                2310
+              ],
+              "old_range_seconds": [
+                5428.38,
+                5513.97
+              ],
+              "old_sid_range": [
+                "S02899",
+                "S02935"
+              ]
+            },
+            {
+              "new_range_seconds": [
+                2310,
+                2340
+              ],
+              "old_range_seconds": [
+                5514.23,
+                5629.0
+              ],
+              "old_sid_range": [
+                "S02937",
+                "S02962"
+              ]
+            }
+          ]
+        },
+        "old_transcript_actual_sample_read": {
+          "source_id": "mikey-youtube-live-refresh-001",
+          "segments": 217,
+          "ranges_seconds": [
+            [
+              174,
+              215
+            ],
+            [
+              3830,
+              3980
+            ],
+            [
+              1180,
+              1240
+            ],
+            [
+              4830,
+              4930
+            ],
+            [
+              5550,
+              5620
+            ]
+          ]
+        },
+        "old_clip_promise_readback": {
+          "old_sid_range": [
+            "S02605",
+            "S02677"
+          ],
+          "old_time_range_seconds": [
+            4830,
+            4930
+          ],
+          "safe_summary": "旧直播主讲报告较长对谈已经录制，并说不能直接展示，因为对谈含私人资料，需要剪辑保护人物隐私。新片插入段与这一出版关系相容，但不能据此确认对谈身份、完整性、所有授权或新命题。"
+        },
+        "source_relationship": "Partial reuse/reordering of old livestream narration and displayed case material plus inserted edited conversation not contained in the old automatic transcript; same underlying case, no independent corroboration."
+      }
+    },
+    {
+      "source_id": "mikey-youtube-short-refresh-001",
+      "content_dedup": {
+        "source_id": "mikey-youtube-short-refresh-001",
+        "decision": "visual_story_and_editor_note_partial_theme_reuse_not_audio_duplicate_proven",
+        "canonical_source_ids": [],
+        "related_sources": [
+          "mikey-youtube-live-refresh-002",
+          "quark-live-048"
+        ],
+        "formal_transcripts_screened": 301,
+        "formal_segments_screened": 332368,
+        "target_asr_segments": 2,
+        "target_asr_chars": 14,
+        "asr_shingle_result": "No 6/12/24-character match to any of 301 formal transcripts; this is background-audio-like content and cannot establish narrative novelty.",
+        "best_semantic_prior_candidate": {
+          "source_id": "mikey-youtube-live-refresh-002",
+          "reviewed_old_sid_span": "S00991-S01094",
+          "reviewed_old_time_seconds": [
+            1751.54,
+            1917.28
+          ],
+          "relation": "Older source discusses audience revealing cross-platform identity and requests different names by platform. Short editorial note partially overlaps that theme; exact screenshots and recording identity not established.",
+          "actual_segments_read": 104
+        },
+        "decision_basis": "Actual full 23-frame visual review plus five source-resolution panels reveals the source is a screenshot montage and author-facing note. The 14-character ASR is not an adequate content fingerprint.",
+        "new_knowledge_decision": "PENDING_WEB_PRO_SEMANTIC_REVIEW",
+        "independent_story_weight": 0,
+        "limitations": [
+          "No image-level cross-corpus exhaustive match yet.",
+          "Do not infer same woman/case from the theme or naming alone.",
+          "Travel, call duration and final red labels do not prove outcome or causality."
+        ],
+        "formal_fulltexts_screened": 510,
+        "formal_fulltext_segments_screened": 332901,
+        "formal_screen_scope": "All 510 source records: 301 video transcripts/332368 rows + 209 community fulltexts/533 rows. Community image safe summaries are editorial metadata, not original image OCR or authored quotes.",
+        "missing_fulltext_sources": [],
+        "complete_screen_research_path": "research/youtube-channel-refresh-20261004/media-distillation/items/mikey-youtube-short-refresh-001/formal-all-fulltext-screen.json",
+        "additional_related_readback": {
+          "source_id": "quark-live-048",
+          "sid_range": [
+            "S02295",
+            "S02358"
+          ],
+          "time_seconds": [
+            5662.48,
+            5769.15
+          ],
+          "actual_segments_read": 64,
+          "safe_summary": "另一个旧案例中，主讲自述用MCN工作解释身份；只是主题相关，不证明Short截图或当事人相同。"
+        },
+        "unresolved_visual_containment": "No exhaustive 324-community-image or old-video-pixel comparison; do not claim exact screenshot identity or confirmed novelty."
+      }
+    }
+  ],
+  "factual_delta": "Independent window matching confirms reused snippets were reordered around an added call segment. The old transcript explicitly describes a planned edited call publication. All community fulltexts were additionally screened. No change to speaker/consent/medical/legal or action permissions. No semantic knowledge added locally.",
+  "formal_changed": false
+}

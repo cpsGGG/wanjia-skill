@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-012",
+  "youtube_id": "T3Yy6VpMJwI",
+  "decision": "reuse",
+  "reuse_of": "S-cMTEvo6To",
+  "formal_weight_if_integrated": 0,
+  "compared_sources": [
+    {"scope": "formal_mikey_guide", "source_count": 202, "comparison": "youtube_id_url_normalized_fulltext_and_12_character_shingles"},
+    {"source_id": "S-cMTEvo6To", "title": "2026-07-21 - 聊一下邹市明冉莹颖", "comparison": "same topic and long ordered verbatim-equivalent teaching sequence"}
+  ],
+  "evidence": [
+    {"type": "identity", "result": "no_exact_youtube_id_or_url_overlap", "basis": "video-02/identity-precheck.json and current formal source-index"},
+    {"type": "normalized_fulltext", "target_normalized_chars": 10912, "target_sha256": "83a6fde619be8086de00ddcacb3b76b3daee9503541e47f04fe40a44f6cd145c", "formal_transcripts_checked": 202, "exact_matches": []},
+    {"type": "partial_content_reuse", "formal_source_id": "S-cMTEvo6To", "target_12_character_shingle_containment": 0.43423588802202845, "normalized_sequence_match_ratio": 0.8497983870967742, "matching_normalized_characters": 9273, "result": "edited and reordered excerpt/derivative of the formal long live source"},
+    {"type": "semantic_alignment", "basis": "formal analysis timelines T005-T041 cover the same attraction model, behavior cues, eye-contact example, body claims, love definition, wealth warnings and long-term-relationship answer"}
+  ],
+  "boundary": "This upload has a different YouTube ID and edited timing, but most of its normalized sequence and all major teaching blocks reuse S-cMTEvo6To. Preserve it as a research pointer with zero additional formal source weight."
+}

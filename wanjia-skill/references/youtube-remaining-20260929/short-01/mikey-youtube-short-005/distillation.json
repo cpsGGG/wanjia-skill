@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-005",
+  "youtube_id": "7oqg4ft8AGs",
+  "title": "不要太想着去证明自己",
+  "coverage": {"transcript_segments_read": 27, "transcript_time_range_seconds": [0.3, 62.0], "semantic_media_range_seconds": [0.0, 60.464762], "sampled_frames_reviewed": 20, "continuous_original_audio_visual_review": false, "asr_tail_excluded": "S00026-S00027 extend past the audited media duration and are repeated outro recognition; they carry no semantic claim."},
+  "timeline": [
+    {"start": 0.3, "end": 18.48, "summary": "A viewer asks whether confidence requires accepting fear; Mikey answers that one can accept the current fearful state and still act courageously."},
+    {"start": 18.48, "end": 42.72, "summary": "He says rejecting fear and trying to prove one is not fearful can create self-conflict and intensify the problem."},
+    {"start": 42.72, "end": 60.464762, "summary": "He frames acceptance as allowing an existing state without surrendering action, so attention can return to doing what one judges correct; repeated ASR beyond the media boundary is excluded."}
+  ],
+  "claims": [
+    {"claim_id": "s005-c01", "speaker": "Mikey", "statement": "Accepting that one currently feels afraid can coexist with choosing a courageous action.", "conditions": "A general self-reflection answer, not clinical treatment advice.", "evidence": ["S00001-S00007@0.30-18.48"], "use_level": "context_only", "knowledge_status": "reuse_zero_weight"},
+    {"claim_id": "s005-c02", "speaker": "Mikey", "statement": "Trying to prove that one is not afraid may increase self-conflict; he recommends allowing the feeling and continuing the action one considers right.", "conditions": "The transcript appears to misrecognize one phrase as '治疗心理异地'; do not preserve that as a medical term.", "evidence": ["S00008-S00025@18.48-60.16"], "use_level": "context_only", "knowledge_status": "reuse_zero_weight"}
+  ],
+  "examples": [],
+  "permissions": {"use_level": "context_only", "first_person_allowed": false, "action_advice_allowed": false}
+}

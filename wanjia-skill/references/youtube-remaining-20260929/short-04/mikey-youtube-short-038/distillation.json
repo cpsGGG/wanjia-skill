@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-038",
+  "youtube_id": "Vi9Jw-UOwVU",
+  "title": "真实搭讪，搭讪甜妹",
+  "coverage": {"transcript_segments_read": 6, "transcript_time_range_seconds": [0.0, 19.75], "semantic_media_range_seconds": [0.0, 21.896417], "sampled_frames_reviewed": 7, "continuous_original_audio_visual_review": false, "excluded_asr_tail": null},
+  "timeline": [
+    {"start": 0.0, "end": 7.52, "summary": "A male camera-holder approaches a woman in a busy night-street setting and states that he came over to approach her; the opening ASR is partly garbled."},
+    {"start": 7.52, "end": 14.91, "summary": "No reliable ASR text is present for this interval. Sparse frames show the same interaction and phone handling, but do not support reconstructing the missing words or result."},
+    {"start": 14.91, "end": 19.75, "summary": "He asks whether the women are visiting; they answer that they are locals, and the interaction ends with goodbye."},
+    {"start": 19.75, "end": 21.896417, "summary": "The parties separate; sparse frames show no later continuation or outcome."}
+  ],
+  "claims": [
+    {"claim_id": "s038-c01", "speaker": "male_camera_holder_unconfirmed", "statement": "He uses a direct statement of approach intent before asking a simple location/travel question.", "conditions": "Observed conduct in one edited street clip; it is not shown as a general rule or a successful outcome.", "evidence": ["S00001-S00004@0.00-17.35"], "use_level": "hold"},
+    {"claim_id": "s038-c02", "speaker": "male_camera_holder_unconfirmed", "statement": "After the brief answer does not develop into a longer exchange, he ends with goodbye.", "conditions": "The edit and missing continuous review prevent a complete account of the interaction.", "evidence": ["S00005-S00006@17.35-19.75"], "use_level": "hold"}
+  ],
+  "speaker_attribution": [{"speaker": "male_camera_holder_unconfirmed", "basis": "First-person camera angle and male voice; sampled frames do not independently prove that the speaker is Mikey."}, {"speaker": "women_in_frame", "basis": "Visible women answer the travel/local question; exact voice-to-person mapping was not continuously reviewed."}],
+  "visual_findings": ["Seven sampled frames show a night-street interaction with one foreground woman and another nearby woman.", "A phone is handled during the exchange, but the sparse frames do not establish whether contact was exchanged or retained.", "The final frame shows separation; no later result is visible."],
+  "permissions": {"formal_integration": false, "first_person_allowed": false, "action_advice_allowed": false, "use_level": "reuse_zero_weight", "reason": "The interaction pattern is already represented and speaker identity/outcome remain limited."},
+  "limitations": ["S00001 is garbled and excluded from any precise wording claim.", "Sparse 3-second frames are not continuous audio-visual review.", "The clip does not prove consent to continued contact, a saved contact, or any later result."]
+}

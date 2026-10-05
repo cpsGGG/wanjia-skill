@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-034",
+  "youtube_id": "JpmWNxPyhLc",
+  "decision": "new",
+  "compared_sources": [
+    {"scope": "formal_mikey_guide", "source_count": 202, "comparison": "youtube_id_url_normalized_fulltext_and_12_character_shingles"},
+    {"source_id": "quark-live-016", "comparison": "highest formal transcript overlap; three common 12-character shingles only"},
+    {"scope": "existing_research_and_video_04_batch", "comparison": "identity, normalized transcript, title and purpose"}
+  ],
+  "evidence": [
+    {"type": "identity", "result": "no_exact_youtube_id_or_url_overlap", "basis": "video-04 identity-precheck and formal source-index"},
+    {"type": "normalized_fulltext", "target_normalized_chars": 1168, "target_sha256": "917fb45a17cfe27975eb48eb3059d664c7270990aa1c4f51e40960cc693b14eb", "formal_transcripts_checked": 202, "exact_matches": []},
+    {"type": "near_duplicate_screen", "method": "12_character_shingle_containment", "highest_formal_containment": 0.002593, "highest_formal_source_id": "quark-live-016", "result": "no transcript-scale reuse detected"},
+    {"type": "visual_scope", "result": "distinct_channel_navigation_video", "basis": "All five sampled frames show Mikey at the Forbidden City, channel playlist overlays and a closing QR/contact screen."}
+  ],
+  "boundary": "This short upload is new as a public channel-navigation artifact. Its value is historical metadata and promotion, not substantive evidence that the referenced training works."
+}

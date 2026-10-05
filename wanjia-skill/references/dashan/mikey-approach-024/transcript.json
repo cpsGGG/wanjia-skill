@@ -1,0 +1,319 @@
+{
+  "schema_version": 1,
+  "source_id": "mikey-approach-024",
+  "title": "搭讪如何即时约会",
+  "status": "automatic_unreviewed",
+  "speaker": "not_diarized",
+  "layer": "asr_automatic_citation_view",
+  "notice": "由完整自动稿确定性生成；未人工听校、未区分说话人，不作为准确逐字引语。",
+  "segment_id_policy": "S编号按当前原始自动稿顺序从S00001起；原始自动稿SHA256变化即为另一版本。",
+  "source_revision": "sha256:84c5ae5ec2eeb4968dbdd2cb9ac6ebbae12105efe82b8b76989c24d6984d8836",
+  "transcript_revision": "sha256:f9801f2937be51219b95b86009b8f81b63170df5597d765c79fe3b5ee50bf16a",
+  "input_transcript_sha256": "f9801f2937be51219b95b86009b8f81b63170df5597d765c79fe3b5ee50bf16a",
+  "source": {
+    "kind": "local_file",
+    "local_path": "D:\\startup\\玩家.skill\\dashan\\24.搭讪如何即时约会.mp4",
+    "size_bytes": 86552885,
+    "sha256": "84c5ae5ec2eeb4968dbdd2cb9ac6ebbae12105efe82b8b76989c24d6984d8836",
+    "start_seconds": 0
+  },
+  "model": "large-v3-turbo",
+  "segments": [
+    {
+      "start": 0.11,
+      "end": 3.71,
+      "text": "嗨 为什么看我这笑",
+      "avg_logprob": -0.24812499618530273,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00001"
+    },
+    {
+      "start": 3.71,
+      "end": 5.51,
+      "text": "没有 觉得你长得很帅",
+      "avg_logprob": -0.24812499618530273,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00002"
+    },
+    {
+      "start": 5.51,
+      "end": 8.51,
+      "text": "哦 没有 我是来搭讪你 广西人",
+      "avg_logprob": -0.24812499618530273,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00003"
+    },
+    {
+      "start": 8.51,
+      "end": 10.31,
+      "text": "你是坐",
+      "avg_logprob": -0.24812499618530273,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00004"
+    },
+    {
+      "start": 10.31,
+      "end": 13.31,
+      "text": "没有 她是我朋友 她在等我",
+      "avg_logprob": -0.24812499618530273,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00005"
+    },
+    {
+      "start": 13.31,
+      "end": 14.91,
+      "text": "你过来旅游的吗",
+      "avg_logprob": -0.24812499618530273,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00006"
+    },
+    {
+      "start": 14.91,
+      "end": 18.31,
+      "text": "我江苏无锡的 我来这边工作",
+      "avg_logprob": -0.24812499618530273,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00007"
+    },
+    {
+      "start": 18.31,
+      "end": 21.51,
+      "text": "我下个月要去苏州",
+      "avg_logprob": -0.24812499618530273,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00008"
+    },
+    {
+      "start": 21.51,
+      "end": 22.91,
+      "text": "下个星期五",
+      "avg_logprob": -0.24812499618530273,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00009"
+    },
+    {
+      "start": 22.91,
+      "end": 24.51,
+      "text": "好近啊",
+      "avg_logprob": -0.24812499618530273,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00010"
+    },
+    {
+      "start": 24.51,
+      "end": 27.51,
+      "text": "但是我不在苏州 我在无锡 苏州旁边",
+      "avg_logprob": -0.24812499618530273,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00011"
+    },
+    {
+      "start": 27.51,
+      "end": 30.71,
+      "text": "有机会的话可以去无锡的南长街玩",
+      "avg_logprob": -0.3392175499719518,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00012"
+    },
+    {
+      "start": 30.71,
+      "end": 31.55,
+      "text": "那边很好玩",
+      "avg_logprob": -0.3392175499719518,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00013"
+    },
+    {
+      "start": 31.55,
+      "end": 32.51,
+      "text": "你这边干嘛",
+      "avg_logprob": -0.3392175499719518,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00014"
+    },
+    {
+      "start": 32.51,
+      "end": 35.11,
+      "text": "过街啊 没人就准备回去了",
+      "avg_logprob": -0.3392175499719518,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00015"
+    },
+    {
+      "start": 35.11,
+      "end": 36.11,
+      "text": "一个人也无聊了",
+      "avg_logprob": -0.3392175499719518,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00016"
+    },
+    {
+      "start": 36.11,
+      "end": 38.07,
+      "text": "一个人啊 我们一起吗",
+      "avg_logprob": -0.3392175499719518,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00017"
+    },
+    {
+      "start": 38.07,
+      "end": 38.91,
+      "text": "去哪玩",
+      "avg_logprob": -0.3392175499719518,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00018"
+    },
+    {
+      "start": 38.91,
+      "end": 42.15,
+      "text": "去啊 我们可以去约杯咖啡",
+      "avg_logprob": -0.3392175499719518,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00019"
+    },
+    {
+      "start": 42.15,
+      "end": 44.59,
+      "text": "可以啊 走",
+      "avg_logprob": -0.3392175499719518,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00020"
+    },
+    {
+      "start": 44.59,
+      "end": 48.03,
+      "text": "你这样跨着我",
+      "avg_logprob": -0.3392175499719518,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00021"
+    },
+    {
+      "start": 48.03,
+      "end": 51.55,
+      "text": "我喜欢就是别人跨着我走的",
+      "avg_logprob": -0.3392175499719518,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00022"
+    },
+    {
+      "start": 51.55,
+      "end": 52.59,
+      "text": "你好高啊",
+      "avg_logprob": -0.3392175499719518,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00023"
+    },
+    {
+      "start": 52.59,
+      "end": 53.83,
+      "text": "我很高吗",
+      "avg_logprob": -0.3392175499719518,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00024"
+    },
+    {
+      "start": 53.83,
+      "end": 56.99,
+      "text": "我觉得还好吧 我只有1米6",
+      "avg_logprob": -0.3392175499719518,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00025"
+    },
+    {
+      "start": 56.99,
+      "end": 58.79,
+      "text": "那就是有点直接了",
+      "avg_logprob": -0.599652804268731,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00026"
+    },
+    {
+      "start": 58.79,
+      "end": 60.31,
+      "text": "你喜欢直接的人",
+      "avg_logprob": -0.599652804268731,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00027"
+    },
+    {
+      "start": 60.31,
+      "end": 61.35,
+      "text": "我喜欢",
+      "avg_logprob": -0.599652804268731,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00028"
+    },
+    {
+      "start": 62.87,
+      "end": 64.23,
+      "text": "你不比头有了",
+      "avg_logprob": -0.599652804268731,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00029"
+    },
+    {
+      "start": 64.23,
+      "end": 66.71,
+      "text": "没有 他一会儿要回去了",
+      "avg_logprob": -0.599652804268731,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00030"
+    },
+    {
+      "start": 66.71,
+      "end": 67.75,
+      "text": "对",
+      "avg_logprob": -0.599652804268731,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00031"
+    },
+    {
+      "start": 68.59,
+      "end": 72.15,
+      "text": "他一会儿要回去了",
+      "avg_logprob": -0.599652804268731,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00032"
+    },
+    {
+      "start": 72.15,
+      "end": 73.39,
+      "text": "你手伸个船",
+      "avg_logprob": -0.599652804268731,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00033"
+    },
+    {
+      "start": 73.39,
+      "end": 74.27,
+      "text": "我手伸个",
+      "avg_logprob": -0.599652804268731,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00034"
+    },
+    {
+      "start": 74.27,
+      "end": 76.71,
+      "text": "我知道 我就给你问一下",
+      "avg_logprob": -0.599652804268731,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00035"
+    },
+    {
+      "start": 76.71,
+      "end": 78.99,
+      "text": "你为什么一看我就笑",
+      "avg_logprob": -0.599652804268731,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00036"
+    },
+    {
+      "start": 78.99,
+      "end": 81.19,
+      "text": "我很喜剧人吗",
+      "avg_logprob": -0.599652804268731,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00037"
+    }
+  ]
+}

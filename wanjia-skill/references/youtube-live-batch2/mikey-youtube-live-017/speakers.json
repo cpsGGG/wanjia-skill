@@ -1,0 +1,69 @@
+{
+  "schema_version": "1.0",
+  "source_id": "mikey-youtube-live-017",
+  "speakers": [
+    {
+      "id": "mikey",
+      "role": "host_and_game_commentator",
+      "status": "confirmed",
+      "identity_basis": "标题明确为Mikey实况直播；实际查看57张全时长故事板，主持长期位于画面小窗。开场、下播及直接回应观众的保守窗口可由连续语境确认。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=m9UNQmf2Sf8&t=26s",
+        "https://www.youtube.com/watch?v=m9UNQmf2Sf8&t=8233s",
+        "https://www.youtube.com/watch?v=m9UNQmf2Sf8&t=10583s"
+      ],
+      "notes": "小窗持续出现不等于每条音频都是Mikey；未做逐句嘴型和连续音画核验。"
+    },
+    {
+      "id": "viewer-question-01",
+      "role": "collective_live_chat_author",
+      "status": "collective_placeholder",
+      "identity_basis": "画面长期有直播评论区，自动稿中也有主持直接回应观众的片段。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=m9UNQmf2Sf8&t=8233s"
+      ],
+      "notes": "不同观众合并占位；被主持朗读的文字不自动代表主持观点。"
+    },
+    {
+      "id": "game-narrator-01",
+      "role": "game_narrator",
+      "status": "provisional",
+      "identity_basis": "游戏剧情包含新闻、旁白和章节转场。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=m9UNQmf2Sf8&t=402s"
+      ],
+      "notes": "未通过连续音画逐句映射。"
+    },
+    {
+      "id": "game-character-male-01",
+      "role": "game_male_character_collective",
+      "status": "provisional",
+      "identity_basis": "游戏主角及男性角色对白持续出现。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=m9UNQmf2Sf8&t=540s"
+      ],
+      "notes": "集合占位，不代表同一角色。"
+    },
+    {
+      "id": "game-character-female-01",
+      "role": "game_female_character_collective",
+      "status": "provisional",
+      "identity_basis": "游戏内多名女性角色对白持续出现。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=m9UNQmf2Sf8&t=900s"
+      ],
+      "notes": "集合占位，不代表同一角色。"
+    },
+    {
+      "id": "unknown-game-voice-01",
+      "role": "unresolved_mixed_game_or_host_audio",
+      "status": "disputed",
+      "identity_basis": "自动稿无法稳定区分游戏角色、旁白、主持评论及重叠音轨。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=m9UNQmf2Sf8&t=402s",
+        "https://www.youtube.com/watch?v=m9UNQmf2Sf8&t=6000s"
+      ],
+      "notes": "所有未获保守确认的SID均放在此处，不能支持explicit_mikey知识。"
+    }
+  ]
+}

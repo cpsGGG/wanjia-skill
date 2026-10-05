@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-017",
+  "youtube_id": "Mpw79dj6kmc",
+  "title": "【PUA解密系列】揭秘game圈真正的‘祖师爷’",
+  "coverage": {
+    "transcript_segments_read": 526,
+    "transcript_time_range_seconds": [0.0, 1130.39],
+    "sparse_frames_reviewed": 25,
+    "dense_frames_reviewed": 0,
+    "dense_windows_required_seconds": [[0, 100], [240, 370], [380, 665], [660, 680], [680, 850], [930, 1055], [1085, 1128]],
+    "continuous_original_audio_visual_review": false
+  },
+  "timeline": [
+    {"start": 0.0, "end": 96.62, "summary": "Mikey introduces Mystery and Neil Strauss's The Game through bestseller and publication claims, promising an origin story for modern PUA."},
+    {"start": 96.62, "end": 228.94, "summary": "He narrates an account of Erik/Mystery's delayed puberty, bullying, fascination with magic and move to Florida."},
+    {"start": 228.94, "end": 377.66, "summary": "The story links stage-magic attention control to eye contact, pauses, mystery and later nightclub success, presenting this as the creation of the Mystery persona."},
+    {"start": 377.66, "end": 479.04, "summary": "Mikey describes online field reports, rivalry with Ross Jeffries and creation of the M3 model, then sets up the Hollywood Project."},
+    {"start": 479.04, "end": 680.37, "summary": "He introduces Neil Strauss and other house members, portrays intensive review of nightclub encounters and claims access to actresses and celebrities; an inserted clip around 660–674 seconds is badly transcribed."},
+    {"start": 680.37, "end": 838.53, "summary": "He narrates the rise of a training business, alleged theft of a lease, customer list and teaching materials by Papa and Tyler, formation of RSD, and sexual betrayal involving Mystery's ex-partner."},
+    {"start": 838.53, "end": 1055.25, "summary": "The video depicts Mystery's mental-health collapse, suicidal thoughts, medication supplied by Strauss and psychiatric treatment, culminating in removal of his persona-defining clothing."},
+    {"start": 1055.25, "end": 1130.39, "summary": "Mikey closes by crediting Strauss with documenting the story, claims later worldwide financial success for RSD, and previews another installment using a short embedded English clip."}
+  ],
+  "claims": [
+    {"claim_id": "v017-c01", "speaker": "Mikey as narrator", "statement": "He says The Game rapidly reached major bestseller rankings and transformed an intended exposé or warning into a global PUA publishing phenomenon.", "conditions": "Publication date, rankings, category and sales scale are external factual claims not established by this edited video.", "evidence": ["S00005-S00029@19.02-96.62"], "use_level": "hold", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v017-c02", "speaker": "Mikey as narrator", "statement": "He narrates Mystery's youth, bullying, delayed physical development, magic career and move to Florida as the origin of the persona.", "conditions": "Third-party biography from unspecified sources; several names and details are ASR-corrupted.", "evidence": ["S00030-S00106@96.62-245.00"], "use_level": "hold", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v017-c03", "speaker": "Mikey as narrator", "statement": "He argues that Mystery transferred eye contact, pauses, suspense and attention control from stage magic into nightclub interactions and treated the result as a code for attraction.", "conditions": "Historical interpretation and causal story; public clips illustrate the narrative but do not prove outcomes.", "evidence": ["S00107-S00164@245.00-360.24"], "use_level": "context_only", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v017-c04", "speaker": "Mikey as narrator", "statement": "He credits Mystery's online field reports and M3 model with displacing Ross Jeffries and establishing a new PUA teaching system.", "conditions": "Influence, priority and authorship require dated primary forum archives and publications.", "evidence": ["S00171-S00220@377.66-464.42"], "use_level": "hold", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v017-c05", "speaker": "Mikey as narrator", "statement": "He describes the Hollywood Project as a house where Mystery, Neil Strauss and others systematically reviewed nights out and pursued women, actresses and celebrities.", "conditions": "Third-party sexual history and celebrity involvement are high-impact factual claims; selected archival images and narration are not sufficient verification.", "evidence": ["S00221-S00303@464.42-660.30"], "use_level": "do_not_generalize", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v017-c06", "speaker": "Mikey as narrator", "statement": "He alleges that Papa and Tyler Durden transferred the house lease, copied customer lists and course materials, formed RSD and marketed themselves as the authentic successor.", "conditions": "Business misconduct and theft allegations require contracts, contemporaneous records and responses from the named people.", "evidence": ["S00314-S00352@674.88-770.41"], "use_level": "do_not_generalize", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v017-c07", "speaker": "Mikey as narrator", "statement": "He alleges that another house member had sex with Mystery's former partner shortly after a breakup, contributing to Mystery's collapse.", "conditions": "Highly sensitive third-party sexual and mental-state claim; no direct testimony or primary record is supplied.", "evidence": ["S00353-S00381@770.41-838.53"], "use_level": "do_not_generalize", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v017-c08", "speaker": "Mikey as narrator", "statement": "He narrates suicidal ideation, antidepressant medication supplied by Neil Strauss, emergency intervention and psychiatric hospitalization for Mystery.", "conditions": "Sensitive medical and mental-health claims about an identifiable person; must be verified from authoritative primary sources and represented without sensationalism.", "evidence": ["S00382-S00489@838.53-1055.25"], "use_level": "do_not_generalize", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v017-c09", "speaker": "Mikey as narrator", "statement": "He claims RSD later became a global business worth hundreds of millions of dollars.", "conditions": "Unverified company and financial-scale claim; no accounts or corporate evidence are shown.", "evidence": ["S00497-S00508@1069.95-1088.83"], "use_level": "hold", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v017-c10", "speaker": "embedded English clip speaker", "statement": "A short clip contains explicit sexualized remarks and references to grabbing women; the exact speaker and full context are not established by the sparse sample.", "conditions": "Quoted/played material, not Mikey's own statement; requires continuous source attribution and original clip context.", "evidence": ["S00509-S00522@1088.83-1104.45", "sampled frame 000025"], "use_level": "do_not_generalize", "knowledge_status": "hold_pending_independent_review"}
+  ],
+  "examples": [
+    {"example_id": "v017-e01", "summary": "The stage-magician-to-nightclub arc is used to explain a claimed transfer of attention-control techniques, but it is a narrated biography rather than a demonstrated experiment.", "evidence": ["S00107-S00170", "sampled frames 000005-000009"]},
+    {"example_id": "v017-e02", "summary": "The Hollywood house collapse is presented as a cautionary story about business, identity and technique obsession, while the underlying allegations remain unverified.", "evidence": ["S00314-S00489", "sampled frames 000017-000024"]}
+  ],
+  "speaker_attribution": [
+    {"speaker": "Mikey", "basis": "Narrates and edits the documentary-style video; most spoken content is his account of third parties."},
+    {"speaker": "Mystery/Erik, Neil Strauss, Papa, Tyler Durden, Herbal and others", "basis": "Named third parties represented through narration, archival/public footage and alleged quotations; the video does not provide full interviews."},
+    {"speaker": "embedded clip speakers", "basis": "Short English and other inserted clips around 660–674 and 1088–1127 seconds; exact identity, date and full context require continuous review."}
+  ],
+  "visual_findings": [
+    "All 25 sampled frames were reviewed. The video is a documentary-style compilation of archival/public interviews, crowd scenes, nightlife footage, website screenshots, film clips, still images and subtitles.",
+    "Sampled frames 000013-000016 show promotional or web material, but text is too small or partial to verify prices, dates, authorship or company history. Frame 000018 is black/transition material rather than evidence.",
+    "Frames 000019-000024 dramatize collapse and treatment through film or archival imagery; they do not establish the narrated medical events. Frame 000025 is an embedded lecture clip and must not be attributed to Mikey.",
+    "Sparse 45-second sampling cannot determine whether every quote aligns with the person shown or whether montage material is contemporaneous. Dense continuous review is required for all quoted and high-impact windows."
+  ],
+  "permissions": {
+    "formal_integration": false,
+    "first_person_allowed": false,
+    "action_advice_allowed": false,
+    "knowledge_status": "hold_pending_independent_review",
+    "reason": "Primarily third-party biography with unverified business, sexual, medical, mental-health and financial claims plus unattributed embedded clips."
+  },
+  "limitations": [
+    "Automatic transcript was read in full but not checked word-for-word against original audio; names and English passages are heavily corrupted.",
+    "Twenty-five sparse frames do not establish quote attribution, chronology or the provenance of archival clips.",
+    "No external primary sources were provided in the video package for the historical, financial or medical claims.",
+    "Narrative coherence and repeated public imagery do not independently corroborate allegations about identifiable people."
+  ]
+}

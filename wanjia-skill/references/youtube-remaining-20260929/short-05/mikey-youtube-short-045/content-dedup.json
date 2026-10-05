@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-045",
+  "youtube_id": "juXjBbeF0vs",
+  "decision": "new",
+  "reuse_of": null,
+  "formal_weight_if_integrated": 1,
+  "compared_sources": [
+    {
+      "scope": "formal_mikey_guide",
+      "source_count": 202,
+      "comparison": "exact ID/URL, distinctive phrase search, normalized transcript 5-character shingles and semantic screen"
+    },
+    {
+      "scope": "youtube_pipeline_video_01_to_05_and_short_01_to_04",
+      "comparison": "exact ID/URL, transcript and semantic reuse screen"
+    },
+    {
+      "source_id": "S-cMTEvo6To:K28",
+      "comparison": "related but different claim: scarcity can be mistaken for love or commitment"
+    },
+    {
+      "source_id": "mikey-youtube-live-010-K0003",
+      "comparison": "related relationship-focus claim: if maintaining the current relationship is the goal, focus on it rather than proving abundance"
+    },
+    {
+      "source_id": "mikey-youtube-live-030-K010",
+      "comparison": "related claim that commitment should come from active choice rather than lack of alternatives"
+    }
+  ],
+  "evidence": [
+    {
+      "type": "identity",
+      "result": "no_exact_youtube_id_or_url_match"
+    },
+    {
+      "type": "transcript",
+      "result": "no_same_passage_match",
+      "basis": "Distinctive searches for the no-optimal-choice, devotion and unique-person wording found no matching formal or completed pipeline transcript. The 5-character shingle screen also found no transcript-scale reuse."
+    },
+    {
+      "type": "semantic_comparison",
+      "result": "distinct_relationship_choice_formulation",
+      "basis": "Existing sources discuss scarcity, alternatives and commitment, but do not reproduce this Short's sequence: defending devotion, acknowledging future novelty and alternatives, then defining love as choosing one person despite knowing they are not an abstract optimum."
+    },
+    {
+      "type": "visual",
+      "result": "distinct_single_speaker_recording",
+      "basis": "All 9 sampled frames show one continuous waterfront selfie monologue with matching editorial subtitles; no parent excerpt or alternate recording was located."
+    }
+  ],
+  "boundary": "New only as a distinct research source and formulation. It does not establish that devotion is always healthy, that a relationship should continue despite incompatibility, or that one person's idea of uniqueness is reciprocated."
+}

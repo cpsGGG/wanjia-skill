@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "source_id": "mikey-youtube-live-020",
+  "speakers": [
+    {
+      "id": "mikey",
+      "role": "host",
+      "status": "confirmed",
+      "identity_basis": "标题标明Mikey直播；实际查看visual/survey全部6张全时长故事板，约00:00–01:06大部分为同一男性主持固定机位和右侧评论区。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=0rVKemT02iA&t=300s",
+        "https://www.youtube.com/watch?v=0rVKemT02iA&t=2100s",
+        "https://www.youtube.com/watch?v=0rVKemT02iA&t=3900s"
+      ],
+      "notes": "约44–45分钟持手机播放/展示通话，相关语句不能逐句归为Mikey。"
+    },
+    {
+      "id": "viewer-question-01",
+      "role": "collective live-chat question author(s)",
+      "status": "collective_placeholder",
+      "identity_basis": "故事板持续显示直播评论区，自动稿中主持频繁代读问题。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=0rVKemT02iA&t=120s"
+      ],
+      "notes": "多名观众集合占位，未逐条映射昵称。"
+    },
+    {
+      "id": "unknown-recorded-voice-01",
+      "role": "recorded call participant(s) and mixed playback",
+      "status": "disputed",
+      "identity_basis": "S01039–S01099为主持播放并转述通话，自动稿在远程女性、Mikey原通话声和直播评论之间交替；稀疏故事板只能确认主持持手机，不能逐句映射。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=0rVKemT02iA&t=2630s",
+        "https://www.youtube.com/watch?v=0rVKemT02iA&t=2700s"
+      ],
+      "notes": "必须连续原音和画面核验；不得将远程女性或被朗读内容视为Mikey观点。"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-002",
+  "youtube_id": "Z2sgjH3FmeU",
+  "decision": "reuse",
+  "reuse_of": ["mikey-youtube-live-038", "mikey-youtube-video-024"],
+  "formal_weight_if_integrated": 0,
+  "compared_sources": [
+    {"source_id": "mikey-youtube-live-038", "comparison": "same named-industry dispute, external-video playback, alleged staged cases and host commentary"},
+    {"source_id": "mikey-youtube-video-024", "comparison": "same named team, alleged actors/fabricated cases and third-party accusation material"},
+    {"scope": "formal_mikey_guide", "source_count": 202, "comparison": "youtube_id, title, transcript phrases and topic screen"}
+  ],
+  "evidence": [
+    {"type": "identity", "result": "different YouTube ID; no formal exact-ID match"},
+    {"type": "underlying_content", "result": "already represented restricted dispute material", "basis": "The short is an edited third-party monologue and screenshots about the same Jackson/Hank/Cim alleged-staging dispute already preserved in formal live-038 and researched video-024."},
+    {"type": "independence", "result": "not independent corroboration", "basis": "The visible speaker's admissions/defenses, channel-added yellow captions and selected profile screenshots all belong to the same dispute chain; reposting does not verify the allegations."},
+    {"type": "visual_scope", "result": "complete short reviewed", "basis": "All 18 sampled frames and 53 one-second dense frames were reviewed."}
+  ],
+  "boundary": "Preserve as a clearer alternate excerpt only. Add zero source, claim or corroboration weight; the man speaking is not Mikey, and editorial subtitles are channel framing rather than his spoken testimony."
+}

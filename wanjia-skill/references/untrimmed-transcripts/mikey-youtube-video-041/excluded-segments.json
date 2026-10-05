@@ -1,0 +1,110 @@
+{
+  "source_id": "mikey-youtube-video-041",
+  "status": "preserved_not_indexed_timing_unreliable",
+  "time_alignment_verified": false,
+  "original_transcript": "references/untrimmed-transcripts/mikey-youtube-video-041/transcript.original.json",
+  "original_transcript_sha256": "5bbb960df7b15e634c108953a0f4b954bc03999c01cf57eac92834a6c5eb4c08",
+  "original_research_transcript": "D:\\startup\\玩家.skill\\research\\youtube-all-remaining-pipeline\\integration-candidate\\references\\youtube-remaining-20260929\\video-05\\mikey-youtube-video-041\\transcript.json",
+  "media_duration_seconds": 583.70322,
+  "excluded_segments": [
+    {
+      "sid": "S00347",
+      "start": 584.02,
+      "end": 585.02,
+      "text": "余思信"
+    },
+    {
+      "sid": "S00348",
+      "start": 585.02,
+      "end": 586.02,
+      "text": "余思信"
+    },
+    {
+      "sid": "S00349",
+      "start": 586.02,
+      "end": 587.02,
+      "text": "余思信"
+    },
+    {
+      "sid": "S00350",
+      "start": 587.02,
+      "end": 588.02,
+      "text": "余思信"
+    },
+    {
+      "sid": "S00351",
+      "start": 588.02,
+      "end": 589.02,
+      "text": "余思信"
+    },
+    {
+      "sid": "S00352",
+      "start": 589.02,
+      "end": 590.02,
+      "text": "余思信"
+    },
+    {
+      "sid": "S00353",
+      "start": 590.02,
+      "end": 591.02,
+      "text": "余思信"
+    },
+    {
+      "sid": "S00354",
+      "start": 591.02,
+      "end": 592.02,
+      "text": "余思信"
+    },
+    {
+      "sid": "S00355",
+      "start": 592.02,
+      "end": 593.02,
+      "text": "余思信"
+    },
+    {
+      "sid": "S00356",
+      "start": 593.02,
+      "end": 594.02,
+      "text": "余思信"
+    },
+    {
+      "sid": "S00357",
+      "start": 594.02,
+      "end": 595.02,
+      "text": "余思信"
+    },
+    {
+      "sid": "S00358",
+      "start": 595.02,
+      "end": 596.02,
+      "text": "余思信"
+    },
+    {
+      "sid": "S00359",
+      "start": 596.02,
+      "end": 597.02,
+      "text": "余思信"
+    },
+    {
+      "sid": "S00360",
+      "start": 597.02,
+      "end": 598.02,
+      "text": "余思信"
+    },
+    {
+      "sid": "S00361",
+      "start": 598.02,
+      "end": 599.02,
+      "text": "余思信"
+    }
+  ],
+  "crossing_segments_original": [
+    {
+      "sid": "S00346",
+      "start": 583.02,
+      "end": 584.02,
+      "text": "余思信"
+    }
+  ],
+  "notice": "All original text is retained. Out-of-duration timestamps may be ASR hallucination or misalignment; no information-value verdict or permission upgrade follows from exclusion from the normal timed index."
+}

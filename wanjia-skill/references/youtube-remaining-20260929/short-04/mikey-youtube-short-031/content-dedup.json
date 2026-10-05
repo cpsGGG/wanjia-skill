@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-031",
+  "youtube_id": "iJ-sPn7b1_Q",
+  "decision": "reuse",
+  "reuse_of": "quark-live-044",
+  "formal_weight_if_integrated": 0,
+  "compared_sources": [
+    {
+      "scope": "formal_mikey_guide",
+      "source_count": 202,
+      "comparison": "YouTube identity, normalized transcript phrase screen, semantic knowledge screen, and ordered-passage verification"
+    },
+    {
+      "scope": "video-01_to_video-05_short-01_to_short-03",
+      "comparison": "YouTube identity, normalized transcript phrase screen, and semantic screen"
+    },
+    {
+      "scope": "formal_exact_source",
+      "source_ids": ["quark-live-044"],
+      "comparison": "same ordered livestream passage at S02304-S02348@5379.23-5496.80"
+    },
+    {
+      "scope": "related_short",
+      "source_ids": ["mikey-youtube-short-008", "EIcItpA_RZU"],
+      "comparison": "related local-history theme but a different excerpt and underlying formal passage"
+    }
+  ],
+  "evidence": [
+    {
+      "type": "identity",
+      "result": "no_exact_id_or_url_match"
+    },
+    {
+      "type": "ordered_content_alignment",
+      "result": "same_underlying_passage",
+      "short_evidence": "S00001-S00054@2.36-109.27",
+      "formal_evidence": "quark-live-044:S02304-S02348@5379.23-5496.80",
+      "basis": "The fear of being unknown, living for oneself, ICU/local-history thought experiment, doing what one wants despite parental stability advice, and the Ming-history/celebrity examples occur in the same order. Short ASR errors correspond to intelligible formal words such as 碌碌无为, 添砖加瓦, 认同 and 公务员."
+    },
+    {
+      "type": "visual",
+      "result": "single_speaker_livestream_excerpt",
+      "basis": "All 37 sampled frames show the same man at a microphone in one dark studio shot with edited subtitles; no second speaker, demonstration, private message, refusal, consent event, or outcome appears."
+    }
+  ],
+  "boundary": "Treat as a vertical excerpt of formal quark-live-044. Preserve the Short as an alternate public pointer and subtitle aid only; assign no independent source, claim, or corroboration weight."
+}

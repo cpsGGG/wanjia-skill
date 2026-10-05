@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0",
+  "source_id": "mikey-youtube-live-019",
+  "speakers": [
+    {
+      "id": "mikey",
+      "role": "host",
+      "status": "confirmed",
+      "identity_basis": "标题标明Mikey直播；实际查看visual/survey全部6张全时长故事板，约00:00–01:07均为同一男性主持固定机位，右侧持续评论区。完整自动稿以同一主持连续答疑为主，但稀疏静帧不能逐句证明嘴型。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=Mkg_9tSudJY&t=300s",
+        "https://www.youtube.com/watch?v=Mkg_9tSudJY&t=2100s",
+        "https://www.youtube.com/watch?v=Mkg_9tSudJY&t=3900s"
+      ],
+      "notes": "观众问题由主持代读，不自动成为其主张；S00699-S00710短暂场外互动仍需连续音画核验。"
+    },
+    {
+      "id": "viewer-question-01",
+      "role": "collective live-chat question author(s)",
+      "status": "collective_placeholder",
+      "identity_basis": "故事板全程显示右侧直播评论区，自动稿中主持持续代读问题。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=Mkg_9tSudJY&t=120s"
+      ],
+      "notes": "多名观众集合占位，未逐条映射昵称。"
+    }
+  ]
+}

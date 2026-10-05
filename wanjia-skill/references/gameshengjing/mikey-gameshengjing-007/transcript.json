@@ -1,0 +1,2303 @@
+{
+  "schema_version": 1,
+  "source_id": "mikey-gameshengjing-007",
+  "title": "第七章 朋友圈怎么发能拥有超高线上吸引",
+  "status": "automatic_unreviewed",
+  "speaker": "not_diarized",
+  "layer": "asr_automatic_citation_view",
+  "notice": "由完整自动稿确定性生成；未人工听校、未区分说话人，不作为准确逐字引语。",
+  "segment_id_policy": "S编号按当前原始自动稿顺序从S00001起；原始自动稿SHA256变化即为另一版本。",
+  "source_revision": "sha256:a08b432879879e3f29b2d394734633e11565cef01c8962b58834728e0b0f5542",
+  "transcript_revision": "sha256:2dc8347831da01000704d2a11ace3ecbd59a933d79683685fe46b1f2dabd8cd6",
+  "input_transcript_sha256": "2dc8347831da01000704d2a11ace3ecbd59a933d79683685fe46b1f2dabd8cd6",
+  "source": {
+    "kind": "local_file",
+    "local_path": "D:\\startup\\玩家.skill\\gameshengjing\\7.第七章 朋友圈怎么发能拥有超高线上吸引.mp4",
+    "size_bytes": 44071184,
+    "sha256": "a08b432879879e3f29b2d394734633e11565cef01c8962b58834728e0b0f5542",
+    "start_seconds": 0
+  },
+  "model": "large-v3-turbo",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.12,
+      "text": "好那我们来讲一下就是朋友圈什么样的照片是OK的",
+      "avg_logprob": -0.07056725652807433,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00001"
+    },
+    {
+      "start": 3.12,
+      "end": 4.56,
+      "text": "什么样的照片是不行的",
+      "avg_logprob": -0.07056725652807433,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00002"
+    },
+    {
+      "start": 4.56,
+      "end": 6.78,
+      "text": "那么朋友圈这个东西的我给你兄弟们的建议",
+      "avg_logprob": -0.07056725652807433,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00003"
+    },
+    {
+      "start": 6.78,
+      "end": 9.96,
+      "text": "就是一组照片里面只要发你一张本人照就行了",
+      "avg_logprob": -0.07056725652807433,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00004"
+    },
+    {
+      "start": 9.96,
+      "end": 13.16,
+      "text": "那很多人呢他们发朋友圈他们喜欢一组照片",
+      "avg_logprob": -0.07056725652807433,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00005"
+    },
+    {
+      "start": 13.16,
+      "end": 15.3,
+      "text": "发九宫格全是自己的自拍",
+      "avg_logprob": -0.07056725652807433,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00006"
+    },
+    {
+      "start": 15.3,
+      "end": 16.96,
+      "text": "全是自己的各种凹造型",
+      "avg_logprob": -0.07056725652807433,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00007"
+    },
+    {
+      "start": 16.96,
+      "end": 19.7,
+      "text": "好那这个照片呢会显得你这个人非常刻意",
+      "avg_logprob": -0.07056725652807433,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00008"
+    },
+    {
+      "start": 19.7,
+      "end": 22.36,
+      "text": "而且他会拉低你这个人的吸引力",
+      "avg_logprob": -0.07056725652807433,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00009"
+    },
+    {
+      "start": 22.36,
+      "end": 25.2,
+      "text": "因为你在极烈的证明自己你在恐惧开屏",
+      "avg_logprob": -0.07056725652807433,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00010"
+    },
+    {
+      "start": 25.2,
+      "end": 27.52,
+      "text": "那么女人就会觉得你这个男的没有吸引力",
+      "avg_logprob": -0.07056725652807433,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00011"
+    },
+    {
+      "start": 27.52,
+      "end": 30.06,
+      "text": "因为真正有性的男人是不需要开评的",
+      "avg_logprob": -0.10419922037981451,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00012"
+    },
+    {
+      "start": 30.06,
+      "end": 31.26,
+      "text": "好那么还有一个",
+      "avg_logprob": -0.10419922037981451,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00013"
+    },
+    {
+      "start": 31.26,
+      "end": 33.96,
+      "text": "我必须要给兄弟们挑明的一个逻辑点",
+      "avg_logprob": -0.10419922037981451,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00014"
+    },
+    {
+      "start": 33.96,
+      "end": 37.64,
+      "text": "女人是怎么样判定一个男生的朋友圈",
+      "avg_logprob": -0.10419922037981451,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00015"
+    },
+    {
+      "start": 37.64,
+      "end": 39.08,
+      "text": "是OK还是不OK的",
+      "avg_logprob": -0.10419922037981451,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00016"
+    },
+    {
+      "start": 39.08,
+      "end": 41.56,
+      "text": "就是比如说你在朋友圈里发了",
+      "avg_logprob": -0.10419922037981451,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00017"
+    },
+    {
+      "start": 41.56,
+      "end": 43.42,
+      "text": "十组个人的照片",
+      "avg_logprob": -0.10419922037981451,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00018"
+    },
+    {
+      "start": 43.42,
+      "end": 45.5,
+      "text": "但凡有一组拍的很丑",
+      "avg_logprob": -0.10419922037981451,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00019"
+    },
+    {
+      "start": 45.5,
+      "end": 47.98,
+      "text": "比如说你前面十组都是九分都是十分",
+      "avg_logprob": -0.10419922037981451,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00020"
+    },
+    {
+      "start": 47.98,
+      "end": 49.94,
+      "text": "但凡有一张个人照片",
+      "avg_logprob": -0.10419922037981451,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00021"
+    },
+    {
+      "start": 49.94,
+      "end": 51.3,
+      "text": "你拍成了六分",
+      "avg_logprob": -0.10419922037981451,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00022"
+    },
+    {
+      "start": 51.3,
+      "end": 53.64,
+      "text": "那么这个时候女人会认为",
+      "avg_logprob": -0.10419922037981451,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00023"
+    },
+    {
+      "start": 53.64,
+      "end": 56.52,
+      "text": "你所有的照片都是六分",
+      "avg_logprob": -0.10419922037981451,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00024"
+    },
+    {
+      "start": 56.52,
+      "end": 57.5,
+      "text": "他会意识到",
+      "avg_logprob": -0.10767326644151518,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00025"
+    },
+    {
+      "start": 57.5,
+      "end": 60.04,
+      "text": "原来你真实是这个样子的",
+      "avg_logprob": -0.10767326644151518,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00026"
+    },
+    {
+      "start": 60.04,
+      "end": 62.28,
+      "text": "那么代表着你前面九个都是假的",
+      "avg_logprob": -0.10767326644151518,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00027"
+    },
+    {
+      "start": 62.28,
+      "end": 63.66,
+      "text": "那么女人就是这么认为的",
+      "avg_logprob": -0.10767326644151518,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00028"
+    },
+    {
+      "start": 63.66,
+      "end": 65.22,
+      "text": "所以说朋友圈这个东西",
+      "avg_logprob": -0.10767326644151518,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00029"
+    },
+    {
+      "start": 65.22,
+      "end": 66.16,
+      "text": "我要给兄弟们讲",
+      "avg_logprob": -0.10767326644151518,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00030"
+    },
+    {
+      "start": 66.16,
+      "end": 67.86,
+      "text": "你必须要发金",
+      "avg_logprob": -0.10767326644151518,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00031"
+    },
+    {
+      "start": 67.86,
+      "end": 69.02,
+      "text": "你可以发的少",
+      "avg_logprob": -0.10767326644151518,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00032"
+    },
+    {
+      "start": 69.02,
+      "end": 70.04,
+      "text": "但一定要金",
+      "avg_logprob": -0.10767326644151518,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00033"
+    },
+    {
+      "start": 70.04,
+      "end": 71.38,
+      "text": "再金不再多",
+      "avg_logprob": -0.10767326644151518,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00034"
+    },
+    {
+      "start": 71.38,
+      "end": 73.2,
+      "text": "很多人就框框喜欢在朋友圈",
+      "avg_logprob": -0.10767326644151518,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00035"
+    },
+    {
+      "start": 73.2,
+      "end": 74.24,
+      "text": "各种发自己",
+      "avg_logprob": -0.10767326644151518,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00036"
+    },
+    {
+      "start": 74.24,
+      "end": 76.3,
+      "text": "也没有一些像样的一些照片",
+      "avg_logprob": -0.10767326644151518,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00037"
+    },
+    {
+      "start": 76.3,
+      "end": 78.18,
+      "text": "照片的质量他参差不齐",
+      "avg_logprob": -0.10767326644151518,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00038"
+    },
+    {
+      "start": 78.18,
+      "end": 79.02,
+      "text": "一会儿就是帅",
+      "avg_logprob": -0.10767326644151518,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00039"
+    },
+    {
+      "start": 79.02,
+      "end": 79.78,
+      "text": "一会儿又不帅",
+      "avg_logprob": -0.10767326644151518,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00040"
+    },
+    {
+      "start": 79.78,
+      "end": 80.36,
+      "text": "一会儿有价值",
+      "avg_logprob": -0.10767326644151518,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00041"
+    },
+    {
+      "start": 80.36,
+      "end": 81.28,
+      "text": "一会儿又没有价值",
+      "avg_logprob": -0.10767326644151518,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00042"
+    },
+    {
+      "start": 81.28,
+      "end": 83.8,
+      "text": "那人都是天然的会相信别人是弱的",
+      "avg_logprob": -0.10767326644151518,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00043"
+    },
+    {
+      "start": 83.8,
+      "end": 85.42,
+      "text": "那么他只要在你的朋友圈里",
+      "avg_logprob": -0.10767326644151518,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00044"
+    },
+    {
+      "start": 85.42,
+      "end": 86.74,
+      "text": "找到你很弱的证据",
+      "avg_logprob": -0.10620577773957882,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00045"
+    },
+    {
+      "start": 86.74,
+      "end": 87.88,
+      "text": "他就会不尊重你",
+      "avg_logprob": -0.10620577773957882,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00046"
+    },
+    {
+      "start": 87.88,
+      "end": 88.64,
+      "text": "他就会认为",
+      "avg_logprob": -0.10620577773957882,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00047"
+    },
+    {
+      "start": 88.64,
+      "end": 90.1,
+      "text": "你就是真实的样子",
+      "avg_logprob": -0.10620577773957882,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00048"
+    },
+    {
+      "start": 90.1,
+      "end": 90.92,
+      "text": "就是弱的那一方",
+      "avg_logprob": -0.10620577773957882,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00049"
+    },
+    {
+      "start": 90.92,
+      "end": 92.48,
+      "text": "那个强的只是你伪装的",
+      "avg_logprob": -0.10620577773957882,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00050"
+    },
+    {
+      "start": 92.48,
+      "end": 93.94,
+      "text": "那么女人他是这么理解的",
+      "avg_logprob": -0.10620577773957882,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00051"
+    },
+    {
+      "start": 93.94,
+      "end": 95.36,
+      "text": "所以说我给兄弟们讲",
+      "avg_logprob": -0.10620577773957882,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00052"
+    },
+    {
+      "start": 95.36,
+      "end": 97.74,
+      "text": "你的朋友圈再精不再多",
+      "avg_logprob": -0.10620577773957882,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00053"
+    },
+    {
+      "start": 97.74,
+      "end": 98.82,
+      "text": "你发的越多",
+      "avg_logprob": -0.10620577773957882,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00054"
+    },
+    {
+      "start": 98.82,
+      "end": 100.1,
+      "text": "有的时候错的越厉害",
+      "avg_logprob": -0.10620577773957882,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00055"
+    },
+    {
+      "start": 100.1,
+      "end": 101.92,
+      "text": "除非你真的能做到你的照片",
+      "avg_logprob": -0.10620577773957882,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00056"
+    },
+    {
+      "start": 101.92,
+      "end": 103.26,
+      "text": "每一组质量都很好",
+      "avg_logprob": -0.10620577773957882,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00057"
+    },
+    {
+      "start": 103.26,
+      "end": 104.34,
+      "text": "那我前面有讲过",
+      "avg_logprob": -0.10620577773957882,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00058"
+    },
+    {
+      "start": 104.34,
+      "end": 105.92,
+      "text": "就是你一组朋友圈",
+      "avg_logprob": -0.10620577773957882,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00059"
+    },
+    {
+      "start": 105.92,
+      "end": 106.86,
+      "text": "只发一张个人照",
+      "avg_logprob": -0.10620577773957882,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00060"
+    },
+    {
+      "start": 106.86,
+      "end": 108.48,
+      "text": "那剩下的照片发什么呢",
+      "avg_logprob": -0.10620577773957882,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00061"
+    },
+    {
+      "start": 108.48,
+      "end": 109.3,
+      "text": "你可以发一些",
+      "avg_logprob": -0.10620577773957882,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00062"
+    },
+    {
+      "start": 109.3,
+      "end": 110.4,
+      "text": "就是自己的一些",
+      "avg_logprob": -0.10620577773957882,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00063"
+    },
+    {
+      "start": 110.4,
+      "end": 112.14,
+      "text": "就是低人生视角的一些照片",
+      "avg_logprob": -0.10620577773957882,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00064"
+    },
+    {
+      "start": 112.14,
+      "end": 113.56,
+      "text": "那么我这里再讲一下",
+      "avg_logprob": -0.10620577773957882,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00065"
+    },
+    {
+      "start": 113.56,
+      "end": 114.64,
+      "text": "就是个人照",
+      "avg_logprob": -0.10620577773957882,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00066"
+    },
+    {
+      "start": 114.64,
+      "end": 116.46,
+      "text": "它得是一个什么样子",
+      "avg_logprob": -0.09197443300350146,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00067"
+    },
+    {
+      "start": 116.46,
+      "end": 117.68,
+      "text": "那么很多人他们认为",
+      "avg_logprob": -0.09197443300350146,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00068"
+    },
+    {
+      "start": 117.68,
+      "end": 119.76,
+      "text": "个人照能就是一定要凸显的",
+      "avg_logprob": -0.09197443300350146,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00069"
+    },
+    {
+      "start": 119.76,
+      "end": 121.22,
+      "text": "我很帅气很精致",
+      "avg_logprob": -0.09197443300350146,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00070"
+    },
+    {
+      "start": 121.22,
+      "end": 123.4,
+      "text": "好那我这里要给兄弟们讲一个误区",
+      "avg_logprob": -0.09197443300350146,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00071"
+    },
+    {
+      "start": 123.4,
+      "end": 125.74,
+      "text": "包括这个国内情感行业",
+      "avg_logprob": -0.09197443300350146,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00072"
+    },
+    {
+      "start": 125.74,
+      "end": 126.98,
+      "text": "或者是整个情感行业",
+      "avg_logprob": -0.09197443300350146,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00073"
+    },
+    {
+      "start": 126.98,
+      "end": 127.72,
+      "text": "我都可以这么讲",
+      "avg_logprob": -0.09197443300350146,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00074"
+    },
+    {
+      "start": 127.72,
+      "end": 130.12,
+      "text": "他们对于照片的理解是非常差的",
+      "avg_logprob": -0.09197443300350146,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00075"
+    },
+    {
+      "start": 130.12,
+      "end": 132.94,
+      "text": "因为他们认为照片就是要体现出",
+      "avg_logprob": -0.09197443300350146,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00076"
+    },
+    {
+      "start": 132.94,
+      "end": 134.74,
+      "text": "自己的无限值的帅",
+      "avg_logprob": -0.09197443300350146,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00077"
+    },
+    {
+      "start": 134.74,
+      "end": 136.04,
+      "text": "无限值的酷",
+      "avg_logprob": -0.09197443300350146,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00078"
+    },
+    {
+      "start": 136.04,
+      "end": 137.38,
+      "text": "那我要给你们讲",
+      "avg_logprob": -0.09197443300350146,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00079"
+    },
+    {
+      "start": 137.38,
+      "end": 138.94,
+      "text": "就是女人可以这么做",
+      "avg_logprob": -0.09197443300350146,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00080"
+    },
+    {
+      "start": 138.94,
+      "end": 139.98,
+      "text": "男人是不行的",
+      "avg_logprob": -0.09197443300350146,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00081"
+    },
+    {
+      "start": 139.98,
+      "end": 142.48,
+      "text": "否则就会让女人觉得你在孔雀开屏",
+      "avg_logprob": -0.09197443300350146,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00082"
+    },
+    {
+      "start": 142.48,
+      "end": 144.82,
+      "text": "或者是觉得你的朋友圈是那种男模分",
+      "avg_logprob": -0.11298076714296917,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00083"
+    },
+    {
+      "start": 144.82,
+      "end": 146.6,
+      "text": "男模分的照片是什么样子",
+      "avg_logprob": -0.11298076714296917,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00084"
+    },
+    {
+      "start": 146.6,
+      "end": 147.92,
+      "text": "比如说这个是红酒杯",
+      "avg_logprob": -0.11298076714296917,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00085"
+    },
+    {
+      "start": 147.92,
+      "end": 153.26,
+      "text": "摆各种各样的pose",
+      "avg_logprob": -0.11298076714296917,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00086"
+    },
+    {
+      "start": 153.26,
+      "end": 155.42,
+      "text": "然后很精致",
+      "avg_logprob": -0.11298076714296917,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00087"
+    },
+    {
+      "start": 155.42,
+      "end": 156.62,
+      "text": "美颜非常的重",
+      "avg_logprob": -0.11298076714296917,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00088"
+    },
+    {
+      "start": 156.62,
+      "end": 157.66,
+      "text": "非常的过度",
+      "avg_logprob": -0.11298076714296917,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00089"
+    },
+    {
+      "start": 157.66,
+      "end": 159.46,
+      "text": "给人的感觉就是这个男的",
+      "avg_logprob": -0.11298076714296917,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00090"
+    },
+    {
+      "start": 159.46,
+      "end": 161.4,
+      "text": "有一种那种雍之淑粉的感觉",
+      "avg_logprob": -0.11298076714296917,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00091"
+    },
+    {
+      "start": 161.4,
+      "end": 163.08,
+      "text": "好那我来跟你们讲一下",
+      "avg_logprob": -0.11298076714296917,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00092"
+    },
+    {
+      "start": 163.08,
+      "end": 164.14,
+      "text": "我们男人拍照片",
+      "avg_logprob": -0.11298076714296917,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00093"
+    },
+    {
+      "start": 164.14,
+      "end": 165.5,
+      "text": "到底什么样的照片是OK的",
+      "avg_logprob": -0.11298076714296917,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00094"
+    },
+    {
+      "start": 165.5,
+      "end": 167.34,
+      "text": "就我们的照片一定要有一个",
+      "avg_logprob": -0.11298076714296917,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00095"
+    },
+    {
+      "start": 167.34,
+      "end": 169.02,
+      "text": "最核心最关键的一个点",
+      "avg_logprob": -0.11298076714296917,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00096"
+    },
+    {
+      "start": 169.02,
+      "end": 170.42,
+      "text": "叫做不刻意",
+      "avg_logprob": -0.11298076714296917,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00097"
+    },
+    {
+      "start": 170.42,
+      "end": 172.84,
+      "text": "你的个人照要给女生一种这样的感觉",
+      "avg_logprob": -0.11298076714296917,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00098"
+    },
+    {
+      "start": 172.84,
+      "end": 174.52,
+      "text": "就是你这个男的平时就很帅",
+      "avg_logprob": -0.11298076714296917,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00099"
+    },
+    {
+      "start": 174.52,
+      "end": 176.32,
+      "text": "然后这个时候有人要给你拍照片",
+      "avg_logprob": -0.10410911305833258,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00100"
+    },
+    {
+      "start": 176.32,
+      "end": 177.72,
+      "text": "然后你直接跳过去",
+      "avg_logprob": -0.10410911305833258,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00101"
+    },
+    {
+      "start": 177.72,
+      "end": 181.05,
+      "text": "一下就拍完了",
+      "avg_logprob": -0.10410911305833258,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00102"
+    },
+    {
+      "start": 181.05,
+      "end": 183.51,
+      "text": "而不是你的照片给别人传递那种感觉",
+      "avg_logprob": -0.10410911305833258,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00103"
+    },
+    {
+      "start": 183.51,
+      "end": 184.69,
+      "text": "这个人在给你拍照",
+      "avg_logprob": -0.10410911305833258,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00104"
+    },
+    {
+      "start": 184.69,
+      "end": 187.69,
+      "text": "给你拍了五六个小时才出的一张图",
+      "avg_logprob": -0.10410911305833258,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00105"
+    },
+    {
+      "start": 187.69,
+      "end": 188.79,
+      "text": "然后拍这种姿势",
+      "avg_logprob": -0.10410911305833258,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00106"
+    },
+    {
+      "start": 188.79,
+      "end": 191.65,
+      "text": "那么女人就会觉得这很刻意",
+      "avg_logprob": -0.10410911305833258,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00107"
+    },
+    {
+      "start": 191.65,
+      "end": 193.45,
+      "text": "你的照片一定要有生活感",
+      "avg_logprob": -0.10410911305833258,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00108"
+    },
+    {
+      "start": 193.45,
+      "end": 196.73,
+      "text": "只有这样的朋友圈才能吸引到一些高质量的女生",
+      "avg_logprob": -0.10410911305833258,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00109"
+    },
+    {
+      "start": 196.73,
+      "end": 198.25,
+      "text": "因为高质量的女生",
+      "avg_logprob": -0.10410911305833258,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00110"
+    },
+    {
+      "start": 198.25,
+      "end": 199.49,
+      "text": "他们会看这些东西",
+      "avg_logprob": -0.10410911305833258,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00111"
+    },
+    {
+      "start": 199.49,
+      "end": 201.71,
+      "text": "如果你们去拍那种男模分的展示面",
+      "avg_logprob": -0.10410911305833258,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00112"
+    },
+    {
+      "start": 201.71,
+      "end": 203.55,
+      "text": "那么你就会吸引很多低质量的",
+      "avg_logprob": -0.10410911305833258,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00113"
+    },
+    {
+      "start": 203.55,
+      "end": 204.71,
+      "text": "很土的精神小妹",
+      "avg_logprob": -0.10410911305833258,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00114"
+    },
+    {
+      "start": 204.71,
+      "end": 206.53,
+      "text": "但是大多数国内的一些情感导师",
+      "avg_logprob": -0.09439432978169206,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00115"
+    },
+    {
+      "start": 206.53,
+      "end": 207.91,
+      "text": "他们认为把一些精神小妹",
+      "avg_logprob": -0.09439432978169206,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00116"
+    },
+    {
+      "start": 207.91,
+      "end": 208.93,
+      "text": "他们就很满足了",
+      "avg_logprob": -0.09439432978169206,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00117"
+    },
+    {
+      "start": 208.93,
+      "end": 210.59,
+      "text": "那我确实也没什么好说的",
+      "avg_logprob": -0.09439432978169206,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00118"
+    },
+    {
+      "start": 210.59,
+      "end": 211.87,
+      "text": "但是我是想的是",
+      "avg_logprob": -0.09439432978169206,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00119"
+    },
+    {
+      "start": 211.87,
+      "end": 214.25,
+      "text": "我的学员对自己要有更高质量的要求",
+      "avg_logprob": -0.09439432978169206,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00120"
+    },
+    {
+      "start": 214.25,
+      "end": 216.21,
+      "text": "所以说我希望你们的展示面",
+      "avg_logprob": -0.09439432978169206,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00121"
+    },
+    {
+      "start": 216.21,
+      "end": 218.01,
+      "text": "一定要有生活感",
+      "avg_logprob": -0.09439432978169206,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00122"
+    },
+    {
+      "start": 218.01,
+      "end": 219.29,
+      "text": "然后我再强调一遍",
+      "avg_logprob": -0.09439432978169206,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00123"
+    },
+    {
+      "start": 219.29,
+      "end": 220.85,
+      "text": "就是你的照片一定是",
+      "avg_logprob": -0.09439432978169206,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00124"
+    },
+    {
+      "start": 220.85,
+      "end": 222.47,
+      "text": "比如说这个人给你拍照",
+      "avg_logprob": -0.09439432978169206,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00125"
+    },
+    {
+      "start": 222.47,
+      "end": 223.77,
+      "text": "就这样跳过来",
+      "avg_logprob": -0.09439432978169206,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00126"
+    },
+    {
+      "start": 223.77,
+      "end": 225.47,
+      "text": "直接就拍完了",
+      "avg_logprob": -0.09439432978169206,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00127"
+    },
+    {
+      "start": 225.47,
+      "end": 226.71,
+      "text": "抓拍的那种感觉",
+      "avg_logprob": -0.09439432978169206,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00128"
+    },
+    {
+      "start": 226.71,
+      "end": 229.13,
+      "text": "不是一种我在刻意摆pose",
+      "avg_logprob": -0.09439432978169206,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00129"
+    },
+    {
+      "start": 229.13,
+      "end": 230.19,
+      "text": "然后让你去拍",
+      "avg_logprob": -0.09439432978169206,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00130"
+    },
+    {
+      "start": 230.19,
+      "end": 231.27,
+      "text": "这是不行的",
+      "avg_logprob": -0.09439432978169206,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00131"
+    },
+    {
+      "start": 231.27,
+      "end": 232.39,
+      "text": "这会掉价的",
+      "avg_logprob": -0.09439432978169206,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00132"
+    },
+    {
+      "start": 232.39,
+      "end": 233.45,
+      "text": "一旦你这么做了",
+      "avg_logprob": -0.09439432978169206,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00133"
+    },
+    {
+      "start": 233.45,
+      "end": 234.61,
+      "text": "你可能本来挺帅的",
+      "avg_logprob": -0.09439432978169206,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00134"
+    },
+    {
+      "start": 234.61,
+      "end": 236.11,
+      "text": "但女人就会认为你没那么帅",
+      "avg_logprob": -0.1159620081969336,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00135"
+    },
+    {
+      "start": 236.11,
+      "end": 237.71,
+      "text": "好 那么我再给兄弟们讲一下",
+      "avg_logprob": -0.1159620081969336,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00136"
+    },
+    {
+      "start": 237.71,
+      "end": 240.11,
+      "text": "关于就是你们朋友圈如果除了发个人照",
+      "avg_logprob": -0.1159620081969336,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00137"
+    },
+    {
+      "start": 240.11,
+      "end": 241.01,
+      "text": "你们还要做什么",
+      "avg_logprob": -0.1159620081969336,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00138"
+    },
+    {
+      "start": 241.01,
+      "end": 242.91,
+      "text": "比如说你周一发了一组个人照",
+      "avg_logprob": -0.1159620081969336,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00139"
+    },
+    {
+      "start": 242.91,
+      "end": 245.31,
+      "text": "然后你周二又发了一组 周三又发了一组",
+      "avg_logprob": -0.1159620081969336,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00140"
+    },
+    {
+      "start": 245.31,
+      "end": 248.21,
+      "text": "那么这个时候你会给朋友圈的女生传递一个人设",
+      "avg_logprob": -0.1159620081969336,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00141"
+    },
+    {
+      "start": 248.21,
+      "end": 250.61,
+      "text": "就是你这个男的他妈的是孔雀开屏",
+      "avg_logprob": -0.1159620081969336,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00142"
+    },
+    {
+      "start": 250.61,
+      "end": 251.81,
+      "text": "就想去撩妹",
+      "avg_logprob": -0.1159620081969336,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00143"
+    },
+    {
+      "start": 251.81,
+      "end": 254.51,
+      "text": "那么我们要让我们的朋友圈怎么样变得更生活化",
+      "avg_logprob": -0.1159620081969336,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00144"
+    },
+    {
+      "start": 254.51,
+      "end": 255.91,
+      "text": "比如说你周一发了一组",
+      "avg_logprob": -0.1159620081969336,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00145"
+    },
+    {
+      "start": 255.91,
+      "end": 257.81,
+      "text": "然后你周三周四",
+      "avg_logprob": -0.1159620081969336,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00146"
+    },
+    {
+      "start": 257.81,
+      "end": 260.61,
+      "text": "你可以发一些就是你的生活中的第一层视角",
+      "avg_logprob": -0.1159620081969336,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00147"
+    },
+    {
+      "start": 260.61,
+      "end": 262.51,
+      "text": "比如你在牵狗或者是你在拼乐高",
+      "avg_logprob": -0.1159620081969336,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00148"
+    },
+    {
+      "start": 262.51,
+      "end": 264.43,
+      "text": "或者是你在喝酒都可以",
+      "avg_logprob": -0.09866071542104085,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00149"
+    },
+    {
+      "start": 264.43,
+      "end": 266.63,
+      "text": "但是一定是第一人生视角",
+      "avg_logprob": -0.09866071542104085,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00150"
+    },
+    {
+      "start": 266.63,
+      "end": 267.61,
+      "text": "这样结合起来",
+      "avg_logprob": -0.09866071542104085,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00151"
+    },
+    {
+      "start": 267.61,
+      "end": 268.71,
+      "text": "才会让你的朋友圈",
+      "avg_logprob": -0.09866071542104085,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00152"
+    },
+    {
+      "start": 268.71,
+      "end": 270.41,
+      "text": "显得就是更加的像人",
+      "avg_logprob": -0.09866071542104085,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00153"
+    },
+    {
+      "start": 270.41,
+      "end": 272.13,
+      "text": "而不是那种伪人感",
+      "avg_logprob": -0.09866071542104085,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00154"
+    },
+    {
+      "start": 272.13,
+      "end": 273.01,
+      "text": "国内很多导师",
+      "avg_logprob": -0.09866071542104085,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00155"
+    },
+    {
+      "start": 273.01,
+      "end": 273.77,
+      "text": "他们的朋友圈",
+      "avg_logprob": -0.09866071542104085,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00156"
+    },
+    {
+      "start": 273.77,
+      "end": 274.71,
+      "text": "都有点伪人感",
+      "avg_logprob": -0.09866071542104085,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00157"
+    },
+    {
+      "start": 274.71,
+      "end": 275.57,
+      "text": "感觉不像人",
+      "avg_logprob": -0.09866071542104085,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00158"
+    },
+    {
+      "start": 275.57,
+      "end": 276.83,
+      "text": "那我还要再给兄弟们讲",
+      "avg_logprob": -0.09866071542104085,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00159"
+    },
+    {
+      "start": 276.83,
+      "end": 278.61,
+      "text": "很多人喜欢发定位",
+      "avg_logprob": -0.09866071542104085,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00160"
+    },
+    {
+      "start": 278.61,
+      "end": 279.61,
+      "text": "我是觉得",
+      "avg_logprob": -0.09866071542104085,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00161"
+    },
+    {
+      "start": 279.61,
+      "end": 281.25,
+      "text": "比如说你在一个城市",
+      "avg_logprob": -0.09866071542104085,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00162"
+    },
+    {
+      "start": 281.25,
+      "end": 282.61,
+      "text": "发一个定位就可以了",
+      "avg_logprob": -0.09866071542104085,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00163"
+    },
+    {
+      "start": 282.61,
+      "end": 283.73,
+      "text": "你不要到处发",
+      "avg_logprob": -0.09866071542104085,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00164"
+    },
+    {
+      "start": 283.73,
+      "end": 285.17,
+      "text": "你不要发到每一条朋友圈",
+      "avg_logprob": -0.09866071542104085,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00165"
+    },
+    {
+      "start": 285.17,
+      "end": 285.89,
+      "text": "都要加定位",
+      "avg_logprob": -0.09866071542104085,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00166"
+    },
+    {
+      "start": 285.89,
+      "end": 286.77,
+      "text": "包括有些兄弟",
+      "avg_logprob": -0.09866071542104085,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00167"
+    },
+    {
+      "start": 286.77,
+      "end": 287.67,
+      "text": "他们可能在巴黎",
+      "avg_logprob": -0.09866071542104085,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00168"
+    },
+    {
+      "start": 287.67,
+      "end": 289.09,
+      "text": "他们在巴黎铁塔下",
+      "avg_logprob": -0.09866071542104085,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00169"
+    },
+    {
+      "start": 289.09,
+      "end": 289.91,
+      "text": "拍了一组照片",
+      "avg_logprob": -0.09866071542104085,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00170"
+    },
+    {
+      "start": 289.91,
+      "end": 290.51,
+      "text": "那么这个时候",
+      "avg_logprob": -0.09866071542104085,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00171"
+    },
+    {
+      "start": 290.51,
+      "end": 292.19,
+      "text": "他还要在巴黎铁塔下",
+      "avg_logprob": -0.09866071542104085,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00172"
+    },
+    {
+      "start": 292.19,
+      "end": 294.73,
+      "text": "旁边再加一个法国巴黎的定位",
+      "avg_logprob": -0.10792349824488488,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00173"
+    },
+    {
+      "start": 294.73,
+      "end": 296.49,
+      "text": "那么我是觉得完全没必要的",
+      "avg_logprob": -0.10792349824488488,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00174"
+    },
+    {
+      "start": 296.49,
+      "end": 298.61,
+      "text": "因为你加定位的目的是什么",
+      "avg_logprob": -0.10792349824488488,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00175"
+    },
+    {
+      "start": 298.61,
+      "end": 300.31,
+      "text": "无非是告诉别人你在哪",
+      "avg_logprob": -0.10792349824488488,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00176"
+    },
+    {
+      "start": 300.31,
+      "end": 302.95,
+      "text": "但是巴黎铁塔已经明确传递出了",
+      "avg_logprob": -0.10792349824488488,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00177"
+    },
+    {
+      "start": 302.95,
+      "end": 304.35,
+      "text": "你在哪个地方",
+      "avg_logprob": -0.10792349824488488,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00178"
+    },
+    {
+      "start": 304.35,
+      "end": 306.17,
+      "text": "那么这个时候你再加定位",
+      "avg_logprob": -0.10792349824488488,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00179"
+    },
+    {
+      "start": 306.17,
+      "end": 308.01,
+      "text": "会显得你这个人非常的刻意",
+      "avg_logprob": -0.10792349824488488,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00180"
+    },
+    {
+      "start": 308.01,
+      "end": 309.13,
+      "text": "所以说我是建议",
+      "avg_logprob": -0.10792349824488488,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00181"
+    },
+    {
+      "start": 309.13,
+      "end": 311.07,
+      "text": "不要每个地方都加定位",
+      "avg_logprob": -0.10792349824488488,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00182"
+    },
+    {
+      "start": 311.07,
+      "end": 311.77,
+      "text": "我有个朋友",
+      "avg_logprob": -0.10792349824488488,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00183"
+    },
+    {
+      "start": 311.77,
+      "end": 313.59,
+      "text": "他每个国家他只加一个定位",
+      "avg_logprob": -0.10792349824488488,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00184"
+    },
+    {
+      "start": 313.59,
+      "end": 314.89,
+      "text": "他现在全世界遥游",
+      "avg_logprob": -0.10792349824488488,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00185"
+    },
+    {
+      "start": 314.89,
+      "end": 316.25,
+      "text": "那么他的朋友圈给人的感觉",
+      "avg_logprob": -0.10792349824488488,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00186"
+    },
+    {
+      "start": 316.25,
+      "end": 317.81,
+      "text": "就是非常的真实",
+      "avg_logprob": -0.10792349824488488,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00187"
+    },
+    {
+      "start": 317.81,
+      "end": 318.89,
+      "text": "非常的有生活感",
+      "avg_logprob": -0.10792349824488488,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00188"
+    },
+    {
+      "start": 318.89,
+      "end": 320.29,
+      "text": "并且非常的高级",
+      "avg_logprob": -0.10792349824488488,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00189"
+    },
+    {
+      "start": 320.29,
+      "end": 321.09,
+      "text": "然后我再讲到",
+      "avg_logprob": -0.10792349824488488,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00190"
+    },
+    {
+      "start": 321.09,
+      "end": 322.53,
+      "text": "就是朋友圈的头像这个东西",
+      "avg_logprob": -0.09597222328186035,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00191"
+    },
+    {
+      "start": 322.53,
+      "end": 323.59,
+      "text": "了解我Mikey的",
+      "avg_logprob": -0.09597222328186035,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00192"
+    },
+    {
+      "start": 323.59,
+      "end": 324.65,
+      "text": "你们看过我很多案例的",
+      "avg_logprob": -0.09597222328186035,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00193"
+    },
+    {
+      "start": 324.65,
+      "end": 325.77,
+      "text": "你们会发现我的头像",
+      "avg_logprob": -0.09597222328186035,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00194"
+    },
+    {
+      "start": 325.77,
+      "end": 327.25,
+      "text": "其实是不用本人头像的",
+      "avg_logprob": -0.09597222328186035,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00195"
+    },
+    {
+      "start": 327.25,
+      "end": 328.77,
+      "text": "我的头像就随便找了一个",
+      "avg_logprob": -0.09597222328186035,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00196"
+    },
+    {
+      "start": 328.77,
+      "end": 330.69,
+      "text": "人畜无害的动漫的一些头像",
+      "avg_logprob": -0.09597222328186035,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00197"
+    },
+    {
+      "start": 330.69,
+      "end": 332.05,
+      "text": "那我为什么这么做呢",
+      "avg_logprob": -0.09597222328186035,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00198"
+    },
+    {
+      "start": 332.05,
+      "end": 333.91,
+      "text": "如果你的头像是你自己的话",
+      "avg_logprob": -0.09597222328186035,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00199"
+    },
+    {
+      "start": 333.91,
+      "end": 335.11,
+      "text": "然后你拍的又不够帅",
+      "avg_logprob": -0.09597222328186035,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00200"
+    },
+    {
+      "start": 335.11,
+      "end": 336.19,
+      "text": "那么这个时候会显得",
+      "avg_logprob": -0.09597222328186035,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00201"
+    },
+    {
+      "start": 336.19,
+      "end": 337.19,
+      "text": "你这个人非常的自恋",
+      "avg_logprob": -0.09597222328186035,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00202"
+    },
+    {
+      "start": 337.19,
+      "end": 338.21,
+      "text": "那么与其这样",
+      "avg_logprob": -0.09597222328186035,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00203"
+    },
+    {
+      "start": 338.21,
+      "end": 338.99,
+      "text": "你不如你的头像",
+      "avg_logprob": -0.09597222328186035,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00204"
+    },
+    {
+      "start": 338.99,
+      "end": 340.67,
+      "text": "就随便找一个动漫的头像",
+      "avg_logprob": -0.09597222328186035,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00205"
+    },
+    {
+      "start": 340.67,
+      "end": 341.51,
+      "text": "比如说我之前",
+      "avg_logprob": -0.09597222328186035,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00206"
+    },
+    {
+      "start": 341.51,
+      "end": 343.53,
+      "text": "我会用与之波佐渡的头像",
+      "avg_logprob": -0.09597222328186035,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00207"
+    },
+    {
+      "start": 343.53,
+      "end": 345.45,
+      "text": "有的时候又会去用一些",
+      "avg_logprob": -0.09597222328186035,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00208"
+    },
+    {
+      "start": 345.45,
+      "end": 347.51,
+      "text": "就是从容力显记小玉的头像",
+      "avg_logprob": -0.09597222328186035,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00209"
+    },
+    {
+      "start": 347.51,
+      "end": 349.47,
+      "text": "有的时候我又会随便找了一个动漫",
+      "avg_logprob": -0.09597222328186035,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00210"
+    },
+    {
+      "start": 349.47,
+      "end": 350.97,
+      "text": "然后把头像装上去",
+      "avg_logprob": -0.09597222328186035,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00211"
+    },
+    {
+      "start": 351.09,
+      "end": 352.01,
+      "text": "那么头像这个东西",
+      "avg_logprob": -0.11128656546327662,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00212"
+    },
+    {
+      "start": 352.01,
+      "end": 353.29,
+      "text": "其实对于你聊美来讲",
+      "avg_logprob": -0.11128656546327662,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00213"
+    },
+    {
+      "start": 353.29,
+      "end": 354.25,
+      "text": "没那么的重要",
+      "avg_logprob": -0.11128656546327662,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00214"
+    },
+    {
+      "start": 354.25,
+      "end": 356.79,
+      "text": "但是如果你的头像处理不好的话",
+      "avg_logprob": -0.11128656546327662,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00215"
+    },
+    {
+      "start": 356.79,
+      "end": 357.65,
+      "text": "它会让这个女神",
+      "avg_logprob": -0.11128656546327662,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00216"
+    },
+    {
+      "start": 357.65,
+      "end": 358.77,
+      "text": "不太想跟你聊天",
+      "avg_logprob": -0.11128656546327662,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00217"
+    },
+    {
+      "start": 358.77,
+      "end": 359.77,
+      "text": "会导致这个女神",
+      "avg_logprob": -0.11128656546327662,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00218"
+    },
+    {
+      "start": 359.77,
+      "end": 361.37,
+      "text": "没有那么的想跟你聊天",
+      "avg_logprob": -0.11128656546327662,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00219"
+    },
+    {
+      "start": 361.37,
+      "end": 362.71,
+      "text": "所以说头像这个东西",
+      "avg_logprob": -0.11128656546327662,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00220"
+    },
+    {
+      "start": 362.71,
+      "end": 363.79,
+      "text": "我的建议",
+      "avg_logprob": -0.11128656546327662,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00221"
+    },
+    {
+      "start": 363.79,
+      "end": 365.59,
+      "text": "就是如果你本人不过帅",
+      "avg_logprob": -0.11128656546327662,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00222"
+    },
+    {
+      "start": 365.59,
+      "end": 366.83,
+      "text": "你就千万不要放本人",
+      "avg_logprob": -0.11128656546327662,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00223"
+    },
+    {
+      "start": 366.83,
+      "end": 367.61,
+      "text": "随便找一个",
+      "avg_logprob": -0.11128656546327662,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00224"
+    },
+    {
+      "start": 367.61,
+      "end": 369.17,
+      "text": "就是头像放上去就行了",
+      "avg_logprob": -0.11128656546327662,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00225"
+    },
+    {
+      "start": 369.17,
+      "end": 370.13,
+      "text": "有文感一点",
+      "avg_logprob": -0.11128656546327662,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00226"
+    },
+    {
+      "start": 370.13,
+      "end": 371.99,
+      "text": "然后朋友圈还有一个雷区",
+      "avg_logprob": -0.11128656546327662,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00227"
+    },
+    {
+      "start": 371.99,
+      "end": 372.99,
+      "text": "这个雷区就是",
+      "avg_logprob": -0.11128656546327662,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00228"
+    },
+    {
+      "start": 372.99,
+      "end": 375.41,
+      "text": "不要一直没事做",
+      "avg_logprob": -0.11128656546327662,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00229"
+    },
+    {
+      "start": 375.41,
+      "end": 376.91,
+      "text": "就在朋友圈里面",
+      "avg_logprob": -0.11128656546327662,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00230"
+    },
+    {
+      "start": 376.91,
+      "end": 378.01,
+      "text": "发一些大道理",
+      "avg_logprob": -0.11128656546327662,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00231"
+    },
+    {
+      "start": 378.01,
+      "end": 379.33,
+      "text": "发一些人生感悟",
+      "avg_logprob": -0.11128656546327662,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00232"
+    },
+    {
+      "start": 379.33,
+      "end": 380.49,
+      "text": "那么我其实很喜欢",
+      "avg_logprob": -0.11128656546327662,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00233"
+    },
+    {
+      "start": 380.49,
+      "end": 381.15,
+      "text": "发人生感悟",
+      "avg_logprob": -0.08925305110652272,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00234"
+    },
+    {
+      "start": 381.15,
+      "end": 382.29,
+      "text": "但是我的人生感悟",
+      "avg_logprob": -0.08925305110652272,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00235"
+    },
+    {
+      "start": 382.29,
+      "end": 383.95,
+      "text": "永远只发在我的私人号",
+      "avg_logprob": -0.08925305110652272,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00236"
+    },
+    {
+      "start": 383.95,
+      "end": 385.13,
+      "text": "我的撩妹号",
+      "avg_logprob": -0.08925305110652272,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00237"
+    },
+    {
+      "start": 385.13,
+      "end": 386.45,
+      "text": "我是什么都不会发的",
+      "avg_logprob": -0.08925305110652272,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00238"
+    },
+    {
+      "start": 386.45,
+      "end": 387.47,
+      "text": "我是不会发一些",
+      "avg_logprob": -0.08925305110652272,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00239"
+    },
+    {
+      "start": 387.47,
+      "end": 388.05,
+      "text": "就是那种",
+      "avg_logprob": -0.08925305110652272,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00240"
+    },
+    {
+      "start": 388.05,
+      "end": 388.93,
+      "text": "我身为一个男人",
+      "avg_logprob": -0.08925305110652272,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00241"
+    },
+    {
+      "start": 388.93,
+      "end": 390.13,
+      "text": "我对世界的一些理解",
+      "avg_logprob": -0.08925305110652272,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00242"
+    },
+    {
+      "start": 390.13,
+      "end": 391.45,
+      "text": "然后发上去",
+      "avg_logprob": -0.08925305110652272,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00243"
+    },
+    {
+      "start": 391.45,
+      "end": 392.31,
+      "text": "因为我知道",
+      "avg_logprob": -0.08925305110652272,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00244"
+    },
+    {
+      "start": 392.31,
+      "end": 393.79,
+      "text": "我发到朋友圈里",
+      "avg_logprob": -0.08925305110652272,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00245"
+    },
+    {
+      "start": 393.79,
+      "end": 395.11,
+      "text": "女生是不会理解我的",
+      "avg_logprob": -0.08925305110652272,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00246"
+    },
+    {
+      "start": 395.11,
+      "end": 395.87,
+      "text": "她甚至会觉得",
+      "avg_logprob": -0.08925305110652272,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00247"
+    },
+    {
+      "start": 395.87,
+      "end": 396.83,
+      "text": "我爹位很重",
+      "avg_logprob": -0.08925305110652272,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00248"
+    },
+    {
+      "start": 396.83,
+      "end": 397.43,
+      "text": "没办法",
+      "avg_logprob": -0.08925305110652272,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00249"
+    },
+    {
+      "start": 397.43,
+      "end": 398.79,
+      "text": "女人就是很肤浅的东西",
+      "avg_logprob": -0.08925305110652272,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00250"
+    },
+    {
+      "start": 398.79,
+      "end": 400.53,
+      "text": "那么我不得不",
+      "avg_logprob": -0.08925305110652272,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00251"
+    },
+    {
+      "start": 400.53,
+      "end": 402.27,
+      "text": "只能在我的私人号里面",
+      "avg_logprob": -0.08925305110652272,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00252"
+    },
+    {
+      "start": 402.27,
+      "end": 402.91,
+      "text": "去发一些",
+      "avg_logprob": -0.08925305110652272,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00253"
+    },
+    {
+      "start": 402.91,
+      "end": 404.27,
+      "text": "我自己的人生感悟",
+      "avg_logprob": -0.08925305110652272,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00254"
+    },
+    {
+      "start": 404.27,
+      "end": 405.03,
+      "text": "因为我知道",
+      "avg_logprob": -0.08925305110652272,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00255"
+    },
+    {
+      "start": 405.03,
+      "end": 406.61,
+      "text": "我私人号的朋友圈里",
+      "avg_logprob": -0.08925305110652272,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00256"
+    },
+    {
+      "start": 406.61,
+      "end": 407.35,
+      "text": "都是我的学员",
+      "avg_logprob": -0.08925305110652272,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00257"
+    },
+    {
+      "start": 407.35,
+      "end": 408.63,
+      "text": "他们可以理解我",
+      "avg_logprob": -0.08925305110652272,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00258"
+    },
+    {
+      "start": 408.63,
+      "end": 409.85,
+      "text": "他们都是我的男性粉丝",
+      "avg_logprob": -0.08925305110652272,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00259"
+    },
+    {
+      "start": 409.85,
+      "end": 411.59,
+      "text": "他们能理解我说的一些东西",
+      "avg_logprob": -0.07263621741380447,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00260"
+    },
+    {
+      "start": 411.59,
+      "end": 412.81,
+      "text": "但是女人是不理解的",
+      "avg_logprob": -0.07263621741380447,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00261"
+    },
+    {
+      "start": 412.81,
+      "end": 414.93,
+      "text": "所以说我也不会给女人去发这些东西",
+      "avg_logprob": -0.07263621741380447,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00262"
+    },
+    {
+      "start": 414.93,
+      "end": 418.03,
+      "text": "我也不会在朋友圈里发表任何的观点",
+      "avg_logprob": -0.07263621741380447,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00263"
+    },
+    {
+      "start": 418.03,
+      "end": 420.01,
+      "text": "因为人没有必要对牛弹琴",
+      "avg_logprob": -0.07263621741380447,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00264"
+    },
+    {
+      "start": 420.01,
+      "end": 422.39,
+      "text": "我对女人的感觉就是道不同不相为谋",
+      "avg_logprob": -0.07263621741380447,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00265"
+    },
+    {
+      "start": 422.39,
+      "end": 423.91,
+      "text": "我包括我跟他们约会的时候",
+      "avg_logprob": -0.07263621741380447,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00266"
+    },
+    {
+      "start": 423.91,
+      "end": 426.47,
+      "text": "我很多时候他们讲一些人生大道理",
+      "avg_logprob": -0.07263621741380447,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00267"
+    },
+    {
+      "start": 426.47,
+      "end": 430.23,
+      "text": "我都说对我是不会发表任何意见",
+      "avg_logprob": -0.07263621741380447,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00268"
+    },
+    {
+      "start": 430.23,
+      "end": 431.49,
+      "text": "我即便发表了",
+      "avg_logprob": -0.07263621741380447,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00269"
+    },
+    {
+      "start": 431.49,
+      "end": 433.01,
+      "text": "我也不需要他去认同我",
+      "avg_logprob": -0.07263621741380447,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00270"
+    },
+    {
+      "start": 433.01,
+      "end": 433.95,
+      "text": "我说了就说了",
+      "avg_logprob": -0.07263621741380447,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00271"
+    },
+    {
+      "start": 433.95,
+      "end": 435.17,
+      "text": "你爱认同不认同",
+      "avg_logprob": -0.07263621741380447,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00272"
+    },
+    {
+      "start": 435.17,
+      "end": 437.35,
+      "text": "那么关于朋友圈照片该怎么发怎么拍",
+      "avg_logprob": -0.07263621741380447,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00273"
+    },
+    {
+      "start": 437.35,
+      "end": 438.67,
+      "text": "我今天就讲到这里",
+      "avg_logprob": -0.07263621741380447,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00274"
+    },
+    {
+      "start": 438.67,
+      "end": 439.75,
+      "text": "那么屏幕前的兄弟们",
+      "avg_logprob": -0.07263621741380447,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00275"
+    },
+    {
+      "start": 439.75,
+      "end": 442.25,
+      "text": "你们如果看完了我的整套课程",
+      "avg_logprob": -0.09979838357176832,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00276"
+    },
+    {
+      "start": 442.25,
+      "end": 443.63,
+      "text": "你还是没有学会",
+      "avg_logprob": -0.09979838357176832,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00277"
+    },
+    {
+      "start": 443.63,
+      "end": 446.03,
+      "text": "或者是有一些地方有点一知半解",
+      "avg_logprob": -0.09979838357176832,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00278"
+    },
+    {
+      "start": 446.03,
+      "end": 447.29,
+      "text": "欢迎你添加我的微信",
+      "avg_logprob": -0.09979838357176832,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00279"
+    },
+    {
+      "start": 447.29,
+      "end": 449.23,
+      "text": "购买我的私教服务",
+      "avg_logprob": -0.09979838357176832,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00280"
+    },
+    {
+      "start": 449.23,
+      "end": 451.87,
+      "text": "我将会手把手教你如何成为",
+      "avg_logprob": -0.09979838357176832,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00281"
+    },
+    {
+      "start": 451.87,
+      "end": 453.95,
+      "text": "这个世纪上最有魅力的男人",
+      "avg_logprob": -0.09979838357176832,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00282"
+    },
+    {
+      "start": 453.95,
+      "end": 455.51,
+      "text": "好 我们下一期见",
+      "avg_logprob": -0.09979838357176832,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00283"
+    },
+    {
+      "start": 472.05,
+      "end": 475.44,
+      "text": "那是為何我想結婚",
+      "avg_logprob": -0.8623046614229679,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00284"
+    },
+    {
+      "start": 475.44,
+      "end": 479.4,
+      "text": "我愛你",
+      "avg_logprob": -0.8623046614229679,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00285"
+    }
+  ]
+}

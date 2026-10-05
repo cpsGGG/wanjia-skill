@@ -1,0 +1,103 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-014",
+  "youtube_id": "CMpHMvwuZRI",
+  "title": "优秀的猎手是靠留下线索，让猎物自己探寻",
+  "coverage": {
+    "transcript_segments_read": 47,
+    "transcript_time_range_seconds": [
+      0.0,
+      93.36
+    ],
+    "semantic_media_range_seconds": [
+      0.0,
+      86.81941
+    ],
+    "sampled_frames_reviewed": 29,
+    "continuous_original_audio_visual_review": false,
+    "excluded_asr_tail": "S00046-S00047 extend beyond the audited media endpoint and are excluded."
+  },
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 29.86,
+      "summary": "He makes derogatory gender generalizations and compares visible sexual interest across women and men."
+    },
+    {
+      "start": 29.86,
+      "end": 48.38,
+      "summary": "A viewer asks whether a relaxed demeanor reduces defensiveness during approaches and describes becoming ingratiating around an attractive woman."
+    },
+    {
+      "start": 48.38,
+      "end": 69.68,
+      "summary": "Mikey says ingratiating behavior can trigger defensiveness, contrasting it with a calm approach."
+    },
+    {
+      "start": 69.68,
+      "end": 86.81941,
+      "summary": "Asked how inner confidence becomes attraction, he uses a hunter/prey metaphor about leaving clues for the other person to explore."
+    }
+  ],
+  "claims": [
+    {
+      "claim_id": "s014-c01",
+      "speaker": "Mikey",
+      "statement": "He generalizes that women display attraction or rejection more openly than men.",
+      "conditions": "Derogatory gender stereotype without evidence; not suitable for guidance.",
+      "evidence": [
+        "S00002-S00014@1.74-29.86"
+      ],
+      "use_level": "do_not_generalize"
+    },
+    {
+      "claim_id": "s014-c02",
+      "speaker": "Mikey",
+      "statement": "He says an ingratiating approach may make another person defensive, whereas a calm, straightforward approach may be easier to hear.",
+      "conditions": "A person’s response cannot be reliably inferred; respect refusal and distance.",
+      "evidence": [
+        "S00015-S00036@29.86-69.68"
+      ],
+      "use_level": "hold"
+    },
+    {
+      "claim_id": "s014-c03",
+      "speaker": "Mikey",
+      "statement": "He uses a hunter/prey metaphor to say attraction can be communicated indirectly through clues that let the other person explore.",
+      "conditions": "Do not literalize predatory language; mutual curiosity, transparency and consent remain required.",
+      "evidence": [
+        "S00037-S00045@69.68-86.52"
+      ],
+      "use_level": "do_not_generalize"
+    }
+  ],
+  "speaker_attribution": [
+    {
+      "speaker": "viewer",
+      "basis": "Questions are shown/read in the livestream."
+    },
+    {
+      "speaker": "Mikey",
+      "basis": "Single visible black-shirt livestream host answers; transcript aligns to formal live-028."
+    },
+    {
+      "speaker": "public chat",
+      "basis": "Visible as background overlay and not used as evidence."
+    }
+  ],
+  "visual_findings": [
+    "All 29 sampled frames show one continuous Mikey livestream shot with public chat and editorial subtitles.",
+    "No approach interaction, woman or outcome footage is shown."
+  ],
+  "permissions": {
+    "formal_integration": false,
+    "first_person_allowed": false,
+    "action_advice_allowed": false,
+    "use_level": "reuse_zero_weight",
+    "reason": "Same passage as formal mikey-youtube-live-028; contains gender stereotypes and predatory metaphor."
+  },
+  "limitations": [
+    "The Short is edited out of a longer livestream.",
+    "The ASR extends 6.54 seconds beyond the media endpoint."
+  ]
+}

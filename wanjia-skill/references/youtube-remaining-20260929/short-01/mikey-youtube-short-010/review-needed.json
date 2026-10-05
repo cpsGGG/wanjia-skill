@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-010",
+  "youtube_id": "5zGlhGJloA0",
+  "review_completed": true,
+  "items": [
+    {"review_id": "s010-r01", "severity": "major", "category": "source_reuse", "issue": "The striped-shirt shot likely comes from an unlocated longer session, but no processed parent-stream match was found.", "affected_evidence": ["whole source"], "disposition": "Keep as new only relative to the current corpus and re-run dedup when the parent stream appears."},
+    {"review_id": "s010-r02", "severity": "blocking", "category": "gender_generalization_and_mind_reading", "issue": "The clip says women ultimately prefer one type of man and discounts their negative evaluations.", "affected_evidence": ["S00008-S00019"], "disposition": "Do not state women's preferences, motives or attraction as fact; keep the claim do_not_generalize."},
+    {"review_id": "s010-r03", "severity": "blocking", "category": "relationship_and_care_boundary", "issue": "The statement that parents, spouse and dating partners are not important can be misused to justify neglect, selfishness or disregard of mutual obligations.", "affected_evidence": ["S00043-S00054"], "disposition": "If referenced, narrow it to not outsourcing self-worth; never use it to erase care, consent, responsibility or interdependence."},
+    {"review_id": "s010-r04", "severity": "major", "category": "efficacy_rhetoric", "issue": "The ending claims any trivial behavior becomes attractive once a person has selfhood.", "affected_evidence": ["S00060-S00064"], "disposition": "Treat as hyperbole, not causal or outcome evidence."}
+  ]
+}

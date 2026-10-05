@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-021",
+  "youtube_id": "UQzx50-eHZE",
+  "review_completed": true,
+  "items": [
+    {"review_id": "v021-r01", "severity": "major", "issue": "The upload presents a philosophical definition of innate confidence as if it were a universal psychological mechanism.", "affected_evidence": ["S00171-S00206"], "disposition": "Keep as Mikey's model and do not convert it into a clinical or universal claim."},
+    {"review_id": "v021-r02", "severity": "major", "issue": "Mikey uses 'performative personality' as though it were a clinical diagnosis for outcome-driven confidence.", "affected_evidence": ["S00103-S00171"], "disposition": "Do not preserve the diagnostic label; describe the observable dependence on external outcomes only."},
+    {"review_id": "v021-r03", "severity": "major", "issue": "The claim that confidence requires no training conflicts with formal source mikey-youtube-live-013-K010 and related action-feedback material.", "affected_evidence": ["S00178-S00206", "S00300-S00317"], "disposition": "Keep both formulations unresolved until cross-source review defines whether they refer to worth, behavior or skill."},
+    {"review_id": "v021-r04", "severity": "major", "issue": "Childhood conditional approval is offered as a broad causal explanation without individual assessment or cited evidence.", "affected_evidence": ["S00283-S00317"], "disposition": "Do not diagnose a user's childhood or family from this source."},
+    {"review_id": "v021-r05", "severity": "minor", "issue": "Spiritual and human-rights analogies may be mistaken for evidence supporting the psychological model.", "affected_evidence": ["S00171-S00206", "S00317-S00338"], "disposition": "Label them as analogies and retain only the non-contingent self-worth framing."},
+    {"review_id": "v021-r06", "severity": "minor", "issue": "ASR contains unstable words in the opening and closing phrases.", "affected_evidence": ["throughout"], "disposition": "Use segment meaning rather than exact quotation unless original audio is checked."}
+  ]
+}

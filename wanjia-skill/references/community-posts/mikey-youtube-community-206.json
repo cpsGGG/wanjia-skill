@@ -1,0 +1,71 @@
+{
+  "schema_version": "mikey-community-post-fulltext-1.0",
+  "source_id": "mikey-youtube-community-206",
+  "post_id": "Ugkxd_qGdwAnzA7aeauTdIeXH8J4K7hrED7J",
+  "url": "https://www.youtube.com/post/Ugkxd_qGdwAnzA7aeauTdIeXH8J4K7hrED7J",
+  "published_at": "2026-09-29T02:13:43.539264-07:00",
+  "date_basis": "refetched_public_post_datePublished",
+  "date_display_rule": "calendar_date_in_original_published_at_offset",
+  "observed_at": "2026-10-03T18:42:15.654574+00:00",
+  "body": "聊天很多时候是情绪交流\n切记不要较真！\n解读潜沟通\n甚至曲解\n总之玩起来 没必要争对错…",
+  "body_kind": "exact_public_post_body_as_archived",
+  "body_utf8_sha256": "f832b087388d4d16f109c91e6ce3db65c8ead09d8f04b78f880a09bbff5ae54b",
+  "source_analysis": "references/community-refresh-20261004/mikey-youtube-community-206.safe.json",
+  "source_analysis_sha256": "5dc3e745d1c0d7010c220a7d9532a0abaa52a0174deab947e746d4889166b6f2",
+  "image_refs": [
+    {
+      "image_index": 1,
+      "research_archive_path": "research/youtube-channel-refresh-20261004/new-posts/images/Ugkxd_qGdwAnzA7aeauTdIeXH8J4K7hrED7J/01.jpg",
+      "sha256": "979d4ed74a24c7859be05b42c3347bfb53aaf0abeb3e22e22bff237667d7f981",
+      "bytes": 189134,
+      "width": 1080,
+      "height": 2412,
+      "dimensions_basis": "decoded_original_archived_image",
+      "formal_asset_policy": "reference_only_do_not_copy",
+      "safe_summary": "带课程标识的嵌套聊天截图，展示情绪解读与表情建议；角色、原对话前后文和执行结果不确定。",
+      "summary_origin": "author_visual_analysis_not_mikey_quote",
+      "independent_review_status": "pending",
+      "runtime_answer_allowed": false,
+      "evidence_weight": 0,
+      "editorial_use_limit": "原图只在研究归档保留；摘要来自逐帖分析，独立视觉审查未完成前不据此确认第三方身份、聊天上下文、截图真实性、授权或训练效果。"
+    }
+  ],
+  "segments": [
+    {
+      "sid": "C0206-BODY",
+      "kind": "channel_body",
+      "text": "聊天很多时候是情绪交流\n切记不要较真！\n解读潜沟通\n甚至曲解\n总之玩起来 没必要争对错…",
+      "verbatim_allowed": true,
+      "source_scope": "public_channel_body_as_archived"
+    },
+    {
+      "sid": "C0206-IMG01",
+      "kind": "image_reference_metadata",
+      "text": "带课程标识的嵌套聊天截图，展示情绪解读与表情建议；角色、原对话前后文和执行结果不确定。",
+      "verbatim_allowed": false,
+      "image_reference": {
+        "image_index": 1,
+        "research_archive_path": "research/youtube-channel-refresh-20261004/new-posts/images/Ugkxd_qGdwAnzA7aeauTdIeXH8J4K7hrED7J/01.jpg",
+        "sha256": "979d4ed74a24c7859be05b42c3347bfb53aaf0abeb3e22e22bff237667d7f981",
+        "bytes": 189134,
+        "width": 1080,
+        "height": 2412,
+        "dimensions_basis": "decoded_original_archived_image",
+        "formal_asset_policy": "reference_only_do_not_copy",
+        "safe_summary": "带课程标识的嵌套聊天截图，展示情绪解读与表情建议；角色、原对话前后文和执行结果不确定。",
+        "summary_origin": "author_visual_analysis_not_mikey_quote",
+        "independent_review_status": "pending",
+        "runtime_answer_allowed": false,
+        "evidence_weight": 0,
+        "editorial_use_limit": "原图只在研究归档保留；摘要来自逐帖分析，独立视觉审查未完成前不据此确认第三方身份、聊天上下文、截图真实性、授权或训练效果。"
+      }
+    }
+  ],
+  "privacy_policy": {
+    "original_images_copied": false,
+    "raw_ocr_copied": false,
+    "private_chat_transcript_copied": false,
+    "third_party_identity_confirmed": false,
+    "publication_authorization_confirmed": false
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "stable_id": "mikey-youtube-live-refresh-001",
+  "youtube_id": "o1Auc_79NR8",
+  "review_completed": true,
+  "all_contact_sheets_reviewed": true,
+  "review_scope": "Reviewed all 6 sparse contact-sheet pages covering 137 frames sampled every 45 seconds and all 25 dense contact-sheet pages sampled every 10 seconds. This remains a still-frame visual screening, not continuous audiovisual verification.",
+  "observations": [
+    {
+      "time_seconds": 0,
+      "type": "host_and_phone_profile",
+      "description": "Mikey appears alone at the desk while a vertically cropped phone/profile interface is displayed beside him; the phone content is part of the live explanation.",
+      "risk": "high"
+    },
+    {
+      "time_seconds": 900,
+      "type": "private_chat_screenshots",
+      "description": "A sequence of private-message screenshots begins, including contact/profile pages, green and grey message bubbles, images, and visible voice-message entries. The displayed sequence changes repeatedly.",
+      "risk": "high"
+    },
+    {
+      "time_seconds": 1710,
+      "type": "social_post_or_long_text",
+      "description": "The phone panel switches through a blurred photo feed/profile view and a long Chinese text post or comment page before returning to chat screens.",
+      "risk": "high"
+    },
+    {
+      "time_seconds": 2070,
+      "type": "chat_with_media",
+      "description": "Messaging screenshots show alternating participants, decorative stickers, screenshots within the conversation, and multiple voice-message controls. Message order and sender side carry the case meaning.",
+      "risk": "high"
+    },
+    {
+      "time_seconds": 2655,
+      "type": "video_call_or_selfie",
+      "description": "Ten-second frames show a blurred young man continuously in the full-height phone view from about 43:50 to 48:10, with a second darker face visible in a small inset at about 46:00 and 47:30. This is visually consistent with a video-call or call-recording display, but the identities, audio, and live-versus-prerecorded status remain unresolved.",
+      "risk": "high"
+    },
+    {
+      "time_seconds": 3150,
+      "type": "document_or_form_image",
+      "description": "A photographed paper/form with rows and handwritten or printed details is shown in the phone content, followed by further private chats and embedded images.",
+      "risk": "high"
+    },
+    {
+      "time_seconds": 3330,
+      "type": "voice_messages_and_chat",
+      "description": "Long messaging runs contain numerous voice-message bubbles, highlighted message screenshots, a PDF/file-like attachment, photos, and long text blocks; audio playback cannot be confirmed from still frames.",
+      "risk": "high"
+    },
+    {
+      "time_seconds": 4680,
+      "type": "chat_timestamps_and_call_records",
+      "description": "The displayed thread includes explicit time markers and call-duration style entries. These may support chronology but require closer frames and audio context before interpreting outcomes.",
+      "risk": "high"
+    },
+    {
+      "time_seconds": 5400,
+      "type": "third_party_media_in_chat",
+      "description": "Later chat screens include photos and video/voice previews from third parties while Mikey continues commenting on them.",
+      "risk": "high"
+    }
+  ],
+  "dense_review_windows": [
+    {
+      "start_seconds": 0,
+      "end_seconds": 900,
+      "reason": "Read profile/interface details and determine how the opening case is introduced; sparse frames do not preserve scrolling or exact screen changes."
+    },
+    {
+      "start_seconds": 900,
+      "end_seconds": 1710,
+      "reason": "Private chat sequence with message order, voice entries, sender identity, and possible result claims."
+    },
+    {
+      "start_seconds": 1710,
+      "end_seconds": 2070,
+      "reason": "Profile/feed and long-text post transitions carry content that cannot be reconstructed from 45-second samples."
+    },
+    {
+      "start_seconds": 2070,
+      "end_seconds": 3330,
+      "reason": "Multiple chats, stickers, images, apparent video-call/selfie material, and a document/form require denser sequential frames."
+    },
+    {
+      "start_seconds": 3330,
+      "end_seconds": 5145,
+      "reason": "Extended private-message walkthrough containing highlighted bubbles, voice messages, call/timestamp records, attachments, and long text."
+    },
+    {
+      "start_seconds": 5265,
+      "end_seconds": 6165,
+      "reason": "Final case/chat sequence includes third-party images and voice/video previews; end boundary should be checked against the source duration."
+    }
+  ],
+  "attribution_limits": [
+    "The studio speaker is visually consistent with Mikey, but text in the phone screenshots belongs to multiple chat participants and must not be attributed to him without sender-side verification.",
+    "Voice-message and video/call previews are visible, but sparse stills cannot establish whether they were played, who spoke, or whether Mikey quoted, paraphrased, endorsed, or criticized them.",
+    "A displayed screenshot may be an actual case, an example, a repost, or a critique; the visual screen alone does not prove its status.",
+    "The blurred young man and the second inset face shown around 43:50-48:10 are third parties; no identity or statement attribution can be inferred from the still frames."
+  ],
+  "privacy_or_third_party_risks": [
+    "Private chats expose participant avatars, message text, timestamps, images, call records, voice-message controls, and possible account identifiers.",
+    "A third-party face is visible in the phone video/selfie sequence even though it is blurred.",
+    "The photographed form/document may contain personal or transactional details and requires redaction review before reuse.",
+    "Third-party photos, video previews, and attachments must remain research evidence unless individually cleared and de-identified."
+  ],
+  "dense_review_completed": true,
+  "dense_contact_sheets_reviewed": 25,
+  "dense_observations": [
+    {
+      "time_seconds": 1010,
+      "type": "private_chat_sequence",
+      "description": "From about 16:50, ten-second frames preserve a long dark chat sequence with alternating green and grey sender sides, images, voice-message shapes, and call-duration-like entries. Sender-side changes are visible, but participant identities are not.",
+      "risk": "high"
+    },
+    {
+      "time_seconds": 2630,
+      "type": "video_call_like_display",
+      "description": "From about 43:50 to 48:10 the phone panel repeatedly shows a blurred young man's face; two sampled moments also show a second face in a small inset. The visual layout supports a call-like display but does not establish that the call was live or that its audio was heard in the stream.",
+      "risk": "high"
+    },
+    {
+      "time_seconds": 3310,
+      "type": "voice_message_control",
+      "description": "Around 55:10-57:50 a highlighted voice-message or audio-like item remains visible while Mikey comments. The sampled controls do not show a reliable progress change, so playback and speaker identity are unconfirmed.",
+      "risk": "high"
+    },
+    {
+      "time_seconds": 4450,
+      "type": "attachments_and_call_records",
+      "description": "The later chat sequence contains a file/PDF-like attachment, photos, call-duration or time indicators, vehicle images, and video/voice previews. The ten-second ordering improves chronology but does not prove the asserted relationship or outcome of the case.",
+      "risk": "high"
+    },
+    {
+      "time_seconds": 5350,
+      "type": "third_party_faces_and_media",
+      "description": "Late frames show additional third-party photographs, including women, and further video previews inside the private thread; these are source materials rather than visually attributable statements by Mikey.",
+      "risk": "high"
+    }
+  ],
+  "remaining_visual_limits": [
+    "The dense review samples one still every 10 seconds; it is not continuous audiovisual verification and may miss brief scrolls, taps, cuts, refusals, consent, or playback state changes between samples.",
+    "Small, blurred, or partially cropped chat text cannot be transcribed reliably from the contact sheets, so exact wording and message order still require source-level checking.",
+    "Visible voice and video controls do not establish that media was played or audible, and faces or sender sides do not establish participant identity.",
+    "No consent, refusal, behavioral result, or causal outcome is visually proven by the sampled frames alone."
+  ]
+}

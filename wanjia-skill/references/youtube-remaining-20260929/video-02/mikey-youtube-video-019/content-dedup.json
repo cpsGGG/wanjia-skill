@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-019",
+  "youtube_id": "X2hSCB-EtEQ",
+  "decision": "reuse",
+  "reuse_of": "mikey-gameshengjing-000",
+  "formal_weight_if_integrated": 0,
+  "compared_sources": [
+    {"scope": "formal_mikey_guide", "source_count": 202, "comparison": "youtube_id_url_normalized_fulltext_and_8_12_16_character_shingles"},
+    {"source_id": "mikey-gameshengjing-000", "title": "搭讪玩家Game圣经-前言", "comparison": "same promotional monologue and course montage with minor edits"}
+  ],
+  "evidence": [
+    {"type": "identity", "result": "no_exact_youtube_id_or_url_overlap", "basis": "current formal source-index; the formal course file has no public URL"},
+    {"type": "normalized_fulltext", "target_normalized_chars": 819, "target_sha256": "165ff4b8ca3e63a0ad8b3c23f78367cf864a3a3bbbc62e0386eb8a8813f52d32", "formal_transcripts_checked": 202, "exact_whole_transcript_matches": []},
+    {"type": "formal_content_reuse", "matched_source_id": "mikey-gameshengjing-000", "result": "edited_public_version_of_formal_course_preface", "rolling_substring_target_containment": {"8_chars": 0.840357599, "12_chars": 0.7918263091, "16_chars": 0.7458492976}, "detail": "The first 121 seconds and the later course-topic montage preserve the same ordered wording as the formal preface. The formal file includes a short extra course-material paragraph, while this public upload trims/re-times parts and extends the montage gap."},
+    {"type": "visual_scope", "result": "same_course_promotion_identity", "basis": "All five sampled frames show Mikey's studio branding, Game圣经 course logo/topic montage and the same course promotion. Frame 000005 shows contact/QR marketing."}
+  ],
+  "boundary": "Preserve as a public packaging/URL pointer only. It substantially reuses formal source mikey-gameshengjing-000 and must carry zero additional source, claim or outcome weight."
+}

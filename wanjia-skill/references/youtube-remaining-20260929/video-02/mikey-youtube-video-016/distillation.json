@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-016",
+  "youtube_id": "KdUrSM8j7iQ",
+  "title": "【私教案例】你为什么总PC？",
+  "coverage": {
+    "transcript_segments_read": 585,
+    "transcript_time_range_seconds": [0.0, 970.64],
+    "sparse_frames_reviewed": 22,
+    "dense_frames_reviewed": 0,
+    "dense_windows_required_seconds": [[75, 115], [225, 315], [400, 580], [785, 810], [890, 915]],
+    "continuous_original_audio_visual_review": false
+  },
+  "timeline": [
+    {"start": 0.0, "end": 186.0, "summary": "Mikey introduces an anonymized 23-year-old salesperson who allegedly used commercial sex after work setbacks, then frames the cycle as self-labeling, rationalization and avoidance of responsibility."},
+    {"start": 186.0, "end": 300.04, "summary": "He describes changing appearance first, then supervising fitness, theory study and online chat before permitting real-world practice."},
+    {"start": 300.04, "end": 406.30, "summary": "He recommends online matching and full dates for beginners because they provide more sustained interaction than repeated brief street approaches."},
+    {"start": 406.30, "end": 573.18, "summary": "After a reported relapse into commercial sex, Mikey suggests meditation, exercise and diet as substitutes, interprets the behavior as seeking power or validation, and reports a first approach and scheduled date."},
+    {"start": 573.18, "end": 672.70, "summary": "He recommends packaging one's identity and even upgrading a salesperson to ‘business supervisor’, while acknowledging that a fabricated persona can be exposed."},
+    {"start": 672.70, "end": 808.18, "summary": "He discusses private cinemas and gaming hotels as transition venues, says attraction matters more than immediate sex, and reports positive feedback and a second date."},
+    {"start": 808.18, "end": 970.64, "summary": "He advises booking one hotel room directly when attraction is strong, then claims the student obtained sex, improved sales and gained management recognition during the 45-day coaching period before promoting consultations."}
+  ],
+  "claims": [
+    {"claim_id": "v016-c01", "speaker": "Mikey", "statement": "He frames the student's repeated commercial-sex use as a coping loop: work setbacks lead to escape, followed by shame, lower mood and further setbacks.", "conditions": "An anonymized single case narrated by the coach; no independent clinical assessment or student interview is supplied.", "evidence": ["S00003-S00024@2.54-42.66", "S00074-S00084@125.98-144.00"], "use_level": "hold", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v016-c02", "speaker": "Mikey", "statement": "He says changing self-labels and habitual behavior matters more than accumulating more dating techniques.", "conditions": "Broad coaching principle; the psychological terminology and causal claim are not sourced, and moral labeling of the student should not be reproduced as diagnosis.", "evidence": ["S00036-S00049@60.94-81.88", "S00113-S00137@188.38-235.82", "S00559-S00578@931.92-963.48"], "use_level": "context_only", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v016-c03", "speaker": "Mikey", "statement": "His staged coaching sequence is appearance and basic habits first, then fitness, theory and online chat, followed by assigned real-world practice once the student is considered ready.", "conditions": "Describes his service design and claimed case sequence, not a controlled intervention.", "evidence": ["S00138-S00170@235.82-300.04"], "use_level": "context_only", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v016-c04", "speaker": "Mikey", "statement": "For beginners he values sustained conversations and dates over large numbers of very short approaches because longer interactions create more feedback.", "conditions": "The comparison is qualitative; he gives inconsistent duration arithmetic and does not measure learning outcomes.", "evidence": ["S00171-S00238@298.06-405.36"], "use_level": "context_only", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v016-c05", "speaker": "Mikey", "statement": "He suggests meditation, exercise and a lighter diet as substitutes after a relapse and interprets commercial sex as a search for control or female validation.", "conditions": "The motive is speculative; the claim that diet lowers libido is a health claim without evidence, and legal/sexual-health conditions vary by jurisdiction.", "evidence": ["S00241-S00290@407.94-490.30"], "use_level": "hold", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v016-c06", "speaker": "Mikey", "statement": "He endorses presenting a more favorable occupational identity, including calling a salesperson a business supervisor, and distinguishes this from deception as ordinary packaging.", "conditions": "The concrete example misstates role seniority and can deceive a date; it cannot be converted into advice to fabricate credentials.", "evidence": ["S00335-S00395@573.18-669.74"], "use_level": "do_not_generalize", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v016-c07", "speaker": "Mikey", "statement": "He presents private cinemas and gaming hotels as plausible private-space transitions because the activity gives a nonsexual reason to enter the venue.", "conditions": "Entering a venue, accepting a movie/game invitation or staying in a room is not consent to sex or any other intimacy; privacy, surveillance, age, sobriety, local law and an easy exit remain unresolved.", "evidence": ["S00405-S00429@681.54-720.52"], "use_level": "do_not_generalize", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v016-c08", "speaker": "Mikey", "statement": "He advises booking one hotel room without asking when attraction is strong and says the woman will otherwise verbally choose two rooms even if she wants one.", "conditions": "Mind-reading and consent-bypassing framing; accommodation choice and sexual consent require explicit, ongoing agreement.", "evidence": ["S00485-S00518@808.18-865.52"], "use_level": "do_not_generalize", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v016-c09", "speaker": "Mikey describing a student", "statement": "He claims the student obtained the desired sexual result, improved from 8–10 monthly sales, became a company sales representative and benefited for life after 45 days of coaching.", "conditions": "Selected testimonial and marketing attribution; screenshots and narration do not establish baseline, causality, exact result, job title or durability.", "evidence": ["S00533-S00558@885.34-931.92"], "use_level": "hold", "knowledge_status": "hold_pending_independent_review"}
+  ],
+  "examples": [
+    {"example_id": "v016-e01", "summary": "The anonymized student case is the sole organizing example; all history, relapse, dating result and career result come through Mikey's curation.", "evidence": ["S00009-S00024", "S00241-S00255", "S00533-S00558", "sampled frames 000007, 000010, 000012, 000013, 000018"]},
+    {"example_id": "v016-e02", "summary": "Private-cinema, gaming-hotel and room-booking examples are proposed transition tactics, not evidence of the woman's consent or of a completed event.", "evidence": ["S00405-S00429", "S00485-S00518", "sampled frame 000016"]}
+  ],
+  "speaker_attribution": [
+    {"speaker": "Mikey", "basis": "Visible single host and first-person narration; he is the only audible instructor represented by the transcript."},
+    {"speaker": "anonymized student ‘小李’", "basis": "Appears only through Mikey's paraphrase and selected private-message screenshots; the student is not independently interviewed."},
+    {"speaker": "women in the case", "basis": "Not independently heard or shown as consenting participants; any reactions or intentions are Mikey's or the student's report."},
+    {"speaker": "film/public clip subjects", "basis": "Short illustrative inserts in sampled frames are editorial material and do not supply direct evidence for the case."}
+  ],
+  "visual_findings": [
+    "All 22 sampled frames were reviewed. The video alternates between Mikey at a desk, illustrative film/public clips, venue imagery and multiple private-message screenshots.",
+    "Sampled frames 000007, 000010, 000012, 000013 and 000018 contain selected messages. Names and avatars are blurred, but the images still expose sensitive sexual behavior, coaching communications and personal context; they require privacy review and should not enter a formal package without minimization or redaction.",
+    "The screenshots show fragments chosen by the coach and do not independently verify the student's full history, dates, sexual outcome, sales numbers, promotion or causal effect of coaching.",
+    "Sparse 45-second frames miss message order and intervening screens. Dense continuous review is required for the listed windows if any quoted message, chronology or outcome is retained."
+  ],
+  "permissions": {
+    "formal_integration": false,
+    "first_person_allowed": false,
+    "action_advice_allowed": false,
+    "knowledge_status": "hold_pending_independent_review",
+    "reason": "Private client material, testimonial marketing, deceptive identity packaging and hotel/private-space advice with unresolved consent, privacy, legal and health boundaries."
+  },
+  "limitations": [
+    "Automatic transcript was read in full but was not checked word-for-word against original audio and contains material ASR errors.",
+    "Twenty-two sparse frames do not establish complete message order or continuous audio-visual context.",
+    "The client, women, employer, sales metrics, dates and claimed outcomes were not independently verified.",
+    "Commercial-sex legality and health risks depend on location and are not adequately addressed in the source."
+  ]
+}

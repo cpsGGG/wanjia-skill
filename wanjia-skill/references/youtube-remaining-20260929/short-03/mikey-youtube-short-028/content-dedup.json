@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-028",
+  "youtube_id": "MqnwsxmTFL8",
+  "decision": "reuse",
+  "formal_weight_if_integrated": 0,
+  "compared_sources": [
+    {
+      "scope": "formal_mikey_guide",
+      "source_count": 202,
+      "comparison": "id/url, normalized 8-character transcript shingles and semantic screen"
+    },
+    {
+      "scope": "remaining_video_batches_01_05_short_01_02_and_other_short_03_items",
+      "source_count": 74,
+      "comparison": "id/url, normalized transcript shingles and semantic screen"
+    },
+    {
+      "source_id": "mikey-youtube-live-025",
+      "comparison": "same parent livestream passage; 403 of 553 normalized 8-character shingles match, including the judge, failure, backbone and value-feeling sequence"
+    }
+  ],
+  "evidence": [
+    {
+      "type": "identity",
+      "result": "no_exact_id_or_url_match"
+    },
+    {
+      "type": "transcript",
+      "result": "same_passage_match",
+      "basis": "The Short follows formal mikey-youtube-live-025 at about 2179-2302 seconds with the same sequence and only normal ASR/editorial differences. No other screened source approached this overlap."
+    },
+    {
+      "type": "visual",
+      "result": "single_host_livestream_excerpt",
+      "basis": "All 40 sampled frames show one black-shirt host in one livestream layout with public-chat overlay and subtitles; no date, woman or outcome is shown."
+    }
+  ],
+  "boundary": "Reuse formal mikey-youtube-live-025. This Short is an edited excerpt and must add no independent weight."
+}

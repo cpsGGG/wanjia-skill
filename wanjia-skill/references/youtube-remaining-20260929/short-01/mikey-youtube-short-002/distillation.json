@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-002",
+  "youtube_id": "Z2sgjH3FmeU",
+  "title": "曝光情感行业骗子《真实社交》欺诈学员……",
+  "coverage": {"transcript_segments_read": 31, "transcript_time_range_seconds": [0.0, 47.72], "semantic_media_range_seconds": [0.0, 53.499667], "sampled_frames_reviewed": 18, "dense_frames_reviewed": 53, "continuous_original_audio_visual_review": false},
+  "timeline": [
+    {"start": 0.0, "end": 10.6, "summary": "A third-party man says newer team members lacked his years of preparation; channel-added yellow subtitles challenge whether his mentors are still apprentices."},
+    {"start": 10.6, "end": 20.34, "summary": "He says they were taught by him and that he needed to help create traffic for them; inserted profile screenshots compare claimed experience."},
+    {"start": 20.34, "end": 31.28, "summary": "Editorial captions condemn the explanation as supporting fabrication; the man says he allowed them to act and financially supported them."},
+    {"start": 31.28, "end": 42.3, "summary": "The monologue names Cim, ZK and Hank and argues that whatever material they release only proves Jackson is a good person; the editor responds mockingly."},
+    {"start": 42.3, "end": 53.499667, "summary": "The man says the purpose was to let his people start accounts and earn money quickly; the short closes with mocking student/clown and harvesting-grass imagery."}
+  ],
+  "claims": [
+    {"claim_id": "s002-c01", "speaker": "third-party man, identity alleged by the short but not independently verified", "statement": "He says he permitted team members to perform/act and financially supported them so they could create traffic, start accounts and make money quickly.", "conditions": "Selected and edited excerpt; '演' may describe staged promotional content, but the full source and contractual context are absent.", "evidence": ["S00008-S00012@10.60-20.34", "S00015-S00016@23.80-26.22", "S00029-S00031@44.14-47.72"], "use_level": "do_not_generalize", "knowledge_status": "reuse_zero_weight"},
+    {"claim_id": "s002-c02", "speaker": "channel editor / burned-in yellow subtitles", "statement": "The editor interprets the excerpt as proof that Jackson supported mentors fabricating cases and deceiving students.", "conditions": "Reputational accusation and editorial inference, not a verified fact or spoken admission by Mikey in the clip.", "evidence": ["visual/dense/every1s/000009.jpg-000053.jpg"], "use_level": "do_not_generalize", "knowledge_status": "reuse_zero_weight"}
+  ],
+  "visual_findings": [
+    "All sampled and one-second frames show one third-party speaker, two profile-description screenshots, channel-added white/yellow subtitles, a reaction insert and a mocking closing graphic.",
+    "The screenshots demonstrate what the editor displayed, not that the profiles are authentic, current or written by the people alleged.",
+    "White subtitles generally follow the man's speech; yellow subtitles are adversarial commentary and must not be merged with his words or automatically attributed to Mikey."
+  ],
+  "permissions": {"formal_integration": false, "first_person_allowed": false, "action_advice_allowed": false, "knowledge_status": "reuse_zero_weight", "reason": "Same restricted dispute material already represented; named-person allegations, edited context and speaker identity remain unverified."},
+  "limitations": ["No original unedited monologue or response from all named parties was obtained.", "Automatic ASR has name and wording errors.", "The short cannot establish fraud, victimhood, financial harm, intent or legal liability."]
+}

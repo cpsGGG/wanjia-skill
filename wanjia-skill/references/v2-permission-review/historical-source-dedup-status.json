@@ -1,0 +1,27 @@
+{
+  "role": "historical_source_dedup_prerequisite_status_not_audio_or_full_current_corpus_dedup",
+  "basis": "references/youtube-live-batch1/source-reuse-ledger.json",
+  "basis_sha256": "35914d6240b033e34df5159a515a3ef250167ec0545f76301034f2f5649a2d10",
+  "recorded_scope": "mikey-youtube-live-001..010 versus current formal source-index",
+  "compared_source_count_then": 163,
+  "source_ids": [
+    "mikey-youtube-live-001",
+    "mikey-youtube-live-002",
+    "mikey-youtube-live-003",
+    "mikey-youtube-live-004",
+    "mikey-youtube-live-005",
+    "mikey-youtube-live-006",
+    "mikey-youtube-live-007",
+    "mikey-youtube-live-008",
+    "mikey-youtube-live-009",
+    "mikey-youtube-live-010"
+  ],
+  "historical_step_result": {
+    "unique": 10,
+    "reuse": 0,
+    "suspected": 0
+  },
+  "current_interpretation": "旧本批查重完成前不发布是生成分析时的条件；随后保存的10 unique正式账本已完成该来源查重步骤。不能据旧提示说该步骤一直未做，也不能扩成与如今512来源全思想查重或音校已完成。",
+  "new_photo_method_duplicates": "本轮009K5/K12的照片动作只作既有photo-selection来源补充，0新增重复独立方法。",
+  "whole_review_or_audio_tasks_closed": 0
+}

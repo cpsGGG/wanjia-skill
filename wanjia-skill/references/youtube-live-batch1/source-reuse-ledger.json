@@ -1,0 +1,1078 @@
+{
+  "schema_version": "source-reuse-ledger-1.0",
+  "generated_date": "2026-09-16",
+  "scope": "mikey-youtube-live-001..010 versus current formal source-index",
+  "formal_source_count": 163,
+  "new_source_count": 10,
+  "result_counts": {
+    "unique": 10,
+    "reuse": 0,
+    "suspected": 0
+  },
+  "method": [
+    "精确比对YouTube video_id与URL。",
+    "从新旧transcript的source元数据比对可用源文件SHA-256，并记录时长最近候选。",
+    "对完整自动稿做NFKC、小写、仅保留字母数字的规范化；比对全文SHA-256，并以40字符窗/步长10检查局部与连续文字重合。",
+    "对达到100字符连续精确重合的候选记录事件/案例复述线索；只凭主题、标题或时长相似不判重复。",
+    "并入此前39条YouTube直播与夸克直播51期的全片故事板比对结论，作为独立视觉佐证。"
+  ],
+  "rows": [
+    {
+      "source_id": "mikey-youtube-live-001",
+      "video_id": "2o0eci1RIos",
+      "youtube_url": "https://www.youtube.com/watch?v=2o0eci1RIos",
+      "title": "直播5：内部群的电话会议 mikey在线解答兄弟们的把妹问题，认真回答不敷衍。 丨dating in china丨恋爱丨约会丨搭讪丨自我提升丨脱单",
+      "duration_seconds": 4565.855782,
+      "transcript_covered_until_seconds": 4551.36,
+      "source_sha256": "0909e0039fff3f68cdf5eeb435128efa115ed1c9f0644da05c5070eff1befd15",
+      "source_size_bytes": 423086564,
+      "normalized_transcript_sha256": "be32169572ce8e0201768c5ee0a0832cc702f08264a4050ac474ce560001e87d",
+      "normalized_char_count": 21517,
+      "id_matches": [],
+      "url_matches": [],
+      "source_sha_matches": [],
+      "exact_normalized_matches": [],
+      "closest_duration_candidates": [
+        {
+          "existing_source_id": "quark-live-019",
+          "existing_title": "直播22大战黄推博主约会",
+          "existing_duration_seconds": 4537.54,
+          "delta_seconds": 28.316,
+          "delta_ratio": 0.006202
+        },
+        {
+          "existing_source_id": "quark-live-036",
+          "existing_title": "直播51_ 两性情感，近期网聊案例分析 泡妞 搭讪 约会丨搭訕玩家TV",
+          "existing_duration_seconds": 4607.15,
+          "delta_seconds": 41.294,
+          "delta_ratio": 0.008963
+        },
+        {
+          "existing_source_id": "quark-live-030",
+          "existing_title": "直播38：如何掌控約會節奏，讓對方更想見你丨互動中掌握主動權丨愛情丨約會丨搭訕丨情感丨戀愛丨dati",
+          "existing_duration_seconds": 4621.7,
+          "delta_seconds": 55.844,
+          "delta_ratio": 0.012083
+        }
+      ],
+      "text_similarity_candidates": [],
+      "weak_phrase_candidates": [
+        {
+          "existing_source_id": "mikey-practice-039",
+          "existing_title": "39.深圳学员搭讪失败 我上阵全垒打.mp4",
+          "matched_10char_shingles": 10,
+          "smaller_set_containment": 0.002424,
+          "classification": "weak_phrase_or_theme_signal_only"
+        },
+        {
+          "existing_source_id": "mikey-gameshengjing-008",
+          "existing_title": "第八章 展示面的审美 如何拥有一个高质量审美",
+          "matched_10char_shingles": 3,
+          "smaller_set_containment": 0.001423,
+          "classification": "weak_phrase_or_theme_signal_only"
+        },
+        {
+          "existing_source_id": "mikey-sijiao-010",
+          "existing_title": "你们常犯的约会错误丨怎么传递个性样本丨自我提升丨搭讪丨约会丨自然流丨脱单丨dating in",
+          "matched_10char_shingles": 5,
+          "smaller_set_containment": 0.000678,
+          "classification": "weak_phrase_or_theme_signal_only"
+        },
+        {
+          "existing_source_id": "mikey-practice-026",
+          "existing_title": "一约拿下 夜店搭讪甜美萌妹视觉系，直接带回家收尾",
+          "matched_10char_shingles": 1,
+          "smaller_set_containment": 0.00064,
+          "classification": "weak_phrase_or_theme_signal_only"
+        },
+        {
+          "existing_source_id": "quark-live-025",
+          "existing_title": "直播31：识别窗口",
+          "matched_10char_shingles": 7,
+          "smaller_set_containment": 0.000514,
+          "classification": "weak_phrase_or_theme_signal_only"
+        }
+      ],
+      "event_case_candidates": [],
+      "prior_visual_duplicate_audit": {
+        "scope": "39条YouTube直播候选与夸克直播51期的全片故事板比对",
+        "judgment": "未发现重复；只有孤立相似画面",
+        "confidence": "较高",
+        "highest_visual_candidate_source_id": "quark-live-009",
+        "evidence": "全时长故事板对51期逐一比对；最高候选 quark-live-009 只有1个同一时间偏移强匹配、2个中等匹配（本地候选帧136个），且时长相差2587.570秒。孤立画面可由相同机位/桌面造成；真重复对照直播37有28个同偏移强匹配。"
+      },
+      "status": "unique",
+      "primary_source_id": null,
+      "formal_weight_recommendation": 1,
+      "rationale": "未发现相同 video_id/URL、源 SHA、规范化全文或足以证明整期复用的连续文本证据。",
+      "evidence": {
+        "formal_source_count_compared": 163,
+        "exact_identity_layers_checked": [
+          "youtube_video_id",
+          "url",
+          "source_sha256",
+          "normalized_full_transcript_sha256"
+        ],
+        "content_layer": "NFKC+lower+letters/numbers规范化；40字符窗、步长10的全文指纹；连续匹配窗用于事件/案例线索",
+        "top_text_candidate": null
+      },
+      "limits": [
+        "自动稿未逐句听校，不同ASR模型会降低逐字指纹重合率。",
+        "时长接近、标题相似或主题相同只能形成候选，不能单独证明重复。",
+        "局部连续文字可能是同一案例复述或固定开场，不能据此把整期判为复用。"
+      ]
+    },
+    {
+      "source_id": "mikey-youtube-live-002",
+      "video_id": "NhBTViHCwso",
+      "youtube_url": "https://www.youtube.com/watch?v=NhBTViHCwso",
+      "title": "直播9：内部群的电话会议 mikey在线解答兄弟们的把妹问题，认真回答不敷衍。 丨網聊丨dating in china丨恋爱丨约炮丨搭讪丨自然流丨脱单",
+      "duration_seconds": 8587.807347,
+      "transcript_covered_until_seconds": 8573.32,
+      "source_sha256": "aeb161a084115557726be1ae1cb17b52d7e3f9a0e82366a761ed7b133ac9a348",
+      "source_size_bytes": 809220336,
+      "normalized_transcript_sha256": "49d0e8b521ea52509771fe0217bd9616c850709bed0a1edbf04c3f06edd14d4d",
+      "normalized_char_count": 38479,
+      "id_matches": [],
+      "url_matches": [],
+      "source_sha_matches": [],
+      "exact_normalized_matches": [],
+      "closest_duration_candidates": [
+        {
+          "existing_source_id": "quark-live-040",
+          "existing_title": "直播63_ 被女神发现用过的避孕套丨 案例分享 丨搭訕玩家TV",
+          "existing_duration_seconds": 8175.35,
+          "delta_seconds": 412.457,
+          "delta_ratio": 0.048028
+        },
+        {
+          "existing_source_id": "quark-live-035",
+          "existing_title": "直播48_ 一口气大战八个女生 近期网聊案例分析",
+          "existing_duration_seconds": 9040.47,
+          "delta_seconds": 452.663,
+          "delta_ratio": 0.050071
+        },
+        {
+          "existing_source_id": "quark-live-010",
+          "existing_title": "直播2：搭讪女人如何网聊  微信聊天的目的是什么，你们聊天的痛点，微信上是如何传递潜沟通的。网聊心态",
+          "existing_duration_seconds": 8156.3,
+          "delta_seconds": 431.507,
+          "delta_ratio": 0.050247
+        }
+      ],
+      "text_similarity_candidates": [],
+      "weak_phrase_candidates": [
+        {
+          "existing_source_id": "mikey-gameshengjing-016",
+          "existing_title": "第十六章 搭讪前的准备工作（导师搭讪之前都会做的准备工作）",
+          "matched_10char_shingles": 4,
+          "smaller_set_containment": 0.00152,
+          "classification": "weak_phrase_or_theme_signal_only"
+        },
+        {
+          "existing_source_id": "mikey-approach-007",
+          "existing_title": "cosmo一刀未剪搭讪",
+          "matched_10char_shingles": 2,
+          "smaller_set_containment": 0.001003,
+          "classification": "weak_phrase_or_theme_signal_only"
+        },
+        {
+          "existing_source_id": "mikey-approach-011",
+          "existing_title": "搭讪中的松弛感",
+          "matched_10char_shingles": 2,
+          "smaller_set_containment": 0.000999,
+          "classification": "weak_phrase_or_theme_signal_only"
+        },
+        {
+          "existing_source_id": "quark-live-034",
+          "existing_title": "直播42：該以什麽樣的心態，和女人聊天丨愛情丨約會丨搭訕丨情感丨戀愛丨dating in china",
+          "matched_10char_shingles": 13,
+          "smaller_set_containment": 0.000941,
+          "classification": "weak_phrase_or_theme_signal_only"
+        },
+        {
+          "existing_source_id": "mikey-sijiao-014",
+          "existing_title": "A9企业家网聊收尾正妹丨线上聊天案例讲解丨聊天丨网聊方法丨恋爱丨dating in china",
+          "matched_10char_shingles": 3,
+          "smaller_set_containment": 0.000774,
+          "classification": "weak_phrase_or_theme_signal_only"
+        }
+      ],
+      "event_case_candidates": [],
+      "prior_visual_duplicate_audit": {
+        "scope": "39条YouTube直播候选与夸克直播51期的全片故事板比对",
+        "judgment": "未发现已蒸馏重复",
+        "confidence": "高",
+        "highest_visual_candidate_source_id": "—",
+        "evidence": "全时长故事板对51期逐一比对，所有候选的同一时间偏移强匹配均为0；已蒸馏实际直播期号中也没有本期。"
+      },
+      "status": "unique",
+      "primary_source_id": null,
+      "formal_weight_recommendation": 1,
+      "rationale": "未发现相同 video_id/URL、源 SHA、规范化全文或足以证明整期复用的连续文本证据。",
+      "evidence": {
+        "formal_source_count_compared": 163,
+        "exact_identity_layers_checked": [
+          "youtube_video_id",
+          "url",
+          "source_sha256",
+          "normalized_full_transcript_sha256"
+        ],
+        "content_layer": "NFKC+lower+letters/numbers规范化；40字符窗、步长10的全文指纹；连续匹配窗用于事件/案例线索",
+        "top_text_candidate": null
+      },
+      "limits": [
+        "自动稿未逐句听校，不同ASR模型会降低逐字指纹重合率。",
+        "时长接近、标题相似或主题相同只能形成候选，不能单独证明重复。",
+        "局部连续文字可能是同一案例复述或固定开场，不能据此把整期判为复用。"
+      ]
+    },
+    {
+      "source_id": "mikey-youtube-live-003",
+      "video_id": "FoNPmM1r0KM",
+      "youtube_url": "https://www.youtube.com/watch?v=FoNPmM1r0KM",
+      "title": "直播11： Mikey：内部直播群会议，认真答疑不敷衍，快进来唠嗑！",
+      "duration_seconds": 7020.065669,
+      "transcript_covered_until_seconds": 7015.53,
+      "source_sha256": "dca249a0ee3367edbd89406c040624a0e1dab8bc986f437845084f78a7db27d2",
+      "source_size_bytes": 1218593265,
+      "normalized_transcript_sha256": "d99809d6bd46191b2be3449db3b4c81a131ab5f2592612a09bb1db6fe6960beb",
+      "normalized_char_count": 31881,
+      "id_matches": [],
+      "url_matches": [],
+      "source_sha_matches": [],
+      "exact_normalized_matches": [],
+      "closest_duration_candidates": [
+        {
+          "existing_source_id": "quark-live-038",
+          "existing_title": "直播55_ 近期约炮案例分享 泡妞 搭讪 约会丨搭訕玩家TV",
+          "existing_duration_seconds": 6907.1,
+          "delta_seconds": 112.966,
+          "delta_ratio": 0.016092
+        },
+        {
+          "existing_source_id": "quark-live-017",
+          "existing_title": "直播20跨省外卖 约炮南京正妹人在家中坐妞从天上来约会搭讪",
+          "existing_duration_seconds": 6901.35,
+          "delta_seconds": 118.716,
+          "delta_ratio": 0.016911
+        },
+        {
+          "existing_source_id": "quark-live-009",
+          "existing_title": "直播6：为什么学习PUA后，反而变得不会把妹了｜GAME解毒｜传统情感行业的骗局 ｜真内核VS假内核",
+          "existing_duration_seconds": 7153.57,
+          "delta_seconds": 133.504,
+          "delta_ratio": 0.018663
+        }
+      ],
+      "text_similarity_candidates": [],
+      "weak_phrase_candidates": [
+        {
+          "existing_source_id": "quark-live-034",
+          "existing_title": "直播42：該以什麽樣的心態，和女人聊天丨愛情丨約會丨搭訕丨情感丨戀愛丨dating in china",
+          "matched_10char_shingles": 11,
+          "smaller_set_containment": 0.000796,
+          "classification": "weak_phrase_or_theme_signal_only"
+        },
+        {
+          "existing_source_id": "mikey-gameshengjing-004",
+          "existing_title": "第四章 自我（让女人对你饥渴的关键）",
+          "matched_10char_shingles": 1,
+          "smaller_set_containment": 0.000633,
+          "classification": "weak_phrase_or_theme_signal_only"
+        },
+        {
+          "existing_source_id": "quark-live-033",
+          "existing_title": "直播41：年後近況，實戰分享丨愛情丨約會丨搭訕丨情感丨戀愛丨dating in china",
+          "matched_10char_shingles": 7,
+          "smaller_set_containment": 0.000573,
+          "classification": "weak_phrase_or_theme_signal_only"
+        },
+        {
+          "existing_source_id": "quark-live-032",
+          "existing_title": "直播40：網聊火熱，卻約不出來丨愛情丨約會丨搭訕丨情感丨戀愛丨dating in china",
+          "matched_10char_shingles": 7,
+          "smaller_set_containment": 0.000568,
+          "classification": "weak_phrase_or_theme_signal_only"
+        },
+        {
+          "existing_source_id": "mikey-sijiao-014",
+          "existing_title": "A9企业家网聊收尾正妹丨线上聊天案例讲解丨聊天丨网聊方法丨恋爱丨dating in china",
+          "matched_10char_shingles": 2,
+          "smaller_set_containment": 0.000516,
+          "classification": "weak_phrase_or_theme_signal_only"
+        }
+      ],
+      "event_case_candidates": [],
+      "prior_visual_duplicate_audit": {
+        "scope": "39条YouTube直播候选与夸克直播51期的全片故事板比对",
+        "judgment": "未发现已蒸馏重复",
+        "confidence": "高",
+        "highest_visual_candidate_source_id": "—",
+        "evidence": "全时长故事板对51期逐一比对，所有候选的同一时间偏移强匹配均为0；已蒸馏实际直播期号中也没有本期。"
+      },
+      "status": "unique",
+      "primary_source_id": null,
+      "formal_weight_recommendation": 1,
+      "rationale": "未发现相同 video_id/URL、源 SHA、规范化全文或足以证明整期复用的连续文本证据。",
+      "evidence": {
+        "formal_source_count_compared": 163,
+        "exact_identity_layers_checked": [
+          "youtube_video_id",
+          "url",
+          "source_sha256",
+          "normalized_full_transcript_sha256"
+        ],
+        "content_layer": "NFKC+lower+letters/numbers规范化；40字符窗、步长10的全文指纹；连续匹配窗用于事件/案例线索",
+        "top_text_candidate": null
+      },
+      "limits": [
+        "自动稿未逐句听校，不同ASR模型会降低逐字指纹重合率。",
+        "时长接近、标题相似或主题相同只能形成候选，不能单独证明重复。",
+        "局部连续文字可能是同一案例复述或固定开场，不能据此把整期判为复用。"
+      ]
+    },
+    {
+      "source_id": "mikey-youtube-live-004",
+      "video_id": "NEWlQZot2i8",
+      "youtube_url": "https://www.youtube.com/watch?v=NEWlQZot2i8",
+      "title": "直播19：mikey与兄弟们见见面｜约会｜搭讪 ｜两性",
+      "duration_seconds": 5081.176236,
+      "transcript_covered_until_seconds": 5066.38,
+      "source_sha256": "147e0d6ce379b877bfea937e41498b7812221ff08b474de3af915e3eb9d01cb2",
+      "source_size_bytes": 908677095,
+      "normalized_transcript_sha256": "d625298438a91a20facd6a70c445c82f9b31d9ab37b2148db8bb6e871438558d",
+      "normalized_char_count": 18862,
+      "id_matches": [],
+      "url_matches": [],
+      "source_sha_matches": [],
+      "exact_normalized_matches": [],
+      "closest_duration_candidates": [
+        {
+          "existing_source_id": "mikey-practice-029",
+          "existing_title": "一约拿下 酒桌游戏玩法 全程一刀未剪",
+          "existing_duration_seconds": 5067.824,
+          "delta_seconds": 13.352,
+          "delta_ratio": 0.002628
+        },
+        {
+          "existing_source_id": "quark-live-005",
+          "existing_title": "无敌网聊公式 解放你的大脑",
+          "existing_duration_seconds": 5160.01,
+          "delta_seconds": 78.834,
+          "delta_ratio": 0.015278
+        },
+        {
+          "existing_source_id": "YEm81yAdw2E",
+          "existing_title": "2026-08-11 - 泡妞吸引核心 “控制力 ”今天继续开源 [YEm81yAdw2E]",
+          "existing_duration_seconds": 4960.061,
+          "delta_seconds": 121.115,
+          "delta_ratio": 0.023836
+        }
+      ],
+      "text_similarity_candidates": [],
+      "weak_phrase_candidates": [
+        {
+          "existing_source_id": "mikey-practice-019",
+          "existing_title": "一约拿下富家女破防求着想要",
+          "matched_10char_shingles": 5,
+          "smaller_set_containment": 0.002304,
+          "classification": "weak_phrase_or_theme_signal_only"
+        },
+        {
+          "existing_source_id": "mikey-practice-022",
+          "existing_title": "一约拿下172艺术留学生",
+          "matched_10char_shingles": 15,
+          "smaller_set_containment": 0.002001,
+          "classification": "weak_phrase_or_theme_signal_only"
+        },
+        {
+          "existing_source_id": "quark-live-033",
+          "existing_title": "直播41：年後近況，實戰分享丨愛情丨約會丨搭訕丨情感丨戀愛丨dating in china",
+          "matched_10char_shingles": 23,
+          "smaller_set_containment": 0.001884,
+          "classification": "weak_phrase_or_theme_signal_only"
+        },
+        {
+          "existing_source_id": "mikey-practice-035",
+          "existing_title": "一约拿下小绿茶全流程",
+          "matched_10char_shingles": 12,
+          "smaller_set_containment": 0.001633,
+          "classification": "weak_phrase_or_theme_signal_only"
+        },
+        {
+          "existing_source_id": "quark-live-038",
+          "existing_title": "直播55_ 近期约炮案例分享 泡妞 搭讪 约会丨搭訕玩家TV",
+          "matched_10char_shingles": 29,
+          "smaller_set_containment": 0.00155,
+          "classification": "weak_phrase_or_theme_signal_only"
+        }
+      ],
+      "event_case_candidates": [],
+      "prior_visual_duplicate_audit": {
+        "scope": "39条YouTube直播候选与夸克直播51期的全片故事板比对",
+        "judgment": "未发现重复；只有孤立相似画面",
+        "confidence": "较高",
+        "highest_visual_candidate_source_id": "quark-live-017",
+        "evidence": "全时长故事板对51期逐一比对；最高候选 quark-live-017 只有2个同一时间偏移强匹配、6个中等匹配（本地候选帧116个），且时长相差1820.350秒。孤立画面可由相同机位/桌面造成；真重复对照直播37有28个同偏移强匹配。"
+      },
+      "status": "unique",
+      "primary_source_id": null,
+      "formal_weight_recommendation": 1,
+      "rationale": "未发现相同 video_id/URL、源 SHA、规范化全文或足以证明整期复用的连续文本证据。",
+      "evidence": {
+        "formal_source_count_compared": 163,
+        "exact_identity_layers_checked": [
+          "youtube_video_id",
+          "url",
+          "source_sha256",
+          "normalized_full_transcript_sha256"
+        ],
+        "content_layer": "NFKC+lower+letters/numbers规范化；40字符窗、步长10的全文指纹；连续匹配窗用于事件/案例线索",
+        "top_text_candidate": null
+      },
+      "limits": [
+        "自动稿未逐句听校，不同ASR模型会降低逐字指纹重合率。",
+        "时长接近、标题相似或主题相同只能形成候选，不能单独证明重复。",
+        "局部连续文字可能是同一案例复述或固定开场，不能据此把整期判为复用。"
+      ]
+    },
+    {
+      "source_id": "mikey-youtube-live-005",
+      "video_id": "HBnKtTjjjWU",
+      "youtube_url": "https://www.youtube.com/watch?v=HBnKtTjjjWU",
+      "title": "直播29：泡妞问题答疑 看看有没有你需要的知识",
+      "duration_seconds": 2802.091247,
+      "transcript_covered_until_seconds": 2793.84,
+      "source_sha256": "1b0b9efc6454504431ee09dc0bc37dfa430aeaab953b262c44a55b7450f9fcec",
+      "source_size_bytes": 521622475,
+      "normalized_transcript_sha256": "9610b657a9a7f5bd0b7e5182c0e52bd145237632839766f12bd3b1289059e9b5",
+      "normalized_char_count": 8688,
+      "id_matches": [],
+      "url_matches": [],
+      "source_sha_matches": [],
+      "exact_normalized_matches": [],
+      "closest_duration_candidates": [
+        {
+          "existing_source_id": "mikey-practice-034",
+          "existing_title": "一约拿下排球运动员",
+          "existing_duration_seconds": 2856.495,
+          "delta_seconds": 54.404,
+          "delta_ratio": 0.019046
+        },
+        {
+          "existing_source_id": "mikey-practice-033",
+          "existing_title": "一约拿下抖音小网红（精讲系列）",
+          "existing_duration_seconds": 2724.118,
+          "delta_seconds": 77.973,
+          "delta_ratio": 0.027827
+        },
+        {
+          "existing_source_id": "mikey-sijiao-004",
+          "existing_title": "为什么学把妹，线下复盘的重要性",
+          "existing_duration_seconds": 3120.141,
+          "delta_seconds": 318.05,
+          "delta_ratio": 0.101934
+        }
+      ],
+      "text_similarity_candidates": [],
+      "weak_phrase_candidates": [
+        {
+          "existing_source_id": "mikey-gameshengjing-019",
+          "existing_title": "第十九章 搭讪SOP（搭讪全流程SOP）",
+          "matched_10char_shingles": 7,
+          "smaller_set_containment": 0.003084,
+          "classification": "weak_phrase_or_theme_signal_only"
+        },
+        {
+          "existing_source_id": "mikey-gameshengjing-016",
+          "existing_title": "第十六章 搭讪前的准备工作（导师搭讪之前都会做的准备工作）",
+          "matched_10char_shingles": 7,
+          "smaller_set_containment": 0.00266,
+          "classification": "weak_phrase_or_theme_signal_only"
+        },
+        {
+          "existing_source_id": "quark-live-019",
+          "existing_title": "直播22大战黄推博主约会",
+          "matched_10char_shingles": 22,
+          "smaller_set_containment": 0.002551,
+          "classification": "weak_phrase_or_theme_signal_only"
+        },
+        {
+          "existing_source_id": "quark-live-023",
+          "existing_title": "直播26：约炮36D眼镜妹 历史最干直播 直播约会案例讲解 解决你所有的约会问题_720p",
+          "matched_10char_shingles": 17,
+          "smaller_set_containment": 0.001971,
+          "classification": "weak_phrase_or_theme_signal_only"
+        },
+        {
+          "existing_source_id": "quark-live-022",
+          "existing_title": "直播24：把小区变成后宫最高效的得吃方法女邻居帝王长期框架建立方法约会搭讪 两性_1080p",
+          "matched_10char_shingles": 16,
+          "smaller_set_containment": 0.001856,
+          "classification": "weak_phrase_or_theme_signal_only"
+        }
+      ],
+      "event_case_candidates": [],
+      "prior_visual_duplicate_audit": {
+        "scope": "39条YouTube直播候选与夸克直播51期的全片故事板比对",
+        "judgment": "未发现已蒸馏重复",
+        "confidence": "高",
+        "highest_visual_candidate_source_id": "—",
+        "evidence": "全时长故事板对51期逐一比对，所有候选的同一时间偏移强匹配均为0；已蒸馏实际直播期号中也没有本期。"
+      },
+      "status": "unique",
+      "primary_source_id": null,
+      "formal_weight_recommendation": 1,
+      "rationale": "未发现相同 video_id/URL、源 SHA、规范化全文或足以证明整期复用的连续文本证据。",
+      "evidence": {
+        "formal_source_count_compared": 163,
+        "exact_identity_layers_checked": [
+          "youtube_video_id",
+          "url",
+          "source_sha256",
+          "normalized_full_transcript_sha256"
+        ],
+        "content_layer": "NFKC+lower+letters/numbers规范化；40字符窗、步长10的全文指纹；连续匹配窗用于事件/案例线索",
+        "top_text_candidate": null
+      },
+      "limits": [
+        "自动稿未逐句听校，不同ASR模型会降低逐字指纹重合率。",
+        "时长接近、标题相似或主题相同只能形成候选，不能单独证明重复。",
+        "局部连续文字可能是同一案例复述或固定开场，不能据此把整期判为复用。"
+      ]
+    },
+    {
+      "source_id": "mikey-youtube-live-006",
+      "video_id": "skYm6TsRXrk",
+      "youtube_url": "https://www.youtube.com/watch?v=skYm6TsRXrk",
+      "title": "直播30：调动情绪",
+      "duration_seconds": 4000.055147,
+      "transcript_covered_until_seconds": 3995.32,
+      "source_sha256": "8e86a4be09530678a29af33d69d526fdee1b5f606fc7d4a87e1937a7cb4e0fe2",
+      "source_size_bytes": 1201318710,
+      "normalized_transcript_sha256": "f24fd599aac92c606432e74b39be5273117325bcafb6420913885e0c3163749b",
+      "normalized_char_count": 13605,
+      "id_matches": [],
+      "url_matches": [],
+      "source_sha_matches": [],
+      "exact_normalized_matches": [],
+      "closest_duration_candidates": [
+        {
+          "existing_source_id": "quark-live-051",
+          "existing_title": "直播92_掌声有请Tinder王 频道：社交软件之神Tinder王",
+          "existing_duration_seconds": 4135.04,
+          "delta_seconds": 134.985,
+          "delta_ratio": 0.032644
+        },
+        {
+          "existing_source_id": "quark-live-025",
+          "existing_title": "直播31：识别窗口",
+          "existing_duration_seconds": 3859.68,
+          "delta_seconds": 140.375,
+          "delta_ratio": 0.035093
+        },
+        {
+          "existing_source_id": "quark-live-013",
+          "existing_title": "直播13 我与离异少妇的爱恨情仇mikey在内部群的日常分享",
+          "existing_duration_seconds": 4166.72,
+          "delta_seconds": 166.665,
+          "delta_ratio": 0.039999
+        }
+      ],
+      "text_similarity_candidates": [],
+      "weak_phrase_candidates": [
+        {
+          "existing_source_id": "quark-live-025",
+          "existing_title": "直播31：识别窗口",
+          "matched_10char_shingles": 32,
+          "smaller_set_containment": 0.002367,
+          "classification": "weak_phrase_or_theme_signal_only"
+        },
+        {
+          "existing_source_id": "mikey-gameshengjing-019",
+          "existing_title": "第十九章 搭讪SOP（搭讪全流程SOP）",
+          "matched_10char_shingles": 4,
+          "smaller_set_containment": 0.001762,
+          "classification": "weak_phrase_or_theme_signal_only"
+        },
+        {
+          "existing_source_id": "quark-live-026",
+          "existing_title": "直播32：聊天如何 让女生主动想要",
+          "matched_10char_shingles": 21,
+          "smaller_set_containment": 0.001553,
+          "classification": "weak_phrase_or_theme_signal_only"
+        },
+        {
+          "existing_source_id": "mikey-practice-043",
+          "existing_title": "一约拿下歌剧女（精讲系列）",
+          "matched_10char_shingles": 6,
+          "smaller_set_containment": 0.001518,
+          "classification": "weak_phrase_or_theme_signal_only"
+        },
+        {
+          "existing_source_id": "quark-live-015",
+          "existing_title": "直播15-月入4000的臭屌丝的大战顶级捞女",
+          "matched_10char_shingles": 20,
+          "smaller_set_containment": 0.001479,
+          "classification": "weak_phrase_or_theme_signal_only"
+        }
+      ],
+      "event_case_candidates": [],
+      "prior_visual_duplicate_audit": {
+        "scope": "39条YouTube直播候选与夸克直播51期的全片故事板比对",
+        "judgment": "未发现重复；只有孤立相似画面",
+        "confidence": "较高",
+        "highest_visual_candidate_source_id": "quark-live-029",
+        "evidence": "全时长故事板对51期逐一比对；最高候选 quark-live-029 只有1个同一时间偏移强匹配、1个中等匹配（本地候选帧103个），且时长相差1944.150秒。孤立画面可由相同机位/桌面造成；真重复对照直播37有28个同偏移强匹配。"
+      },
+      "status": "unique",
+      "primary_source_id": null,
+      "formal_weight_recommendation": 1,
+      "rationale": "未发现相同 video_id/URL、源 SHA、规范化全文或足以证明整期复用的连续文本证据。",
+      "evidence": {
+        "formal_source_count_compared": 163,
+        "exact_identity_layers_checked": [
+          "youtube_video_id",
+          "url",
+          "source_sha256",
+          "normalized_full_transcript_sha256"
+        ],
+        "content_layer": "NFKC+lower+letters/numbers规范化；40字符窗、步长10的全文指纹；连续匹配窗用于事件/案例线索",
+        "top_text_candidate": null
+      },
+      "limits": [
+        "自动稿未逐句听校，不同ASR模型会降低逐字指纹重合率。",
+        "时长接近、标题相似或主题相同只能形成候选，不能单独证明重复。",
+        "局部连续文字可能是同一案例复述或固定开场，不能据此把整期判为复用。"
+      ]
+    },
+    {
+      "source_id": "mikey-youtube-live-007",
+      "video_id": "T6Fo0Kfzekc",
+      "youtube_url": "https://www.youtube.com/watch?v=T6Fo0Kfzekc",
+      "title": "直播36：如何跟女人聊天 答疑解惑",
+      "duration_seconds": 3760.982494,
+      "transcript_covered_until_seconds": 3758.64,
+      "source_sha256": "bf8dc3836841ffb9f57ed25c46542324afa5bd420532551f11741506d2f38d55",
+      "source_size_bytes": 995611879,
+      "normalized_transcript_sha256": "9f746f527642a01d32575ec9e6fd30ec3bcabbca66b158f48d8fc1a2e09bfc18",
+      "normalized_char_count": 10476,
+      "id_matches": [],
+      "url_matches": [],
+      "source_sha_matches": [],
+      "exact_normalized_matches": [],
+      "closest_duration_candidates": [
+        {
+          "existing_source_id": "quark-live-034",
+          "existing_title": "直播42：該以什麽樣的心態，和女人聊天丨愛情丨約會丨搭訕丨情感丨戀愛丨dating in china",
+          "existing_duration_seconds": 3696.94,
+          "delta_seconds": 64.042,
+          "delta_ratio": 0.017028
+        },
+        {
+          "existing_source_id": "quark-live-050",
+          "existing_title": "直播87_跨年直播",
+          "existing_duration_seconds": 3839.68,
+          "delta_seconds": 78.698,
+          "delta_ratio": 0.020496
+        },
+        {
+          "existing_source_id": "quark-live-025",
+          "existing_title": "直播31：识别窗口",
+          "existing_duration_seconds": 3859.68,
+          "delta_seconds": 98.698,
+          "delta_ratio": 0.025571
+        }
+      ],
+      "text_similarity_candidates": [],
+      "weak_phrase_candidates": [
+        {
+          "existing_source_id": "quark-live-033",
+          "existing_title": "直播41：年後近況，實戰分享丨愛情丨約會丨搭訕丨情感丨戀愛丨dating in china",
+          "matched_10char_shingles": 16,
+          "smaller_set_containment": 0.001532,
+          "classification": "weak_phrase_or_theme_signal_only"
+        },
+        {
+          "existing_source_id": "quark-live-029",
+          "existing_title": "直播37：底层男性泡妞为何如此艰难",
+          "matched_10char_shingles": 12,
+          "smaller_set_containment": 0.001149,
+          "classification": "weak_phrase_or_theme_signal_only"
+        },
+        {
+          "existing_source_id": "quark-live-035",
+          "existing_title": "直播48_ 一口气大战八个女生 近期网聊案例分析",
+          "matched_10char_shingles": 12,
+          "smaller_set_containment": 0.001149,
+          "classification": "weak_phrase_or_theme_signal_only"
+        },
+        {
+          "existing_source_id": "quark-live-026",
+          "existing_title": "直播32：聊天如何 让女生主动想要",
+          "matched_10char_shingles": 11,
+          "smaller_set_containment": 0.001054,
+          "classification": "weak_phrase_or_theme_signal_only"
+        },
+        {
+          "existing_source_id": "quark-live-028",
+          "existing_title": "直播34：法国直播",
+          "matched_10char_shingles": 10,
+          "smaller_set_containment": 0.00105,
+          "classification": "weak_phrase_or_theme_signal_only"
+        }
+      ],
+      "event_case_candidates": [],
+      "prior_visual_duplicate_audit": {
+        "scope": "39条YouTube直播候选与夸克直播51期的全片故事板比对",
+        "judgment": "未发现重复；只有孤立相似画面",
+        "confidence": "较高",
+        "highest_visual_candidate_source_id": "quark-live-033",
+        "evidence": "全时长故事板对51期逐一比对；最高候选 quark-live-033 只有1个同一时间偏移强匹配、2个中等匹配（本地候选帧66个），且时长相差163.870秒。孤立画面可由相同机位/桌面造成；真重复对照直播37有28个同偏移强匹配。"
+      },
+      "status": "unique",
+      "primary_source_id": null,
+      "formal_weight_recommendation": 1,
+      "rationale": "未发现相同 video_id/URL、源 SHA、规范化全文或足以证明整期复用的连续文本证据。",
+      "evidence": {
+        "formal_source_count_compared": 163,
+        "exact_identity_layers_checked": [
+          "youtube_video_id",
+          "url",
+          "source_sha256",
+          "normalized_full_transcript_sha256"
+        ],
+        "content_layer": "NFKC+lower+letters/numbers规范化；40字符窗、步长10的全文指纹；连续匹配窗用于事件/案例线索",
+        "top_text_candidate": null
+      },
+      "limits": [
+        "自动稿未逐句听校，不同ASR模型会降低逐字指纹重合率。",
+        "时长接近、标题相似或主题相同只能形成候选，不能单独证明重复。",
+        "局部连续文字可能是同一案例复述或固定开场，不能据此把整期判为复用。"
+      ]
+    },
+    {
+      "source_id": "mikey-youtube-live-008",
+      "video_id": "356DT00P73U",
+      "youtube_url": "https://www.youtube.com/watch?v=356DT00P73U",
+      "title": "直播44：两性情感 泡妞 搭讪 约会丨搭讪玩家TV",
+      "duration_seconds": 7618.072381,
+      "transcript_covered_until_seconds": 7612.54,
+      "source_sha256": "a5bcfe1dce6b26a4c4ae6a45e5aa25c08bc910ea1f97579341e960345b69528d",
+      "source_size_bytes": 1938448717,
+      "normalized_transcript_sha256": "c78b32eb0cd4a5b5d441dd0395bc40bcefb201a5890cbad22f7c9c63ae69f2da",
+      "normalized_char_count": 29053,
+      "id_matches": [],
+      "url_matches": [],
+      "source_sha_matches": [],
+      "exact_normalized_matches": [],
+      "closest_duration_candidates": [
+        {
+          "existing_source_id": "quark-live-004",
+          "existing_title": "网聊绝技 只撩不攻 让女生无限上头",
+          "existing_duration_seconds": 7617.74,
+          "delta_seconds": 0.332,
+          "delta_ratio": 4.4e-05
+        },
+        {
+          "existing_source_id": "quark-live-037",
+          "existing_title": "直播52_ 聊天中的强行为线索",
+          "existing_duration_seconds": 7603.74,
+          "delta_seconds": 14.332,
+          "delta_ratio": 0.001881
+        },
+        {
+          "existing_source_id": "quark-live-049",
+          "existing_title": "直播86：网聊精讲",
+          "existing_duration_seconds": 7660.66,
+          "delta_seconds": 42.588,
+          "delta_ratio": 0.005559
+        }
+      ],
+      "text_similarity_candidates": [],
+      "weak_phrase_candidates": [
+        {
+          "existing_source_id": "mikey-sijiao-013",
+          "existing_title": "報名一周，學員收獲自己的心儀女生丨線上聊天案例講解丨聊天丨網聊方法丨約會丨情感丨戀愛丨dati",
+          "matched_10char_shingles": 2,
+          "smaller_set_containment": 0.000988,
+          "classification": "weak_phrase_or_theme_signal_only"
+        },
+        {
+          "existing_source_id": "mikey-gameshengjing-008",
+          "existing_title": "第八章 展示面的审美 如何拥有一个高质量审美",
+          "matched_10char_shingles": 2,
+          "smaller_set_containment": 0.000949,
+          "classification": "weak_phrase_or_theme_signal_only"
+        },
+        {
+          "existing_source_id": "mikey-practice-044",
+          "existing_title": "搭讪可爱清纯女生，一天之内拿下",
+          "matched_10char_shingles": 2,
+          "smaller_set_containment": 0.000939,
+          "classification": "weak_phrase_or_theme_signal_only"
+        },
+        {
+          "existing_source_id": "mikey-practice-015",
+          "existing_title": "一约拿下 从搭讪到拿下的全过程 可爱女生",
+          "matched_10char_shingles": 2,
+          "smaller_set_containment": 0.000934,
+          "classification": "weak_phrase_or_theme_signal_only"
+        },
+        {
+          "existing_source_id": "quark-live-028",
+          "existing_title": "直播34：法国直播",
+          "matched_10char_shingles": 8,
+          "smaller_set_containment": 0.00084,
+          "classification": "weak_phrase_or_theme_signal_only"
+        }
+      ],
+      "event_case_candidates": [],
+      "prior_visual_duplicate_audit": {
+        "scope": "39条YouTube直播候选与夸克直播51期的全片故事板比对",
+        "judgment": "未发现已蒸馏重复",
+        "confidence": "高",
+        "highest_visual_candidate_source_id": "—",
+        "evidence": "全时长故事板对51期逐一比对，所有候选的同一时间偏移强匹配均为0；已蒸馏实际直播期号中也没有本期。"
+      },
+      "status": "unique",
+      "primary_source_id": null,
+      "formal_weight_recommendation": 1,
+      "rationale": "未发现相同 video_id/URL、源 SHA、规范化全文或足以证明整期复用的连续文本证据。",
+      "evidence": {
+        "formal_source_count_compared": 163,
+        "exact_identity_layers_checked": [
+          "youtube_video_id",
+          "url",
+          "source_sha256",
+          "normalized_full_transcript_sha256"
+        ],
+        "content_layer": "NFKC+lower+letters/numbers规范化；40字符窗、步长10的全文指纹；连续匹配窗用于事件/案例线索",
+        "top_text_candidate": null
+      },
+      "limits": [
+        "自动稿未逐句听校，不同ASR模型会降低逐字指纹重合率。",
+        "时长接近、标题相似或主题相同只能形成候选，不能单独证明重复。",
+        "局部连续文字可能是同一案例复述或固定开场，不能据此把整期判为复用。"
+      ]
+    },
+    {
+      "source_id": "mikey-youtube-live-009",
+      "video_id": "f0gOZfoOhvo",
+      "youtube_url": "https://www.youtube.com/watch?v=f0gOZfoOhvo",
+      "title": "直播45：Mikey 撩妹答疑丨搭讪玩家TV",
+      "duration_seconds": 4796.058413,
+      "transcript_covered_until_seconds": 4786.19,
+      "source_sha256": "9a0c90b764e3d437a7c33b29049caf5bfa1a31bbfce11e16c8cc2a68d08c4f5a",
+      "source_size_bytes": 1245078631,
+      "normalized_transcript_sha256": "c593c3e2f7f1dae127a8a1b509d5dbdbd2e8a9a74dc117360cd53720774a414f",
+      "normalized_char_count": 18097,
+      "id_matches": [],
+      "url_matches": [],
+      "source_sha_matches": [],
+      "exact_normalized_matches": [],
+      "closest_duration_candidates": [
+        {
+          "existing_source_id": "quark-live-042",
+          "existing_title": "直播66_ 一场约会，收尾A9富婆丨MIKEY的约会日常丨 案例分享 丨搭訕玩家TV",
+          "existing_duration_seconds": 4792.26,
+          "delta_seconds": 3.798,
+          "delta_ratio": 0.000792
+        },
+        {
+          "existing_source_id": "quark-live-002",
+          "existing_title": "如何网聊 可以制造出超强吸引力",
+          "existing_duration_seconds": 4717.42,
+          "delta_seconds": 78.638,
+          "delta_ratio": 0.016396
+        },
+        {
+          "existing_source_id": "mikey-practice-023",
+          "existing_title": "一约拿下留学艺术生完整版 一刀未剪",
+          "existing_duration_seconds": 4706.801,
+          "delta_seconds": 89.257,
+          "delta_ratio": 0.018611
+        }
+      ],
+      "text_similarity_candidates": [],
+      "weak_phrase_candidates": [
+        {
+          "existing_source_id": "quark-live-050",
+          "existing_title": "直播87_跨年直播",
+          "matched_10char_shingles": 12,
+          "smaller_set_containment": 0.001335,
+          "classification": "weak_phrase_or_theme_signal_only"
+        },
+        {
+          "existing_source_id": "mikey-gameshengjing-007",
+          "existing_title": "第七章 朋友圈怎么发能拥有超高线上吸引",
+          "matched_10char_shingles": 3,
+          "smaller_set_containment": 0.001108,
+          "classification": "weak_phrase_or_theme_signal_only"
+        },
+        {
+          "existing_source_id": "quark-live-033",
+          "existing_title": "直播41：年後近況，實戰分享丨愛情丨約會丨搭訕丨情感丨戀愛丨dating in china",
+          "matched_10char_shingles": 13,
+          "smaller_set_containment": 0.001065,
+          "classification": "weak_phrase_or_theme_signal_only"
+        },
+        {
+          "existing_source_id": "mikey-practice-019",
+          "existing_title": "一约拿下富家女破防求着想要",
+          "matched_10char_shingles": 2,
+          "smaller_set_containment": 0.000922,
+          "classification": "weak_phrase_or_theme_signal_only"
+        },
+        {
+          "existing_source_id": "mikey-practice-003",
+          "existing_title": "一约拿下震动玩具女网红",
+          "matched_10char_shingles": 3,
+          "smaller_set_containment": 0.000842,
+          "classification": "weak_phrase_or_theme_signal_only"
+        }
+      ],
+      "event_case_candidates": [],
+      "prior_visual_duplicate_audit": {
+        "scope": "39条YouTube直播候选与夸克直播51期的全片故事板比对",
+        "judgment": "未发现已蒸馏重复",
+        "confidence": "高",
+        "highest_visual_candidate_source_id": "—",
+        "evidence": "全时长故事板对51期逐一比对，所有候选的同一时间偏移强匹配均为0；已蒸馏实际直播期号中也没有本期。"
+      },
+      "status": "unique",
+      "primary_source_id": null,
+      "formal_weight_recommendation": 1,
+      "rationale": "未发现相同 video_id/URL、源 SHA、规范化全文或足以证明整期复用的连续文本证据。",
+      "evidence": {
+        "formal_source_count_compared": 163,
+        "exact_identity_layers_checked": [
+          "youtube_video_id",
+          "url",
+          "source_sha256",
+          "normalized_full_transcript_sha256"
+        ],
+        "content_layer": "NFKC+lower+letters/numbers规范化；40字符窗、步长10的全文指纹；连续匹配窗用于事件/案例线索",
+        "top_text_candidate": null
+      },
+      "limits": [
+        "自动稿未逐句听校，不同ASR模型会降低逐字指纹重合率。",
+        "时长接近、标题相似或主题相同只能形成候选，不能单独证明重复。",
+        "局部连续文字可能是同一案例复述或固定开场，不能据此把整期判为复用。"
+      ]
+    },
+    {
+      "source_id": "mikey-youtube-live-010",
+      "video_id": "CxNdBfHWns8",
+      "youtube_url": "https://www.youtube.com/watch?v=CxNdBfHWns8",
+      "title": "直播46：兩性情感 泡妞 搭訕 約會丨搭訕玩家TV",
+      "duration_seconds": 6988.99737,
+      "transcript_covered_until_seconds": 6984.06,
+      "source_sha256": "a9be0d68828d1c2a5e45532c5495b089a018daddd9759f80b29e442825c112e9",
+      "source_size_bytes": 1992621958,
+      "normalized_transcript_sha256": "d44fa638c7a6fc797b4c62ea131029f32ce3d2707abb167cb75b589fa970ce09",
+      "normalized_char_count": 22738,
+      "id_matches": [],
+      "url_matches": [],
+      "source_sha_matches": [],
+      "exact_normalized_matches": [],
+      "closest_duration_candidates": [
+        {
+          "existing_source_id": "quark-live-038",
+          "existing_title": "直播55_ 近期约炮案例分享 泡妞 搭讪 约会丨搭訕玩家TV",
+          "existing_duration_seconds": 6907.1,
+          "delta_seconds": 81.897,
+          "delta_ratio": 0.011718
+        },
+        {
+          "existing_source_id": "quark-live-017",
+          "existing_title": "直播20跨省外卖 约炮南京正妹人在家中坐妞从天上来约会搭讪",
+          "existing_duration_seconds": 6901.35,
+          "delta_seconds": 87.647,
+          "delta_ratio": 0.012541
+        },
+        {
+          "existing_source_id": "quark-live-009",
+          "existing_title": "直播6：为什么学习PUA后，反而变得不会把妹了｜GAME解毒｜传统情感行业的骗局 ｜真内核VS假内核",
+          "existing_duration_seconds": 7153.57,
+          "delta_seconds": 164.573,
+          "delta_ratio": 0.023006
+        }
+      ],
+      "text_similarity_candidates": [],
+      "weak_phrase_candidates": [
+        {
+          "existing_source_id": "mikey-practice-019",
+          "existing_title": "一约拿下富家女破防求着想要",
+          "matched_10char_shingles": 9,
+          "smaller_set_containment": 0.004147,
+          "classification": "weak_phrase_or_theme_signal_only"
+        },
+        {
+          "existing_source_id": "mikey-practice-031",
+          "existing_title": "一约拿下闷骚女（精讲系列）",
+          "matched_10char_shingles": 13,
+          "smaller_set_containment": 0.002289,
+          "classification": "weak_phrase_or_theme_signal_only"
+        },
+        {
+          "existing_source_id": "mikey-gameshengjing-019",
+          "existing_title": "第十九章 搭讪SOP（搭讪全流程SOP）",
+          "matched_10char_shingles": 5,
+          "smaller_set_containment": 0.002203,
+          "classification": "weak_phrase_or_theme_signal_only"
+        },
+        {
+          "existing_source_id": "mikey-gameshengjing-015",
+          "existing_title": "第十五章 约会中常见的强行为线索（附赠）",
+          "matched_10char_shingles": 14,
+          "smaller_set_containment": 0.00199,
+          "classification": "weak_phrase_or_theme_signal_only"
+        },
+        {
+          "existing_source_id": "mikey-gameshengjing-001",
+          "existing_title": "第一章 三伪神（这个世界束缚你的三尊伪神）",
+          "matched_10char_shingles": 4,
+          "smaller_set_containment": 0.001366,
+          "classification": "weak_phrase_or_theme_signal_only"
+        }
+      ],
+      "event_case_candidates": [],
+      "prior_visual_duplicate_audit": {
+        "scope": "39条YouTube直播候选与夸克直播51期的全片故事板比对",
+        "judgment": "未发现已蒸馏重复",
+        "confidence": "高",
+        "highest_visual_candidate_source_id": "—",
+        "evidence": "全时长故事板对51期逐一比对，所有候选的同一时间偏移强匹配均为0；已蒸馏实际直播期号中也没有本期。"
+      },
+      "status": "unique",
+      "primary_source_id": null,
+      "formal_weight_recommendation": 1,
+      "rationale": "未发现相同 video_id/URL、源 SHA、规范化全文或足以证明整期复用的连续文本证据。",
+      "evidence": {
+        "formal_source_count_compared": 163,
+        "exact_identity_layers_checked": [
+          "youtube_video_id",
+          "url",
+          "source_sha256",
+          "normalized_full_transcript_sha256"
+        ],
+        "content_layer": "NFKC+lower+letters/numbers规范化；40字符窗、步长10的全文指纹；连续匹配窗用于事件/案例线索",
+        "top_text_candidate": null
+      },
+      "limits": [
+        "自动稿未逐句听校，不同ASR模型会降低逐字指纹重合率。",
+        "时长接近、标题相似或主题相同只能形成候选，不能单独证明重复。",
+        "局部连续文字可能是同一案例复述或固定开场，不能据此把整期判为复用。"
+      ]
+    }
+  ],
+  "limits": [
+    "本账本只检查当前正式163来源，不代表与尚未接入或尚未下载材料之间无重复。",
+    "全文来自自动转写，未逐句听校；不同ASR版本可能漏掉同源重编码的逐字相似，因此低文本相似不能单独证明绝对无重复。",
+    "既有视觉审计覆盖本批与夸克直播51期，不覆盖正式库中所有非直播来源的逐帧比对。",
+    "主题相似、常用表达、固定开场、接近时长均未被当作重复证据。",
+    "本脚本与账本不修改mikey-guide，也不删除原片。"
+  ]
+}

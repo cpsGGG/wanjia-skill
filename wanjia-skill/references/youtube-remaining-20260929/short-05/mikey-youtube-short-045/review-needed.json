@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-045",
+  "youtube_id": "juXjBbeF0vs",
+  "review_completed": true,
+  "items": [
+    {
+      "review_id": "s045-r01",
+      "severity": "major",
+      "category": "asr_uncertainty",
+      "issue": "S00007 garbles the phrase between '新鲜感' and '新的选择'; the likely meaning is new encounters, but the exact word was not verified from original audio.",
+      "affected_evidence": ["S00007@14.86-16.54"],
+      "disposition": "Paraphrase the sequence and do not quote the uncertain word."
+    },
+    {
+      "review_id": "s045-r02",
+      "severity": "major",
+      "category": "relationship_boundary",
+      "issue": "The clip praises devotion without defining reciprocity, incompatibility, abuse, coercion or when leaving is appropriate.",
+      "affected_evidence": ["whole source"],
+      "disposition": "Keep both claims on hold and do not turn the value statement into advice to stay in a harmful or one-sided relationship."
+    },
+    {
+      "review_id": "s045-r03",
+      "severity": "major",
+      "category": "cross_source_tension",
+      "issue": "Calling one person 'unique' can conflict with formal warnings that scarcity may be mislabelled as love.",
+      "affected_evidence": ["S00009-S00011@18.34-26.20"],
+      "disposition": "Use only when uniqueness is an active, reciprocal commitment made despite alternatives; preserve the unresolved tension."
+    }
+  ]
+}

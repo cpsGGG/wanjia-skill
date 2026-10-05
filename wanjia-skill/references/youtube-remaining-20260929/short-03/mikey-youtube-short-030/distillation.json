@@ -1,0 +1,101 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-030",
+  "youtube_id": "Dn0SHuE89J0",
+  "title": "普通人应该自信",
+  "coverage": {
+    "transcript_segments_read": 63,
+    "transcript_time_range_seconds": [3.79, 110.94],
+    "semantic_media_range_seconds": [0.0, 109.226667],
+    "sampled_frames_reviewed": 36,
+    "continuous_original_audio_visual_review": false,
+    "excluded_asr_tail": "S00061 crosses the audited 109.226667-second endpoint; S00062-S00063 are wholly beyond it. S00061-S00063 are excluded from claims and timeline evidence."
+  },
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 25.27,
+      "summary": "He recounts an unverified date conversation in which a woman calls him an insulting label for an ordinary but confident man, and he replies by applying the label back to her."
+    },
+    {
+      "start": 25.27,
+      "end": 41.79,
+      "summary": "He insults people who use such labels as unintelligent and recommends attacking the statement back, then says arguing cannot persuade someone committed to a position."
+    },
+    {
+      "start": 41.79,
+      "end": 63.99,
+      "summary": "He says people's judgments follow their social position and interests and generalizes the reported woman's words as female self-interest."
+    },
+    {
+      "start": 63.99,
+      "end": 97.04,
+      "summary": "Using nonstandard philosophical language, he says objectivity is valuable but impossible in full and calls for selective materialism."
+    },
+    {
+      "start": 97.04,
+      "end": 109.226667,
+      "summary": "He says important decisions centered on one's own interests may be handled idealistically; the repeated ASR continuation crossing the media cut is excluded."
+    }
+  ],
+  "claims": [
+    {
+      "claim_id": "s030-c01",
+      "speaker": "Mikey",
+      "statement": "He recounts replying to a woman's insult about an ordinary but confident man by applying an equivalent label to her.",
+      "conditions": "Unverified self-report; the other participant is absent and her words, identity and reaction are not independently established.",
+      "evidence": ["S00001-S00016@3.79-25.27"],
+      "use_level": "do_not_generalize"
+    },
+    {
+      "claim_id": "s030-c02",
+      "speaker": "Mikey",
+      "statement": "He characterizes users of the label as lacking independent thought and intelligence and recommends directly attacking the statement back.",
+      "conditions": "Insult-based escalation is not suitable as action advice; disagreement can be ended without demeaning the other person.",
+      "evidence": ["S00017-S00024@25.27-41.79"],
+      "use_level": "do_not_generalize"
+    },
+    {
+      "claim_id": "s030-c03",
+      "speaker": "Mikey",
+      "statement": "He says people reason from their position and interests and extends the reported woman's statement into a generalization about female interests.",
+      "conditions": "A broad gender and motive attribution without evidence; it cannot determine any individual's reasoning.",
+      "evidence": ["S00025-S00038@41.79-63.99"],
+      "use_level": "do_not_generalize"
+    },
+    {
+      "claim_id": "s030-c04",
+      "speaker": "Mikey",
+      "statement": "He advocates what he calls selective materialism for ordinary tasks but says one may be idealistic when personal interests are central.",
+      "conditions": "His idiosyncratic terminology is internally underexplained and should not be treated as standard philosophy or a license to disregard facts.",
+      "evidence": ["S00039-S00060@63.99-108.72"],
+      "use_level": "hold"
+    }
+  ],
+  "speaker_attribution": [
+    {
+      "speaker": "Mikey",
+      "basis": "One visible channel host speaks throughout."
+    },
+    {
+      "speaker": "reported woman",
+      "basis": "Her alleged words are voiced only within Mikey's retelling; she is neither visible nor independently heard."
+    }
+  ],
+  "visual_findings": [
+    "All 36 sampled frames show the same black-shirt host seated at a microphone with editorial subtitles.",
+    "No woman, date exchange, source text or independent reaction is shown."
+  ],
+  "permissions": {
+    "formal_integration": false,
+    "first_person_allowed": false,
+    "action_advice_allowed": false,
+    "use_level": "reuse_zero_weight",
+    "reason": "Usable themes are already represented in formal live-037 and EIcItpA_RZU; novel wording consists mainly of gender hostility, an unverified third-party exchange and an underexplained philosophy claim."
+  },
+  "limitations": [
+    "No same-passage parent source was located; reuse is semantic rather than identity reuse.",
+    "Automatic ASR crosses the media endpoint, and the last three SIDs are excluded.",
+    "The reported conversation and its outcome have no independent evidence."
+  ]
+}

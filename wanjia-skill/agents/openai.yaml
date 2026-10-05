@@ -1,0 +1,6 @@
+interface:
+  display_name: "玩家.skill"
+  short_description: "参考Mikey资料，回读原文并按具体情境给出有出处的判断"
+  default_prompt: "用 $wanjia-skill 根据已收录材料分析我的具体情况，并附出处。"
+policy:
+  allow_implicit_invocation: true

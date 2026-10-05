@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-009",
+  "youtube_id": "K6TC-m0pJfU",
+  "decision": "reuse",
+  "reuse_of": "OSEq7tPwrqY",
+  "formal_weight_if_integrated": 0,
+  "compared_sources": [
+    {
+      "scope": "formal_mikey_guide",
+      "source_count": 202,
+      "comparison": "youtube_id_url_normalized_fulltext_and_12_character_shingles"
+    },
+    {
+      "source_id": "OSEq7tPwrqY",
+      "title": "长期关系怎么维护？",
+      "comparison": "same-title long live source with a long ordered verbatim-equivalent passage"
+    }
+  ],
+  "evidence": [
+    {
+      "type": "identity",
+      "result": "no_exact_youtube_id_or_url_overlap",
+      "basis": "video-01/identity-precheck.json and current formal source-index"
+    },
+    {
+      "type": "normalized_fulltext",
+      "target_normalized_chars": 7337,
+      "target_sha256": "1c87ff0318a5710df1bdb3a60704a3564e7d02c75519c8ae9d8ead1bea36d011",
+      "formal_transcripts_checked": 202,
+      "exact_matches": []
+    },
+    {
+      "type": "partial_content_reuse",
+      "formal_source_id": "OSEq7tPwrqY",
+      "target_12_character_shingle_containment": 0.4109215017064846,
+      "normalized_sequence_match_ratio": 0.5073744235981555,
+      "result": "edited excerpt/derivative of the formal long live source rather than a separately weighted source"
+    }
+  ],
+  "boundary": "The upload has a different YouTube ID and is not a byte-for-byte transcript duplicate, but its same-title teaching sequence substantially reuses the formal live source. Preserve it as a research pointer only and assign zero source weight if later linked."
+}

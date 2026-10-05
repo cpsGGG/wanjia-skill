@@ -1,0 +1,41 @@
+{
+  "schema_version": "community-safe-distillation-reference-1.0",
+  "source_id": "mikey-youtube-community-206",
+  "post_id": "Ugkxd_qGdwAnzA7aeauTdIeXH8J4K7hrED7J",
+  "public_body_sha256": "f832b087388d4d16f109c91e6ce3db65c8ead09d8f04b78f880a09bbff5ae54b",
+  "safe_summary": "正文主张聊天常是情绪交流、不要只争字面对错。配图是带课程标题的嵌套聊天截图；外层包含情绪解读与表情建议，角色、内层上下文和结果未确认。",
+  "source_body_scope": "正文有限支持作者重视情绪交流的看法；“甚至曲解”必须保留原字与使用边界，不能扩成忽略拒绝、不满或事实争议的通用建议。",
+  "summary_origin": "author_distillation_with_editorial_boundaries_not_mikey_quote",
+  "image_summaries": [
+    {
+      "image_index": 1,
+      "sha256": "979d4ed74a24c7859be05b42c3347bfb53aaf0abeb3e22e22bff237667d7f981",
+      "safe_summary": "带课程标识的嵌套聊天截图，展示情绪解读与表情建议；角色、原对话前后文和执行结果不确定。",
+      "summary_origin": "author_visual_analysis_not_mikey_quote",
+      "independent_review_status": "pending",
+      "runtime_answer_allowed": false,
+      "evidence_weight": 0
+    }
+  ],
+  "new_knowledge_count": 0,
+  "research_distillation_path": "research/youtube-channel-refresh-20261004/distillation/mikey-youtube-community-206.json",
+  "research_distillation_sha256": "29b6b62332ab165cfee7a2888bfea331c5810785b0232ac814d5d7699dab2b69",
+  "independent_review_status": "pending",
+  "permissions": {
+    "first_person_allowed": false,
+    "persona_first_person_allowed": false,
+    "action_advice_allowed": false,
+    "runtime_answer_allowed": false,
+    "evidence_weight": 0
+  },
+  "privacy_policy": {
+    "raw_screenshot_text_packaged": false,
+    "raw_images_packaged": false,
+    "third_party_identifiers_packaged": false,
+    "private_customer_ui_packaged": false
+  },
+  "limits": [
+    "原图只在研究归档保留；摘要来自逐帖分析，独立视觉审查未完成前不据此确认第三方身份、聊天上下文、截图真实性、授权或训练效果。",
+    "公开正文保留作者发帖文字；转述和营销效果不视为事实验证或行动许可。"
+  ]
+}

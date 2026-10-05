@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "source_id": "mikey-youtube-live-030",
+  "speakers": [
+    {
+      "id": "mikey",
+      "role": "host",
+      "status": "confirmed",
+      "identity_basis": "搭讪玩家TV直播83由Mikey主持；自动稿按连续主持框架整理，具体画面及切换仍依视觉审查。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=KO5l9Lh7FZc&t=30s"
+      ],
+      "notes": "观众问题由主持人口头转述，问题中的经历不归给Mikey。"
+    },
+    {
+      "id": "viewer-question-01",
+      "role": "collective live-chat question author(s)",
+      "status": "collective_placeholder",
+      "identity_basis": "多名观众的文字问题由主持人朗读。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=KO5l9Lh7FZc"
+      ],
+      "notes": "集合占位符，不代表同一人物。"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-042",
+  "youtube_id": "VBGL7Bb12Io",
+  "decision": "new",
+  "reuse_of": null,
+  "formal_weight_if_integrated": 1,
+  "compared_sources": [
+    {"scope": "formal_mikey_guide_202_sources", "comparison": "exact ID/URL, distinctive transcript phrases, location and approach-case semantics"},
+    {"scope": "youtube_pipeline_video_01_to_05_and_short_01_to_04", "comparison": "exact ID/URL, transcript phrase and edited-case reuse screen"},
+    {"scope": "related_formal_and_pipeline_sources", "source_ids": ["mikey-sijiao-006", "mikey-youtube-video-038", "mikey-approach-004"], "comparison": "direct contact request and phone exchange sequence"}
+  ],
+  "evidence": [
+    {"type": "identity", "result": "no_exact_id_or_url_match"},
+    {"type": "transcript", "result": "no_exact_parent_excerpt_located", "basis": "The distinctive Forbidden City exchange, compliment, mutual clarification and water-destination close were not found in formal or completed-pipeline transcripts."},
+    {"type": "semantic_overlap", "result": "method_already_represented_but_case_distinct", "basis": "The direct WeChat request overlaps mikey-sijiao-006 and its duplicate video-038, but the setting, woman and ordered exchange do not match the reviewed parent material."},
+    {"type": "visual", "result": "distinct_public_encounter", "basis": "Twelve 3-second frames and thirty-seven 1-second frames show a woman in pink at the Forbidden City, an apparent phone scan and an edited farewell."}
+  ],
+  "boundary": "New only as a distinct recorded encounter in the processed corpus. Do not treat the apparent scan as proof that contact details were saved, that she consented to publication, that she was attracted or that later contact occurred; the camera-holder is not independently identified as Mikey."
+}

@@ -1,0 +1,50 @@
+{
+  "schema_version": "mikey-community-post-fulltext-1.0",
+  "source_id": "mikey-youtube-community-176",
+  "post_id": "Ugkx8FVRMXewhpJazEho4ibQq_eW6DNh4gVw",
+  "url": "https://www.youtube.com/post/Ugkx8FVRMXewhpJazEho4ibQq_eW6DNh4gVw",
+  "published_at": "2026-08-04T22:45:00.145602-07:00",
+  "date_basis": "archived_public_observation",
+  "body": "邀约失败❌\n大多数原因是你在“劝”对方、或去“证明”自己，你越劝，需求感越重，框架就越低\n\n你要做的是重构视角——不是我想让你来，而是我们俩一起去解决或者去体验这件事",
+  "body_kind": "verbatim_or_as_archived_in_corrected_candidate",
+  "image_refs": [
+    {
+      "image_index": 1,
+      "research_archive_path": "research/youtube-community-batch1/images/Ugkx8FVRMXewhpJazEho4ibQq_eW6DNh4gVw/01.jpg",
+      "sha256": "79cb65358b4aae525c234ba3b8fb2a2c6eace9b1dd799a07d8f34430d7e2f0c3",
+      "bytes": 198413,
+      "formal_asset_policy": "reference_only_do_not_copy",
+      "safe_summary": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。"
+    }
+  ],
+  "segments": [
+    {
+      "sid": "C0176-BODY",
+      "kind": "channel_body",
+      "text": "邀约失败❌\n大多数原因是你在“劝”对方、或去“证明”自己，你越劝，需求感越重，框架就越低\n\n你要做的是重构视角——不是我想让你来，而是我们俩一起去解决或者去体验这件事",
+      "verbatim_allowed": true,
+      "source_scope": "public_channel_body_as_archived"
+    },
+    {
+      "sid": "C0176-IMG01",
+      "kind": "image_reference_metadata",
+      "text": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。",
+      "verbatim_allowed": false,
+      "image_reference": {
+        "image_index": 1,
+        "research_archive_path": "research/youtube-community-batch1/images/Ugkx8FVRMXewhpJazEho4ibQq_eW6DNh4gVw/01.jpg",
+        "sha256": "79cb65358b4aae525c234ba3b8fb2a2c6eace9b1dd799a07d8f34430d7e2f0c3",
+        "bytes": 198413,
+        "formal_asset_policy": "reference_only_do_not_copy",
+        "safe_summary": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。"
+      }
+    }
+  ],
+  "privacy_policy": {
+    "original_images_copied": false,
+    "raw_ocr_copied": false,
+    "private_chat_transcript_copied": false,
+    "third_party_identity_confirmed": false,
+    "publication_authorization_confirmed": false
+  }
+}

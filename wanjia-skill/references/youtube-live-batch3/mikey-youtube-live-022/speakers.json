@@ -1,0 +1,56 @@
+{
+  "schema_version": "1.0",
+  "source_id": "mikey-youtube-live-022",
+  "speakers": [
+    {
+      "id": "mikey",
+      "role": "host",
+      "status": "partially_confirmed",
+      "identity_basis": "频道直播主持身份可确认，但当前未完成逐句声音映射。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=dZgV_s1FVv8"
+      ],
+      "notes": "只有明确映射到Mikey的评价才能作为其观点。"
+    },
+    {
+      "id": "guest-masked-01",
+      "role": "visible participant",
+      "status": "unidentified",
+      "identity_basis": "画面左侧戴橙色头套/面具。",
+      "evidence_refs": [],
+      "notes": "不能仅凭位置确认姓名或声音。"
+    },
+    {
+      "id": "guest-unknown-02",
+      "role": "additional participant",
+      "status": "unidentified",
+      "identity_basis": "题目和语境称与两名门徒讨论，但抽样画面不能完成个人映射。",
+      "evidence_refs": [],
+      "notes": "保持未知。"
+    },
+    {
+      "id": "unknown-live-speaker-01",
+      "role": "unresolved live speaker",
+      "status": "disputed",
+      "identity_basis": "自动稿没有说话人分离，多人交替和重叠无法可靠分开。",
+      "evidence_refs": [],
+      "notes": "逐句人物核验前不得升级。"
+    },
+    {
+      "id": "viewer-chat-01",
+      "role": "collective viewer chat",
+      "status": "collective_placeholder",
+      "identity_basis": "画面持续显示实时评论栏。",
+      "evidence_refs": [],
+      "notes": "代表多个观众，不是同一人。"
+    },
+    {
+      "id": "media-character-or-plot",
+      "role": "anime character/plot material",
+      "status": "context_only",
+      "identity_basis": "等级表、角色立绘和剧情复述是讨论材料。",
+      "evidence_refs": [],
+      "notes": "不是Mikey亲历。"
+    }
+  ]
+}

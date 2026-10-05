@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-043",
+  "youtube_id": "beVlsu3s1mQ",
+  "title": "改变的第一步是接纳",
+  "coverage": {
+    "transcript_segments_read": 19,
+    "transcript_time_range_seconds": [0.0, 36.54],
+    "semantic_media_range_seconds": [0.0, 36.966168],
+    "sampled_frames_reviewed": 12,
+    "continuous_original_audio_visual_review": false,
+    "excluded_asr_tail": null
+  },
+  "timeline": [
+    {"start": 0.0, "end": 8.7, "summary": "The speaker introduces people who complain that changing is too hard and tells them not to keep criticizing themselves."},
+    {"start": 8.7, "end": 18.48, "summary": "He argues that repeated self-criticism lowers self-esteem and consumes energy that could otherwise support change."},
+    {"start": 18.48, "end": 32.88, "summary": "He proposes first accepting the present self, including acknowledging having made mistakes or hurt others, while still loving oneself and believing one can do better."},
+    {"start": 32.88, "end": 36.966168, "summary": "He concludes that accepting one's problem is what makes change possible."}
+  ],
+  "claims": [
+    {"claim_id": "s043-c01", "speaker": "Mikey_visually_consistent_unverified", "statement": "He argues that repeated self-criticism can deepen low self-worth and consume the energy needed for change.", "conditions": "A broad psychological claim from a short monologue, not a clinically established causal rule or treatment recommendation.", "evidence": ["S00004-S00009@5.18-18.48", "visual/sampled/000003.jpg-visual/sampled/000006.jpg"], "use_level": "hold", "knowledge_status": "reuse_zero_weight"},
+    {"claim_id": "s043-c02", "speaker": "Mikey_visually_consistent_unverified", "statement": "He frames accepting the present self, including acknowledging mistakes, as compatible with deciding to do better.", "conditions": "Self-acceptance does not cancel responsibility, apology, repair, boundaries or consequences for harm to others.", "evidence": ["S00010-S00019@18.48-36.54", "visual/sampled/000007.jpg-visual/sampled/000012.jpg"], "use_level": "context_only", "knowledge_status": "reuse_zero_weight"}
+  ],
+  "examples": [],
+  "speaker_attribution": [
+    {"speaker": "Mikey_visually_consistent_unverified", "basis": "The face and direct-to-camera delivery are visually consistent with the channel's Mikey material, but this subtask did not independently authenticate identity from an external reference."}
+  ],
+  "visual_findings": [
+    "All twelve sampled frames show one continuous outdoor walking monologue with one visible male speaker.",
+    "Burned subtitles match the main transcript progression from self-criticism to acceptance and change.",
+    "No chat screenshot, demonstration, second speaker or outcome evidence appears."
+  ],
+  "permissions": {"formal_integration": false, "first_person_allowed": false, "action_advice_allowed": false, "use_level": "reuse_zero_weight_context_only", "reason": "The useful principle is already represented formally; the psychological causal language and accountability boundary require caution."},
+  "limitations": [
+    "Automatic transcript and burned subtitles were reviewed, but the audio was not word-for-word verified.",
+    "The causal chain from criticism to self-esteem loss to inability to change is asserted, not demonstrated.",
+    "The reference to having hurt others must not be reframed as permission to avoid accountability.",
+    "Sparse visual review is sufficient for the single-speaker screen but is not continuous audio-visual verification."
+  ]
+}

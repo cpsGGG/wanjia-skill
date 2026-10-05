@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-015",
+  "youtube_id": "6zV5Ud9tcNA",
+  "decision": "reuse",
+  "compared_sources": [
+    {
+      "scope": "formal_mikey_guide",
+      "source_count": 202,
+      "comparison": "youtube_id_url_normalized_fulltext_and_12_character_shingles"
+    },
+    {
+      "source_id": "9zRpsnsPGxU",
+      "title": "2026-07-09 - 两性吸引力解码 女人真正的慕强到底是什么  真正的干货分享",
+      "comparison": "same thesis, examples, argument order and long verbatim-normalized transcript runs"
+    },
+    {
+      "source_id": "YEm81yAdw2E",
+      "title": "2026-08-11 - 泡妞吸引核心 ‘控制力’今天继续开源",
+      "comparison": "related attraction/control theme only; not the reuse target"
+    }
+  ],
+  "evidence": [
+    {
+      "type": "identity",
+      "result": "no_exact_youtube_id_or_url_overlap",
+      "basis": "video-02 identity precheck and current formal source-index"
+    },
+    {
+      "type": "normalized_fulltext",
+      "target_normalized_chars": 16436,
+      "target_sha256": "ce4963c6255425a3872e771f8e4e71fb19ddfa5140ea86d6d9b1fc4594d66629",
+      "formal_transcripts_checked": 202,
+      "reuse_target": "9zRpsnsPGxU",
+      "target_12_character_shingle_containment": 0.5693911135490949,
+      "formal_source_12_character_shingle_containment": 0.4024989228780698
+    },
+    {
+      "type": "ordered_content_alignment",
+      "result": "same edited source material",
+      "basis": "Both sources proceed through relationship dynamics and upper-position posture; the landlord's son and PG1/Jia Nailiang examples; distance and mystery; cold silence; consistency tests; techniques as surface expressions of inner state; the borrowing-10,000 anecdote; rescue desire; long-term consistency; and the same primitive-attraction-code conclusion. The formal source contains the longer live-program context while this upload removes pauses and side interactions."
+    },
+    {
+      "type": "visual",
+      "result": "consistent_with_edited_talking_head_extract",
+      "basis": "All 55 sampled frames show the same single-host desk setup with burned-in subtitles and no independent case material."
+    }
+  ],
+  "boundary": "Treat this upload as an edited reuse of formal source 9zRpsnsPGxU. Preserve its source identity and research package, but do not count its repeated claims or examples as a new independent source or extra corroboration."
+}

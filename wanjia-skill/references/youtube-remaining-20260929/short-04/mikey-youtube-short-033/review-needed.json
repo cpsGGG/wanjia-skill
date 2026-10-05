@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-033",
+  "youtube_id": "apoG8W9NziA",
+  "review_completed": true,
+  "items": [
+    {
+      "review_id": "s033-r01",
+      "severity": "major",
+      "category": "source_reuse",
+      "issue": "The calm-strength and distraction-question lessons are already represented by quark-live-030-k004/k008.",
+      "affected_evidence": ["S00025-S00059"],
+      "disposition": "Keep formal weight at zero and do not count the Short as independent corroboration."
+    },
+    {
+      "review_id": "s033-r02",
+      "severity": "major",
+      "category": "second_hand_case",
+      "issue": "The student's use of put-downs and the dates' later non-response are reported only by the speaker.",
+      "affected_evidence": ["S00001-S00018@0.00-36.68"],
+      "disposition": "Keep as the speaker's setup and interpretation, not a verified causal outcome."
+    },
+    {
+      "review_id": "s033-r03",
+      "severity": "major",
+      "category": "scope_boundary",
+      "issue": "Status language and 不以物喜不以己悲 could be misread as emotional suppression or permission to disregard another person's state.",
+      "affected_evidence": ["S00025-S00041", "S00056-S00059"],
+      "disposition": "Use only the narrow calm, direct, non-insulting expression principle; preserve mutual boundaries and exit rights."
+    },
+    {
+      "review_id": "s033-r04",
+      "severity": "major",
+      "category": "truncated_edit",
+      "issue": "The source ends mid-sentence after '我本来就不需要'.",
+      "affected_evidence": ["S00070-S00072@116.62-122.38"],
+      "disposition": "Do not infer or complete the missing ending."
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-007",
+  "youtube_id": "r7rpeVQxTis",
+  "decision": "reuse",
+  "reuse_source_id": "jvFRTgH_4cE",
+  "formal_weight": 0,
+  "compared_sources": [
+    {
+      "scope": "formal_mikey_guide",
+      "source_count": 202,
+      "comparison": "youtube_id_url_normalized_fulltext_and_rolling_substring_screening"
+    },
+    {
+      "scope": "required_inventory_fingerprint_target",
+      "source_id": "mikey-practice-004",
+      "comparison": "normalized_fulltext_rolling_substrings_and_visual_structure"
+    }
+  ],
+  "evidence": [
+    {
+      "type": "identity",
+      "result": "no_exact_youtube_id_or_url_overlap",
+      "basis": "video-01/identity-precheck.json and the current 202-source formal index"
+    },
+    {
+      "type": "normalized_fulltext",
+      "target_normalized_chars": 6415,
+      "target_sha256": "7fbd52fc0dfc1c1d321a9741ac9fc325dc21ca3a2923deaec978d072444fb9af",
+      "formal_transcripts_checked": 202,
+      "exact_whole_transcript_matches": []
+    },
+    {
+      "type": "required_target_fingerprint",
+      "compared_with": "mikey-practice-004",
+      "result": "not_same_content",
+      "detail": "The required comparison target is an on-location date case with a different transcript and visual sequence. Its normalized transcript has 2492 characters; there are zero shared rolling 16-character substrings with this upload, and its reviewed restaurant/sofa chronology does not match this upload's studio monologue and illustrative inserts."
+    },
+    {
+      "type": "formal_content_reuse",
+      "matched_source_id": "jvFRTgH_4cE",
+      "matched_title": "2026-08-03 - 一次性给肢体接触讲透 讲明白！",
+      "result": "edited_excerpt_of_formal_source",
+      "detail": "263 target segments of at least eight normalized characters exactly match formal transcript segments. Matches preserve the teaching order and span about 1252.65-5303.44 seconds in the formal live transcript, while this upload condenses the material to 1119 seconds and adds/reorders illustrative inserts.",
+      "rolling_substring_target_containment": {
+        "8_chars": 0.674953,
+        "12_chars": 0.542598,
+        "16_chars": 0.435224,
+        "20_chars": 0.348812,
+        "24_chars": 0.279725
+      }
+    }
+  ],
+  "boundary": "Treat this upload as a repackaged excerpt of formal source jvFRTgH_4cE and assign no additional source or claim weight. The target transcript and edit remain useful only as a traceable packaging artifact."
+}

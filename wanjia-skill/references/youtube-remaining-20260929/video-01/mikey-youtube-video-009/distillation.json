@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-009",
+  "youtube_id": "K6TC-m0pJfU",
+  "title": "萬字拆解｜長期關係經營本質",
+  "coverage": {
+    "transcript_segments_read": 843,
+    "transcript_time_range_seconds": [0.0, 1047.76],
+    "sparse_frames_reviewed": 23,
+    "dense_frames_reviewed": 0,
+    "continuous_original_audio_visual_review": false
+  },
+  "timeline": [
+    {"start": 0.0, "end": 330.22, "summary": "Mikey defines consistency as keeping the same character and boundaries after a relationship begins, then argues that confidence must be built in daily life rather than performed during dates."},
+    {"start": 330.22, "end": 579.86, "summary": "He discusses privacy and mystery, mixing a potentially useful boundary against approval-seeking disclosure with broad claims that intimacy and disclosure reduce attraction."},
+    {"start": 579.86, "end": 939.34, "summary": "He explains availability through an extended hypothetical, then recommends maintaining uncertainty and control in a long relationship; several claims are manipulative or unsupported gender generalizations."},
+    {"start": 939.34, "end": 1047.76, "summary": "He closes by urging continued self-development, independent goals and a life not organized entirely around a partner."}
+  ],
+  "claims": [
+    {"claim_id": "v009-c01", "speaker": "Mikey", "statement": "Attraction built through a temporary dating persona is unstable; how you act during dates should be consistent with your ordinary habits and character.", "conditions": "Useful as a self-consistency principle, without adopting the video's dominance framing.", "evidence": ["S00013-S00047@12.08-50.40", "S00198-S00219@253.76-291.90"], "use_level": "context_only"},
+    {"claim_id": "v009-c02", "speaker": "Mikey", "statement": "Confidence and directness are habits practiced in ordinary situations rather than switches that can be turned on only for a date.", "conditions": "Practice must still respect other people's comfort and boundaries.", "evidence": ["S00081-S00125@113.26-161.16", "S00164-S00197@219.22-253.76"], "use_level": "context_only"},
+    {"claim_id": "v009-c03", "speaker": "Mikey", "statement": "Do not disclose private stories merely to win approval; it is acceptable to say that a topic is private and change the subject.", "conditions": "A personal privacy boundary is distinct from manufacturing uncertainty to control a partner.", "evidence": ["S00273-S00349@342.76-448.96", "S00350-S00369@450.16-472.12"], "use_level": "context_only"},
+    {"claim_id": "v009-c04", "speaker": "Mikey", "statement": "The video claims that deliberately preserving mystery and emotional distance sustains attraction.", "conditions": "This is a broad causal claim based on personal anecdotes, not independently established relationship evidence.", "evidence": ["S00370-S00424@472.12-540.14"], "use_level": "hold"},
+    {"claim_id": "v009-c05", "speaker": "Mikey", "statement": "The video recommends balancing signs of interest with uncertainty so a partner never feels that they fully possess you.", "conditions": "This can become manipulative and must not be converted into advice to withhold reassurance or destabilize a partner.", "evidence": ["S00454-S00505@579.86-617.88", "S00640-S00727@750.38-872.50"], "use_level": "do_not_generalize"},
+    {"claim_id": "v009-c06", "speaker": "Mikey", "statement": "A relationship should not end independent goals: he recommends continuing to improve skills, income, perspective and life experience for one's own life.", "conditions": "Separate this self-development point from the surrounding hierarchy and gender-essentialist claims.", "evidence": ["S00776-S00843@939.34-1047.76"], "use_level": "context_only"},
+    {"claim_id": "v009-c07", "speaker": "Mikey", "statement": "He presents insulting or scolding a partner and refusing to change as signs of consistency and strength.", "conditions": "Potentially abusive framing; do not use as relationship advice or as Mikey-style first-person guidance.", "evidence": ["S00208-S00233@265.38-299.30", "S00242-S00262@307.60-330.22"], "use_level": "do_not_generalize"},
+    {"claim_id": "v009-c08", "speaker": "Mikey", "statement": "He makes blanket claims that women tolerate harm from strong men and cannot lead relationships.", "conditions": "Unsupported gender generalization that can normalize harm and coercive control.", "evidence": ["S00405-S00423@519.02-540.14", "S00749-S00761@906.62-923.28"], "use_level": "do_not_generalize"}
+  ],
+  "examples": [
+    {"example_id": "v009-e01", "summary": "A student who avoids eye contact is told to practice calm eye contact in ordinary life rather than perform it only on dates.", "evidence": ["S00102-S00125@128.04-161.16"]},
+    {"example_id": "v009-e02", "summary": "Mikey recounts oversharing to gain approval and later choosing to decline private questions.", "evidence": ["S00283-S00369@357.40-472.12"]},
+    {"example_id": "v009-e03", "summary": "A celebrity hypothetical is used to illustrate the video's attainability concept; it is an invented teaching scenario, not a factual event.", "evidence": ["S00507-S00639@619.36-750.38"]}
+  ],
+  "speaker_attribution": [
+    {"speaker": "Mikey", "basis": "Single on-camera host across the sparse visual sample and continuous first-person teaching voice."},
+    {"speaker": "students, partners and celebrity in examples", "basis": "Represented only through Mikey's narration or hypotheticals; they are not verified speakers in this upload."}
+  ],
+  "visual_findings": [
+    "All 23 sparse frames show the same single-host studio presentation with burned-in subtitles and no chat, screen-share or participant switch.",
+    "The visual track adds gesture and subtitle context but no independent evidence for the relationship outcomes or causal claims."
+  ],
+  "permissions": {"formal_integration": false, "first_person_answering": false, "action_advice": false, "reason": "Substantial reuse of formal source OSEq7tPwrqY plus coercive-control, abuse-normalizing and unsupported gender claims. Keep as a zero-weight research pointer."},
+  "limitations": [
+    "Automatic transcript was not checked word-for-word against original audio.",
+    "Sparse visual screening is not continuous audio-visual verification.",
+    "Personal anecdotes and relationship outcomes are not independently verified.",
+    "The upload is a substantial edited reuse of an already formal long-live source."
+  ]
+}

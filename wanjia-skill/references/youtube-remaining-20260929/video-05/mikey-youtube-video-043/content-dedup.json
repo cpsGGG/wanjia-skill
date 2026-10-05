@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-043",
+  "youtube_id": "f6_phteCGeM",
+  "decision": "reuse",
+  "reuse_of": "mikey-approach-002",
+  "formal_weight_if_integrated": 0,
+  "compared_sources": [
+    {"scope": "formal_mikey_guide", "source_count": 202, "comparison": "youtube_id_url_and_targeted_fulltext_screen"},
+    {"source_id": "mikey-approach-002", "title": "太古里搭讪御姐", "comparison": "complete transcript, duration, event order, episode analysis and visual review"}
+  ],
+  "evidence": [
+    {"type": "identity", "result": "different_public_identity_but_same_underlying_recording", "basis": "The formal local source has no public URL; video-05 identity precheck therefore has no exact ID match."},
+    {"type": "normalized_fulltext", "target_segments": 91, "target_normalized_chars": 534, "target_normalized_sha256": "79bb8a1c77da3ab770d58bd8bde15ac1d7b5fc69941537af5b02adaebca4de80", "formal_target_segments": 79, "target_12_character_shingle_containment_in_formal_source": 0.50478, "note": "Different ASR passes; ordered dialogue is the same."},
+    {"type": "duration", "target_media_seconds": 148.909569, "formal_media_seconds": 148.886009, "difference_seconds": 0.02356, "result": "same_duration"},
+    {"type": "ordered_content_alignment", "result": "same_recording", "basis": "Both contain the same masked-woman opening, urgent-time/WeChat exchange, student/age/location talk, next-weekend invitation, uncertainty, other-suitor questions, zodiac talk and closing request to send a contact note."},
+    {"type": "visual_scope", "result": "same_single_public_interaction", "basis": "All three sampled frames show the same red-hooded man and masked woman standing beside the same red wall/plaza represented by the formal approach-002 survey."}
+  ],
+  "boundary": "Preserve the public URL and alternate encode only. This is the same recording as mikey-approach-002 and adds zero independent source, claim, example or outcome weight."
+}

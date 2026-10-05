@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-018",
+  "youtube_id": "YGHYMz3gpqA",
+  "title": "【PUA解密系列】美国小伙黑化成为PUA祖师爷",
+  "coverage": {
+    "transcript_segments_read": 258,
+    "transcript_time_range_seconds": [8.59, 525.01],
+    "sparse_frames_reviewed": 12,
+    "dense_frames_reviewed": 0,
+    "dense_windows_required_seconds": [[0, 100], [135, 175], [258, 351], [420, 449], [489, 525]],
+    "continuous_original_audio_visual_review": false,
+    "dedup": "new against 202 formal sources; highest 12-character shingle containment 0.219%"
+  },
+  "timeline": [
+    {"start": 8.59, "end": 81.76, "summary": "A provocative opening uses clips about a Chinese coaching company and the 2019 anti-PUA controversy, then defines PUA as 'pick-up artist' and promises an origin story.", "speaker": "Mikey narration plus unidentified inserted clips"},
+    {"start": 81.76, "end": 137.31, "summary": "English street/interview excerpts lead into a narrated account of late-1980s Los Angeles and Ross Jeffries as an awkward outsider who became an early PUA figure.", "speaker": "embedded English speakers followed by Mikey narration"},
+    {"start": 137.31, "end": 181.65, "summary": "The video characterizes NLP as therapeutic 'brain code' for trauma and says Jeffries reverse-engineered it to implant attraction; this medical and causal account is presented without sources.", "speaker": "Mikey narration"},
+    {"start": 181.65, "end": 258.13, "summary": "Mikey disputes a simple villain-origin story, framing early participants as socially excluded men seeking relief from fear and rejection, then asks whether a psychological tool leads to happiness or deeper harm.", "speaker": "Mikey narration and interpretation"},
+    {"start": 258.13, "end": 351.89, "summary": "He attributes 'speed seduction' to Jeffries and describes anchoring and embedded commands: eliciting emotion, pairing it with a gesture or voice, and later re-triggering it. He asserts online users tested the method and found it effective.", "speaker": "Mikey narration; historical and efficacy claims unverified"},
+    {"start": 351.89, "end": 427.01, "summary": "The video interprets the technique as bypassing ordinary value exchange and producing a sense of control for insecure men; broad claims about unconscious defenses and emotional hijacking are offered as mechanism.", "speaker": "Mikey narration"},
+    {"start": 427.01, "end": 470.21, "summary": "Mikey attributes a regretful birthday statement to Jeffries about losing the ability to love, then connects internet growth, sexual liberation and male dating anxiety to later industry expansion.", "speaker": "Mikey narration and an alleged third-party quotation"},
+    {"start": 470.21, "end": 525.01, "summary": "He calls PUA and tools neutral but asks whether the user controls the tool or vice versa, says hypnosis was too difficult for ordinary people, and previews a later formula based on negs and performance.", "speaker": "Mikey narration"}
+  ],
+  "claims": [
+    {"claim_id": "v018-c01", "speaker": "Mikey as narrator", "statement": "He says a 2019 online anti-PUA campaign was followed by coordinated bans of Langji Qinggan accounts and the collapse of a major Chinese PUA business.", "conditions": "A dated platform, audience and business-history claim requiring contemporaneous platform notices and corporate records.", "evidence": ["S00011-S00029@24.21-54.54"], "use_level": "hold", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v018-c02", "speaker": "Mikey as narrator", "statement": "He distinguishes the loanword PUA/'pick-up artist' from the later public shorthand of pressure and coercive control.", "conditions": "A terminology/history distinction; it does not neutralize manipulative practices described later.", "evidence": ["S00033-S00048@58.18-81.76"], "use_level": "context_only", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v018-c03", "speaker": "Mikey as narrator", "statement": "He claims NLP originated as a scientifically grounded treatment used by psychologists for veterans' PTSD and can overwrite painful memories through language and body cues.", "conditions": "High-impact medical and scientific claim that is materially oversimplified and unsupported in the package; do not treat as clinical fact or advice.", "evidence": ["S00078-S00090@141.53-172.83"], "use_level": "do_not_generalize", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v018-c04", "speaker": "Mikey as narrator", "statement": "He credits Ross Jeffries with turning NLP ideas into 'speed seduction' around 1988 by moving therapeutic or hypnotic techniques into bars and street interactions.", "conditions": "Priority, date, authorship and the link to clinical practice require primary historical sources.", "evidence": ["S00129-S00146@258.13-291.83"], "use_level": "hold", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v018-c05", "speaker": "Mikey as narrator", "statement": "He describes anchoring and embedded commands as pairing a person's emotional high with a gesture or voice so that the emotion can later be triggered and misattributed as attraction.", "conditions": "Manipulation-oriented mechanism and efficacy claim; the video provides no controlled evidence, and it must not become an instruction for covert influence.", "evidence": ["S00149-S00165@296.45-335.71"], "use_level": "do_not_generalize", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v018-c06", "speaker": "Mikey as narrator", "statement": "He says early forum users rapidly tested the techniques and found them effective.", "conditions": "Anecdotal field reports are subject to selection, reporting and outcome bias and do not establish effectiveness or consent.", "evidence": ["S00167-S00173@337.27-351.33"], "use_level": "hold", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v018-c07", "speaker": "Mikey as narrator", "statement": "He interprets technique-centered dating as an attempt to bypass ordinary value exchange and gain an addictive sense of control over other people's emotions.", "conditions": "This is Mikey's moral/psychological interpretation, not a diagnosis of all practitioners or proof of an 'emotional hijack' mechanism.", "evidence": ["S00179-S00205@360.49-416.99"], "use_level": "context_only", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v018-c08", "speaker": "Mikey as narrator quoting Ross Jeffries", "statement": "He attributes to Jeffries a statement that using techniques with many women left him unable to love and in great pain.", "conditions": "Sensitive third-party quotation and mental-state claim; exact wording, occasion and source are not shown and require the original recording or transcript.", "evidence": ["S00210-S00219@423.97-448.43"], "use_level": "do_not_generalize", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v018-c09", "speaker": "Mikey as narrator", "statement": "He links internet expansion, sexual-liberation/feminist movements and male dating anxiety to a PUA industry allegedly worth hundreds of millions of dollars.", "conditions": "Broad social causation and financial-scale claim without citations or accounts; keep only as attributed narration.", "evidence": ["S00221-S00227@450.73-470.21"], "use_level": "hold", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v018-c10", "speaker": "Mikey", "statement": "He concludes that a tool can come to control its user, and treats the history as a warning about dependence on manipulation techniques.", "conditions": "Usable only as a high-level interpretation separated from the video's unsupported historical, medical and efficacy claims.", "evidence": ["S00228-S00241@470.21-496.09"], "use_level": "context_only", "knowledge_status": "hold_pending_independent_review"}
+  ],
+  "examples": [
+    {"example_id": "v018-e01", "summary": "The video illustrates alleged anchoring with a repeated glass tap or low voice at an emotional peak; this is a narrated technique claim, not demonstrated evidence.", "evidence": ["S00149-S00165@296.45-335.71"], "limits": "Do not convert into covert-influence instructions."},
+    {"example_id": "v018-e02", "summary": "An alleged late-life regret quotation is used as the cautionary outcome of technique obsession.", "evidence": ["S00210-S00219@423.97-448.43"], "limits": "Original quote and context are missing."}
+  ],
+  "speaker_attribution": [
+    {"speaker": "Mikey", "basis": "Primary Chinese documentary narrator and closing self-identification; he is interpreting third-party history rather than recounting his own direct observation."},
+    {"speaker": "opening Chinese clip speaker", "basis": "Frame 000001 and S00001-S00010 show an unidentified man making promotional claims; this is inserted material, not Mikey's statement."},
+    {"speaker": "embedded English speakers", "basis": "S00049-S00058 and sampled archival/street footage contain English voices; identity and original context were not established."},
+    {"speaker": "Ross Jeffries and other historical figures", "basis": "Mostly represented through Mikey's narration, public/archival images, books and alleged quotations; no complete primary interview is supplied."}
+  ],
+  "visual_findings": [
+    "All 12 sampled frames were opened and reviewed. Frame 000001 is a third-party Chinese talking-head clip, while frames 000002-000012 are a documentary montage of street footage, UCLA/Rose Bowl imagery, dramatized footage, a presenter in Paris, computers, a report screen, a book and an archival clip.",
+    "Frame 000007 shows a kiss with faces partially blocked as illustrative footage; it does not establish consent, outcome or the historical technique being narrated.",
+    "Frames 000008-000009 show report/database-like screens, but the sparse images are not legible or sourced enough to verify dates, field reports, identities or efficacy.",
+    "Frame 000012 labels Neil Strauss and Tynan/Herbal T in an archival clip. Sparse sampling cannot establish who speaks at each moment or whether subtitles accurately preserve the source context."
+  ],
+  "permissions": {
+    "formal_integration": false,
+    "knowledge_status": "hold_pending_independent_review",
+    "first_person_allowed": false,
+    "action_advice_allowed": false,
+    "speaker_restriction": "Mikey may be identified only as the narrator of attributed interpretations. Inserted speakers, alleged quotations and third-party biography remain separate.",
+    "safety_restriction": "No anchoring, embedded-command, hypnosis, emotional-trigger or covert-control description may be converted into actionable interpersonal advice.",
+    "reuse_policy": "New research-source candidate; no formal weight until historical, scientific and attribution review passes."
+  },
+  "limitations": [
+    "The complete automatic transcript was read but not checked word-for-word against original audio; many names and technical terms are ASR-corrupted.",
+    "Twelve 45-second sparse frames are not continuous audio-visual review and cannot align every quotation, speaker or archival image.",
+    "The package contains no bibliography or primary sources for the historical, medical, financial and efficacy claims.",
+    "Dramatized, stock, public and archival clips illustrate the narration but do not independently corroborate it."
+  ]
+}

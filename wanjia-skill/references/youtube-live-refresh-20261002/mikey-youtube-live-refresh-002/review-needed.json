@@ -1,0 +1,120 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-live-refresh-002",
+  "youtube_id": "dpwFz0FpGzU",
+  "review_completed": true,
+  "items": [
+    {
+      "review_id": "lr002-r01",
+      "severity": "blocking",
+      "category": "third_party_sex_work_allegation",
+      "issue": "Mikey repeatedly identifies the absent case woman as a sex worker or habitual money seeker while later admitting there was no conclusive evidence.",
+      "affected_evidence": ["S00047-S00105", "S02127-S02154", "S03807-S03823"],
+      "disposition": "Keep as attributed allegation only; never identify the woman or state occupation, motives or criminal/sexual conduct as fact."
+    },
+    {
+      "review_id": "lr002-r02",
+      "severity": "blocking",
+      "category": "privacy_and_publication_consent",
+      "issue": "The stream exposes extensive private chats, avatars, timestamps, photos, profile details, voice-message controls, location material, a third-party young man's face/video and a sexual encounter narrative.",
+      "affected_evidence": ["sampled frames 000001-000180", "806 dense visual frames across 33 contact sheets", "whole source"],
+      "disposition": "No identifiable text, audio, image or location reuse without explicit privacy, consent and publication review; redact third parties."
+    },
+    {
+      "review_id": "lr002-r03",
+      "severity": "blocking",
+      "category": "speaker_attribution",
+      "issue": "Mikey, the on-set woman, the absent case woman, a separate embedded young man and possible played call/voice messages are not reliably diarized in the automatic transcript. Dense frames confirm the young man as a distinct visual source from about 83:50 to 102:50 but do not map his audio or transcript lines.",
+      "affected_evidence": ["S00001-S04447", "dense visual frames @5030-6170s", "visual/visual-review.json"],
+      "disposition": "Do not attribute the 83:50-102:50 embedded segment or its subtitles to Mikey. Keep all short turns, clip audio and replay passages role-attributed and tentative until continuous audiovisual mapping establishes speaker boundaries."
+    },
+    {
+      "review_id": "lr002-r04",
+      "severity": "blocking",
+      "category": "sexual_consent",
+      "issue": "The private account moves from travel and staying overnight to kissing, touching and intercourse without preserved affirmative, ongoing consent dialogue.",
+      "affected_evidence": ["S02652-S02883"],
+      "disposition": "Do not infer consent from travel, staying over, flirting, touching or later contact. No action advice; affirmative and revocable consent is required throughout."
+    },
+    {
+      "review_id": "lr002-r05",
+      "severity": "blocking",
+      "category": "medical_and_sexual_health",
+      "issue": "The woman reportedly experiences abdominal pain after sex and visits a hospital, but cause, diagnosis, urgency, examination and bill are unverified and mixed with motive speculation.",
+      "affected_evidence": ["S02916-S03012", "S03049-S03588"],
+      "disposition": "Do not diagnose or attribute the pain to anatomy, manipulation or money seeking; prioritize appropriate professional medical assessment."
+    },
+    {
+      "review_id": "lr002-r06",
+      "severity": "blocking",
+      "category": "legal_advice",
+      "issue": "Mikey suggests chat and call records would make a false rape allegation difficult or impossible.",
+      "affected_evidence": ["S03241-S03249"],
+      "disposition": "Do not use as legal assurance; evidence and consent law are jurisdiction-specific and require qualified counsel."
+    },
+    {
+      "review_id": "lr002-r07",
+      "severity": "blocking",
+      "category": "abuse_and_coercive_control",
+      "issue": "Repeated delayed calls, forced waiting, mutual insults, an ultimatum, humiliation and expulsion are framed as abundance, subjectivity or attraction-building.",
+      "affected_evidence": ["S01519-S01825", "S02177-S02515", "S03603-S03746"],
+      "disposition": "Do not generalize or operationalize; require clear scheduling, respectful boundaries, de-escalation and safe departure."
+    },
+    {
+      "review_id": "lr002-r08",
+      "severity": "blocking",
+      "category": "financial_and_identity_information",
+      "issue": "Flight payment, reimbursement, hospital costs and personal identity fields are shown or discussed, with pressure around who pays and who supplies information first.",
+      "affected_evidence": ["S02016-S02480", "S03049-S03588", "sampled frames 000076-000112"],
+      "disposition": "No transaction advice or personal-data reuse; treat both parties' financial and identity claims as unverified."
+    },
+    {
+      "review_id": "lr002-r09",
+      "severity": "major",
+      "category": "deception",
+      "issue": "Mikey suggests viewers repost his luxury-car images to test women's reactions and asks viewers to conceal his cross-platform identity from dates.",
+      "affected_evidence": ["S01000-S01118", "S01909-S01929"],
+      "disposition": "Do not recommend impersonation, deceptive status signaling or strategic identity concealment."
+    },
+    {
+      "review_id": "lr002-r10",
+      "severity": "major",
+      "category": "gender_and_class_generalization",
+      "issue": "The stream generalizes women's motives and attraction from wealth, social class, clinginess, appearance and response to luxury status.",
+      "affected_evidence": ["S00929-S00988", "S01837-S01929", "S03957-S04035"],
+      "disposition": "Keep as Mikey's hypothesis, not a rule about women, wealthy people or individual intent."
+    },
+    {
+      "review_id": "lr002-r11",
+      "severity": "major",
+      "category": "refusal_and_persistence",
+      "issue": "He offers attraction, morality or an existing partner as reasons sex may not occur on a first date, which can invite diagnosis and persistence after refusal.",
+      "affected_evidence": ["S04197-S04219"],
+      "disposition": "Do not infer hidden willingness or recommend persistence; accept refusal or delay without pressure."
+    },
+    {
+      "review_id": "lr002-r12",
+      "severity": "major",
+      "category": "creator_conflict_of_interest",
+      "issue": "Mikey says audience demand can push him to date people he does not like and pursue events for teaching content.",
+      "affected_evidence": ["S02546-S02602"],
+      "disposition": "Preserve only as conflict-of-interest context; it heightens the requirement for informed participant consent and outcome skepticism."
+    },
+    {
+      "review_id": "lr002-r13",
+      "severity": "major",
+      "category": "medical_anecdote",
+      "issue": "Recurring acne is answered with a simple suggestion to eat less spicy food based on Mikey's own experience.",
+      "affected_evidence": ["S04247-S04251"],
+      "disposition": "Do not present as treatment; recommend qualified assessment for persistent or severe acne."
+    },
+    {
+      "review_id": "lr002-r14",
+      "severity": "major",
+      "category": "third_party_claims_and_outcomes",
+      "issue": "Friends, editors, public figures, former partners and the third-party young man visible in the 83:50-102:50 embedded segment are assigned motives, behavior, expertise or outcomes without independent evidence.",
+      "affected_evidence": ["whole source"],
+      "disposition": "Attribute every such claim to Mikey or the displayed source; do not identify private people or treat anecdote as corroboration."
+    }
+  ]
+}

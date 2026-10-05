@@ -1,0 +1,50 @@
+{
+  "schema_version": "mikey-community-post-fulltext-1.0",
+  "source_id": "mikey-youtube-community-088",
+  "post_id": "UgkxLl4lE__3Qj9-br-cmzvjDA47hqW1lTf1",
+  "url": "https://www.youtube.com/post/UgkxLl4lE__3Qj9-br-cmzvjDA47hqW1lTf1",
+  "published_at": "2025-12-12T02:30:00.241072-08:00",
+  "date_basis": "archived_public_observation",
+  "body": "总能听到一些兄弟说\n我的方法只适合在大陆用\n不适合在其他地方\n实际甚至可以用这套方法让外地的女生来大陆找你",
+  "body_kind": "verbatim_or_as_archived_in_corrected_candidate",
+  "image_refs": [
+    {
+      "image_index": 1,
+      "research_archive_path": "research/youtube-community-batch1/images/UgkxLl4lE__3Qj9-br-cmzvjDA47hqW1lTf1/01.jpg",
+      "sha256": "95ee040d21a25a3b155bd87fdc586bd8f23b6ba6630ee0b0b9fa65ea9d990da1",
+      "bytes": 186810,
+      "formal_asset_policy": "reference_only_do_not_copy",
+      "safe_summary": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。"
+    }
+  ],
+  "segments": [
+    {
+      "sid": "C0088-BODY",
+      "kind": "channel_body",
+      "text": "总能听到一些兄弟说\n我的方法只适合在大陆用\n不适合在其他地方\n实际甚至可以用这套方法让外地的女生来大陆找你",
+      "verbatim_allowed": true,
+      "source_scope": "public_channel_body_as_archived"
+    },
+    {
+      "sid": "C0088-IMG01",
+      "kind": "image_reference_metadata",
+      "text": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。",
+      "verbatim_allowed": false,
+      "image_reference": {
+        "image_index": 1,
+        "research_archive_path": "research/youtube-community-batch1/images/UgkxLl4lE__3Qj9-br-cmzvjDA47hqW1lTf1/01.jpg",
+        "sha256": "95ee040d21a25a3b155bd87fdc586bd8f23b6ba6630ee0b0b9fa65ea9d990da1",
+        "bytes": 186810,
+        "formal_asset_policy": "reference_only_do_not_copy",
+        "safe_summary": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。"
+      }
+    }
+  ],
+  "privacy_policy": {
+    "original_images_copied": false,
+    "raw_ocr_copied": false,
+    "private_chat_transcript_copied": false,
+    "third_party_identity_confirmed": false,
+    "publication_authorization_confirmed": false
+  }
+}

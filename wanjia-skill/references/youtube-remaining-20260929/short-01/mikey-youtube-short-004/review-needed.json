@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-004",
+  "youtube_id": "G2NnCHUH0n0",
+  "review_completed": true,
+  "items": [
+    {"review_id": "s004-r01", "severity": "blocking", "category": "attribution", "issue": "All substantive speech is embedded third-party material; identities and original context are not verified.", "affected_evidence": ["whole source"], "disposition": "Do not attribute any statement to Mikey."},
+    {"review_id": "s004-r02", "severity": "blocking", "category": "allegation_and_editing", "issue": "The title and montage imply fraud/staging, but the edited excerpt cannot prove what happened before or after the shown moments.", "affected_evidence": ["S00001-S00022", "sampled frames 000001-000013"], "disposition": "Do not repeat accusations as fact or use the clip as evidence of misconduct."},
+    {"review_id": "s004-r03", "severity": "major", "category": "privacy_and_sexualized_footage", "issue": "The couch footage shows identifiable people in intimate positioning; consent to recording/publication is unknown.", "affected_evidence": ["sampled frames 000002-000010"], "disposition": "Do not reuse identifiable imagery or infer consent, intent, or relationship."}
+  ]
+}

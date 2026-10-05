@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-006",
+  "youtube_id": "mFQnUFGEFEY",
+  "decision": "new",
+  "compared_sources": [
+    {
+      "scope": "formal_mikey_guide",
+      "source_count": 202,
+      "comparison": "youtube_id, URL, normalized full-transcript SHA-256 and 12-character shingle screening across every transcript referenced by source-index.json"
+    }
+  ],
+  "evidence": [
+    {
+      "type": "identity",
+      "result": "no_exact_formal_youtube_id_or_url_overlap",
+      "basis": "The current 202-source formal source-index contains neither mFQnUFGEFEY nor its YouTube URL."
+    },
+    {
+      "type": "normalized_fulltext",
+      "target_segments": 609,
+      "target_time_range_seconds": [0.0, 852.53],
+      "target_normalized_chars": 5100,
+      "target_normalized_sha256": "f13f4e3e5baa6d794b1af3e36c35f5b7bc7fcb06b8e4d4ddffac720b2727c3d2",
+      "formal_transcripts_checked": 202,
+      "exact_matches": [],
+      "maximum_12_character_shingle_overlaps": [
+        {
+          "source_id": "mikey-gameshengjing-010",
+          "shared_shingles": 2,
+          "target_shingles": 1697,
+          "target_coverage": 0.001179
+        },
+        {
+          "source_id": "mikey-sijiao-018",
+          "shared_shingles": 1,
+          "target_shingles": 1697,
+          "target_coverage": 0.000589
+        }
+      ]
+    },
+    {
+      "type": "distinctive_phrase_screening",
+      "queries": [
+        "道德和吸引力本来就是两回事",
+        "自我是满足所有强的底层基础",
+        "把自己活成一个等待别人打分的人",
+        "女人没有喜欢你你的自我也不应该跟着消失",
+        "先尊重自己再尊重他人"
+      ],
+      "result": "No phrase chain or whole-program reuse was found. The final principle 先尊重自己再尊重他人 is already present in formal source quark-live-026, so that proposition is cross-source corroboration rather than novel knowledge."
+    },
+    {
+      "type": "visual_screening",
+      "result": "new_edit_no_whole_source_visual_match_established",
+      "basis": "Reviewed all 19 sampled JPGs and all 170 added five-second dense frames. The upload is a distinct narrated montage containing social posts, news cards, animation, film clips, street and bar footage, historical images and custom title cards. Recurring stock or illustrative assets do not show whole-video duplication."
+    }
+  ],
+  "boundary": "This upload is new as a whole source relative to the 202 formal sources, but several ideas substantially overlap existing Mikey material. New-source status does not validate the third-party allegations, cultural claims, racial or gender generalizations, or embedded screenshots."
+}

@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-027",
+  "youtube_id": "PuvtjUuI6Co",
+  "title": "人有时候会欺负你，一定是你示弱了",
+  "coverage": {
+    "transcript_segments_read": 117,
+    "transcript_time_range_seconds": [0.0, 177.56],
+    "semantic_media_range_seconds": [0.0, 149.234649],
+    "sampled_frames_reviewed": 50,
+    "continuous_original_audio_visual_review": false,
+    "excluded_asr_tail": "S00090 crosses the audited 149.234649-second endpoint; S00091-S00117 are wholly beyond it. S00090-S00117 are excluded from claims and timeline evidence."
+  },
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 21.92,
+      "summary": "He uses a dog-biting metaphor and physical punishment to argue that people bully someone after detecting weakness."
+    },
+    {
+      "start": 21.92,
+      "end": 61.0,
+      "summary": "He applies the idea to dates, first treating eye-contact avoidance as weakness, then describing directly asking about disengagement and ending a date when communication is poor."
+    },
+    {
+      "start": 61.0,
+      "end": 85.72,
+      "summary": "He says willingness to lose the interaction is necessary for boundaries and links neediness to placing women too centrally in life."
+    },
+    {
+      "start": 85.72,
+      "end": 120.86,
+      "summary": "He urges attention to other enjoyable parts of life rather than fixation on messages, love or failed dates, and claims fearlessness makes success easier."
+    },
+    {
+      "start": 120.86,
+      "end": 149.234649,
+      "summary": "He repeats that one must risk losing a date to say 'you should go home' when uncomfortable, then claims fear of loss leads to ongoing disrespect."
+    }
+  ],
+  "claims": [
+    {
+      "claim_id": "s027-c01",
+      "speaker": "Mikey",
+      "statement": "He uses physically punishing a dog as a metaphor for stopping disrespect early and claims people bully someone only after sensing weakness.",
+      "conditions": "Unsupported universal claim and violent animal analogy; it must not be literalized or generalized.",
+      "evidence": ["S00001-S00015@0.00-26.40"],
+      "use_level": "do_not_generalize"
+    },
+    {
+      "claim_id": "s027-c02",
+      "speaker": "Mikey",
+      "statement": "On a disengaged date, he describes asking whether the other person is unhappy and, if communication remains poor, saying the date should end.",
+      "conditions": "Ending an interaction is acceptable when done calmly and safely; it does not prove the other person is disrespectful or manipulative.",
+      "evidence": ["S00022-S00037@35.24-61.00"],
+      "use_level": "hold"
+    },
+    {
+      "claim_id": "s027-c03",
+      "speaker": "Mikey",
+      "statement": "He links neediness to placing women too centrally in life and recommends maintaining other enjoyable experiences so one is less consumed by messages or failed dates.",
+      "conditions": "A broad self-regulation framing, not proof that detachment causes romantic success.",
+      "evidence": ["S00038-S00067@61.00-120.86"],
+      "use_level": "hold"
+    },
+    {
+      "claim_id": "s027-c04",
+      "speaker": "Mikey",
+      "statement": "He says fear of losing a woman prevents a man from voicing discomfort or ending a date and then claims this invites continuing disrespect.",
+      "conditions": "The boundary-setting portion must be separated from the unsupported claim that fear necessarily causes another person's disrespect.",
+      "evidence": ["S00068-S00089@120.86-149.06"],
+      "use_level": "hold"
+    }
+  ],
+  "speaker_attribution": [
+    {
+      "speaker": "Mikey",
+      "basis": "One visible channel host speaks throughout, and the wording matches formal mikey-youtube-live-010."
+    }
+  ],
+  "visual_findings": [
+    "All 50 sampled frames show the same black-shirt speaker in one purple-lit livestream setup with added subtitles and a stream overlay.",
+    "No dog, date partner, live interaction or independent evidence of disrespect or outcome is shown."
+  ],
+  "permissions": {
+    "formal_integration": false,
+    "first_person_allowed": false,
+    "action_advice_allowed": false,
+    "use_level": "reuse_zero_weight",
+    "reason": "Edited excerpts of formal mikey-youtube-live-010; violent metaphor and unsupported causal generalizations require restriction."
+  },
+  "limitations": [
+    "Automatic ASR continues about 28.33 seconds beyond the audited media endpoint.",
+    "The edit combines separated livestream passages and shows none of the described interactions."
+  ]
+}

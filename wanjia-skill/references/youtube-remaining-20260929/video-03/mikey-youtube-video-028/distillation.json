@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-028",
+  "youtube_id": "suYJ3bMCxJc",
+  "title": "拥有这5个转场技巧，你也能像我一样轻松带女生转场回家",
+  "coverage": {
+    "transcript_segments_read": 218,
+    "transcript_time_range_seconds": [1.1, 760.76],
+    "sparse_frames_reviewed": 17,
+    "dense_frames_reviewed": 38,
+    "dense_windows_required_seconds": [],
+    "dense_review_paths": ["visual/dense-consent-650-725/manifest.json"],
+    "continuous_original_audio_visual_review": false
+  },
+  "timeline": [
+    {"start": 1.1, "end": 37.86, "summary": "A cold-open shows a woman saying that going to someone's home on a first meeting feels inappropriate while a man continues asking her to go."},
+    {"start": 37.86, "end": 166.86, "summary": "Mikey presents the first transition point: fear of refusal often reflects fear of a negative label, while another person's short judgment should not determine one's full self-worth."},
+    {"start": 166.86, "end": 291.86, "summary": "He argues that visible hesitation lowers attraction and safety, using his own claimed change from fear of rejection to direct action."},
+    {"start": 291.86, "end": 386.86, "summary": "The second point favors firm wording and directives over permission-seeking questions, which he describes as uncertain and unattractive."},
+    {"start": 386.86, "end": 467.86, "summary": "The third point says to ask why after refusal, identify the objection, propose a solution and sometimes state sexual intent while saying nothing must happen."},
+    {"start": 467.86, "end": 542.42, "summary": "The fourth point uses humor to reframe private-space concerns, including marriage, pretending to be gay and the cat-backflip joke."},
+    {"start": 542.42, "end": 631.66, "summary": "The fifth and highest-priority point is attraction; Mikey says techniques cannot compensate for its absence and links the framework to his paid teaching."},
+    {"start": 631.66, "end": 661.66, "summary": "He claims he can bring women to hotels because of attraction, then introduces a practical demonstration."},
+    {"start": 661.66, "end": 716.54, "summary": "In the restaurant sequence, the woman repeatedly says going to another person's home on a first meeting is not good; the man asks for the reason, reframes the visit as feeding and seeing a dog, and she eventually says it is okay for that limited purpose."},
+    {"start": 716.54, "end": 749.03, "summary": "The edited sequence becomes visually and verbally unclear. It does not show arrival at a home, later sexual consent or the claimed outcome. The ASR timestamps continue past the 749.03-second media duration and cannot supply exact source times for the tail."}
+  ],
+  "claims": [
+    {"claim_id": "v028-c01", "speaker": "Mikey", "statement": "A date's refusal or negative impression after a short interaction does not determine a person's entire value.", "conditions": "Supports emotional stability only; it must not be used to discount the refusal itself or avoid responsibility for conduct.", "evidence": ["S00013-S00076@37.86-166.86"], "use_level": "context_only", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v028-c02", "speaker": "Mikey", "statement": "He tells men to accept sexual desire without treating desire itself as shameful.", "conditions": "Desire is not permission; expression must be lawful, age-appropriate, respectful and accepted by the other person.", "evidence": ["S00030-S00038@92.86-105.86", "S00097-S00108@243.86-267.86"], "use_level": "hold", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v028-c03", "speaker": "Mikey", "statement": "He claims hesitation and anxiety lower attraction and make the other person feel unsafe, while directness increases the chance of yes.", "conditions": "Unverified causal claim; confidence can coexist with asking, waiting and accepting no, and directness can also feel unsafe.", "evidence": ["S00077-S00137@166.86-291.86"], "use_level": "hold", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v028-c04", "speaker": "Mikey", "statement": "For transition proposals he recommends firm directive wording such as 'go' rather than uncertain permission-seeking language.", "conditions": "High consent risk when applied to private spaces; clear invitations must still leave an easy, pressure-free way to decline.", "evidence": ["S00138-S00177@291.86-386.86"], "use_level": "do_not_generalize", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v028-c05", "speaker": "Mikey", "statement": "After a no, he asks why, identifies the concern and tries to propose a solution rather than immediately ending the topic.", "conditions": "Clarification is acceptable only once and without pressure; a clear no or repeated reluctance should end the proposal rather than become an obstacle to solve.", "evidence": ["S00178-S00197@386.86-482.86"], "use_level": "do_not_generalize", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v028-c06", "speaker": "Mikey", "statement": "He gives a transparent formulation that he wants sex but says nothing needs to happen if the woman does not want it.", "conditions": "The verbal opt-out is better than concealment, but context, pressure, intoxication, destination and later behavior still determine whether consent is free and ongoing.", "evidence": ["S00189-S00197@441.86-482.86"], "use_level": "hold", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v028-c07", "speaker": "Mikey", "statement": "He recommends jokes and playful distortions to overcome a woman's private-space concern or anti-slut-defense response.", "conditions": "Humor must not be used to erase a stated concern, disguise destination or pressure compliance; sexual reputation is not the decision standard.", "evidence": ["S00198-S00200@482.86-571.66"], "use_level": "do_not_generalize", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v028-c08", "speaker": "Mikey", "statement": "He says attraction is more important than all four preceding tactics and claims most failed transitions reflect insufficient attraction rather than wording.", "conditions": "Unfalsified catch-all explanation that ignores safety, preference, logistics and a person's independent choice.", "evidence": ["S00200-S00204@542.42-695.98"], "use_level": "hold", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v028-c09", "speaker": "Mikey in the demonstration", "statement": "After the woman says going to someone's home on a first meeting feels wrong, he reframes the destination as only feeding and seeing a dog; she says that limited purpose is okay.", "conditions": "Her assent is limited by the stated purpose and does not imply agreement to sex or any further act; the edit does not establish arrival or outcome.", "evidence": ["S00201-S00210@571.66-731.59", "visual/dense-consent-650-725/000023.jpg", "visual/dense-consent-650-725/000027.jpg", "visual/dense-consent-650-725/000028.jpg"], "use_level": "do_not_generalize", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v028-c10", "speaker": "Mikey", "statement": "He presents claimed hotel and private-space success as evidence that attraction and his teaching work.", "conditions": "Self-report and sales context without sample definition, failures, independent outcome evidence or complete consent chronology.", "evidence": ["S00201-S00204@571.66-695.98", "sampled frames 000012-000015"], "use_level": "do_not_generalize", "knowledge_status": "hold_pending_independent_review"}
+  ],
+  "examples": [
+    {"example_id": "v028-e01", "summary": "The restaurant demonstration preserves the woman's explicit first-meeting concern, the man's repeated request and a later limited okay framed around feeding and seeing a dog.", "evidence": ["S00204-S00210@661.66-731.59", "visual/dense-consent-650-725/manifest.json"]},
+    {"example_id": "v028-e02", "summary": "Marriage, gay and cat-backflip jokes are offered as ways to reduce tension around going home, but humor cannot replace a direct answer to the person's safety concern.", "evidence": ["S00198-S00200@482.86-542.42"]},
+    {"example_id": "v028-e03", "summary": "A hotel example is used to claim attraction overcomes location objections, but only Mikey's narration supports the result.", "evidence": ["S00201-S00204@571.66-661.66"]}
+  ],
+  "speaker_attribution": [
+    {"speaker": "Mikey", "basis": "Self-identified studio instructor; likely the male voice in the final demonstration, but the hidden-camera angle does not continuously show his face or mouth."},
+    {"speaker": "woman in restaurant demonstration", "basis": "Blurred seated woman whose subtitles and ASR include repeated reluctance, a first-meeting concern and later limited agreement to feed or see a dog."},
+    {"speaker": "other restaurant patrons", "basis": "Visible in the background; no statement is attributed to them."}
+  ],
+  "visual_findings": [
+    "All 17 sparse frames and 38 targeted dense frames from 650-725 seconds were reviewed. The teaching section is a single studio host; the final sequence is a low-angle restaurant recording with the woman's face blurred.",
+    "The dense stills visibly preserve the woman's concern that going to someone's home on a first meeting is not good, followed by the man's feeding-dog explanation and her limited '还OK吧我只是去喂个食啊' response.",
+    "Near the end of the dense window, people shift and the camera angle changes toward the exit, but stills do not prove who left, where they went, arrival at a home or any intimate outcome.",
+    "The footage is edited and subtitles are part of the creator's presentation; targeted stills do not substitute for continuous audio, full conversation or consent outside the shown window."
+  ],
+  "permissions": {"formal_integration": false, "first_person_allowed": false, "action_advice_allowed": false, "knowledge_status": "hold_pending_independent_review", "reason": "Core method encourages persistence and firm directives after reluctance, uses private-space and sexual framing, and presents incomplete edited consent evidence."},
+  "limitations": [
+    "Automatic transcript was not checked word-for-word, and the final 30 seconds contain severe ASR corruption; its final timestamp overshoots the 749.03-second media duration by 11.73 seconds.",
+    "The demonstration is discontinuous and does not show the complete interaction, destination or outcome.",
+    "A limited agreement to see or feed a dog is not consent to sex, touching, staying or any other act.",
+    "Attraction, confidence or humor do not override refusal, hesitation, safety needs or the right to change one's mind.",
+    "Self-reported success and paid-course promotion are not independent evidence of effectiveness or safety."
+  ]
+}

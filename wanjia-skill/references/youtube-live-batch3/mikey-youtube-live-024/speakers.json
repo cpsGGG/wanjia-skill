@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "source_id": "mikey-youtube-live-024",
+  "speakers": [
+    {
+      "id": "mikey",
+      "role": "host",
+      "status": "confirmed",
+      "identity_basis": "搭讪玩家TV直播75由Mikey主持，完整稿为主持人连续答疑；开场明确说明相机失焦。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=-yPQ13M6jX8&t=37s"
+      ],
+      "notes": "观众问题由主持人朗读，问题经历不归给Mikey。"
+    },
+    {
+      "id": "viewer-question-01",
+      "role": "collective live-chat question author(s)",
+      "status": "collective_placeholder",
+      "identity_basis": "多名直播观众问题由主持人转述。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=-yPQ13M6jX8&t=192s"
+      ],
+      "notes": "集合占位符。"
+    }
+  ]
+}

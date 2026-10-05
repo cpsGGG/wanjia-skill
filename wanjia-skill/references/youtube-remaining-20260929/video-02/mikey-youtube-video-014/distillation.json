@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-014",
+  "youtube_id": "NRaAhclf_nY",
+  "title": "出场两天即封杀！独立男性们该何去何从？",
+  "coverage": {
+    "transcript_segments_read": 585,
+    "transcript_time_range_seconds": [0.0, 743.06],
+    "sparse_frames_reviewed": 17,
+    "dense_frames_reviewed": 0,
+    "dense_windows_required_seconds": [[0, 75], [360, 480]],
+    "continuous_original_audio_visual_review": false
+  },
+  "timeline": [
+    {"start": 0.0, "end": 75.52, "summary": "Mikey says a meme/identity label for independent men spread rapidly and was then limited or removed across platforms within days."},
+    {"start": 78.86, "end": 181.87, "summary": "He traces the label as a male counterpart to an existing women's in-group term, then criticizes some online self-presentation as ordinary responsibility framed as exceptional independence."},
+    {"start": 181.87, "end": 237.74, "summary": "He argues that masculine norms discourage men from seeking support and interprets the trend as an attempt to build a shared vocabulary."},
+    {"start": 237.74, "end": 366.19, "summary": "A three-stage account moves from lack of a male group term, to construction of a supportive label, to alleged platform removal."},
+    {"start": 374.43, "end": 500.59, "summary": "He denies intending gender conflict and argues that male-directed derogatory terms remained available while the new, milder term was handled quickly."},
+    {"start": 500.59, "end": 601.64, "summary": "Using debate and duty-roster analogies, he claims platforms defend an entrenched allocation of who may describe hardship or independence."},
+    {"start": 601.64, "end": 696.40, "summary": "He says removal transformed a light meme into a broader dispute about voice, while ordinary male users mainly wanted to say they were tired yet still trying."},
+    {"start": 696.40, "end": 743.06, "summary": "He concludes that normal, restrained self-expression should not be presumed offensive based on the speaker's gender."}
+  ],
+  "claims": [
+    {"claim_id": "v014-c01", "speaker": "Mikey", "statement": "He says the named male identity term went from invention to widespread use and platform suppression within less than a week, with a key removal on July 9.", "conditions": "Time-sensitive platform-history claim; exact term, dates, search behavior and enforcement notices require external verification.", "evidence": ["S00001-S00057@0.0-68.72"], "use_level": "hold", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v014-c02", "speaker": "Mikey", "statement": "He interprets the term as a constructive, humorous way for men to acknowledge independence, work and emotional strain without attacking women.", "conditions": "Describes his interpretation of the trend; individual posts may vary and the sampled montage is incomplete.", "evidence": ["S00159-S00175@207.77-232.97", "S00256-S00285@328.60-356.62"], "use_level": "context_only", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v014-c03", "speaker": "Mikey", "statement": "He argues that masculine norms against vulnerability leave men with little shared language or support for discussing hardship.", "conditions": "Broad social observation that may vary by group and context.", "evidence": ["S00144-S00158@189.73-207.77", "S00196-S00218@259.82-286.82"], "use_level": "context_only", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v014-c04", "speaker": "Mikey", "statement": "He claims platform moderation treated this mild male term more quickly and harshly than derogatory terms directed at men or more conflictual content.", "conditions": "Comparative enforcement claim without a defined sample, policy records or controlled observation.", "evidence": ["S00344-S00400@417.95-485.61"], "use_level": "hold", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v014-c05", "speaker": "Mikey", "statement": "He interprets the moderation difference as protection of an entrenched rule about which group may claim hardship, independence or vulnerability.", "conditions": "Hidden institutional motive and structural causation are inferred, not established by the edited examples.", "evidence": ["S00431-S00458@524.27-562.93"], "use_level": "hold", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v014-c06", "speaker": "Mikey", "statement": "He says suppression can amplify a minor trend by turning it into a public dispute about who is allowed to speak.", "conditions": "Plausible rhetorical mechanism, but reach and causal effect are not measured here.", "evidence": ["S00484-S00507@597.21-634.86"], "use_level": "context_only", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v014-c07", "speaker": "Mikey", "statement": "Healthy public discussion should allow people of either gender to express difficulty without being presumed guilty at the moment they speak.", "conditions": "General fairness principle; it does not exempt any specific post from content rules or criticism.", "evidence": ["S00550-S00581@696.40-739.16"], "use_level": "context_only", "knowledge_status": "hold_pending_independent_review"}
+  ],
+  "examples": [
+    {"example_id": "v014-e01", "summary": "The debate analogy describes a contest where one side may speak and the other is called for a foul whenever it responds.", "evidence": ["S00413-S00430@502.39-524.27"]},
+    {"example_id": "v014-e02", "summary": "The duty-roster analogy describes beneficiaries resisting even a polite suggestion to swap long-standing roles.", "evidence": ["S00459-S00483@562.93-597.21"]}
+  ],
+  "speaker_attribution": [
+    {"speaker": "Mikey", "basis": "Single narrator with closing self-identification as Mike."},
+    {"speaker": "social-media users and commenters", "basis": "Shown in edited screenshots or described by Mikey; exact authorship, context and chronology are not established."},
+    {"speaker": "platforms", "basis": "No platform representative speaks; policy motives and actions are inferred by Mikey from observed availability and removals."},
+    {"speaker": "film, anime and public-video figures", "basis": "Illustrative editing inserts, not independent evidence speakers."}
+  ],
+  "visual_findings": [
+    "All 17 sampled frames were reviewed. The video is a montage of memes, a blurred public clip, chat/social screenshots, workplace footage, film/anime inserts and title cards.",
+    "Frames 000001, 000003, 000014 and 000016 contain small or partially obscured third-party text and faces; sparse samples do not preserve complete post chronology or moderation notices.",
+    "Targeted dense review at 0-75 and 360-480 seconds is required before relying on visual material for the exact term, publication dates, removal sequence or comparative enforcement claim."
+  ],
+  "permissions": {
+    "formal_integration": false,
+    "first_person_allowed": false,
+    "action_advice_allowed": false,
+    "knowledge_status": "hold_pending_independent_review",
+    "reason": "New research candidate with time-sensitive platform claims, edited third-party posts, uncertain key-term ASR and broad institutional/gender inferences."
+  },
+  "limitations": [
+    "Automatic transcript was not checked word-for-word; the key label is repeatedly recognized as '帅' or 'XX' and must be confirmed from audio/on-screen text.",
+    "Seventeen sparse frames do not equal continuous full-video audio-visual verification.",
+    "The platform-removal chronology, moderation reasons and comparison set were not independently verified.",
+    "The montage cannot establish representativeness of either male or female posts and must not be used as a population sample."
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "status": "ADOPTED_CONSTRUCTION_RECORD_CLARIFICATION_NO_NEW_AUDIO_VISUAL_CERTIFICATION",
+  "source_id": "mikey-youtube-live-017",
+  "source_object_sha256": "d85d6c5ba4c91f542c42e4dd69c9f1c560edc1b6268cf882edf5c469b8757219",
+  "historical_inventory_group_retained": "full_audio_with_limited_visual_evidence",
+  "visual_derivative_type": "static_frame_vfr_timeline_not_continuous_motion",
+  "declared_input_frames": 2693,
+  "declared_input_max_width_pixels": 512,
+  "historical_filename_label": "full-720p-evidence",
+  "filename_does_not_certify_original_resolution": true,
+  "construction_note_as_stored": "For source 017 the validated file may be the VFR timeline rebuilt from all 2,693 existing 512px candidate frames and the copied full AAC audio; it is a sparse review timeline, not continuous motion.",
+  "encoding_note_as_stored": "Full audio is a lossless bitstream copy of source AAC in M4A. Ordinary visual evidence is 720p HEVC NVENC CQ31 with 48 kbps mono Opus. The 017 game timeline was rebuilt from all 2,693 existing 512px candidate frames as VFR HEVC and muxed with copied full AAC; it preserves the sparse frame timeline, not continuous motion. Visual proxies are review derivatives, not lossless masters.",
+  "current_proxy_hash_matches_registered_asset": true,
+  "proxy_sha256": "150c331a5f89b921a9208dbc25136eb781533751b1684e60bd1333a06ba5c453",
+  "production_provenance": {
+    "project_relative_manifest": "research/youtube-live-batch2/delete-readiness/evidence-pack-manifest.json",
+    "manifest_sha256": "99af5635e2625bed2a5974ed71b47fa97895be297b1607031e4663981543cb01",
+    "required_external_runtime_dependency": false
+  },
+  "limits": [
+    "构建记录的静帧时序只能支持保存画面与时间位置，不填补帧间游戏动作、转场或嘴型。",
+    "正常完整原音的可用性另按原音记录判断，不能把静帧代理当成完整连续视频。",
+    "本次只核构建记录及保存代理SHA，没有连续播放、听校、声纹核验或新许可。"
+  ]
+}

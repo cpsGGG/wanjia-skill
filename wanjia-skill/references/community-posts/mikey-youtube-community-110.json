@@ -1,0 +1,50 @@
+{
+  "schema_version": "mikey-community-post-fulltext-1.0",
+  "source_id": "mikey-youtube-community-110",
+  "post_id": "UgkxEnH1wi0mNjIedwqy-B-UjfISm8u6QSZD",
+  "url": "https://www.youtube.com/post/UgkxEnH1wi0mNjIedwqy-B-UjfISm8u6QSZD",
+  "published_at": "2026-02-10T02:00:00.280562-08:00",
+  "date_basis": "archived_public_observation",
+  "body": "贩卖焦虑是生意 找回自我才是教育\n\ngame的底层逻辑不是为了获取某种评价 而是找回本该属于你的主体性",
+  "body_kind": "verbatim_or_as_archived_in_corrected_candidate",
+  "image_refs": [
+    {
+      "image_index": 1,
+      "research_archive_path": "research/youtube-community-batch1/images/UgkxEnH1wi0mNjIedwqy-B-UjfISm8u6QSZD/01.jpg",
+      "sha256": "72a8a4cc5abbc8eae85782631f340d7da38581dc925bd3de1b2b042c17549949",
+      "bytes": 210262,
+      "formal_asset_policy": "reference_only_do_not_copy",
+      "safe_summary": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。"
+    }
+  ],
+  "segments": [
+    {
+      "sid": "C0110-BODY",
+      "kind": "channel_body",
+      "text": "贩卖焦虑是生意 找回自我才是教育\n\ngame的底层逻辑不是为了获取某种评价 而是找回本该属于你的主体性",
+      "verbatim_allowed": true,
+      "source_scope": "public_channel_body_as_archived"
+    },
+    {
+      "sid": "C0110-IMG01",
+      "kind": "image_reference_metadata",
+      "text": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。",
+      "verbatim_allowed": false,
+      "image_reference": {
+        "image_index": 1,
+        "research_archive_path": "research/youtube-community-batch1/images/UgkxEnH1wi0mNjIedwqy-B-UjfISm8u6QSZD/01.jpg",
+        "sha256": "72a8a4cc5abbc8eae85782631f340d7da38581dc925bd3de1b2b042c17549949",
+        "bytes": 210262,
+        "formal_asset_policy": "reference_only_do_not_copy",
+        "safe_summary": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。"
+      }
+    }
+  ],
+  "privacy_policy": {
+    "original_images_copied": false,
+    "raw_ocr_copied": false,
+    "private_chat_transcript_copied": false,
+    "third_party_identity_confirmed": false,
+    "publication_authorization_confirmed": false
+  }
+}

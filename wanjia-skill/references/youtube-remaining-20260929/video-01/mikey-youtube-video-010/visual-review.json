@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-010",
+  "reviewed": true,
+  "sparse_frames": 21,
+  "dense_frames": 80,
+  "dense_windows_seconds": [[200, 300], [410, 560], [620, 690], [770, 850]],
+  "findings": [
+    "Mikey is the sole verified speaking presenter in the reviewed frames.",
+    "Chat screenshots are edited cards with blurred identities and incomplete continuity.",
+    "The dense windows cover the main on-screen teaching evidence: immigration discussion, coaching exchanges, travel/hotel planning and male-friend videos.",
+    "Film and animation inserts illustrate claims but are not evidence for the case."
+  ],
+  "boundary": "Targeted visual review verifies the edit's visible sequence, not the underlying participants, omitted messages, motives, consent or outcome."
+}

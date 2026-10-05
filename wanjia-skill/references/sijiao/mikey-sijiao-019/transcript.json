@@ -1,0 +1,1919 @@
+{
+  "schema_version": 1,
+  "source_id": "mikey-sijiao-019",
+  "title": "女人拒絕出門，如何外賣到家丨20s的語音，讓你區別其他男人丨線上聊天案例講解丨自我提升丨約會丨搭訕丨",
+  "status": "automatic_unreviewed",
+  "speaker": "not_diarized",
+  "layer": "asr_automatic_citation_view",
+  "notice": "由完整自动稿确定性生成；未人工听校、未区分说话人，不作为准确逐字引语。",
+  "segment_id_policy": "S编号按当前原始自动稿顺序从S00001起；原始自动稿SHA256变化即为另一版本。",
+  "source_revision": "sha256:8d138111ad352148b0c6b9b5c4eccfc2100f2290e5f2d205240955dc9ab9a9a2",
+  "transcript_revision": "sha256:21442de69c75acf68d77999c6bc4b1df698187ebb75a0b8d5d4e3c3f59f7b993",
+  "input_transcript_sha256": "21442de69c75acf68d77999c6bc4b1df698187ebb75a0b8d5d4e3c3f59f7b993",
+  "source": {
+    "kind": "local_file",
+    "local_path": "D:\\startup\\玩家.skill\\sijiao\\女人拒絕出門，如何外賣到家丨20s的語音，讓你區別其他男人丨線上聊天案例講解丨自我提升丨約會丨搭訕丨.mp4",
+    "size_bytes": 408968551,
+    "sha256": "8d138111ad352148b0c6b9b5c4eccfc2100f2290e5f2d205240955dc9ab9a9a2",
+    "start_seconds": 0
+  },
+  "model": "large-v3-turbo",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.14,
+      "text": "约不出来的女人我们该怎么操作",
+      "avg_logprob": -0.15696747532608557,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00001"
+    },
+    {
+      "start": 2.14,
+      "end": 3.52,
+      "text": "哈喽 孙女们 我是Mike",
+      "avg_logprob": -0.15696747532608557,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00002"
+    },
+    {
+      "start": 3.52,
+      "end": 4.72,
+      "text": "我现在在巴黎",
+      "avg_logprob": -0.15696747532608557,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00003"
+    },
+    {
+      "start": 4.72,
+      "end": 6.88,
+      "text": "那么今天给大家带来的案例呢",
+      "avg_logprob": -0.15696747532608557,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00004"
+    },
+    {
+      "start": 6.88,
+      "end": 8.34,
+      "text": "是约不出来的女人",
+      "avg_logprob": -0.15696747532608557,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00005"
+    },
+    {
+      "start": 8.34,
+      "end": 10.5,
+      "text": "我们该如何通过辱骂",
+      "avg_logprob": -0.15696747532608557,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00006"
+    },
+    {
+      "start": 10.5,
+      "end": 11.88,
+      "text": "把她外卖到家",
+      "avg_logprob": -0.15696747532608557,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00007"
+    },
+    {
+      "start": 11.88,
+      "end": 14.06,
+      "text": "当然这里的辱骂是家引号的",
+      "avg_logprob": -0.15696747532608557,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00008"
+    },
+    {
+      "start": 14.06,
+      "end": 16.14,
+      "text": "我先说明一下这个案例时间线",
+      "avg_logprob": -0.15696747532608557,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00009"
+    },
+    {
+      "start": 16.14,
+      "end": 17.84,
+      "text": "9月26号呢 凌晨",
+      "avg_logprob": -0.15696747532608557,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00010"
+    },
+    {
+      "start": 17.84,
+      "end": 20.16,
+      "text": "我看到女生发了一组非常性感",
+      "avg_logprob": -0.15696747532608557,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00011"
+    },
+    {
+      "start": 20.16,
+      "end": 21.28,
+      "text": "非常有气质的朋友圈",
+      "avg_logprob": -0.15696747532608557,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00012"
+    },
+    {
+      "start": 21.28,
+      "end": 22.48,
+      "text": "我觉得非常好看",
+      "avg_logprob": -0.15696747532608557,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00013"
+    },
+    {
+      "start": 22.48,
+      "end": 23.82,
+      "text": "于是果断吸引了她",
+      "avg_logprob": -0.15696747532608557,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00014"
+    },
+    {
+      "start": 23.82,
+      "end": 26.82,
+      "text": "那么这期间我和她进行了多次聊天博弈",
+      "avg_logprob": -0.15696747532608557,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00015"
+    },
+    {
+      "start": 26.82,
+      "end": 27.94,
+      "text": "女生段位也很高",
+      "avg_logprob": -0.15696747532608557,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00016"
+    },
+    {
+      "start": 27.94,
+      "end": 28.86,
+      "text": "拒不退后",
+      "avg_logprob": -0.15696747532608557,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00017"
+    },
+    {
+      "start": 28.86,
+      "end": 30.56,
+      "text": "加上那段时间我也很忙",
+      "avg_logprob": -0.10913944940770691,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00018"
+    },
+    {
+      "start": 30.56,
+      "end": 31.5,
+      "text": "没有时间聊天",
+      "avg_logprob": -0.10913944940770691,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00019"
+    },
+    {
+      "start": 31.5,
+      "end": 32.9,
+      "text": "直到10月12号",
+      "avg_logprob": -0.10913944940770691,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00020"
+    },
+    {
+      "start": 32.9,
+      "end": 34.2,
+      "text": "我才将它外卖到家",
+      "avg_logprob": -0.10913944940770691,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00021"
+    },
+    {
+      "start": 34.2,
+      "end": 35.9,
+      "text": "那么今天主要案例呢",
+      "avg_logprob": -0.10913944940770691,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00022"
+    },
+    {
+      "start": 35.9,
+      "end": 36.74,
+      "text": "就是想告诉兄弟们",
+      "avg_logprob": -0.10913944940770691,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00023"
+    },
+    {
+      "start": 36.74,
+      "end": 38.52,
+      "text": "我们在对待那些摇摆不定的女人",
+      "avg_logprob": -0.10913944940770691,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00024"
+    },
+    {
+      "start": 38.52,
+      "end": 40.08,
+      "text": "我们该用什么样的操法",
+      "avg_logprob": -0.10913944940770691,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00025"
+    },
+    {
+      "start": 40.08,
+      "end": 42.22,
+      "text": "去获取我们想要的价值",
+      "avg_logprob": -0.10913944940770691,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00026"
+    },
+    {
+      "start": 42.22,
+      "end": 43.64,
+      "text": "9月26号凌晨",
+      "avg_logprob": -0.10913944940770691,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00027"
+    },
+    {
+      "start": 43.64,
+      "end": 45.62,
+      "text": "我看到她25号发的朋友圈",
+      "avg_logprob": -0.10913944940770691,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00028"
+    },
+    {
+      "start": 45.62,
+      "end": 46.96,
+      "text": "我觉得非常不错",
+      "avg_logprob": -0.10913944940770691,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00029"
+    },
+    {
+      "start": 46.96,
+      "end": 48.28,
+      "text": "于是果断开了私聊",
+      "avg_logprob": -0.10913944940770691,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00030"
+    },
+    {
+      "start": 48.28,
+      "end": 50.02,
+      "text": "因为我不太有时间闲聊",
+      "avg_logprob": -0.10913944940770691,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00031"
+    },
+    {
+      "start": 50.02,
+      "end": 51.56,
+      "text": "所以说我一般是邀约洗手",
+      "avg_logprob": -0.10913944940770691,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00032"
+    },
+    {
+      "start": 51.56,
+      "end": 53.36,
+      "text": "那么很多人可能会担心",
+      "avg_logprob": -0.10913944940770691,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00033"
+    },
+    {
+      "start": 53.36,
+      "end": 55.1,
+      "text": "我这么操作会不会太突兀了",
+      "avg_logprob": -0.10913944940770691,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00034"
+    },
+    {
+      "start": 55.1,
+      "end": 56.32,
+      "text": "会不会让女人觉得冒冷",
+      "avg_logprob": -0.10913944940770691,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00035"
+    },
+    {
+      "start": 56.32,
+      "end": 57.7,
+      "text": "会不会有问题",
+      "avg_logprob": -0.10913944940770691,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00036"
+    },
+    {
+      "start": 57.7,
+      "end": 60.56,
+      "text": "但我觉得这种担忧本身是一种稀缺心态",
+      "avg_logprob": -0.1035459869266174,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00037"
+    },
+    {
+      "start": 60.56,
+      "end": 62.64,
+      "text": "我们需要先搞清楚妹子的调性",
+      "avg_logprob": -0.1035459869266174,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00038"
+    },
+    {
+      "start": 62.64,
+      "end": 64.52,
+      "text": "遇到问题解决问题就好",
+      "avg_logprob": -0.1035459869266174,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00039"
+    },
+    {
+      "start": 64.52,
+      "end": 66.5,
+      "text": "那么女生回哪呢",
+      "avg_logprob": -0.1035459869266174,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00040"
+    },
+    {
+      "start": 66.5,
+      "end": 68.0,
+      "text": "那么今天晚点",
+      "avg_logprob": -0.1035459869266174,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00041"
+    },
+    {
+      "start": 68.0,
+      "end": 70.6,
+      "text": "那么这里我们可以摸清楚这个女生的调性",
+      "avg_logprob": -0.1035459869266174,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00042"
+    },
+    {
+      "start": 70.6,
+      "end": 72.02,
+      "text": "她其实是一个非常闲的一个重要",
+      "avg_logprob": -0.1035459869266174,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00043"
+    },
+    {
+      "start": 72.02,
+      "end": 73.4,
+      "text": "当下没有事情干",
+      "avg_logprob": -0.1035459869266174,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00044"
+    },
+    {
+      "start": 73.4,
+      "end": 76.16,
+      "text": "但是手头可能有点点事情",
+      "avg_logprob": -0.1035459869266174,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00045"
+    },
+    {
+      "start": 76.16,
+      "end": 77.44,
+      "text": "那么对于这种女生呢",
+      "avg_logprob": -0.1035459869266174,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00046"
+    },
+    {
+      "start": 77.44,
+      "end": 79.98,
+      "text": "我的直觉是她大概率晚上会放鸽子",
+      "avg_logprob": -0.1035459869266174,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00047"
+    },
+    {
+      "start": 79.98,
+      "end": 81.36,
+      "text": "因为以我的过往经验",
+      "avg_logprob": -0.1035459869266174,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00048"
+    },
+    {
+      "start": 81.36,
+      "end": 83.14,
+      "text": "这个女人一定是百无聊赖的",
+      "avg_logprob": -0.1035459869266174,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00049"
+    },
+    {
+      "start": 83.14,
+      "end": 84.48,
+      "text": "但凡她今天如果有事情",
+      "avg_logprob": -0.1035459869266174,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00050"
+    },
+    {
+      "start": 84.48,
+      "end": 86.06,
+      "text": "比如她的闺蜜约她出来吃饭",
+      "avg_logprob": -0.1035459869266174,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00051"
+    },
+    {
+      "start": 86.06,
+      "end": 87.26,
+      "text": "那么她一定会割我",
+      "avg_logprob": -0.1035459869266174,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00052"
+    },
+    {
+      "start": 87.26,
+      "end": 89.2,
+      "text": "其实这里可以电话操作",
+      "avg_logprob": -0.10731907718275722,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00053"
+    },
+    {
+      "start": 89.2,
+      "end": 90.82,
+      "text": "因为电话邀约",
+      "avg_logprob": -0.10731907718275722,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00054"
+    },
+    {
+      "start": 90.82,
+      "end": 92.12,
+      "text": "女人的确定性会更强",
+      "avg_logprob": -0.10731907718275722,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00055"
+    },
+    {
+      "start": 92.12,
+      "end": 93.56,
+      "text": "女生会更有安全感",
+      "avg_logprob": -0.10731907718275722,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00056"
+    },
+    {
+      "start": 93.56,
+      "end": 94.94,
+      "text": "但是我当时比较忙",
+      "avg_logprob": -0.10731907718275722,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00057"
+    },
+    {
+      "start": 94.94,
+      "end": 96.74,
+      "text": "我在陪我的另外一个女生",
+      "avg_logprob": -0.10731907718275722,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00058"
+    },
+    {
+      "start": 96.74,
+      "end": 98.68,
+      "text": "所以说不太方便跟她打电话",
+      "avg_logprob": -0.10731907718275722,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00059"
+    },
+    {
+      "start": 98.68,
+      "end": 99.76,
+      "text": "所以到了晚上",
+      "avg_logprob": -0.10731907718275722,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00060"
+    },
+    {
+      "start": 99.76,
+      "end": 101.14,
+      "text": "女生问我明天咋说",
+      "avg_logprob": -0.10731907718275722,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00061"
+    },
+    {
+      "start": 101.14,
+      "end": 103.06,
+      "text": "我觉得她今晚大概率会有事",
+      "avg_logprob": -0.10731907718275722,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00062"
+    },
+    {
+      "start": 103.06,
+      "end": 103.7,
+      "text": "不太想见",
+      "avg_logprob": -0.10731907718275722,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00063"
+    },
+    {
+      "start": 103.7,
+      "end": 105.14,
+      "text": "于是我便跟她讲",
+      "avg_logprob": -0.10731907718275722,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00064"
+    },
+    {
+      "start": 105.14,
+      "end": 105.98,
+      "text": "我说明天看",
+      "avg_logprob": -0.10731907718275722,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00065"
+    },
+    {
+      "start": 105.98,
+      "end": 107.82,
+      "text": "那么第二天我忙完后",
+      "avg_logprob": -0.10731907718275722,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00066"
+    },
+    {
+      "start": 107.82,
+      "end": 109.16,
+      "text": "我给她发位置",
+      "avg_logprob": -0.10731907718275722,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00067"
+    },
+    {
+      "start": 109.16,
+      "end": 109.92,
+      "text": "她说太远了",
+      "avg_logprob": -0.10731907718275722,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00068"
+    },
+    {
+      "start": 109.92,
+      "end": 110.52,
+      "text": "不太想来",
+      "avg_logprob": -0.10731907718275722,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00069"
+    },
+    {
+      "start": 110.52,
+      "end": 111.84,
+      "text": "我便回复算了",
+      "avg_logprob": -0.10731907718275722,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00070"
+    },
+    {
+      "start": 111.84,
+      "end": 112.42,
+      "text": "推开她",
+      "avg_logprob": -0.10731907718275722,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00071"
+    },
+    {
+      "start": 112.42,
+      "end": 114.16,
+      "text": "当女人给我们IOD的时候",
+      "avg_logprob": -0.10731907718275722,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00072"
+    },
+    {
+      "start": 114.16,
+      "end": 116.66,
+      "text": "我们也要以IOD回击",
+      "avg_logprob": -0.10731907718275722,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00073"
+    },
+    {
+      "start": 116.66,
+      "end": 118.58,
+      "text": "就是IOD就是无兴趣指标的意思",
+      "avg_logprob": -0.11941964129860304,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00074"
+    },
+    {
+      "start": 118.58,
+      "end": 120.2,
+      "text": "如果你不回忆IOD",
+      "avg_logprob": -0.11941964129860304,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00075"
+    },
+    {
+      "start": 120.2,
+      "end": 122.66,
+      "text": "那么女人很有可能骑在你脸上输出",
+      "avg_logprob": -0.11941964129860304,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00076"
+    },
+    {
+      "start": 122.66,
+      "end": 123.38,
+      "text": "不把你当人",
+      "avg_logprob": -0.11941964129860304,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00077"
+    },
+    {
+      "start": 123.38,
+      "end": 124.22,
+      "text": "不尊重你",
+      "avg_logprob": -0.11941964129860304,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00078"
+    },
+    {
+      "start": 124.22,
+      "end": 125.76,
+      "text": "那么9月27号",
+      "avg_logprob": -0.11941964129860304,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00079"
+    },
+    {
+      "start": 125.76,
+      "end": 126.82,
+      "text": "女生主动联系我",
+      "avg_logprob": -0.11941964129860304,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00080"
+    },
+    {
+      "start": 126.82,
+      "end": 127.46,
+      "text": "问我在干嘛",
+      "avg_logprob": -0.11941964129860304,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00081"
+    },
+    {
+      "start": 127.46,
+      "end": 129.48,
+      "text": "我回我家和我的朋友聊天",
+      "avg_logprob": -0.11941964129860304,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00082"
+    },
+    {
+      "start": 129.48,
+      "end": 131.66,
+      "text": "那么这里女人她没有回",
+      "avg_logprob": -0.11941964129860304,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00083"
+    },
+    {
+      "start": 131.66,
+      "end": 133.92,
+      "text": "后来我把她拿下后我才了解到",
+      "avg_logprob": -0.11941964129860304,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00084"
+    },
+    {
+      "start": 133.92,
+      "end": 135.28,
+      "text": "就是她以为我当时",
+      "avg_logprob": -0.11941964129860304,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00085"
+    },
+    {
+      "start": 135.28,
+      "end": 136.98,
+      "text": "是在跟我的约会对象约会",
+      "avg_logprob": -0.11941964129860304,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00086"
+    },
+    {
+      "start": 136.98,
+      "end": 138.22,
+      "text": "所以说她没有来找我",
+      "avg_logprob": -0.11941964129860304,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00087"
+    },
+    {
+      "start": 138.22,
+      "end": 139.82,
+      "text": "那么10月5号呢",
+      "avg_logprob": -0.11941964129860304,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00088"
+    },
+    {
+      "start": 139.82,
+      "end": 140.98,
+      "text": "我说你来我家吧",
+      "avg_logprob": -0.11941964129860304,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00089"
+    },
+    {
+      "start": 140.98,
+      "end": 141.7,
+      "text": "她说干嘛",
+      "avg_logprob": -0.11941964129860304,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00090"
+    },
+    {
+      "start": 141.7,
+      "end": 143.4,
+      "text": "这里我突然又不想",
+      "avg_logprob": -0.11941964129860304,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00091"
+    },
+    {
+      "start": 143.4,
+      "end": 144.54,
+      "text": "于是说算了",
+      "avg_logprob": -0.11941964129860304,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00092"
+    },
+    {
+      "start": 144.54,
+      "end": 145.96,
+      "text": "那么女人回了一个问号",
+      "avg_logprob": -0.11941964129860304,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00093"
+    },
+    {
+      "start": 145.96,
+      "end": 147.38,
+      "text": "但是这些都不重要",
+      "avg_logprob": -0.15790851339281603,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00094"
+    },
+    {
+      "start": 147.38,
+      "end": 148.98,
+      "text": "因为此刻已经有吸引了",
+      "avg_logprob": -0.15790851339281603,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00095"
+    },
+    {
+      "start": 148.98,
+      "end": 150.88,
+      "text": "他已经开始对他面前的这个男人",
+      "avg_logprob": -0.15790851339281603,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00096"
+    },
+    {
+      "start": 150.88,
+      "end": 151.72,
+      "text": "感觉好奇了",
+      "avg_logprob": -0.15790851339281603,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00097"
+    },
+    {
+      "start": 151.72,
+      "end": 153.64,
+      "text": "10月9号",
+      "avg_logprob": -0.15790851339281603,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00098"
+    },
+    {
+      "start": 153.64,
+      "end": 155.16,
+      "text": "我再次约他和下午茶",
+      "avg_logprob": -0.15790851339281603,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00099"
+    },
+    {
+      "start": 155.16,
+      "end": 156.22,
+      "text": "他问哪",
+      "avg_logprob": -0.15790851339281603,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00100"
+    },
+    {
+      "start": 156.22,
+      "end": 158.28,
+      "text": "我给他发了和上次相同的位置",
+      "avg_logprob": -0.15790851339281603,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00101"
+    },
+    {
+      "start": 158.28,
+      "end": 159.5,
+      "text": "他又说了一次约",
+      "avg_logprob": -0.15790851339281603,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00102"
+    },
+    {
+      "start": 159.5,
+      "end": 161.8,
+      "text": "那么这里我直接表明了不良感受",
+      "avg_logprob": -0.15790851339281603,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00103"
+    },
+    {
+      "start": 161.8,
+      "end": 162.66,
+      "text": "推了他一下",
+      "avg_logprob": -0.15790851339281603,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00104"
+    },
+    {
+      "start": 162.66,
+      "end": 163.8,
+      "text": "我说你是真多",
+      "avg_logprob": -0.15790851339281603,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00105"
+    },
+    {
+      "start": 163.8,
+      "end": 165.32,
+      "text": "这里是一定要推一下",
+      "avg_logprob": -0.15790851339281603,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00106"
+    },
+    {
+      "start": 165.32,
+      "end": 168.16,
+      "text": "因为此时此刻他已经有点不尊重你了",
+      "avg_logprob": -0.15790851339281603,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00107"
+    },
+    {
+      "start": 168.16,
+      "end": 168.9,
+      "text": "女生这里回了",
+      "avg_logprob": -0.15790851339281603,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00108"
+    },
+    {
+      "start": 168.9,
+      "end": 170.3,
+      "text": "但是这不重要",
+      "avg_logprob": -0.15790851339281603,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00109"
+    },
+    {
+      "start": 170.3,
+      "end": 171.76,
+      "text": "因为这不是差反应",
+      "avg_logprob": -0.15790851339281603,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00110"
+    },
+    {
+      "start": 171.76,
+      "end": 172.98,
+      "text": "如果没有吸引的话",
+      "avg_logprob": -0.15790851339281603,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00111"
+    },
+    {
+      "start": 172.98,
+      "end": 174.88,
+      "text": "很多女人可能在这里已经开始骂人了",
+      "avg_logprob": -0.15790851339281603,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00112"
+    },
+    {
+      "start": 174.88,
+      "end": 176.6,
+      "text": "后面过了几天之后我没有再找她",
+      "avg_logprob": -0.13245916561265686,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00113"
+    },
+    {
+      "start": 176.6,
+      "end": 178.76,
+      "text": "因为那几天我在带线下课忙于交付",
+      "avg_logprob": -0.13245916561265686,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00114"
+    },
+    {
+      "start": 178.76,
+      "end": 180.36,
+      "text": "没有太强的聊天欲望",
+      "avg_logprob": -0.13245916561265686,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00115"
+    },
+    {
+      "start": 180.36,
+      "end": 182.08,
+      "text": "那么10月12号呢",
+      "avg_logprob": -0.13245916561265686,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00116"
+    },
+    {
+      "start": 182.08,
+      "end": 183.06,
+      "text": "我的线下课带完了",
+      "avg_logprob": -0.13245916561265686,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00117"
+    },
+    {
+      "start": 183.06,
+      "end": 184.56,
+      "text": "我给她发消息说睡了没",
+      "avg_logprob": -0.13245916561265686,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00118"
+    },
+    {
+      "start": 184.56,
+      "end": 186.0,
+      "text": "这里女生直接来了一句",
+      "avg_logprob": -0.13245916561265686,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00119"
+    },
+    {
+      "start": 186.0,
+      "end": 187.16,
+      "text": "远 懒",
+      "avg_logprob": -0.13245916561265686,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00120"
+    },
+    {
+      "start": 187.16,
+      "end": 190.32,
+      "text": "那么这里你们一定会觉得这个回复非常的糟糕",
+      "avg_logprob": -0.13245916561265686,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00121"
+    },
+    {
+      "start": 190.32,
+      "end": 191.66,
+      "text": "但是我并不会惯着她",
+      "avg_logprob": -0.13245916561265686,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00122"
+    },
+    {
+      "start": 191.66,
+      "end": 192.7,
+      "text": "我说你好游",
+      "avg_logprob": -0.13245916561265686,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00123"
+    },
+    {
+      "start": 192.7,
+      "end": 194.92,
+      "text": "然后女生说你除了让我找你",
+      "avg_logprob": -0.13245916561265686,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00124"
+    },
+    {
+      "start": 194.92,
+      "end": 196.06,
+      "text": "你还会有什么事呢",
+      "avg_logprob": -0.13245916561265686,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00125"
+    },
+    {
+      "start": 196.06,
+      "end": 197.86,
+      "text": "意思是我不找她聊天",
+      "avg_logprob": -0.13245916561265686,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00126"
+    },
+    {
+      "start": 197.86,
+      "end": 199.08,
+      "text": "就只知道约她",
+      "avg_logprob": -0.13245916561265686,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00127"
+    },
+    {
+      "start": 199.08,
+      "end": 201.58,
+      "text": "那么这里其实她的顾虑我是可以理解的",
+      "avg_logprob": -0.13245916561265686,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00128"
+    },
+    {
+      "start": 201.58,
+      "end": 203.54,
+      "text": "但是因为我确实不太想聊天",
+      "avg_logprob": -0.13245916561265686,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00129"
+    },
+    {
+      "start": 203.54,
+      "end": 204.96,
+      "text": "去帮她建立安全感",
+      "avg_logprob": -0.14045515615978968,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00130"
+    },
+    {
+      "start": 204.96,
+      "end": 205.76,
+      "text": "去替她合理化",
+      "avg_logprob": -0.14045515615978968,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00131"
+    },
+    {
+      "start": 205.76,
+      "end": 208.26,
+      "text": "因为我觉得这个跟女人聊天",
+      "avg_logprob": -0.14045515615978968,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00132"
+    },
+    {
+      "start": 208.26,
+      "end": 209.72,
+      "text": "是很浪费我时间的一件事情",
+      "avg_logprob": -0.14045515615978968,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00133"
+    },
+    {
+      "start": 209.72,
+      "end": 211.66,
+      "text": "但是我希望屏幕前的兄弟们",
+      "avg_logprob": -0.14045515615978968,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00134"
+    },
+    {
+      "start": 211.66,
+      "end": 214.54,
+      "text": "你们前期要多跟女生聊几句",
+      "avg_logprob": -0.14045515615978968,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00135"
+    },
+    {
+      "start": 214.54,
+      "end": 215.54,
+      "text": "建立一下安全感",
+      "avg_logprob": -0.14045515615978968,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00136"
+    },
+    {
+      "start": 215.54,
+      "end": 216.94,
+      "text": "否则你们将会面临",
+      "avg_logprob": -0.14045515615978968,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00137"
+    },
+    {
+      "start": 216.94,
+      "end": 218.82,
+      "text": "跟我一样的这样的一个直端情况",
+      "avg_logprob": -0.14045515615978968,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00138"
+    },
+    {
+      "start": 218.82,
+      "end": 220.32,
+      "text": "这里我是这么处理的",
+      "avg_logprob": -0.14045515615978968,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00139"
+    },
+    {
+      "start": 220.32,
+      "end": 221.08,
+      "text": "我开始骂她",
+      "avg_logprob": -0.14045515615978968,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00140"
+    },
+    {
+      "start": 221.08,
+      "end": 222.02,
+      "text": "给你们听一次",
+      "avg_logprob": -0.14045515615978968,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00141"
+    },
+    {
+      "start": 222.02,
+      "end": 227.44,
+      "text": "什么叫",
+      "avg_logprob": -0.14045515615978968,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00142"
+    },
+    {
+      "start": 227.44,
+      "end": 244.02,
+      "text": "OK 我这里我跟她说",
+      "avg_logprob": -0.14045515615978968,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00143"
+    },
+    {
+      "start": 244.02,
+      "end": 244.96,
+      "text": "我觉得你很油",
+      "avg_logprob": -0.14045515615978968,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00144"
+    },
+    {
+      "start": 244.96,
+      "end": 247.1,
+      "text": "你难道一定是要",
+      "avg_logprob": -0.14045515615978968,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00145"
+    },
+    {
+      "start": 247.1,
+      "end": 248.38,
+      "text": "非要我去接你才行吗",
+      "avg_logprob": -0.14045515615978968,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00146"
+    },
+    {
+      "start": 248.38,
+      "end": 249.54,
+      "text": "那么这里你们是不是觉得",
+      "avg_logprob": -0.14045515615978968,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00147"
+    },
+    {
+      "start": 249.54,
+      "end": 250.26,
+      "text": "已经彻底废了",
+      "avg_logprob": -0.14045515615978968,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00148"
+    },
+    {
+      "start": 250.26,
+      "end": 250.82,
+      "text": "就不回来了",
+      "avg_logprob": -0.14045515615978968,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00149"
+    },
+    {
+      "start": 250.82,
+      "end": 253.18,
+      "text": "你们的过往经验告诉你们",
+      "avg_logprob": -0.11541781751490429,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00150"
+    },
+    {
+      "start": 253.18,
+      "end": 254.8,
+      "text": "是不是这么跟女人说话",
+      "avg_logprob": -0.11541781751490429,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00151"
+    },
+    {
+      "start": 254.8,
+      "end": 255.94,
+      "text": "你们已经死了",
+      "avg_logprob": -0.11541781751490429,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00152"
+    },
+    {
+      "start": 255.94,
+      "end": 257.14,
+      "text": "那我们可以看看后面",
+      "avg_logprob": -0.11541781751490429,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00153"
+    },
+    {
+      "start": 257.14,
+      "end": 258.62,
+      "text": "那么女人说我没有男人",
+      "avg_logprob": -0.11541781751490429,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00154"
+    },
+    {
+      "start": 258.62,
+      "end": 259.8,
+      "text": "别骂我等等等等",
+      "avg_logprob": -0.11541781751490429,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00155"
+    },
+    {
+      "start": 259.8,
+      "end": 260.58,
+      "text": "说了很多",
+      "avg_logprob": -0.11541781751490429,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00156"
+    },
+    {
+      "start": 260.58,
+      "end": 262.96,
+      "text": "但是并没有跟我产生互骂的一个情况",
+      "avg_logprob": -0.11541781751490429,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00157"
+    },
+    {
+      "start": 262.96,
+      "end": 264.82,
+      "text": "我说那你好好说话",
+      "avg_logprob": -0.11541781751490429,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00158"
+    },
+    {
+      "start": 264.82,
+      "end": 265.96,
+      "text": "因为这里她软",
+      "avg_logprob": -0.11541781751490429,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00159"
+    },
+    {
+      "start": 265.96,
+      "end": 266.94,
+      "text": "那我们也要软",
+      "avg_logprob": -0.11541781751490429,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00160"
+    },
+    {
+      "start": 266.94,
+      "end": 267.86,
+      "text": "她说那重来",
+      "avg_logprob": -0.11541781751490429,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00161"
+    },
+    {
+      "start": 267.86,
+      "end": 269.66,
+      "text": "那么你们是不是很惊讶",
+      "avg_logprob": -0.11541781751490429,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00162"
+    },
+    {
+      "start": 269.66,
+      "end": 270.3,
+      "text": "为什么会这样",
+      "avg_logprob": -0.11541781751490429,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00163"
+    },
+    {
+      "start": 270.3,
+      "end": 271.5,
+      "text": "因为有吸引",
+      "avg_logprob": -0.11541781751490429,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00164"
+    },
+    {
+      "start": 271.5,
+      "end": 272.74,
+      "text": "你的冒犯在她眼里",
+      "avg_logprob": -0.11541781751490429,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00165"
+    },
+    {
+      "start": 272.74,
+      "end": 274.52,
+      "text": "更多的是矫正她的错误",
+      "avg_logprob": -0.11541781751490429,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00166"
+    },
+    {
+      "start": 274.52,
+      "end": 277.04,
+      "text": "你在她的心中是一名强者",
+      "avg_logprob": -0.11541781751490429,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00167"
+    },
+    {
+      "start": 277.04,
+      "end": 279.36,
+      "text": "所以说她会更愿意对你进行服从",
+      "avg_logprob": -0.11541781751490429,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00168"
+    },
+    {
+      "start": 279.36,
+      "end": 280.9,
+      "text": "她会更加的尊重你",
+      "avg_logprob": -0.107954544400928,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00169"
+    },
+    {
+      "start": 280.9,
+      "end": 282.76,
+      "text": "即便你真的在冒犯她",
+      "avg_logprob": -0.107954544400928,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00170"
+    },
+    {
+      "start": 282.76,
+      "end": 285.7,
+      "text": "她也会自动美化你对她的冒犯",
+      "avg_logprob": -0.107954544400928,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00171"
+    },
+    {
+      "start": 285.7,
+      "end": 287.68,
+      "text": "那么这里女人已经开始乖了",
+      "avg_logprob": -0.107954544400928,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00172"
+    },
+    {
+      "start": 287.68,
+      "end": 288.7,
+      "text": "她开始好好讲话",
+      "avg_logprob": -0.107954544400928,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00173"
+    },
+    {
+      "start": 288.7,
+      "end": 290.46,
+      "text": "那我们也可以好好说话",
+      "avg_logprob": -0.107954544400928,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00174"
+    },
+    {
+      "start": 290.46,
+      "end": 292.92,
+      "text": "否则会显得我们太不近人情",
+      "avg_logprob": -0.107954544400928,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00175"
+    },
+    {
+      "start": 292.92,
+      "end": 294.1,
+      "text": "我说我们出来散步",
+      "avg_logprob": -0.107954544400928,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00176"
+    },
+    {
+      "start": 294.1,
+      "end": 295.32,
+      "text": "她说去哪里散",
+      "avg_logprob": -0.107954544400928,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00177"
+    },
+    {
+      "start": 295.32,
+      "end": 297.32,
+      "text": "我直接给她发了我家的位置",
+      "avg_logprob": -0.107954544400928,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00178"
+    },
+    {
+      "start": 297.32,
+      "end": 298.78,
+      "text": "她说她晕车不太喜欢跑",
+      "avg_logprob": -0.107954544400928,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00179"
+    },
+    {
+      "start": 298.78,
+      "end": 300.14,
+      "text": "这里她其实在解释",
+      "avg_logprob": -0.107954544400928,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00180"
+    },
+    {
+      "start": 300.14,
+      "end": 301.68,
+      "text": "她之前拒绝我的一个行为",
+      "avg_logprob": -0.107954544400928,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00181"
+    },
+    {
+      "start": 301.68,
+      "end": 303.06,
+      "text": "所以说不用管",
+      "avg_logprob": -0.107954544400928,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00182"
+    },
+    {
+      "start": 303.06,
+      "end": 305.46,
+      "text": "我说我可以给你叫一辆不晕的车",
+      "avg_logprob": -0.107954544400928,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00183"
+    },
+    {
+      "start": 305.46,
+      "end": 306.58,
+      "text": "给她进了台阶下",
+      "avg_logprob": -0.107954544400928,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00184"
+    },
+    {
+      "start": 306.58,
+      "end": 308.02,
+      "text": "那么后面女生说",
+      "avg_logprob": -0.107954544400928,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00185"
+    },
+    {
+      "start": 308.02,
+      "end": 309.04,
+      "text": "让我要不要去她家",
+      "avg_logprob": -0.107954544400928,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00186"
+    },
+    {
+      "start": 309.04,
+      "end": 309.56,
+      "text": "我说不用",
+      "avg_logprob": -0.10738357963661353,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00187"
+    },
+    {
+      "start": 309.56,
+      "end": 311.16,
+      "text": "我依然选择让她来我家",
+      "avg_logprob": -0.10738357963661353,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00188"
+    },
+    {
+      "start": 311.16,
+      "end": 313.18,
+      "text": "因为在女人的舒适虚作战",
+      "avg_logprob": -0.10738357963661353,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00189"
+    },
+    {
+      "start": 313.18,
+      "end": 314.66,
+      "text": "其实对我们来讲是不利的",
+      "avg_logprob": -0.10738357963661353,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00190"
+    },
+    {
+      "start": 314.66,
+      "end": 315.56,
+      "text": "如果你操作不好",
+      "avg_logprob": -0.10738357963661353,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00191"
+    },
+    {
+      "start": 315.56,
+      "end": 316.44,
+      "text": "反而会掉吸引",
+      "avg_logprob": -0.10738357963661353,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00192"
+    },
+    {
+      "start": 316.44,
+      "end": 318.42,
+      "text": "那么这里我让女生",
+      "avg_logprob": -0.10738357963661353,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00193"
+    },
+    {
+      "start": 318.42,
+      "end": 319.72,
+      "text": "把她的手机号发给我",
+      "avg_logprob": -0.10738357963661353,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00194"
+    },
+    {
+      "start": 319.72,
+      "end": 321.32,
+      "text": "这其实是一种小技巧",
+      "avg_logprob": -0.10738357963661353,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00195"
+    },
+    {
+      "start": 321.32,
+      "end": 322.58,
+      "text": "可以锁定邀约",
+      "avg_logprob": -0.10738357963661353,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00196"
+    },
+    {
+      "start": 322.58,
+      "end": 324.54,
+      "text": "那么女生如果不太想见你的话",
+      "avg_logprob": -0.10738357963661353,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00197"
+    },
+    {
+      "start": 324.54,
+      "end": 325.86,
+      "text": "她或者会随你的话",
+      "avg_logprob": -0.10738357963661353,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00198"
+    },
+    {
+      "start": 325.86,
+      "end": 327.3,
+      "text": "她是不会把电话发过来的",
+      "avg_logprob": -0.10738357963661353,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00199"
+    },
+    {
+      "start": 327.3,
+      "end": 329.14,
+      "text": "因为这是一个比较隐私的信息",
+      "avg_logprob": -0.10738357963661353,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00200"
+    },
+    {
+      "start": 329.14,
+      "end": 331.26,
+      "text": "因为司机到了之后会给她打电话",
+      "avg_logprob": -0.10738357963661353,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00201"
+    },
+    {
+      "start": 331.26,
+      "end": 333.42,
+      "text": "10月12号法国时间",
+      "avg_logprob": -0.10738357963661353,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00202"
+    },
+    {
+      "start": 333.42,
+      "end": 334.82,
+      "text": "晚上7点11分",
+      "avg_logprob": -0.10738357963661353,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00203"
+    },
+    {
+      "start": 334.82,
+      "end": 335.96,
+      "text": "女生到我家楼下",
+      "avg_logprob": -0.10738357963661353,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00204"
+    },
+    {
+      "start": 335.96,
+      "end": 338.7,
+      "text": "其实当时已经是中国时间的凌晨2点",
+      "avg_logprob": -0.10738357963661353,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00205"
+    },
+    {
+      "start": 338.7,
+      "end": 340.74,
+      "text": "但是因为我现在在法国",
+      "avg_logprob": -0.11706348922517565,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00206"
+    },
+    {
+      "start": 340.74,
+      "end": 342.5,
+      "text": "所以说我的截图聊天记录显示",
+      "avg_logprob": -0.11706348922517565,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00207"
+    },
+    {
+      "start": 342.5,
+      "end": 344.02,
+      "text": "是晚上7点11分",
+      "avg_logprob": -0.11706348922517565,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00208"
+    },
+    {
+      "start": 344.02,
+      "end": 346.36,
+      "text": "当天晚上女人来到我家后",
+      "avg_logprob": -0.11706348922517565,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00209"
+    },
+    {
+      "start": 346.36,
+      "end": 347.46,
+      "text": "便没有再回去",
+      "avg_logprob": -0.11706348922517565,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00210"
+    },
+    {
+      "start": 347.46,
+      "end": 348.84,
+      "text": "一觉醒来之后把她赶走",
+      "avg_logprob": -0.11706348922517565,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00211"
+    },
+    {
+      "start": 348.84,
+      "end": 350.74,
+      "text": "后面她依然主动联系我",
+      "avg_logprob": -0.11706348922517565,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00212"
+    },
+    {
+      "start": 350.74,
+      "end": 353.0,
+      "text": "但我对她起起也没有什么感觉",
+      "avg_logprob": -0.11706348922517565,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00213"
+    },
+    {
+      "start": 353.0,
+      "end": 354.0,
+      "text": "所以说我并不热情",
+      "avg_logprob": -0.11706348922517565,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00214"
+    },
+    {
+      "start": 354.0,
+      "end": 356.36,
+      "text": "那么看完这期案例之后呢",
+      "avg_logprob": -0.11706348922517565,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00215"
+    },
+    {
+      "start": 356.36,
+      "end": 358.08,
+      "text": "我希望兄弟们今后实战",
+      "avg_logprob": -0.11706348922517565,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00216"
+    },
+    {
+      "start": 358.08,
+      "end": 359.76,
+      "text": "都能有自己的态度",
+      "avg_logprob": -0.11706348922517565,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00217"
+    },
+    {
+      "start": 359.76,
+      "end": 361.22,
+      "text": "做一个有血有肉",
+      "avg_logprob": -0.11706348922517565,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00218"
+    },
+    {
+      "start": 361.22,
+      "end": 362.22,
+      "text": "有灵魂的人",
+      "avg_logprob": -0.11706348922517565,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00219"
+    },
+    {
+      "start": 362.22,
+      "end": 364.1,
+      "text": "而不是做一个被下半身",
+      "avg_logprob": -0.11706348922517565,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00220"
+    },
+    {
+      "start": 364.1,
+      "end": 365.36,
+      "text": "控制大脑的动物",
+      "avg_logprob": -0.11706348922517565,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00221"
+    },
+    {
+      "start": 365.36,
+      "end": 367.02,
+      "text": "人之所以是人",
+      "avg_logprob": -0.11706348922517565,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00222"
+    },
+    {
+      "start": 367.02,
+      "end": 368.14,
+      "text": "因为人有思想",
+      "avg_logprob": -0.11706348922517565,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00223"
+    },
+    {
+      "start": 368.14,
+      "end": 369.4,
+      "text": "人有灵魂",
+      "avg_logprob": -0.19066455054886733,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00224"
+    },
+    {
+      "start": 369.4,
+      "end": 370.26,
+      "text": "人有标准",
+      "avg_logprob": -0.19066455054886733,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00225"
+    },
+    {
+      "start": 370.26,
+      "end": 372.76,
+      "text": "站着把眉和跪着把眉都是把眉",
+      "avg_logprob": -0.19066455054886733,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00226"
+    },
+    {
+      "start": 372.76,
+      "end": 373.98,
+      "text": "也都能把刀眉",
+      "avg_logprob": -0.19066455054886733,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00227"
+    },
+    {
+      "start": 373.98,
+      "end": 375.46,
+      "text": "但是我永远选择站你",
+      "avg_logprob": -0.19066455054886733,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00228"
+    },
+    {
+      "start": 375.46,
+      "end": 377.86,
+      "text": "如果委屈求全能让我得到信",
+      "avg_logprob": -0.19066455054886733,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00229"
+    },
+    {
+      "start": 377.86,
+      "end": 378.82,
+      "text": "那我宁愿不要",
+      "avg_logprob": -0.19066455054886733,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00230"
+    },
+    {
+      "start": 378.82,
+      "end": 381.22,
+      "text": "欲可遂而不可改其白",
+      "avg_logprob": -0.19066455054886733,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00231"
+    },
+    {
+      "start": 381.22,
+      "end": 383.32,
+      "text": "苦可焚而不可毁其劫",
+      "avg_logprob": -0.19066455054886733,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00232"
+    },
+    {
+      "start": 383.32,
+      "end": 384.9,
+      "text": "这里是大家玩家DV",
+      "avg_logprob": -0.19066455054886733,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00233"
+    },
+    {
+      "start": 384.9,
+      "end": 385.6,
+      "text": "我是Mike",
+      "avg_logprob": -0.19066455054886733,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00234"
+    },
+    {
+      "start": 385.6,
+      "end": 388.26,
+      "text": "我高兴能在浪漫美丽的巴黎",
+      "avg_logprob": -0.19066455054886733,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00235"
+    },
+    {
+      "start": 388.26,
+      "end": 389.68,
+      "text": "有些日本增长度加厉",
+      "avg_logprob": -0.19066455054886733,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00236"
+    },
+    {
+      "start": 389.68,
+      "end": 391.46,
+      "text": "我们下期再见",
+      "avg_logprob": -0.19066455054886733,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00237"
+    }
+  ]
+}

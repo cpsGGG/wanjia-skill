@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-011",
+  "youtube_id": "kKNgwMlrzk8",
+  "decision": "reuse",
+  "formal_weight_if_integrated": 0,
+  "compared_sources": [
+    {
+      "scope": "formal_mikey_guide",
+      "source_count": 202,
+      "comparison": "id/url, normalized transcript, phrase and semantic screen"
+    },
+    {
+      "scope": "remaining_video_batches_01_05_and_short_01",
+      "source_count": 55,
+      "comparison": "normalized transcript and semantic screen"
+    },
+    {
+      "source_id": "jvFRTgH_4cE",
+      "comparison": "same availability/body-contact lesson"
+    },
+    {
+      "source_id": "mikey-youtube-video-007",
+      "comparison": "same current remaining-video source; matching availability section around 718-873s"
+    }
+  ],
+  "evidence": [
+    {
+      "type": "identity",
+      "result": "no_exact_id_or_url_match"
+    },
+    {
+      "type": "content",
+      "result": "same_lesson_excerpt",
+      "basis": "The Short repeats the long lesson that body contact is a situational signal of availability: it may reassure a less-confident date and may be unnecessary with a confident date."
+    },
+    {
+      "type": "visual",
+      "result": "single_host_excerpt",
+      "basis": "All 19 sampled frames show one striped-shirt speaker with editorial subtitles; no separate case footage."
+    }
+  ],
+  "boundary": "Reuse the existing long-form body-contact/availability source. Do not count this Short as independent support."
+}

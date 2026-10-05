@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-024",
+  "youtube_id": "d8xHM4XCRQw",
+  "review_completed": true,
+  "items": [
+    {
+      "review_id": "s024-r01",
+      "severity": "major",
+      "category": "source_reuse",
+      "issue": "The complete passage is excerpted from formal mikey-youtube-live-024 at 1172.70-1288.52 seconds.",
+      "affected_evidence": ["whole source"],
+      "disposition": "Keep formal weight at zero and use the parent source for any future context."
+    },
+    {
+      "review_id": "s024-r02",
+      "severity": "major",
+      "category": "unsupported_causality",
+      "issue": "The clip attributes romantic outcomes to upbringing, environment and strong or weak behavioral cues without evidence for a specific person.",
+      "affected_evidence": ["S00010-S00023", "S00039-S00063"],
+      "disposition": "Keep as Mikey's explanatory model, not a verified causal diagnosis."
+    },
+    {
+      "review_id": "s024-r03",
+      "severity": "major",
+      "category": "demeaning_language",
+      "issue": "The closing uses insulting labels for appearance and weakness.",
+      "affected_evidence": ["S00043-S00063"],
+      "disposition": "Do not reproduce the insults as advice or use them as measures of a person's worth."
+    },
+    {
+      "review_id": "s024-r04",
+      "severity": "major",
+      "category": "gender_generalization",
+      "issue": "The passage generalizes women's attraction and willingness to approach from a single framework.",
+      "affected_evidence": ["S00005-S00023", "S00034-S00038", "S00058-S00063"],
+      "disposition": "Do not present it as universal psychology or infer any individual's response from appearance or demeanor."
+    },
+    {
+      "review_id": "s024-r05",
+      "severity": "minor",
+      "category": "metadata_scope",
+      "issue": "The public title emphasizes being influenced by state, while the transcript specifically answers how strong behavioral cues are formed.",
+      "affected_evidence": ["whole source"],
+      "disposition": "Use the transcript's narrower scope rather than expanding the claim from the title."
+    }
+  ]
+}

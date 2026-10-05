@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-015",
+  "youtube_id": "nXb_5CmBvpc",
+  "review_completed": true,
+  "items": [
+    {
+      "review_id": "s015-r01",
+      "severity": "major",
+      "category": "status_hierarchy",
+      "issue": "The explanation treats boss/employee and high/low status as the key determinant of attractive sensitivity.",
+      "affected_evidence": [
+        "S00005-S00013"
+      ],
+      "disposition": "Keep as a reported framework, not a factual or managerial prescription."
+    },
+    {
+      "review_id": "s015-r02",
+      "severity": "major",
+      "category": "source_reuse",
+      "issue": "The passage is already present in formal o6fS0sTCYcU.",
+      "affected_evidence": [
+        "whole source"
+      ],
+      "disposition": "Keep formal weight at zero."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "source_id": "mikey-youtube-live-037",
+  "speakers": [
+    {
+      "id": "mikey",
+      "role": "host",
+      "status": "confirmed",
+      "identity_basis": "频道直播结构、主持人口吻和连续单人画面确认主持人为Mikey。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=F5_4eZNBZFI"
+      ],
+      "notes": "观众问题由主持人朗读；问题中的经历和判断不是Mikey自述。"
+    },
+    {
+      "id": "viewer-question-collective",
+      "role": "collective live-chat author(s)",
+      "status": "collective_placeholder",
+      "identity_basis": "画面右侧持续显示多名观众留言，主持人选择性朗读和回答。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=F5_4eZNBZFI"
+      ],
+      "notes": "集合占位符，不代表同一人物；留言文字不得并入Mikey观点。"
+    }
+  ]
+}

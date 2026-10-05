@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "batch_key": "short-03",
+  "validated_at": "2026-09-29T21:23:21+08:00",
+  "validator_role": "cross_agent_independent_review_after_subagent_distillation",
+  "pass": true,
+  "scope": {
+    "items": 10,
+    "media_audit_items": 10,
+    "transcript_segments": 689,
+    "sampled_frames": 390,
+    "timeline_entries": 42,
+    "claims": 37,
+    "claim_reference_groups_checked": 37,
+    "review_items": 40
+  },
+  "checks": {
+    "pipeline_validation_report_present_and_pass": true,
+    "media_files_rehashed_against_audit": "10/10",
+    "media_hash_bound_transcripts": "10/10",
+    "media_hash_bound_visual_manifests": "10/10",
+    "visual_manifest_files_and_hashes_valid": "390/390",
+    "timeline_nonempty_and_within_media": "10/10",
+    "claim_segment_references_exist": "37/37",
+    "claim_segment_references_within_media": "37/37",
+    "review_ledgers_completed": "10/10",
+    "first_person_permission_closed": "10/10",
+    "action_advice_permission_closed": "10/10",
+    "formal_integration_approved": "0/10",
+    "reuse_zero_weight": "10/10",
+    "formal_source_index_unchanged": true
+  },
+  "deduplication": {
+    "identity_decisions": {
+      "new": 0,
+      "reuse": 10
+    },
+    "new_positive_weight_candidates": [],
+    "reuse_zero_weight": {
+      "mikey-youtube-short-021": ["mikey-youtube-live-005", "mikey-sijiao-008", "mikey-practice-005"],
+      "mikey-youtube-short-022": ["mikey-youtube-short-019", "quark-live-046"],
+      "mikey-youtube-short-023": ["mikey-youtube-live-009"],
+      "mikey-youtube-short-024": ["mikey-youtube-live-024"],
+      "mikey-youtube-short-025": ["mikey-youtube-live-010"],
+      "mikey-youtube-short-026": ["quark-live-046"],
+      "mikey-youtube-short-027": ["mikey-youtube-live-010"],
+      "mikey-youtube-short-028": ["mikey-youtube-live-025"],
+      "mikey-youtube-short-029": ["mikey-youtube-live-009", "mikey-practice-008", "quark-live-019", "quark-live-028"],
+      "mikey-youtube-short-030": ["mikey-youtube-live-037", "EIcItpA_RZU"]
+    },
+    "semantic_only_reuse": {
+      "mikey-youtube-short-021": "No exact parent excerpt was located; the consistency and non-performance lesson is already represented by the listed formal sources.",
+      "mikey-youtube-short-030": "No exact parent excerpt was located; the judgment, confidence and non-standard materialism/idealism framework is already represented, while hostile gender generalizations and quoted dialogue remain isolated and restricted."
+    }
+  },
+  "resolved_validation_findings": [
+    {
+      "stable_ids": ["mikey-youtube-short-025", "mikey-youtube-short-027", "mikey-youtube-short-030"],
+      "finding": "Automatic ASR contains segments crossing or extending beyond the audited media endpoint.",
+      "resolution": "All semantic timelines and claim evidence stop before the media endpoint. Crossing and overrun segments remain only in extraction records and are explicitly excluded."
+    }
+  ],
+  "open_research_limits": {
+    "review_items_by_severity": {
+      "blocking": 6,
+      "major": 33,
+      "minor": 1
+    },
+    "summary": "All ten Shorts are zero-weight reuse records. Open limits include consent, coercive or dominance framing, victim attribution, gender generalization, spiritual or death claims, third-party dialogue, and the absence of demonstrated outcomes."
+  },
+  "permissions": {
+    "formal_mikey_guide_modified": false,
+    "formal_source_index_sha256": "bec0688ff67e13cc849b8f3ad03e570ee13473477788a72fc7cfebfa008e8d75",
+    "formal_integration_approved": false,
+    "raw_media_deletion_authorized": false,
+    "short_04_started": false
+  },
+  "cross_validation": {
+    "mikey-youtube-short-021_to_024": "Reviewed by the agent that did not write these four items: 4/4 PASS; 250 ASR segments, 141 frames, 16 claims and 16 review items checked.",
+    "mikey-youtube-short-025_to_030": "Reviewed by the agent that did not write these six items: 6/6 PASS; 439 ASR segments, 249 frames, 21 claims and 24 review items checked."
+  }
+}

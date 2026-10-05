@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-018",
+  "youtube_id": "Tt5Hdf1YPvU",
+  "title": "谦虚不等于没有吸引力，懦弱才会",
+  "coverage": {
+    "transcript_segments_read": 30,
+    "transcript_time_range_seconds": [0.0, 53.06],
+    "media_duration_seconds": 50.155102,
+    "sampled_frames_reviewed": 17,
+    "dense_frames_reviewed": 0,
+    "continuous_original_audio_visual_review": false
+  },
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 23.2,
+      "summary": "Mikey answers that humility itself does not remove attraction; he distinguishes humility grounded in self-confidence from weakness and self-denigration mislabeled as humility.",
+      "evidence": ["S00001-S00012@0.00-23.20", "visual/sampled/000001.jpg-000008.jpg"]
+    },
+    {
+      "start": 23.2,
+      "end": 50.155102,
+      "summary": "A second livestream answer calls dating an investment for young men because repeated dates expose personal shortcomings and social competition, which he says teaches how the world works.",
+      "evidence": ["S00013-S00026@23.20-49.40", "visual/sampled/000008.jpg-000017.jpg"]
+    }
+  ],
+  "claims": [
+    {
+      "claim_id": "s018-c01",
+      "speaker": "Mikey; attribution supported by visual continuity and exact reuse from formal livestream mikey-youtube-live-027",
+      "statement": "Humility is compatible with attraction when it rests on real self-confidence; weakness and self-denigration presented as humility are what he regards as unattractive.",
+      "conditions": "This is his distinction between inner self-assessment and outward modesty, not an objective measure of every person's attraction.",
+      "evidence": ["S00001-S00012@0.00-23.20", "mikey-youtube-live-027:S00947-S00960@3350.44-3461.08"],
+      "use_level": "hold",
+      "knowledge_status": "formal_reuse_zero_weight"
+    },
+    {
+      "claim_id": "s018-c02",
+      "speaker": "Mikey; attribution supported by exact reuse from formal livestream mikey-youtube-live-027",
+      "statement": "He presents repeated dating as a way for young men to confront weaknesses and learn about social competition and relationship dynamics.",
+      "conditions": "The segment uses sweeping claims about women and competitive language. It does not establish that dating is the best investment for every young person or that women form one uniform category.",
+      "evidence": ["S00013-S00026@23.20-49.40", "mikey-youtube-live-027:S00961-S00975@3461.08-3496.45"],
+      "use_level": "do_not_generalize",
+      "knowledge_status": "formal_reuse_zero_weight"
+    }
+  ],
+  "visual_findings": [
+    "All 17 sampled frames were reviewed; the picture remains a single livestream close-up of Mikey with live-chat UI and burned-in editorial subtitles.",
+    "The change at about 23 seconds is an editorial join between two consecutive Q&A topics, not a speaker change.",
+    "No chat screenshot, demonstration, third-party image or result evidence appears, so denser sampling would not resolve a material semantic question."
+  ],
+  "permissions": {
+    "formal_integration": false,
+    "first_person_allowed": false,
+    "action_advice_allowed": false,
+    "formal_weight_if_integrated": 0,
+    "knowledge_status": "formal_reuse_zero_weight_pending_batch_review",
+    "reason": "The full semantic content is already present in mikey-youtube-live-027; the Short adds no independent evidence and contains broad gender and outcome claims."
+  },
+  "limitations": [
+    "The automatic transcript was not sentence-by-sentence listened and corrected.",
+    "The transcript ends at 53.06 seconds although the audited media ends at 50.155102 seconds; S00027-S00030 are repeated tail text beyond the media boundary and were excluded from claims.",
+    "Sparse frame review is not continuous audiovisual review."
+  ]
+}

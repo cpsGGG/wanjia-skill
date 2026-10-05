@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-050",
+  "youtube_id": "s-htda5k6Yo",
+  "title": "愿兄弟们都不做感情中的沸羊羊。共勉丨#shorts",
+  "coverage": {"transcript_segments_read": 4, "transcript_time_range_seconds": [0.18, 18.66], "semantic_media_range_seconds": [0.0, 30.185941], "sampled_frames_reviewed": 10, "dense_1s_frames_reviewed": 30, "continuous_original_audio_visual_review": false, "excluded_asr_tail": [18.66, 30.185941]},
+  "timeline": [
+    {"start": 0.0, "end": 8.0, "summary": "A third-party 喜羊羊与灰太狼 animation excerpt shows several sheep characters in a relationship dispute; the visible dialogue belongs to fictional characters, not Mikey."},
+    {"start": 8.0, "end": 17.0, "summary": "The scene shifts to 美羊羊 being taken away and 沸羊羊 saying he will rescue her. The edit supplies no Mikey narration or analysis."},
+    {"start": 17.0, "end": 25.0, "summary": "沸羊羊 offers his life in exchange for 美羊羊 and then appears with her; the fictional sequence is presented as a sacrifice/rejection meme."},
+    {"start": 25.0, "end": 30.185941, "summary": "A 灰太狼/红太狼 exchange closes the cartoon excerpt. The ASR does not reliably cover this tail, but dense visual subtitles confirm it remains third-party dialogue."}
+  ],
+  "claims": [
+    {"claim_id": "s050-c01", "speaker": "channel_title_editor_unconfirmed", "statement": "The upload title asks male viewers not to become a ‘沸羊羊’ in relationships.", "conditions": "A stigmatizing meme label in metadata; it is not a developed argument, diagnostic category or verified statement by Mikey on camera.", "evidence": ["source title", "visual/contact-sheet-all.jpg"], "use_level": "do_not_generalize", "knowledge_status": "reuse_zero_weight"},
+    {"claim_id": "s050-c02", "speaker": "third_party_fictional_characters", "statement": "The republished cartoon depicts 沸羊羊 attempting a self-sacrificial rescue in a relationship conflict.", "conditions": "Fictional third-party content with edited context; it cannot establish real relationship facts, motives, norms or consequences.", "evidence": ["S00001-S00004@0.18-18.66", "visual/dense-contact-sheet.jpg"], "use_level": "do_not_generalize", "knowledge_status": "reuse_zero_weight"}
+  ],
+  "speaker_attribution": [
+    {"speaker": "third_party_fictional_characters", "basis": "All audible dialogue and visible subtitles belong to animated characters; no Mikey voice or face appears."},
+    {"speaker": "channel_title_editor_unconfirmed", "basis": "The anti-沸羊羊 framing appears in the YouTube title, but the reviewed media does not identify who authored that title or supply a matching spoken explanation."},
+    {"speaker": "third_party_bilibili_uploader", "basis": "The animation carries a visible ‘粤奇大人S bilibili’ watermark, while a separate 搭讪玩家TV overlay appears above it."}
+  ],
+  "visual_findings": ["All ten sampled original frames and thirty additional one-second frames were reviewed.", "The full picture content is a horizontally letterboxed 喜羊羊与灰太狼 excerpt with persistent third-party Bilibili attribution and a separate channel overlay.", "Mikey, a live narrator, original relationship evidence and any permission or license information are absent."],
+  "permissions": {"formal_integration": false, "first_person_allowed": false, "action_advice_allowed": false, "use_level": "reuse_zero_weight_do_not_generalize", "reason": "Third-party fictional content, incomplete ASR, unverified rights and no authenticated Mikey speech or novel method."},
+  "limitations": ["The ASR omits most dialogue after 18.66 seconds and is unreliable for the cartoon voices.", "Visible subtitles help map the fictional sequence but do not establish ownership, permission or original episode context.", "The title's relationship analogy is editorial framing and cannot be expanded into a detailed Mikey position.", "The dense frame review is not continuous original audio-visual verification."]
+}

@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-013",
+  "youtube_id": "uSsi-dXlMwk",
+  "title": "很多人邀约不出来核心原因，框架太弱",
+  "coverage": {
+    "transcript_segments_read": 37,
+    "transcript_time_range_seconds": [
+      0.0,
+      60.04
+    ],
+    "semantic_media_range_seconds": [
+      0.0,
+      61.138141
+    ],
+    "sampled_frames_reviewed": 20,
+    "dense_frames_reviewed": 61,
+    "continuous_original_audio_visual_review": false
+  },
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 7.18,
+      "summary": "The video opens on a private chat and Mikey reads his proposed time and location."
+    },
+    {
+      "start": 7.18,
+      "end": 17.44,
+      "summary": "The other participant says she will see whether she has time; the green side challenges the apparent reversal and she says the tone feels casual or unserious."
+    },
+    {
+      "start": 17.44,
+      "end": 34.06,
+      "summary": "Mikey narrates a confrontational reply sequence that belittles the concern and asserts that meeting must come first; the visible chat broadly matches the order."
+    },
+    {
+      "start": 34.06,
+      "end": 45.64,
+      "summary": "He tells viewers to memorize and deploy the full sequence regardless of the reply."
+    },
+    {
+      "start": 45.64,
+      "end": 61.138141,
+      "summary": "He highlights withholding a response as a tactic; the other participant eventually says “好/谢谢” and the edit ends."
+    }
+  ],
+  "claims": [
+    {
+      "claim_id": "s013-c01",
+      "speaker": "Mikey",
+      "statement": "He presents a private-message sequence in which his side challenges a woman who changes a definite plan into “I’ll see if I have time.”",
+      "conditions": "The screenshot confirms message order only; it does not establish motives, relationship context or a successful meeting.",
+      "evidence": [
+        "S00002-S00019@1.84-34.06"
+      ],
+      "use_level": "do_not_generalize"
+    },
+    {
+      "claim_id": "s013-c02",
+      "speaker": "Mikey",
+      "statement": "He tells viewers to memorize a fixed confrontational sequence and send it regardless of the recipient’s reply.",
+      "conditions": "This suppresses context and the other person’s autonomy; it must not be operationalized as advice.",
+      "evidence": [
+        "S00020-S00025@34.06-45.64"
+      ],
+      "use_level": "do_not_generalize"
+    },
+    {
+      "claim_id": "s013-c03",
+      "speaker": "Mikey",
+      "statement": "He describes not replying as a deliberate tactic and treats the later “好/谢谢” as part of the demonstration.",
+      "conditions": "Silence may have many meanings; the screenshot does not prove persuasion, consent or a later meeting.",
+      "evidence": [
+        "S00026-S00037@45.64-60.04"
+      ],
+      "use_level": "do_not_generalize"
+    }
+  ],
+  "speaker_attribution": [
+    {
+      "speaker": "Mikey / right-green chat side",
+      "basis": "Narration repeatedly says “I said” while the corresponding right-green messages are highlighted; this supports editorial attribution but does not independently authenticate the account."
+    },
+    {
+      "speaker": "other private-chat participant / left-gray side",
+      "basis": "Left-gray messages are read as the woman’s replies; identity is redacted and remains unverified."
+    }
+  ],
+  "visual_findings": [
+    "All content-bearing frames are a scrolling private WeChat chat; no live speaker or meeting outcome is shown.",
+    "The display masks the contact name and avatar area, but exact date/time and a distinctive conversation remain visible and potentially identifying.",
+    "The 61 one-second dense frames confirm the order: scheduling proposal, changed availability, objections, green-side insults/pressure, green-side silence, then a short “好/谢谢” reply."
+  ],
+  "permissions": {
+    "formal_integration": false,
+    "first_person_allowed": false,
+    "action_advice_allowed": false,
+    "use_level": "do_not_generalize",
+    "reason": "Private-chat material with uncertain authorization and an adversarial scripted tactic that disregards the other person’s reply."
+  },
+  "limitations": [
+    "The screenshot may be edited or incomplete and does not authenticate either participant.",
+    "No evidence shows that a meeting occurred or that the tactic caused the final reply.",
+    "Private correspondence remains sensitive despite partial redaction."
+  ]
+}

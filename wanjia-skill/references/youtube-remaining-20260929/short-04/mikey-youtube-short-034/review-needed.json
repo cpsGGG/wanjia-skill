@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-034",
+  "youtube_id": "-uU-eZT5c_E",
+  "review_completed": true,
+  "items": [
+    {
+      "review_id": "s034-r01",
+      "severity": "major",
+      "category": "source_reuse",
+      "issue": "The visible-feature opener, contact request and conditional coffee invitation pattern is already represented in formal dashan case knowledge.",
+      "affected_evidence": ["whole source"],
+      "disposition": "Keep formal weight at zero and preserve only as an alternate case pointer."
+    },
+    {
+      "review_id": "s034-r02",
+      "severity": "blocking",
+      "category": "speaker_attribution",
+      "issue": "The male participant's face is never shown, so channel publication does not by itself establish that the camera-wearer is Mikey.",
+      "affected_evidence": ["whole source"],
+      "disposition": "Attribute statements to unknown_camera_wearing_male unless original continuous media or external identity evidence resolves the speaker."
+    },
+    {
+      "review_id": "s034-r03",
+      "severity": "blocking",
+      "category": "privacy_and_publication_consent",
+      "issue": "The woman is identifiable in multiple frames, while consent to filming, publication and reuse is not shown.",
+      "affected_evidence": ["frames 000001-000006", "frames 000010-000012"],
+      "disposition": "Do not package identifiable imagery or infer consent; apply the project's privacy boundary before any integration."
+    },
+    {
+      "review_id": "s034-r04",
+      "severity": "major",
+      "category": "asr_uncertainty",
+      "issue": "The transcript corrupts the identity clarification, contact request, occupation exchange and invitation response.",
+      "affected_evidence": ["S00005-S00008", "S00011-S00017"],
+      "disposition": "Do not quote or infer exact words without manual audio review."
+    },
+    {
+      "review_id": "s034-r05",
+      "severity": "blocking",
+      "category": "edited_outcome_gap",
+      "issue": "Phone handling and selective blur do not prove that contact details were saved; the clip shows no later meeting or relationship outcome.",
+      "affected_evidence": ["frames 000003-000012", "S00007-S00018"],
+      "disposition": "Record the outcome as unknown and do not label the approach successful."
+    }
+  ]
+}

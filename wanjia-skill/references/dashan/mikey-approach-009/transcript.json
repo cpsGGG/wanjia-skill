@@ -1,0 +1,255 @@
+{
+  "schema_version": 1,
+  "source_id": "mikey-approach-009",
+  "title": "保安阻碍搭讪，依然不受影响",
+  "status": "automatic_unreviewed",
+  "speaker": "not_diarized",
+  "layer": "asr_automatic_citation_view",
+  "notice": "由完整自动稿确定性生成；未人工听校、未区分说话人，不作为准确逐字引语。",
+  "segment_id_policy": "S编号按当前原始自动稿顺序从S00001起；原始自动稿SHA256变化即为另一版本。",
+  "source_revision": "sha256:266f9172f8e263973de0cac0d9e9fbba22491b016bb7aa67fd82d6e5b14c3149",
+  "transcript_revision": "sha256:38cd36d7e5445880295884a7962a6921a9844ffb8aa62a7ef9949404cda50628",
+  "input_transcript_sha256": "38cd36d7e5445880295884a7962a6921a9844ffb8aa62a7ef9949404cda50628",
+  "source": {
+    "kind": "local_file",
+    "local_path": "D:\\startup\\玩家.skill\\dashan\\9.保安阻碍搭讪，依然不受影响.mp4",
+    "size_bytes": 75640159,
+    "sha256": "266f9172f8e263973de0cac0d9e9fbba22491b016bb7aa67fd82d6e5b14c3149",
+    "start_seconds": 0
+  },
+  "model": "large-v3-turbo",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "嘿",
+      "avg_logprob": -0.39628623253193457,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00001"
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "text": "哈喽",
+      "avg_logprob": -0.39628623253193457,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00002"
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "text": "嗯",
+      "avg_logprob": -0.39628623253193457,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00003"
+    },
+    {
+      "start": 3.0,
+      "end": 4.0,
+      "text": "我觉得你好酷",
+      "avg_logprob": -0.39628623253193457,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00004"
+    },
+    {
+      "start": 4.0,
+      "end": 5.0,
+      "text": "谢谢",
+      "avg_logprob": -0.39628623253193457,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00005"
+    },
+    {
+      "start": 5.0,
+      "end": 6.0,
+      "text": "我想让你认识一下",
+      "avg_logprob": -0.39628623253193457,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00006"
+    },
+    {
+      "start": 6.0,
+      "end": 7.0,
+      "text": "不用不用谢谢",
+      "avg_logprob": -0.39628623253193457,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00007"
+    },
+    {
+      "start": 7.0,
+      "end": 8.0,
+      "text": "我不认识一下的",
+      "avg_logprob": -0.39628623253193457,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00008"
+    },
+    {
+      "start": 8.0,
+      "end": 9.0,
+      "text": "哈哈",
+      "avg_logprob": -0.39628623253193457,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00009"
+    },
+    {
+      "start": 9.0,
+      "end": 10.0,
+      "text": "我就路过这儿嘛",
+      "avg_logprob": -0.39628623253193457,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00010"
+    },
+    {
+      "start": 10.0,
+      "end": 11.0,
+      "text": "然后看到你又跑过来了",
+      "avg_logprob": -0.39628623253193457,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00011"
+    },
+    {
+      "start": 11.0,
+      "end": 12.0,
+      "text": "我想",
+      "avg_logprob": -0.39628623253193457,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00012"
+    },
+    {
+      "start": 12.0,
+      "end": 13.0,
+      "text": "我是Mike",
+      "avg_logprob": -0.39628623253193457,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00013"
+    },
+    {
+      "start": 13.0,
+      "end": 14.0,
+      "text": "你好",
+      "avg_logprob": -0.39628623253193457,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00014"
+    },
+    {
+      "start": 14.0,
+      "end": 15.0,
+      "text": "你好",
+      "avg_logprob": -0.39628623253193457,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00015"
+    },
+    {
+      "start": 15.0,
+      "end": 16.0,
+      "text": "哦",
+      "avg_logprob": -0.39628623253193457,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00016"
+    },
+    {
+      "start": 16.0,
+      "end": 17.0,
+      "text": "OKOK",
+      "avg_logprob": -0.39628623253193457,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00017"
+    },
+    {
+      "start": 17.0,
+      "end": 19.0,
+      "text": "好的好的好的好的",
+      "avg_logprob": -0.39628623253193457,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00018"
+    },
+    {
+      "start": 19.0,
+      "end": 20.0,
+      "text": "那我可以留留一些",
+      "avg_logprob": -0.39628623253193457,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00019"
+    },
+    {
+      "start": 20.0,
+      "end": 21.0,
+      "text": "嗯",
+      "avg_logprob": -0.39628623253193457,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00020"
+    },
+    {
+      "start": 21.0,
+      "end": 26.43,
+      "text": "卧槽太鼓里这样不能跟女生讲话",
+      "avg_logprob": -0.39628623253193457,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00021"
+    },
+    {
+      "start": 26.43,
+      "end": 28.43,
+      "text": "你是做模特的",
+      "avg_logprob": -0.39628623253193457,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00022"
+    },
+    {
+      "start": 28.43,
+      "end": 29.43,
+      "text": "不是不是",
+      "avg_logprob": -0.39628623253193457,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00023"
+    },
+    {
+      "start": 29.43,
+      "end": 31.43,
+      "text": "我扫你了",
+      "avg_logprob": -0.39628623253193457,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00024"
+    },
+    {
+      "start": 31.43,
+      "end": 39.87,
+      "text": "不想有机会的话可以和你一杯咖啡",
+      "avg_logprob": -0.4683689082541117,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00025"
+    },
+    {
+      "start": 39.87,
+      "end": 42.87,
+      "text": "有点亮吗",
+      "avg_logprob": -0.4683689082541117,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00026"
+    },
+    {
+      "start": 42.87,
+      "end": 48.42,
+      "text": "我赏你吧",
+      "avg_logprob": -0.4683689082541117,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00027"
+    },
+    {
+      "start": 48.42,
+      "end": 58.48,
+      "text": "我们回去了好吗",
+      "avg_logprob": -0.4683689082541117,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00028"
+    },
+    {
+      "start": 58.48,
+      "end": 59.58,
+      "text": "拜拜",
+      "avg_logprob": -0.4683689082541117,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00029"
+    }
+  ]
+}

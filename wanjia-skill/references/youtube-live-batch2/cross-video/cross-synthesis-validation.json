@@ -1,0 +1,51 @@
+{
+  "schema_version": "youtube-live-batch2-cross-synthesis-validation-1.0",
+  "status": "passed",
+  "input": "D:\\startup\\玩家.skill\\research\\youtube-live-batch2\\youtube-live-batch2-cross-input.json",
+  "synthesis": "D:\\startup\\玩家.skill\\research\\youtube-live-batch2\\youtube-live-batch2-cross-synthesis.json",
+  "synthesis_json": "youtube-live-batch2-cross-synthesis.json",
+  "synthesis_sha256": "a757620afbd03ebb62823950a6d88c4609deb4ee8caff8d74d3e9b79f8464a18",
+  "markdown_sha256": "8b6a645fec5c64c95cc18fe263940b4a4fbbf5148270ebc46dc81a161b2425cb",
+  "markdown_checked": "D:\\startup\\玩家.skill\\research\\youtube-live-batch2\\youtube-live-batch2-cross-synthesis.md",
+  "counts": {
+    "source_count": 10,
+    "segments": 19885,
+    "events": 140,
+    "knowledge": 125,
+    "knowledge_quotes": 1187,
+    "review_needed": 135,
+    "blocking_review_needed": 60,
+    "major_review_needed": 74,
+    "episode_release_status_counts": {
+      "candidate_only": 77,
+      "hold": 16,
+      "context_only": 29,
+      "do_not_generalize": 3
+    },
+    "attribution_status_counts": {
+      "explicit_mikey": 125
+    },
+    "gameplay_attribution_counts": {
+      "mikey_commentary": 854,
+      "uncertain_overlap": 5031,
+      "mikey_quote_or_reading": 2
+    },
+    "themes": 11,
+    "propositions": 24,
+    "method_relations": 17,
+    "conflicts": 11,
+    "knowledge_index": 125,
+    "knowledge_use_levels": {
+      "hold": 101,
+      "do_not_generalize": 3,
+      "direct": 14,
+      "context_only": 7
+    }
+  },
+  "errors": [],
+  "warnings": [],
+  "limits": [
+    "This validator proves structural closure, downgrade rules, reference existence, and mechanical gameplay attribution only.",
+    "It does not prove semantic interpretation, efficacy, continuous audiovisual understanding, or that prose faithfully paraphrases a source."
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "source_id": "mikey-youtube-live-029",
+  "speakers": [
+    {
+      "id": "mikey",
+      "role": "host",
+      "status": "confirmed",
+      "identity_basis": "搭讪玩家TV直播82由Mikey主持；自动稿按连续主持框架整理，具体画面及切换仍依视觉审查。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=knZc0MMOnbw&t=30s"
+      ],
+      "notes": "观众问题由主持人口头转述，问题中的经历不归给Mikey。"
+    },
+    {
+      "id": "viewer-question-01",
+      "role": "collective live-chat question author(s)",
+      "status": "collective_placeholder",
+      "identity_basis": "多名观众的文字问题由主持人朗读。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=knZc0MMOnbw"
+      ],
+      "notes": "集合占位符，不代表同一人物。"
+    },
+    {
+      "id": "caller-01",
+      "role": "collective phone caller(s)",
+      "status": "collective_placeholder",
+      "identity_basis": "直播后段出现多次电话连线；未完成逐句说话人分离和身份核验。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=knZc0MMOnbw&t=4300s"
+      ],
+      "notes": "集合占位符，不代表同一人物；来电者的话不得归给Mikey。"
+    },
+    {
+      "id": "unknown-voice-01",
+      "role": "mixed host/caller audio",
+      "status": "unresolved",
+      "identity_basis": "电话段自动稿混合主持人和多名来电者，尚未逐句分离。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=knZc0MMOnbw&t=4300s"
+      ],
+      "notes": "只用于覆盖混合语音事件。"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-004",
+  "youtube_id": "ea-wnYQpZWM",
+  "title": "【私教案例】學員拍個展示面竟然把美女攝影師睡了？",
+  "coverage": {
+    "transcript_segments_read": 424,
+    "transcript_time_range_seconds": [0.0, 583.215],
+    "sparse_frames_reviewed": 13,
+    "dense_frames_reviewed": 335,
+    "continuous_original_date_av_available": false
+  },
+  "timeline": [
+    {"start": 0.0, "end": 128.4, "summary": "Mikey introduces an anonymized student and a photographer, frames the problem as high attraction but low attainability, and says the student had only two weeks of training."},
+    {"start": 128.4, "end": 256.7, "summary": "He recounts the first date: mutual affection and kissing were followed by her refusal to go to the hotel; he says he instructed the student to stop pressing and take her home."},
+    {"start": 256.7, "end": 300.1, "summary": "He describes preparing the student for several possible second-date branches and maintaining the connection online without treating each variation as an emergency."},
+    {"start": 300.1, "end": 423.8, "summary": "The woman initiates the second meeting. Mikey argues that observable investment matters more than decoding lines, that small errors accumulate, and that alcohol is neither necessary for attraction nor an acceptable shortcut."},
+    {"start": 423.8, "end": 535.6, "summary": "After the second date also ends with her going home, a later phone conversation is presented as clarifying mutual interest, the student's intent and her fear of being hurt; they arrange a third meeting and another photo session."},
+    {"start": 535.6, "end": 583.215, "summary": "Mikey summarizes the case as evidence for process-focused diagnosis across chat, date recordings and live feedback rather than searching for more canned lines."}
+  ],
+  "claims": [
+    {
+      "claim_id": "v004-c01",
+      "speaker": "Mikey",
+      "statement": "Do not make first-date sex the only success criterion; enjoying and reading the process prevents anxious, contradictory behavior.",
+      "conditions": "Advice for dating situations where attraction may exist but the next step is uncertain.",
+      "evidence": ["S00010-S00016@20.2-36.7", "S00134-S00153@211.6-236.2"],
+      "use_level": "direct"
+    },
+    {
+      "claim_id": "v004-c02",
+      "speaker": "Mikey",
+      "statement": "Kissing or other affection does not imply agreement to go home or have sex; after an explicit refusal, stop pressing and let her leave.",
+      "conditions": "Consent must be evaluated at each step and a refusal controls the immediate next action.",
+      "evidence": ["S00083-S00101@146.9-173.5", "S00128-S00132@205.6-211.1"],
+      "use_level": "direct"
+    },
+    {
+      "claim_id": "v004-c03",
+      "speaker": "Mikey",
+      "statement": "High attraction with low attainability can make the other person interested yet unwilling to deepen the relationship because she cannot read your intent.",
+      "conditions": "This is Mikey's interpretation of the anonymized case, not an independently established causal diagnosis.",
+      "evidence": ["S00104-S00127@175.4-205.6", "S00349-S00371@483.9-514.0"],
+      "use_level": "direct"
+    },
+    {
+      "claim_id": "v004-c04",
+      "speaker": "Mikey",
+      "statement": "Concrete investment such as initiating a meeting, sharing daily life and committing time is more useful than overanalyzing individual lines.",
+      "conditions": "Treat these as contextual signals, not proof of consent to later escalation.",
+      "evidence": ["S00202-S00224@295.1-321.5", "S00333-S00340@463.3-473.5"],
+      "use_level": "direct"
+    },
+    {
+      "claim_id": "v004-c05",
+      "speaker": "Mikey",
+      "statement": "A date is usually harmed by accumulated small errors and anxiety rather than one minor imperfection, so planning should leave room to adapt to live feedback.",
+      "conditions": "General coaching claim; it does not guarantee a favorable outcome.",
+      "evidence": ["S00225-S00258@321.5-365.6", "S00301-S00313@423.8-441.1"],
+      "use_level": "direct"
+    },
+    {
+      "claim_id": "v004-c06",
+      "speaker": "Mikey",
+      "statement": "Alcohol does not create attraction and should not be used to exploit impairment; it also introduces legal and ethical risk.",
+      "conditions": "The legal-risk wording is not jurisdiction-specific legal advice; the consent boundary remains applicable regardless of alcohol.",
+      "evidence": ["S00259-S00299@365.6-422.9"],
+      "use_level": "direct_with_legal_boundary"
+    },
+    {
+      "claim_id": "v004-c07",
+      "speaker": "Mikey",
+      "statement": "Sometimes disclosing your real view and intent is more effective than treating non-explanation and non-response as status or mystery.",
+      "conditions": "Applies when opacity is making the other person fear harm or misunderstand the relationship goal.",
+      "evidence": ["S00344-S00371@476.5-514.0"],
+      "use_level": "direct"
+    },
+    {
+      "claim_id": "v004-c08",
+      "speaker": "Mikey narrating third-party material",
+      "statement": "The video says the student and photographer met three times and eventually had sex, after which she continued offering photography help.",
+      "conditions": "Anonymized promotional case claim supported only by Mikey's narration and edited cards; do not present as independently verified fact.",
+      "evidence": ["S00001-S00009@0.0-20.2", "S00372-S00386@514.0-534.9"],
+      "use_level": "context_only"
+    }
+  ],
+  "examples": [
+    {"example_id": "v004-e01", "summary": "First date included kissing, followed by a clear refusal to go to the hotel; the advised response was to stop escalation and send her home.", "evidence": ["S00069-S00132@126.5-211.1"]},
+    {"example_id": "v004-e02", "summary": "The second meeting was initiated by the woman and used to illustrate observable investment without treating it as consent to a later step.", "evidence": ["S00207-S00224@300.1-321.5", "S00314-S00340@441.1-473.5"]},
+    {"example_id": "v004-e03", "summary": "A phone conversation is presented as clarifying intent and fear of being hurt before a third meeting was arranged.", "evidence": ["S00341-S00386@473.5-534.9"]}
+  ],
+  "speaker_attribution": [
+    {"speaker": "Mikey", "basis": "On-camera host throughout the teaching sections; self-identification at S00421."},
+    {"speaker": "student (anonymized as 老周)", "basis": "Only represented through Mikey's narration and edited screenshots; no direct verified voice in this upload."},
+    {"speaker": "photographer", "basis": "Only represented through Mikey's narration and edited screenshots; no direct verified voice in this upload."},
+    {"speaker": "film/animation characters", "basis": "Illustrative editing inserts; not source speakers for Mikey's claims."}
+  ],
+  "visual_findings": [
+    "The video repeatedly alternates between Mikey speaking, instructional title cards, anonymized chat/feedback screenshots and illustrative film clips.",
+    "Dense review confirms the editorial sequence of first-date feedback, coaching, second-date initiation, later phone clarification and third-date scheduling, but the screenshots are not a complete unedited conversation export.",
+    "Names and identifying details are blurred; some small screenshot text remains unreadable at source resolution."
+  ],
+  "permissions": {
+    "formal_integration": false,
+    "first_person_answering": false,
+    "action_advice": false,
+    "reason": "Research candidate only; third-party case facts, consent-sensitive interpretation and legal wording require later cross-source review before runtime permissions are assigned."
+  },
+  "limitations": [
+    "Automatic transcript was not checked word-for-word against original audio.",
+    "The underlying dates, calls and full chat history are not available as continuous primary evidence.",
+    "The case outcome and participant descriptions are anonymized promotional claims.",
+    "Sparse screening plus four dense windows does not equal continuous full-video audio-visual verification."
+  ]
+}

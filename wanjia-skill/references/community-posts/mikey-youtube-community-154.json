@@ -1,0 +1,50 @@
+{
+  "schema_version": "mikey-community-post-fulltext-1.0",
+  "source_id": "mikey-youtube-community-154",
+  "post_id": "UgkxrynjvYHfBBJSVBG9JzsLFnQzCzVrwySi",
+  "url": "https://www.youtube.com/post/UgkxrynjvYHfBBJSVBG9JzsLFnQzCzVrwySi",
+  "published_at": "2026-06-30T00:13:00.280713-07:00",
+  "date_basis": "archived_public_observation",
+  "body": "框架不是演出来的，而是被无数个‘被供奉’的瞬间喂养出来的",
+  "body_kind": "verbatim_or_as_archived_in_corrected_candidate",
+  "image_refs": [
+    {
+      "image_index": 1,
+      "research_archive_path": "research/youtube-community-batch1/images/UgkxrynjvYHfBBJSVBG9JzsLFnQzCzVrwySi/01.jpg",
+      "sha256": "c1d77f0d8e56c5a6db5c4730b3c5078c808f271e1225db7e6d4e9f44d2b481a8",
+      "bytes": 148901,
+      "formal_asset_policy": "reference_only_do_not_copy",
+      "safe_summary": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。"
+    }
+  ],
+  "segments": [
+    {
+      "sid": "C0154-BODY",
+      "kind": "channel_body",
+      "text": "框架不是演出来的，而是被无数个‘被供奉’的瞬间喂养出来的",
+      "verbatim_allowed": true,
+      "source_scope": "public_channel_body_as_archived"
+    },
+    {
+      "sid": "C0154-IMG01",
+      "kind": "image_reference_metadata",
+      "text": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。",
+      "verbatim_allowed": false,
+      "image_reference": {
+        "image_index": 1,
+        "research_archive_path": "research/youtube-community-batch1/images/UgkxrynjvYHfBBJSVBG9JzsLFnQzCzVrwySi/01.jpg",
+        "sha256": "c1d77f0d8e56c5a6db5c4730b3c5078c808f271e1225db7e6d4e9f44d2b481a8",
+        "bytes": 148901,
+        "formal_asset_policy": "reference_only_do_not_copy",
+        "safe_summary": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。"
+      }
+    }
+  ],
+  "privacy_policy": {
+    "original_images_copied": false,
+    "raw_ocr_copied": false,
+    "private_chat_transcript_copied": false,
+    "third_party_identity_confirmed": false,
+    "publication_authorization_confirmed": false
+  }
+}

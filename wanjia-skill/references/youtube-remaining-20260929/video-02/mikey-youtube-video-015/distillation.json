@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-015",
+  "youtube_id": "6zV5Ud9tcNA",
+  "title": "撕开女人‘慕强’真相！",
+  "coverage": {
+    "transcript_segments_read": 2017,
+    "transcript_time_range_seconds": [0.0, 2480.64],
+    "sparse_frames_reviewed": 55,
+    "dense_frames_reviewed": 0,
+    "dense_windows_required_seconds": [[108, 290], [1160, 1245], [1480, 1510], [1860, 1955], [2190, 2245]],
+    "continuous_original_audio_visual_review": false
+  },
+  "timeline": [
+    {"start": 0.0, "end": 426.28, "summary": "Mikey defines ‘strength’ as perceived social position and upper-position behavior rather than money, looks or credentials, using public-figure and employer/employee analogies."},
+    {"start": 426.28, "end": 918.74, "summary": "He links attraction to mystery, distance, principles and controlled availability, then extends the same framework to long-term relationships and simulated breakup explanations."},
+    {"start": 918.74, "end": 1426.60, "summary": "He describes women as continuously testing power relations, lists consistency tests, compares bosses with subordinates, and argues that techniques are fragments of a stronger underlying state."},
+    {"start": 1426.60, "end": 1765.64, "summary": "He equates rules, anger and willingness to lose a partner with relational strength, discusses abuse and deception through a dominance frame, then adds broad racial, regional and gender stereotypes."},
+    {"start": 1765.64, "end": 1952.48, "summary": "He distinguishes willing generosity from reluctant spending for approval, then recounts intentionally borrowing 10,000 yuan from a partner to raise attraction while saying he now finds the method unethical and does not recommend it."},
+    {"start": 1952.48, "end": 2317.30, "summary": "He develops a ‘rescue desire’ theory, argues that becoming compliant lowers attraction, and recommends keeping the relationship near a breakup boundary, including describing the partner as a tool and alternating availability."},
+    {"start": 2317.30, "end": 2480.64, "summary": "He closes with an unsupported evolutionary account of attraction, claiming primitive status and reproductive cues override modern ethics and social achievement."}
+  ],
+  "claims": [
+    {"claim_id": "v015-c01", "speaker": "Mikey", "statement": "He defines attraction-relevant strength as the relationship's perceived hierarchy, a person's principles and their manner under pressure rather than objective wealth, looks or credentials alone.", "conditions": "This is Mikey's interpretive framework and is already represented in formal source 9zRpsnsPGxU; it is not a validated model of all relationships.", "evidence": ["S00013-S00040@17.40-60.70", "S00291-S00330@425.06-480.10", "S01089-S01121@1385.24-1425.82"], "use_level": "context_only", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v015-c02", "speaker": "Mikey", "statement": "He treats tolerating silence, refusing approval-seeking and keeping one's principles as signs of an upper-position posture.", "conditions": "The narrow self-possession theme must be separated from his boss/subordinate analogy and from using dominance to control another person.", "evidence": ["S00218-S00267@327.22-394.10", "S00447-S00475@644.10-682.26"], "use_level": "context_only", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v015-c03", "speaker": "Mikey", "statement": "He argues that distance and incomplete disclosure preserve mystery and attraction, while deep disclosure and constant availability reduce it.", "conditions": "Presented as a universal claim without comparative evidence; his examples are personal interpretation rather than independent outcome verification.", "evidence": ["S00305-S00339@439.88-491.56", "S00501-S00568@710.32-791.36", "S00579-S00609@800.62-834.54"], "use_level": "hold", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v015-c04", "speaker": "Mikey", "statement": "He says techniques such as push-pull are only visible fragments of a broader inner state and will fail when copied without consistent principles and behavior.", "conditions": "Reusable only as a description of his method hierarchy; it does not validate the surrounding gender or dominance theory.", "evidence": ["S01057-S01097@1343.96-1397.20", "S01703-S01717@2093.84-2110.74"], "use_level": "context_only", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v015-c05", "speaker": "Mikey", "statement": "He distinguishes freely chosen generosity from spending reluctantly to buy approval or sexual access.", "conditions": "The self-consistency distinction is narrower than his unsupported assertion that women reliably detect motive and lose attraction.", "evidence": ["S01418-S01434@1770.64-1793.54", "S01445-S01480@1805.48-1847.58"], "use_level": "context_only", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v015-c06", "speaker": "Mikey", "statement": "He recounts intentionally borrowing 10,000 yuan from a partner despite having money in order to increase attraction, then says he now considers the tactic unethical and does not encourage or recommend it.", "conditions": "Manipulative financial anecdote; the negative qualification must never be omitted, and the claimed result is only his account.", "evidence": ["S01497-S01536@1862.46-1906.10", "S01552-S01581@1922.96-1950.50"], "use_level": "do_not_generalize", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v015-c07", "speaker": "Mikey", "statement": "He recommends sustaining long-term attraction through instability, a breakup-edge dynamic, selective availability and treating the partner as a tool.", "conditions": "Manipulative and potentially emotionally coercive relationship framing; not suitable for action advice.", "evidence": ["S01787-S01822@2192.80-2238.92", "S01844-S01858@2263.08-2281.00"], "use_level": "do_not_generalize", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v015-c08", "speaker": "Mikey", "statement": "He asserts that women prefer ‘bad men’, remain attached after deception or abuse, and are driven by rescue desire.", "conditions": "Unsupported gender generalization with victim-blaming and abuse-normalizing implications; his explicit statement that he does not encourage domestic violence does not validate the claimed mechanism.", "evidence": ["S01161-S01188@1471.54-1501.14", "S01301-S01367@1639.62-1713.84", "S01585-S01618@1953.18-1996.92"], "use_level": "do_not_generalize", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v015-c09", "speaker": "Mikey", "statement": "He makes broad biological claims about women and racial claims that Black people are less civilized and therefore more criminal and more attractive.", "conditions": "Unsupported sexist and racist essentialism; never present as fact or use to classify individuals or groups.", "evidence": ["S00097-S00126@145.26-193.06", "S00910-S00931@1164.84-1195.88", "S01893-S01969@2317.30-2420.58"], "use_level": "do_not_generalize", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v015-c10", "speaker": "Mikey discussing public figures", "statement": "He infers private motives and relationship hierarchies for named public figures from selected public behavior.", "conditions": "Third-party motive attribution is unverified and this edited upload supplies no full primary context.", "evidence": ["S00073-S00115@107.40-175.02", "S00136-S00192@208.98-293.30", "S00340-S00349@491.56-506.84"], "use_level": "hold", "knowledge_status": "hold_pending_independent_review"}
+  ],
+  "examples": [
+    {"example_id": "v015-e01", "summary": "The landlord's son, boss/employee elevator and schoolmate-on-an-e-bike stories illustrate perceived posture, but they are analogies or personal recollections, not controlled evidence.", "evidence": ["S00043-S00071", "S00230-S00290", "S00971-S01031"]},
+    {"example_id": "v015-e02", "summary": "The 2023 drinking-date and 2020 borrowing anecdotes are Mikey's own retrospective causal interpretations; no partner account or contemporaneous evidence is supplied.", "evidence": ["S00532-S00568", "S01497-S01581"]}
+  ],
+  "speaker_attribution": [
+    {"speaker": "Mikey", "basis": "Single visible host and continuous first-person narration across all sampled frames."},
+    {"speaker": "live commenters", "basis": "Several questions and short statements are read or answered by Mikey; the sparse visuals do not show a readable live-chat panel, so exact attribution remains contextual."},
+    {"speaker": "partners, women and public figures", "basis": "Only represented through Mikey's simulations, anecdotes or commentary; none provides an independent voice in this upload."}
+  ],
+  "visual_findings": [
+    "All 55 sampled frames were reviewed. Every frame shows the same single-host desk shot with burned-in subtitles; no chat record, document, public-figure clip or partner testimony appears in the sampled set.",
+    "The visual track supports only a talking-head classification. It does not verify public-figure claims, personal relationship outcomes, audience questions, the 10,000-yuan transfer or claims about women and racial groups.",
+    "Because sampling is at 45-second intervals, shorter overlays or gestures may have been missed. Dense continuous checks are required around high-impact anecdotes and possible audience-question transitions before exact audio-visual attribution."
+  ],
+  "permissions": {
+    "formal_integration": false,
+    "first_person_allowed": false,
+    "action_advice_allowed": false,
+    "knowledge_status": "hold_pending_independent_review",
+    "reason": "Edited reuse of an existing formal source plus manipulative relationship advice, unsupported group generalizations and unverified third-party claims."
+  },
+  "limitations": [
+    "Automatic transcript was read in full but not checked word-for-word against original audio; numerous homophone errors remain.",
+    "Fifty-five sparse frames do not equal continuous audio-visual verification.",
+    "The source is an edited reuse of formal source 9zRpsnsPGxU and must not add source weight or corroboration.",
+    "Claims about attraction mechanisms, public figures, abuse, deception, race and evolutionary biology are not independently verified."
+  ]
+}

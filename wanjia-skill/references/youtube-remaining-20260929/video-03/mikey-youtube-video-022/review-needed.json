@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-022",
+  "youtube_id": "-ibLhiQv4V8",
+  "review_completed": true,
+  "items": [
+    {"review_id": "v022-r01", "severity": "blocking_for_consent_advice", "issue": "The video reinterprets a woman's stated relationship objection as concealed willingness to have sex.", "affected_evidence": ["S00112-S00179", "visual/dense/155-355-every3s/"], "disposition": "Do not use this inference as advice; require clear, contemporaneous and freely given affirmative consent."},
+    {"review_id": "v022-r02", "severity": "blocking_for_consent_advice", "issue": "The coached explanation about prior hurt, fear of responsibility and honesty may be fabricated emotional disclosure used to obtain sex.", "affected_evidence": ["S00175-S00222"], "disposition": "Keep do_not_generalize and never provide the script as a persuasion method."},
+    {"review_id": "v022-r03", "severity": "blocking_for_privacy", "issue": "The source displays private conversations and relationship claims involving non-consenting third parties.", "affected_evidence": ["S00098-S00240", "S00296-S00319", "visual/dense/155-355-every3s/", "visual/dense/420-445-every2s/"], "disposition": "Keep screenshots in restricted research evidence; do not reproduce personal text or identifiers in user-facing answers."},
+    {"review_id": "v022-r04", "severity": "major", "issue": "The alleged sexual outcome is reported by the coach and lacks the woman's account or independent corroboration.", "affected_evidence": ["S00222-S00240"], "disposition": "Describe only as Mikey's unverified report and do not treat it as proof of effectiveness or consent."},
+    {"review_id": "v022-r05", "severity": "major", "issue": "Claims of four or five regular partners and influence over a wealthy woman function as promotional success testimonials.", "affected_evidence": ["S00296-S00319", "visual/dense/420-445-every2s/"], "disposition": "Require direct verification and full context; otherwise exclude from advice and performance claims."},
+    {"review_id": "v022-r06", "severity": "major", "issue": "The video infers insecurity and hidden motives from a woman's social-media presentation.", "affected_evidence": ["S00240-S00296"], "disposition": "Retain only the limited point that a profile is incomplete; do not diagnose the individual."},
+    {"review_id": "v022-r07", "severity": "major", "issue": "The source praises sincerity after presenting a possibly strategic or false emotional story.", "affected_evidence": ["S00175-S00222", "S00319-S00391"], "disposition": "Record the internal tension; do not merge the earlier tactic into the later authenticity principle."},
+    {"review_id": "v022-r08", "severity": "major", "issue": "The student's distress and rigid thinking are interpreted without an independent interview or mental-health assessment.", "affected_evidence": ["S00001-S00098"], "disposition": "Treat as a coaching hypothesis, not diagnosis, and do not infer the same cause for other users."},
+    {"review_id": "v022-r09", "severity": "minor", "issue": "The screenshots show selected fragments and may omit intervening messages, dates or prior agreements.", "affected_evidence": ["visual/dense/155-355-every3s/", "visual/dense/420-445-every2s/"], "disposition": "Do not reconstruct missing conversation or chronology from the edit."},
+    {"review_id": "v022-r10", "severity": "minor", "issue": "Automatic ASR contains unstable names and slang in sexual and relationship passages.", "affected_evidence": ["throughout"], "disposition": "Verify original audio before quoting exact wording; current claims rely on conservative paraphrase."}
+  ]
+}

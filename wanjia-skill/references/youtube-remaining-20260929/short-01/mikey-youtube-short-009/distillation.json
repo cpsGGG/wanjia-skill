@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-009",
+  "youtube_id": "vmnNcNnT4mE",
+  "title": "得有主体性，才配投入一段感情",
+  "coverage": {"transcript_segments_read": 24, "transcript_time_range_seconds": [0.0, 44.8], "sampled_frames_reviewed": 15, "continuous_original_audio_visual_review": false},
+  "timeline": [
+    {"start": 0.0, "end": 5.16, "summary": "A viewer asks how to preserve selfhood while seriously investing in a relationship."},
+    {"start": 5.16, "end": 22.9, "summary": "Mikey defines the self as one's underlying personhood and uses harsh insults to say that investment without subjectivity becomes servile dependence."},
+    {"start": 22.9, "end": 39.98, "summary": "He says subjectivity means retaining the choice to invest or not; he speculates that investment may support a longer relationship while noninvestment may remain casual."},
+    {"start": 39.98, "end": 44.8, "summary": "He concludes that subjectivity is a root of attraction."}
+  ],
+  "claims": [
+    {"claim_id": "s009-c01", "speaker": "Mikey", "statement": "He frames subjectivity as retaining one's own agency and the ability to choose whether and how deeply to invest in a relationship.", "conditions": "Agency does not mean disregard for a partner; mutual care, consent and responsibility remain necessary.", "evidence": ["S00003-S00017@5.16-32.40"], "use_level": "context_only", "knowledge_status": "candidate_new_pending_independent_review"},
+    {"claim_id": "s009-c02", "speaker": "Mikey", "statement": "He suggests that emotional investment can support a longer relationship, while noninvestment may leave it casual.", "conditions": "A broad, unsupported generalization; relationship duration depends on both people and many other conditions.", "evidence": ["S00018-S00022@32.40-39.98"], "use_level": "hold", "knowledge_status": "candidate_new_pending_independent_review"},
+    {"claim_id": "s009-c03", "speaker": "Mikey", "statement": "He calls subjectivity a root of attraction.", "conditions": "A conceptual claim from this excerpt, not demonstrated causal evidence.", "evidence": ["S00023-S00024@39.98-44.80"], "use_level": "hold", "knowledge_status": "candidate_new_pending_independent_review"}
+  ],
+  "examples": [],
+  "permissions": {"use_level": "hold", "first_person_allowed": false, "action_advice_allowed": false}
+}

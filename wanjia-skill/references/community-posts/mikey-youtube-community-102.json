@@ -1,0 +1,72 @@
+{
+  "schema_version": "mikey-community-post-fulltext-1.0",
+  "source_id": "mikey-youtube-community-102",
+  "post_id": "UgkxD0w1mfbc6NI7XgEwljqMao8HQsAFXpNz",
+  "url": "https://www.youtube.com/post/UgkxD0w1mfbc6NI7XgEwljqMao8HQsAFXpNz",
+  "published_at": "2026-01-20T18:04:11.23234-08:00",
+  "date_basis": "archived_public_observation",
+  "body": "不给\n不是完全不给\n而是不轻易给…",
+  "body_kind": "verbatim_or_as_archived_in_corrected_candidate",
+  "image_refs": [
+    {
+      "image_index": 1,
+      "research_archive_path": "research/youtube-community-batch1/images/UgkxD0w1mfbc6NI7XgEwljqMao8HQsAFXpNz/01.jpg",
+      "sha256": "77411018854fedebe0e74585bbb625355bacf3d8b6f6e11d8d8814a6a2235522",
+      "bytes": 201442,
+      "formal_asset_policy": "reference_only_do_not_copy",
+      "safe_summary": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。"
+    },
+    {
+      "image_index": 2,
+      "research_archive_path": "research/youtube-community-batch1/images/UgkxD0w1mfbc6NI7XgEwljqMao8HQsAFXpNz/02.jpg",
+      "sha256": "037f5b81b814525e93f13e1d90167d26e15ca34c7bcddbc7261abf2973e8e643",
+      "bytes": 167101,
+      "formal_asset_policy": "reference_only_do_not_copy",
+      "safe_summary": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。"
+    }
+  ],
+  "segments": [
+    {
+      "sid": "C0102-BODY",
+      "kind": "channel_body",
+      "text": "不给\n不是完全不给\n而是不轻易给…",
+      "verbatim_allowed": true,
+      "source_scope": "public_channel_body_as_archived"
+    },
+    {
+      "sid": "C0102-IMG01",
+      "kind": "image_reference_metadata",
+      "text": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。",
+      "verbatim_allowed": false,
+      "image_reference": {
+        "image_index": 1,
+        "research_archive_path": "research/youtube-community-batch1/images/UgkxD0w1mfbc6NI7XgEwljqMao8HQsAFXpNz/01.jpg",
+        "sha256": "77411018854fedebe0e74585bbb625355bacf3d8b6f6e11d8d8814a6a2235522",
+        "bytes": 201442,
+        "formal_asset_policy": "reference_only_do_not_copy",
+        "safe_summary": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。"
+      }
+    },
+    {
+      "sid": "C0102-IMG02",
+      "kind": "image_reference_metadata",
+      "text": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。",
+      "verbatim_allowed": false,
+      "image_reference": {
+        "image_index": 2,
+        "research_archive_path": "research/youtube-community-batch1/images/UgkxD0w1mfbc6NI7XgEwljqMao8HQsAFXpNz/02.jpg",
+        "sha256": "037f5b81b814525e93f13e1d90167d26e15ca34c7bcddbc7261abf2973e8e643",
+        "bytes": 167101,
+        "formal_asset_policy": "reference_only_do_not_copy",
+        "safe_summary": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。"
+      }
+    }
+  ],
+  "privacy_policy": {
+    "original_images_copied": false,
+    "raw_ocr_copied": false,
+    "private_chat_transcript_copied": false,
+    "third_party_identity_confirmed": false,
+    "publication_authorization_confirmed": false
+  }
+}

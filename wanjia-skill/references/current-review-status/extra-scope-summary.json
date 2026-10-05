@@ -1,0 +1,51 @@
+{
+  "status": "COMPLETE_EXISTING_EXTRA_SCOPES_INDEX_ONLY",
+  "records": 410,
+  "scope_counts": {
+    "audio_correction_layer": 27,
+    "supplemental_report_followup": 37,
+    "research_external_checklist": 200,
+    "excluded_asr_segment": 131,
+    "nested_review_subitem": 13,
+    "existing_solved_reference": 2
+  },
+  "recorded_status_counts": {
+    "open_no_confirmed_closure": 408,
+    "resolved_narrow_reference_with_preserved_evidence": 2
+  },
+  "scope_status_counts": {
+    "audio_correction_layer": {
+      "open_no_confirmed_closure": 27
+    },
+    "excluded_asr_segment": {
+      "open_no_confirmed_closure": 131
+    },
+    "existing_solved_reference": {
+      "resolved_narrow_reference_with_preserved_evidence": 2
+    },
+    "nested_review_subitem": {
+      "open_no_confirmed_closure": 13
+    },
+    "research_external_checklist": {
+      "open_no_confirmed_closure": 200
+    },
+    "supplemental_report_followup": {
+      "open_no_confirmed_closure": 37
+    }
+  },
+  "not_distinct_error_count": true,
+  "not_added_to_3746_original_task_count": true,
+  "existing_record_union": 4156,
+  "new_semantic_reviews": 0,
+  "new_closures": 0,
+  "index_sha256": "291fb1a13c75871689b7ad8ec959af1e331ccd7eb179614d21a9b7e6334ebad5",
+  "notes": [
+    "410单列记录含研究任务、校正候选、排除段、补充和嵌套项，不等于410错误。",
+    "27音频候选的既有status见原audio-corrections；这里的open计数不把supported_web_audio抹成未做任何核对。",
+    "131排除段与原115段/本次禁引段等口径分别保留；此处不重新授权或修正时轴。",
+    "200社区研究问题不因安全正文已接入正式就关闭身份、原图完整性、授权或效果问题。",
+    "4156只是此轮既有登记并集，不宣称全部可能问题已被发现或核实。"
+  ],
+  "production_index_filename": "extra-scope-inventory.jsonl",
+  "production_index_role": "Private production index only; not a required external runtime resource."
+}

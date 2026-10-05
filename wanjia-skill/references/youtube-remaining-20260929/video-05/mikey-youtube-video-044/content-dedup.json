@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-044",
+  "youtube_id": "wVlG5mlGWbI",
+  "decision": "reuse",
+  "reuse_of": "mikey-approach-010",
+  "formal_weight_if_integrated": 0,
+  "compared_sources": [
+    {"scope": "formal_mikey_guide", "source_count": 202, "comparison": "youtube_id_url_and_targeted_fulltext_screen"},
+    {"source_id": "mikey-approach-010", "title": "搭讪日常3", "comparison": "complete transcript, duration, two-case order, episode analysis and visual review"}
+  ],
+  "evidence": [
+    {"type": "identity", "result": "different_public_identity_but_same_underlying_recording", "basis": "The formal local source has no public URL; video-05 identity precheck therefore has no exact ID match."},
+    {"type": "normalized_fulltext", "target_segments": 102, "target_normalized_chars": 515, "target_normalized_sha256": "fff4276c0f5553a1d6b50d602ebe1802fd73a484c1fcef050ce2c4544f4bc5b9", "formal_target_segments": 77, "target_12_character_shingle_containment_in_formal_source": 0.603175, "note": "Different ASR segmentation; both cases and ordered wording align."},
+    {"type": "duration", "target_media_seconds": 151.092245, "formal_media_seconds": 151.069002, "difference_seconds": 0.023243, "result": "same_duration"},
+    {"type": "ordered_content_alignment", "result": "same_recording", "basis": "Same first participant with Matrix-style clothing, fright/surprise discussion, 30-second hesitation, restroom request, contact/green-light exchange; then the same hard cut to a second participant, shopping/clothing talk, student/Shandong conversation and future invitation."},
+    {"type": "visual_scope", "result": "same_two_case_public_edit", "basis": "All three sampled frames show the same first black-coat participant and later separate participant with companion in the same shopping area described by formal approach-010 visual review."}
+  ],
+  "boundary": "Same recording as mikey-approach-010. Keep the public URL as an alternate pointer, with zero additional source, claim, example or outcome weight."
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-027",
+  "youtube_id": "uIiEXJAGugY",
+  "decision": "new",
+  "compared_sources": [
+    {"scope": "formal_mikey_guide", "source_count": 202, "comparison": "youtube_id_url_normalized_fulltext_and_8_12_16_character_shingles"},
+    {"scope": "prior_remaining-video_research", "source_count": 25, "comparison": "normalized_fulltext_and_8_12_16_character_shingles"},
+    {"source_id": "9zRpsnsPGxU", "title": "两性吸引力解码 女人真正的慕强到底是什么", "comparison": "strength_status_and_attraction_theme"},
+    {"source_id": "mikey-youtube-video-011", "comparison": "public-figure_case_used_to_explain_attraction"},
+    {"source_id": "mikey-youtube-video-026", "comparison": "same-batch_strong-behavior-provider-and-resource_theme"}
+  ],
+  "evidence": [
+    {"type": "identity", "result": "no_exact_youtube_id_or_url_overlap", "basis": "video-03/identity-precheck.json and formal source-index"},
+    {"type": "normalized_fulltext", "target_normalized_chars": 3206, "target_sha256": "ce5991d0f4079eca6751067723eaa053360473c6fcd2a561af3fa93eb5c8f996", "formal_transcripts_checked": 202, "exact_matches": []},
+    {"type": "near_duplicate_screen", "method": "rolling_character_shingle_target_containment", "highest_formal_match": "quark-live-020", "containment": {"8_chars": 0.0006257822, "12_chars": 0.0, "16_chars": 0.0}, "result": "no transcript-scale reuse detected"},
+    {"type": "prior_research_screen", "highest_match": "mikey-youtube-video-015", "containment": {"8_chars": 0.0012515645, "12_chars": 0.0, "16_chars": 0.0}, "result": "no transcript-scale reuse detected"},
+    {"type": "related_content", "result": "strong-behavior, status, provider and problem-solving themes recur elsewhere, but this upload has a distinct public-figure case and screenshot sequence"}
+  ],
+  "boundary": "Count as a new research source only at zero formal permission pending independent review. The displayed posts and interview excerpts do not independently verify Mikey's claims about the named people's motives, marriage or relationships."
+}

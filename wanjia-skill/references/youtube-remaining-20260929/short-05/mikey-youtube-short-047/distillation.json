@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-047",
+  "youtube_id": "n5elOH9OnBA",
+  "title": "人生中我对犯错的心态 #pua #dating",
+  "coverage": {
+    "transcript_segments_read": 17,
+    "transcript_time_range_seconds": [0.5, 40.66],
+    "semantic_media_range_seconds": [0.0, 42.724717],
+    "sampled_frames_reviewed": 14,
+    "dense_frames_reviewed": 15,
+    "dense_windows_reviewed_seconds": [[21.0, 24.5], [37.0, 41.0]],
+    "continuous_original_audio_visual_review": false,
+    "excluded_asr_tail": null
+  },
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 9.96,
+      "summary": "Mikey introduces mistakes as a form of experience and says his stance is to accept the consequences of his own errors."
+    },
+    {
+      "start": 9.96,
+      "end": 23.3,
+      "summary": "He says he does not regret his decisions or doubt his judgment; when events go against his wishes, he attributes that to insufficient capability at the time and says capability can be improved. Dense subtitles resolve the ASR errors as '提升能力，仅此而已'."
+    },
+    {
+      "start": 23.3,
+      "end": 40.66,
+      "summary": "He says he would still make the original choice, because a present self cannot fairly judge the past self, who was also confused; he closes by telling viewers not to destroy themselves through self-attack."
+    },
+    {
+      "start": 40.66,
+      "end": 42.724717,
+      "summary": "The spoken argument has ended; no additional semantic content is present before the media ends."
+    }
+  ],
+  "claims": [
+    {
+      "claim_id": "s047-c01",
+      "speaker": "Mikey (visual/channel continuity)",
+      "statement": "He treats mistakes as experience and pairs self-forgiveness with willingness to bear the consequences of one's decisions.",
+      "conditions": "Bearing consequences must include repair and changed behavior where others were harmed; self-forgiveness does not erase responsibility.",
+      "evidence": ["S00001-S00004@0.50-13.10"],
+      "use_level": "reuse_zero_weight"
+    },
+    {
+      "claim_id": "s047-c02",
+      "speaker": "Mikey (visual/channel continuity)",
+      "statement": "He interprets an unwanted result as evidence that his capability at that time was insufficient and says capability can be improved rather than turning the result into global self-condemnation.",
+      "conditions": "This framing is useful only when it also tests whether the original judgment, goal and impact were wrong; not every bad outcome is solved by becoming more capable at the same choice.",
+      "evidence": ["S00005-S00009@13.10-23.30", "visual/dense-21_0-contact.jpg@21.0-24.0"],
+      "use_level": "hold"
+    },
+    {
+      "claim_id": "s047-c03",
+      "speaker": "Mikey (visual/channel continuity)",
+      "statement": "He argues against judging the past self solely from present hindsight and urges viewers not to engage in self-destructive self-attack.",
+      "conditions": "A self-compassion stance; it does not require repeating the same choice or refusing to update beliefs when new evidence appears.",
+      "evidence": ["S00010-S00017@23.30-40.66", "visual/dense-37_0-contact.jpg@37.0-40.5"],
+      "use_level": "reuse_zero_weight"
+    }
+  ],
+  "speaker_attribution": [
+    {
+      "speaker": "Mikey (visual/channel continuity)",
+      "basis": "One on-camera narrator speaks throughout; face and presentation match the channel's formal Mikey talking-head sources. No second speaker or quoted message appears."
+    }
+  ],
+  "visual_findings": [
+    "All 14 sampled frames show the same man speaking while walking on a public street, with editorial Chinese subtitles.",
+    "No concrete mistake, affected person, repair action or later result is shown; the visuals do not establish that any decision was harmless or correct.",
+    "Seven 2-fps frames from 21.0-24.5 seconds confirm '慢慢提升能力，仅此而已'; eight frames from 37.0-41.0 seconds confirm '不要去自我破坏OK', correcting the ASR errors."
+  ],
+  "permissions": {
+    "formal_integration": false,
+    "first_person_allowed": false,
+    "action_advice_allowed": false,
+    "use_level": "reuse_zero_weight_hold",
+    "reason": "The usable mistake-feedback and self-compassion method is already represented; the absolute refusal to regret or doubt one's judgment needs a strong responsibility and belief-update boundary."
+  },
+  "limitations": [
+    "The automatic transcript was not checked word-for-word against original audio; three garbled phrases were resolved from embedded subtitles only.",
+    "Sparse and targeted dense frames are not continuous audio-visual review.",
+    "The clip provides no concrete decision, affected party or repair process, so 'buying the consequences' cannot be evaluated.",
+    "The phrases 'never regret' and 'never doubt my judgment' are absolutes that conflict with the need to learn from evidence and repair preventable harm."
+  ]
+}

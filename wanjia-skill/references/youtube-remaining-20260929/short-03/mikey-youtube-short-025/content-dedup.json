@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-025",
+  "youtube_id": "0yq9ZVn7Cmc",
+  "decision": "reuse",
+  "formal_weight_if_integrated": 0,
+  "compared_sources": [
+    {
+      "scope": "formal_mikey_guide",
+      "source_count": 202,
+      "comparison": "id/url, normalized 8-character transcript shingles and semantic screen"
+    },
+    {
+      "scope": "remaining_video_batches_01_05_short_01_02_and_other_short_03_items",
+      "source_count": 72,
+      "comparison": "id/url, normalized transcript shingles and semantic screen"
+    },
+    {
+      "source_id": "mikey-youtube-live-010",
+      "comparison": "same parent livestream passages; 351 of 554 normalized 8-character shingles match, including the present-moment/three-second-rule sequence"
+    }
+  ],
+  "evidence": [
+    {
+      "type": "identity",
+      "result": "no_exact_id_or_url_match"
+    },
+    {
+      "type": "transcript",
+      "result": "same_passage_match",
+      "basis": "The opening follows formal mikey-youtube-live-010 at about 829.10-844.84 seconds almost verbatim, and the later date-anxiety/attraction material continues the same livestream context. No other screened source approached this overlap."
+    },
+    {
+      "type": "visual",
+      "result": "single_host_excerpt",
+      "basis": "All 32 sampled frames show one black-shirt speaker in the same purple-lit setup with editorial subtitles; no separate case footage or outcome evidence appears."
+    }
+  ],
+  "boundary": "Reuse formal mikey-youtube-live-010. This edited Short must not add independent source or claim weight."
+}

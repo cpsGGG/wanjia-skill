@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-live-refresh-002",
+  "youtube_id": "dpwFz0FpGzU",
+  "decision": "new",
+  "compared_sources": [
+    {
+      "scope": "formal_mikey_guide",
+      "source_count": 202,
+      "comparison": "youtube_id_url_normalized_fulltext_and_12_character_shingles"
+    },
+    {
+      "scope": "youtube_live_refresh_batch1_other_items",
+      "source_count": 2,
+      "source_ids": ["mikey-youtube-live-refresh-001", "mikey-youtube-live-refresh-003"],
+      "comparison": "youtube_id_normalized_fulltext_and_12_character_shingles"
+    },
+    {
+      "source_id": "i6bCkJEnMHM",
+      "title": "2026-07-14 - 女人为什么总会爱上骗子？",
+      "comparison": "highest formal 12-character shingle containment candidate"
+    }
+  ],
+  "evidence": [
+    {
+      "type": "identity",
+      "result": "no_exact_youtube_id_or_url_overlap",
+      "basis": "Batch identity precheck against the formal 202-source index and frozen undistilled inventory."
+    },
+    {
+      "type": "normalized_fulltext",
+      "target_segments": 4447,
+      "target_normalized_chars": 29515,
+      "target_normalized_sha256": "7231c7712ebdc4766637be03b99cf83d1bb3d639fe18ec09b999eab381a54ef0",
+      "formal_transcripts_checked": 202,
+      "exact_matches": []
+    },
+    {
+      "type": "near_duplicate_screen",
+      "method": "12_character_shingle_containment_in_target",
+      "highest_formal_containment": 0.0009188361408882082,
+      "highest_formal_source_id": "i6bCkJEnMHM",
+      "result": "no transcript-scale formal reuse detected"
+    },
+    {
+      "type": "batch_comparison",
+      "source_id": "mikey-youtube-live-refresh-001",
+      "youtube_id": "o1Auc_79NR8",
+      "target_12_character_shingle_containment": 0.00030627871362940275,
+      "result": "distinct source"
+    },
+    {
+      "type": "batch_comparison",
+      "source_id": "mikey-youtube-live-refresh-003",
+      "youtube_id": "EPmR6XOphxY",
+      "target_12_character_shingle_containment": 0.0002041858090862685,
+      "result": "distinct source"
+    },
+    {
+      "type": "visual_scope",
+      "result": "distinct case-study livestream",
+      "basis": "All 180 sparse frames show a two-person studio discussion centered on one long private-chat chronology, a separate inserted young-man video and later voice-message/call material."
+    }
+  ],
+  "boundary": "This is a new public source rather than a duplicate of the formal 202 or the other two refresh-batch items. Themes such as subjectivity, availability, attraction, wealth and online chat overlap existing material, but this private-message, travel, sexual encounter and hospital-payment chronology is distinct. Novelty does not relax the source's privacy, consent, medical, legal, financial or attribution restrictions."
+}

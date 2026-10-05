@@ -1,0 +1,2201 @@
+{
+  "role": "bounded_text_review_record_not_whole_parent_or_audio_authority",
+  "status": "accepted_payloads_in_isolated_candidate_pending_runtime_gate",
+  "input_sha256": "b1a70870136203c3165890a699cb37971adb3bece8b32ed5d9365600e11417cc",
+  "received_sha256": "617863b65505e14eb7e1e0dab48827334fae41d16fb564cf3ba34b9d2b85019b",
+  "independent_result": {
+    "status": "PASS_SCOPED_TEXT_ACCEPTANCE_WITH_THREE_REQUIRED_PAYLOAD_REVISIONS",
+    "mechanical_passed": 430,
+    "mechanical_total": 430,
+    "semantic_decision_method": "independent full-window reading and field-by-field scope judgment, not web PASS or count inference",
+    "complete_windows_read": 6,
+    "window_segments_read": 173,
+    "original_evidence_records": 57,
+    "embedded_full_cross_relations_read": 14,
+    "full_episode_semantic_review_performed": false,
+    "web_complete_payloads_accepted_without_edits": 2,
+    "web_payloads_requiring_revisions": 3,
+    "parent_objects_wholly_accepted": 0,
+    "complete_local_payload_proposals": 5,
+    "new_action_payloads": 0,
+    "new_permissions_applied": 0,
+    "existing_original_reviews_closed": 0,
+    "verdict_counts": {
+      "REVISE_CORE_CONTEXT_BOUNDARY": 1,
+      "REVISE_CORE_CONTEXT_AND_CLAIM": 1,
+      "REVISE_REMOVE_UNOWNED_REASON_AND_NARROW_CLAIM": 1,
+      "ACCEPT_COMPLETE_RESTRICTED_WEB_PAYLOAD": 2
+    },
+    "local_scope_proposals_adoptable_after_runtime_integration_gate": true,
+    "raw_web_payload_blanket_adoption_allowed": false,
+    "no_engine_change_proposed": true,
+    "necessary_atom_visible_boundaries_complete": true,
+    "optional_atom_proposals_are_not_registered_or_active": true,
+    "new_listening": "NOT_RUN",
+    "new_audio_visual_or_voiceprint": "NOT_RUN",
+    "real_runtime_acceptance_or_forward_answer_for_new_payloads": "NOT_RUN",
+    "formal_noncache_file_count": 1786,
+    "candidate_noncache_file_count": 1789,
+    "guide_file_delta_during_gate": {
+      "formal": [],
+      "candidate": []
+    },
+    "input_sha256": "b1a70870136203c3165890a699cb37971adb3bece8b32ed5d9365600e11417cc",
+    "received_sha256": "617863b65505e14eb7e1e0dab48827334fae41d16fb564cf3ba34b9d2b85019b",
+    "open_issue_count_note": "12 source-related inventory records include old narrow history and continuing limits; not 12 wrong sentences. 14 web questions overlap these limits and must not be added as independent error counts.",
+    "failed": []
+  },
+  "complete_payload_proposals_as_reviewed": {
+    "schema_version": "wanjia-v2-independent-text-payload-proposal-1",
+    "proposal_only": true,
+    "new_permissions_applied": 0,
+    "adoption_requires_runtime_gate": true,
+    "items": [
+      {
+        "knowledge_id": "quark-live-051-k001",
+        "source_id": "quark-live-051",
+        "verdict": "REVISE_CORE_CONTEXT_BOUNDARY",
+        "independent_text_finding": "否定前件S00750–S00752不能省略；S00763–S00766是读题而非命令。回答核心S00755–S00758、S00767–S00769有既有Mikey high。网页claim/reason的证据列表混入未逐SID归属的否定/转场，须单列context，不能把它们当新增Mikey认证。S00771鸵鸟心态归属继续开放。",
+        "input_binding": {
+          "knowledge_id": "quark-live-051-k001",
+          "formal_object_sha256": "16819d0a3b61662da5d54c9319affafacacdc8e6edec6c602478e205e7e4e157",
+          "candidate_object_sha256": "f9a6148914b8fe8928d6b35b8ace4505243bc326e70ba47788a27461c1c2ab76",
+          "body_sha256": "f341e559bcafa0ce9b86fcb7688fee3935e65af3d08b55e548e525e2ebc1139e",
+          "candidate_status_sha256": "918c2e93913ba85327828c2b3712d01fe04a969bb6a971352d2268630ea61e47",
+          "candidate_status_delta": [
+            {
+              "path": "/action_advice_allowed",
+              "before": null,
+              "after": false
+            },
+            {
+              "path": "/cross_use_level",
+              "before": null,
+              "after": "hold"
+            },
+            {
+              "path": "/first_person_allowed",
+              "before": null,
+              "after": false
+            }
+          ],
+          "input_pointer": "/sources/0/candidates/0",
+          "candidate_parent_permission_preserved": "hold/false/false"
+        },
+        "web_item_pointer": "/items/0",
+        "web_item_sha256": "aec3f2b196dfeaf8c8dbe760603470f1f9ad6c438f86b7d7c5a3910c01e227d1",
+        "original_web_persona_payload": {
+          "claim": "如果两性关系本来就不构成自己的困难，或者自己确实对这件事没有兴趣，它就不必被设为人生必须通过的一关。",
+          "reason": "所谓关卡是相对这个人实际面对的事而言的；本来没有这道关，就没有必须额外完成它的要求。",
+          "conditions": [
+            {
+              "condition": "讨论本人是否必须把情感／两性问题作为人生前置任务。",
+              "evidence_sids": [
+                "S00761",
+                "S00762",
+                "S00763",
+                "S00764",
+                "S00765",
+                "S00766",
+                "S00767",
+                "S00768",
+                "S00769"
+              ],
+              "origin": "source_explicit_or_close_paraphrase"
+            },
+            {
+              "condition": "不把这件事视为自身困难的例子，与对这件事本来没有兴趣的答复，是原段两种相关但不完全相同的情形；不合并成必须同时满足的两个门槛。",
+              "evidence_sids": [
+                "S00750",
+                "S00751",
+                "S00752",
+                "S00753",
+                "S00754",
+                "S00755",
+                "S00756",
+                "S00757",
+                "S00758",
+                "S00767",
+                "S00768",
+                "S00769"
+              ],
+              "origin": "source_explicit_or_close_paraphrase"
+            }
+          ],
+          "limits": [
+            "不能推广成所有人都不需要处理情感问题，也不能据此断言所有真正受困的人都必须先解决情感才能做别的事。",
+            "不能把S00763–S00766的观众提问输出为Mikey的行动命令。",
+            "不把S00771确定归给Mikey；也不能把该邻接限制忽略后，把任何回避或受阻都解释成不感兴趣。",
+            "发小只是原对谈中的第三方叙述，不能变成模拟者的朋友、亲历或已经核实的效果。"
+          ],
+          "claim_evidence_sids": [
+            "S00750",
+            "S00751",
+            "S00752",
+            "S00753",
+            "S00754",
+            "S00755",
+            "S00756",
+            "S00757",
+            "S00758",
+            "S00767",
+            "S00768",
+            "S00769"
+          ],
+          "reason_evidence_sids": [
+            "S00755",
+            "S00756",
+            "S00757",
+            "S00758",
+            "S00759",
+            "S00767",
+            "S00768",
+            "S00769"
+          ],
+          "source_modality_and_audit_boundary": "自动稿的答复在对应条件下用了肯定不需要；本候选保留该有条件判断。受阻与兴趣由语境归纳，不能冒充原段给出的诊断量表。",
+          "paraphrase_example": "本来没有把它当成难关，或者确实对它没有兴趣，就不必硬给自己加一关。是否要过这关，取决于它对你到底是不是个问题。",
+          "payload_id": "quark-live-051-k001-persona-v2-candidate-01",
+          "content_owner": "Mikey",
+          "use_mode": "limited_paraphrase_of_viewpoint_only",
+          "not_a_historical_quote": true,
+          "first_person_autobiography_allowed": false,
+          "identity_impersonation_allowed": false,
+          "direct_quotation_authorized": false,
+          "actual_effect_guarantee_allowed": false,
+          "paraphrase_example_status": "new_editor_composition_not_original_quote_not_a_method"
+        },
+        "proposed_complete_persona_payload": {
+          "claim": "如果两性关系本来就不构成自己的困难，或者自己确实对这件事没有兴趣，它就不必被设为人生必须通过的一关。",
+          "reason": "所谓关卡是相对这个人实际面对的事而言的；本来没有这道关，就没有必须额外完成它的要求。",
+          "conditions": [
+            {
+              "condition": "讨论本人是否必须把情感／两性问题作为人生前置任务。",
+              "evidence_sids": [
+                "S00761",
+                "S00762",
+                "S00763",
+                "S00764",
+                "S00765",
+                "S00766",
+                "S00767",
+                "S00768",
+                "S00769"
+              ],
+              "origin": "source_explicit_or_close_paraphrase"
+            },
+            {
+              "condition": "不把这件事视为自身困难的例子，与对这件事本来没有兴趣的答复，是原段两种相关但不完全相同的情形；不合并成必须同时满足的两个门槛。",
+              "evidence_sids": [
+                "S00750",
+                "S00751",
+                "S00752",
+                "S00753",
+                "S00754",
+                "S00755",
+                "S00756",
+                "S00757",
+                "S00758",
+                "S00767",
+                "S00768",
+                "S00769"
+              ],
+              "origin": "source_explicit_or_close_paraphrase"
+            }
+          ],
+          "limits": [
+            "不能推广成所有人都不需要处理情感问题，也不能据此断言所有真正受困的人都必须先解决情感才能做别的事。",
+            "不能把S00763–S00766的观众提问输出为Mikey的行动命令。",
+            "不把S00771确定归给Mikey；也不能把该邻接限制忽略后，把任何回避或受阻都解释成不感兴趣。",
+            "发小只是原对谈中的第三方叙述，不能变成模拟者的朋友、亲历或已经核实的效果。"
+          ],
+          "claim_evidence_sids": [
+            "S00753",
+            "S00754",
+            "S00755",
+            "S00756",
+            "S00757",
+            "S00758",
+            "S00767",
+            "S00768",
+            "S00769"
+          ],
+          "reason_evidence_sids": [
+            "S00755",
+            "S00756",
+            "S00757",
+            "S00758",
+            "S00767",
+            "S00768",
+            "S00769"
+          ],
+          "source_modality_and_audit_boundary": "自动稿的答复在对应条件下用了肯定不需要；本候选保留该有条件判断。受阻与兴趣由语境归纳，不能冒充原段给出的诊断量表。",
+          "paraphrase_example": "本来没有把它当成难关，或者确实对它没有兴趣，就不必硬给自己加一关。是否要过这关，取决于它对你到底是不是个问题。",
+          "payload_id": "quark-live-051-k001-persona-v2-local-independent-01",
+          "content_owner": "Mikey",
+          "use_mode": "limited_paraphrase_of_viewpoint_only",
+          "not_a_historical_quote": true,
+          "first_person_autobiography_allowed": false,
+          "identity_impersonation_allowed": false,
+          "direct_quotation_authorized": false,
+          "actual_effect_guarantee_allowed": false,
+          "paraphrase_example_status": "new_editor_composition_not_original_quote_not_a_method",
+          "required_semantic_context_sids_not_persona_authority": [
+            "S00750",
+            "S00751",
+            "S00752",
+            "S00759",
+            "S00761",
+            "S00762",
+            "S00763",
+            "S00764",
+            "S00765",
+            "S00766",
+            "S00770",
+            "S00771"
+          ],
+          "evidence_role_note": "S00750–S00752否定前件必须连读；读题与鸵鸟心态仅为必要上下文，不产生新Mikey逐SID归属。"
+        },
+        "proposed_persona_payload_sha256": "d8576c7bae4d75f4950d27d8649eca792748f1ceb29632b75dfc6c68acc87701",
+        "action_payload": null,
+        "action_reason_as_reviewed": "原段没有情感训练、时间安排或判断是否通关的具体步骤。现行method_or_meaning中的先判断再投入，是编者对观点的应用整理；不足以成为有来源的可执行方法。",
+        "content_origin": {
+          "primary": "automatic_transcript_plus_embedded_existing_speaker_audit",
+          "source_analysis": "embedded_full_safe_episode_analysis",
+          "all_new_review_is_text_only": true,
+          "saved_identity_anchor_report": "S00440–S00445在既有整期分析中被描述为右侧人物自称Mikey、介绍左侧Tinder King的嘴型同步锚点；该锚点的原逐句文本／帧图本轮未提供。"
+        },
+        "speaker_claim_scope": {
+          "owner": "Mikey",
+          "basis_kind": "reliance_on_supplied_preexisting_identity_and_sid_records",
+          "audited_support_sids": [
+            "S00755",
+            "S00756",
+            "S00757",
+            "S00758",
+            "S00767",
+            "S00768",
+            "S00769"
+          ],
+          "exact_scope": "只支持本条persona_payload各字段的有限语义范围；不是SID整段逐字许可，也不是整对象许可。",
+          "saved_report_pointer": "/sources/0/candidates/0/linked_catalog_speaker_evidence/1/object",
+          "saved_external_file": "mikey-guide/references/quark-live-batch5/quark-live-051/speaker-attribution/knowledge-attribution-audit.json",
+          "saved_external_pointer": "/knowledge/0",
+          "new_audio_or_visual_identity_verification": false,
+          "local_approved_core_sids": [
+            "S00753",
+            "S00754",
+            "S00755",
+            "S00756",
+            "S00757",
+            "S00758",
+            "S00767",
+            "S00768",
+            "S00769"
+          ],
+          "required_context_is_not_persona_or_attribution_authority": true
+        },
+        "real_world_outcome": {
+          "status": "not_independently_verified",
+          "source_report": "对发小的叙述未核实；没有通关测量或观点应用效果。",
+          "guarantee_allowed": false
+        },
+        "unresolved_questions": [
+          {
+            "issue_id": "K001-U1",
+            "status": "open",
+            "origin": "new_text_semantic_observation",
+            "question": "S00771的说话人及与前句的衔接尚无逐SID记录。",
+            "evidence_sids": [
+              "S00770",
+              "S00771",
+              "S00772"
+            ],
+            "blocks": "将不要有鸵鸟心态新增为Mikey本人明确限制或直接引语",
+            "blocks_current_narrow_payload": false,
+            "minimum_additional_evidence": {
+              "request": "如要扩大该限制的归属，只需现存S00770–S00772对应1594.11–1599.38秒的说话人校准记录／帧序与SID对照；不必重交本轮已读文本。",
+              "source_requests": [
+                {
+                  "source_id": "quark-live-051",
+                  "knowledge_id": null,
+                  "sids": [
+                    "S00770",
+                    "S00771",
+                    "S00772"
+                  ],
+                  "sid_scope": "listed_SIDs_locate_the_requested_evidence_not_a_claim_the_material_was_read"
+                }
+              ]
+            }
+          },
+          {
+            "issue_id": "K001-U2",
+            "status": "open",
+            "origin": "new_text_semantic_observation",
+            "question": "S00749一马平穿、S00775泡牛等词面为自动稿，未做原音校订。",
+            "evidence_sids": [
+              "S00749",
+              "S00775"
+            ],
+            "blocks": "这两个词的逐字引用；两词校订不能解除完整故事的排除",
+            "blocks_current_narrow_payload": false,
+            "minimum_additional_evidence": {
+              "request": "仅在需要逐字引语时补这两个SID的已有可靠校订；原片缺失时保持未校，不影响现有有限改述。完整发小故事仍不在payload内；若将来要扩展，另需S00778起至该故事结束的连续安全文本和对应归属，结束SID本包未知。",
+              "source_requests": [
+                {
+                  "source_id": "quark-live-051",
+                  "knowledge_id": null,
+                  "sids": [
+                    "S00749",
+                    "S00775"
+                  ],
+                  "sid_scope": "listed_SIDs_locate_the_requested_evidence_not_a_claim_the_material_was_read"
+                }
+              ]
+            }
+          }
+        ],
+        "original_review_items_closed": [],
+        "rejected_scopes": [
+          "把S00763–S00766的观众提问输出成Mikey命令",
+          "把未归属S00771当Mikey明确规则",
+          "复述未给结尾的发小故事为模拟者亲历"
+        ],
+        "separated_material_as_reviewed": [
+          {
+            "content_type": "third_party_anecdote",
+            "owner": "speaker_reports_childhood_friend",
+            "summary": "前文以发小不觉得两性互动困难作例子；尾部又开始讲发小，故事未完整提供。",
+            "evidence_sids": [
+              "S00745",
+              "S00746",
+              "S00747",
+              "S00748",
+              "S00749",
+              "S00750",
+              "S00751",
+              "S00752",
+              "S00753",
+              "S00754",
+              "S00772",
+              "S00773",
+              "S00774",
+              "S00775",
+              "S00776",
+              "S00777"
+            ],
+            "permitted_use": "仅说明论证语境；不输出未经核实的第三方详情或模拟者经历。"
+          },
+          {
+            "content_type": "audience_question_read_by_mikey",
+            "owner": "audience_question; reader=Mikey_for_audited_SIDs",
+            "summary": "是否必须过情关、能否去做自己感兴趣的事，是被复述的问题。",
+            "evidence_sids": [
+              "S00761",
+              "S00762",
+              "S00763",
+              "S00764",
+              "S00765",
+              "S00766"
+            ],
+            "permitted_use": "可说明问答背景，不当作Mikey回答本身。"
+          },
+          {
+            "content_type": "adjacent_caveat_speaker_unresolved",
+            "owner": "unresolved_at_segment_level",
+            "summary": "不要有鸵鸟心态出现在核心答复后，身份未逐SID提供。",
+            "evidence_sids": [
+              "S00771"
+            ],
+            "permitted_use": "保留为缩窄解释的邻接提醒，未批准为Mikey新增观点。"
+          }
+        ],
+        "editor_application_notes_as_reviewed": {
+          "attribution": "editor_only_not_mikey_original_method",
+          "notes": [
+            "编辑可把是否真的在意、是否确有受阻作为组织新问题的询问方向；不能称作Mikey原讲的两步诊断法。",
+            "与k002联用时可以先说明适用人群，再谈阶段投入；这是回答编排，原对谈顺序实际是k002在前、k001在后。"
+          ],
+          "action_permission_created": false
+        },
+        "existing_parent_action_and_persona_remain_closed": true,
+        "knowledge_object_patch": null,
+        "permission_patch": null,
+        "automatic_apply": false,
+        "adoption_unit": "complete payload plus visible necessary boundaries; not the parent row or raw SID words",
+        "new_audio_visual_or_voiceprint": false,
+        "implemented": false
+      },
+      {
+        "knowledge_id": "quark-live-051-k002",
+        "source_id": "quark-live-051",
+        "verdict": "REVISE_CORE_CONTEXT_AND_CLAIM",
+        "independent_text_finding": "S00674–S00678、S00694–S00699支持阶段转向。网页把更多异性认可与性经历并列，前者借了未逐SID归属的S00669–S00672；窄核心改为更多性经历。1–2年原语气强，不能说原文自己已给因人而异限定；数字仍未验证。设例、假设担忧、后续人名/次数不得进入core，跨k001例外明确为编辑协调。",
+        "input_binding": {
+          "knowledge_id": "quark-live-051-k002",
+          "formal_object_sha256": "c7fcc957ffb819f6e2f4dbd7298fbb189f73dfc78b514515856c05805e8b7ad6",
+          "candidate_object_sha256": "2dfae25bc4368a13907b5bb6b52969e92dd8fb3bab02e2bcd7220fc2c5487e3c",
+          "body_sha256": "ac493aed4411d1cdd9a14951df2ddcd5b90d24387ef0e9952e63b8d82480d725",
+          "candidate_status_sha256": "918c2e93913ba85327828c2b3712d01fe04a969bb6a971352d2268630ea61e47",
+          "candidate_status_delta": [
+            {
+              "path": "/action_advice_allowed",
+              "before": null,
+              "after": false
+            },
+            {
+              "path": "/cross_use_level",
+              "before": null,
+              "after": "hold"
+            },
+            {
+              "path": "/first_person_allowed",
+              "before": null,
+              "after": false
+            }
+          ],
+          "input_pointer": "/sources/0/candidates/1",
+          "candidate_parent_permission_preserved": "hold/false/false"
+        },
+        "web_item_pointer": "/items/1",
+        "web_item_sha256": "60e7c8e259550bf9a22138f7bc9652e70494625051453a9742025247bf7c55f3",
+        "original_web_persona_payload": {
+          "claim": "对确实把情感问题当作自身关卡的人，Mikey把解决它看成阶段任务；通过这一关后，下一步不应继续只追逐更多异性认可或更多性经历，而应把更多心思放在商业或人生其他板块的成长上。",
+          "reason": "在他的这段人生阶段比喻中，通过这一关后还存在更大的事情和其他可以成长的板块，继续只围着情感目标转不应成为永久方向。",
+          "conditions": [
+            {
+              "condition": "当前讨论的是自身确有这道关、希望处理的人，以及已经能够跨过这道关之后的方向。",
+              "evidence_sids": [
+                "S00674",
+                "S00675",
+                "S00676",
+                "S00677",
+                "S00678",
+                "S00679",
+                "S00680",
+                "S00681",
+                "S00682",
+                "S00683",
+                "S00684",
+                "S00685",
+                "S00686",
+                "S00687",
+                "S00688",
+                "S00689",
+                "S00690",
+                "S00691",
+                "S00692",
+                "S00693",
+                "S00694",
+                "S00695",
+                "S00696",
+                "S00697",
+                "S00698",
+                "S00699"
+              ],
+              "origin": "source_explicit_or_close_paraphrase"
+            },
+            {
+              "condition": "与后说的k001合读时，真正不把此事当成问题或没有兴趣的人不必被强制纳入这一顺序。",
+              "evidence_sids": [
+                "S00755",
+                "S00756",
+                "S00757",
+                "S00758",
+                "S00767",
+                "S00768",
+                "S00769"
+              ],
+              "origin": "same_source_cross_item_editor_reconciliation_not_original_step_order"
+            }
+          ],
+          "limits": [
+            "不设一到两年的训练期限或效果承诺；该数字只可另行说明为自动稿中的个人时间判断。",
+            "不能把比如二十多岁改为年龄要求、真实个案或所有男性的必经阶段。",
+            "不能输出为必须完成情感目标才有资格做事业；k001已提供不必设关的例外。",
+            "商业和其他人生板块是原段举出的方向，没有具体时间配额、完成标准或训练计划。"
+          ],
+          "claim_evidence_sids": [
+            "S00674",
+            "S00675",
+            "S00676",
+            "S00677",
+            "S00678",
+            "S00685",
+            "S00686",
+            "S00687",
+            "S00688",
+            "S00689",
+            "S00690",
+            "S00691",
+            "S00692",
+            "S00693",
+            "S00694",
+            "S00695",
+            "S00696",
+            "S00697",
+            "S00698",
+            "S00699"
+          ],
+          "reason_evidence_sids": [
+            "S00666",
+            "S00667",
+            "S00668",
+            "S00669",
+            "S00670",
+            "S00671",
+            "S00672",
+            "S00673",
+            "S00674",
+            "S00675",
+            "S00676",
+            "S00677",
+            "S00678",
+            "S00682",
+            "S00683",
+            "S00684",
+            "S00694",
+            "S00695",
+            "S00696",
+            "S00697",
+            "S00698",
+            "S00699"
+          ],
+          "source_modality_and_audit_boundary": "S00674–S00675的只需要花一到两年是较强断言。将其归为个人估计／未验证期限，是审核的证据限定，不是替Mikey补写原本更谨慎的话。",
+          "paraphrase_example": "情感这一关如果已经过了，下一步就别还只盯着要再追到什么样的女生了。把更多心思放到商业上，或者人生其他板块的成长上。",
+          "payload_id": "quark-live-051-k002-persona-v2-candidate-01",
+          "content_owner": "Mikey",
+          "use_mode": "limited_paraphrase_of_viewpoint_only",
+          "not_a_historical_quote": true,
+          "first_person_autobiography_allowed": false,
+          "identity_impersonation_allowed": false,
+          "direct_quotation_authorized": false,
+          "actual_effect_guarantee_allowed": false,
+          "paraphrase_example_status": "new_editor_composition_not_original_quote_not_a_method"
+        },
+        "proposed_complete_persona_payload": {
+          "claim": "在这段人生阶段论述里，情感这一关过了以后，下一步不应该仍只想着再去获得更多性经历，而应该把更多心思放到商业或人生其他板块的成长上。",
+          "reason": "在这段阶段比喻中，过了情感这一关之后，还有更大的事情和其他可以成长的板块。",
+          "conditions": [
+            {
+              "condition": "当前讨论的是自身确有这道关、希望处理的人，以及已经能够跨过这道关之后的方向。",
+              "evidence_sids": [
+                "S00674",
+                "S00675",
+                "S00676",
+                "S00677",
+                "S00678",
+                "S00679",
+                "S00680",
+                "S00681",
+                "S00682",
+                "S00683",
+                "S00684",
+                "S00685",
+                "S00686",
+                "S00687",
+                "S00688",
+                "S00689",
+                "S00690",
+                "S00691",
+                "S00692",
+                "S00693",
+                "S00694",
+                "S00695",
+                "S00696",
+                "S00697",
+                "S00698",
+                "S00699"
+              ],
+              "origin": "source_explicit_or_close_paraphrase"
+            },
+            {
+              "condition": "与后说的k001合读时，真正不把此事当成问题或没有兴趣的人不必被强制纳入这一顺序。",
+              "evidence_sids": [
+                "S00755",
+                "S00756",
+                "S00757",
+                "S00758",
+                "S00767",
+                "S00768",
+                "S00769"
+              ],
+              "origin": "same_source_cross_item_editor_reconciliation_not_original_step_order"
+            }
+          ],
+          "limits": [
+            "不设一到两年的训练期限或效果承诺；该数字只可另行说明为自动稿中的个人时间判断。",
+            "不能把比如二十多岁改为年龄要求、真实个案或所有男性的必经阶段。",
+            "不能输出为必须完成情感目标才有资格做事业；k001已提供不必设关的例外。",
+            "商业和其他人生板块是原段举出的方向，没有具体时间配额、完成标准或训练计划。"
+          ],
+          "claim_evidence_sids": [
+            "S00674",
+            "S00675",
+            "S00676",
+            "S00677",
+            "S00678",
+            "S00694",
+            "S00695",
+            "S00696",
+            "S00697",
+            "S00698",
+            "S00699"
+          ],
+          "reason_evidence_sids": [
+            "S00676",
+            "S00677",
+            "S00678",
+            "S00694",
+            "S00695",
+            "S00696",
+            "S00697",
+            "S00698",
+            "S00699"
+          ],
+          "source_modality_and_audit_boundary": "S00674–S00675的只需要花一到两年是较强断言。将其归为个人估计／未验证期限，是审核的证据限定，不是替Mikey补写原本更谨慎的话。",
+          "paraphrase_example": "情感这一关过了之后，下一步就别还只想着再去睡到什么样的女生。更多心思应该放到商业，或者人生其他板块的成长上。",
+          "payload_id": "quark-live-051-k002-persona-v2-local-independent-01",
+          "content_owner": "Mikey",
+          "use_mode": "limited_paraphrase_of_viewpoint_only",
+          "not_a_historical_quote": true,
+          "first_person_autobiography_allowed": false,
+          "identity_impersonation_allowed": false,
+          "direct_quotation_authorized": false,
+          "actual_effect_guarantee_allowed": false,
+          "paraphrase_example_status": "new_editor_composition_not_original_quote_not_a_method",
+          "required_semantic_context_sids_not_persona_authority": [
+            "S00666",
+            "S00667",
+            "S00668",
+            "S00669",
+            "S00670",
+            "S00671",
+            "S00672",
+            "S00673",
+            "S00679",
+            "S00680",
+            "S00681",
+            "S00682",
+            "S00683",
+            "S00684",
+            "S00685",
+            "S00686",
+            "S00687",
+            "S00688",
+            "S00689",
+            "S00690",
+            "S00691",
+            "S00692",
+            "S00693"
+          ],
+          "evidence_role_note": "未逐SID归属的S00666–S00673、设例和假设只作上下文；与k001例外的连接是编辑协调，不是原讲步骤或新增共同立场。"
+        },
+        "proposed_persona_payload_sha256": "0e5bf93d82675591189f4ee51f5754270d8458aaba1a2855b6ba269d03322851",
+        "action_payload": null,
+        "action_reason_as_reviewed": "过关后转向其他板块是方向主张；确认不再受阻、重新分配时间等现行整理没有具体频次、执行内容、门槛或原讲步骤。不能把一般人生排序冒充可落地的Mikey方法。",
+        "content_origin": {
+          "primary": "automatic_transcript_plus_embedded_existing_speaker_audit",
+          "source_analysis": "embedded_full_safe_episode_analysis",
+          "all_new_review_is_text_only": true,
+          "saved_identity_anchor_report": "S00440–S00445在既有整期分析中被描述为右侧人物自称Mikey、介绍左侧Tinder King的嘴型同步锚点；该锚点的原逐句文本／帧图本轮未提供。"
+        },
+        "speaker_claim_scope": {
+          "owner": "Mikey",
+          "basis_kind": "reliance_on_supplied_preexisting_identity_and_sid_records",
+          "audited_support_sids": [
+            "S00674",
+            "S00675",
+            "S00676",
+            "S00677",
+            "S00678",
+            "S00694",
+            "S00695",
+            "S00696",
+            "S00697",
+            "S00698",
+            "S00699"
+          ],
+          "exact_scope": "只支持本条persona_payload各字段的有限语义范围；不是SID整段逐字许可，也不是整对象许可。",
+          "saved_report_pointer": "/sources/0/candidates/1/linked_catalog_speaker_evidence/1/object",
+          "saved_external_file": "mikey-guide/references/quark-live-batch5/quark-live-051/speaker-attribution/knowledge-attribution-audit.json",
+          "saved_external_pointer": "/knowledge/1",
+          "new_audio_or_visual_identity_verification": false,
+          "local_approved_core_sids": [
+            "S00674",
+            "S00675",
+            "S00676",
+            "S00677",
+            "S00678",
+            "S00694",
+            "S00695",
+            "S00696",
+            "S00697",
+            "S00698",
+            "S00699"
+          ],
+          "required_context_is_not_persona_or_attribution_authority": true
+        },
+        "real_world_outcome": {
+          "status": "not_independently_verified",
+          "source_report": "无通关定义、个体跟踪或一到两年普适期限的验证；年轻人是设例。",
+          "guarantee_allowed": false
+        },
+        "unresolved_questions": [
+          {
+            "issue_id": "K002-U1",
+            "status": "open",
+            "origin": "new_text_semantic_observation",
+            "question": "一到两年这项时间断言未获原音逐字核验，也没有普适效果依据。",
+            "evidence_sids": [
+              "S00674",
+              "S00675",
+              "S00676",
+              "S00677",
+              "S00678"
+            ],
+            "blocks": "把数字作为精确逐字引语、工期、保证或成效结论",
+            "blocks_current_narrow_payload": false,
+            "minimum_additional_evidence": {
+              "request": "若只需数字字面核验，补S00674–S00678的既有可靠校订；如以后取得原片，才可针对1418.32–1425.48秒回听。对普适效果的要求不能由回听一段话解决。",
+              "source_requests": [
+                {
+                  "source_id": "quark-live-051",
+                  "knowledge_id": null,
+                  "sids": [
+                    "S00674",
+                    "S00675",
+                    "S00676",
+                    "S00677",
+                    "S00678"
+                  ],
+                  "sid_scope": "listed_SIDs_locate_the_requested_evidence_not_a_claim_the_material_was_read"
+                }
+              ]
+            }
+          },
+          {
+            "issue_id": "K002-U2",
+            "status": "open",
+            "origin": "embedded_cross_relation_legacy_unresolved",
+            "question": "原跨关系T01、P29、C07仍含051归属未定的旧字段；C07的条件张力仍需保留。",
+            "evidence_sids": [
+              "S00674",
+              "S00675",
+              "S00676",
+              "S00677",
+              "S00678",
+              "S00679",
+              "S00680",
+              "S00681",
+              "S00682",
+              "S00683",
+              "S00684",
+              "S00685",
+              "S00686",
+              "S00687",
+              "S00688",
+              "S00689",
+              "S00690",
+              "S00691",
+              "S00692",
+              "S00693",
+              "S00694",
+              "S00695",
+              "S00696",
+              "S00697",
+              "S00698",
+              "S00699",
+              "S00755",
+              "S00756",
+              "S00757",
+              "S00758",
+              "S00759",
+              "S00760",
+              "S00761",
+              "S00762",
+              "S00763",
+              "S00764",
+              "S00765",
+              "S00766",
+              "S00767",
+              "S00768",
+              "S00769"
+            ],
+            "blocks": "关闭旧跨关系待核、宣称两位讲者观点完全一致",
+            "blocks_current_narrow_payload": false,
+            "minimum_additional_evidence": {
+              "request": "本地核对这些对象的版本与既有knowledge-attribution-audit记录；本轮已能定位Mikey子段，但不得把来源内语义兼容当成旧问题全部关闭。",
+              "source_requests": [
+                {
+                  "source_id": "quark-live-051",
+                  "knowledge_id": null,
+                  "sids": [
+                    "S00674",
+                    "S00675",
+                    "S00676",
+                    "S00677",
+                    "S00678",
+                    "S00679",
+                    "S00680",
+                    "S00681",
+                    "S00682",
+                    "S00683",
+                    "S00684",
+                    "S00685",
+                    "S00686",
+                    "S00687",
+                    "S00688",
+                    "S00689",
+                    "S00690",
+                    "S00691",
+                    "S00692",
+                    "S00693",
+                    "S00694",
+                    "S00695",
+                    "S00696",
+                    "S00697",
+                    "S00698",
+                    "S00699",
+                    "S00755",
+                    "S00756",
+                    "S00757",
+                    "S00758",
+                    "S00759",
+                    "S00760",
+                    "S00761",
+                    "S00762",
+                    "S00763",
+                    "S00764",
+                    "S00765",
+                    "S00766",
+                    "S00767",
+                    "S00768",
+                    "S00769"
+                  ],
+                  "sid_scope": "listed_SIDs_locate_the_requested_evidence_not_a_claim_the_material_was_read"
+                }
+              ]
+            }
+          }
+        ],
+        "original_review_items_closed": [],
+        "rejected_scopes": [
+          "一到两年训练工期或成效承诺",
+          "将所有人先过情关写为Mikey统一流程",
+          "把未归属前段更多异性认可写入当前高归属core",
+          "将S00702–S00707玩笑数字当真实记录"
+        ],
+        "separated_material_as_reviewed": [
+          {
+            "content_type": "personal_time_assertion",
+            "owner": "Mikey",
+            "summary": "自动稿记载花一到两年的说法，原语气较确定；未验证为普遍期限。",
+            "evidence_sids": [
+              "S00674",
+              "S00675",
+              "S00676",
+              "S00677"
+            ],
+            "permitted_use": "只作带来源和证据边界的数字说明，不进入训练日程或效果承诺。"
+          },
+          {
+            "content_type": "hypothetical_objection",
+            "owner": "Mikey_in_discussion_context",
+            "summary": "万一过关后不再对情感感兴趣，是设想的担忧。",
+            "evidence_sids": [
+              "S00679",
+              "S00680",
+              "S00681",
+              "S00682",
+              "S00683",
+              "S00684"
+            ],
+            "permitted_use": "只作论证背景，不作本人亲历。"
+          },
+          {
+            "content_type": "hypothetical_example",
+            "owner": "Mikey_in_discussion_context",
+            "summary": "二十多岁、同伴情感活跃而自己受困，是比如引出的设例。",
+            "evidence_sids": [
+              "S00685",
+              "S00686",
+              "S00687",
+              "S00688",
+              "S00689",
+              "S00690",
+              "S00691",
+              "S00692",
+              "S00693"
+            ],
+            "permitted_use": "只说明适用讨论，不推广年龄、频次或个案事实。"
+          },
+          {
+            "content_type": "game_metaphor",
+            "owner": "Mikey",
+            "summary": "通关、下一把借游戏说明人生阶段，未出现真实游戏规则或统计。",
+            "evidence_sids": [
+              "S00674",
+              "S00675",
+              "S00676",
+              "S00677",
+              "S00678",
+              "S00682",
+              "S00683",
+              "S00684",
+              "S00699"
+            ],
+            "permitted_use": "仅保留阶段比喻，不变成训练关卡指标。"
+          },
+          {
+            "content_type": "brief_guest_agreement",
+            "owner": "Tinder王_by_existing_note_approximately_S00701",
+            "summary": "嘉宾在核心论述后作简短认同；该定位来自既有notes，非本轮逐SID音校。",
+            "evidence_sids": [
+              "S00701"
+            ],
+            "permitted_use": "不得据此扩大为两位講者共同完整路线。"
+          },
+          {
+            "content_type": "unclear_following_banter",
+            "owner": "unresolved_at_segment_level",
+            "summary": "S00700以及S00702–S00707含玩笑、残缺人名和数字，缺少确切角色与事件。",
+            "evidence_sids": [
+              "S00700",
+              "S00702",
+              "S00703",
+              "S00704",
+              "S00705",
+              "S00706",
+              "S00707"
+            ],
+            "permitted_use": "不进入任何观点、人物经历、频率或真实结果payload。"
+          }
+        ],
+        "editor_application_notes_as_reviewed": {
+          "attribution": "editor_only_not_mikey_original_method",
+          "notes": [
+            "将是否受困放在回答开头，再讨论阶段转向，是编者面向新问题的编排；不是原段原先就采用的步骤顺序。",
+            "如果要提出具体时间重新分配方案，应另标编辑建议并另取用户目标和现实条件，不能落在本条action_payload。"
+          ],
+          "action_permission_created": false
+        },
+        "existing_parent_action_and_persona_remain_closed": true,
+        "knowledge_object_patch": null,
+        "permission_patch": null,
+        "automatic_apply": false,
+        "adoption_unit": "complete payload plus visible necessary boundaries; not the parent row or raw SID words",
+        "new_audio_visual_or_voiceprint": false,
+        "implemented": false
+      },
+      {
+        "knowledge_id": "quark-live-051-k005",
+        "source_id": "quark-live-051",
+        "verdict": "REVISE_REMOVE_UNOWNED_REASON_AND_NARROW_CLAIM",
+        "independent_text_finding": "S01081–S01088是嘉宾。S01142–S01143是Mikey的短结果判断，但其条件S01141没有逐SID身份，本轮不准它变成Mikey完整因果理由。网页reason虽承认语境重建，仍放入persona reason字段，会被当Mikey理由使用；改为null。最小原子只取high的S01145情绪主张；两方都得不到保持署名对谈记录，不推成规则。S01144中置信及跨窗缺37段仍开放。",
+        "input_binding": {
+          "knowledge_id": "quark-live-051-k005",
+          "formal_object_sha256": "9d5098cee13aeebc438d1f72b8d9a11e1bc93c22cb26371e37ab35f42f87822a",
+          "candidate_object_sha256": "abd95a7e442d5270bd957834d25cdb39f70ac249eb4d524de1d85ce99ed72aa8",
+          "body_sha256": "5d7f75c20e291928ed01a0719323243304137253f74a07ffb3495a5f4a9eb26a",
+          "candidate_status_sha256": "918c2e93913ba85327828c2b3712d01fe04a969bb6a971352d2268630ea61e47",
+          "candidate_status_delta": [
+            {
+              "path": "/action_advice_allowed",
+              "before": null,
+              "after": false
+            },
+            {
+              "path": "/cross_use_level",
+              "before": null,
+              "after": "hold"
+            },
+            {
+              "path": "/first_person_allowed",
+              "before": null,
+              "after": false
+            }
+          ],
+          "input_pointer": "/sources/0/candidates/2",
+          "candidate_parent_permission_preserved": "hold/false/false"
+        },
+        "web_item_pointer": "/items/2",
+        "web_item_sha256": "4b69222de79265ea23e8716c988065406c7dd2d5aae24f1f56bf97e2447bd478",
+        "original_web_persona_payload": {
+          "claim": "在这段男性竞争话题中，Mikey补充双方都得不到结果的判断，并把重点落在自己不能有情绪波动上。",
+          "reason": "这句话承接邻接对话中被另一名男性的状态牵引的前件；因此可有限归纳为，不要让竞争牵着自己的情绪走。这个完整条件关系是对话语境重建，不能说全部由Mikey独立提出。",
+          "conditions": [
+            {
+              "condition": "仅限本段有关多人／男性竞争的对话；不是所有人际关系中的普遍无情绪要求。",
+              "evidence_sids": [
+                "S01087",
+                "S01088",
+                "S01135",
+                "S01136",
+                "S01137",
+                "S01138",
+                "S01139",
+                "S01140",
+                "S01141",
+                "S01142",
+                "S01143",
+                "S01144",
+                "S01145"
+              ],
+              "origin": "dialogue_context_with_guest_and_unresolved_antecedent"
+            },
+            {
+              "condition": "Mikey部分只取S01142、S01143、S01145；S01141只解释前件，S01144不作为核心证据。",
+              "evidence_sids": [
+                "S01141",
+                "S01142",
+                "S01143",
+                "S01144",
+                "S01145"
+              ],
+              "origin": "editor_attribution_boundary"
+            }
+          ],
+          "limits": [
+            "不能把雄竞是降低吸引唯一／最大原因的框架归给Mikey；它在既有审计中属于Tinder王，具体自动稿词面仍有疑误。",
+            "不能由双方都得不到推出只要无情绪就能得到对方，也不能将人物强语气当作已验证的必然结果。",
+            "不把不吃feel就成为小弟、对方故意测试等邻句归给Mikey。",
+            "不加入如何镇定、如何配合、如何争夺或如何识破他人意图的步骤。"
+          ],
+          "claim_evidence_sids": [
+            "S01142",
+            "S01143",
+            "S01145"
+          ],
+          "reason_evidence_sids": [
+            "S01141",
+            "S01142",
+            "S01143",
+            "S01145"
+          ],
+          "source_modality_and_audit_boundary": "原文谁都得不到／不能有任何情绪波动是较强说法。本次只允许报告他在此场景的判断；不是证明结果必然，也不是把明显二字倒写成原文。",
+          "paraphrase_example": "这里的重点是别被竞争牵着自己的情绪走。Mikey在这段的判断是，两个人陷进去可能都没有结果；他强调的是自己的情绪不要跟着波动。",
+          "payload_id": "quark-live-051-k005-persona-v2-candidate-01",
+          "content_owner": "Mikey",
+          "use_mode": "limited_paraphrase_of_viewpoint_only",
+          "not_a_historical_quote": true,
+          "first_person_autobiography_allowed": false,
+          "identity_impersonation_allowed": false,
+          "direct_quotation_authorized": false,
+          "actual_effect_guarantee_allowed": false,
+          "paraphrase_example_status": "new_editor_composition_not_original_quote_not_a_method"
+        },
+        "proposed_complete_persona_payload": {
+          "claim": "在本段男性竞争话题中，Mikey强调自己不能有任何情绪波动。",
+          "reason": null,
+          "conditions": [
+            {
+              "condition": "只报告本段竞争话题中Mikey的情绪主张；不延伸成所有人际关系的普遍禁令。",
+              "evidence_sids": [
+                "S01145"
+              ],
+              "origin": "source_stance_with_editor_scope_boundary"
+            },
+            {
+              "condition": "竞争场景与条件链仅帮助定位对谈；嘉宾及未定前件不进入Mikey原子理由。",
+              "evidence_sids": [
+                "S01081",
+                "S01082",
+                "S01083",
+                "S01084",
+                "S01085",
+                "S01086",
+                "S01087",
+                "S01088",
+                "S01135",
+                "S01136",
+                "S01137",
+                "S01138",
+                "S01139",
+                "S01140",
+                "S01141",
+                "S01142",
+                "S01143",
+                "S01144"
+              ],
+              "origin": "editor_context_boundary_not_new_mikey_claim"
+            }
+          ],
+          "limits": [
+            "不能把雄竞是降低吸引唯一／最大原因的框架归给Mikey；它在既有审计中属于Tinder王，具体自动稿词面仍有疑误。",
+            "不能由双方都得不到推出只要无情绪就能得到对方，也不能将人物强语气当作已验证的必然结果。",
+            "不把不吃feel就成为小弟、对方故意测试等邻句归给Mikey。",
+            "不加入如何镇定、如何配合、如何争夺或如何识破他人意图的步骤。",
+            "S01142–S01143的双方都得不到保留为Mikey署名对谈判断，未定前件不纳入本原子；不由它补出完整结果规律。",
+            "本原子reason为空，未给调节情绪步骤；空值不等于原讨论没有理由，也不允许回读邻句替该原子自动补理由。",
+            "本轮输入两窗缺S01097–S01133共37段；本地完整自动稿存在不表示这个缺口已被本轮语义/归属审核关闭。"
+          ],
+          "claim_evidence_sids": [
+            "S01145"
+          ],
+          "reason_evidence_sids": [],
+          "source_modality_and_audit_boundary": "原文谁都得不到／不能有任何情绪波动是较强说法。本次只允许报告他在此场景的判断；不是证明结果必然，也不是把明显二字倒写成原文。",
+          "paraphrase_example": "在这段竞争场景里，自己的情绪不能有任何波动。",
+          "payload_id": "quark-live-051-k005-persona-v2-local-independent-01",
+          "content_owner": "Mikey",
+          "use_mode": "limited_paraphrase_of_viewpoint_only",
+          "not_a_historical_quote": true,
+          "first_person_autobiography_allowed": false,
+          "identity_impersonation_allowed": false,
+          "direct_quotation_authorized": false,
+          "actual_effect_guarantee_allowed": false,
+          "paraphrase_example_status": "new_editor_composition_not_original_quote_not_a_method",
+          "required_semantic_context_sids_not_persona_authority": [
+            "S01081",
+            "S01082",
+            "S01083",
+            "S01084",
+            "S01085",
+            "S01086",
+            "S01087",
+            "S01088",
+            "S01135",
+            "S01136",
+            "S01137",
+            "S01138",
+            "S01139",
+            "S01140",
+            "S01141",
+            "S01142",
+            "S01143",
+            "S01144"
+          ],
+          "evidence_role_note": "只取S01145的既有Mikey high。谁都得不到、S01144是与未定条件链单列为对谈审计记录。"
+        },
+        "proposed_persona_payload_sha256": "24a99380a9ea82317f6502796b89bf0102b3ee87b9c72e8c3c4f588aef54ff3d",
+        "action_payload": null,
+        "action_reason_as_reviewed": "不要有情绪波动是抽象自我状态要求，原段没有调节情绪的具体步骤或观察方法。现行先稳住、不急着证明或争抢属于编辑扩展；嘉宾的方法或其他来源的配合流程也不能代替Mikey证据。",
+        "content_origin": {
+          "primary": "automatic_transcript_plus_embedded_existing_speaker_audit",
+          "source_analysis": "embedded_full_safe_episode_analysis",
+          "all_new_review_is_text_only": true,
+          "saved_identity_anchor_report": "S00440–S00445在既有整期分析中被描述为右侧人物自称Mikey、介绍左侧Tinder King的嘴型同步锚点；该锚点的原逐句文本／帧图本轮未提供。"
+        },
+        "speaker_claim_scope": {
+          "owner": "Mikey",
+          "basis_kind": "reliance_on_supplied_preexisting_identity_and_sid_records",
+          "audited_support_sids": [
+            "S01142",
+            "S01143",
+            "S01145"
+          ],
+          "exact_scope": "只支持本条persona_payload各字段的有限语义范围；不是SID整段逐字许可，也不是整对象许可。",
+          "saved_report_pointer": "/sources/0/candidates/2/linked_catalog_speaker_evidence/1/object",
+          "saved_external_file": "mikey-guide/references/quark-live-batch5/quark-live-051/speaker-attribution/knowledge-attribution-audit.json",
+          "saved_external_pointer": "/knowledge/4",
+          "new_audio_or_visual_identity_verification": false,
+          "local_approved_core_sids": [
+            "S01145"
+          ],
+          "required_context_is_not_persona_or_attribution_authority": true
+        },
+        "real_world_outcome": {
+          "status": "not_independently_verified",
+          "source_report": "谁都得不到是对谈判断；无具体事件的独立过程或结果证据。",
+          "guarantee_allowed": false
+        },
+        "unresolved_questions": [
+          {
+            "issue_id": "K005-U1",
+            "status": "open",
+            "origin": "existing_source_analysis_and_speaker_audit",
+            "question": "S01144单字是的既有归属仅为中置信。",
+            "evidence_sids": [
+              "S01144"
+            ],
+            "blocks": "该单字的确定归属或据其批准完整赞同",
+            "blocks_current_narrow_payload": false,
+            "minimum_additional_evidence": {
+              "request": "若需要精确归属，补2356.68–2357.58秒附近现存的更细帧序／说话人记录；原片缺失时保持中置信，不阻断不依赖它的核心观点。",
+              "source_requests": [
+                {
+                  "source_id": "quark-live-051",
+                  "knowledge_id": null,
+                  "sids": [
+                    "S01144"
+                  ],
+                  "sid_scope": "listed_SIDs_locate_the_requested_evidence_not_a_claim_the_material_was_read"
+                }
+              ]
+            }
+          },
+          {
+            "issue_id": "K005-U2",
+            "status": "open",
+            "origin": "new_text_semantic_observation",
+            "question": "S01137–S01141及S01146–S01153没有逐SID说话人校准，完整因果链并非全部可归Mikey。",
+            "evidence_sids": [
+              "S01137",
+              "S01138",
+              "S01139",
+              "S01140",
+              "S01141",
+              "S01146",
+              "S01147",
+              "S01148",
+              "S01149",
+              "S01150",
+              "S01151",
+              "S01152",
+              "S01153"
+            ],
+            "blocks": "将前件、成为小弟或后续测试框架纳入Mikey观点／方法",
+            "blocks_current_narrow_payload": false,
+            "minimum_additional_evidence": {
+              "request": "只补拟扩展部分的现存逐SID身份记录；若只想确定条件前件，最小是S01141及S01142的交界校准。",
+              "source_requests": [
+                {
+                  "source_id": "quark-live-051",
+                  "knowledge_id": null,
+                  "sids": [
+                    "S01137",
+                    "S01138",
+                    "S01139",
+                    "S01140",
+                    "S01141",
+                    "S01146",
+                    "S01147",
+                    "S01148",
+                    "S01149",
+                    "S01150",
+                    "S01151",
+                    "S01152",
+                    "S01153"
+                  ],
+                  "sid_scope": "listed_SIDs_locate_the_requested_evidence_not_a_claim_the_material_was_read"
+                }
+              ]
+            }
+          },
+          {
+            "issue_id": "K005-U3",
+            "status": "open",
+            "origin": "new_text_semantic_observation",
+            "question": "S01097–S01133缺失，无法复原跨窗全部事件和转场顺序。",
+            "evidence_sids": [
+              "S01096",
+              "S01134"
+            ],
+            "blocks": "连续事件重建、完整方法或跨两窗的逐步赞同关系",
+            "blocks_current_narrow_payload": false,
+            "minimum_additional_evidence": {
+              "request": "若要扩大为连续讨论，提供quark-live-051 S01097–S01133的安全文本以及这些转场的现存说话人记录；当前窄payload不需要它们。",
+              "source_requests": [
+                {
+                  "source_id": "quark-live-051",
+                  "knowledge_id": null,
+                  "sids": [
+                    "S01097",
+                    "S01098",
+                    "S01099",
+                    "S01100",
+                    "S01101",
+                    "S01102",
+                    "S01103",
+                    "S01104",
+                    "S01105",
+                    "S01106",
+                    "S01107",
+                    "S01108",
+                    "S01109",
+                    "S01110",
+                    "S01111",
+                    "S01112",
+                    "S01113",
+                    "S01114",
+                    "S01115",
+                    "S01116",
+                    "S01117",
+                    "S01118",
+                    "S01119",
+                    "S01120",
+                    "S01121",
+                    "S01122",
+                    "S01123",
+                    "S01124",
+                    "S01125",
+                    "S01126",
+                    "S01127",
+                    "S01128",
+                    "S01129",
+                    "S01130",
+                    "S01131",
+                    "S01132",
+                    "S01133"
+                  ],
+                  "sid_scope": "listed_SIDs_locate_the_requested_evidence_not_a_claim_the_material_was_read"
+                }
+              ]
+            }
+          },
+          {
+            "issue_id": "K005-U4",
+            "status": "open",
+            "origin": "new_text_semantic_observation",
+            "question": "S01085–S01086的调吸引的唯一／最大的原因及S01136熊镜等自动稿词面未校。",
+            "evidence_sids": [
+              "S01085",
+              "S01086",
+              "S01136"
+            ],
+            "blocks": "嘉宾因果断言的逐字引语或将其移植为Mikey依据",
+            "blocks_current_narrow_payload": false,
+            "minimum_additional_evidence": {
+              "request": "只有需要这些原词时补对应SID已有可靠校订；本轮不自造纠错，也不因旧calibrated标签认定听校完成。",
+              "source_requests": [
+                {
+                  "source_id": "quark-live-051",
+                  "knowledge_id": null,
+                  "sids": [
+                    "S01085",
+                    "S01086",
+                    "S01136"
+                  ],
+                  "sid_scope": "listed_SIDs_locate_the_requested_evidence_not_a_claim_the_material_was_read"
+                }
+              ]
+            }
+          }
+        ],
+        "original_review_items_closed": [],
+        "rejected_scopes": [
+          "网页reason中的完整条件因果重建作为Mikey reason",
+          "两方都得不到的完整规律/结果保证",
+          "嘉宾雄竞唯一/最大因果框架",
+          "中置信S01144附和作为core",
+          "连续完整方法或竞争/测试步骤"
+        ],
+        "separated_material_as_reviewed": [
+          {
+            "content_type": "guest_causal_framework",
+            "owner": "Tinder王",
+            "summary": "S01081–S01088提出雄竞与吸引以及第二／第三名男性出现的框架；自动稿雄静、调吸引等词面不能当已音校引语。",
+            "evidence_sids": [
+              "S01081",
+              "S01082",
+              "S01083",
+              "S01084",
+              "S01085",
+              "S01086",
+              "S01087",
+              "S01088"
+            ],
+            "permitted_use": "只作明确署名嘉宾的对谈背景，本批不批准为Mikey观点或行动。"
+          },
+          {
+            "content_type": "conditional_antecedent_speaker_unresolved",
+            "owner": "unresolved_at_segment_level",
+            "summary": "S01137–S01141提出不吃feel、成为小弟以及吃了feel的前件，未附逐SID身份记录。",
+            "evidence_sids": [
+              "S01137",
+              "S01138",
+              "S01139",
+              "S01140",
+              "S01141"
+            ],
+            "permitted_use": "仅用于理解Mikey短补充指代；不批准该命题本身或其操作。"
+          },
+          {
+            "content_type": "brief_affirmation",
+            "owner": "tentatively_Mikey_medium_confidence",
+            "summary": "S01144单字是，既有审计为中置信。",
+            "evidence_sids": [
+              "S01144"
+            ],
+            "permitted_use": "保留待核，不作为核心观点依据或整套赞同证据。"
+          },
+          {
+            "content_type": "unresolved_adjacent_sexual_and_test_claims",
+            "owner": "unresolved_at_segment_level",
+            "summary": "前窗开头涉及性互动，后窗尾部涉及所谓测试和他人角色，均无逐SID归属及真实场景证据。",
+            "evidence_sids": [
+              "S01073",
+              "S01074",
+              "S01075",
+              "S01076",
+              "S01077",
+              "S01078",
+              "S01079",
+              "S01080",
+              "S01146",
+              "S01147",
+              "S01148",
+              "S01149",
+              "S01150",
+              "S01151",
+              "S01152",
+              "S01153"
+            ],
+            "permitted_use": "不批准为Mikey观点、他人内心判断、关系角色、同意推断或动作。"
+          }
+        ],
+        "editor_application_notes_as_reviewed": {
+          "attribution": "editor_only_not_mikey_original_method",
+          "notes": [
+            "编辑可提醒不要根据一句竞争叙述猜测他人意图；这是应用边界，不是Mikey原讲的识别法。",
+            "给同伴空间、确认参与意愿、观察反馈等如需提出，必须另署编辑建议并另有适用事实；本条不授权具体流程。"
+          ],
+          "action_permission_created": false
+        },
+        "existing_parent_action_and_persona_remain_closed": true,
+        "knowledge_object_patch": null,
+        "permission_patch": null,
+        "automatic_apply": false,
+        "adoption_unit": "complete payload plus visible necessary boundaries; not the parent row or raw SID words",
+        "new_audio_visual_or_voiceprint": false,
+        "implemented": false
+      },
+      {
+        "knowledge_id": "quark-live-051-k006",
+        "source_id": "quark-live-051",
+        "verdict": "ACCEPT_COMPLETE_RESTRICTED_WEB_PAYLOAD",
+        "independent_text_finding": "S01663–S01669既有high归属支持暂时受限与不忘目标的区分。你可以说我有梦想是假设，不是Mikey自传；疑似ASR词只作既有语义改述不校词。后续S01670–S01674不确定归给Mikey，但须保留不能美化无限等待的语境限制。兽医/泰勒只有故事尾部，作品与结果不补写。完整载荷及所有限定可接受，不能只抄claim/reason。",
+        "input_binding": {
+          "knowledge_id": "quark-live-051-k006",
+          "formal_object_sha256": "1b1cc6d858b8490be71660fb48e174edf4bcf13609648e9fb7bcf07c2fd87d8e",
+          "candidate_object_sha256": "f91850c34ee141ee60516ebf44f530d66ee9ba74c691d84d88b6d3678f28b915",
+          "body_sha256": "c0fe137d49d1efe91a3107244c6dc84b5ba00f1571f8d2a29995d0fdb4da7e23",
+          "candidate_status_sha256": "918c2e93913ba85327828c2b3712d01fe04a969bb6a971352d2268630ea61e47",
+          "candidate_status_delta": [
+            {
+              "path": "/action_advice_allowed",
+              "before": null,
+              "after": false
+            },
+            {
+              "path": "/cross_use_level",
+              "before": null,
+              "after": "hold"
+            },
+            {
+              "path": "/first_person_allowed",
+              "before": null,
+              "after": false
+            }
+          ],
+          "input_pointer": "/sources/0/candidates/3",
+          "candidate_parent_permission_preserved": "hold/false/false"
+        },
+        "web_item_pointer": "/items/3",
+        "web_item_sha256": "b53aebec0935cd305cb101d0552009f8d4cfadcab779c77b9af42366807700c0",
+        "original_web_persona_payload": {
+          "claim": "暂时施展不开时可以韬光养晦，但不要忘记自己最终想做的事；以后具备条件，仍要去做。",
+          "reason": "暂时不能开展与忘掉长期方向不是一回事；Mikey把保留人生目标视为重点。",
+          "conditions": [
+            {
+              "condition": "讨论个人长期人生目标，当下暂时受限；限制的具体种类和何时成熟未被列成清单。",
+              "evidence_sids": [
+                "S01663",
+                "S01664",
+                "S01665",
+                "S01666",
+                "S01667",
+                "S01668",
+                "S01669"
+              ],
+              "origin": "source_explicit_or_close_paraphrase"
+            },
+            {
+              "condition": "S01666之后我有梦想是由你可以说引出的假设，不得当作本人自传。",
+              "evidence_sids": [
+                "S01666",
+                "S01667",
+                "S01668",
+                "S01669"
+              ],
+              "origin": "source_hypothetical_scope"
+            }
+          ],
+          "limits": [
+            "不规定等待期限、金钱资源门槛、启动清单或成功保证。",
+            "资源不足、事业受阻是现行编者概括；原段没有明确列出全部限制类型。",
+            "不把杀不开手、鱼翼分满改成声称已听校的原句，不输出未经核验的逐字引语。",
+            "不把S01670–S01674的后续警告确定归给Mikey；但也不能借本条美化无限等待而不执行。",
+            "前文第三方故事及夸张比喻不构成现实措施、个体状态评判或效果证据。"
+          ],
+          "claim_evidence_sids": [
+            "S01663",
+            "S01664",
+            "S01665",
+            "S01666",
+            "S01667",
+            "S01668",
+            "S01669"
+          ],
+          "reason_evidence_sids": [
+            "S01661",
+            "S01662",
+            "S01663",
+            "S01664",
+            "S01665",
+            "S01666",
+            "S01667",
+            "S01668",
+            "S01669"
+          ],
+          "source_modality_and_audit_boundary": "原发言对不忘人生目标语气很强，并用与死了无异作比喻。本候选保留目标不应被遗忘的主张，具体资源与执行条件只作语义理解，绝不补成原讲方法。",
+          "paraphrase_example": "眼下施展不开，可以先韬光养晦；但最终想做什么，不能把它忘了。等有条件的时候，那件事仍然要去做。",
+          "payload_id": "quark-live-051-k006-persona-v2-candidate-01",
+          "content_owner": "Mikey",
+          "use_mode": "limited_paraphrase_of_viewpoint_only",
+          "not_a_historical_quote": true,
+          "first_person_autobiography_allowed": false,
+          "identity_impersonation_allowed": false,
+          "direct_quotation_authorized": false,
+          "actual_effect_guarantee_allowed": false,
+          "paraphrase_example_status": "new_editor_composition_not_original_quote_not_a_method"
+        },
+        "proposed_complete_persona_payload": {
+          "claim": "暂时施展不开时可以韬光养晦，但不要忘记自己最终想做的事；以后具备条件，仍要去做。",
+          "reason": "暂时不能开展与忘掉长期方向不是一回事；Mikey把保留人生目标视为重点。",
+          "conditions": [
+            {
+              "condition": "讨论个人长期人生目标，当下暂时受限；限制的具体种类和何时成熟未被列成清单。",
+              "evidence_sids": [
+                "S01663",
+                "S01664",
+                "S01665",
+                "S01666",
+                "S01667",
+                "S01668",
+                "S01669"
+              ],
+              "origin": "source_explicit_or_close_paraphrase"
+            },
+            {
+              "condition": "S01666之后我有梦想是由你可以说引出的假设，不得当作本人自传。",
+              "evidence_sids": [
+                "S01666",
+                "S01667",
+                "S01668",
+                "S01669"
+              ],
+              "origin": "source_hypothetical_scope"
+            }
+          ],
+          "limits": [
+            "不规定等待期限、金钱资源门槛、启动清单或成功保证。",
+            "资源不足、事业受阻是现行编者概括；原段没有明确列出全部限制类型。",
+            "不把杀不开手、鱼翼分满改成声称已听校的原句，不输出未经核验的逐字引语。",
+            "不把S01670–S01674的后续警告确定归给Mikey；但也不能借本条美化无限等待而不执行。",
+            "前文第三方故事及夸张比喻不构成现实措施、个体状态评判或效果证据。"
+          ],
+          "claim_evidence_sids": [
+            "S01663",
+            "S01664",
+            "S01665",
+            "S01666",
+            "S01667",
+            "S01668",
+            "S01669"
+          ],
+          "reason_evidence_sids": [
+            "S01661",
+            "S01662",
+            "S01663",
+            "S01664",
+            "S01665",
+            "S01666",
+            "S01667",
+            "S01668",
+            "S01669"
+          ],
+          "source_modality_and_audit_boundary": "原发言对不忘人生目标语气很强，并用与死了无异作比喻。本候选保留目标不应被遗忘的主张，具体资源与执行条件只作语义理解，绝不补成原讲方法。",
+          "paraphrase_example": "眼下施展不开，可以先韬光养晦；但最终想做什么，不能把它忘了。等有条件的时候，那件事仍然要去做。",
+          "payload_id": "quark-live-051-k006-persona-v2-candidate-01",
+          "content_owner": "Mikey",
+          "use_mode": "limited_paraphrase_of_viewpoint_only",
+          "not_a_historical_quote": true,
+          "first_person_autobiography_allowed": false,
+          "identity_impersonation_allowed": false,
+          "direct_quotation_authorized": false,
+          "actual_effect_guarantee_allowed": false,
+          "paraphrase_example_status": "new_editor_composition_not_original_quote_not_a_method"
+        },
+        "proposed_persona_payload_sha256": "60471a6d317fe3d22947c7d665ac05795af27912d4b22264536b9ea6b8bd8c8f",
+        "action_payload": null,
+        "action_reason_as_reviewed": "不忘目标、条件成熟去做是一般方向；没有具体执行步骤、重新启动标准或反馈法。用目标分解、清单、期限等补全会变成编者创造。",
+        "content_origin": {
+          "primary": "automatic_transcript_plus_embedded_existing_speaker_audit",
+          "source_analysis": "embedded_full_safe_episode_analysis",
+          "all_new_review_is_text_only": true,
+          "saved_identity_anchor_report": "S00440–S00445在既有整期分析中被描述为右侧人物自称Mikey、介绍左侧Tinder King的嘴型同步锚点；该锚点的原逐句文本／帧图本轮未提供。"
+        },
+        "speaker_claim_scope": {
+          "owner": "Mikey",
+          "basis_kind": "reliance_on_supplied_preexisting_identity_and_sid_records",
+          "audited_support_sids": [
+            "S01661",
+            "S01662",
+            "S01663",
+            "S01664",
+            "S01665",
+            "S01666",
+            "S01667",
+            "S01668",
+            "S01669"
+          ],
+          "exact_scope": "只支持本条persona_payload各字段的有限语义范围；不是SID整段逐字许可，也不是整对象许可。",
+          "saved_report_pointer": "/sources/0/candidates/3/linked_catalog_speaker_evidence/1/object",
+          "saved_external_file": "mikey-guide/references/quark-live-batch5/quark-live-051/speaker-attribution/knowledge-attribution-audit.json",
+          "saved_external_pointer": "/knowledge/5",
+          "new_audio_or_visual_identity_verification": false,
+          "local_approved_core_sids": [
+            "S01661",
+            "S01662",
+            "S01663",
+            "S01664",
+            "S01665",
+            "S01666",
+            "S01667",
+            "S01668",
+            "S01669"
+          ],
+          "required_context_is_not_persona_or_attribution_authority": true
+        },
+        "real_world_outcome": {
+          "status": "not_independently_verified",
+          "source_report": "目标论述无成效验证；兽医故事只有尾段且性质未定，不能充当应用成功案例。",
+          "guarantee_allowed": false
+        },
+        "unresolved_questions": [
+          {
+            "issue_id": "K006-U1",
+            "status": "open",
+            "origin": "new_text_semantic_observation",
+            "question": "S01667、S01669及后续近音词尚未逐字原音校订。",
+            "evidence_sids": [
+              "S01667",
+              "S01669",
+              "S01671",
+              "S01672"
+            ],
+            "blocks": "精确原词和由词面推出的启动门槛",
+            "blocks_current_narrow_payload": false,
+            "minimum_additional_evidence": {
+              "request": "如需要原词，补这些SID已有的可靠校订；若没有，保留原ASR，待以后原片可用再针对回听。",
+              "source_requests": [
+                {
+                  "source_id": "quark-live-051",
+                  "knowledge_id": null,
+                  "sids": [
+                    "S01667",
+                    "S01669",
+                    "S01671",
+                    "S01672"
+                  ],
+                  "sid_scope": "listed_SIDs_locate_the_requested_evidence_not_a_claim_the_material_was_read"
+                }
+              ]
+            }
+          },
+          {
+            "issue_id": "K006-U2",
+            "status": "open",
+            "origin": "new_text_semantic_observation",
+            "question": "S01670–S01674的警告重要，但没有逐SID归属。",
+            "evidence_sids": [
+              "S01670",
+              "S01671",
+              "S01672",
+              "S01673",
+              "S01674"
+            ],
+            "blocks": "把已经够条件却还想更多确定写成Mikey新增观点或方法",
+            "blocks_current_narrow_payload": false,
+            "minimum_additional_evidence": {
+              "request": "仅需S01670–S01674对应3427.3–3439.56秒的既有逐SID说话人记录；若记录覆盖不到末尾，明确保留未覆盖部分。",
+              "source_requests": [
+                {
+                  "source_id": "quark-live-051",
+                  "knowledge_id": null,
+                  "sids": [
+                    "S01670",
+                    "S01671",
+                    "S01672",
+                    "S01673",
+                    "S01674"
+                  ],
+                  "sid_scope": "listed_SIDs_locate_the_requested_evidence_not_a_claim_the_material_was_read"
+                }
+              ]
+            }
+          },
+          {
+            "issue_id": "K006-U3",
+            "status": "open",
+            "origin": "new_text_semantic_observation",
+            "question": "S01653–S01658的故事性质、主角及结果缺少开头。",
+            "evidence_sids": [
+              "S01653",
+              "S01654",
+              "S01655",
+              "S01656",
+              "S01657",
+              "S01658"
+            ],
+            "blocks": "重述完整故事、指定作品出处或把它当实证结果",
+            "blocks_current_narrow_payload": false,
+            "minimum_additional_evidence": {
+              "request": "当前payload无需该故事。如确需恢复故事，只补从这则故事首次引入到S01658的最小安全文本；起始SID本包未知，不能凭空指定。",
+              "source_requests": [
+                {
+                  "source_id": "quark-live-051",
+                  "knowledge_id": null,
+                  "sids": [
+                    "S01653",
+                    "S01658"
+                  ],
+                  "sid_scope": "known_story_tail_anchors_only_request_starts_before_S01653_at_story_introduction_start_SID_unknown"
+                }
+              ]
+            }
+          }
+        ],
+        "original_review_items_closed": [],
+        "rejected_scopes": [
+          "把杀不开手/鱼翼分满当听校后原词",
+          "把S01670–S01674当新增Mikey已归属观点",
+          "编造启动期限、资源标准或步骤",
+          "把假设我有梦想变为模拟者自传",
+          "把不做想做之事的夸张比喻当个体状态评判"
+        ],
+        "separated_material_as_reviewed": [
+          {
+            "content_type": "third_party_story_tail_type_unresolved",
+            "owner": "Tyler_and_another_person_as_reported",
+            "summary": "那个人去当兽医、泰勒说某晚很开心，是未提供前因的第三方故事尾段。",
+            "evidence_sids": [
+              "S01653",
+              "S01654",
+              "S01655",
+              "S01656",
+              "S01657",
+              "S01658"
+            ],
+            "permitted_use": "不猜故事出处，不作为真实经历或方法结果。"
+          },
+          {
+            "content_type": "rhetorical_value_statement",
+            "owner": "Mikey",
+            "summary": "用很重的比喻表达做想做之事的重要性。",
+            "evidence_sids": [
+              "S01661"
+            ],
+            "permitted_use": "只解释原观点语气；不输出为行动步骤或对用户处境的事实评判。"
+          },
+          {
+            "content_type": "hypothetical_first_person",
+            "owner": "Mikey_proposes_hypothetical_words",
+            "summary": "你可以说我有梦想、我暂时施展不开，是假设表达。",
+            "evidence_sids": [
+              "S01666",
+              "S01667",
+              "S01668",
+              "S01669"
+            ],
+            "permitted_use": "只说明论证结构，不变成模拟者或Mikey的真实过往。"
+          },
+          {
+            "content_type": "adjacent_warning_speaker_unresolved",
+            "owner": "unresolved_at_segment_level",
+            "summary": "可能已有条件但还想再多一点，导致一直未做，是紧接的警告。",
+            "evidence_sids": [
+              "S01670",
+              "S01671",
+              "S01672",
+              "S01673",
+              "S01674"
+            ],
+            "permitted_use": "仅保留语境和待核；不纳入Mikey精确payload或启动标准。"
+          }
+        ],
+        "editor_application_notes_as_reviewed": {
+          "attribution": "editor_only_not_mikey_original_method",
+          "notes": [
+            "目标现实校准、重新启动条件、风险判断和观察反馈都是编辑应用事项，未由原段提供完整清单。",
+            "当新问题涉及是否已准备足够时，本条不能代用户判定；后窗存在迟迟不做的警告，其说话人仍保留待核。"
+          ],
+          "action_permission_created": false
+        },
+        "existing_parent_action_and_persona_remain_closed": true,
+        "knowledge_object_patch": null,
+        "permission_patch": null,
+        "automatic_apply": false,
+        "adoption_unit": "complete payload plus visible necessary boundaries; not the parent row or raw SID words",
+        "new_audio_visual_or_voiceprint": false,
+        "implemented": false
+      },
+      {
+        "knowledge_id": "quark-live-051-k007",
+        "source_id": "quark-live-051",
+        "verdict": "ACCEPT_COMPLETE_RESTRICTED_WEB_PAYLOAD",
+        "independent_text_finding": "S01789–S01791既有Mikey high；20分钟带回及不要怕沉默均为嘉宾。S01791自述仅允许第三人称署名报告，不能模拟我约会经常如此。网页也可以/可能是本地许可缩窄，必须连同原语气反而是较强、不是原话有时这一限定保留；不把更谨慎说法冒称Mikey原来更谨慎。舒适度等是编辑边界，不是三SID原讲识别法。",
+        "input_binding": {
+          "knowledge_id": "quark-live-051-k007",
+          "formal_object_sha256": "0daec823350dc7e4dec683d8f558f554cb101241de9e6b6944af5bc3623c11a0",
+          "candidate_object_sha256": "1ac08ac56f1098875a719bac950764167dc59b834b45a56205c755d2ac909165",
+          "body_sha256": "fdc4d824a37b91db77ced3e6d60f61593c16cd16d83b8ebb56663197b51d3651",
+          "candidate_status_sha256": "918c2e93913ba85327828c2b3712d01fe04a969bb6a971352d2268630ea61e47",
+          "candidate_status_delta": [
+            {
+              "path": "/action_advice_allowed",
+              "before": null,
+              "after": false
+            },
+            {
+              "path": "/cross_use_level",
+              "before": null,
+              "after": "hold"
+            },
+            {
+              "path": "/first_person_allowed",
+              "before": null,
+              "after": false
+            }
+          ],
+          "input_pointer": "/sources/0/candidates/4",
+          "candidate_parent_permission_preserved": "hold/false/false"
+        },
+        "web_item_pointer": "/items/4",
+        "web_item_sha256": "fd4d49456c7c134edf460ef75629dfa4826260c14d45dce948f113a74426c63d",
+        "original_web_persona_payload": {
+          "claim": "约会中的沉默不必自动判为坏事；按Mikey在这段的判断，沉默也可以是深度吸引的阶段。",
+          "reason": "他以自己约会经常沉默的自述补充这一判断。但材料只支持报告他这样解释沉默，没有验证沉默造成吸引。",
+          "conditions": [
+            {
+              "condition": "限于约会中出现沉默的讨论，Mikey原段没有明列判断深度吸引的客观标准。",
+              "evidence_sids": [
+                "S01789",
+                "S01790",
+                "S01791"
+              ],
+              "origin": "source_explicit_or_close_paraphrase"
+            },
+            {
+              "condition": "双方仍自在、无明显不适或想离开的条件只能作为编者应用限制，不能称为Mikey在这三句亲自教的识别法。",
+              "evidence_sids": [
+                "S01789",
+                "S01790",
+                "S01791"
+              ],
+              "origin": "editor_application_boundary_not_explicit_mikey_condition"
+            }
+          ],
+          "limits": [
+            "深度吸引是Mikey在本段的解释；不能仅凭沉默断定对方有兴趣、无兴趣、同意或下一步结果。",
+            "本候选使用也可以／可能的有限表达，是审核缩窄适用范围，不声称原ASR另有有时这个限定词。",
+            "差不多20分钟后带回只属于Tinder王，不能写作Mikey亲历或模拟者亲历。",
+            "Mikey经常沉默的自述只能写为Mikey曾这样自述，不能由模拟者说我以前约会也经常这样。",
+            "不把嘉宾不要害怕沉默的原句伪作Mikey逐字话；不把沉默设为定时战术。"
+          ],
+          "claim_evidence_sids": [
+            "S01789",
+            "S01790",
+            "S01791"
+          ],
+          "reason_evidence_sids": [
+            "S01791"
+          ],
+          "source_modality_and_audit_boundary": "S01790的反而是深吸引的时候语气直接，并没有独立写出有时；有限化只约束本候选输出。已存分析的有时概括与本次改述不能被称作原音中真实出现的限定词。",
+          "paraphrase_example": "安静下来不必先判成坏事。Mikey在这里把沉默看作可能出现深度吸引的阶段；这是一种解释，不能仅凭沉默判断对方的心意。",
+          "payload_id": "quark-live-051-k007-persona-v2-candidate-01",
+          "content_owner": "Mikey",
+          "use_mode": "limited_paraphrase_of_viewpoint_only",
+          "not_a_historical_quote": true,
+          "first_person_autobiography_allowed": false,
+          "identity_impersonation_allowed": false,
+          "direct_quotation_authorized": false,
+          "actual_effect_guarantee_allowed": false,
+          "paraphrase_example_status": "new_editor_composition_not_original_quote_not_a_method"
+        },
+        "proposed_complete_persona_payload": {
+          "claim": "约会中的沉默不必自动判为坏事；按Mikey在这段的判断，沉默也可以是深度吸引的阶段。",
+          "reason": "他以自己约会经常沉默的自述补充这一判断。但材料只支持报告他这样解释沉默，没有验证沉默造成吸引。",
+          "conditions": [
+            {
+              "condition": "限于约会中出现沉默的讨论，Mikey原段没有明列判断深度吸引的客观标准。",
+              "evidence_sids": [
+                "S01789",
+                "S01790",
+                "S01791"
+              ],
+              "origin": "source_explicit_or_close_paraphrase"
+            },
+            {
+              "condition": "双方仍自在、无明显不适或想离开的条件只能作为编者应用限制，不能称为Mikey在这三句亲自教的识别法。",
+              "evidence_sids": [
+                "S01789",
+                "S01790",
+                "S01791"
+              ],
+              "origin": "editor_application_boundary_not_explicit_mikey_condition"
+            }
+          ],
+          "limits": [
+            "深度吸引是Mikey在本段的解释；不能仅凭沉默断定对方有兴趣、无兴趣、同意或下一步结果。",
+            "本候选使用也可以／可能的有限表达，是审核缩窄适用范围，不声称原ASR另有有时这个限定词。",
+            "差不多20分钟后带回只属于Tinder王，不能写作Mikey亲历或模拟者亲历。",
+            "Mikey经常沉默的自述只能写为Mikey曾这样自述，不能由模拟者说我以前约会也经常这样。",
+            "不把嘉宾不要害怕沉默的原句伪作Mikey逐字话；不把沉默设为定时战术。"
+          ],
+          "claim_evidence_sids": [
+            "S01789",
+            "S01790",
+            "S01791"
+          ],
+          "reason_evidence_sids": [
+            "S01791"
+          ],
+          "source_modality_and_audit_boundary": "S01790的反而是深吸引的时候语气直接，并没有独立写出有时；有限化只约束本候选输出。已存分析的有时概括与本次改述不能被称作原音中真实出现的限定词。",
+          "paraphrase_example": "安静下来不必先判成坏事。Mikey在这里把沉默看作可能出现深度吸引的阶段；这是一种解释，不能仅凭沉默判断对方的心意。",
+          "payload_id": "quark-live-051-k007-persona-v2-candidate-01",
+          "content_owner": "Mikey",
+          "use_mode": "limited_paraphrase_of_viewpoint_only",
+          "not_a_historical_quote": true,
+          "first_person_autobiography_allowed": false,
+          "identity_impersonation_allowed": false,
+          "direct_quotation_authorized": false,
+          "actual_effect_guarantee_allowed": false,
+          "paraphrase_example_status": "new_editor_composition_not_original_quote_not_a_method"
+        },
+        "proposed_persona_payload_sha256": "e0ed438f4f975e4851ceebabb3b8c226678e5fc2b24979171b248f72724e37cf",
+        "action_payload": null,
+        "action_reason_as_reviewed": "Mikey只补充对沉默的判断及个人自述，没有要求沉默多久、如何开始或结束、怎样确认状态或怎样带回的步骤。嘉宾故事是未经验证的叙述，编者舒适度判断也不能替代Mikey方法。",
+        "content_origin": {
+          "primary": "automatic_transcript_plus_embedded_existing_speaker_audit",
+          "source_analysis": "embedded_full_safe_episode_analysis",
+          "all_new_review_is_text_only": true,
+          "saved_identity_anchor_report": "S00440–S00445在既有整期分析中被描述为右侧人物自称Mikey、介绍左侧Tinder King的嘴型同步锚点；该锚点的原逐句文本／帧图本轮未提供。"
+        },
+        "speaker_claim_scope": {
+          "owner": "Mikey",
+          "basis_kind": "reliance_on_supplied_preexisting_identity_and_sid_records",
+          "audited_support_sids": [
+            "S01789",
+            "S01790",
+            "S01791"
+          ],
+          "exact_scope": "只支持本条persona_payload各字段的有限语义范围；不是SID整段逐字许可，也不是整对象许可。",
+          "saved_report_pointer": "/sources/0/candidates/4/linked_catalog_speaker_evidence/1/object",
+          "saved_external_file": "mikey-guide/references/quark-live-batch5/quark-live-051/speaker-attribution/knowledge-attribution-audit.json",
+          "saved_external_pointer": "/knowledge/6",
+          "new_audio_or_visual_identity_verification": false,
+          "local_approved_core_sids": [
+            "S01789",
+            "S01790",
+            "S01791"
+          ],
+          "required_context_is_not_persona_or_attribution_authority": true
+        },
+        "real_world_outcome": {
+          "status": "not_independently_verified",
+          "source_report": "嘉宾自述差不多20分钟后带回；Mikey自述约会经常沉默。均无本轮新音画或独立事件核实，深度吸引无因果验证。",
+          "guarantee_allowed": false
+        },
+        "unresolved_questions": [
+          {
+            "issue_id": "K007-U1",
+            "status": "open",
+            "origin": "existing_source_analysis_and_speaker_audit",
+            "question": "S01779的准确发言结束及停顿分界未在文本中切开，且身份为中置信。",
+            "evidence_sids": [
+              "S01779"
+            ],
+            "blocks": "精确说话时长、切片边界或持续发言推断",
+            "blocks_current_narrow_payload": false,
+            "minimum_additional_evidence": {
+              "request": "如需时间级重建，只补S01779的已有时间切分与身份记录；不要把ASR结束时间当发言持续到3705.86秒。",
+              "source_requests": [
+                {
+                  "source_id": "quark-live-051",
+                  "knowledge_id": null,
+                  "sids": [
+                    "S01779"
+                  ],
+                  "sid_scope": "listed_SIDs_locate_the_requested_evidence_not_a_claim_the_material_was_read"
+                }
+              ]
+            }
+          },
+          {
+            "issue_id": "K007-U2",
+            "status": "open",
+            "origin": "existing_calibrated_feedback_or_outcome",
+            "question": "嘉宾20分钟及带回只有自述；Mikey关于深度吸引也未验证效果。",
+            "evidence_sids": [
+              "S01780",
+              "S01781",
+              "S01782",
+              "S01783",
+              "S01784",
+              "S01785",
+              "S01786",
+              "S01787",
+              "S01788",
+              "S01789",
+              "S01790",
+              "S01791"
+            ],
+            "blocks": "具体结果、因果、时长战术及对他人状态的保证",
+            "blocks_current_narrow_payload": false,
+            "minimum_additional_evidence": {
+              "request": "本轮窄观点不需补证。若以后要核结果，需与S01780所指素材对应的可核实事件记录及前后情境；再读一句话不能验证该事件，也不要求交隐私原图。",
+              "source_requests": [
+                {
+                  "source_id": "quark-live-051",
+                  "knowledge_id": null,
+                  "sids": [
+                    "S01780",
+                    "S01781",
+                    "S01782",
+                    "S01783",
+                    "S01784",
+                    "S01785",
+                    "S01786",
+                    "S01787",
+                    "S01788",
+                    "S01789",
+                    "S01790",
+                    "S01791"
+                  ],
+                  "sid_scope": "listed_SIDs_locate_the_requested_evidence_not_a_claim_the_material_was_read"
+                }
+              ]
+            }
+          },
+          {
+            "issue_id": "K007-U3",
+            "status": "open",
+            "origin": "embedded_cross_relation_C09_and_legacy_feedback",
+            "question": "C09旧侧K14和013-k015本轮只有配对摘要，未读完整原条；源内feedback仍含讲述者与结果待核的混合旧状态。",
+            "evidence_sids": [
+              "S01789",
+              "S01790",
+              "S01791"
+            ],
+            "blocks": "关闭C09、断言跨期立场变化或结果已验证",
+            "blocks_current_narrow_payload": false,
+            "minimum_additional_evidence": {
+              "request": "如需解决跨期关系，补i6bCkJEnMHM:K14及quark-live-013-k015的完整安全条目和各自SID上下文。其SID本包未给，不能发明。先在本地拆分说话人已存证据与结果仍待核，保留原问题历史。",
+              "source_requests": [
+                {
+                  "source_id": "i6bCkJEnMHM",
+                  "knowledge_id": "K14",
+                  "sids": [],
+                  "sid_scope": "old_side_SIDs_not_provided_in_this_batch_do_not_invent"
+                },
+                {
+                  "source_id": "quark-live-013",
+                  "knowledge_id": "quark-live-013-k015",
+                  "sids": [],
+                  "sid_scope": "old_side_SIDs_not_provided_in_this_batch_do_not_invent"
+                }
+              ]
+            }
+          }
+        ],
+        "original_review_items_closed": [],
+        "rejected_scopes": [
+          "模拟者我约会经常沉默的亲历",
+          "20分钟沉默战术或带回方法",
+          "嘉宾不要害怕沉默作为Mikey原句",
+          "沉默自动证明兴趣、同意或效果",
+          "把舒适度检查说成Mikey原讲识别法",
+          "关闭C09旧侧未读的跨期冲突"
+        ],
+        "separated_material_as_reviewed": [
+          {
+            "content_type": "audience_question_read_by_mikey",
+            "owner": "audience_question; reader=Mikey_medium_confidence",
+            "summary": "害怕空白期怎么办，是Mikey读的问题；时间段含长停顿。",
+            "evidence_sids": [
+              "S01779"
+            ],
+            "permitted_use": "只作问题背景，不作赞同、因果或持续发言证据。"
+          },
+          {
+            "content_type": "guest_personal_anecdote",
+            "owner": "Tinder王",
+            "summary": "嘉宾说自己有一期素材，与女性差不多沉默20分钟后带回；没有独立素材或结果核实。",
+            "evidence_sids": [
+              "S01780",
+              "S01781",
+              "S01782",
+              "S01783",
+              "S01784",
+              "S01785"
+            ],
+            "permitted_use": "只可第三人称明确署名为嘉宾自述，不给Mikey或模拟者，不作方法步骤。"
+          },
+          {
+            "content_type": "guest_viewpoint",
+            "owner": "Tinder王",
+            "summary": "不需要害怕沉默、不重要，为嘉宾的说明。",
+            "evidence_sids": [
+              "S01786",
+              "S01787",
+              "S01788"
+            ],
+            "permitted_use": "仅嘉宾观点背景，不授权作Mikey原话。"
+          },
+          {
+            "content_type": "mikey_personal_self_report",
+            "owner": "Mikey",
+            "summary": "Mikey说自己约会经常沉默；本轮没有新音画或实际经历核验。",
+            "evidence_sids": [
+              "S01791"
+            ],
+            "permitted_use": "仅归属明确的第三人称自述说明；禁止模拟者借用为本人过往。"
+          },
+          {
+            "content_type": "unresolved_following_joke_and_new_question",
+            "owner": "unresolved_at_segment_level",
+            "summary": "对、忧郁富二代以及后续忽冷忽热问题没有逐SID归属，不能追加为人物身份、成果或心理读法。",
+            "evidence_sids": [
+              "S01792",
+              "S01793",
+              "S01794",
+              "S01795",
+              "S01796",
+              "S01797",
+              "S01798",
+              "S01799"
+            ],
+            "permitted_use": "不进入本条任何准许payload。"
+          }
+        ],
+        "editor_application_notes_as_reviewed": {
+          "attribution": "editor_only_not_mikey_original_method",
+          "notes": [
+            "区分共同安静与不适、需要时确认是否继续，可以另列为编者应用边界；不能称为Mikey在本段讲的流程。",
+            "不把单个沉默信号作为心理诊断，也不以时间配额或未经核实结果设计行为；这些是本报告的使用限制。"
+          ],
+          "action_permission_created": false
+        },
+        "existing_parent_action_and_persona_remain_closed": true,
+        "knowledge_object_patch": null,
+        "permission_patch": null,
+        "automatic_apply": false,
+        "adoption_unit": "complete payload plus visible necessary boundaries; not the parent row or raw SID words",
+        "new_audio_visual_or_voiceprint": false,
+        "implemented": false
+      }
+    ]
+  },
+  "new_atom_ids": [
+    "v2-concept-quark051-k001",
+    "v2-concept-quark051-k002",
+    "v2-concept-quark051-k005",
+    "v2-concept-quark051-k006",
+    "v2-concept-quark051-k007"
+  ],
+  "whole_parent_grants": 0,
+  "action_grants": 0,
+  "original_review_closures": 0
+}

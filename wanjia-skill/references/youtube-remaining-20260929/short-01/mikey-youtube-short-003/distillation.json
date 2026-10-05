@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-003",
+  "youtube_id": "pcOGT-RUlLk",
+  "title": "情感圈最大造假丑闻 Jackson造假实锤 团队解散跑路",
+  "coverage": {"transcript_segments_read": 44, "transcript_time_range_seconds": [0.0, 62.92], "semantic_media_range_seconds": [0.0, 62.997333], "sampled_frames_reviewed": 21, "dense_frames_reviewed": 63, "continuous_original_audio_visual_review": false},
+  "timeline": [
+    {"start": 0.0, "end": 12.04, "summary": "A montage repeats a man's apparent admission that people under him fabricated material, intercut with another man defending risk-taking and 'showing the most authentic dynamics'."},
+    {"start": 12.04, "end": 29.76, "summary": "The edit uses creator clips, a dated group-chat screenshot, staged-versus-real labels, street footage and repeated '确实造假了' overlays to frame a team dispute."},
+    {"start": 29.76, "end": 41.54, "summary": "Several speakers/clips say whoever fabricated should leave, refer to paying 150 units for an actor, and show a man saying he allowed Hank and others to fabricate."},
+    {"start": 41.54, "end": 50.01, "summary": "A long-haired commentator says criticism may affect others' interests but invites challengers to record material for him to review."},
+    {"start": 50.01, "end": 62.997333, "summary": "The montage adds claims about large sums and that 'Mikey' should learn a 'real' approach; the long-haired speaker says time will correct everything, identifies himself as Jason and signs off."}
+  ],
+  "claims": [
+    {"claim_id": "s003-c01", "speaker": "multiple third-party speakers in edited montage", "statement": "The montage presents selected statements as admissions that team members staged or fabricated content, including paid actors and permission from leadership.", "conditions": "Speaker identities, dates, source completeness and the meaning of each quoted statement are not independently verified.", "evidence": ["S00001-S00010@0.00-10.10", "S00022-S00032@28.20-41.54", "visual/dense/every1s/000001.jpg-000041.jpg"], "use_level": "do_not_generalize", "knowledge_status": "reuse_zero_weight"},
+    {"claim_id": "s003-c02", "speaker": "Jason, as self-identified at the outro", "statement": "He presents his own material as more authentic, invites challenges and says time will correct matters.", "conditions": "Competitive self-positioning in an adversarial edit; it does not verify his allegations or outcomes.", "evidence": ["S00033-S00043@41.54-62.92", "visual/dense/every1s/000042.jpg-000063.jpg"], "use_level": "do_not_generalize", "knowledge_status": "reuse_zero_weight"}
+  ],
+  "visual_findings": [
+    "All sampled and one-second frames show a rapid multi-source montage: live clips, chat screenshot, creator monologues, street/date snippets, meme overlays and a Jason outro.",
+    "The edit repeatedly overlays '确实造假了' and labels clips '真实'; these are editorial assertions and do not authenticate the footage.",
+    "Mikey is discussed by name and image in some inserts, but no clearly isolated new Mikey-authored proposition is established in this standalone copy."
+  ],
+  "permissions": {"formal_integration": false, "first_person_allowed": false, "action_advice_allowed": false, "knowledge_status": "reuse_zero_weight", "reason": "The underlying third-party video is already contained in formal live-038, and all serious named-person claims remain unverified."},
+  "limitations": ["Automatic ASR collapses many rapid speaker switches and misrecognizes names and amounts.", "No original source chain, unedited recordings, accused-party record, contracts or payment evidence was authenticated.", "The short cannot establish fraud, team dissolution, flight, legal liability or causal harm despite its title."]
+}

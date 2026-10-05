@@ -1,0 +1,62 @@
+{
+  "source_id": "mikey-youtube-short-008",
+  "status": "preserved_not_indexed_timing_unreliable",
+  "time_alignment_verified": false,
+  "original_transcript": "references/untrimmed-transcripts/mikey-youtube-short-008/transcript.original.json",
+  "original_transcript_sha256": "dbfa7ee687a10be5d77f3545e0cb92a8e7dd965d9bd85aee9ce688a2a4425cce",
+  "original_research_transcript": "D:\\startup\\玩家.skill\\research\\youtube-all-remaining-pipeline\\integration-candidate\\references\\youtube-remaining-20260929\\short-01\\mikey-youtube-short-008\\transcript.json",
+  "media_duration_seconds": 68.057687,
+  "excluded_segments": [
+    {
+      "sid": "S00021",
+      "start": 68.14,
+      "end": 72.04,
+      "text": "我约着你20多岁就开发阿里"
+    },
+    {
+      "sid": "S00022",
+      "start": 72.04,
+      "end": 72.66,
+      "text": "但你推荐一下"
+    },
+    {
+      "sid": "S00023",
+      "start": 72.66,
+      "end": 73.6,
+      "text": "我说你10多岁就开发阿里"
+    },
+    {
+      "sid": "S00024",
+      "start": 73.6,
+      "end": 74.16,
+      "text": "那都会推荐了"
+    },
+    {
+      "sid": "S00025",
+      "start": 74.16,
+      "end": 75.94,
+      "text": "为了你30多岁就开发阿里"
+    },
+    {
+      "sid": "S00026",
+      "start": 75.94,
+      "end": 78.12,
+      "text": "就要了"
+    },
+    {
+      "sid": "S00027",
+      "start": 78.12,
+      "end": 79.08,
+      "text": "我说我真的dar了"
+    }
+  ],
+  "crossing_segments_original": [
+    {
+      "sid": "S00020",
+      "start": 66.96,
+      "end": 68.14,
+      "text": "我说你20多岁就开发阿里了"
+    }
+  ],
+  "notice": "All original text is retained. Out-of-duration timestamps may be ASR hallucination or misalignment; no information-value verdict or permission upgrade follows from exclusion from the normal timed index."
+}

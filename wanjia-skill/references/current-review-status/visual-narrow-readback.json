@@ -1,0 +1,136 @@
+{
+  "schema_version": "remaining-visual-subscope-proposal-1",
+  "status": "ACCEPTED_BOUNDED_VISUAL_READBACK_NO_WHOLE_TASK_CLOSURE",
+  "notice": "本清单仅记录两项原待核中的可见静帧事实，不授予第一人称、行动或运行回答权限；不是整任务关闭、原音听校、身份或效果认证。",
+  "items": [
+    {
+      "issue_id": "mikey-practice-016-RNX020",
+      "source_id": "mikey-practice-016",
+      "original_inner_task_id": "mikey-practice-016-V004",
+      "formal_title": "一约拿下 从搭讪到拿下 全流程",
+      "task": {
+        "path": "references/mikey-practice/mikey-practice-016/review-needed.md",
+        "sha256": "0160b2678f88feb3603ca638ef888cb62b5bf0d0a4d40d4c1f505abb74bcd820",
+        "locator": "lines:22-22"
+      },
+      "existing_visual_report": {
+        "path": "references/mikey-practice/mikey-practice-016/visual/review.md",
+        "sha256": "5996098a59139ecbf8b93a461e2b979289f95a63626833a31f417d45d065a526"
+      },
+      "context": {
+        "path": "references/mikey-practice/mikey-practice-016/transcript.json",
+        "sha256": "f4a04585f6444531fd59d171fa9b078de86cdd5c64ee23b8a54082d31ddd926d",
+        "locator": "S00075–S00123; context S00049–S00129"
+      },
+      "task_window_seconds": [
+        176.14,
+        275.06
+      ],
+      "observed_samples_seconds": [
+        176,
+        222,
+        249,
+        264
+      ],
+      "result": "partial_subscope_confirmation",
+      "confirmed": "249秒与264秒现存原尺寸帧确有聊天页，两侧气泡和时间分组可见。只能记录两个采样时刻的页面先后与可见页内位置。176秒/222秒帧只显示讲解者与烧录字幕，不能作为第一次取消原文的截图证据。",
+      "prior_record": "原本地视觉报告已记录这两页；本次为独立核实与绑定，原网页任务中的frames_seen=0仍保留为历史，不改写成新增全任务核验。",
+      "remaining_open": [
+        "第一次取消的原文及饮酒原因实际由谁说。",
+        "完整消息链、页间删节、左右气泡真人身份及公开授权。",
+        "原音逐句对应、连续语气、完整条件与真实结果。"
+      ],
+      "boundaries": "烧录字幕和讲解者自述不得替代聊天原证据；气泡位置不证明实名；截图中的安排不证明见面/标题结果或方法必然有效。",
+      "whole_task_closed": false,
+      "audio_listening_completed": false,
+      "permission_change": false
+    },
+    {
+      "issue_id": "mikey-youtube-live-025-R004",
+      "source_id": "mikey-youtube-live-025",
+      "formal_title": "直播77：近期实战案例分享，直播答疑 泡妞 搭讪 约会丨搭訕玩家TV",
+      "task": {
+        "path": "references/youtube-live-batch3/mikey-youtube-live-025/review-needed.md",
+        "sha256": "63d336cc623d44f622682e9e3eb42fa658567a810abb2d9a4fc72cac4563db03",
+        "locator": "lines:26-32"
+      },
+      "existing_visual_report": {
+        "path": "references/youtube-live-batch3/mikey-youtube-live-025/visual/review.md",
+        "sha256": "5443a54aa579f86472628006256515d4e08d900c767cada47d4a6a71487183c1"
+      },
+      "prior_disposition": {
+        "path": "references/youtube-live-batch3/delete-readiness/review-dispositions.json",
+        "sha256": "b287cbf7a72e90aef7535155e4d970fb456548f54e00051a95fcf3bff3902621",
+        "locator": "$[39]"
+      },
+      "context": {
+        "path": "references/youtube-live-batch3/mikey-youtube-live-025/transcript.json",
+        "sha256": "8d38c54308fffc8f759dcf11a90cec7eb25c946ac246f935f11aedd20127e18f",
+        "locator": "source time 1360–1510s"
+      },
+      "task_window_seconds": [
+        1390,
+        1485
+      ],
+      "saved_continuous_proxy_coverage_seconds": [
+        1378,
+        1497
+      ],
+      "observed_samples_seconds": [
+        1407,
+        1421,
+        1428,
+        1442,
+        1461,
+        1469,
+        1479
+      ],
+      "saved_proxy_resolution": [
+        960,
+        540
+      ],
+      "result": "partial_subscope_observation",
+      "confirmed": "样本确有手机展示；1461/1469/1479秒局部聊天、语音气泡、电话条目和时间分组可辨。三后段样本高度重叠，右侧受观众栏遮挡，只支持可见页面内的显示位置与采样展示先后。",
+      "prior_record": "既有记录为open_evidence_preserved；本次只增加7张保存代理帧的可见结构事实。",
+      "remaining_open": [
+        "联系人身份、真实发送者、账号真实性及公开授权。",
+        "裁切/遮挡部分、完整聊天链、未采样滚动与窗口外上下文。",
+        "原音核对、主持人朗读/转述与消息的精确归属及真实通话/关系结果。"
+      ],
+      "boundaries": "本次为静帧回读，无连续播放回听。960×540是保存代理分辨率，不能称已删除原片原尺寸。语音图标不证明声纹身份，电话条目不证明实际通话结果。",
+      "whole_task_closed": false,
+      "audio_listening_completed": false,
+      "permission_change": false
+    }
+  ],
+  "scope_totals": {
+    "tasks": 2,
+    "images_actually_viewed": 11,
+    "whole_tasks_closed": 0,
+    "source_audio_hearing_calls": 0,
+    "new_asr_calls": 0,
+    "permissions_added": 0
+  },
+  "privacy": "本提案不包含原图像素、私聊原字、个人/账号标识、绝对本地路径或Cookie。",
+  "integration_plan": {
+    "suggested_file": "references/remaining-visual-subscope-review-20261005.json",
+    "optional_navigation": "如采用，由主任务单独审核并登记资源哈希/入口。侧边清单仅解释待核进展，不作为knowledge/payload/authority许可。",
+    "required_scope": "保留所有旧原任务及旧effective12-overlay原字；两项整任务不关闭。"
+  },
+  "acceptance": {
+    "author_role": "v2_media_inventory",
+    "author_images_viewed": 11,
+    "independent_root_images_viewed": 4,
+    "independent_root_scope": "practice016 249/264秒与live025 1469/1479秒现存静帧实际回读；仅核可见页结构，不听原音或核实名/效果",
+    "independent_root_frame_sha256": {
+      "t0249.jpg": "ab22b93193d77931c5f84270116c08cbaf659267a8ccca9155771e90c7ce781c",
+      "t0264.jpg": "bac9011a205276c838a94bb4c219f34dc4ac69d360eebed1c2359cf7818b75a1",
+      "source-01469.png": "ab863f6b6ad79ac67ed2b7e30487052b7c3640d65d03c55cc45ee5c67c241ee7",
+      "source-01479.png": "b5ce15399eeb34ab6e1edd81afc1967eec30d1959f6ab26c90d6d02f9d359ece"
+    },
+    "original_pixels_in_package": false,
+    "private_chat_verbatim_in_this_record": false,
+    "whole_tasks_closed": 0,
+    "new_permissions": 0
+  }
+}

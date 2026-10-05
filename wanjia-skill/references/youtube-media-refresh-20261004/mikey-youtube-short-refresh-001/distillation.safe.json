@@ -1,0 +1,1550 @@
+{
+  "stable_id": "mikey-youtube-short-refresh-001",
+  "youtube_id": "Q4mGmPgp6HY",
+  "title": "现实却比我们诚实…  兄弟们求求了别串了…",
+  "coverage": {
+    "duration_seconds": 21.481,
+    "safe_sid_count": 2,
+    "sid_start": "S00001",
+    "sid_end": "S00002",
+    "safe_sid_unique_count": 2,
+    "safe_text_characters": 76,
+    "all_supplied_safe_sid_texts_reviewed_in_order": true,
+    "coverage_does_not_mean_all_audio_words_verified": true,
+    "redacted_segments_declared": 2,
+    "redacted_segments_counted": 2,
+    "privacy_safe_texts_are_not_original_private_quotes": true,
+    "local_visual_report_coverage": {
+      "sparse_frames_read": 23,
+      "contact_sheets_read": 2,
+      "original_resolution_frames_read": 5,
+      "automatic_transcript_segments_read": 2,
+      "continuous_audio_visual": "NOT_RUN",
+      "original_audio_listening": "NOT_RUN"
+    },
+    "this_review_actual_scope": {
+      "safe_text_rows_read": 2,
+      "visual_report_observations_read": 6,
+      "original_pixels_read": 0,
+      "original_audio_listening": "NOT_RUN",
+      "continuous_audio_visual_review": "NOT_RUN",
+      "old_corpus_fulltext_records_reread": 0,
+      "old_corpus_search_rerun": "NOT_RUN",
+      "participant_search": "NOT_RUN"
+    },
+    "asr_uncovered_intervals": [
+      {
+        "start_seconds": 9.06,
+        "end_seconds": 21.481,
+        "duration_seconds": 12.421,
+        "status": "NO_ASR_TEXT_NOT_PROOF_OF_SILENCE"
+      }
+    ],
+    "asr_uncovered_interval_count": 1,
+    "asr_uncovered_seconds": 12.421,
+    "asr_marked_time_is_not_audio_validation": true,
+    "timeline_event_count": 11,
+    "timeline_covers_media_index_without_gaps": true,
+    "restored_attribution_metadata": {
+      "source_id": "mikey-youtube-short-refresh-001",
+      "attribution_notes": [],
+      "citation_forbidden_sids": []
+    },
+    "citation_metadata_default": "补充只列显式禁引SID；未列出不解释为citation_allowed=true。研究中可作何种证据，以本交付对应claim及全局限制为准。",
+    "safe_sid_ledger": [
+      {
+        "sid": "S00001",
+        "start": 0.0,
+        "end": 4.24,
+        "text": "【未核对的背景音ASR；不能归为Mikey发言或画面论点，原字仅在研究保存】",
+        "speaker": "unknown_not_diarized",
+        "redaction_status": "redacted_derivative",
+        "input_record_sha256": "8117fdb36438606e3958799ccdc2d5762916e76e2d3ffd29ce60aae4edc6514c",
+        "input_json_pointer": "/sources/1/safe_transcript/segments/0",
+        "timeline_ids": [
+          "SR001-T001",
+          "SR001-T002",
+          "SR001-T003"
+        ],
+        "claim_ids": [],
+        "review_disposition": "BACKGROUND_ASR_NOT_AUTHOR_SPEECH_NO_CLAIM_SUPPORT",
+        "permission_suggestion": {
+          "first_person_allowed": false,
+          "action_advice_allowed": false,
+          "runtime_answer_allowed": false,
+          "formal_knowledge_entry_allowed": false,
+          "verbatim_quote_allowed": false
+        }
+      },
+      {
+        "sid": "S00002",
+        "start": 4.24,
+        "end": 9.06,
+        "text": "【未核对的背景音ASR；不能归为Mikey发言或画面论点，原字仅在研究保存】",
+        "speaker": "unknown_not_diarized",
+        "redaction_status": "redacted_derivative",
+        "input_record_sha256": "2af7d0c2fab46fb9bc7814b69023623230f63eab365f1b28ad2169bbbc25ddc0",
+        "input_json_pointer": "/sources/1/safe_transcript/segments/1",
+        "timeline_ids": [
+          "SR001-T003",
+          "SR001-T004",
+          "SR001-T005"
+        ],
+        "claim_ids": [],
+        "review_disposition": "BACKGROUND_ASR_NOT_AUTHOR_SPEECH_NO_CLAIM_SUPPORT",
+        "permission_suggestion": {
+          "first_person_allowed": false,
+          "action_advice_allowed": false,
+          "runtime_answer_allowed": false,
+          "formal_knowledge_entry_allowed": false,
+          "verbatim_quote_allowed": false
+        }
+      }
+    ]
+  },
+  "timeline": [
+    {
+      "start_seconds": 0,
+      "end_seconds": 3,
+      "type": "private_chat_plus_editor_overlay",
+      "substantive_summary": "截取聊天界面，突出一个约两小时通话条目；红字为剪辑者强调。通话是否发生、与谁通话、谈话内容和关系身份不能由条目独立证明。",
+      "visual_finding_ids": [
+        "SR001-V01"
+      ],
+      "claim_ids": [
+        "SR001-C001"
+      ],
+      "event_id": "SR001-T001",
+      "sid_start": null,
+      "sid_end": null,
+      "sid_assignment_note": "本窗描述视觉报告，不把同时背景音SID归成屏幕文本。",
+      "permission_suggestion": {
+        "first_person_allowed": false,
+        "action_advice_allowed": false,
+        "runtime_answer_allowed": false,
+        "formal_knowledge_entry_allowed": false,
+        "verbatim_quote_allowed": false
+      }
+    },
+    {
+      "start_seconds": 3,
+      "end_seconds": 4,
+      "type": "unresolved_interframe_interval",
+      "substantive_summary": "安全报告没有单列此过渡区的具体画面变化；不补推内容或静音。",
+      "visual_finding_ids": [],
+      "claim_ids": [],
+      "event_id": "SR001-T002",
+      "sid_start": null,
+      "sid_end": null,
+      "sid_assignment_note": "本窗描述视觉报告，不把同时背景音SID归成屏幕文本。",
+      "permission_suggestion": {
+        "first_person_allowed": false,
+        "action_advice_allowed": false,
+        "runtime_answer_allowed": false,
+        "formal_knowledge_entry_allowed": false,
+        "verbatim_quote_allowed": false
+      }
+    },
+    {
+      "start_seconds": 4,
+      "end_seconds": 7.9,
+      "type": "private_chat_plus_editor_overlay",
+      "substantive_summary": "截取双方消息及一张旅行计划界面。左侧一方表达想见面，右侧回应并追问安排；剪辑者用红字将其解释为吸引与订票。旅行计划不是成行证明。",
+      "visual_finding_ids": [
+        "SR001-V02"
+      ],
+      "claim_ids": [
+        "SR001-C002"
+      ],
+      "event_id": "SR001-T003",
+      "sid_start": null,
+      "sid_end": null,
+      "sid_assignment_note": "本窗描述视觉报告，不把同时背景音SID归成屏幕文本。",
+      "permission_suggestion": {
+        "first_person_allowed": false,
+        "action_advice_allowed": false,
+        "runtime_answer_allowed": false,
+        "formal_knowledge_entry_allowed": false,
+        "verbatim_quote_allowed": false
+      }
+    },
+    {
+      "start_seconds": 7.9,
+      "end_seconds": 8,
+      "type": "unresolved_interframe_interval",
+      "substantive_summary": "安全报告没有单列此过渡区的具体画面变化；不补推内容或静音。",
+      "visual_finding_ids": [],
+      "claim_ids": [],
+      "event_id": "SR001-T004",
+      "sid_start": null,
+      "sid_end": null,
+      "sid_assignment_note": "本窗描述视觉报告，不把同时背景音SID归成屏幕文本。",
+      "permission_suggestion": {
+        "first_person_allowed": false,
+        "action_advice_allowed": false,
+        "runtime_answer_allowed": false,
+        "formal_knowledge_entry_allowed": false,
+        "verbatim_quote_allowed": false
+      }
+    },
+    {
+      "start_seconds": 8,
+      "end_seconds": 11.5,
+      "type": "private_chat_plus_editor_overlay",
+      "substantive_summary": "此前见面讨论后，左侧一方追问主讲在社交平台的身份。编辑红字把这段作为关系转折；只支持选中的截图顺序，不能证实完整时间线或因果。",
+      "visual_finding_ids": [
+        "SR001-V03"
+      ],
+      "claim_ids": [
+        "SR001-C003"
+      ],
+      "event_id": "SR001-T005",
+      "sid_start": null,
+      "sid_end": null,
+      "sid_assignment_note": "本窗描述视觉报告，不把同时背景音SID归成屏幕文本。",
+      "permission_suggestion": {
+        "first_person_allowed": false,
+        "action_advice_allowed": false,
+        "runtime_answer_allowed": false,
+        "formal_knowledge_entry_allowed": false,
+        "verbatim_quote_allowed": false
+      }
+    },
+    {
+      "start_seconds": 11.5,
+      "end_seconds": 12,
+      "type": "unresolved_interframe_interval",
+      "substantive_summary": "安全报告没有单列此过渡区的具体画面变化；不补推内容或静音。",
+      "visual_finding_ids": [],
+      "claim_ids": [],
+      "event_id": "SR001-T006",
+      "sid_start": null,
+      "sid_end": null,
+      "sid_assignment_note": "本窗描述视觉报告，不把同时背景音SID归成屏幕文本。",
+      "permission_suggestion": {
+        "first_person_allowed": false,
+        "action_advice_allowed": false,
+        "runtime_answer_allowed": false,
+        "formal_knowledge_entry_allowed": false,
+        "verbatim_quote_allowed": false
+      }
+    },
+    {
+      "start_seconds": 12,
+      "end_seconds": 14.9,
+      "type": "private_chat_plus_editor_overlay",
+      "substantive_summary": "右侧解释观众评论的来源；左侧随后用主讲公开身份称呼他，剪辑红字宣称关系或比赛结束。该红字是作者/剪辑者解释，不是截图展示的客观结果。",
+      "visual_finding_ids": [
+        "SR001-V04"
+      ],
+      "claim_ids": [
+        "SR001-C003"
+      ],
+      "event_id": "SR001-T007",
+      "sid_start": null,
+      "sid_end": null,
+      "sid_assignment_note": "本窗描述视觉报告，不把同时背景音SID归成屏幕文本。",
+      "permission_suggestion": {
+        "first_person_allowed": false,
+        "action_advice_allowed": false,
+        "runtime_answer_allowed": false,
+        "formal_knowledge_entry_allowed": false,
+        "verbatim_quote_allowed": false
+      }
+    },
+    {
+      "start_seconds": 14.9,
+      "end_seconds": 15,
+      "type": "unresolved_interframe_interval",
+      "substantive_summary": "安全报告没有单列此过渡区的具体画面变化；不补推内容或静音。",
+      "visual_finding_ids": [],
+      "claim_ids": [],
+      "event_id": "SR001-T008",
+      "sid_start": null,
+      "sid_end": null,
+      "sid_assignment_note": "本窗描述视觉报告，不把同时背景音SID归成屏幕文本。",
+      "permission_suggestion": {
+        "first_person_allowed": false,
+        "action_advice_allowed": false,
+        "runtime_answer_allowed": false,
+        "formal_knowledge_entry_allowed": false,
+        "verbatim_quote_allowed": false
+      }
+    },
+    {
+      "start_seconds": 15,
+      "end_seconds": 21.1,
+      "type": "creator_text_note",
+      "substantive_summary": "备忘录式文字要求观众在不同平台使用不同称呼，明确反对把一个平台的身份叫到另一个平台，并以“毕业”威胁违规观众。用语的具体处置含义未核实。",
+      "visual_finding_ids": [
+        "SR001-V05"
+      ],
+      "claim_ids": [
+        "SR001-C004",
+        "SR001-C005"
+      ],
+      "event_id": "SR001-T009",
+      "sid_start": null,
+      "sid_end": null,
+      "sid_assignment_note": "本窗描述视觉报告，不把同时背景音SID归成屏幕文本。",
+      "permission_suggestion": {
+        "first_person_allowed": false,
+        "action_advice_allowed": false,
+        "runtime_answer_allowed": false,
+        "formal_knowledge_entry_allowed": false,
+        "verbatim_quote_allowed": false
+      }
+    },
+    {
+      "start_seconds": 21.1,
+      "end_seconds": 21.28,
+      "type": "unresolved_interframe_interval",
+      "substantive_summary": "安全报告没有单列此过渡区的具体画面变化；不补推内容或静音。",
+      "visual_finding_ids": [],
+      "claim_ids": [],
+      "event_id": "SR001-T010",
+      "sid_start": null,
+      "sid_end": null,
+      "sid_assignment_note": "本窗描述视觉报告，不把同时背景音SID归成屏幕文本。",
+      "permission_suggestion": {
+        "first_person_allowed": false,
+        "action_advice_allowed": false,
+        "runtime_answer_allowed": false,
+        "formal_knowledge_entry_allowed": false,
+        "verbatim_quote_allowed": false
+      }
+    },
+    {
+      "start_seconds": 21.28,
+      "end_seconds": 21.481,
+      "type": "fade_to_black",
+      "substantive_summary": "末尾抽样为黑场。",
+      "visual_finding_ids": [
+        "SR001-V06"
+      ],
+      "claim_ids": [],
+      "event_id": "SR001-T011",
+      "sid_start": null,
+      "sid_end": null,
+      "sid_assignment_note": "本窗描述视觉报告，不把同时背景音SID归成屏幕文本。",
+      "permission_suggestion": {
+        "first_person_allowed": false,
+        "action_advice_allowed": false,
+        "runtime_answer_allowed": false,
+        "formal_knowledge_entry_allowed": false,
+        "verbatim_quote_allowed": false
+      }
+    }
+  ],
+  "claims": [
+    {
+      "claim_id": "SR001-C001",
+      "topic": "长通话条目被用来建立关系投入的观感",
+      "speaker": {
+        "role_id": "ED",
+        "label": "Short剪辑／文案层；发布者呈现，不等于Mikey口述",
+        "mikey_attribution": "editorial_not_oral_author_verified",
+        "voice_mapping_confirmed": false,
+        "identity_confirmed": false,
+        "local_attribution_basis": "仅依据本地安全视觉报告区分消息层、红字评论层和备忘录层；本次未取得原像素。"
+      },
+      "content_origin": "private_chat_record_with_editor_emphasis",
+      "statement": "开头截图突出约两小时的通话类条目，剪辑红字使其显得值得注意；它在短片里承担“此前联络很深入”的铺垫功能。",
+      "reason": "剪辑依靠通话时长的视觉显著性构成叙事起点，并未提供通话内容。",
+      "conditions": {
+        "source_stated_or_textually_explicit": [],
+        "status": "本项未提取出独立明确的来源适用条件，不由编者补造",
+        "editorial_conditions_location": "editorial_use_limits"
+      },
+      "evidence": [
+        {
+          "source_id": "mikey-youtube-short-refresh-001",
+          "sid_start": null,
+          "sid_end": null,
+          "start_seconds": 0,
+          "end_seconds": 3,
+          "evidence_role": "claim_support",
+          "evidence_kind": "local_safe_visual_report_not_pixels",
+          "input_file": "complete-safe-input.json",
+          "input_json_pointer": "/sources/1/visual_review/observations/0",
+          "report_finding_id": "SR001-V01",
+          "sid_null_reason": "该视觉命题没有对应口述SID；不得将同时播放的背景音ASR充作证据。"
+        }
+      ],
+      "use_level": "context_only",
+      "permission_suggestion": {
+        "first_person_allowed": false,
+        "action_advice_allowed": false,
+        "runtime_answer_allowed": false,
+        "formal_knowledge_entry_allowed": false,
+        "verbatim_quote_allowed": false
+      },
+      "duplicate_canonical_ids": [],
+      "duplicate_id_scope": "无已确认同一截图／同一案例的canonical；主题相关另存",
+      "publication_region": "short_visual_montage",
+      "independent_story_weight": 0,
+      "editorial_use_limits": {
+        "attribution": "编者限制，不是来源口述",
+        "items": [
+          "只能说报告记录了这种展示；不能由条目独立断言通话真实发生、实际对象或关系程度。",
+          "只可概述报告记录的展示，不认证截图真伪、身份、同意、完整事件或效果。"
+        ]
+      },
+      "review_refs": [
+        "mikey-youtube-short-refresh-001-R001",
+        "mikey-youtube-short-refresh-001-R002",
+        "mikey-youtube-short-refresh-001-R003",
+        "mikey-youtube-short-refresh-001-R004"
+      ],
+      "reason_attribution": "编者概述来源在本段如何给理由；关于未验证、样本和论证缺口的判断属于编者，不伪称来源已自认。"
+    },
+    {
+      "claim_id": "SR001-C002",
+      "topic": "想见面与旅行计划，被红字解释为吸引和订票",
+      "speaker": {
+        "role_id": "SCR",
+        "label": "截图中的消息发送侧；角色与真实身份未核",
+        "mikey_attribution": "not_assigned_from_bubble_position",
+        "voice_mapping_confirmed": false,
+        "identity_confirmed": false,
+        "local_attribution_basis": "仅依据本地安全视觉报告区分消息层、红字评论层和备忘录层；本次未取得原像素。"
+      },
+      "content_origin": "screen_message_paraphrase_separate_from_editor_claim",
+      "statement": "下一组截图中，一侧表达想见面，另一侧回应并追问安排，还出现旅行计划界面；剪辑红字把这些解释为吸引与订票。",
+      "reason": "其铺陈将联络、见面意愿与安排放在一起，形成关系推进的观感；这是材料选择及剪辑解释，不是事实认证。",
+      "conditions": {
+        "source_stated_or_textually_explicit": [],
+        "status": "本项未提取出独立明确的来源适用条件，不由编者补造",
+        "editorial_conditions_location": "editorial_use_limits"
+      },
+      "evidence": [
+        {
+          "source_id": "mikey-youtube-short-refresh-001",
+          "sid_start": null,
+          "sid_end": null,
+          "start_seconds": 4,
+          "end_seconds": 7.9,
+          "evidence_role": "claim_support",
+          "evidence_kind": "local_safe_visual_report_not_pixels",
+          "input_file": "complete-safe-input.json",
+          "input_json_pointer": "/sources/1/visual_review/observations/1",
+          "report_finding_id": "SR001-V02",
+          "sid_null_reason": "该视觉命题没有对应口述SID；不得将同时播放的背景音ASR充作证据。"
+        }
+      ],
+      "use_level": "context_only",
+      "permission_suggestion": {
+        "first_person_allowed": false,
+        "action_advice_allowed": false,
+        "runtime_answer_allowed": false,
+        "formal_knowledge_entry_allowed": false,
+        "verbatim_quote_allowed": false
+      },
+      "duplicate_canonical_ids": [],
+      "duplicate_id_scope": "无已确认同一截图／同一案例的canonical；主题相关另存",
+      "publication_region": "short_visual_montage",
+      "independent_story_weight": 0,
+      "editorial_use_limits": {
+        "attribution": "编者限制，不是来源口述",
+        "items": [
+          "绿色／灰色、左右和昵称不证明真实发送人；旅行计划不等于成行、到达或亲密行为。",
+          "只可概述报告记录的展示，不认证截图真伪、身份、同意、完整事件或效果。"
+        ]
+      },
+      "review_refs": [
+        "mikey-youtube-short-refresh-001-R001",
+        "mikey-youtube-short-refresh-001-R002",
+        "mikey-youtube-short-refresh-001-R003",
+        "mikey-youtube-short-refresh-001-R004"
+      ],
+      "reason_attribution": "编者概述来源在本段如何给理由；关于未验证、样本和论证缺口的判断属于编者，不伪称来源已自认。"
+    },
+    {
+      "claim_id": "SR001-C003",
+      "topic": "身份追问之后被剪辑宣布结束，不证明单一因果",
+      "speaker": {
+        "role_id": "ED",
+        "label": "Short剪辑／文案层；发布者呈现，不等于Mikey口述",
+        "mikey_attribution": "editorial_not_oral_author_verified",
+        "voice_mapping_confirmed": false,
+        "identity_confirmed": false,
+        "local_attribution_basis": "仅依据本地安全视觉报告区分消息层、红字评论层和备忘录层；本次未取得原像素。"
+      },
+      "content_origin": "editorial_causal_framing_of_selected_private_screenshots",
+      "statement": "短片随后展示一侧追问社交平台身份、另一侧解释观众评论，再出现用公开身份称呼对方的消息；红字将这一转折宣布为关系或“比赛”结束。",
+      "reason": "它借前段看似顺利、后段身份被连接的对比，讲一个“身份暴露破坏关系”的小故事；证据只支持被选中的展示顺序与作者解释。",
+      "conditions": {
+        "source_stated_or_textually_explicit": [],
+        "status": "本项未提取出独立明确的来源适用条件，不由编者补造",
+        "editorial_conditions_location": "editorial_use_limits"
+      },
+      "evidence": [
+        {
+          "source_id": "mikey-youtube-short-refresh-001",
+          "sid_start": null,
+          "sid_end": null,
+          "start_seconds": 8,
+          "end_seconds": 11.5,
+          "evidence_role": "claim_support",
+          "evidence_kind": "local_safe_visual_report_not_pixels",
+          "input_file": "complete-safe-input.json",
+          "input_json_pointer": "/sources/1/visual_review/observations/2",
+          "report_finding_id": "SR001-V03",
+          "sid_null_reason": "该视觉命题没有对应口述SID；不得将同时播放的背景音ASR充作证据。"
+        },
+        {
+          "source_id": "mikey-youtube-short-refresh-001",
+          "sid_start": null,
+          "sid_end": null,
+          "start_seconds": 12,
+          "end_seconds": 14.9,
+          "evidence_role": "claim_support",
+          "evidence_kind": "local_safe_visual_report_not_pixels",
+          "input_file": "complete-safe-input.json",
+          "input_json_pointer": "/sources/1/visual_review/observations/3",
+          "report_finding_id": "SR001-V04",
+          "sid_null_reason": "该视觉命题没有对应口述SID；不得将同时播放的背景音ASR充作证据。"
+        }
+      ],
+      "use_level": "do_not_generalize",
+      "permission_suggestion": {
+        "first_person_allowed": false,
+        "action_advice_allowed": false,
+        "runtime_answer_allowed": false,
+        "formal_knowledge_entry_allowed": false,
+        "verbatim_quote_allowed": false
+      },
+      "duplicate_canonical_ids": [],
+      "duplicate_id_scope": "无已确认同一截图／同一案例的canonical；主题相关另存",
+      "publication_region": "short_visual_montage",
+      "independent_story_weight": 0,
+      "editorial_use_limits": {
+        "attribution": "编者限制，不是来源口述",
+        "items": [
+          "完整对话、删去内容、真实事件顺序和最后关系状态不在附件中；不能由转折字卡证明因果。",
+          "不能把剪辑宣称的结束当实际结局，也不能把两侧气泡中的观点收为Mikey口述。"
+        ]
+      },
+      "review_refs": [
+        "mikey-youtube-short-refresh-001-R001",
+        "mikey-youtube-short-refresh-001-R002",
+        "mikey-youtube-short-refresh-001-R003",
+        "mikey-youtube-short-refresh-001-R004"
+      ],
+      "reason_attribution": "编者概述来源在本段如何给理由；关于未验证、样本和论证缺口的判断属于编者，不伪称来源已自认。"
+    },
+    {
+      "claim_id": "SR001-C004",
+      "topic": "备忘录要求观众不要跨平台串称呼",
+      "speaker": {
+        "role_id": "NOTE",
+        "label": "Short备忘录式发布者文字，据本地安全视觉报告",
+        "mikey_attribution": "creator_text_not_verified_oral_speech",
+        "voice_mapping_confirmed": false,
+        "identity_confirmed": false,
+        "local_attribution_basis": "仅依据本地安全视觉报告区分消息层、红字评论层和备忘录层；本次未取得原像素。"
+      },
+      "content_origin": "creator_facing_text_note_as_reported",
+      "statement": "备忘录式文字要求观众在不同平台使用不同称呼，反对把一个平台的身份叫到另一个平台，并用“毕业”一词威胁违规者。",
+      "reason": "与前面身份被识别的蒙太奇相接，这段文字把不满落在观众跨平台连接身份的行为上；它是受众管理要求，不是一套完整的关系方法。",
+      "conditions": {
+        "source_stated_or_textually_explicit": [
+          "观众在不同平台留言时，不要将一个平台的称呼带到另一个平台。"
+        ],
+        "status": "有可定位的来源前提／限定，仍未听校",
+        "editorial_conditions_location": "editorial_use_limits"
+      },
+      "evidence": [
+        {
+          "source_id": "mikey-youtube-short-refresh-001",
+          "sid_start": null,
+          "sid_end": null,
+          "start_seconds": 15,
+          "end_seconds": 21.1,
+          "evidence_role": "claim_support",
+          "evidence_kind": "local_safe_visual_report_not_pixels",
+          "input_file": "complete-safe-input.json",
+          "input_json_pointer": "/sources/1/visual_review/observations/4",
+          "report_finding_id": "SR001-V05",
+          "sid_null_reason": "该视觉命题没有对应口述SID；不得将同时播放的背景音ASR充作证据。"
+        }
+      ],
+      "use_level": "context_only",
+      "permission_suggestion": {
+        "first_person_allowed": false,
+        "action_advice_allowed": false,
+        "runtime_answer_allowed": false,
+        "formal_knowledge_entry_allowed": false,
+        "verbatim_quote_allowed": false
+      },
+      "duplicate_canonical_ids": [],
+      "duplicate_id_scope": "无已确认同一截图／同一案例的canonical；主题相关另存",
+      "publication_region": "short_visual_montage",
+      "independent_story_weight": 0,
+      "editorial_use_limits": {
+        "attribution": "编者限制，不是来源口述",
+        "items": [
+          "“毕业”的实际处置含义不清，不能擅自解释成开除、退款、拉黑或其他明确制度。",
+          "只可概述报告记录的展示，不认证截图真伪、身份、同意、完整事件或效果。"
+        ]
+      },
+      "review_refs": [
+        "mikey-youtube-short-refresh-001-R001",
+        "mikey-youtube-short-refresh-001-R002",
+        "mikey-youtube-short-refresh-001-R003",
+        "mikey-youtube-short-refresh-001-R004"
+      ],
+      "reason_attribution": "编者概述来源在本段如何给理由；关于未验证、样本和论证缺口的判断属于编者，不伪称来源已自认。"
+    },
+    {
+      "claim_id": "SR001-C005",
+      "topic": "标题的现实／诚实对照只是主题包装",
+      "speaker": {
+        "role_id": "ED",
+        "label": "Short剪辑／文案层；发布者呈现，不等于Mikey口述",
+        "mikey_attribution": "editorial_not_oral_author_verified",
+        "voice_mapping_confirmed": false,
+        "identity_confirmed": false,
+        "local_attribution_basis": "仅依据本地安全视觉报告区分消息层、红字评论层和备忘录层；本次未取得原像素。"
+      },
+      "content_origin": "publication_title_and_editorial_context",
+      "statement": "标题以“现实却比我们诚实”和劝观众别串称呼作情绪包装；结合画面，可以看到发布者想强调身份暴露带来的反差，但标题自身没有给出完整方法、双方真实动机或验证结果。",
+      "reason": "标题为选中截图规定一种阅读方向，使观众把前后的差异联系到身份披露。",
+      "conditions": {
+        "source_stated_or_textually_explicit": [],
+        "status": "本项未提取出独立明确的来源适用条件，不由编者补造",
+        "editorial_conditions_location": "editorial_use_limits"
+      },
+      "evidence": [
+        {
+          "source_id": "mikey-youtube-short-refresh-001",
+          "sid_start": null,
+          "sid_end": null,
+          "start_seconds": null,
+          "end_seconds": null,
+          "evidence_role": "publication_text",
+          "evidence_kind": "input_publication_metadata",
+          "input_file": "complete-safe-input.json",
+          "input_json_pointer": "/sources/1/safe_transcript/title",
+          "sid_null_reason": "发布标题不是音视频中的一句口述，没有可分配SID。"
+        },
+        {
+          "source_id": "mikey-youtube-short-refresh-001",
+          "sid_start": null,
+          "sid_end": null,
+          "start_seconds": 15,
+          "end_seconds": 21.1,
+          "evidence_role": "claim_support",
+          "evidence_kind": "local_safe_visual_report_not_pixels",
+          "input_file": "complete-safe-input.json",
+          "input_json_pointer": "/sources/1/visual_review/observations/4",
+          "report_finding_id": "SR001-V05",
+          "sid_null_reason": "该视觉命题没有对应口述SID；不得将同时播放的背景音ASR充作证据。"
+        }
+      ],
+      "use_level": "context_only",
+      "permission_suggestion": {
+        "first_person_allowed": false,
+        "action_advice_allowed": false,
+        "runtime_answer_allowed": false,
+        "formal_knowledge_entry_allowed": false,
+        "verbatim_quote_allowed": false
+      },
+      "duplicate_canonical_ids": [],
+      "duplicate_id_scope": "无已确认同一截图／同一案例的canonical；主题相关另存",
+      "publication_region": "short_visual_montage",
+      "independent_story_weight": 0,
+      "editorial_use_limits": {
+        "attribution": "编者限制，不是来源口述",
+        "items": [
+          "仅解读已提供标题与备忘录的关系；不据标题猜补通话和私聊原字。",
+          "只可概述报告记录的展示，不认证截图真伪、身份、同意、完整事件或效果。"
+        ]
+      },
+      "review_refs": [
+        "mikey-youtube-short-refresh-001-R001",
+        "mikey-youtube-short-refresh-001-R002",
+        "mikey-youtube-short-refresh-001-R003",
+        "mikey-youtube-short-refresh-001-R004"
+      ],
+      "reason_attribution": "编者概述来源在本段如何给理由；关于未验证、样本和论证缺口的判断属于编者，不伪称来源已自认。"
+    }
+  ],
+  "examples": [
+    {
+      "example_id": "SR001-X01",
+      "content_origin": "private_screenshot_montage_as_reported",
+      "case_key": "SHORT_CASE_UNRESOLVED_NOT_MERGED",
+      "rhetorical_function": "通话条目→见面与旅行计划→身份追问→红字宣布结束，用选择性顺序制造反差。",
+      "claim_ids": [
+        "SR001-C001",
+        "SR001-C002",
+        "SR001-C003"
+      ],
+      "evidence": [
+        {
+          "source_id": "mikey-youtube-short-refresh-001",
+          "sid_start": null,
+          "sid_end": null,
+          "start_seconds": 0,
+          "end_seconds": 3,
+          "evidence_role": "claim_support",
+          "evidence_kind": "local_safe_visual_report_not_pixels",
+          "input_file": "complete-safe-input.json",
+          "input_json_pointer": "/sources/1/visual_review/observations/0",
+          "report_finding_id": "SR001-V01",
+          "sid_null_reason": "该视觉命题没有对应口述SID；不得将同时播放的背景音ASR充作证据。"
+        },
+        {
+          "source_id": "mikey-youtube-short-refresh-001",
+          "sid_start": null,
+          "sid_end": null,
+          "start_seconds": 4,
+          "end_seconds": 7.9,
+          "evidence_role": "claim_support",
+          "evidence_kind": "local_safe_visual_report_not_pixels",
+          "input_file": "complete-safe-input.json",
+          "input_json_pointer": "/sources/1/visual_review/observations/1",
+          "report_finding_id": "SR001-V02",
+          "sid_null_reason": "该视觉命题没有对应口述SID；不得将同时播放的背景音ASR充作证据。"
+        },
+        {
+          "source_id": "mikey-youtube-short-refresh-001",
+          "sid_start": null,
+          "sid_end": null,
+          "start_seconds": 8,
+          "end_seconds": 11.5,
+          "evidence_role": "claim_support",
+          "evidence_kind": "local_safe_visual_report_not_pixels",
+          "input_file": "complete-safe-input.json",
+          "input_json_pointer": "/sources/1/visual_review/observations/2",
+          "report_finding_id": "SR001-V03",
+          "sid_null_reason": "该视觉命题没有对应口述SID；不得将同时播放的背景音ASR充作证据。"
+        },
+        {
+          "source_id": "mikey-youtube-short-refresh-001",
+          "sid_start": null,
+          "sid_end": null,
+          "start_seconds": 12,
+          "end_seconds": 14.9,
+          "evidence_role": "claim_support",
+          "evidence_kind": "local_safe_visual_report_not_pixels",
+          "input_file": "complete-safe-input.json",
+          "input_json_pointer": "/sources/1/visual_review/observations/3",
+          "report_finding_id": "SR001-V04",
+          "sid_null_reason": "该视觉命题没有对应口述SID；不得将同时播放的背景音ASR充作证据。"
+        }
+      ],
+      "independent_story_weight": 0,
+      "editorial_limits": [
+        "这是被剪辑的一个展示序列，不是现实事件完整记录或相同当事人的核验。"
+      ],
+      "permission_suggestion": {
+        "first_person_allowed": false,
+        "action_advice_allowed": false,
+        "runtime_answer_allowed": false,
+        "formal_knowledge_entry_allowed": false,
+        "verbatim_quote_allowed": false
+      }
+    }
+  ],
+  "speaker_attribution": {
+    "oral_mikey_speech_confirmed": false,
+    "raw_speaker_value_preserved": "unknown_not_diarized",
+    "roles": {
+      "SCR": {
+        "role_id": "SCR",
+        "label": "截图中的消息发送侧；角色与真实身份未核",
+        "mikey_attribution": "not_assigned_from_bubble_position",
+        "voice_mapping_confirmed": false,
+        "identity_confirmed": false
+      },
+      "ED": {
+        "role_id": "ED",
+        "label": "Short剪辑／文案层；发布者呈现，不等于Mikey口述",
+        "mikey_attribution": "editorial_not_oral_author_verified",
+        "voice_mapping_confirmed": false,
+        "identity_confirmed": false
+      },
+      "NOTE": {
+        "role_id": "NOTE",
+        "label": "Short备忘录式发布者文字，据本地安全视觉报告",
+        "mikey_attribution": "creator_text_not_verified_oral_speech",
+        "voice_mapping_confirmed": false,
+        "identity_confirmed": false
+      }
+    },
+    "rule": "屏幕文字、气泡发送侧、红字剪辑意见、备忘录、标题与背景音是不同来源层。",
+    "background_audio_sids": [
+      "S00001",
+      "S00002"
+    ],
+    "background_audio_status": "疑似歌曲；原音未听校，不绑定Mikey、截图文字或主张。",
+    "untranscribed_tail_seconds": [
+      9.06,
+      21.481
+    ],
+    "approved_voice_mappings": []
+  },
+  "visual_findings": [
+    {
+      "finding_id": "SR001-V01",
+      "input_json_pointer": "/sources/1/visual_review/observations/0",
+      "source_of_observation": "本地安全视觉报告；本轮未看原像素",
+      "range_seconds": [
+        0,
+        3
+      ],
+      "type": "private_chat_plus_editor_overlay",
+      "description": "截取聊天界面，突出一个约两小时通话条目；红字为剪辑者强调。通话是否发生、与谁通话、谈话内容和关系身份不能由条目独立证明。",
+      "independently_reobserved_here": false,
+      "permission_suggestion": {
+        "first_person_allowed": false,
+        "action_advice_allowed": false,
+        "runtime_answer_allowed": false,
+        "formal_knowledge_entry_allowed": false,
+        "verbatim_quote_allowed": false
+      }
+    },
+    {
+      "finding_id": "SR001-V02",
+      "input_json_pointer": "/sources/1/visual_review/observations/1",
+      "source_of_observation": "本地安全视觉报告；本轮未看原像素",
+      "range_seconds": [
+        4,
+        7.9
+      ],
+      "type": "private_chat_plus_editor_overlay",
+      "description": "截取双方消息及一张旅行计划界面。左侧一方表达想见面，右侧回应并追问安排；剪辑者用红字将其解释为吸引与订票。旅行计划不是成行证明。",
+      "independently_reobserved_here": false,
+      "permission_suggestion": {
+        "first_person_allowed": false,
+        "action_advice_allowed": false,
+        "runtime_answer_allowed": false,
+        "formal_knowledge_entry_allowed": false,
+        "verbatim_quote_allowed": false
+      }
+    },
+    {
+      "finding_id": "SR001-V03",
+      "input_json_pointer": "/sources/1/visual_review/observations/2",
+      "source_of_observation": "本地安全视觉报告；本轮未看原像素",
+      "range_seconds": [
+        8,
+        11.5
+      ],
+      "type": "private_chat_plus_editor_overlay",
+      "description": "此前见面讨论后，左侧一方追问主讲在社交平台的身份。编辑红字把这段作为关系转折；只支持选中的截图顺序，不能证实完整时间线或因果。",
+      "independently_reobserved_here": false,
+      "permission_suggestion": {
+        "first_person_allowed": false,
+        "action_advice_allowed": false,
+        "runtime_answer_allowed": false,
+        "formal_knowledge_entry_allowed": false,
+        "verbatim_quote_allowed": false
+      }
+    },
+    {
+      "finding_id": "SR001-V04",
+      "input_json_pointer": "/sources/1/visual_review/observations/3",
+      "source_of_observation": "本地安全视觉报告；本轮未看原像素",
+      "range_seconds": [
+        12,
+        14.9
+      ],
+      "type": "private_chat_plus_editor_overlay",
+      "description": "右侧解释观众评论的来源；左侧随后用主讲公开身份称呼他，剪辑红字宣称关系或比赛结束。该红字是作者/剪辑者解释，不是截图展示的客观结果。",
+      "independently_reobserved_here": false,
+      "permission_suggestion": {
+        "first_person_allowed": false,
+        "action_advice_allowed": false,
+        "runtime_answer_allowed": false,
+        "formal_knowledge_entry_allowed": false,
+        "verbatim_quote_allowed": false
+      }
+    },
+    {
+      "finding_id": "SR001-V05",
+      "input_json_pointer": "/sources/1/visual_review/observations/4",
+      "source_of_observation": "本地安全视觉报告；本轮未看原像素",
+      "range_seconds": [
+        15,
+        21.1
+      ],
+      "type": "creator_text_note",
+      "description": "备忘录式文字要求观众在不同平台使用不同称呼，明确反对把一个平台的身份叫到另一个平台，并以“毕业”威胁违规观众。用语的具体处置含义未核实。",
+      "independently_reobserved_here": false,
+      "permission_suggestion": {
+        "first_person_allowed": false,
+        "action_advice_allowed": false,
+        "runtime_answer_allowed": false,
+        "formal_knowledge_entry_allowed": false,
+        "verbatim_quote_allowed": false
+      }
+    },
+    {
+      "finding_id": "SR001-V06",
+      "input_json_pointer": "/sources/1/visual_review/observations/5",
+      "source_of_observation": "本地安全视觉报告；本轮未看原像素",
+      "range_seconds": [
+        21.28,
+        21.481
+      ],
+      "type": "fade_to_black",
+      "description": "末尾抽样为黑场。",
+      "independently_reobserved_here": false,
+      "permission_suggestion": {
+        "first_person_allowed": false,
+        "action_advice_allowed": false,
+        "runtime_answer_allowed": false,
+        "formal_knowledge_entry_allowed": false,
+        "verbatim_quote_allowed": false
+      }
+    }
+  ],
+  "reuse_relationship": {
+    "decision": "theme_related_only_visual_identity_unproved",
+    "canonical_source_ids": [],
+    "independent_story_weight": 0,
+    "related_sources": [
+      "mikey-youtube-live-refresh-002",
+      "quark-live-048"
+    ],
+    "reported_theme_anchors": [
+      {
+        "source_id": "mikey-youtube-live-refresh-002",
+        "sid_start": "S00991",
+        "sid_end": "S01094",
+        "start_seconds": 1751.54,
+        "end_seconds": 1917.28,
+        "reported_actual_segments_read": 104,
+        "relation": "旧源讨论观众跨平台识别与分平台称呼；只支持备忘录主题关联。",
+        "input_file": "dedup-supplement-safe.json",
+        "input_json_pointer": "/sources/1/content_dedup/best_semantic_prior_candidate"
+      },
+      {
+        "source_id": "quark-live-048",
+        "sid_start": "S02295",
+        "sid_end": "S02358",
+        "start_seconds": 5662.48,
+        "end_seconds": 5769.15,
+        "reported_actual_segments_read": 64,
+        "relation": "旧案例报告用MCN工作解释身份；只是身份管理主题相关。",
+        "input_file": "dedup-supplement-safe.json",
+        "input_json_pointer": "/sources/1/content_dedup/additional_related_readback"
+      }
+    ],
+    "reported_fulltext_screen": {
+      "source_records": 510,
+      "segments": 332901
+    },
+    "visual_dedup_status": "NOT_EXHAUSTIVE_NO_CONFIRMED_SCREENSHOT_OR_PARTICIPANT_MATCH",
+    "unresolved_visual_containment": "No exhaustive 324-community-image or old-video-pixel comparison; do not claim exact screenshot identity or confirmed novelty.",
+    "asr_dedup_limits": "两段背景音样式ASR的14字原计数无匹配，不能作为截图故事内容指纹；本轮安全字数也不能拿来替代原计数。",
+    "not_merged_with_long_video_case": true,
+    "new_knowledge_decision_this_review": "ZERO_NEW_FORMAL_METHODS_THEME_REEXPRESSION_AND_VISUAL_CONTEXT_ONLY",
+    "reasons": [
+      "已有跨平台称呼主题对应，但未证明同一截图或当事人。",
+      "画面给的是选择后的过程与红字解释，没有新增可独立执行／检验的完整方法。",
+      "两段ASR不能归为Mikey；尾部没有语音稿仍可能有内容。"
+    ]
+  },
+  "new_knowledge_candidates": [],
+  "new_formal_knowledge": [],
+  "new_formal_methods": [],
+  "new_knowledge_decision": {
+    "research_claim_count": 5,
+    "new_mikey_method_candidate_count": 0,
+    "new_formal_knowledge_count": 0,
+    "new_formal_method_count": 0,
+    "reason": "存在可整理的视觉叙事与文案，但没有新增完整方法；跨平台称呼已有报告中的主题对应，截图／当事人是否相同仍未知。"
+  },
+  "excluded_media_elements": [
+    {
+      "sid_start": "S00001",
+      "sid_end": "S00002",
+      "reason": "背景音样式ASR，不作作者发言或视觉论点证据。"
+    },
+    {
+      "start_seconds": 9.06,
+      "end_seconds": 21.481,
+      "reason": "无ASR不等于无声或无内容，仍按视觉安全报告整理。"
+    },
+    {
+      "start_seconds": 21.28,
+      "end_seconds": 21.481,
+      "reason": "本地报告的黑场抽样，不生成方法。"
+    }
+  ],
+  "review_needed": [
+    {
+      "id": "mikey-youtube-short-refresh-001-R001",
+      "severity": "blocking",
+      "kind": "speaker_attribution",
+      "status": "open",
+      "issue": "原音未听校/自动稿未逐句核对；截图作者与对谈来回不自动归为Mikey",
+      "effect": "不得作为Mikey第一人称或行动建议",
+      "input_status_preserved": true,
+      "closed_by_this_delivery": false,
+      "this_delivery_handling": "保留限制；安全全文已经整理并绑定证据，不把完成文字整理等同解决此证据缺口。"
+    },
+    {
+      "id": "mikey-youtube-short-refresh-001-R002",
+      "severity": "blocking",
+      "kind": "privacy_and_consent",
+      "status": "open",
+      "issue": "原图的私聊、个人标识、第三方影像与引用只留研究；真实性与公开/录音同意不能由原片自行解决",
+      "effect": "禁止复制像素、私聊原字和推定授权",
+      "input_status_preserved": true,
+      "closed_by_this_delivery": false,
+      "this_delivery_handling": "保留限制；安全全文已经整理并绑定证据，不把完成文字整理等同解决此证据缺口。"
+    },
+    {
+      "id": "mikey-youtube-short-refresh-001-R003",
+      "severity": "blocking",
+      "kind": "background_audio",
+      "status": "open",
+      "ranges_seconds": [
+        [
+          0,
+          9.06
+        ],
+        [
+          9.06,
+          21.481
+        ]
+      ],
+      "issue": "前2段疑似歌声，后12.421秒无ASR；主要论点在画面，未实际听音",
+      "effect": "不将ASR当作者，不将空白当无内容",
+      "input_status_preserved": true,
+      "closed_by_this_delivery": false,
+      "this_delivery_handling": "保留限制；安全全文已经整理并绑定证据，不把完成文字整理等同解决此证据缺口。"
+    },
+    {
+      "id": "mikey-youtube-short-refresh-001-R004",
+      "severity": "major",
+      "kind": "visual_reuse",
+      "status": "open",
+      "issue": "跨平台身份主题可与旧直播对应，但截图是否同案/同组未证明",
+      "effect": "不设置确认canonical reuse，不新增独立故事权重",
+      "input_status_preserved": true,
+      "closed_by_this_delivery": false,
+      "this_delivery_handling": "主题关系保留，无确认canonical；未推断同一截图或同一参与者，正式方法增量为0。"
+    },
+    {
+      "id": "mikey-youtube-short-refresh-001-R005",
+      "severity": "major",
+      "kind": "creator_text_authorship_and_note_semantics",
+      "status": "open",
+      "closed_by_this_delivery": false,
+      "issue": "备忘录、红字作者与“毕业”的实际处置含义未核；发布不自动等于每字为Mikey亲写或亲口说。",
+      "minimal_local_evidence": "仅本地核对文字层与来源，返回脱敏确认或继续未知；不要求恢复私聊原字、昵称、头像或行程。"
+    }
+  ],
+  "limitations": [
+    "只处理本次安全文本和报告。读取上传件的工作区副本，不代表访问用户电脑、正式mikey-guide或当地research目录。",
+    "未搜索任何参与者；未听原音、未看原像素、未作连续音画验证；本地报告的实际抽帧工作与本次工作分开记账。",
+    "原始speaker始终保留unknown_not_diarized；A/B、N只是带限制的文本角色标签，不是身份或逐句声源认证。",
+    "私人安全摘要不能作为逐字引语；不补回被隐藏内容，也不把重复摘要当作独立佐证。",
+    "所有新增第一人称、行动、runtime回答及正式知识准入均为false；研究文件的完成不是指南部署或人物化许可。",
+    "医学、法律、身份、拍摄和传播同意、效果均只保留自述、争议或未核实状态；不同层次不能互相认证。",
+    "非主流、自利、工具化和控制立场如实保留在来源层；编者限制另外列出，不洗成常识、不补成行为指导。",
+    "新媒体ID、出版版本、文本未匹配、研究命题、正式知识和独立现实案例是六种不同计数。",
+    "没有收到旧知识逐条命题表，不宣称已经完成全库语义去重；不将任何未知候选强行判为全部重复或必然新颖。",
+    "文件名日期仅为来源下载命名，未独立核验发布日期、录制日期或人物年龄。",
+    "不把Short与长片合并为同一人或同一事件；无确认canonical，不给独立故事权重。"
+  ],
+  "schema_version": "mikey-safe-source-pro-materialization-1.0",
+  "global_delivery_context": {
+    "schema_version": "mikey-two-media-substantive-distillation-2.0-with-attribution-and-dedup-addenda",
+    "review_date": "2026-10-04",
+    "status": "SUBSTANTIVE_RESEARCH_COMPLETE_FORMAL_ADMISSION_NOT_AUTHORIZED",
+    "inputs_used": [
+      {
+        "filename": "task.txt",
+        "sha256": "e823821d354822f177f142fc93b0c8dbde876aeae0217ff08f3e5b7fb567e145",
+        "byte_count": 2830,
+        "read_in_full": true,
+        "bytes_hash_computed_here": true,
+        "modified": false,
+        "role": "任务与输出契约"
+      },
+      {
+        "filename": "complete-safe-input.json",
+        "sha256": "664fa19f0e8cacb2fc109e4608f0892412be328b407128f801223721bd7cdcb7",
+        "byte_count": 390232,
+        "read_in_full": true,
+        "bytes_hash_computed_here": true,
+        "modified": false,
+        "role": "安全全文、逐SID时间、实际视觉报告、第一轮匹配报告",
+        "user_supplied_sha256": "664fa19f0e8cacb2fc109e4608f0892412be328b407128f801223721bd7cdcb7",
+        "matches_user_supplied_sha256": true,
+        "covered_sources": [
+          {
+            "source_id": "mikey-youtube-video-refresh-001",
+            "sid_count": 1727
+          },
+          {
+            "source_id": "mikey-youtube-short-refresh-001",
+            "sid_count": 2
+          }
+        ],
+        "covered_sid_total": 1729
+      },
+      {
+        "filename": "attribution-addendum.json",
+        "sha256": "79de1a70c17afb3ec00df56c9afe7f6541cbc32397e3d364aec308fe9f2cbf62",
+        "byte_count": 1443,
+        "read_in_full": true,
+        "bytes_hash_computed_here": true,
+        "modified": false,
+        "role": "恢复的精确归属警告与显式禁引集合",
+        "dialogue_note_applied_sid_count": 772,
+        "anomaly_note_applied_sid_count": 1,
+        "explicit_citation_forbidden_count": 1
+      },
+      {
+        "filename": "dedup-supplement-safe.json",
+        "sha256": "70a0dac45c45569d04b35d730200e811166a42644a02551f51b21e7ce976b085",
+        "byte_count": 14898,
+        "read_in_full": true,
+        "bytes_hash_computed_here": true,
+        "modified": false,
+        "role": "最新510来源机械查重与旧稿局部回读事实报告",
+        "reported_formal_records_screened": 510,
+        "independently_reran_screen_here": false
+      }
+    ],
+    "input_lineage_binding": {
+      "complete_safe_input_sha256": "664fa19f0e8cacb2fc109e4608f0892412be328b407128f801223721bd7cdcb7",
+      "attribution_addendum_previous_uploaded_sha256": "664fa19f0e8cacb2fc109e4608f0892412be328b407128f801223721bd7cdcb7",
+      "declared_safe_master_sha256": "46e2601f92a7028820aa8556b18664268b9b991ad065c77541691e92a06bf786",
+      "base_handoff_declared_safe_master_sha256": "46e2601f92a7028820aa8556b18664268b9b991ad065c77541691e92a06bf786",
+      "dedup_supplement_declared_safe_master_sha256": "46e2601f92a7028820aa8556b18664268b9b991ad065c77541691e92a06bf786",
+      "compact_and_addendum_hash_match": true,
+      "three_declared_master_hashes_match": true,
+      "master_file_bytes_received": false,
+      "master_hash_independently_recomputed": false,
+      "binding_limit": "两个补充通过已声明的同一安全母本哈希及compact前序哈希衔接；只核验声明一致，不宣称重算未提供母本或用户本地原文件。"
+    },
+    "permission_policy": {
+      "default": "deny",
+      "applies_to": "本交付全部SID、claims、examples、候选、跨源归纳与口吻整理",
+      "first_person_allowed": false,
+      "action_advice_allowed": false,
+      "runtime_answer_allowed": false,
+      "formal_knowledge_entry_allowed": false,
+      "verbatim_quote_allowed": false,
+      "citation_forbidden_not_revived_by_time_clipping": true,
+      "research_indexing_is_not_runtime_answer_permission": true,
+      "unlisted_citation_flag_is_not_positive_permission": true
+    },
+    "schema_notes": {
+      "claim_vs_knowledge": "claim_id是本次研究论点编号，不是正式knowledge_id；引用同一SID不增加独立证据权重。",
+      "speaker_roles": "A/B是论点层的局部话语角色候选，原speaker不改；说话者身份、固定声纹和私人账号归属均未确认。",
+      "conditions": "来源显式前提单列；编者对证据、适用范围和安全性的限制只放editorial_use_limits。",
+      "visual_evidence_sid_null": "视觉或标题没有口述SID时显式null并用报告JSON指针定位；绝不伪造SID。",
+      "duplicate_canonical_ids": "本包可用的是source_id级关系，不冒充未提供的旧knowledge_id；空数组不等于确认全新。",
+      "review_levels": "context_only只供限缩研究背景，hold为待核命题，do_not_generalize仅保留来源争议／概括；三者都不开放运行时回答。",
+      "safe_sid_ledger": "原安全段落逐段保留一次并恢复附注；正文是概述不是私聊逐字引语。"
+    },
+    "cross_source_notes": [
+      {
+        "note_id": "XS01",
+        "statement": "两条材料都有跨平台称呼／身份管理主题，但不足将Short与长片或两个旧案例的当事人合并。",
+        "source_ids": [
+          "mikey-youtube-video-refresh-001",
+          "mikey-youtube-short-refresh-001",
+          "mikey-youtube-live-refresh-002",
+          "quark-live-048"
+        ],
+        "relation": "theme_only_not_identity"
+      },
+      {
+        "note_id": "XS02",
+        "statement": "长片的旧外围叙述与新插入对谈属于同一案例出版关系；叙述者自报与对方被剪辑的回应不能作为两个独立成功案例加权。",
+        "source_ids": [
+          "mikey-youtube-video-refresh-001",
+          "mikey-youtube-live-refresh-001"
+        ],
+        "relation": "same_case_publication_not_independent_confirmation"
+      },
+      {
+        "note_id": "XS03",
+        "statement": "新视频增加了可分析的问答和例证，但没有提供足够证据批准新的Mikey正式方法；研究增量不等于方法准入，也不因同案而被归零。",
+        "source_ids": [
+          "mikey-youtube-video-refresh-001"
+        ],
+        "relation": "research_increment_with_formal_hold"
+      },
+      {
+        "note_id": "XS04",
+        "statement": "Short的称呼要求在旧直播已有主题对应；长通话、旅行计划和红字结果均不独立认证成行、同意、人物或吸引效果。",
+        "source_ids": [
+          "mikey-youtube-short-refresh-001",
+          "mikey-youtube-live-refresh-002"
+        ],
+        "relation": "editorial_theme_reexpression"
+      },
+      {
+        "note_id": "XS05",
+        "statement": "本次没有重读510旧来源全文。采用最新本地报告的510记录／332901段筛查事实，不误写成本次跑完旧库语义蒸馏。",
+        "source_ids": [
+          "mikey-youtube-video-refresh-001",
+          "mikey-youtube-short-refresh-001"
+        ],
+        "relation": "work_scope_accounting"
+      }
+    ],
+    "independent_verification_needed": [
+      {
+        "verification_id": "IV01",
+        "kind": "speaker_turn_mapping",
+        "priority": "blocking_for_mikey_authorship",
+        "scope": {
+          "source_id": "mikey-youtube-video-refresh-001",
+          "sid_start": "S00847",
+          "sid_end": "S01618"
+        },
+        "minimum_return": "本地只返回拟采候选的逐SID轮次／角色映射及无法确认的边界，不查参与者身份，不必重读旧全库。",
+        "current_effect": "8个Mikey角色研究候选不能转成已确认Mikey方法；B观点不得挪用。"
+      },
+      {
+        "verification_id": "IV02",
+        "kind": "proposition_level_dedup",
+        "priority": "blocking_for_new_knowledge_count",
+        "scope": {
+          "candidate_ids": [
+            "VR001-N001",
+            "VR001-N002",
+            "VR001-N003",
+            "VR001-N004",
+            "VR001-N005",
+            "VR001-N006",
+            "VR001-N007",
+            "VR001-N008",
+            "VR001-N009",
+            "VR001-N010",
+            "VR001-N011"
+          ]
+        },
+        "minimum_return": "每个拟采用候选与旧knowledge_id的命题、理由、条件成对比对，或可复核的语义检索阴性说明。",
+        "current_effect": "未提供则仅研究保留；0正式准入不是宣称全库0新思想。"
+      },
+      {
+        "verification_id": "IV03",
+        "kind": "asr_and_boundary_fidelity",
+        "priority": "blocking_for_affected_claims",
+        "scope": {
+          "source_id": "mikey-youtube-video-refresh-001",
+          "ambiguity_ranges": [
+            [
+              "S00001",
+              "S00018"
+            ],
+            [
+              "S00729",
+              "S00741"
+            ],
+            [
+              "S00878",
+              "S00881"
+            ],
+            [
+              "S00940",
+              "S00949"
+            ],
+            [
+              "S01028",
+              "S01042"
+            ],
+            [
+              "S01044",
+              "S01046"
+            ],
+            [
+              "S01066",
+              "S01073"
+            ],
+            [
+              "S01106",
+              "S01124"
+            ],
+            [
+              "S01236",
+              "S01243"
+            ],
+            [
+              "S01265",
+              "S01273"
+            ],
+            [
+              "S01389",
+              "S01405"
+            ],
+            [
+              "S01483",
+              "S01493"
+            ],
+            [
+              "S01718",
+              "S01727"
+            ]
+          ],
+          "boundary_seconds": [
+            [
+              1113,
+              1114
+            ],
+            [
+              2195,
+              2196
+            ]
+          ]
+        },
+        "minimum_return": "优先核对解释比较句、读书尝试的反应、角色切换；更正附原SID日志，不覆盖原稿。",
+        "current_effect": "疑词不静默修成精确术语；S01727禁引不因裁时解除。"
+      },
+      {
+        "verification_id": "IV04",
+        "kind": "consent_privacy_identity_effects",
+        "priority": "blocking_for_any_certification",
+        "scope": {
+          "source_ids": [
+            "mikey-youtube-video-refresh-001",
+            "mikey-youtube-short-refresh-001"
+          ]
+        },
+        "minimum_return": "仅保留与研究必要性相称的本地脱敏核验结论。没有独立证据则继续自述／争议；不要上传私人原字、识别映射或原像素。",
+        "current_effect": "不能认证医学、法律、付款、同意、人物身份、关系结果或课程效果。"
+      },
+      {
+        "verification_id": "IV05",
+        "kind": "short_visual_publication_relationship",
+        "priority": "major",
+        "scope": {
+          "source_id": "mikey-youtube-short-refresh-001",
+          "related_source_ids": [
+            "mikey-youtube-live-refresh-002",
+            "quark-live-048"
+          ]
+        },
+        "minimum_return": "需要确认截图同一性时，只在本地作图像／画面比对并返脱敏结果；另核文案作者和“毕业”含义。",
+        "current_effect": "继续只记录主题相关，不建立canonical截图复用或新增方法。"
+      }
+    ],
+    "addendum_application_log": [
+      {
+        "change_id": "A01",
+        "input_file": "attribution-addendum.json",
+        "action": "为S00847–S01618的772段恢复exact_note，且未改原speaker、时间、正文或任何许可。"
+      },
+      {
+        "change_id": "A02",
+        "input_file": "attribution-addendum.json",
+        "action": "为S01727恢复越界归属备注与citation_allowed=false；raw_start/raw_end、裁时和usable_time_span=false全部保留。"
+      },
+      {
+        "change_id": "A03",
+        "input_file": "dedup-supplement-safe.json",
+        "action": "将有效查重范围扩展为报告中的510全文、332901段；保留301视频稿＋209社区全文的分项。"
+      },
+      {
+        "change_id": "A04",
+        "input_file": "dedup-supplement-safe.json",
+        "action": "纳入82窗统计、35插入窗旧12字串0匹配、10个安全重排例子；未伪造余下逐窗或逐剪点映射。"
+      },
+      {
+        "change_id": "A05",
+        "input_file": "dedup-supplement-safe.json",
+        "action": "纳入旧直播S02605–S02677／4830–4930的出版预告安全概述，不把新对谈计为独立现实案例。"
+      },
+      {
+        "change_id": "A06",
+        "input_file": "dedup-supplement-safe.json",
+        "action": "Short的两条旧源关系仍为主题相关，不将私聊截图或当事人合并。"
+      }
+    ],
+    "source_anomalies": [
+      {
+        "anomaly_id": "AN01",
+        "source_id": "mikey-youtube-video-refresh-001",
+        "sid": "S01727",
+        "raw_start": 2432.46,
+        "raw_end": 2462.44,
+        "media_duration_seconds": 2433.741,
+        "raw_end_out_of_bounds_seconds": 28.699,
+        "normalized_start": 2432.46,
+        "normalized_end": 2433.741,
+        "normalized_interval_seconds": 1.281,
+        "usable_time_span": false,
+        "citation_allowed": false,
+        "speaker_assignment_allowed": false,
+        "treatment": "仅在异常和覆盖账本保存；不在claims、examples或候选的内容证据中使用。"
+      }
+    ],
+    "conclusion": {
+      "counts": {
+        "episodes": 2,
+        "input_sid_total": 1729,
+        "long_safe_sids": 1727,
+        "short_safe_sids": 2,
+        "long_timeline_events": 52,
+        "short_timeline_events": 11,
+        "timeline_events_total": 63,
+        "long_research_claims": 68,
+        "long_insert_research_claims": 45,
+        "long_reused_or_boundary_claims": 23,
+        "short_visual_or_editorial_research_claims": 5,
+        "research_claims_total": 73,
+        "research_claim_use_levels": {
+          "context_only": 30,
+          "do_not_generalize": 23,
+          "hold": 20
+        },
+        "candidate_reviews": 11,
+        "mikey_role_research_candidates": 8,
+        "other_party_research_context_candidates": 3,
+        "long_examples": 16,
+        "short_examples": 1,
+        "dialogue_exchanges": 14,
+        "restored_dialogue_attribution_notes": 772,
+        "restored_anomaly_attribution_notes": 1,
+        "explicit_citation_forbidden_sids": 1,
+        "currently_eligible_new_formal_knowledge": 0,
+        "currently_eligible_new_formal_methods": 0,
+        "new_independent_case_weight": 0,
+        "new_first_person_permissions": 0,
+        "new_action_permissions": 0,
+        "new_runtime_answer_permissions": 0,
+        "formal_source_or_knowledge_records_written": 0
+      },
+      "formal_admission_decision": "NOT_AUTHORIZED",
+      "new_knowledge_decision": "存在研究论述增量；当前可准入新增正式知识0，正式方法0；Short完整新增方法候选0。",
+      "reason_for_zero_formal": "不把文本未匹配或同案例出版自动等同于新方法。主讲归属、命题级旧库差异、效应与条件不足；对方观点、个人例证、争议和营销内容不能代替Mikey可用方法。",
+      "not_claimed": "没有声称11个候选全部是新颖方法，也没有声称整段对谈没有新思想。",
+      "new_source_publications_described": 2,
+      "new_independent_real_world_case_weight": 0,
+      "task_reported_formal_baseline": {
+        "source_records": 510,
+        "knowledge_records": 3551,
+        "independently_read_or_modified_here": false
+      },
+      "formal_skill_changed": false,
+      "all_new_persona_action_and_runtime_permissions": false,
+      "readable_summary_paragraphs": [
+        "长片不只是把旧直播换个标题再发：首尾沿用并重排同一案例的直播叙述，中间补入一段对谈。解释方讨论愤怒与恐惧、把伴侣当舒适圈、内在重心与聊天频次的区别、关系里的既有投入，以及自己面对悬而未决情绪的体验顺序；与此同时，他也讲了自利、控制、延后披露身份等带争议的立场。对方并非只是在接受指导：他提出为了家庭、自律、并非人人商业成功、把爱情转成继续生活的动力，并纠正“为了让主讲刮目相看”的解释。因此，本次指南研究材料得到的是更完整的双方论证、理由和反例，而不是又一个独立成功案例。A/B均只为文本角色候选；在声音归属、旧知识命题级差异和适用边界未完成本地核验前，本次新增正式知识与正式方法均为0，但不把这些论述增量抹为0。",
+        "Short主要讲的是发布者如何呈现“此前联络和见面意愿看似顺利，后来身份被跨平台识别”的反差，再用备忘录要求观众不要串称呼。通话条目、旅行计划、气泡内容、红字判语、标题与备忘录已经分层；红字宣布结束不证明真实结果，两段疑似背景歌声也不算Mikey口述。它可以为指南补齐一种出版表达和跨平台称呼主题的材料关联，但没有给出新的完整方法；与旧材料只确认主题相关，不确认同一截图、同一当事人或同一案例。本次Short新增正式知识、方法和独立案例权重均为0，画面里的缺口仍保留为待核。"
+      ]
+    },
+    "verification_scope": {
+      "performed_here": [
+        "4个输入字节SHA256核算及哈希声明链核对",
+        "完整安全文字与两份补充阅读",
+        "1729个SID连续性、唯一性、原安全文字／时间／speaker保存检查",
+        "772＋1条恢复备注和S01727禁引核对",
+        "68＋5条研究论点、11项候选、17例证与14组往返的引用完整性检查",
+        "长片52与Short11个全片编辑时间窗的顺序与区间覆盖检查",
+        "ASR空档、片尾隔离、纯视觉null SID及全false权限检查",
+        "JSON重读及Markdown命题目录一致性核对"
+      ],
+      "not_performed_here": [
+        "原音听校",
+        "原像素复核",
+        "连续音画核验",
+        "510旧来源重新扫描",
+        "3551旧知识逐命题独立语义验收",
+        "正式mikey-guide部署或写入"
+      ],
+      "mechanical_results_file": "mikey-two-media-validation.json",
+      "mechanical_pass_is_not_semantic_or_runtime_approval": true
+    },
+    "semantic_review_notes": [
+      {
+        "item": "其他人论述不被人物化吸收",
+        "claim_ids": [
+          "VR001-C025",
+          "VR001-C038",
+          "VR001-C049",
+          "VR001-C059",
+          "VR001-C060"
+        ],
+        "finding": "作为B的局部文本角色研究，未改原speaker，不归Mikey方法。"
+      },
+      {
+        "item": "对谈并非只有赞同",
+        "claim_ids": [
+          "VR001-C026",
+          "VR001-C025",
+          "VR001-C029",
+          "VR001-C030",
+          "VR001-C059"
+        ],
+        "finding": "保留直接反驳、适用反例和对赞赏解释的纠正，未汇成单一立场。"
+      },
+      {
+        "item": "具体过程不等于疗效",
+        "claim_ids": [
+          "VR001-C061"
+        ],
+        "finding": "保留暂时无解、停止强求、体验、主观减轻的顺序，同时隔离半小时效果和行动许可。"
+      },
+      {
+        "item": "争议内容未被净化",
+        "claim_ids": [
+          "VR001-C035",
+          "VR001-C045",
+          "VR001-C046",
+          "VR001-C054",
+          "VR001-C055"
+        ],
+        "finding": "欺骗、延后披露、工具化、控制和明示不认同保留于来源研究层，未优化成教程。"
+      },
+      {
+        "item": "例证不拼人拼案",
+        "example_ids": [
+          "VR001-X01",
+          "VR001-X02",
+          "VR001-X03",
+          "VR001-X04",
+          "VR001-X05",
+          "VR001-X06",
+          "VR001-X07",
+          "VR001-X08",
+          "VR001-X09",
+          "VR001-X10",
+          "VR001-X11",
+          "VR001-X12",
+          "VR001-X13",
+          "VR001-X14",
+          "VR001-X15",
+          "VR001-X16"
+        ],
+        "finding": "学校、家庭、朋友交易、梦境与焦虑自述各有case_key；不与主案人物自动合并。"
+      },
+      {
+        "item": "后续不是无条件成功",
+        "claim_ids": [
+          "VR001-C064",
+          "VR001-C066",
+          "VR001-C068"
+        ],
+        "finding": "未来勉励、仍需缓冲与报名声称分开，不认证完成修复或课程有效。"
+      }
+    ]
+  },
+  "input_resource_map": {
+    "complete-safe-input.json": "references/youtube-media-refresh-20261004/shared-inputs/complete-safe-input.json",
+    "attribution-addendum.json": "references/youtube-media-refresh-20261004/shared-inputs/attribution-addendum.json",
+    "dedup-supplement-safe.json": "references/youtube-media-refresh-20261004/shared-inputs/dedup-supplement-safe.json"
+  },
+  "original_pro_artifact_sha256": "a941d5c6aa858c6020fa80d7e058fa1bd09d010881023dee41b93f92e8ed3822",
+  "original_episode_canonical_sha256": "288546458ad7f46f885f9fa24e56b8ab5e3718686ea6191dda99e47fc95c83f4",
+  "materialization_note": "Original episode objects and global semantics copied unchanged; input filenames resolve through input_resource_map. Research claim IDs are not formal knowledge IDs.",
+  "permissions": {
+    "first_person_allowed": false,
+    "persona_first_person_allowed": false,
+    "action_advice_allowed": false,
+    "runtime_answer_allowed": false
+  }
+}

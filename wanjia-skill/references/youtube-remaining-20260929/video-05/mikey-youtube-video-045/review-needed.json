@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-045",
+  "youtube_id": "iMi4ns51Xgw",
+  "review_completed": true,
+  "items": [
+    {"review_id": "v045-r01", "severity": "blocking", "category": "duplicate", "issue": "Same underlying recording as formal mikey-approach-017.", "affected_evidence": ["whole source"], "disposition": "Reuse with formal weight 0."},
+    {"review_id": "v045-r02", "severity": "blocking", "category": "recording_and_publication_consent", "issue": "The participant asks about filming and is told filming has not started, while the published camera is already recording.", "affected_evidence": ["S00016-S00027", "sampled frame 000001"], "disposition": "Do not treat this as informed consent. No identifiable reuse or operational endorsement; require transparent prior consent and separate publication permission."},
+    {"review_id": "v045-r03", "severity": "blocking", "category": "age_and_adulthood", "issue": "The interaction contains an age-18 estimate, but the number and speaker are not independently verified.", "affected_evidence": ["S00041-S00061"], "disposition": "Do not pursue or advise romantic interaction until adulthood is clearly established; never infer age from appearance or makeup."},
+    {"review_id": "v045-r04", "severity": "major", "category": "contact_and_rescheduling", "issue": "Brief assent after discussing tomorrow/the day after and WeChat does not verify voluntary contact saving or a meeting.", "affected_evidence": ["S00029-S00040"], "disposition": "Keep as unresolved planning; do not claim a successful contact or date."},
+    {"review_id": "v045-r05", "severity": "major", "category": "gender_and_appearance_generalization", "issue": "The man generalizes Chinese women's apparent age based on makeup.", "affected_evidence": ["S00052-S00061"], "disposition": "Do not generalize gender, nationality or age from appearance."},
+    {"review_id": "v045-r06", "severity": "major", "category": "emotional_pressure", "issue": "The request to stay longer and 'give me a chance' may pressure travel or schedule decisions.", "affected_evidence": ["S00062-S00080"], "disposition": "Do not use emotional pressure; accept the person's own plans and uncertainty."},
+    {"review_id": "v045-r07", "severity": "major", "category": "privacy", "issue": "Participant and bystanders are identifiable in public footage, with consent especially contradicted by the filming exchange.", "affected_evidence": ["sampled frames 000001-000002"], "disposition": "Do not expose identities or reuse imagery without explicit privacy and publication review."},
+    {"review_id": "v045-r08", "severity": "major", "category": "speaker_attribution", "issue": "Short turns, including the filming denial and age statement, were not independently diarized or audio-checked.", "affected_evidence": ["whole source"], "disposition": "Keep role attribution tentative and do not quote as exact until original audio/turns are checked."}
+  ]
+}

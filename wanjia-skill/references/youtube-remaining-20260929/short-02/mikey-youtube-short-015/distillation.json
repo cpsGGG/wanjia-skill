@@ -1,0 +1,92 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-015",
+  "youtube_id": "nXb_5CmBvpc",
+  "title": "别把“洞察人心”玩成了“自我审视”",
+  "coverage": {
+    "transcript_segments_read": 13,
+    "transcript_time_range_seconds": [
+      0.88,
+      41.64
+    ],
+    "semantic_media_range_seconds": [
+      0.0,
+      42.306757
+    ],
+    "sampled_frames_reviewed": 14,
+    "continuous_original_audio_visual_review": false
+  },
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 6.28,
+      "summary": "A viewer asks how to stay indifferent while caring intensely about what others think."
+    },
+    {
+      "start": 6.28,
+      "end": 22.4,
+      "summary": "Mikey says sensitivity and reading others are not inherently bad, but links anxious monitoring to approaching someone as lower status."
+    },
+    {
+      "start": 22.4,
+      "end": 34.32,
+      "summary": "He contrasts this with a boss observing employees from a higher-status posture and calls that state attractive."
+    },
+    {
+      "start": 34.32,
+      "end": 42.306757,
+      "summary": "He repeats that monitoring someone framed as higher status creates a feeling of being scrutinized."
+    }
+  ],
+  "claims": [
+    {
+      "claim_id": "s015-c01",
+      "speaker": "Mikey",
+      "statement": "He distinguishes sensitivity itself from the posture used when interpreting other people.",
+      "conditions": "This is his status-based framing, not a clinical model.",
+      "evidence": [
+        "S00003-S00007@6.92-22.40"
+      ],
+      "use_level": "hold"
+    },
+    {
+      "claim_id": "s015-c02",
+      "speaker": "Mikey",
+      "statement": "He says observing others from a self-assigned higher-status role can look attractive, while monitoring someone treated as superior produces self-scrutiny.",
+      "conditions": "Hierarchy is contextual and subjective; do not use this to demean employees or suppress appropriate feedback.",
+      "evidence": [
+        "S00008-S00013@22.40-41.64"
+      ],
+      "use_level": "hold"
+    }
+  ],
+  "speaker_attribution": [
+    {
+      "speaker": "viewer",
+      "basis": "Opening question is displayed/read."
+    },
+    {
+      "speaker": "Mikey",
+      "basis": "Single visible light-jacket livestream host; transcript strongly matches formal o6fS0sTCYcU."
+    },
+    {
+      "speaker": "public chat",
+      "basis": "Visible in overlay but not evidence."
+    }
+  ],
+  "visual_findings": [
+    "All 14 sampled frames show one continuous light-jacket livestream response with public chat overlay and subtitles.",
+    "No employee interaction or external outcome is shown."
+  ],
+  "permissions": {
+    "formal_integration": false,
+    "first_person_allowed": false,
+    "action_advice_allowed": false,
+    "use_level": "reuse_zero_weight",
+    "reason": "Same passage as formal o6fS0sTCYcU and status hierarchy is a contested framing."
+  },
+  "limitations": [
+    "Status language is not a validated psychological model.",
+    "The Short omits the parent livestream context."
+  ]
+}

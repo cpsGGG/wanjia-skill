@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-011",
+  "youtube_id": "kKNgwMlrzk8",
+  "title": "肢体接触=给可得性",
+  "coverage": {
+    "transcript_segments_read": 47,
+    "transcript_time_range_seconds": [
+      0.21,
+      62.69
+    ],
+    "semantic_media_range_seconds": [
+      0.0,
+      58.282086
+    ],
+    "sampled_frames_reviewed": 19,
+    "continuous_original_audio_visual_review": false,
+    "excluded_asr_tail": "S00041-S00047 extend beyond the audited 58.282086-second media endpoint and are excluded from the timeline and claims."
+  },
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 10.91,
+      "summary": "He says body contact is situational rather than a fixed rule."
+    },
+    {
+      "start": 10.91,
+      "end": 26.73,
+      "summary": "If she does not yet know him, early contact may signal sexual intent and reduce felt safety, so he says not to rush it."
+    },
+    {
+      "start": 26.73,
+      "end": 47.93,
+      "summary": "After conversation, he frames contact as a branch of availability that may reassure a less-confident woman."
+    },
+    {
+      "start": 47.93,
+      "end": 58.282086,
+      "summary": "With someone already confident, he says this signal may be unnecessary and the choice depends on the other person."
+    }
+  ],
+  "claims": [
+    {
+      "claim_id": "s011-c01",
+      "speaker": "Mikey",
+      "statement": "Body contact should be treated as situational rather than a mandatory sequence.",
+      "conditions": "Any contact still requires present, freely given consent; confidence is not consent.",
+      "evidence": [
+        "S00001-S00005@0.21-10.91"
+      ],
+      "use_level": "hold"
+    },
+    {
+      "claim_id": "s011-c02",
+      "speaker": "Mikey",
+      "statement": "He says early contact can reduce felt safety when the other person does not yet know the man.",
+      "conditions": "This is his interpretation, not a reliable diagnosis of another person.",
+      "evidence": [
+        "S00006-S00016@10.91-26.73"
+      ],
+      "use_level": "hold"
+    },
+    {
+      "claim_id": "s011-c03",
+      "speaker": "Mikey",
+      "statement": "He frames consensual contact as a signal of availability that may reassure someone he judges less confident, while saying it may be unnecessary with someone confident.",
+      "conditions": "Do not infer confidence, desire or consent from appearance; ask and respond to verbal and nonverbal boundaries.",
+      "evidence": [
+        "S00017-S00040@26.73-58.13"
+      ],
+      "use_level": "hold"
+    }
+  ],
+  "speaker_attribution": [
+    {
+      "speaker": "student",
+      "basis": "Opening prompt is editorially displayed and read."
+    },
+    {
+      "speaker": "Mikey",
+      "basis": "Single visible striped-shirt speaker throughout the excerpt."
+    }
+  ],
+  "visual_findings": [
+    "All 19 sampled frames show one continuous striped-shirt monologue with added subtitles.",
+    "No woman, demonstration, private chat or independent outcome evidence appears."
+  ],
+  "permissions": {
+    "formal_integration": false,
+    "first_person_allowed": false,
+    "action_advice_allowed": false,
+    "use_level": "reuse_zero_weight",
+    "reason": "Already represented by formal jvFRTgH_4cE and current video-01 source 007."
+  },
+  "limitations": [
+    "Automatic ASR repeatedly misrecognizes 肢体接触 as 自己接触.",
+    "The clip does not demonstrate consent or outcomes."
+  ]
+}

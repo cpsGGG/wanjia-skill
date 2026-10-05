@@ -1,0 +1,314 @@
+[
+  {
+    "schema_version": "1.0",
+    "source_id": "mikey-youtube-live-021",
+    "speakers": [
+      {
+        "id": "mikey",
+        "role": "host",
+        "status": "confirmed",
+        "identity_basis": "标题标明Mikey直播；实际查看7/7张全片联系表，00:00–01:01持续为同一男性主持固定机位，右侧为直播评论区。静帧不能逐句证明嘴型。",
+        "evidence_refs": [
+          "https://www.youtube.com/watch?v=gkADT8_5s14&t=120s",
+          "https://www.youtube.com/watch?v=gkADT8_5s14&t=1800s",
+          "https://www.youtube.com/watch?v=gkADT8_5s14&t=3540s"
+        ],
+        "notes": "自动稿以主持代读观众问题并连续回答为主；手机画面和评论文本未逐条OCR。"
+      },
+      {
+        "id": "viewer-question-01",
+        "role": "collective live-chat question author(s)",
+        "status": "collective_placeholder",
+        "identity_basis": "7张联系表均显示直播评论区，自动稿反复出现主持代读问题。",
+        "evidence_refs": [
+          "https://www.youtube.com/watch?v=gkADT8_5s14&t=300s"
+        ],
+        "notes": "多名观众集合占位；问题内容不是Mikey自己的主张。"
+      }
+    ]
+  },
+  {
+    "schema_version": "1.0",
+    "source_id": "mikey-youtube-live-022",
+    "speakers": [
+      {
+        "id": "mikey",
+        "role": "host",
+        "status": "partially_confirmed",
+        "identity_basis": "频道直播主持身份可确认，但当前未完成逐句声音映射。",
+        "evidence_refs": [
+          "https://www.youtube.com/watch?v=dZgV_s1FVv8"
+        ],
+        "notes": "只有明确映射到Mikey的评价才能作为其观点。"
+      },
+      {
+        "id": "guest-masked-01",
+        "role": "visible participant",
+        "status": "unidentified",
+        "identity_basis": "画面左侧戴橙色头套/面具。",
+        "evidence_refs": [],
+        "notes": "不能仅凭位置确认姓名或声音。"
+      },
+      {
+        "id": "guest-unknown-02",
+        "role": "additional participant",
+        "status": "unidentified",
+        "identity_basis": "题目和语境称与两名门徒讨论，但抽样画面不能完成个人映射。",
+        "evidence_refs": [],
+        "notes": "保持未知。"
+      },
+      {
+        "id": "unknown-live-speaker-01",
+        "role": "unresolved live speaker",
+        "status": "disputed",
+        "identity_basis": "自动稿没有说话人分离，多人交替和重叠无法可靠分开。",
+        "evidence_refs": [],
+        "notes": "逐句人物核验前不得升级。"
+      },
+      {
+        "id": "viewer-chat-01",
+        "role": "collective viewer chat",
+        "status": "collective_placeholder",
+        "identity_basis": "画面持续显示实时评论栏。",
+        "evidence_refs": [],
+        "notes": "代表多个观众，不是同一人。"
+      },
+      {
+        "id": "media-character-or-plot",
+        "role": "anime character/plot material",
+        "status": "context_only",
+        "identity_basis": "等级表、角色立绘和剧情复述是讨论材料。",
+        "evidence_refs": [],
+        "notes": "不是Mikey亲历。"
+      }
+    ]
+  },
+  {
+    "schema_version": "1.0",
+    "source_id": "mikey-youtube-live-023",
+    "speakers": [
+      {
+        "id": "mikey",
+        "role": "host",
+        "status": "confirmed",
+        "identity_basis": "频道直播由Mikey主持；本期自动稿表现为单一主持人朗读观众问题并连续回答。最终人物确认仍等待本期视觉联系表复核。",
+        "evidence_refs": [
+          "https://www.youtube.com/watch?v=wjizzSk9eAI&t=28s"
+        ],
+        "notes": "观众问题通常由Mikey朗读，不能因出现在音轨里就把问题内容当成Mikey自己的经历。"
+      },
+      {
+        "id": "viewer-question-01",
+        "role": "collective live-chat question author(s)",
+        "status": "collective_placeholder",
+        "identity_basis": "直播答疑中反复出现称呼Mikey、陈述个人处境并等待回答的段落。",
+        "evidence_refs": [
+          "https://www.youtube.com/watch?v=wjizzSk9eAI&t=217s"
+        ],
+        "notes": "这是多个观众的集合占位符，不代表同一个人，也不是Mikey本人经历。"
+      }
+    ]
+  },
+  {
+    "schema_version": "1.0",
+    "source_id": "mikey-youtube-live-024",
+    "speakers": [
+      {
+        "id": "mikey",
+        "role": "host",
+        "status": "confirmed",
+        "identity_basis": "搭讪玩家TV直播75由Mikey主持，完整稿为主持人连续答疑；开场明确说明相机失焦。",
+        "evidence_refs": [
+          "https://www.youtube.com/watch?v=-yPQ13M6jX8&t=37s"
+        ],
+        "notes": "观众问题由主持人朗读，问题经历不归给Mikey。"
+      },
+      {
+        "id": "viewer-question-01",
+        "role": "collective live-chat question author(s)",
+        "status": "collective_placeholder",
+        "identity_basis": "多名直播观众问题由主持人转述。",
+        "evidence_refs": [
+          "https://www.youtube.com/watch?v=-yPQ13M6jX8&t=192s"
+        ],
+        "notes": "集合占位符。"
+      }
+    ]
+  },
+  {
+    "schema_version": "1.0",
+    "source_id": "mikey-youtube-live-025",
+    "speakers": [
+      {
+        "id": "mikey",
+        "role": "host",
+        "status": "confirmed",
+        "identity_basis": "搭讪玩家TV直播77由Mikey主持；完整稿为主持人连续答疑，视觉联系表另行记录画面结构。",
+        "evidence_refs": [
+          "https://www.youtube.com/watch?v=dSYHWDUlQ4I&t=30s"
+        ],
+        "notes": "观众问题由主持人口头转述，问题中的经历不归给Mikey。"
+      },
+      {
+        "id": "viewer-question-01",
+        "role": "collective live-chat question author(s)",
+        "status": "collective_placeholder",
+        "identity_basis": "多名观众的文字问题由主持人朗读。",
+        "evidence_refs": [
+          "https://www.youtube.com/watch?v=dSYHWDUlQ4I&t=207s"
+        ],
+        "notes": "集合占位符，不代表同一人物。"
+      }
+    ]
+  },
+  {
+    "schema_version": "1.0",
+    "source_id": "mikey-youtube-live-026",
+    "speakers": [
+      {
+        "id": "mikey",
+        "role": "host",
+        "status": "confirmed",
+        "identity_basis": "搭讪玩家TV直播79由Mikey主持；自动稿按连续主持框架整理，具体画面及切换仍依视觉审查。",
+        "evidence_refs": [
+          "https://www.youtube.com/watch?v=PQbkX-IUGcs&t=30s"
+        ],
+        "notes": "观众问题由主持人口头转述，问题中的经历不归给Mikey。"
+      },
+      {
+        "id": "viewer-question-01",
+        "role": "collective live-chat question author(s)",
+        "status": "collective_placeholder",
+        "identity_basis": "多名观众的文字问题由主持人朗读。",
+        "evidence_refs": [
+          "https://www.youtube.com/watch?v=PQbkX-IUGcs"
+        ],
+        "notes": "集合占位符，不代表同一人物。"
+      }
+    ]
+  },
+  {
+    "schema_version": "1.0",
+    "source_id": "mikey-youtube-live-027",
+    "speakers": [
+      {
+        "id": "mikey",
+        "role": "host",
+        "status": "confirmed",
+        "identity_basis": "搭讪玩家TV直播80由Mikey主持；自动稿按连续主持框架整理，具体画面及切换仍依视觉审查。",
+        "evidence_refs": [
+          "https://www.youtube.com/watch?v=8jCwDoBjWT0&t=30s"
+        ],
+        "notes": "观众问题由主持人口头转述，问题中的经历不归给Mikey。"
+      },
+      {
+        "id": "viewer-question-01",
+        "role": "collective live-chat question author(s)",
+        "status": "collective_placeholder",
+        "identity_basis": "多名观众的文字问题由主持人朗读。",
+        "evidence_refs": [
+          "https://www.youtube.com/watch?v=8jCwDoBjWT0"
+        ],
+        "notes": "集合占位符，不代表同一人物。"
+      }
+    ]
+  },
+  {
+    "schema_version": "1.0",
+    "source_id": "mikey-youtube-live-028",
+    "speakers": [
+      {
+        "id": "mikey",
+        "role": "host",
+        "status": "confirmed",
+        "identity_basis": "搭讪玩家TV直播81由Mikey主持；自动稿按连续主持框架整理，具体画面及切换仍依视觉审查。",
+        "evidence_refs": [
+          "https://www.youtube.com/watch?v=vBoAYfRFhh0&t=30s"
+        ],
+        "notes": "观众问题由主持人口头转述，问题中的经历不归给Mikey。"
+      },
+      {
+        "id": "viewer-question-01",
+        "role": "collective live-chat question author(s)",
+        "status": "collective_placeholder",
+        "identity_basis": "多名观众的文字问题由主持人朗读。",
+        "evidence_refs": [
+          "https://www.youtube.com/watch?v=vBoAYfRFhh0"
+        ],
+        "notes": "集合占位符，不代表同一人物。"
+      }
+    ]
+  },
+  {
+    "schema_version": "1.0",
+    "source_id": "mikey-youtube-live-029",
+    "speakers": [
+      {
+        "id": "mikey",
+        "role": "host",
+        "status": "confirmed",
+        "identity_basis": "搭讪玩家TV直播82由Mikey主持；自动稿按连续主持框架整理，具体画面及切换仍依视觉审查。",
+        "evidence_refs": [
+          "https://www.youtube.com/watch?v=knZc0MMOnbw&t=30s"
+        ],
+        "notes": "观众问题由主持人口头转述，问题中的经历不归给Mikey。"
+      },
+      {
+        "id": "viewer-question-01",
+        "role": "collective live-chat question author(s)",
+        "status": "collective_placeholder",
+        "identity_basis": "多名观众的文字问题由主持人朗读。",
+        "evidence_refs": [
+          "https://www.youtube.com/watch?v=knZc0MMOnbw"
+        ],
+        "notes": "集合占位符，不代表同一人物。"
+      },
+      {
+        "id": "caller-01",
+        "role": "collective phone caller(s)",
+        "status": "collective_placeholder",
+        "identity_basis": "直播后段出现多次电话连线；未完成逐句说话人分离和身份核验。",
+        "evidence_refs": [
+          "https://www.youtube.com/watch?v=knZc0MMOnbw&t=4300s"
+        ],
+        "notes": "集合占位符，不代表同一人物；来电者的话不得归给Mikey。"
+      },
+      {
+        "id": "unknown-voice-01",
+        "role": "mixed host/caller audio",
+        "status": "unresolved",
+        "identity_basis": "电话段自动稿混合主持人和多名来电者，尚未逐句分离。",
+        "evidence_refs": [
+          "https://www.youtube.com/watch?v=knZc0MMOnbw&t=4300s"
+        ],
+        "notes": "只用于覆盖混合语音事件。"
+      }
+    ]
+  },
+  {
+    "schema_version": "1.0",
+    "source_id": "mikey-youtube-live-030",
+    "speakers": [
+      {
+        "id": "mikey",
+        "role": "host",
+        "status": "confirmed",
+        "identity_basis": "搭讪玩家TV直播83由Mikey主持；自动稿按连续主持框架整理，具体画面及切换仍依视觉审查。",
+        "evidence_refs": [
+          "https://www.youtube.com/watch?v=KO5l9Lh7FZc&t=30s"
+        ],
+        "notes": "观众问题由主持人口头转述，问题中的经历不归给Mikey。"
+      },
+      {
+        "id": "viewer-question-01",
+        "role": "collective live-chat question author(s)",
+        "status": "collective_placeholder",
+        "identity_basis": "多名观众的文字问题由主持人朗读。",
+        "evidence_refs": [
+          "https://www.youtube.com/watch?v=KO5l9Lh7FZc"
+        ],
+        "notes": "集合占位符，不代表同一人物。"
+      }
+    ]
+  }
+]

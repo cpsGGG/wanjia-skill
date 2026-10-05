@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-033",
+  "youtube_id": "0hG_JSFWXwE",
+  "decision": "new",
+  "compared_sources": [
+    {"scope": "formal_mikey_guide", "source_count": 202, "comparison": "youtube_id_url_normalized_fulltext_and_12_character_shingles"},
+    {"source_id": "quark-live-031", "comparison": "highest formal transcript overlap; one common 12-character shingle only"},
+    {"scope": "existing_research_and_video_04_batch", "comparison": "identity, normalized transcript, theme and argument sequence"}
+  ],
+  "evidence": [
+    {"type": "identity", "result": "no_exact_youtube_id_or_url_overlap", "basis": "video-04 identity-precheck and formal source-index"},
+    {"type": "normalized_fulltext", "target_normalized_chars": 4857, "target_sha256": "869c0ea5046ff2884048ee52f38a7f6dafce10dad2e12350f87e378135d0ca0f", "formal_transcripts_checked": 202, "exact_matches": []},
+    {"type": "near_duplicate_screen", "method": "12_character_shingle_containment", "highest_formal_containment": 0.000206, "highest_formal_source_id": "quark-live-031", "result": "no transcript-scale reuse detected"},
+    {"type": "visual_scope", "result": "distinct_edited_monologue", "basis": "All 21 sampled frames show the host with film, DNA, animal, celebrity and crowd inserts supporting a distinct appearance-versus-behavior essay."}
+  ],
+  "boundary": "Formal sources cover confidence, appearance, social proof and attraction, but this upload presents a distinct ordered 'hunter traits' argument. Thematic overlap is not duplication."
+}

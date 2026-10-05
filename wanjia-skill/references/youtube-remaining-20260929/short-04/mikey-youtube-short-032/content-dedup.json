@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-032",
+  "youtube_id": "vT44uMVNSes",
+  "decision": "reuse",
+  "reuse_of": ["quark-live-034", "quark-live-014", "quark-live-030"],
+  "formal_weight_if_integrated": 0,
+  "compared_sources": [
+    {
+      "scope": "formal_mikey_guide",
+      "source_count": 202,
+      "comparison": "YouTube identity, normalized transcript phrase screen, and semantic knowledge screen"
+    },
+    {
+      "scope": "video-01_to_video-05_short-01_to_short-03",
+      "comparison": "YouTube identity, normalized transcript phrase screen, and semantic screen"
+    },
+    {
+      "scope": "formal_semantic_sources",
+      "source_ids": ["quark-live-034-k006", "quark-live-014-k014", "quark-live-030-k002", "quark-live-030-k003"],
+      "comparison": "objective value versus self-worth, feeling unworthy despite improved conditions, and loss of natural expression when placing the other person above oneself"
+    }
+  ],
+  "evidence": [
+    {
+      "type": "identity",
+      "result": "no_exact_id_or_url_match"
+    },
+    {
+      "type": "transcript",
+      "result": "no_exact_parent_excerpt_located",
+      "basis": "Distinctive phrase and four-character ordered screens across formal transcripts and completed video/Short batches did not identify the same recording."
+    },
+    {
+      "type": "semantic_reuse",
+      "result": "core_already_represented",
+      "basis": "Formal quark-live-034-k006 and quark-live-014-k014 already separate external conditions from self-worth; quark-live-030-k002/k003 already cover placing a high-status date above oneself, losing natural expression and using equality/relaxation instead."
+    },
+    {
+      "type": "non_reusable_addition",
+      "result": "restricted_ranking_and_conquest_language",
+      "basis": "The Short's low-score/high-score ranking, refusal of 'low-score women,' conquest framing and claim that repeated results build worth are not treated as a safe or independently supported new method."
+    },
+    {
+      "type": "visual",
+      "result": "single_speaker_selfie_monologue",
+      "basis": "All 57 sampled frames show the same man against a curtain with edited subtitles; no women, interactions, results, private records or external evidence are shown."
+    }
+  ],
+  "boundary": "Reuse only the already formalized distinction between external value and self-worth plus the equality/relaxation principle. Do not import the gender ranking, conquest language, rejection prescription, or result-dependent self-worth loop as general advice."
+}

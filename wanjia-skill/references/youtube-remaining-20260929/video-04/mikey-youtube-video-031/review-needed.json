@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-031",
+  "youtube_id": "kwMvehGwOU8",
+  "review_completed": true,
+  "items": [
+    {"review_id": "v031-r01", "severity": "blocking", "category": "victim_blaming", "issue": "The video says a man without a self will cause even a good woman to become abusive or exploitative.", "affected_evidence": ["S00117-S00139", "S00224-S00231"], "disposition": "Do not use this as an explanation of abuse, betrayal or financial exploitation; responsibility remains with the actor."},
+    {"review_id": "v031-r02", "severity": "blocking", "category": "third_party_and_legal", "issue": "Named public cases, money, divorce and relationship conduct are summarized from edited clips without primary records or context.", "affected_evidence": ["S00031-S00130", "sampled frames 000003-000006"], "disposition": "Treat only as Mikey's commentary; verify primary records before repeating any factual or legal allegation."},
+    {"review_id": "v031-r03", "severity": "major", "category": "consent_boundary", "issue": "The attack on needing positive feedback could be misread as permission to proceed under intimate uncertainty.", "affected_evidence": ["S00367-S00399"], "disposition": "Preserve the distinction between general approval-seeking and affirmative consent; uncertainty requires slowing down and checking."},
+    {"review_id": "v031-r04", "severity": "major", "category": "gender_generalization", "issue": "The upload repeatedly generalizes women, men and attraction from anecdotes and fictional examples.", "affected_evidence": ["S00117-S00276", "S00326-S00366"], "disposition": "Keep only bounded statements about motives and self-expression; do not generalize outcomes by gender."},
+    {"review_id": "v031-r05", "severity": "major", "category": "causal_psychology", "issue": "Family, school and social conditioning are presented as a near-universal cause of approval-seeking and later relationship outcomes.", "affected_evidence": ["S00232-S00276"], "disposition": "Do not diagnose a user's upbringing or predict their relationships from this source."},
+    {"review_id": "v031-r06", "severity": "minor", "category": "asr", "issue": "Names, quoted clip dialogue and several ideological terms are unstable in the automatic transcript.", "affected_evidence": ["S00031-S00130", "throughout"], "disposition": "Avoid exact quotation or factual attribution without original-audio and source-clip review."}
+  ]
+}

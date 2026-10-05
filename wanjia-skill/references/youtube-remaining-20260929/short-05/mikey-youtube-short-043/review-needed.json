@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-043",
+  "youtube_id": "beVlsu3s1mQ",
+  "review_completed": true,
+  "items": [
+    {"review_id": "s043-r01", "severity": "major", "category": "psychological_causality", "issue": "The Short presents self-criticism causing lower self-esteem and depleted capacity to change as a broad causal chain without supporting evidence.", "affected_evidence": ["S00004-S00009@5.18-18.48"], "disposition": "Keep as the speaker's framing, not a clinical or universal fact; disable action-advice use."},
+    {"review_id": "s043-r02", "severity": "blocking", "category": "accountability_boundary", "issue": "The self-acceptance example includes having hurt others and could be misused to bypass apology, repair, consequences or the harmed person's boundaries.", "affected_evidence": ["S00012-S00016@22.22-32.36"], "disposition": "Preserve the explicit accountability boundary and do not turn acceptance into exoneration."},
+    {"review_id": "s043-r03", "severity": "major", "category": "semantic_duplicate", "issue": "The core acceptance-plus-change principle is already represented by quark-live-007 and the formal parent of short-005.", "affected_evidence": ["whole source"], "disposition": "Assign zero weight and keep only as a research pointer."}
+  ]
+}

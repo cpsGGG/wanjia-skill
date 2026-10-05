@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-026",
+  "youtube_id": "dKHIueGB0UE",
+  "review_completed": true,
+  "items": [
+    {"review_id": "v026-r01", "severity": "blocking_for_case_fact", "issue": "The narrated marriage, money, prior-marriage and suicide story concerns identifiable people and is presented without authenticated primary records.", "affected_evidence": ["S00136-S00171", "sampled frames 000006-000007"], "disposition": "Keep fully attributed and unverified; require court, financial and contemporaneous records plus responses before factual use."},
+    {"review_id": "v026-r02", "severity": "major", "issue": "Provider/lover and dual-mating claims classify women as resource extractors or biologically compelled cheaters.", "affected_evidence": ["S00070-S00236"], "disposition": "Do not generalize or use to diagnose an individual; preserve only as Mikey's framework."},
+    {"review_id": "v026-r03", "severity": "major", "issue": "The bird paternity rate and evolutionary causal chain are unsourced and may be species, number or ASR errors.", "affected_evidence": ["S00203-S00236", "S00256-S00364"], "disposition": "Verify species, study and statistic before any factual citation; otherwise keep do_not_generalize."},
+    {"review_id": "v026-r04", "severity": "major", "issue": "The video treats attraction as making later behavior automatically right and describes women as belonging to a man.", "affected_evidence": ["S00238-S00255", "S00505-S00540"], "disposition": "Do not convert into advice; attraction does not excuse harm or replace ongoing consent."},
+    {"review_id": "v026-r05", "severity": "major", "issue": "Claims that feminism, media and capital deliberately impose appearance tyranny or engineer a pleasing economy lack sources and conflate many causal mechanisms.", "affected_evidence": ["S00365-S00455", "S00562-S00611"], "disposition": "Keep as rhetoric only; require demographic, media and market evidence for any factual use."},
+    {"review_id": "v026-r06", "severity": "major", "issue": "The core three-misconception structure substantially overlaps mikey-gameshengjing-001 and parts of video-011, though the transcript is not reused.", "affected_evidence": ["entire source"], "disposition": "Count as a distinct research source but give no extra confidence to repeated doctrine."},
+    {"review_id": "v026-r07", "severity": "minor", "issue": "ASR corrupts names, idioms, species terms and the closing quotation.", "affected_evidence": ["throughout"], "disposition": "Use paraphrase only; listen to original audio before quoting exact wording or numbers."}
+  ]
+}

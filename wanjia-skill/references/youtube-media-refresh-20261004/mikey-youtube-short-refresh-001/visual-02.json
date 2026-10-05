@@ -1,0 +1,72 @@
+{
+  "source_id": "mikey-youtube-short-refresh-001",
+  "status": "ACTUAL_STILL_REVIEW_COMPLETE_WITH_OPEN_LIMITS",
+  "coverage": {
+    "sparse_frames_read": 23,
+    "contact_sheets_read": 2,
+    "original_resolution_frames_read": 5,
+    "automatic_transcript_segments_read": 2,
+    "continuous_audio_visual": "NOT_RUN",
+    "original_audio_listening": "NOT_RUN"
+  },
+  "observations": [
+    {
+      "range_seconds": [
+        0,
+        3
+      ],
+      "type": "private_chat_plus_editor_overlay",
+      "description": "截取聊天界面，突出一个约两小时通话条目；红字为剪辑者强调。通话是否发生、与谁通话、谈话内容和关系身份不能由条目独立证明。"
+    },
+    {
+      "range_seconds": [
+        4,
+        7.9
+      ],
+      "type": "private_chat_plus_editor_overlay",
+      "description": "截取双方消息及一张旅行计划界面。左侧一方表达想见面，右侧回应并追问安排；剪辑者用红字将其解释为吸引与订票。旅行计划不是成行证明。"
+    },
+    {
+      "range_seconds": [
+        8,
+        11.5
+      ],
+      "type": "private_chat_plus_editor_overlay",
+      "description": "此前见面讨论后，左侧一方追问主讲在社交平台的身份。编辑红字把这段作为关系转折；只支持选中的截图顺序，不能证实完整时间线或因果。"
+    },
+    {
+      "range_seconds": [
+        12,
+        14.9
+      ],
+      "type": "private_chat_plus_editor_overlay",
+      "description": "右侧解释观众评论的来源；左侧随后用主讲公开身份称呼他，剪辑红字宣称关系或比赛结束。该红字是作者/剪辑者解释，不是截图展示的客观结果。"
+    },
+    {
+      "range_seconds": [
+        15,
+        21.1
+      ],
+      "type": "creator_text_note",
+      "description": "备忘录式文字要求观众在不同平台使用不同称呼，明确反对把一个平台的身份叫到另一个平台，并以“毕业”威胁违规观众。用语的具体处置含义未核实。"
+    },
+    {
+      "range_seconds": [
+        21.28,
+        21.481
+      ],
+      "type": "fade_to_black",
+      "description": "末尾抽样为黑场。"
+    }
+  ],
+  "attribution_and_privacy_limits": [
+    "未见主讲口述画面；两段ASR不能自动归为Mikey发言，疑似背景歌声尚未原音听校。",
+    "绿色/灰色和左右只表明截图显示的发件侧，不证明真实身份。",
+    "五张原尺寸关键帧均实际查看，消息层、红字剪辑评论层、备忘录层分开记录。",
+    "屏幕展示的昵称、头像、行程和原私聊句子只在研究原图保存，不外传像素/原字。"
+  ],
+  "first_person_allowed": false,
+  "action_advice_allowed": false,
+  "runtime_answer_allowed": false,
+  "pixels_safe_for_formal": false
+}

@@ -1,0 +1,153 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-042",
+  "youtube_id": "ZPqbKTYMsuc",
+  "title": "你的搭讪为什么没卵用？什么是有效搭讪",
+  "coverage": {
+    "transcript_segments_read": 223,
+    "transcript_time_range_seconds": [0.0, 420.26],
+    "semantic_media_range_seconds": [0.0, 431.914376],
+    "sparse_frames_reviewed": 10,
+    "dense_frames_reviewed": 0,
+    "continuous_original_audio_visual_review": false
+  },
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 34.0,
+      "summary": "Cold-open field interaction: Mikey asks to meet a woman, exchanges brief personal/scheduling talk and appears to add WeChat; later outcome is not shown."
+    },
+    {
+      "start": 34.0,
+      "end": 117.62,
+      "summary": "Studio explanation defines effective versus ineffective approaches and argues that collecting a contact alone does not show positive impression, skill growth or likelihood of meeting again."
+    },
+    {
+      "start": 117.62,
+      "end": 213.62,
+      "summary": "Signal one is whether the person voluntarily stops. Mikey warns not to keep following someone who continues walking and says to let her leave; field examples illustrate both stopping and mistaking an approach for sales."
+    },
+    {
+      "start": 213.62,
+      "end": 267.62,
+      "summary": "Signal two is eye contact. Mikey treats it as attention and a cue to the approacher's state, then a field example includes an explicit acknowledgment that prolonged staring can feel awkward."
+    },
+    {
+      "start": 267.62,
+      "end": 334.26,
+      "summary": "Signal three is continued conversation after the opening, framed as an opportunity for mutual information and personality to become visible; a field clip shows occupational talk."
+    },
+    {
+      "start": 334.26,
+      "end": 406.26,
+      "summary": "Signal four is not rejecting a romantic/sexual frame. Mikey contrasts it with purely polite or friendship interaction, disclaims explicit sexual harassment, and recommends skipping contact collection when the frame is not accepted."
+    },
+    {
+      "start": 406.26,
+      "end": 431.914376,
+      "summary": "Commercial call to contact the team, channel sign-off and branded outro."
+    }
+  ],
+  "claims": [
+    {
+      "claim_id": "v042-c01",
+      "speaker": "Mikey",
+      "statement": "He defines an effective approach as receiving attention while leaving a sufficiently positive impression that a second meeting remains possible; collecting a contact by itself does not meet that standard.",
+      "conditions": "This is Mikey's coaching definition, not an objective measure. A number exchange can be politeness or a safety exit, and only later voluntary engagement can clarify interest.",
+      "evidence": ["S00019-S00039@34.00-86.62"],
+      "use_level": "context_only",
+      "knowledge_status": "hold_pending_independent_review"
+    },
+    {
+      "claim_id": "v042-c02",
+      "speaker": "Mikey",
+      "statement": "He argues that repeating contact-collection openings without learning conversation, rapport or feedback can leave practice stuck at the courage-to-initiate stage.",
+      "conditions": "Do not treat strangers as practice equipment; every interaction must remain low-pressure, lawful and easy to exit.",
+      "evidence": ["S00040-S00055@86.62-115.62"],
+      "use_level": "context_only",
+      "knowledge_status": "hold_pending_independent_review"
+    },
+    {
+      "claim_id": "v042-c03",
+      "speaker": "Mikey",
+      "statement": "A person voluntarily stopping is his first practical sign that attention is available; if she keeps walking or does not want to stop, he explicitly says not to follow and to let her leave.",
+      "conditions": "Stopping only permits ordinary conversation; it does not prove attraction, consent to contact exchange, proximity, touch or continued pursuit.",
+      "evidence": ["S00058-S00078@120.62-156.62", "S00089-S00098@172.62-189.62"],
+      "use_level": "context_only",
+      "knowledge_status": "hold_pending_independent_review"
+    },
+    {
+      "claim_id": "v042-c04",
+      "speaker": "Mikey",
+      "statement": "He presents sustained eye contact as a sign of attention or interest and as information about the approacher's confidence and intent.",
+      "conditions": "Eye contact is culturally and individually variable and is not proof of attraction or consent; discomfort, avoidance or explicit words take priority.",
+      "evidence": ["S00112-S00141@213.62-266.62"],
+      "use_level": "do_not_generalize",
+      "knowledge_status": "hold_pending_independent_review"
+    },
+    {
+      "claim_id": "v042-c05",
+      "speaker": "Mikey",
+      "statement": "He treats continued voluntary conversation after the opening as an opportunity for each person to learn more and for a clearer impression to form.",
+      "conditions": "Conversation duration alone does not prove interest; politeness, uncertainty, safety management or situational constraints may also explain it.",
+      "evidence": ["S00142-S00162@266.62-313.26"],
+      "use_level": "context_only",
+      "knowledge_status": "hold_pending_independent_review"
+    },
+    {
+      "claim_id": "v042-c06",
+      "speaker": "Mikey",
+      "statement": "He says an approach should communicate romantic intent rather than hiding in a purely platonic script, while rejecting explicit sexual propositions or harassing words as the way to do so.",
+      "conditions": "His language of male 'aggression' and nonverbal romantic framing is underspecified. Romantic intent should be expressed plainly and respectfully, with no pressure; lack of clear reciprocation means stop rather than escalate.",
+      "evidence": ["S00174-S00214@333.26-406.26"],
+      "use_level": "do_not_generalize",
+      "knowledge_status": "hold_pending_independent_review"
+    }
+  ],
+  "examples": [
+    {
+      "example_id": "v042-e01",
+      "summary": "Several edited street interactions illustrate stopping, mistaken-sales reactions, eye contact, continued talk and departure, but the montage does not show a complete attempt denominator or later dates.",
+      "evidence": ["S00004-S00018", "S00062-S00111", "S00133-S00141", "S00163-S00173", "S00194-S00201"]
+    },
+    {
+      "example_id": "v042-e02",
+      "summary": "In one clip, a woman says she initially thought the approach was sales and had run from earlier approaches; this is her localized account, not a rule about women generally.",
+      "evidence": ["S00099-S00111@189.62-211.62"]
+    }
+  ],
+  "speaker_attribution": [
+    {
+      "speaker": "Mikey",
+      "basis": "Self-identifies at S00001 and appears as the single host in studio; teaching blocks and his own field lines are attributed to him by edit context."
+    },
+    {
+      "speaker": "approached women",
+      "basis": "Short field replies are participant speech; they support only the visible exchange and cannot authorize Mikey's broader interpretations."
+    },
+    {
+      "speaker": "editorial captions and montage",
+      "basis": "Burned-in labels such as '信号四' organize the video but do not independently verify interest, consent or outcomes."
+    }
+  ],
+  "visual_findings": [
+    "All 10 sampled frames were reviewed. Frames 000002-000004 and 000006-000008 show Mikey delivering a direct-to-camera sofa monologue; frames 000001, 000005 and 000009 show public approaches; frame 000010 is the channel outro.",
+    "Frame 000008 contains the on-screen label '信号四：女人不排斥和你进入男女框架', confirming the fourth-part edit structure but not its psychological inference.",
+    "Public participants' faces and surrounding bystanders are visible. The samples do not establish notice, filming consent, publication consent or later contact outcomes.",
+    "The montage alternates examples with claims; editing prevents treating every reaction as a continuous or representative interaction."
+  ],
+  "permissions": {
+    "formal_integration": false,
+    "first_person_allowed": false,
+    "action_advice_allowed": false,
+    "knowledge_status": "hold_pending_independent_review",
+    "reason": "Distinct source, but the four-signal model overreads attention cues as interest, uses gender-wide claims and ambiguous aggressive/sexual framing, and relies on edited public footage with unresolved privacy and consent."
+  },
+  "limitations": [
+    "Automatic transcript was not checked word-for-word against original audio.",
+    "Ten 45-second sampled frames do not equal continuous audio-visual review.",
+    "The edited examples do not provide the full number of attempts, voluntary contact validity, later replies, meetings or outcomes.",
+    "Stopping, eye contact and conversation duration are ambiguous social cues and cannot substitute for explicit consent or clear reciprocal interest.",
+    "Filming and publication consent for approached people and bystanders are unknown."
+  ]
+}

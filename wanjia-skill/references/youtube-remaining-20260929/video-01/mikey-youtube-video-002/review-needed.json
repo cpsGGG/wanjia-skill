@@ -1,0 +1,107 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-002",
+  "youtube_id": "oWRX-9Dl-QA",
+  "review_completed": true,
+  "items": [
+    {
+      "id": "mikey-youtube-video-002-r001",
+      "severity": "blocking",
+      "category": "content_reuse",
+      "issue": "本片与正式quark-live-015是同一案例的编辑版；若作为new接入会重复计算同一人的聊天、结果和方法。",
+      "evidence": ["12字符shingle重合9218、覆盖本片44.887%", "共同锚点：神似易梦林、太平洋宽肩、我的DNA、求同存异、骑车到访、麻将变形金刚、8月5日到访"],
+      "impact": "会造成来源数、知识数和跨期支持度虚增。",
+      "required_review": "保持reuse、正式权重0；知识继续引用quark-live-015。公开视频URL或画面若保留，仅作为替代证据。"
+    },
+    {
+      "id": "mikey-youtube-video-002-r002",
+      "severity": "blocking",
+      "category": "consent_and_refusal",
+      "issue": "Mikey多次宣称‘不是刚性拒绝就不是拒绝’，并把害怕、距离、朋友在场、留宿、玩笑和后来关系解释为仍可操作。",
+      "evidence": ["S00167-S00208@243.16-325.16", "S00239-S00245@372.16-387.16", "S01453-S01508@2292.85-2364.85", "S01742-S01780@2702.85-2762.85"],
+      "impact": "可能生成绕过拒绝、持续施压或把模糊信号当性同意的建议。",
+      "required_review": "明确接受之前不推进；不、害怕、不方便、持续回避、朋友在场或单独房间都不等于同意。持续同意必须针对当下具体行为。"
+    },
+    {
+      "id": "mikey-youtube-video-002-r003",
+      "severity": "blocking",
+      "category": "sexual_claims_and_aftercare",
+      "issue": "后段自述到访后性行为、朋友离开、成为女友、次日删除/后悔，并展示避孕套与疑似亲密素材；没有第三方或连续音画确认同意过程。",
+      "evidence": ["S01847-S01942@2874.85-3031.85", "frame 000068"],
+      "impact": "极高影响的性同意、隐私和结果误述风险。",
+      "required_review": "不得把性结果作为方法成功证明；不公开亲密素材；‘事后反悔’不能被讲者推测覆盖，必须保持未知并优先当事人边界。"
+    },
+    {
+      "id": "mikey-youtube-video-002-r004",
+      "severity": "blocking",
+      "category": "third_party_privacy_and_authorization",
+      "issue": "68张抽帧持续显示女性照片/视频、微信头像、日期、地点线索、聊天内容、朋友信息、私教联系方式和生活/亲密素材。",
+      "evidence": ["frames 000001-000068，尤其000033、000044、000050、000060、000065、000068"],
+      "impact": "未经授权分发或进入正式包会暴露第三方身份、性取向、住址、学校、关系和性信息。",
+      "required_review": "默认不保留原图到正式包；如确需证据，裁切/遮盖全部身份与地点，并单独确认授权范围。"
+    },
+    {
+      "id": "mikey-youtube-video-002-r005",
+      "severity": "major",
+      "category": "deception",
+      "issue": "Mikey承认改报出生年份、没有准备礼物却说准备了；这与其后‘真诚’总结直接冲突。",
+      "evidence": ["S00487-S00498@801.16-819.16", "S01273-S01291@2024.85-2046.85"],
+      "impact": "可能把欺骗包装成互动技巧，影响对方知情决定。",
+      "required_review": "将其作为反例/冲突，不进入建议；正式总结应明确身份、关系目标和承诺需真实。"
+    },
+    {
+      "id": "mikey-youtube-video-002-r006",
+      "severity": "major",
+      "category": "high_impact_health_claim",
+      "issue": "Mikey以朋友多次感染未死亡推断新冠是否会死人，并描述翻栏杆规避场所码。",
+      "evidence": ["S00340-S00351@557.16-577.16", "S00375-S00382@620.16-641.16"],
+      "impact": "包含错误健康推断和规避公共卫生措施。",
+      "required_review": "不得进入知识建议或人物第一人称回答；只能标记为历史语境中的不可靠个人言论。"
+    },
+    {
+      "id": "mikey-youtube-video-002-r007",
+      "severity": "major",
+      "category": "numbers_and_identity",
+      "issue": "月薪4000、月租一万、300平、01/00年出生、聊天20天、电话170/190/192分钟、关系四个月、性次数等数字彼此有修正或仅为单方自述。",
+      "evidence": ["S00218-S00304@339.16-497.16", "S00487-S00498@801.16-819.16", "S00933-S00941@1467.16-1489.16", "S01120-S01131@1763.85-1794.85", "S01847-S01942@2874.85-3031.85"],
+      "impact": "容易把营销数字和敏感身份信息写成确定事实。",
+      "required_review": "保持‘Mikey自述/截图显示’，不外推财富、年龄或关系事实；无必要不保留可识别数字。"
+    },
+    {
+      "id": "mikey-youtube-video-002-r008",
+      "severity": "major",
+      "category": "gender_and_class_generalization",
+      "issue": "片中对正妹、上海女性、双性恋、富家女、城市、女性‘物化自己’及长期关系金钱需求有大量群体泛化。",
+      "evidence": ["S00061-S00071@93.58-110.16", "S00218-S00304@339.16-497.16", "S01294-S01319@2050.85-2092.85", "S01673-S01698@2601.85-2640.85"],
+      "impact": "可能把个人案例和价值判断伪装成群体事实。",
+      "required_review": "只保留个案中的可观察互动和求同存异；群体动机、城市差异和财富/外貌因果不得泛化。"
+    },
+    {
+      "id": "mikey-youtube-video-002-r009",
+      "severity": "major",
+      "category": "speaker_and_screen_attribution",
+      "issue": "主体为Mikey，但大量内容是其朗读微信、转述电话和回应直播公屏；画面没有可靠证明所有灰/绿气泡真实身份。",
+      "evidence": ["frames 000001-000068", "S00107-S00114@155.60-167.16", "S01542-S01623@2413.85-2530.85"],
+      "impact": "可能把女性消息、观众回答或Mikey对动机的解释混为Mikey事实判断。",
+      "required_review": "按‘Mikey讲解/绿色方/灰色方/观众’分层；真实身份与动机保持未核验。"
+    },
+    {
+      "id": "mikey-youtube-video-002-r010",
+      "severity": "major",
+      "category": "visual_sequence",
+      "issue": "画面以45秒抽样查看，微信存在撤回、语音、电话、跨日期和剪辑压缩；不能凭静帧重建完整顺序。",
+      "evidence": ["visual/manifest.json interval_seconds=45", "S00801-S00812@1294.16-1317.16", "S01717-S01725@2666.85-2679.85"],
+      "impact": "删撤消息或关键否定可能改变互动含义。",
+      "required_review": "若正式使用具体消息顺序，需连续观看相应窗口并核对原始日期；否则只写‘剪辑呈现/讲者转述’。"
+    },
+    {
+      "id": "mikey-youtube-video-002-r011",
+      "severity": "major",
+      "category": "marketing_claim",
+      "issue": "结尾把案例结果与窗口识别、电话、维护和私教训练绑定，并号召领取资料/报名。",
+      "evidence": ["S01943-S01957@3031.85-3059.85", "全片右上角固定私教联系方式"],
+      "impact": "缺少独立对照，不能证明课程效果。",
+      "required_review": "标为营销自述，不生成成功保证或因果结论。"
+    }
+  ]
+}

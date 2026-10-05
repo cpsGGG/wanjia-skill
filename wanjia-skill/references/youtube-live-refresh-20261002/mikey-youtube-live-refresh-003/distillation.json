@@ -1,0 +1,275 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-live-refresh-003",
+  "youtube_id": "EPmR6XOphxY",
+  "title": "禁忌之力案例长直播（抖音认识有男友女生）",
+  "coverage": {
+    "transcript_segments_read": 3959,
+    "transcript_time_range_seconds": [2.7, 8072.0],
+    "sampled_frames_reviewed": 179,
+    "sample_interval_seconds": 45,
+    "contact_sheet_pages_reviewed": 8,
+    "dense_contact_sheet_pages_reviewed": 33,
+    "dense_frames_reviewed": 802,
+    "dense_interval_seconds": 10,
+    "visual_manifest_read": true,
+    "visual_review_read": true,
+    "continuous_audio_visual_review": false
+  },
+  "timeline": [
+    {
+      "start": 2.7,
+      "end": 551.4,
+      "summary": "开播、调音和排版后，Mikey预告一个涉及已有伴侣的案例。他先说自己使用所谓‘禁忌之力’伤害了另一名男性，对此后悔，并声称最初不知道女方已有男友。"
+    },
+    {
+      "start": 551.4,
+      "end": 1201.6,
+      "summary": "他介绍女方及其家庭、外貌、所在地等未经核实的私人背景，说明自己从给宠物内容点赞的人中筛选并私信她，把互动过自己内容的人视为较暖的潜在线索。"
+    },
+    {
+      "start": 1201.6,
+      "end": 2180.6,
+      "summary": "他逐条讲解最初的低投入回复，主张不要不断提供话题，而要点出敷衍、挑战对方后撤开；期间又展示和讲述拍摄对面住宅内私密活动、望远镜故事及车辆视频等材料。"
+    },
+    {
+      "start": 2180.6,
+      "end": 3274.0,
+      "summary": "他把聊天分为‘情绪共振’和‘强框架’，用玩笑、反问、装傻和不解释来说明自己所谓的不卑不亢、无需求感及不怕话题落地，并把女方开始发送语音视为可以邀请通话的时机。"
+    },
+    {
+      "start": 3274.0,
+      "end": 4182.8,
+      "summary": "长通话开始后，他继续展示同时发生的文字、照片和语音材料，并将不受对方身份、资源或自我呈现影响解释为强行为线索。画面包含大量私人聊天、头像、语音、照片和时间信息。"
+    },
+    {
+      "start": 4182.8,
+      "end": 4524.4,
+      "summary": "他展示361分钟通话记录并回述：女方在通话中才披露已有交往四年的男友。Mikey称自己当时愣住、纠结，但最终仍继续推进，并把后续行为称作‘禁忌之力’。"
+    },
+    {
+      "start": 4524.4,
+      "end": 5067.7,
+      "summary": "直播播放经删停顿和AI处理过的通话材料。女方被呈现为说她通常厌恶陌生男性关注，却觉得与Mikey交谈不同并产生见面冲动；Mikey现场插话，将这些话解释为吸引，并用前世、情人等假设强化亲密叙事。"
+    },
+    {
+      "start": 5067.7,
+      "end": 6146.8,
+      "summary": "他把在女方想见但有现实阻碍时降低表面急切、继续植入恋爱画面称为欲擒故纵。他一面说贬低现任很掉价且自己不会再这样做，一面又以‘自然先于道德’为继续追求辩护。"
+    },
+    {
+      "start": 6146.8,
+      "end": 6730.6,
+      "summary": "转到小号后，直播展示称呼、歌曲和第二次长通话。双方讨论如何借女性朋友、深圳或香港行程等安排实现见面；自动稿未区分每句的说话人，内容涉及隐瞒男友和家人。"
+    },
+    {
+      "start": 6730.6,
+      "end": 7352.9,
+      "summary": "Mikey把女方想维持原关系解释为现任具有‘供养者’属性、自己具有‘情人’属性，并上升为女性基因或天性的普遍规律；随后继续讨论三套隐瞒出行目的的计划和视频通话规避情境。"
+    },
+    {
+      "start": 7352.9,
+      "end": 7617.9,
+      "summary": "女方在消息中让他设闹钟并称到天府机场，Mikey据此说她突然订票并要求接机，之后两人见面。画面支持消息和机场时间线的粗略顺序，但不能独立证实人物、动机或事件真实性。"
+    },
+    {
+      "start": 7617.9,
+      "end": 8072.0,
+      "summary": "他播放自称见面后录制的片段，内容涉及性行为、怀孕和亲子鉴定假设，随后声称女性会接受其强烈欲望对象的出轨或混乱关系。结尾以课程和联系方式促销，称会教这种能力但不让学员照做。"
+    }
+  ],
+  "claims": [
+    {
+      "claim_id": "lr003-c01",
+      "speaker": "Mikey",
+      "statement": "他在开头和结尾都说自己后悔伤害女方的男友，声称最初不知道她已有伴侣，并表示以后不再这样做。",
+      "conditions": "这是Mikey对自身经历与意图的自述；道歉和免责声明与直播中长时间展示、教学化解释及营销并存，不能消除风险。",
+      "evidence": ["S00072-S00144@339.0-480.2", "S02770-S02799@5538.5-5588.6", "S03899-S03936@7951.4-8028.0"],
+      "use_level": "context_only",
+      "permission_suggestion": {"first_person_allowed": false, "action_advice_allowed": false}
+    },
+    {
+      "claim_id": "lr003-c02",
+      "speaker": "Mikey",
+      "statement": "他会优先私信已经给自己内容点赞的人，并认为这类人比完全陌生的对象更可能回复。",
+      "conditions": "只是他的个人做法和单一案例，不是回复率研究；互动不等于同意被追求、持续联系或公开私人材料。",
+      "evidence": ["S00206-S00241@596.8-665.5", "S00403-S00430@1001.1-1048.9"],
+      "use_level": "context_only",
+      "permission_suggestion": {"first_person_allowed": false, "action_advice_allowed": false}
+    },
+    {
+      "claim_id": "lr003-c03",
+      "speaker": "Mikey",
+      "statement": "当对方低投入回复时，他主张不要焦虑地独自维持话题，而会点出敷衍、用玩笑式挑战后撤开。",
+      "conditions": "直播没有可靠区分双方愿意打趣与对方感到压力的规则；沉默、拒绝、不适或敌意必须被视为停止信号。",
+      "evidence": ["S00473-S00592@1201.6-1405.6"],
+      "use_level": "hold",
+      "permission_suggestion": {"first_person_allowed": false, "action_advice_allowed": false}
+    },
+    {
+      "claim_id": "lr003-c04",
+      "speaker": "Mikey",
+      "statement": "他把聊天中的放松、不急于解释、不害怕话题落地及不被对方地位展示影响概括为‘强行为线索’。",
+      "conditions": "可作为其自我呈现观的描述，不能被用来合理化无视边界、贬低他人或把不明确回应解释为默许。",
+      "evidence": ["S00975-S01076@2180.6-2405.3", "S01518-S01671@3359.5-3604.2"],
+      "use_level": "context_only",
+      "permission_suggestion": {"first_person_allowed": false, "action_advice_allowed": false}
+    },
+    {
+      "claim_id": "lr003-c05",
+      "speaker": "Mikey",
+      "statement": "当双方已经互发语音时，他把这视为可以提出通话邀请的时机。",
+      "conditions": "只能作为一次低压力邀请；接受必须明确，任何一方都可以拒绝或结束通话。",
+      "evidence": ["S01191-S01210@2646.3-2679.9"],
+      "use_level": "context_only",
+      "permission_suggestion": {"first_person_allowed": false, "action_advice_allowed": false}
+    },
+    {
+      "claim_id": "lr003-c06",
+      "speaker": "Mikey",
+      "statement": "他称自己是在第一次长通话中才知道女方有交往四年的男友；得知后虽纠结，仍继续推进。",
+      "conditions": "这是经选择和编辑的聊天、通话材料支持的自述时间线，并非完整记录或独立核实的事实。",
+      "evidence": ["S01868-S02076@3965.9-4300.7", "S02077-S02177@4300.7-4482.7"],
+      "use_level": "context_only",
+      "permission_suggestion": {"first_person_allowed": false, "action_advice_allowed": false}
+    },
+    {
+      "claim_id": "lr003-c07",
+      "speaker": "woman presented in edited call material and Mikey commentary",
+      "statement": "播放材料把女方呈现为通常厌恶陌生男性注视或搭讪，却认为与Mikey长谈不同，并出现想见面的冲动。",
+      "conditions": "音频被Mikey说明为删停顿并用AI处理过；自动转写没有说话人标签，女方身份、完整语境和公开同意均未验证。",
+      "evidence": ["S02226-S02458@4536.1-4968.1"],
+      "use_level": "hold",
+      "permission_suggestion": {"first_person_allowed": false, "action_advice_allowed": false}
+    },
+    {
+      "claim_id": "lr003-c08",
+      "speaker": "Mikey",
+      "statement": "他把降低表面急切、同时继续植入浪漫画面和要求对方表达欲望，明确称为欲擒故纵或‘禁术’。",
+      "conditions": "发生在已有伴侣和信息不对称的情境中，包含操控和施压；只可用于描述其做法及矛盾，不能转成话术或行动建议。",
+      "evidence": ["S02473-S02598@4998.5-5234.9", "S02890-S02958@5674.1-5903.0"],
+      "use_level": "do_not_generalize",
+      "permission_suggestion": {"first_person_allowed": false, "action_advice_allowed": false}
+    },
+    {
+      "claim_id": "lr003-c09",
+      "speaker": "Mikey",
+      "statement": "他一面说诋毁女方现任很掉价，一面以‘自然先于道德’和‘退化成原始人’为继续追求辩护。",
+      "conditions": "这是直播内部的重要矛盾。后来的后悔不能把前述合理化改写成可接受的方法。",
+      "evidence": ["S02665-S02799@5364.2-5588.6"],
+      "use_level": "do_not_generalize",
+      "permission_suggestion": {"first_person_allowed": false, "action_advice_allowed": false}
+    },
+    {
+      "claim_id": "lr003-c10",
+      "speaker": "Mikey and a woman presented in edited call material",
+      "statement": "直播记录了多套隐瞒真实出行目的、借女性朋友或其他行程作掩护以到成都见面的计划。",
+      "conditions": "说话人逐句归属不稳，涉及欺骗伴侣与家人；仅保留为案例叙述，不得作为规避监督或促成不忠的建议。",
+      "evidence": ["S03183-S03333@6381.6-6659.6", "S03466-S03704@6929.9-7469.5"],
+      "use_level": "do_not_generalize",
+      "permission_suggestion": {"first_person_allowed": false, "action_advice_allowed": false}
+    },
+    {
+      "claim_id": "lr003-c11",
+      "speaker": "Mikey",
+      "statement": "他把女方维持原关系和愿意见自己的叙述概括为‘供养者’与‘情人’两种男性属性，并声称女性在基因层面会偏好后者。",
+      "conditions": "由一个自述案例推导出的性别和生物学泛化，没有独立证据，也夹带公众人物及第三方事实主张。",
+      "evidence": ["S03369-S03438@6730.6-6870.9", "S03880-S03892@7913.2-7939.1"],
+      "use_level": "do_not_generalize",
+      "permission_suggestion": {"first_person_allowed": false, "action_advice_allowed": false}
+    },
+    {
+      "claim_id": "lr003-c12",
+      "speaker": "Mikey",
+      "statement": "他展示机场消息并声称女方突然订票到成都，自己前往天府机场接她，二人随后见面。",
+      "conditions": "画面只支持经编辑消息的粗略时间线；人物身份、完整上下文、动机、见面和后续事件仍是Mikey的主张。",
+      "evidence": ["S03674-S03704@7404.0-7469.5", "visual dense-contact-sheets pages 029-031"],
+      "use_level": "hold",
+      "permission_suggestion": {"first_person_allowed": false, "action_advice_allowed": false}
+    },
+    {
+      "claim_id": "lr003-c13",
+      "speaker": "Mikey and unclear speakers in an alleged in-person recording",
+      "statement": "结尾录音涉及性行为、怀孕、亲子鉴定和让伴侣误认亲子关系的假设。",
+      "conditions": "自动稿明显把‘亲子鉴定’误识别为‘性格鉴定’，说话人和事件真实性未经连续音画或原音核验；同时涉及性健康、法律和第三方权益。",
+      "evidence": ["S03762-S03892@7640.7-7939.1"],
+      "use_level": "do_not_generalize",
+      "permission_suggestion": {"first_person_allowed": false, "action_advice_allowed": false}
+    },
+    {
+      "claim_id": "lr003-c14",
+      "speaker": "Mikey",
+      "statement": "结尾他以该案例宣传课程和联系方式，称会教授这种吸引能力，但不会让学员照做，并要求学员成为‘情人’而非‘供养者’。",
+      "conditions": "免责声明与销售话术及详细演示相邻，不能据此开放第一人称或行动建议权限。",
+      "evidence": ["S03899-S03936@7951.4-8028.0"],
+      "use_level": "context_only",
+      "permission_suggestion": {"first_person_allowed": false, "action_advice_allowed": false}
+    }
+  ],
+  "examples": [
+    {
+      "example_id": "lr003-e01",
+      "summary": "从宠物内容点赞开始私信，经过低投入回复、表情、语音互发和长通话，Mikey逐段解释自己如何判断互动升温。",
+      "evidence": ["S00206-S01210@596.8-2679.9"]
+    },
+    {
+      "example_id": "lr003-e02",
+      "summary": "361分钟通话中披露已有男友，之后切换小号、再次长谈、讨论三套出行掩护计划，再到机场消息和声称见面。",
+      "evidence": ["S01993-S02177@4182.8-4482.7", "S03078-S03704@6146.8-7469.5"]
+    },
+    {
+      "example_id": "lr003-e03",
+      "summary": "直播以私人聊天、语音、照片、视频缩略图和据称见面后的录音为核心证据，但这些材料经过选取、剪辑和部分AI处理。",
+      "evidence": ["visual contact-sheets pages 01-08", "visual dense-contact-sheets pages 001-033", "S02272-S02288@4622.9-4640.3"]
+    }
+  ],
+  "speaker_attribution": [
+    {
+      "speaker": "Mikey",
+      "basis": "179张稀疏帧和802张10秒密集帧均显示同一名棚内主持人持续讲解，可将现场叙述、解释、后悔和营销直接归给他。"
+    },
+    {
+      "speaker": "woman in the case",
+      "basis": "通过聊天截图、语音气泡及经编辑播放的通话/现场录音呈现。自动稿无说话人标签，音频还被删停顿和AI处理，不能逐句精确归属。"
+    },
+    {
+      "speaker": "the woman's boyfriend and family",
+      "basis": "未在已审画面中直接可靠发言；关于其行为、关系、监控和婚姻意愿均来自Mikey或被归给女方的材料。"
+    },
+    {
+      "speaker": "livestream viewers",
+      "basis": "弹幕持续出现在画面左侧，Mikey多次回应；弹幕本身不能视为他的观点或独立证据。"
+    },
+    {
+      "speaker": "inserted media and photographed third parties",
+      "basis": "车辆、邻居、社交媒体内容、群体照片和其他缩略图只是被展示的第三方材料，除非Mikey明确采纳，否则不归为他的主张。"
+    }
+  ],
+  "visual_findings": [
+    "已查看8页45秒稀疏联系表和33页10秒密集联系表，覆盖179张稀疏帧与802张密集帧；这仍是全片视觉普查，不是连续音画核验。",
+    "主体布局是Mikey在左中部讲解，右侧长期放大私人聊天，左侧叠加直播弹幕，顶部有女性剪影、二维码或联系方式等促销覆盖物。",
+    "聊天画面包含头像、脸部照片、语音条、通话卡片、时间、贴图、视频缩略图、车辆/地点/群体或公共场所图片，发送方位置和滚动顺序承载信息。",
+    "约17至18分钟开始显示更完整的聊天；约69分50秒至100分钟持续可见的是聊天历史中的静态蓝色‘语音通话’卡片，不能据此认定当时正在通话或播放；约102分钟起出现另一组语音与长文本，约124分50秒后切换到深色聊天并滚动长线程。",
+    "视觉材料支持同一聊天案例在直播中按顺序展开，也显示直播比剪辑上传保留更多停顿、弹幕回应、技术调整和促销上下文；静帧不能证明截图完整、人物身份、音频播放、同意或拒绝、行为结果与事件真实性。",
+    "女性剪影和二维码是覆盖层，不是现场共同说话人；聊天中的每条文字、图片、语音和嵌入视频均应先视为来源材料，而不是Mikey本人发言。"
+  ],
+  "permissions": {
+    "formal_integration": false,
+    "independent_source_weight": 0,
+    "formal_weight": 0,
+    "reuse_of": "mikey-youtube-video-003",
+    "dedup_status": "reuse_pending",
+    "first_person_answering": false,
+    "action_advice": false,
+    "runtime_level": "research_candidate_restricted_reuse_pending",
+    "reason": "91.14%有序ASR字符包含及大规模精确n-gram重叠支持高度疑似包含关系，但Chromaprint仅0.2235%，共同来源尚未证明，因此维持reuse_pending和零权重；同时内容涉及操控、隐瞒、不忠、私人通信、未经同意的第三方影像/录音、性与亲子议题、未核实事实和无证据性别泛化。"
+  },
+  "limitations": [
+    "自动稿已完整读取，但未逐句听校；存在专名、代词及‘亲子鉴定’被识别为‘性格鉴定’等明显错误。",
+    "播放通话与现场录音同Mikey的即时插话交错，没有可靠说话人标签，不能把含混句子精确归给女方或Mikey。",
+    "聊天、通话和现场录音经过选择、滚动、剪辑和部分AI处理，不是完整原始记录。",
+    "文本包含支持reuse_pending，但Chromaprint原始音频指纹仅匹配0.2235%；共同来源尚未证明，需更强的连续音频或编辑链证据才能关闭查重。",
+    "完整剪辑上传约2440秒被长直播约8072秒的文本高度包含；长直播独有价值限于前后段、现场讲解、弹幕互动和更长视觉上下文，不能获得独立证据权重。",
+    "全部联系表已复核，但10秒和45秒采样仍不能替代连续音画、原始聊天导出、同意证明或第三方事实核验。"
+  ]
+}

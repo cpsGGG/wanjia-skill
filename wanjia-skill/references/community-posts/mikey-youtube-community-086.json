@@ -1,0 +1,50 @@
+{
+  "schema_version": "mikey-community-post-fulltext-1.0",
+  "source_id": "mikey-youtube-community-086",
+  "post_id": "UgkxD-QF_AYSDTK81LJqAQBh3y9HqcLHri3u",
+  "url": "https://www.youtube.com/post/UgkxD-QF_AYSDTK81LJqAQBh3y9HqcLHri3u",
+  "published_at": "2025-12-10T02:00:00.421143-08:00",
+  "date_basis": "archived_public_observation",
+  "body": "你必须得强 女人才不敢找你要东西（金钱 名份 地位）\n\n你不强 但有一点小钱 女生便会向你索取东西 并且吃干抹净 拍拍屁股走人",
+  "body_kind": "verbatim_or_as_archived_in_corrected_candidate",
+  "image_refs": [
+    {
+      "image_index": 1,
+      "research_archive_path": "research/youtube-community-batch1/images/UgkxD-QF_AYSDTK81LJqAQBh3y9HqcLHri3u/01.jpg",
+      "sha256": "38508fd6885413a112c01be74fb99d790518bd827b42e5d86d3b879f9fa564a8",
+      "bytes": 364293,
+      "formal_asset_policy": "reference_only_do_not_copy",
+      "safe_summary": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。"
+    }
+  ],
+  "segments": [
+    {
+      "sid": "C0086-BODY",
+      "kind": "channel_body",
+      "text": "你必须得强 女人才不敢找你要东西（金钱 名份 地位）\n\n你不强 但有一点小钱 女生便会向你索取东西 并且吃干抹净 拍拍屁股走人",
+      "verbatim_allowed": true,
+      "source_scope": "public_channel_body_as_archived"
+    },
+    {
+      "sid": "C0086-IMG01",
+      "kind": "image_reference_metadata",
+      "text": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。",
+      "verbatim_allowed": false,
+      "image_reference": {
+        "image_index": 1,
+        "research_archive_path": "research/youtube-community-batch1/images/UgkxD-QF_AYSDTK81LJqAQBh3y9HqcLHri3u/01.jpg",
+        "sha256": "38508fd6885413a112c01be74fb99d790518bd827b42e5d86d3b879f9fa564a8",
+        "bytes": 364293,
+        "formal_asset_policy": "reference_only_do_not_copy",
+        "safe_summary": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。"
+      }
+    }
+  ],
+  "privacy_policy": {
+    "original_images_copied": false,
+    "raw_ocr_copied": false,
+    "private_chat_transcript_copied": false,
+    "third_party_identity_confirmed": false,
+    "publication_authorization_confirmed": false
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-033",
+  "youtube_id": "apoG8W9NziA",
+  "decision": "reuse",
+  "reuse_of": "quark-live-030",
+  "formal_weight_if_integrated": 0,
+  "compared_sources": [
+    {
+      "scope": "formal_mikey_guide",
+      "source_count": 202,
+      "comparison": "YouTube identity, normalized transcript phrase screen, and semantic knowledge screen"
+    },
+    {
+      "scope": "video-01_to_video-05_short-01_to_short-03",
+      "comparison": "YouTube identity, normalized transcript phrase screen, and semantic screen"
+    },
+    {
+      "scope": "formal_semantic_sources",
+      "source_ids": ["quark-live-030-k004", "quark-live-030-k008"],
+      "comparison": "calm strength rather than cold performance and asking about distraction instead of attacking or assigning a motive"
+    }
+  ],
+  "evidence": [
+    {
+      "type": "identity",
+      "result": "no_exact_id_or_url_match"
+    },
+    {
+      "type": "transcript",
+      "result": "no_exact_parent_excerpt_located",
+      "basis": "The same exact recording was not located by phrase and ordered four-character screens."
+    },
+    {
+      "type": "semantic_reuse",
+      "result": "already_represented",
+      "basis": "Formal quark-live-030-k004 already defines 平静有力量 as stable participation rather than cold performance; k008 already covers asking about distraction instead of assigning a motive or attacking."
+    },
+    {
+      "type": "visual",
+      "result": "single_speaker_outdoor_monologue",
+      "basis": "All 41 sampled frames show the same seated man in one outdoor lakeside setup with edited subtitles; a passerby appears briefly in the background but does not participate."
+    }
+  ],
+  "boundary": "Treat the useful anti-negging, calm-expression lesson as semantic reuse of quark-live-030. Preserve the student's alleged behavior and dating outcomes as unverified second-hand setup."
+}

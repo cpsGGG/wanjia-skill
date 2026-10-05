@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-029",
+  "youtube_id": "TUx4Jo4wEBk",
+  "decision": "reuse",
+  "formal_weight_if_integrated": 0,
+  "compared_sources": [
+    {
+      "scope": "formal_mikey_guide",
+      "source_count": 202,
+      "comparison": "id/url, normalized 8-character transcript shingles and semantic screen"
+    },
+    {
+      "scope": "remaining_video_batches_01_05_short_01_02_and_other_short_03_items",
+      "source_count": 74,
+      "comparison": "id/url, normalized transcript shingles and semantic screen"
+    },
+    {
+      "source_id": "mikey-youtube-live-009",
+      "comparison": "same parent livestream excerpts; 621 of 706 normalized 8-character shingles match, spanning the consistency/value, safety, and reincarnation passages"
+    },
+    {
+      "source_id": "mikey-practice-008",
+      "comparison": "semantic screen for doing oneself and attraction; no same-passage match"
+    },
+    {
+      "source_id": "quark-live-019",
+      "comparison": "semantic screen for attraction and safety; no same-passage match"
+    },
+    {
+      "source_id": "quark-live-028",
+      "comparison": "semantic screen for attraction and safety; no same-passage match"
+    }
+  ],
+  "evidence": [
+    {
+      "type": "identity",
+      "result": "no_exact_id_or_url_match"
+    },
+    {
+      "type": "transcript",
+      "result": "same_parent_compilation",
+      "basis": "S00001-S00023 align to formal mikey-youtube-live-009 around 3450-3550 seconds; S00024-S00035 jump to the same source around 4440-4483 seconds."
+    },
+    {
+      "type": "visual",
+      "result": "single_host_excerpt",
+      "basis": "All 45 sampled frames show one black-shirt host holding a phone in one dark setting with subtitles; no interaction or outcome is depicted."
+    }
+  ],
+  "boundary": "Reuse formal mikey-youtube-live-009. This Short compiles two separated parent passages and carries zero independent weight."
+}

@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-008",
+  "youtube_id": "tkDjl6MSYoA",
+  "decision": "new",
+  "compared_sources": [
+    {
+      "scope": "formal_mikey_guide",
+      "source_count": 202,
+      "comparison": "youtube_id_url_normalized_fulltext_phrase_and_visual_overlap_screening"
+    }
+  ],
+  "evidence": [
+    {"type": "identity", "result": "no_exact_youtube_id_or_url_overlap", "basis": "video-01/identity-precheck.json and the current formal source index"},
+    {"type": "normalized_fulltext", "target_normalized_chars": 3387, "target_sha256": "8e9f85ff176e1853021cf60c98c51862dba2fac11bdbe02bc9880bfd11c7885e", "formal_transcripts_checked": 202, "exact_matches": []},
+    {
+      "type": "partial_overlap",
+      "matched_source_id": "mikey-youtube-live-037",
+      "result": "later_formal_live_replays_and_comments_on_a_short_excerpt",
+      "detail": "The formal live transcript at about 1416.65-1435.91 replays the upload's approximately 101.89-117.49 passage beginning '如果Mina的长相并没有那么出众' and then comments on the reaction to it. This is a short excerpt, not reuse of the full 564-second essay."
+    },
+    {
+      "type": "visual_screening",
+      "result": "new_edited_essay_with_third_party_material",
+      "detail": "The 13 sparse and 114 five-second dense frames show a chaptered edited essay containing performance/live clips, portraits, posts, replies, news-like cards, other commentators and illustrative footage. Those materials are evidence of the edit's structure, not independent proof of the underlying event claims."
+    }
+  ],
+  "boundary": "Count as a new candidate source, while marking the short excerpt already embedded in mikey-youtube-live-037 as overlapping support rather than independent corroboration."
+}

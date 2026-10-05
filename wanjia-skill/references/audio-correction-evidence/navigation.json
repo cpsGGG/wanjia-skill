@@ -1,0 +1,642 @@
+{
+  "schema_version": "mikey-audio-correction-evidence-navigation-1.0",
+  "role": "existing_web_audio_records_navigation_not_new_listening_or_permission",
+  "source_id": "9zRpsnsPGxU",
+  "overlay_path": "references/audio-corrections.json",
+  "overlay_sha256": "b0edc38d1c61f39759352c9765b0457dd8f760452ec7e3f379b5d8de07846d6e",
+  "source_review_status": "eleven_window_text_comparison_complete_not_full_audio_review",
+  "independent_local_audio_listening": "not_done",
+  "global_limitations": [
+    "保留自动稿原文件；修正仅作为单独网页听辨候选及差异记录。",
+    "首份18秒音频与清单21.58秒窗口边界不同，不能用292.68秒已准备窗口总长作已听校秒数。",
+    "网页近似时标多处不适合逐句精确对齐；缺失尾句与旧SRT可能来自旧稿时轴漂移、窗口裁切或网页遗漏，文字比较不能判定哪一种。",
+    "他/她及同音专名的字形不能由声音唯一决定；本批未产生已确认数字修正。",
+    "单一说话人不排除该人读评论、转述他人；未核画面/弹幕。"
+  ],
+  "documents": {
+    "web-audio-review-01.md": {
+      "path": "references/audio-correction-evidence/web-audio-review-01.md",
+      "sha256": "7b99f76415f75e43e725ba463fc0665e053d90ce83c6671325a6760bdfec6c43",
+      "bytes": 1579,
+      "source_original_sha256": "3314e13d154e7e7afaae9655c2f4c025cdebc42d4a8942678dc9b319357611b3",
+      "source_original_sha256_scope": "original_local_evidence_before_public_projection_not_the_packaged_public_copy",
+      "public_projection": "Private session locator removed; audio-review content retained; no new listening, attribution or permission."
+    },
+    "web-audio-review-remaining.md": {
+      "path": "references/audio-correction-evidence/web-audio-review-remaining.md",
+      "sha256": "5a8e32bc03d6ca02410899ca16abad12e96fc67841aad00e00d13771018378cc",
+      "bytes": 5965
+    },
+    "audio-review-comparison.json": {
+      "path": "references/audio-correction-evidence/audio-review-comparison.json",
+      "sha256": "4c2fd0e5c53b9dfc21a06f59f6053c6d01cc7bd57d9b10c28a0eaf2e2596f6c7",
+      "bytes": 35562,
+      "source_original_sha256": "c4c6c3dfa21466a7bcb835d665330276ff2ececb3646017725a279e7428c2c06",
+      "source_original_sha256_scope": "original_local_evidence_before_public_projection_not_the_packaged_public_copy",
+      "public_projection": "Private session locator removed; audio-review content retained; no new listening, attribution or permission."
+    }
+  },
+  "segments": {
+    "S02543": {
+      "window_id": "Q01-W01",
+      "web_report": {
+        "path": "references/audio-correction-evidence/web-audio-review-01.md",
+        "sha256": "7b99f76415f75e43e725ba463fc0665e053d90ce83c6671325a6760bdfec6c43",
+        "bytes": 1579,
+        "source_original_sha256": "3314e13d154e7e7afaae9655c2f4c025cdebc42d4a8942678dc9b319357611b3",
+        "source_original_sha256_scope": "original_local_evidence_before_public_projection_not_the_packaged_public_copy",
+        "public_projection": "Private session locator removed; audio-review content retained; no new listening, attribution or permission."
+      },
+      "comparison": {
+        "path": "references/audio-correction-evidence/audio-review-comparison.json",
+        "sha256": "4c2fd0e5c53b9dfc21a06f59f6053c6d01cc7bd57d9b10c28a0eaf2e2596f6c7",
+        "bytes": 35562,
+        "source_original_sha256": "c4c6c3dfa21466a7bcb835d665330276ff2ececb3646017725a279e7428c2c06",
+        "source_original_sha256_scope": "original_local_evidence_before_public_projection_not_the_packaged_public_copy",
+        "public_projection": "Private session locator removed; audio-review content retained; no new listening, attribution or permission."
+      },
+      "comparison_window_id": "Q01-W01",
+      "correction_record_sha256": "59be8023be5935d896ec3e359a9a45315effbe62dcc24e97ea99dcf961f081e1",
+      "status_as_stored": "supported_web_audio",
+      "independent_local_audio_review": "not_done",
+      "window_review_status_as_stored": "partial_window_web_result_compared",
+      "raw_relative_reference_historical_only": "../web-audio-review-01.md"
+    },
+    "S02544": {
+      "window_id": "Q01-W01",
+      "web_report": {
+        "path": "references/audio-correction-evidence/web-audio-review-01.md",
+        "sha256": "7b99f76415f75e43e725ba463fc0665e053d90ce83c6671325a6760bdfec6c43",
+        "bytes": 1579,
+        "source_original_sha256": "3314e13d154e7e7afaae9655c2f4c025cdebc42d4a8942678dc9b319357611b3",
+        "source_original_sha256_scope": "original_local_evidence_before_public_projection_not_the_packaged_public_copy",
+        "public_projection": "Private session locator removed; audio-review content retained; no new listening, attribution or permission."
+      },
+      "comparison": {
+        "path": "references/audio-correction-evidence/audio-review-comparison.json",
+        "sha256": "4c2fd0e5c53b9dfc21a06f59f6053c6d01cc7bd57d9b10c28a0eaf2e2596f6c7",
+        "bytes": 35562,
+        "source_original_sha256": "c4c6c3dfa21466a7bcb835d665330276ff2ececb3646017725a279e7428c2c06",
+        "source_original_sha256_scope": "original_local_evidence_before_public_projection_not_the_packaged_public_copy",
+        "public_projection": "Private session locator removed; audio-review content retained; no new listening, attribution or permission."
+      },
+      "comparison_window_id": "Q01-W01",
+      "correction_record_sha256": "ad282adcd4565fa3edc828fbac9f698c3dd71760724f4383178e06bd5bc4e7a6",
+      "status_as_stored": "supported_web_audio",
+      "independent_local_audio_review": "not_done",
+      "window_review_status_as_stored": "partial_window_web_result_compared",
+      "raw_relative_reference_historical_only": "../web-audio-review-01.md"
+    },
+    "S01972": {
+      "window_id": "Q02-W01",
+      "web_report": {
+        "path": "references/audio-correction-evidence/web-audio-review-remaining.md",
+        "sha256": "5a8e32bc03d6ca02410899ca16abad12e96fc67841aad00e00d13771018378cc",
+        "bytes": 5965
+      },
+      "comparison": {
+        "path": "references/audio-correction-evidence/audio-review-comparison.json",
+        "sha256": "4c2fd0e5c53b9dfc21a06f59f6053c6d01cc7bd57d9b10c28a0eaf2e2596f6c7",
+        "bytes": 35562,
+        "source_original_sha256": "c4c6c3dfa21466a7bcb835d665330276ff2ececb3646017725a279e7428c2c06",
+        "source_original_sha256_scope": "original_local_evidence_before_public_projection_not_the_packaged_public_copy",
+        "public_projection": "Private session locator removed; audio-review content retained; no new listening, attribution or permission."
+      },
+      "comparison_window_id": "Q02-W01",
+      "correction_record_sha256": "6b3fc05b9cd5efde5581c85738b6648ced3ff1681850b49a7649037ede152bf9",
+      "status_as_stored": "supported_web_audio",
+      "independent_local_audio_review": "not_done",
+      "window_review_status_as_stored": "web_result_compared_open_items",
+      "raw_relative_reference_historical_only": "../audio-review-packets/web-audio-review-remaining.md"
+    },
+    "S02343": {
+      "window_id": "Q02-W03",
+      "web_report": {
+        "path": "references/audio-correction-evidence/web-audio-review-remaining.md",
+        "sha256": "5a8e32bc03d6ca02410899ca16abad12e96fc67841aad00e00d13771018378cc",
+        "bytes": 5965
+      },
+      "comparison": {
+        "path": "references/audio-correction-evidence/audio-review-comparison.json",
+        "sha256": "4c2fd0e5c53b9dfc21a06f59f6053c6d01cc7bd57d9b10c28a0eaf2e2596f6c7",
+        "bytes": 35562,
+        "source_original_sha256": "c4c6c3dfa21466a7bcb835d665330276ff2ececb3646017725a279e7428c2c06",
+        "source_original_sha256_scope": "original_local_evidence_before_public_projection_not_the_packaged_public_copy",
+        "public_projection": "Private session locator removed; audio-review content retained; no new listening, attribution or permission."
+      },
+      "comparison_window_id": "Q02-W03",
+      "correction_record_sha256": "7a1c4eb15fa40df0fe6ee504ebd843039984adca365c72f8b42c9f5ba1e4a7b1",
+      "status_as_stored": "supported_web_audio",
+      "independent_local_audio_review": "not_done",
+      "window_review_status_as_stored": "web_result_compared_open_items",
+      "raw_relative_reference_historical_only": "../audio-review-packets/web-audio-review-remaining.md"
+    },
+    "S02353": {
+      "window_id": "Q02-W03",
+      "web_report": {
+        "path": "references/audio-correction-evidence/web-audio-review-remaining.md",
+        "sha256": "5a8e32bc03d6ca02410899ca16abad12e96fc67841aad00e00d13771018378cc",
+        "bytes": 5965
+      },
+      "comparison": {
+        "path": "references/audio-correction-evidence/audio-review-comparison.json",
+        "sha256": "4c2fd0e5c53b9dfc21a06f59f6053c6d01cc7bd57d9b10c28a0eaf2e2596f6c7",
+        "bytes": 35562,
+        "source_original_sha256": "c4c6c3dfa21466a7bcb835d665330276ff2ececb3646017725a279e7428c2c06",
+        "source_original_sha256_scope": "original_local_evidence_before_public_projection_not_the_packaged_public_copy",
+        "public_projection": "Private session locator removed; audio-review content retained; no new listening, attribution or permission."
+      },
+      "comparison_window_id": "Q02-W03",
+      "correction_record_sha256": "d36ad2bc361238596bc6574d9caaa3a385235dad5dd39e9502bff32fcdb4aba3",
+      "status_as_stored": "supported_web_audio",
+      "independent_local_audio_review": "not_done",
+      "window_review_status_as_stored": "web_result_compared_open_items",
+      "raw_relative_reference_historical_only": "../audio-review-packets/web-audio-review-remaining.md"
+    },
+    "S02356": {
+      "window_id": "Q02-W03",
+      "web_report": {
+        "path": "references/audio-correction-evidence/web-audio-review-remaining.md",
+        "sha256": "5a8e32bc03d6ca02410899ca16abad12e96fc67841aad00e00d13771018378cc",
+        "bytes": 5965
+      },
+      "comparison": {
+        "path": "references/audio-correction-evidence/audio-review-comparison.json",
+        "sha256": "4c2fd0e5c53b9dfc21a06f59f6053c6d01cc7bd57d9b10c28a0eaf2e2596f6c7",
+        "bytes": 35562,
+        "source_original_sha256": "c4c6c3dfa21466a7bcb835d665330276ff2ececb3646017725a279e7428c2c06",
+        "source_original_sha256_scope": "original_local_evidence_before_public_projection_not_the_packaged_public_copy",
+        "public_projection": "Private session locator removed; audio-review content retained; no new listening, attribution or permission."
+      },
+      "comparison_window_id": "Q02-W03",
+      "correction_record_sha256": "b63659e0a4ee0b7dd9e49d70e72a3a95083773263408953e88692ab8b6f37046",
+      "status_as_stored": "supported_web_audio",
+      "independent_local_audio_review": "not_done",
+      "window_review_status_as_stored": "web_result_compared_open_items",
+      "raw_relative_reference_historical_only": "../audio-review-packets/web-audio-review-remaining.md"
+    },
+    "S02556": {
+      "window_id": "Q05-W01",
+      "web_report": {
+        "path": "references/audio-correction-evidence/web-audio-review-remaining.md",
+        "sha256": "5a8e32bc03d6ca02410899ca16abad12e96fc67841aad00e00d13771018378cc",
+        "bytes": 5965
+      },
+      "comparison": {
+        "path": "references/audio-correction-evidence/audio-review-comparison.json",
+        "sha256": "4c2fd0e5c53b9dfc21a06f59f6053c6d01cc7bd57d9b10c28a0eaf2e2596f6c7",
+        "bytes": 35562,
+        "source_original_sha256": "c4c6c3dfa21466a7bcb835d665330276ff2ececb3646017725a279e7428c2c06",
+        "source_original_sha256_scope": "original_local_evidence_before_public_projection_not_the_packaged_public_copy",
+        "public_projection": "Private session locator removed; audio-review content retained; no new listening, attribution or permission."
+      },
+      "comparison_window_id": "Q05-W01",
+      "correction_record_sha256": "55ceebdcc0f5e22c0ce2ee18cb783e8aa0365ca701b54ad5f80ce62b2403677e",
+      "status_as_stored": "unresolved_name_candidate",
+      "independent_local_audio_review": "not_done",
+      "window_review_status_as_stored": "web_result_compared_open_items",
+      "raw_relative_reference_historical_only": "../audio-review-packets/web-audio-review-remaining.md"
+    },
+    "S02557": {
+      "window_id": "Q05-W01",
+      "web_report": {
+        "path": "references/audio-correction-evidence/web-audio-review-remaining.md",
+        "sha256": "5a8e32bc03d6ca02410899ca16abad12e96fc67841aad00e00d13771018378cc",
+        "bytes": 5965
+      },
+      "comparison": {
+        "path": "references/audio-correction-evidence/audio-review-comparison.json",
+        "sha256": "4c2fd0e5c53b9dfc21a06f59f6053c6d01cc7bd57d9b10c28a0eaf2e2596f6c7",
+        "bytes": 35562,
+        "source_original_sha256": "c4c6c3dfa21466a7bcb835d665330276ff2ececb3646017725a279e7428c2c06",
+        "source_original_sha256_scope": "original_local_evidence_before_public_projection_not_the_packaged_public_copy",
+        "public_projection": "Private session locator removed; audio-review content retained; no new listening, attribution or permission."
+      },
+      "comparison_window_id": "Q05-W01",
+      "correction_record_sha256": "89f4065347502a0ea043f79d8a72554cdc0517e2bac8278b19febde6d207eb18",
+      "status_as_stored": "unresolved_name_candidate",
+      "independent_local_audio_review": "not_done",
+      "window_review_status_as_stored": "web_result_compared_open_items",
+      "raw_relative_reference_historical_only": "../audio-review-packets/web-audio-review-remaining.md"
+    },
+    "S02558": {
+      "window_id": "Q05-W01",
+      "web_report": {
+        "path": "references/audio-correction-evidence/web-audio-review-remaining.md",
+        "sha256": "5a8e32bc03d6ca02410899ca16abad12e96fc67841aad00e00d13771018378cc",
+        "bytes": 5965
+      },
+      "comparison": {
+        "path": "references/audio-correction-evidence/audio-review-comparison.json",
+        "sha256": "4c2fd0e5c53b9dfc21a06f59f6053c6d01cc7bd57d9b10c28a0eaf2e2596f6c7",
+        "bytes": 35562,
+        "source_original_sha256": "c4c6c3dfa21466a7bcb835d665330276ff2ececb3646017725a279e7428c2c06",
+        "source_original_sha256_scope": "original_local_evidence_before_public_projection_not_the_packaged_public_copy",
+        "public_projection": "Private session locator removed; audio-review content retained; no new listening, attribution or permission."
+      },
+      "comparison_window_id": "Q05-W01",
+      "correction_record_sha256": "d1ecfdbf40ce30262675d6e3bad70e8aee3c5c5c3afb911a094b50edfddef844",
+      "status_as_stored": "unresolved_name_candidate",
+      "independent_local_audio_review": "not_done",
+      "window_review_status_as_stored": "web_result_compared_open_items",
+      "raw_relative_reference_historical_only": "../audio-review-packets/web-audio-review-remaining.md"
+    },
+    "S02560": {
+      "window_id": "Q05-W01",
+      "web_report": {
+        "path": "references/audio-correction-evidence/web-audio-review-remaining.md",
+        "sha256": "5a8e32bc03d6ca02410899ca16abad12e96fc67841aad00e00d13771018378cc",
+        "bytes": 5965
+      },
+      "comparison": {
+        "path": "references/audio-correction-evidence/audio-review-comparison.json",
+        "sha256": "4c2fd0e5c53b9dfc21a06f59f6053c6d01cc7bd57d9b10c28a0eaf2e2596f6c7",
+        "bytes": 35562,
+        "source_original_sha256": "c4c6c3dfa21466a7bcb835d665330276ff2ececb3646017725a279e7428c2c06",
+        "source_original_sha256_scope": "original_local_evidence_before_public_projection_not_the_packaged_public_copy",
+        "public_projection": "Private session locator removed; audio-review content retained; no new listening, attribution or permission."
+      },
+      "comparison_window_id": "Q05-W01",
+      "correction_record_sha256": "12aef8d16a9884f35a0e75508427a10815071424026b6515dcc2ab69738b0fe3",
+      "status_as_stored": "supported_web_audio",
+      "independent_local_audio_review": "not_done",
+      "window_review_status_as_stored": "web_result_compared_open_items",
+      "raw_relative_reference_historical_only": "../audio-review-packets/web-audio-review-remaining.md"
+    },
+    "S02587": {
+      "window_id": "Q06-W01",
+      "web_report": {
+        "path": "references/audio-correction-evidence/web-audio-review-remaining.md",
+        "sha256": "5a8e32bc03d6ca02410899ca16abad12e96fc67841aad00e00d13771018378cc",
+        "bytes": 5965
+      },
+      "comparison": {
+        "path": "references/audio-correction-evidence/audio-review-comparison.json",
+        "sha256": "4c2fd0e5c53b9dfc21a06f59f6053c6d01cc7bd57d9b10c28a0eaf2e2596f6c7",
+        "bytes": 35562,
+        "source_original_sha256": "c4c6c3dfa21466a7bcb835d665330276ff2ececb3646017725a279e7428c2c06",
+        "source_original_sha256_scope": "original_local_evidence_before_public_projection_not_the_packaged_public_copy",
+        "public_projection": "Private session locator removed; audio-review content retained; no new listening, attribution or permission."
+      },
+      "comparison_window_id": "Q06-W01",
+      "correction_record_sha256": "257a92c15d831f4233d6bdf48a0b7919ecd92afad7e9940725c6ef29c9d21b11",
+      "status_as_stored": "supported_web_audio",
+      "independent_local_audio_review": "not_done",
+      "window_review_status_as_stored": "web_result_compared_open_items",
+      "raw_relative_reference_historical_only": "../audio-review-packets/web-audio-review-remaining.md"
+    },
+    "S02589": {
+      "window_id": "Q06-W01",
+      "web_report": {
+        "path": "references/audio-correction-evidence/web-audio-review-remaining.md",
+        "sha256": "5a8e32bc03d6ca02410899ca16abad12e96fc67841aad00e00d13771018378cc",
+        "bytes": 5965
+      },
+      "comparison": {
+        "path": "references/audio-correction-evidence/audio-review-comparison.json",
+        "sha256": "4c2fd0e5c53b9dfc21a06f59f6053c6d01cc7bd57d9b10c28a0eaf2e2596f6c7",
+        "bytes": 35562,
+        "source_original_sha256": "c4c6c3dfa21466a7bcb835d665330276ff2ececb3646017725a279e7428c2c06",
+        "source_original_sha256_scope": "original_local_evidence_before_public_projection_not_the_packaged_public_copy",
+        "public_projection": "Private session locator removed; audio-review content retained; no new listening, attribution or permission."
+      },
+      "comparison_window_id": "Q06-W01",
+      "correction_record_sha256": "45aaa3287beaa9809e86209b01d33d5c275fc8226a0c7d3f9fea0cca6b58d6ec",
+      "status_as_stored": "supported_web_audio",
+      "independent_local_audio_review": "not_done",
+      "window_review_status_as_stored": "web_result_compared_open_items",
+      "raw_relative_reference_historical_only": "../audio-review-packets/web-audio-review-remaining.md"
+    },
+    "S02592": {
+      "window_id": "Q06-W01",
+      "web_report": {
+        "path": "references/audio-correction-evidence/web-audio-review-remaining.md",
+        "sha256": "5a8e32bc03d6ca02410899ca16abad12e96fc67841aad00e00d13771018378cc",
+        "bytes": 5965
+      },
+      "comparison": {
+        "path": "references/audio-correction-evidence/audio-review-comparison.json",
+        "sha256": "4c2fd0e5c53b9dfc21a06f59f6053c6d01cc7bd57d9b10c28a0eaf2e2596f6c7",
+        "bytes": 35562,
+        "source_original_sha256": "c4c6c3dfa21466a7bcb835d665330276ff2ececb3646017725a279e7428c2c06",
+        "source_original_sha256_scope": "original_local_evidence_before_public_projection_not_the_packaged_public_copy",
+        "public_projection": "Private session locator removed; audio-review content retained; no new listening, attribution or permission."
+      },
+      "comparison_window_id": "Q06-W01",
+      "correction_record_sha256": "91695fd206da88a4e969de6845dc38830bff6fef7990c984f4c685144fb26af6",
+      "status_as_stored": "unresolved_homophone_candidate",
+      "independent_local_audio_review": "not_done",
+      "window_review_status_as_stored": "web_result_compared_open_items",
+      "raw_relative_reference_historical_only": "../audio-review-packets/web-audio-review-remaining.md"
+    },
+    "S02737": {
+      "window_id": "Q05-W02",
+      "web_report": {
+        "path": "references/audio-correction-evidence/web-audio-review-remaining.md",
+        "sha256": "5a8e32bc03d6ca02410899ca16abad12e96fc67841aad00e00d13771018378cc",
+        "bytes": 5965
+      },
+      "comparison": {
+        "path": "references/audio-correction-evidence/audio-review-comparison.json",
+        "sha256": "4c2fd0e5c53b9dfc21a06f59f6053c6d01cc7bd57d9b10c28a0eaf2e2596f6c7",
+        "bytes": 35562,
+        "source_original_sha256": "c4c6c3dfa21466a7bcb835d665330276ff2ececb3646017725a279e7428c2c06",
+        "source_original_sha256_scope": "original_local_evidence_before_public_projection_not_the_packaged_public_copy",
+        "public_projection": "Private session locator removed; audio-review content retained; no new listening, attribution or permission."
+      },
+      "comparison_window_id": "Q05-W02",
+      "correction_record_sha256": "b8fe7ce36e50b3c8cfbc7994cc5ca967d87132d8f0f73c8c528c8d4998545c1a",
+      "status_as_stored": "supported_web_audio",
+      "independent_local_audio_review": "not_done",
+      "window_review_status_as_stored": "web_result_compared_open_items",
+      "raw_relative_reference_historical_only": "../audio-review-packets/web-audio-review-remaining.md"
+    },
+    "S01891": {
+      "window_id": "Q04-W01",
+      "web_report": {
+        "path": "references/audio-correction-evidence/web-audio-review-remaining.md",
+        "sha256": "5a8e32bc03d6ca02410899ca16abad12e96fc67841aad00e00d13771018378cc",
+        "bytes": 5965
+      },
+      "comparison": {
+        "path": "references/audio-correction-evidence/audio-review-comparison.json",
+        "sha256": "4c2fd0e5c53b9dfc21a06f59f6053c6d01cc7bd57d9b10c28a0eaf2e2596f6c7",
+        "bytes": 35562,
+        "source_original_sha256": "c4c6c3dfa21466a7bcb835d665330276ff2ececb3646017725a279e7428c2c06",
+        "source_original_sha256_scope": "original_local_evidence_before_public_projection_not_the_packaged_public_copy",
+        "public_projection": "Private session locator removed; audio-review content retained; no new listening, attribution or permission."
+      },
+      "comparison_window_id": "Q04-W01",
+      "correction_record_sha256": "66ef6dec4ef0edb783c8c60c8b9c1eac32cc4cc4352fd90f86c1d8d0808087f8",
+      "status_as_stored": "unresolved_word_candidate",
+      "independent_local_audio_review": "not_done",
+      "window_review_status_as_stored": "web_result_compared_open_items",
+      "raw_relative_reference_historical_only": "../audio-review-packets/web-audio-review-remaining.md"
+    },
+    "S01892": {
+      "window_id": "Q04-W01",
+      "web_report": {
+        "path": "references/audio-correction-evidence/web-audio-review-remaining.md",
+        "sha256": "5a8e32bc03d6ca02410899ca16abad12e96fc67841aad00e00d13771018378cc",
+        "bytes": 5965
+      },
+      "comparison": {
+        "path": "references/audio-correction-evidence/audio-review-comparison.json",
+        "sha256": "4c2fd0e5c53b9dfc21a06f59f6053c6d01cc7bd57d9b10c28a0eaf2e2596f6c7",
+        "bytes": 35562,
+        "source_original_sha256": "c4c6c3dfa21466a7bcb835d665330276ff2ececb3646017725a279e7428c2c06",
+        "source_original_sha256_scope": "original_local_evidence_before_public_projection_not_the_packaged_public_copy",
+        "public_projection": "Private session locator removed; audio-review content retained; no new listening, attribution or permission."
+      },
+      "comparison_window_id": "Q04-W01",
+      "correction_record_sha256": "98f23ddd11c436d35de38ff28ebe56aaa8386ef36220284fa813215261d8002e",
+      "status_as_stored": "supported_web_audio",
+      "independent_local_audio_review": "not_done",
+      "window_review_status_as_stored": "web_result_compared_open_items",
+      "raw_relative_reference_historical_only": "../audio-review-packets/web-audio-review-remaining.md"
+    },
+    "S02692": {
+      "window_id": "Q04-W02",
+      "web_report": {
+        "path": "references/audio-correction-evidence/web-audio-review-remaining.md",
+        "sha256": "5a8e32bc03d6ca02410899ca16abad12e96fc67841aad00e00d13771018378cc",
+        "bytes": 5965
+      },
+      "comparison": {
+        "path": "references/audio-correction-evidence/audio-review-comparison.json",
+        "sha256": "4c2fd0e5c53b9dfc21a06f59f6053c6d01cc7bd57d9b10c28a0eaf2e2596f6c7",
+        "bytes": 35562,
+        "source_original_sha256": "c4c6c3dfa21466a7bcb835d665330276ff2ececb3646017725a279e7428c2c06",
+        "source_original_sha256_scope": "original_local_evidence_before_public_projection_not_the_packaged_public_copy",
+        "public_projection": "Private session locator removed; audio-review content retained; no new listening, attribution or permission."
+      },
+      "comparison_window_id": "Q04-W02",
+      "correction_record_sha256": "de8413687e6f51419200488d7583dcf018d96065e0eb591934bb433beb3d7317",
+      "status_as_stored": "unresolved_homophone_candidate",
+      "independent_local_audio_review": "not_done",
+      "window_review_status_as_stored": "web_result_compared_open_items",
+      "raw_relative_reference_historical_only": "../audio-review-packets/web-audio-review-remaining.md"
+    },
+    "S02693": {
+      "window_id": "Q04-W02",
+      "web_report": {
+        "path": "references/audio-correction-evidence/web-audio-review-remaining.md",
+        "sha256": "5a8e32bc03d6ca02410899ca16abad12e96fc67841aad00e00d13771018378cc",
+        "bytes": 5965
+      },
+      "comparison": {
+        "path": "references/audio-correction-evidence/audio-review-comparison.json",
+        "sha256": "4c2fd0e5c53b9dfc21a06f59f6053c6d01cc7bd57d9b10c28a0eaf2e2596f6c7",
+        "bytes": 35562,
+        "source_original_sha256": "c4c6c3dfa21466a7bcb835d665330276ff2ececb3646017725a279e7428c2c06",
+        "source_original_sha256_scope": "original_local_evidence_before_public_projection_not_the_packaged_public_copy",
+        "public_projection": "Private session locator removed; audio-review content retained; no new listening, attribution or permission."
+      },
+      "comparison_window_id": "Q04-W02",
+      "correction_record_sha256": "ae4ab21268589e1c7ed764da3945ec21893d70b37718c54890496348c9231d5b",
+      "status_as_stored": "unresolved_homophone_candidate",
+      "independent_local_audio_review": "not_done",
+      "window_review_status_as_stored": "web_result_compared_open_items",
+      "raw_relative_reference_historical_only": "../audio-review-packets/web-audio-review-remaining.md"
+    },
+    "S02694": {
+      "window_id": "Q04-W02",
+      "web_report": {
+        "path": "references/audio-correction-evidence/web-audio-review-remaining.md",
+        "sha256": "5a8e32bc03d6ca02410899ca16abad12e96fc67841aad00e00d13771018378cc",
+        "bytes": 5965
+      },
+      "comparison": {
+        "path": "references/audio-correction-evidence/audio-review-comparison.json",
+        "sha256": "4c2fd0e5c53b9dfc21a06f59f6053c6d01cc7bd57d9b10c28a0eaf2e2596f6c7",
+        "bytes": 35562,
+        "source_original_sha256": "c4c6c3dfa21466a7bcb835d665330276ff2ececb3646017725a279e7428c2c06",
+        "source_original_sha256_scope": "original_local_evidence_before_public_projection_not_the_packaged_public_copy",
+        "public_projection": "Private session locator removed; audio-review content retained; no new listening, attribution or permission."
+      },
+      "comparison_window_id": "Q04-W02",
+      "correction_record_sha256": "97d98f0c2a3f9603119c96a0249972247b250f10804f8c3d4ef26b66c8c8eb11",
+      "status_as_stored": "web_audio_timing_candidate",
+      "independent_local_audio_review": "not_done",
+      "window_review_status_as_stored": "web_result_compared_open_items",
+      "raw_relative_reference_historical_only": "../audio-review-packets/web-audio-review-remaining.md"
+    },
+    "S02399": {
+      "window_id": "Q03-W01",
+      "web_report": {
+        "path": "references/audio-correction-evidence/web-audio-review-remaining.md",
+        "sha256": "5a8e32bc03d6ca02410899ca16abad12e96fc67841aad00e00d13771018378cc",
+        "bytes": 5965
+      },
+      "comparison": {
+        "path": "references/audio-correction-evidence/audio-review-comparison.json",
+        "sha256": "4c2fd0e5c53b9dfc21a06f59f6053c6d01cc7bd57d9b10c28a0eaf2e2596f6c7",
+        "bytes": 35562,
+        "source_original_sha256": "c4c6c3dfa21466a7bcb835d665330276ff2ececb3646017725a279e7428c2c06",
+        "source_original_sha256_scope": "original_local_evidence_before_public_projection_not_the_packaged_public_copy",
+        "public_projection": "Private session locator removed; audio-review content retained; no new listening, attribution or permission."
+      },
+      "comparison_window_id": "Q03-W01",
+      "correction_record_sha256": "6ae7979ac7db28b158c327d81cd917a1957fd787606e18eeb51f0f4bedf07d4e",
+      "status_as_stored": "unresolved_attribution",
+      "independent_local_audio_review": "not_done",
+      "window_review_status_as_stored": "web_result_compared_open_items",
+      "raw_relative_reference_historical_only": "../audio-review-packets/web-audio-review-remaining.md"
+    },
+    "S02111": {
+      "window_id": "Q07-W01",
+      "web_report": {
+        "path": "references/audio-correction-evidence/web-audio-review-remaining.md",
+        "sha256": "5a8e32bc03d6ca02410899ca16abad12e96fc67841aad00e00d13771018378cc",
+        "bytes": 5965
+      },
+      "comparison": {
+        "path": "references/audio-correction-evidence/audio-review-comparison.json",
+        "sha256": "4c2fd0e5c53b9dfc21a06f59f6053c6d01cc7bd57d9b10c28a0eaf2e2596f6c7",
+        "bytes": 35562,
+        "source_original_sha256": "c4c6c3dfa21466a7bcb835d665330276ff2ececb3646017725a279e7428c2c06",
+        "source_original_sha256_scope": "original_local_evidence_before_public_projection_not_the_packaged_public_copy",
+        "public_projection": "Private session locator removed; audio-review content retained; no new listening, attribution or permission."
+      },
+      "comparison_window_id": "Q07-W01",
+      "correction_record_sha256": "7daf2494a0c1036a473480021f5341dda6d4c3510cb7d19b697cb42f7ee95bc7",
+      "status_as_stored": "supported_web_audio",
+      "independent_local_audio_review": "not_done",
+      "window_review_status_as_stored": "web_result_compared_open_items",
+      "raw_relative_reference_historical_only": "../audio-review-packets/web-audio-review-remaining.md"
+    },
+    "S02112": {
+      "window_id": "Q07-W01",
+      "web_report": {
+        "path": "references/audio-correction-evidence/web-audio-review-remaining.md",
+        "sha256": "5a8e32bc03d6ca02410899ca16abad12e96fc67841aad00e00d13771018378cc",
+        "bytes": 5965
+      },
+      "comparison": {
+        "path": "references/audio-correction-evidence/audio-review-comparison.json",
+        "sha256": "4c2fd0e5c53b9dfc21a06f59f6053c6d01cc7bd57d9b10c28a0eaf2e2596f6c7",
+        "bytes": 35562,
+        "source_original_sha256": "c4c6c3dfa21466a7bcb835d665330276ff2ececb3646017725a279e7428c2c06",
+        "source_original_sha256_scope": "original_local_evidence_before_public_projection_not_the_packaged_public_copy",
+        "public_projection": "Private session locator removed; audio-review content retained; no new listening, attribution or permission."
+      },
+      "comparison_window_id": "Q07-W01",
+      "correction_record_sha256": "7a3a7c60adb3ac35615b78e38f0ea5d58817b6307e67cf1448443ffa19d346ac",
+      "status_as_stored": "supported_web_audio",
+      "independent_local_audio_review": "not_done",
+      "window_review_status_as_stored": "web_result_compared_open_items",
+      "raw_relative_reference_historical_only": "../audio-review-packets/web-audio-review-remaining.md"
+    },
+    "S02116": {
+      "window_id": "Q07-W01",
+      "web_report": {
+        "path": "references/audio-correction-evidence/web-audio-review-remaining.md",
+        "sha256": "5a8e32bc03d6ca02410899ca16abad12e96fc67841aad00e00d13771018378cc",
+        "bytes": 5965
+      },
+      "comparison": {
+        "path": "references/audio-correction-evidence/audio-review-comparison.json",
+        "sha256": "4c2fd0e5c53b9dfc21a06f59f6053c6d01cc7bd57d9b10c28a0eaf2e2596f6c7",
+        "bytes": 35562,
+        "source_original_sha256": "c4c6c3dfa21466a7bcb835d665330276ff2ececb3646017725a279e7428c2c06",
+        "source_original_sha256_scope": "original_local_evidence_before_public_projection_not_the_packaged_public_copy",
+        "public_projection": "Private session locator removed; audio-review content retained; no new listening, attribution or permission."
+      },
+      "comparison_window_id": "Q07-W01",
+      "correction_record_sha256": "af57cfe822669b0888cd3c98582cdda706f6ec71e475814dbe77280bdbc08792",
+      "status_as_stored": "supported_web_audio",
+      "independent_local_audio_review": "not_done",
+      "window_review_status_as_stored": "web_result_compared_open_items",
+      "raw_relative_reference_historical_only": "../audio-review-packets/web-audio-review-remaining.md"
+    },
+    "S02117": {
+      "window_id": "Q07-W01",
+      "web_report": {
+        "path": "references/audio-correction-evidence/web-audio-review-remaining.md",
+        "sha256": "5a8e32bc03d6ca02410899ca16abad12e96fc67841aad00e00d13771018378cc",
+        "bytes": 5965
+      },
+      "comparison": {
+        "path": "references/audio-correction-evidence/audio-review-comparison.json",
+        "sha256": "4c2fd0e5c53b9dfc21a06f59f6053c6d01cc7bd57d9b10c28a0eaf2e2596f6c7",
+        "bytes": 35562,
+        "source_original_sha256": "c4c6c3dfa21466a7bcb835d665330276ff2ececb3646017725a279e7428c2c06",
+        "source_original_sha256_scope": "original_local_evidence_before_public_projection_not_the_packaged_public_copy",
+        "public_projection": "Private session locator removed; audio-review content retained; no new listening, attribution or permission."
+      },
+      "comparison_window_id": "Q07-W01",
+      "correction_record_sha256": "2b7e13d4bcd54323d4cc57f444f7a03caf2d0a86c42d6afbee05899fa67f3bb3",
+      "status_as_stored": "supported_web_audio",
+      "independent_local_audio_review": "not_done",
+      "window_review_status_as_stored": "web_result_compared_open_items",
+      "raw_relative_reference_historical_only": "../audio-review-packets/web-audio-review-remaining.md"
+    },
+    "S02118": {
+      "window_id": "Q07-W01",
+      "web_report": {
+        "path": "references/audio-correction-evidence/web-audio-review-remaining.md",
+        "sha256": "5a8e32bc03d6ca02410899ca16abad12e96fc67841aad00e00d13771018378cc",
+        "bytes": 5965
+      },
+      "comparison": {
+        "path": "references/audio-correction-evidence/audio-review-comparison.json",
+        "sha256": "4c2fd0e5c53b9dfc21a06f59f6053c6d01cc7bd57d9b10c28a0eaf2e2596f6c7",
+        "bytes": 35562,
+        "source_original_sha256": "c4c6c3dfa21466a7bcb835d665330276ff2ececb3646017725a279e7428c2c06",
+        "source_original_sha256_scope": "original_local_evidence_before_public_projection_not_the_packaged_public_copy",
+        "public_projection": "Private session locator removed; audio-review content retained; no new listening, attribution or permission."
+      },
+      "comparison_window_id": "Q07-W01",
+      "correction_record_sha256": "e6ea41569a9f1ff3185af6ebcb8924f4383044299fb77ad4319c3751b77d6751",
+      "status_as_stored": "supported_web_audio",
+      "independent_local_audio_review": "not_done",
+      "window_review_status_as_stored": "web_result_compared_open_items",
+      "raw_relative_reference_historical_only": "../audio-review-packets/web-audio-review-remaining.md"
+    },
+    "S02011": {
+      "window_id": "Q02-W02",
+      "web_report": {
+        "path": "references/audio-correction-evidence/web-audio-review-remaining.md",
+        "sha256": "5a8e32bc03d6ca02410899ca16abad12e96fc67841aad00e00d13771018378cc",
+        "bytes": 5965
+      },
+      "comparison": {
+        "path": "references/audio-correction-evidence/audio-review-comparison.json",
+        "sha256": "4c2fd0e5c53b9dfc21a06f59f6053c6d01cc7bd57d9b10c28a0eaf2e2596f6c7",
+        "bytes": 35562,
+        "source_original_sha256": "c4c6c3dfa21466a7bcb835d665330276ff2ececb3646017725a279e7428c2c06",
+        "source_original_sha256_scope": "original_local_evidence_before_public_projection_not_the_packaged_public_copy",
+        "public_projection": "Private session locator removed; audio-review content retained; no new listening, attribution or permission."
+      },
+      "comparison_window_id": "Q02-W02",
+      "correction_record_sha256": "cfb7bc40d9773f245f12efd34bf686ca5171feed8db2fc756218fcb616765401",
+      "status_as_stored": "supported_web_audio_unchanged",
+      "independent_local_audio_review": "not_done",
+      "window_review_status_as_stored": "web_result_compared_open_items",
+      "raw_relative_reference_historical_only": "../audio-review-packets/web-audio-review-remaining.md"
+    },
+    "S02013": {
+      "window_id": "Q02-W02",
+      "web_report": {
+        "path": "references/audio-correction-evidence/web-audio-review-remaining.md",
+        "sha256": "5a8e32bc03d6ca02410899ca16abad12e96fc67841aad00e00d13771018378cc",
+        "bytes": 5965
+      },
+      "comparison": {
+        "path": "references/audio-correction-evidence/audio-review-comparison.json",
+        "sha256": "4c2fd0e5c53b9dfc21a06f59f6053c6d01cc7bd57d9b10c28a0eaf2e2596f6c7",
+        "bytes": 35562,
+        "source_original_sha256": "c4c6c3dfa21466a7bcb835d665330276ff2ececb3646017725a279e7428c2c06",
+        "source_original_sha256_scope": "original_local_evidence_before_public_projection_not_the_packaged_public_copy",
+        "public_projection": "Private session locator removed; audio-review content retained; no new listening, attribution or permission."
+      },
+      "comparison_window_id": "Q02-W02",
+      "correction_record_sha256": "18ba1a6465935b71b2a99acd139409eb2789595427fdcb2f362df4da0c25bcc2",
+      "status_as_stored": "supported_web_audio_unchanged",
+      "independent_local_audio_review": "not_done",
+      "window_review_status_as_stored": "web_result_compared_open_items",
+      "raw_relative_reference_historical_only": "../audio-review-packets/web-audio-review-remaining.md"
+    }
+  },
+  "public_projection_note": "网页审核内容保留；私人会话定位从公开副本移除。sha256/bytes绑定包内安全副本，source_original_sha256仅记录本地原证据。"
+}

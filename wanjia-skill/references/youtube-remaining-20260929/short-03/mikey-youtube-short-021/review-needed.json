@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-021",
+  "youtube_id": "1l8zI7O_wAc",
+  "review_completed": true,
+  "items": [
+    {
+      "review_id": "s021-r01",
+      "severity": "major",
+      "category": "source_reuse",
+      "issue": "The central lesson is already represented by formal consistency and relaxed-delivery knowledge.",
+      "affected_evidence": ["whole source"],
+      "disposition": "Keep formal weight at zero and do not count it as independent corroboration."
+    },
+    {
+      "review_id": "s021-r02",
+      "severity": "major",
+      "category": "asr_uncertainty",
+      "issue": "S00010 is not intelligible as written in the automatic transcript.",
+      "affected_evidence": ["S00010@20.48-22.24"],
+      "disposition": "Exclude the fragment from claims unless the original audio is manually checked."
+    },
+    {
+      "review_id": "s021-r03",
+      "severity": "major",
+      "category": "unsupported_generalization",
+      "issue": "The claim about how women perceive forced performance is not supported by a shown recipient reaction.",
+      "affected_evidence": ["S00008-S00009"],
+      "disposition": "Keep as the speaker's interpretation, not a universal fact or diagnostic rule."
+    }
+  ]
+}

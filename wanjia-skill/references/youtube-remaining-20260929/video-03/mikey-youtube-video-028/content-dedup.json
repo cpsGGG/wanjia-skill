@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-028",
+  "youtube_id": "suYJ3bMCxJc",
+  "decision": "new",
+  "compared_sources": [
+    {"scope": "formal_mikey_guide", "source_count": 202, "comparison": "youtube_id_url_normalized_fulltext_and_8_12_16_character_shingles"},
+    {"scope": "prior_remaining-video_research", "source_count": 25, "comparison": "normalized_fulltext_and_8_12_16_character_shingles"},
+    {"source_id": "mikey-practice-013", "comparison": "private-space_transition_and_claimed_one-date-result_theme"},
+    {"source_id": "quark-live-020", "comparison": "transition_refusal_consent_and_private-space_theme"},
+    {"source_id": "mikey-sijiao-016", "comparison": "direct_intent_attraction_and_transition_obstacles"}
+  ],
+  "evidence": [
+    {"type": "identity", "result": "no_exact_youtube_id_or_url_overlap", "basis": "video-03/identity-precheck.json and formal source-index"},
+    {"type": "normalized_fulltext", "target_normalized_chars": 3992, "target_sha256": "427c83e24f135b81406def9e845e8abe05c53a9a81381702de6243de3a06f82a", "formal_transcripts_checked": 202, "exact_matches": []},
+    {"type": "near_duplicate_screen", "method": "rolling_character_shingle_target_containment", "highest_formal_match": "quark-live-030", "containment": {"8_chars": 0.0022929936, "12_chars": 0.0002523978, "16_chars": 0.0}, "result": "topic overlap without transcript-scale reuse"},
+    {"type": "prior_research_screen", "highest_match": "mikey-youtube-video-024", "containment": {"8_chars": 0.0007643312, "12_chars": 0.0, "16_chars": 0.0}, "result": "no transcript-scale reuse detected"},
+    {"type": "visual_clip_screen", "result": "the final restaurant demonstration is a distinct edited sequence; no matching clip was established in the formal or prior remaining-video packages"}
+  ],
+  "boundary": "Count as a new research source pending independent review. The five-point structure and final demonstration are distinct, but overlap with older transition material must not be counted as independent evidence that persistence after reluctance is effective or consensual."
+}

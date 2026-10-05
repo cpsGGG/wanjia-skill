@@ -1,0 +1,3907 @@
+{
+  "schema_version": "youtube-live-batch2-delete-review-1.0",
+  "generated_utc": "2026-09-28T14:34:12.676323+00:00",
+  "source_review_files_unchanged": true,
+  "formal_skill_unchanged": true,
+  "rows": [
+    {
+      "id": "mikey-youtube-live-011-R001",
+      "source_id": "mikey-youtube-live-011",
+      "start": 657.4,
+      "end": 844.0,
+      "type": "asr_term",
+      "severity": "major",
+      "question": "核心术语‘潜沟通/潜台词/行为线索/社交认证’被多次转写为‘浅沟通/浅台词/射要认证’，逐处原音是否一致？",
+      "affected_ids": [
+        "mikey-youtube-live-011-E0002",
+        "mikey-youtube-live-011-K001"
+      ],
+      "required_evidence": "重点窗口原音听校",
+      "owner": "audio-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-011-E0002-R124",
+          "youtube_url": "https://www.youtube.com/watch?v=QKKXbO1JYmw&t=810s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "terminology_resolved_from_repetition_and_definition",
+      "evidence_state": "title_plus_repeated_in_window_definition_and_contrast",
+      "candidate_status": "resolved",
+      "candidate_severity": "minor",
+      "delete_readiness_note": "Normalize the recurring ASR homophones to 潜沟通、潜台词、行为线索、社交认证. The episode title and repeated in-window definition make the intended terms unambiguous."
+    },
+    {
+      "id": "mikey-youtube-live-011-R002",
+      "source_id": "mikey-youtube-live-011",
+      "start": 839.0,
+      "end": 1510.0,
+      "type": "gender_generalization_and_manipulation",
+      "severity": "blocking",
+      "question": "社交认证、‘预选/慕强/征服欲’及造势方法含普遍化性别断言和操控性用法，哪些只能作为人物观点保留而不能升级为确定建议？",
+      "affected_ids": [
+        "mikey-youtube-live-011-E0003",
+        "mikey-youtube-live-011-E0004",
+        "mikey-youtube-live-011-K002",
+        "mikey-youtube-live-011-K003"
+      ],
+      "required_evidence": "跨期材料核对、原音回读与编辑边界审查",
+      "owner": "cross-source-and-editorial-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-011-E0004-R188",
+          "youtube_url": "https://www.youtube.com/watch?v=QKKXbO1JYmw&t=1395s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "blocking",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-011-R003",
+      "source_id": "mikey-youtube-live-011",
+      "start": 1860.0,
+      "end": 1950.0,
+      "type": "consent_boundary",
+      "severity": "blocking",
+      "question": "转场邀请演示强调状态与无需求感，但没有完整呈现明确同意和拒绝后停止；后续使用时如何避免被读成继续施压？",
+      "affected_ids": [
+        "mikey-youtube-live-011-E0006",
+        "mikey-youtube-live-011-K006"
+      ],
+      "required_evidence": "连续语境回读，并与正式库明确同意/拒绝边界联读",
+      "owner": "editorial-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-011-E0006-R053",
+          "youtube_url": "https://www.youtube.com/watch?v=QKKXbO1JYmw&t=1892s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "blocking",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-011-R004",
+      "source_id": "mikey-youtube-live-011",
+      "start": 2067.0,
+      "end": 2340.0,
+      "type": "concept_equivalence",
+      "severity": "major",
+      "question": "直播把‘废物测试’等同‘一致性测试’，并将对方的拒绝或负面反馈解释为测试；该等同是否会把真实拒绝误读为博弈？",
+      "affected_ids": [
+        "mikey-youtube-live-011-E0007",
+        "mikey-youtube-live-011-K007"
+      ],
+      "required_evidence": "跨期核对并明确真实拒绝必须按拒绝处理",
+      "owner": "cross-source-and-editorial-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-011-E0007-R105",
+          "youtube_url": "https://www.youtube.com/watch?v=QKKXbO1JYmw&t=2227s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "major",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-011-R005",
+      "source_id": "mikey-youtube-live-011",
+      "start": 2380.0,
+      "end": 2700.0,
+      "type": "asr_name_and_film",
+      "severity": "minor",
+      "question": "周星驰电影、吴孟达角色和‘重案组之虎’等名称是否转写准确？",
+      "affected_ids": [
+        "mikey-youtube-live-011-E0008"
+      ],
+      "required_evidence": "原音与公开片名核对",
+      "owner": "fact-and-audio-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-011-E0008-R036",
+          "youtube_url": "https://www.youtube.com/watch?v=QKKXbO1JYmw&t=2394s"
+        }
+      ],
+      "original_recording_dependency": true,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_original_dependent_evidence_preserved",
+      "evidence_state": "full_audio_archive_plus_target_video_or_existing_frames_required",
+      "candidate_status": "open",
+      "candidate_severity": "minor",
+      "delete_readiness_note": ""
+    },
+    {
+      "id": "mikey-youtube-live-011-R006",
+      "source_id": "mikey-youtube-live-011",
+      "start": 2730.0,
+      "end": 2800.0,
+      "type": "cognitive_generalization",
+      "severity": "major",
+      "question": "把约会紧张主要归因为‘把女人定义得太重要’是否遗漏社交焦虑、经验、创伤等其他原因？",
+      "affected_ids": [
+        "mikey-youtube-live-011-E0009",
+        "mikey-youtube-live-011-K009"
+      ],
+      "required_evidence": "跨期核对并保留个体差异边界",
+      "owner": "editorial-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-011-E0009-R044",
+          "youtube_url": "https://www.youtube.com/watch?v=QKKXbO1JYmw&t=2765s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "major",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-011-R007",
+      "source_id": "mikey-youtube-live-011",
+      "start": 2860.0,
+      "end": 3230.0,
+      "type": "historical_and_evolutionary_claim",
+      "severity": "blocking",
+      "question": "英国政要会谈被说成‘英国女王’，以及领袖、演化、安全感等因果叙述是否事实准确？",
+      "affected_ids": [
+        "mikey-youtube-live-011-E0010",
+        "mikey-youtube-live-011-K010",
+        "mikey-youtube-live-011-K011"
+      ],
+      "required_evidence": "史实核对、跨期来源及事实边界审查",
+      "owner": "fact-and-cross-source-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-011-E0010-R013",
+          "youtube_url": "https://www.youtube.com/watch?v=QKKXbO1JYmw&t=2884s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "blocking",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-011-R008",
+      "source_id": "mikey-youtube-live-011",
+      "start": 3238.0,
+      "end": 3272.0,
+      "type": "boundary_generalization",
+      "severity": "major",
+      "question": "‘第一次试探边界后会变本加厉’是个人经验还是稳定规律，适用条件是什么？",
+      "affected_ids": [
+        "mikey-youtube-live-011-E0010",
+        "mikey-youtube-live-011-E0011",
+        "mikey-youtube-live-011-K012"
+      ],
+      "required_evidence": "跨期案例与反例核对",
+      "owner": "cross-source-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-011-E0011-R009",
+          "youtube_url": "https://www.youtube.com/watch?v=QKKXbO1JYmw&t=3264s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "major",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-011-R009",
+      "source_id": "mikey-youtube-live-011",
+      "start": 3690.0,
+      "end": 4000.0,
+      "type": "asr_contradiction",
+      "severity": "blocking",
+      "question": "S01881口述/转写称小动作多时‘超大概率都是绿灯’，但紧接着称大概率黄灯或红灯；原音是否为‘红灯’？",
+      "affected_ids": [
+        "mikey-youtube-live-011-E0012",
+        "mikey-youtube-live-011-K013"
+      ],
+      "required_evidence": "S01878-S01884逐句原音听校",
+      "owner": "audio-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-011-E0012-R077",
+          "youtube_url": "https://www.youtube.com/watch?v=QKKXbO1JYmw&t=3757s"
+        }
+      ],
+      "original_recording_dependency": true,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "wording_confirmed_semantic_contradiction_remains",
+      "evidence_state": "two_independent_window_retranscriptions_agree_with_original_transcript",
+      "candidate_status": "resolved_asr_open_semantic_hold",
+      "candidate_severity": "major",
+      "delete_readiness_note": "Two isolated-window passes both transcribed ‘超大概率都是绿灯’ followed immediately by ‘黄灯或者红灯’; do not silently correct the first phrase."
+    },
+    {
+      "id": "mikey-youtube-live-011-R010",
+      "source_id": "mikey-youtube-live-011",
+      "start": 4060.0,
+      "end": 4290.0,
+      "type": "numeric_and_source_claim",
+      "severity": "major",
+      "question": "‘语速慢三倍’的口径、书名《The Game》中文译称及Neil Strauss姓名转写是否准确，三倍是否只是强调性说法？",
+      "affected_ids": [
+        "mikey-youtube-live-011-E0013",
+        "mikey-youtube-live-011-K014"
+      ],
+      "required_evidence": "原音、原书及跨期材料核对",
+      "owner": "audio-and-source-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-011-E0013-R025",
+          "youtube_url": "https://www.youtube.com/watch?v=QKKXbO1JYmw&t=4075s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "major",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-011-R011",
+      "source_id": "mikey-youtube-live-011",
+      "start": 56.85,
+      "end": 4516.07,
+      "type": "speaker_attribution",
+      "severity": "major",
+      "question": "当前把连续主持声统一映射为Mikey；代读评论、模仿台词和可能的短重叠声音是否需要逐句拆分归属？",
+      "affected_ids": [
+        "mikey-youtube-live-011-E0001",
+        "mikey-youtube-live-011-E0002",
+        "mikey-youtube-live-011-E0004",
+        "mikey-youtube-live-011-E0009",
+        "mikey-youtube-live-011-E0011",
+        "mikey-youtube-live-011-E0013"
+      ],
+      "required_evidence": "连续音画、嘴型和直播评论对应",
+      "owner": "audiovisual-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-011-E0001-R001",
+          "youtube_url": "https://www.youtube.com/watch?v=QKKXbO1JYmw&t=56s"
+        }
+      ],
+      "original_recording_dependency": true,
+      "continuous_visual_dependency": true,
+      "delete_disposition": "open_original_dependent_evidence_preserved",
+      "evidence_state": "full_audio_archive_plus_target_video_or_existing_frames_required",
+      "candidate_status": "open",
+      "candidate_severity": "major",
+      "delete_readiness_note": ""
+    },
+    {
+      "id": "mikey-youtube-live-011-R012",
+      "source_id": "mikey-youtube-live-011",
+      "start": 56.85,
+      "end": 4516.07,
+      "type": "visual_coverage",
+      "severity": "major",
+      "question": "本轮只实际查看12个稀疏候选帧，是否存在屏幕展示、私聊截图或短时画面材料未覆盖？",
+      "affected_ids": [
+        "mikey-youtube-live-011-E0001",
+        "mikey-youtube-live-011-E0002",
+        "mikey-youtube-live-011-E0003",
+        "mikey-youtube-live-011-E0004",
+        "mikey-youtube-live-011-E0005",
+        "mikey-youtube-live-011-E0006",
+        "mikey-youtube-live-011-E0007",
+        "mikey-youtube-live-011-E0008",
+        "mikey-youtube-live-011-E0009",
+        "mikey-youtube-live-011-E0010",
+        "mikey-youtube-live-011-E0011",
+        "mikey-youtube-live-011-E0012",
+        "mikey-youtube-live-011-E0013",
+        "mikey-youtube-live-011-E0014"
+      ],
+      "required_evidence": "完整联系表复核与重点窗口顺序帧",
+      "owner": "visual-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-011-E0001-R001",
+          "youtube_url": "https://www.youtube.com/watch?v=QKKXbO1JYmw&t=56s"
+        }
+      ],
+      "original_recording_dependency": true,
+      "continuous_visual_dependency": true,
+      "delete_disposition": "open_original_dependent_evidence_preserved",
+      "evidence_state": "full_audio_archive_plus_target_video_or_existing_frames_required",
+      "candidate_status": "open",
+      "candidate_severity": "major",
+      "delete_readiness_note": ""
+    },
+    {
+      "id": "mikey-youtube-live-012-R001",
+      "source_id": "mikey-youtube-live-012",
+      "start": 320,
+      "end": 640,
+      "type": "gender_generalization_and_boundary",
+      "severity": "blocking",
+      "question": "把女性玩手机解释为下意识测试，并把‘怕你’作为吸引指标，哪些只能作为人物观点保留而不能生成建议？",
+      "affected_ids": [
+        "mikey-youtube-live-012-E0002",
+        "mikey-youtube-live-012-K003"
+      ],
+      "required_evidence": "连续语境与跨来源编辑审查",
+      "owner": "editorial-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-012-E0002-R140",
+          "youtube_url": "https://www.youtube.com/watch?v=bbe08PDyOts&t=509s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "blocking",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-012-R002",
+      "source_id": "mikey-youtube-live-012",
+      "start": 690,
+      "end": 1080,
+      "type": "aggression_term_and_generalization",
+      "severity": "major",
+      "question": "‘侵略性’具体指坚定、眼神和状态，还是包含控制或威慑？80%女性等数字是否仅为口头夸张？",
+      "affected_ids": [
+        "mikey-youtube-live-012-E0003",
+        "mikey-youtube-live-012-K004",
+        "mikey-youtube-live-012-K005"
+      ],
+      "required_evidence": "重点原音和跨期术语核对",
+      "owner": "audio-and-cross-source-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-012-E0003-R202",
+          "youtube_url": "https://www.youtube.com/watch?v=bbe08PDyOts&t=1003s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "major",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-012-R003",
+      "source_id": "mikey-youtube-live-012",
+      "start": 1130,
+      "end": 1800,
+      "type": "deceptive_transition_and_consent",
+      "severity": "blocking",
+      "question": "以胃不舒服、回去吃药、家里来人等理由带人回家是否属于编造借口？如何排除欺骗并保留对方知情选择？",
+      "affected_ids": [
+        "mikey-youtube-live-012-E0004",
+        "mikey-youtube-live-012-E0005",
+        "mikey-youtube-live-012-K006",
+        "mikey-youtube-live-012-K008"
+      ],
+      "required_evidence": "连续语境回读与同意边界审查",
+      "owner": "editorial-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-012-E0005-R037",
+          "youtube_url": "https://www.youtube.com/watch?v=bbe08PDyOts&t=1573s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "blocking",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-012-R004",
+      "source_id": "mikey-youtube-live-012",
+      "start": 1160,
+      "end": 1180,
+      "type": "asr_contradiction",
+      "severity": "major",
+      "question": "S00665‘吸引永远排在最低位’是否应为‘第一位/最高位’？其后立即说‘价值先行’，需核原音。",
+      "affected_ids": [
+        "mikey-youtube-live-012-E0004"
+      ],
+      "required_evidence": "原音听校",
+      "owner": "audio-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-012-E0004-R062",
+          "youtube_url": "https://www.youtube.com/watch?v=bbe08PDyOts&t=1167s"
+        }
+      ],
+      "original_recording_dependency": true,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "wording_confirmed_semantic_contradiction_remains",
+      "evidence_state": "two_independent_window_retranscriptions_agree_with_original_transcript",
+      "candidate_status": "resolved_asr_open_semantic_hold",
+      "candidate_severity": "major",
+      "delete_readiness_note": "Two isolated-window passes both transcribed ‘吸引永远是排在最低位的’ followed by ‘价值先行’; retain as contradictory wording."
+    },
+    {
+      "id": "mikey-youtube-live-012-R005",
+      "source_id": "mikey-youtube-live-012",
+      "start": 1660,
+      "end": 1770,
+      "type": "refusal_boundary",
+      "severity": "blocking",
+      "question": "‘被拒绝就被拒绝’之后又说‘凭什么不跟你回家’，正式使用时如何确保拒绝无需理由且必须停止？",
+      "affected_ids": [
+        "mikey-youtube-live-012-E0005",
+        "mikey-youtube-live-012-K009"
+      ],
+      "required_evidence": "与正式库持续同意规则联读",
+      "owner": "editorial-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-012-E0005-R157",
+          "youtube_url": "https://www.youtube.com/watch?v=bbe08PDyOts&t=1733s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "blocking",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-012-R006",
+      "source_id": "mikey-youtube-live-012",
+      "start": 2100,
+      "end": 2220,
+      "type": "physical_escalation_consent",
+      "severity": "blocking",
+      "question": "私密空间肢体接触示范缺少逐步询问同意，且把抗拒解释为矜持；哪些内容必须列为do_not_generalize？",
+      "affected_ids": [
+        "mikey-youtube-live-012-E0007",
+        "mikey-youtube-live-012-K010",
+        "mikey-youtube-live-012-K011"
+      ],
+      "required_evidence": "连续语境和高影响同意边界审查",
+      "owner": "editorial-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-012-E0007-R107",
+          "youtube_url": "https://www.youtube.com/watch?v=bbe08PDyOts&t=2159s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "blocking",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-012-R007",
+      "source_id": "mikey-youtube-live-012",
+      "start": 2220,
+      "end": 2300,
+      "type": "coercive_persuasion",
+      "severity": "blocking",
+      "question": "‘把对方CPU说烧掉’和‘黑说成白’是否体现以说服压过对方判断？不得作为互动方法输出。",
+      "affected_ids": [
+        "mikey-youtube-live-012-E0007"
+      ],
+      "required_evidence": "编辑审查",
+      "owner": "editorial-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-012-E0007-R120",
+          "youtube_url": "https://www.youtube.com/watch?v=bbe08PDyOts&t=2178s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "blocking",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-012-R008",
+      "source_id": "mikey-youtube-live-012",
+      "start": 2460,
+      "end": 2550,
+      "type": "age_gender_generalization",
+      "severity": "major",
+      "question": "大学女性、进入社会和30岁后的性行为及难度曲线没有证据，是否仅保留为人物偏见背景？",
+      "affected_ids": [
+        "mikey-youtube-live-012-E0008"
+      ],
+      "required_evidence": "跨来源与事实审查",
+      "owner": "cross-source-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-012-E0008-R028",
+          "youtube_url": "https://www.youtube.com/watch?v=bbe08PDyOts&t=2510s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "major",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-012-R009",
+      "source_id": "mikey-youtube-live-012",
+      "start": 2710,
+      "end": 2840,
+      "type": "sexual_health_claim",
+      "severity": "major",
+      "question": "性表现时长、练腿效果及生理解释属于健康建议，是否需专业来源核实并从指南建议中排除？",
+      "affected_ids": [
+        "mikey-youtube-live-012-E0009"
+      ],
+      "required_evidence": "医学事实核验",
+      "owner": "health-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-012-E0009-R079",
+          "youtube_url": "https://www.youtube.com/watch?v=bbe08PDyOts&t=2822s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "major",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-012-R010",
+      "source_id": "mikey-youtube-live-012",
+      "start": 3170,
+      "end": 3260,
+      "type": "privacy_safety",
+      "severity": "blocking",
+      "question": "面对‘被开盒’风险时轻视后果的回答不构成安全建议；正式回答应如何改用隐私保护和风险控制？",
+      "affected_ids": [
+        "mikey-youtube-live-012-E0011"
+      ],
+      "required_evidence": "隐私与人身安全编辑审查",
+      "owner": "safety-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-012-E0011-R031",
+          "youtube_url": "https://www.youtube.com/watch?v=bbe08PDyOts&t=3180s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "blocking",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-012-R011",
+      "source_id": "mikey-youtube-live-012",
+      "start": 3360,
+      "end": 3390,
+      "type": "refusal_reinterpretation",
+      "severity": "blocking",
+      "question": "把拒绝转场归因为保守或道德水准高，是否会诱导忽略明确拒绝？",
+      "affected_ids": [
+        "mikey-youtube-live-012-E0011"
+      ],
+      "required_evidence": "持续同意边界审查",
+      "owner": "editorial-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-012-E0011-R103",
+          "youtube_url": "https://www.youtube.com/watch?v=bbe08PDyOts&t=3369s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "blocking",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-012-R012",
+      "source_id": "mikey-youtube-live-012",
+      "start": 11,
+      "end": 3636,
+      "type": "speaker_and_visual_limit",
+      "severity": "major",
+      "question": "本期单一主持人身份已由故事板支持，但自动稿未逐句听校；否定词、数值和代读问题边界是否准确？",
+      "affected_ids": [
+        "mikey-youtube-live-012-E0001",
+        "mikey-youtube-live-012-E0012"
+      ],
+      "required_evidence": "重点原音抽查与必要窗口连续音画复核",
+      "owner": "audio-visual-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-012-E0012-R001",
+          "youtube_url": "https://www.youtube.com/watch?v=bbe08PDyOts&t=3602s"
+        }
+      ],
+      "original_recording_dependency": true,
+      "continuous_visual_dependency": true,
+      "delete_disposition": "open_original_dependent_evidence_preserved",
+      "evidence_state": "full_audio_archive_plus_target_video_or_existing_frames_required",
+      "candidate_status": "open",
+      "candidate_severity": "major",
+      "delete_readiness_note": ""
+    },
+    {
+      "id": "mikey-youtube-live-013-R001",
+      "source_id": "mikey-youtube-live-013",
+      "start": 0,
+      "end": 760,
+      "type": "audio_dropout",
+      "severity": "major",
+      "question": "开头约7–12分钟存在直播音频间歇失声，自动稿是否遗漏或错拼关键问答？",
+      "affected_ids": [
+        "mikey-youtube-live-013-E0001",
+        "mikey-youtube-live-013-E0002"
+      ],
+      "required_evidence": "原音与直播故障窗口复核",
+      "owner": "audio-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-013-E0002-R046",
+          "youtube_url": "https://www.youtube.com/watch?v=gkqsEuTD1Mo&t=685s"
+        }
+      ],
+      "original_recording_dependency": true,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_original_dependent_evidence_preserved",
+      "evidence_state": "full_audio_archive_plus_target_video_or_existing_frames_required",
+      "candidate_status": "open",
+      "candidate_severity": "major",
+      "delete_readiness_note": ""
+    },
+    {
+      "id": "mikey-youtube-live-013-R002",
+      "source_id": "mikey-youtube-live-013",
+      "start": 730,
+      "end": 870,
+      "type": "privacy_and_venue_safety",
+      "severity": "blocking",
+      "question": "关于私人影院卫生、避孕和摄像头‘大概率没有’的说法无核实，不能作为隐私或健康安全建议。",
+      "affected_ids": [
+        "mikey-youtube-live-013-E0002"
+      ],
+      "required_evidence": "事实核验与安全编辑审查",
+      "owner": "safety-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-013-E0002-R118",
+          "youtube_url": "https://www.youtube.com/watch?v=gkqsEuTD1Mo&t=842s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "blocking",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-013-R003",
+      "source_id": "mikey-youtube-live-013",
+      "start": 1280,
+      "end": 1390,
+      "type": "consent_boundary",
+      "severity": "blocking",
+      "question": "牵手段落反对强行，但是否充分表达先征求同意、拒绝即停止和持续同意？",
+      "affected_ids": [
+        "mikey-youtube-live-013-E0004",
+        "mikey-youtube-live-013-K005"
+      ],
+      "required_evidence": "与正式库持续同意规则联读",
+      "owner": "editorial-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-013-E0004-R045",
+          "youtube_url": "https://www.youtube.com/watch?v=gkqsEuTD1Mo&t=1354s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "blocking",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-013-R004",
+      "source_id": "mikey-youtube-live-013",
+      "start": 1390,
+      "end": 1600,
+      "type": "regional_gender_stereotype",
+      "severity": "major",
+      "question": "大陆/台湾女性难度、女权和经济拉动的断言无证据，是否只保留为人物偏见背景？",
+      "affected_ids": [
+        "mikey-youtube-live-013-E0004"
+      ],
+      "required_evidence": "事实与编辑审查",
+      "owner": "cross-source-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-013-E0004-R134",
+          "youtube_url": "https://www.youtube.com/watch?v=gkqsEuTD1Mo&t=1530s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "major",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-013-R005",
+      "source_id": "mikey-youtube-live-013",
+      "start": 1580,
+      "end": 1680,
+      "type": "case_ethics",
+      "severity": "blocking",
+      "question": "为向学员示范而把不感兴趣的女性带回家再让其离开，涉及工具化和知情问题，不得转为建议。",
+      "affected_ids": [
+        "mikey-youtube-live-013-E0004"
+      ],
+      "required_evidence": "伦理与同意边界审查",
+      "owner": "editorial-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-013-E0004-R183",
+          "youtube_url": "https://www.youtube.com/watch?v=gkqsEuTD1Mo&t=1622s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "blocking",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-013-R006",
+      "source_id": "mikey-youtube-live-013",
+      "start": 1960,
+      "end": 2180,
+      "type": "derogatory_language",
+      "severity": "major",
+      "question": "对陌生女性和闺蜜的贬损归因不可复用；复盘建议如何保留而不默认羞辱第三方？",
+      "affected_ids": [
+        "mikey-youtube-live-013-E0005"
+      ],
+      "required_evidence": "编辑审查",
+      "owner": "editorial-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-013-E0005-R180",
+          "youtube_url": "https://www.youtube.com/watch?v=gkqsEuTD1Mo&t=2163s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "major",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-013-R007",
+      "source_id": "mikey-youtube-live-013",
+      "start": 2920,
+      "end": 3010,
+      "type": "external_validation_absolutism",
+      "severity": "major",
+      "question": "‘世界上没人真正关心你’过度绝对化，是否仅保留其减少外部认可依赖的核心？",
+      "affected_ids": [
+        "mikey-youtube-live-013-E0009"
+      ],
+      "required_evidence": "编辑与心理健康边界审查",
+      "owner": "editorial-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-013-E0009-R060",
+          "youtube_url": "https://www.youtube.com/watch?v=gkqsEuTD1Mo&t=3230s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "major",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-013-R008",
+      "source_id": "mikey-youtube-live-013",
+      "start": 3230,
+      "end": 3390,
+      "type": "poetry_religion_fact",
+      "severity": "major",
+      "question": "‘世味酸咸谁自信’词句、作者年代及宗教意义推断是否准确？",
+      "affected_ids": [
+        "mikey-youtube-live-013-E0010"
+      ],
+      "required_evidence": "原音和文献事实核验",
+      "owner": "fact-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-013-E0010-R029",
+          "youtube_url": "https://www.youtube.com/watch?v=gkqsEuTD1Mo&t=3500s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "major",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-013-R009",
+      "source_id": "mikey-youtube-live-013",
+      "start": 3700,
+      "end": 3810,
+      "type": "evolution_hypnosis_claim",
+      "severity": "major",
+      "question": "远古猎人87%失败率、自责基因淘汰、催眠科学性和儒家因果均未给来源，不得当作事实。",
+      "affected_ids": [
+        "mikey-youtube-live-013-E0011"
+      ],
+      "required_evidence": "科学与历史事实核验",
+      "owner": "fact-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-013-E0010-R089",
+          "youtube_url": "https://www.youtube.com/watch?v=gkqsEuTD1Mo&t=3709s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "major",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-013-R010",
+      "source_id": "mikey-youtube-live-013",
+      "start": 3820,
+      "end": 3900,
+      "type": "family_separation_generalization",
+      "severity": "blocking",
+      "question": "把脱离家庭列为底层孩子翻身第一步是否忽略经济、照护和安全条件？",
+      "affected_ids": [
+        "mikey-youtube-live-013-E0011"
+      ],
+      "required_evidence": "现实安全和情境审查",
+      "owner": "safety-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-013-E0011-R055",
+          "youtube_url": "https://www.youtube.com/watch?v=gkqsEuTD1Mo&t=3839s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "blocking",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-013-R011",
+      "source_id": "mikey-youtube-live-013",
+      "start": 4200,
+      "end": 4300,
+      "type": "extreme_exposure_safety",
+      "severity": "major",
+      "question": "建议独自面对极端环境和生存困境来获得自信，有何人身安全限制？",
+      "affected_ids": [
+        "mikey-youtube-live-013-E0012"
+      ],
+      "required_evidence": "安全编辑审查",
+      "owner": "safety-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-013-E0012-R109",
+          "youtube_url": "https://www.youtube.com/watch?v=gkqsEuTD1Mo&t=4278s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "major",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-013-R012",
+      "source_id": "mikey-youtube-live-013",
+      "start": 11,
+      "end": 4585,
+      "type": "speaker_and_asr_limit",
+      "severity": "major",
+      "question": "完整自动稿未逐句听校，否定词、比例、诗词和观众代读边界是否准确？",
+      "affected_ids": [
+        "mikey-youtube-live-013-E0001",
+        "mikey-youtube-live-013-E0014"
+      ],
+      "required_evidence": "重点原音抽查",
+      "owner": "audio-visual-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-013-E0014-R001",
+          "youtube_url": "https://www.youtube.com/watch?v=gkqsEuTD1Mo&t=4548s"
+        }
+      ],
+      "original_recording_dependency": true,
+      "continuous_visual_dependency": true,
+      "delete_disposition": "open_original_dependent_evidence_preserved",
+      "evidence_state": "full_audio_archive_plus_target_video_or_existing_frames_required",
+      "candidate_status": "open",
+      "candidate_severity": "major",
+      "delete_readiness_note": ""
+    },
+    {
+      "id": "mikey-youtube-live-014-R001",
+      "source_id": "mikey-youtube-live-014",
+      "start": 690,
+      "end": 735,
+      "type": "consent_contradiction",
+      "severity": "blocking",
+      "question": "同段先承认对方有拒绝权，随后称‘女人说no不是真的no’；不得据此继续施压，正式使用必须以no即no覆盖。",
+      "affected_ids": [
+        "mikey-youtube-live-014-E0002",
+        "mikey-youtube-live-014-K003"
+      ],
+      "required_evidence": "持续同意规则与编辑审查",
+      "owner": "editorial-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-014-E0002-R104",
+          "youtube_url": "https://www.youtube.com/watch?v=e1PGzzbFcf8&t=716s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "blocking",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-014-R002",
+      "source_id": "mikey-youtube-live-014",
+      "start": 850,
+      "end": 1190,
+      "type": "class_gender_stereotype",
+      "severity": "major",
+      "question": "富家女、农村女性、女权和所谓‘低价值女性’的概括是否应仅作为人物偏见背景并排除复用？",
+      "affected_ids": [
+        "mikey-youtube-live-014-E0003"
+      ],
+      "required_evidence": "事实与编辑审查",
+      "owner": "cross-source-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-014-E0003-R053",
+          "youtube_url": "https://www.youtube.com/watch?v=e1PGzzbFcf8&t=1119s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "major",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-014-R003",
+      "source_id": "mikey-youtube-live-014",
+      "start": 1190,
+      "end": 1580,
+      "type": "wealth_and_class_generalization",
+      "severity": "major",
+      "question": "把教养、眼界和行为按财富阶层普遍归因，缺少证据，如何只保留‘不要炫耀’这一可用核心？",
+      "affected_ids": [
+        "mikey-youtube-live-014-E0003",
+        "mikey-youtube-live-014-K005"
+      ],
+      "required_evidence": "编辑审查",
+      "owner": "editorial-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-014-E0003-R124",
+          "youtube_url": "https://www.youtube.com/watch?v=e1PGzzbFcf8&t=1284s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "major",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-014-R004",
+      "source_id": "mikey-youtube-live-014",
+      "start": 1600,
+      "end": 2050,
+      "type": "neediness_and_consent",
+      "severity": "blocking",
+      "question": "‘需求感控制’及转场示范是否会被误用为隐藏意图、追问拒绝或忽略对方反馈？",
+      "affected_ids": [
+        "mikey-youtube-live-014-E0004",
+        "mikey-youtube-live-014-K006"
+      ],
+      "required_evidence": "持续同意与操控风险审查",
+      "owner": "safety-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-014-E0004-R062",
+          "youtube_url": "https://www.youtube.com/watch?v=e1PGzzbFcf8&t=1710s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "blocking",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-014-R005",
+      "source_id": "mikey-youtube-live-014",
+      "start": 2150,
+      "end": 2300,
+      "type": "gender_essentialism",
+      "severity": "blocking",
+      "question": "人性慕强、基因决定和女性会服从等断言未经证实且可能鼓励支配，不能作为建议。",
+      "affected_ids": [
+        "mikey-youtube-live-014-E0005"
+      ],
+      "required_evidence": "科学事实与性别边界审查",
+      "owner": "fact-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-014-E0005-R147",
+          "youtube_url": "https://www.youtube.com/watch?v=e1PGzzbFcf8&t=2286s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "blocking",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-014-R006",
+      "source_id": "mikey-youtube-live-014",
+      "start": 2300,
+      "end": 2835,
+      "type": "appearance_absolutism",
+      "severity": "major",
+      "question": "形象段将教育、阶层与清洁习惯绑定，并含成功率绝对化，哪些内容只保留为日常整洁建议？",
+      "affected_ids": [
+        "mikey-youtube-live-014-E0006",
+        "mikey-youtube-live-014-K008"
+      ],
+      "required_evidence": "编辑与事实审查",
+      "owner": "editorial-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-014-E0006-R242",
+          "youtube_url": "https://www.youtube.com/watch?v=e1PGzzbFcf8&t=2821s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "major",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-014-R007",
+      "source_id": "mikey-youtube-live-014",
+      "start": 2980,
+      "end": 3240,
+      "type": "family_causation_and_separation",
+      "severity": "blocking",
+      "question": "把自卑简化归因为缺母爱、父母和‘家族业力’，并建议搬出去，是否忽略经济、照护、安全和心理健康条件？",
+      "affected_ids": [
+        "mikey-youtube-live-014-E0007"
+      ],
+      "required_evidence": "现实安全和心理边界审查",
+      "owner": "safety-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-014-E0007-R067",
+          "youtube_url": "https://www.youtube.com/watch?v=e1PGzzbFcf8&t=2985s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "blocking",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-014-R008",
+      "source_id": "mikey-youtube-live-014",
+      "start": 3220,
+      "end": 3275,
+      "type": "pain_absolutism",
+      "severity": "major",
+      "question": "‘改变不了只是还不够痛苦’是过度归因，不能用于责备困境中的人。",
+      "affected_ids": [
+        "mikey-youtube-live-014-E0008"
+      ],
+      "required_evidence": "编辑与心理健康审查",
+      "owner": "editorial-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-014-E0008-R050",
+          "youtube_url": "https://www.youtube.com/watch?v=e1PGzzbFcf8&t=3239s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "major",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-014-R009",
+      "source_id": "mikey-youtube-live-014",
+      "start": 3300,
+      "end": 3450,
+      "type": "blame_attribution",
+      "severity": "major",
+      "question": "复盘三分法有价值，但原段是否过快把结果归罪于对方，并使用贬损措辞？",
+      "affected_ids": [
+        "mikey-youtube-live-014-E0009",
+        "mikey-youtube-live-014-K010",
+        "mikey-youtube-live-014-K011"
+      ],
+      "required_evidence": "编辑审查",
+      "owner": "editorial-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-014-E0009-R088",
+          "youtube_url": "https://www.youtube.com/watch?v=e1PGzzbFcf8&t=3379s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "major",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-014-R010",
+      "source_id": "mikey-youtube-live-014",
+      "start": 3450,
+      "end": 3720,
+      "type": "random_factor_boundary",
+      "severity": "major",
+      "question": "随机因素例子是否完整保留了事实未知和后续信息，避免先行污名化对方？",
+      "affected_ids": [
+        "mikey-youtube-live-014-E0010"
+      ],
+      "required_evidence": "上下文与编辑审查",
+      "owner": "cross-source-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-014-E0009-R097",
+          "youtube_url": "https://www.youtube.com/watch?v=e1PGzzbFcf8&t=3392s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "major",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-014-R011",
+      "source_id": "mikey-youtube-live-014",
+      "start": 3720,
+      "end": 4010,
+      "type": "philosophy_to_advice",
+      "severity": "major",
+      "question": "‘只爱只做’和修养性情的抽象表述如何转成可执行建议而不绝对化？",
+      "affected_ids": [
+        "mikey-youtube-live-014-E0011"
+      ],
+      "required_evidence": "跨来源语义审查",
+      "owner": "cross-source-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-014-E0011-R033",
+          "youtube_url": "https://www.youtube.com/watch?v=e1PGzzbFcf8&t=3650s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "major",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-014-R012",
+      "source_id": "mikey-youtube-live-014",
+      "start": 12,
+      "end": 4060,
+      "type": "speaker_and_asr_limit",
+      "severity": "major",
+      "question": "完整自动稿未逐句听校，否定词、同意表达、数字和观众代读边界是否准确？",
+      "affected_ids": [
+        "mikey-youtube-live-014-E0001",
+        "mikey-youtube-live-014-E0012"
+      ],
+      "required_evidence": "重点原音抽查",
+      "owner": "audio-visual-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-014-E0012-R002",
+          "youtube_url": "https://www.youtube.com/watch?v=e1PGzzbFcf8&t=3799s"
+        }
+      ],
+      "original_recording_dependency": true,
+      "continuous_visual_dependency": true,
+      "delete_disposition": "open_original_dependent_evidence_preserved",
+      "evidence_state": "full_audio_archive_plus_target_video_or_existing_frames_required",
+      "candidate_status": "open",
+      "candidate_severity": "major",
+      "delete_readiness_note": ""
+    },
+    {
+      "id": "mikey-youtube-live-015-R001",
+      "source_id": "mikey-youtube-live-015",
+      "start": 40,
+      "end": 120,
+      "type": "sex_worker_stereotype",
+      "severity": "major",
+      "question": "把技师与捞女、拜金和炫富策略绑定，是否应整体排除？",
+      "affected_ids": [
+        "mikey-youtube-live-015-E0001"
+      ],
+      "required_evidence": "编辑与事实审查",
+      "owner": "editorial-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-015-E0001-R031",
+          "youtube_url": "https://www.youtube.com/watch?v=hQaBcP15E-E&t=163s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "major",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-015-R002",
+      "source_id": "mikey-youtube-live-015",
+      "start": 120,
+      "end": 290,
+      "type": "deception_and_consent",
+      "severity": "blocking",
+      "question": "用休息、吃药、家里有人等虚假理由转场，把吸引视为同意，存在欺骗和性同意风险。",
+      "affected_ids": [
+        "mikey-youtube-live-015-E0001",
+        "mikey-youtube-live-015-K001"
+      ],
+      "required_evidence": "持续同意与伦理审查",
+      "owner": "safety-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-015-E0001-R090",
+          "youtube_url": "https://www.youtube.com/watch?v=hQaBcP15E-E&t=263s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "blocking",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-015-R003",
+      "source_id": "mikey-youtube-live-015",
+      "start": 290,
+      "end": 520,
+      "type": "partner_nondisclosure",
+      "severity": "blocking",
+      "question": "建议先建立吸引再披露已有女友，会剥夺对方知情选择并鼓励不忠。",
+      "affected_ids": [
+        "mikey-youtube-live-015-E0002"
+      ],
+      "required_evidence": "关系伦理审查",
+      "owner": "safety-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-015-E0002-R010",
+          "youtube_url": "https://www.youtube.com/watch?v=hQaBcP15E-E&t=333s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "blocking",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-015-R004",
+      "source_id": "mikey-youtube-live-015",
+      "start": 520,
+      "end": 620,
+      "type": "sm_gender_essentialism",
+      "severity": "blocking",
+      "question": "“每个女人都是M”及强弱决定性角色属于无依据概括，并忽略协商、界限和安全词。",
+      "affected_ids": [
+        "mikey-youtube-live-015-E0002"
+      ],
+      "required_evidence": "BDSM同意与编辑审查",
+      "owner": "safety-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-015-E0002-R064",
+          "youtube_url": "https://www.youtube.com/watch?v=hQaBcP15E-E&t=467s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "blocking",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-015-R005",
+      "source_id": "mikey-youtube-live-015",
+      "start": 650,
+      "end": 920,
+      "type": "success_rate_and_region",
+      "severity": "major",
+      "question": "70%–100%成功率为自述；深圳/成都女性比较及贬损措辞无依据。",
+      "affected_ids": [
+        "mikey-youtube-live-015-E0003"
+      ],
+      "required_evidence": "数字、地区与编辑审查",
+      "owner": "fact-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-015-E0003-R041",
+          "youtube_url": "https://www.youtube.com/watch?v=hQaBcP15E-E&t=668s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "major",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-015-R006",
+      "source_id": "mikey-youtube-live-015",
+      "start": 1200,
+      "end": 1800,
+      "type": "self_value_absolutism",
+      "severity": "major",
+      "question": "把低自我价值者称为“错难”、盲目自信优于自卑及女性必然不尊重等说法需剔除。",
+      "affected_ids": [
+        "mikey-youtube-live-015-E0005",
+        "mikey-youtube-live-015-K004"
+      ],
+      "required_evidence": "心理与编辑审查",
+      "owner": "editorial-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-015-E0005-R123",
+          "youtube_url": "https://www.youtube.com/watch?v=hQaBcP15E-E&t=1416s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "major",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-015-R007",
+      "source_id": "mikey-youtube-live-015",
+      "start": 1800,
+      "end": 2050,
+      "type": "meditation_health_claim",
+      "severity": "major",
+      "question": "冥想提高血清素、富人都做所以无害等推理是否准确？",
+      "affected_ids": [
+        "mikey-youtube-live-015-E0006"
+      ],
+      "required_evidence": "健康事实核验",
+      "owner": "fact-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-015-E0006-R007",
+          "youtube_url": "https://www.youtube.com/watch?v=hQaBcP15E-E&t=1594s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "major",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-015-R008",
+      "source_id": "mikey-youtube-live-015",
+      "start": 2050,
+      "end": 2360,
+      "type": "body_gene_and_sex_case",
+      "severity": "blocking",
+      "question": "体型“刻在基因里”及亲密案例解读缺证据；疼痛、删除又加回等线索不能自动解释为欲望或攻略问题。",
+      "affected_ids": [
+        "mikey-youtube-live-015-E0006"
+      ],
+      "required_evidence": "健康、同意与事实审查",
+      "owner": "safety-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-015-E0006-R070",
+          "youtube_url": "https://www.youtube.com/watch?v=hQaBcP15E-E&t=1735s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "blocking",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-015-R009",
+      "source_id": "mikey-youtube-live-015",
+      "start": 2360,
+      "end": 2850,
+      "type": "misogyny_and_history",
+      "severity": "blocking",
+      "question": "“多数女人蠢”、永远不要讲道理、历史统治和孔子引语被用于贬低女性，不得进入人物建议。",
+      "affected_ids": [
+        "mikey-youtube-live-015-E0007"
+      ],
+      "required_evidence": "历史事实与编辑审查",
+      "owner": "editorial-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-015-E0007-R024",
+          "youtube_url": "https://www.youtube.com/watch?v=hQaBcP15E-E&t=1909s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "blocking",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-015-R010",
+      "source_id": "mikey-youtube-live-015",
+      "start": 2850,
+      "end": 3230,
+      "type": "ai_and_value_claim",
+      "severity": "major",
+      "question": "对AI建议和“半小时必留印象”的概括是否只是个人立场，不能作为效果事实。",
+      "affected_ids": [
+        "mikey-youtube-live-015-E0007"
+      ],
+      "required_evidence": "事实与跨来源审查",
+      "owner": "cross-source-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-015-E0007-R133",
+          "youtube_url": "https://www.youtube.com/watch?v=hQaBcP15E-E&t=2190s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "major",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-015-R011",
+      "source_id": "mikey-youtube-live-015",
+      "start": 3100,
+      "end": 3400,
+      "type": "avoidant_label",
+      "severity": "major",
+      "question": "凭一次争吵和不主动联系就称对方为回避型人格，缺乏评估依据。",
+      "affected_ids": [
+        "mikey-youtube-live-015-E0010"
+      ],
+      "required_evidence": "心理健康边界审查",
+      "owner": "safety-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-015-E0010-R016",
+          "youtube_url": "https://www.youtube.com/watch?v=hQaBcP15E-E&t=2893s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "major",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-015-R012",
+      "source_id": "mikey-youtube-live-015",
+      "start": 3400,
+      "end": 3600,
+      "type": "sexual_pain_medical",
+      "severity": "blocking",
+      "question": "对首次性交疼痛只建议润滑，缺少停止、持续同意、可能的生理原因和就医提示。",
+      "affected_ids": [
+        "mikey-youtube-live-015-E0011"
+      ],
+      "required_evidence": "性健康与持续同意审查",
+      "owner": "safety-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-015-E0011-R044",
+          "youtube_url": "https://www.youtube.com/watch?v=hQaBcP15E-E&t=3188s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "blocking",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-015-R013",
+      "source_id": "mikey-youtube-live-015",
+      "start": 12,
+      "end": 3685,
+      "type": "speaker_and_asr_limit",
+      "severity": "major",
+      "question": "完整自动稿未逐句听校，数字、否定、性同意与观众代读边界是否准确？",
+      "affected_ids": [
+        "mikey-youtube-live-015-E0001",
+        "mikey-youtube-live-015-E0013"
+      ],
+      "required_evidence": "重点原音抽查",
+      "owner": "audio-visual-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-015-E0013-R056",
+          "youtube_url": "https://www.youtube.com/watch?v=hQaBcP15E-E&t=3630s"
+        }
+      ],
+      "original_recording_dependency": true,
+      "continuous_visual_dependency": true,
+      "delete_disposition": "open_original_dependent_evidence_preserved",
+      "evidence_state": "full_audio_archive_plus_target_video_or_existing_frames_required",
+      "candidate_status": "open",
+      "candidate_severity": "major",
+      "delete_readiness_note": ""
+    },
+    {
+      "id": "mikey-youtube-live-016-R001",
+      "source_id": "mikey-youtube-live-016",
+      "start": 20,
+      "end": 250,
+      "type": "privacy_and_sexualization",
+      "severity": "blocking",
+      "question": "是否在未获同意情况下展示或详细描述可识别约会对象的身体、照片和性经历？不得进入正式案例。",
+      "affected_ids": [
+        "mikey-youtube-live-016-E0001",
+        "mikey-youtube-live-016-K001"
+      ],
+      "required_evidence": "隐私、肖像和编辑审查",
+      "owner": "safety-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-016-E0001-R033",
+          "youtube_url": "https://www.youtube.com/watch?v=XtOuBx0no_w&t=146s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": true,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "blocking",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-016-R002",
+      "source_id": "mikey-youtube-live-016",
+      "start": 250,
+      "end": 650,
+      "type": "single_party_story",
+      "severity": "major",
+      "question": "整段案例只有主持单方叙述；当事人动机、性经历和关系定义无法核实。",
+      "affected_ids": [
+        "mikey-youtube-live-016-E0001",
+        "mikey-youtube-live-016-E0002"
+      ],
+      "required_evidence": "原始音画与编辑审查",
+      "owner": "cross-source-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-016-E0002-R027",
+          "youtube_url": "https://www.youtube.com/watch?v=XtOuBx0no_w&t=420s"
+        }
+      ],
+      "original_recording_dependency": true,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_original_dependent_evidence_preserved",
+      "evidence_state": "full_audio_archive_plus_target_video_or_existing_frames_required",
+      "candidate_status": "open",
+      "candidate_severity": "major",
+      "delete_readiness_note": ""
+    },
+    {
+      "id": "mikey-youtube-live-016-R003",
+      "source_id": "mikey-youtube-live-016",
+      "start": 650,
+      "end": 1220,
+      "type": "jealousy_and_manipulation",
+      "severity": "major",
+      "question": "把女性与他人聊天解释为吃醋、试探、拿捏和虚假窗口，是否属于无证据读心？",
+      "affected_ids": [
+        "mikey-youtube-live-016-E0003",
+        "mikey-youtube-live-016-K003"
+      ],
+      "required_evidence": "编辑与跨来源审查",
+      "owner": "editorial-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-016-E0003-R066",
+          "youtube_url": "https://www.youtube.com/watch?v=XtOuBx0no_w&t=1013s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "major",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-016-R004",
+      "source_id": "mikey-youtube-live-016",
+      "start": 1220,
+      "end": 1800,
+      "type": "intoxication_consent",
+      "severity": "blocking",
+      "question": "对方明显醉酒、神志不清后，任何亲密行为均不能继续；案例是否充分优先安全与求助？",
+      "affected_ids": [
+        "mikey-youtube-live-016-E0004",
+        "mikey-youtube-live-016-K004"
+      ],
+      "required_evidence": "持续同意和急症处置审查",
+      "owner": "safety-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-016-E0005-R051",
+          "youtube_url": "https://www.youtube.com/watch?v=XtOuBx0no_w&t=1865s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": true,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "blocking",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-016-R005",
+      "source_id": "mikey-youtube-live-016",
+      "start": 1450,
+      "end": 1700,
+      "type": "bathroom_and_privacy",
+      "severity": "blocking",
+      "question": "陪醉酒者进入厕所、描述排泄和可能展示照片，涉及隐私、尊严和安全，是否应全部隔离？",
+      "affected_ids": [
+        "mikey-youtube-live-016-E0004"
+      ],
+      "required_evidence": "隐私与安全审查",
+      "owner": "safety-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-016-E0004-R164",
+          "youtube_url": "https://www.youtube.com/watch?v=XtOuBx0no_w&t=1728s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": true,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "blocking",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-016-R006",
+      "source_id": "mikey-youtube-live-016",
+      "start": 1700,
+      "end": 2350,
+      "type": "emergency_and_property_damage",
+      "severity": "blocking",
+      "question": "尖叫、砸酒吧和神志不清可能构成医疗或公共安全事件；应联系场所负责人、可信朋友、急救或警方并明确交接。",
+      "affected_ids": [
+        "mikey-youtube-live-016-E0005",
+        "mikey-youtube-live-016-E0006"
+      ],
+      "required_evidence": "急症与公共安全审查",
+      "owner": "safety-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-016-E0005-R169",
+          "youtube_url": "https://www.youtube.com/watch?v=XtOuBx0no_w&t=2107s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": true,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "blocking",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-016-R007",
+      "source_id": "mikey-youtube-live-016",
+      "start": 2300,
+      "end": 2700,
+      "type": "abandonment_without_handoff",
+      "severity": "blocking",
+      "question": "离开时是否确认当事人由可信且清醒的人接手？案例把逃离当笑料，不能作为安全处置范本。",
+      "affected_ids": [
+        "mikey-youtube-live-016-E0006"
+      ],
+      "required_evidence": "安全交接与伦理审查",
+      "owner": "safety-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-016-E0006-R130",
+          "youtube_url": "https://www.youtube.com/watch?v=XtOuBx0no_w&t=2417s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": true,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "blocking",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-016-R008",
+      "source_id": "mikey-youtube-live-016",
+      "start": 2700,
+      "end": 3100,
+      "type": "public_humiliation",
+      "severity": "blocking",
+      "question": "将他人醉酒失控、身体和排泄细节作为直播娱乐，存在严重隐私和羞辱风险。",
+      "affected_ids": [
+        "mikey-youtube-live-016-E0007",
+        "mikey-youtube-live-016-K005"
+      ],
+      "required_evidence": "隐私、尊严和编辑审查",
+      "owner": "editorial-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-016-E0007-R091",
+          "youtube_url": "https://www.youtube.com/watch?v=XtOuBx0no_w&t=2683s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": true,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "blocking",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-016-R009",
+      "source_id": "mikey-youtube-live-016",
+      "start": 3110,
+      "end": 3250,
+      "type": "weight_advice",
+      "severity": "major",
+      "question": "“太胖就必须减肥”忽略健康、饮食、药物和身体差异，不可作医学建议。",
+      "affected_ids": [
+        "mikey-youtube-live-016-E0008"
+      ],
+      "required_evidence": "健康事实审查",
+      "owner": "fact-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-016-E0008-R007",
+          "youtube_url": "https://www.youtube.com/watch?v=XtOuBx0no_w&t=2832s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "major",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-016-R010",
+      "source_id": "mikey-youtube-live-016",
+      "start": 3600,
+      "end": 3900,
+      "type": "course_and_display_claim",
+      "severity": "major",
+      "question": "陪跑效果、展示面门槛及线下失败归因为宣传性自述，是否有跨来源支持？",
+      "affected_ids": [
+        "mikey-youtube-live-016-E0009"
+      ],
+      "required_evidence": "跨来源与编辑审查",
+      "owner": "cross-source-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-016-E0009-R068",
+          "youtube_url": "https://www.youtube.com/watch?v=XtOuBx0no_w&t=3292s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "major",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-016-R011",
+      "source_id": "mikey-youtube-live-016",
+      "start": 3980,
+      "end": 4260,
+      "type": "conflict_and_attraction_absolutism",
+      "severity": "blocking",
+      "question": "威胁辱骂女性、“所有推不动都因吸引不够”会掩盖拒绝和边界，不得转为建议。",
+      "affected_ids": [
+        "mikey-youtube-live-016-E0011"
+      ],
+      "required_evidence": "持续同意和编辑审查",
+      "owner": "safety-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-016-E0011-R055",
+          "youtube_url": "https://www.youtube.com/watch?v=XtOuBx0no_w&t=3890s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "blocking",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-016-R012",
+      "source_id": "mikey-youtube-live-016",
+      "start": 12,
+      "end": 4296,
+      "type": "speaker_asr_and_visual_limit",
+      "severity": "major",
+      "question": "完整自动稿未逐句听校；案例关键顺序、数字、否定、手机展示内容和观众代读是否准确？",
+      "affected_ids": [
+        "mikey-youtube-live-016-E0001",
+        "mikey-youtube-live-016-E0011"
+      ],
+      "required_evidence": "重点原音与顺序画面复核",
+      "owner": "audio-visual-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-016-E0011-R121",
+          "youtube_url": "https://www.youtube.com/watch?v=XtOuBx0no_w&t=4165s"
+        }
+      ],
+      "original_recording_dependency": true,
+      "continuous_visual_dependency": true,
+      "delete_disposition": "open_original_dependent_evidence_preserved",
+      "evidence_state": "full_audio_archive_plus_target_video_or_existing_frames_required",
+      "candidate_status": "open",
+      "candidate_severity": "major",
+      "delete_readiness_note": ""
+    },
+    {
+      "id": "mikey-youtube-live-017-R001",
+      "source_id": "mikey-youtube-live-017",
+      "start": 402,
+      "end": 10583,
+      "type": "gameplay_speaker_attribution",
+      "severity": "blocking",
+      "question": "E0002至E0013均含游戏对白、旁白、主持评论或重叠音轨；需连续音画逐句确认后才能扩大Mikey归属窗口。",
+      "affected_ids": [
+        "mikey-youtube-live-017-E0002",
+        "mikey-youtube-live-017-E0003",
+        "mikey-youtube-live-017-E0004",
+        "mikey-youtube-live-017-E0005",
+        "mikey-youtube-live-017-E0006",
+        "mikey-youtube-live-017-E0007",
+        "mikey-youtube-live-017-E0008",
+        "mikey-youtube-live-017-E0009",
+        "mikey-youtube-live-017-E0010",
+        "mikey-youtube-live-017-E0011",
+        "mikey-youtube-live-017-E0012",
+        "mikey-youtube-live-017-E0013"
+      ],
+      "required_evidence": "连续音画、主持小窗嘴型、游戏字幕和音轨分离复核",
+      "owner": "audio-visual-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-017-E0002-R001",
+          "youtube_url": "https://www.youtube.com/watch?v=m9UNQmf2Sf8&t=402s"
+        }
+      ],
+      "original_recording_dependency": true,
+      "continuous_visual_dependency": true,
+      "delete_disposition": "open_original_dependent_evidence_preserved",
+      "evidence_state": "full_audio_archive_plus_target_video_or_existing_frames_required",
+      "candidate_status": "open",
+      "candidate_severity": "blocking",
+      "delete_readiness_note": ""
+    },
+    {
+      "id": "mikey-youtube-live-017-R002",
+      "source_id": "mikey-youtube-live-017",
+      "start": 620,
+      "end": 800,
+      "type": "employment_deception",
+      "severity": "blocking",
+      "question": "主持关于求职面试编造经历的评论不得升级为建议；是否需要完整上下文核对其态度？",
+      "affected_ids": [
+        "mikey-youtube-live-017-E0002"
+      ],
+      "required_evidence": "完整原音与伦理审查",
+      "owner": "editorial-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-017-E0002-R060",
+          "youtube_url": "https://www.youtube.com/watch?v=m9UNQmf2Sf8&t=706s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "blocking",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-017-R003",
+      "source_id": "mikey-youtube-live-017",
+      "start": 1500,
+      "end": 2050,
+      "type": "financial_transfer_and_game_outcome",
+      "severity": "major",
+      "question": "打赏、转账和止损均处在游戏情境；金额、选择与结局不能证明现实关系规律。",
+      "affected_ids": [
+        "mikey-youtube-live-017-E0003",
+        "mikey-youtube-live-017-K003"
+      ],
+      "required_evidence": "连续游戏画面、金额和选项顺序复核",
+      "owner": "audio-visual-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-017-E0003-R223",
+          "youtube_url": "https://www.youtube.com/watch?v=m9UNQmf2Sf8&t=1893s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "major",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-017-R004",
+      "source_id": "mikey-youtube-live-017",
+      "start": 2200,
+      "end": 3000,
+      "type": "consent_and_physical_contact",
+      "severity": "blocking",
+      "question": "原段反对占便宜但没有完整给出明确同意标准；任何身体接触都必须以明确、持续、可撤回的同意为前提。",
+      "affected_ids": [
+        "mikey-youtube-live-017-E0004",
+        "mikey-youtube-live-017-K005"
+      ],
+      "required_evidence": "持续同意与安全审查",
+      "owner": "safety-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-017-E0004-R162",
+          "youtube_url": "https://www.youtube.com/watch?v=m9UNQmf2Sf8&t=2609s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "blocking",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-017-R005",
+      "source_id": "mikey-youtube-live-017",
+      "start": 2700,
+      "end": 3200,
+      "type": "high_bill_and_payment",
+      "severity": "major",
+      "question": "高额账单、谁点单谁付款和量力而行的原话及游戏选择顺序是否准确？",
+      "affected_ids": [
+        "mikey-youtube-live-017-E0004",
+        "mikey-youtube-live-017-K006"
+      ],
+      "required_evidence": "连续音画、账单屏幕和原音复核",
+      "owner": "audio-visual-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-017-E0004-R203",
+          "youtube_url": "https://www.youtube.com/watch?v=m9UNQmf2Sf8&t=2757s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "major",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-017-R006",
+      "source_id": "mikey-youtube-live-017",
+      "start": 3300,
+      "end": 4100,
+      "type": "loans_assets_and_fraud",
+      "severity": "blocking",
+      "question": "贷款、借款、继承资产和连续转账属于虚构剧情；不得写成Mikey亲历或现实验证。",
+      "affected_ids": [
+        "mikey-youtube-live-017-E0005",
+        "mikey-youtube-live-017-K007",
+        "mikey-youtube-live-017-K008"
+      ],
+      "required_evidence": "游戏章节、屏幕金额和主持插话逐句复核",
+      "owner": "fact-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-017-E0005-R057",
+          "youtube_url": "https://www.youtube.com/watch?v=m9UNQmf2Sf8&t=3409s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "blocking",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-017-R007",
+      "source_id": "mikey-youtube-live-017",
+      "start": 3900,
+      "end": 4200,
+      "type": "medical_and_cruel_claims",
+      "severity": "blocking",
+      "question": "借款诈骗评论附近夹杂重病亲属、ICU和医疗处置的冷酷断言，不得转为医疗或关系建议。",
+      "affected_ids": [
+        "mikey-youtube-live-017-E0005"
+      ],
+      "required_evidence": "医疗事实和伦理审查",
+      "owner": "safety-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-017-E0005-R155",
+          "youtube_url": "https://www.youtube.com/watch?v=m9UNQmf2Sf8&t=3941s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "blocking",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-017-R008",
+      "source_id": "mikey-youtube-live-017",
+      "start": 4200,
+      "end": 5000,
+      "type": "gender_stereotyping_and_labeling",
+      "severity": "blocking",
+      "question": "反诈和社交媒体段把女性概括为‘捞女’并带普遍化贬损；不得以游戏标签替代个体证据。",
+      "affected_ids": [
+        "mikey-youtube-live-017-E0006",
+        "mikey-youtube-live-017-K009"
+      ],
+      "required_evidence": "编辑与跨来源审查",
+      "owner": "editorial-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-017-E0006-R075",
+          "youtube_url": "https://www.youtube.com/watch?v=m9UNQmf2Sf8&t=4551s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "blocking",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-017-R009",
+      "source_id": "mikey-youtube-live-017",
+      "start": 5900,
+      "end": 6200,
+      "type": "deliberate_lateness",
+      "severity": "blocking",
+      "question": "故意迟到半小时被包装为策略，违反基本尊重，不得升级为约会建议。",
+      "affected_ids": [
+        "mikey-youtube-live-017-E0008"
+      ],
+      "required_evidence": "编辑与关系伦理审查",
+      "owner": "safety-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-017-E0008-R162",
+          "youtube_url": "https://www.youtube.com/watch?v=m9UNQmf2Sf8&t=6120s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "blocking",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-017-R010",
+      "source_id": "mikey-youtube-live-017",
+      "start": 6170,
+      "end": 6760,
+      "type": "nonconsensual_leading_and_kissing",
+      "severity": "blocking",
+      "question": "‘不询问直接带领’和直接亲吻的评论忽略同意；没有明确同意就不得推进。",
+      "affected_ids": [
+        "mikey-youtube-live-017-E0009"
+      ],
+      "required_evidence": "持续同意与重点原音复核",
+      "owner": "safety-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-017-E0009-R009",
+          "youtube_url": "https://www.youtube.com/watch?v=m9UNQmf2Sf8&t=6173s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "blocking",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-017-R011",
+      "source_id": "mikey-youtube-live-017",
+      "start": 6200,
+      "end": 7600,
+      "type": "manipulation_and_deception",
+      "severity": "blocking",
+      "question": "推拉、假兴趣、制造吃醋、隐瞒关系或塑造资产印象等操控框架不得转为指南建议。",
+      "affected_ids": [
+        "mikey-youtube-live-017-E0009",
+        "mikey-youtube-live-017-E0010"
+      ],
+      "required_evidence": "编辑、欺骗与关系伦理审查",
+      "owner": "safety-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-017-E0009-R079",
+          "youtube_url": "https://www.youtube.com/watch?v=m9UNQmf2Sf8&t=6496s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "blocking",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-017-R012",
+      "source_id": "mikey-youtube-live-017",
+      "start": 8000,
+      "end": 9200,
+      "type": "transactional_relationship_and_gender_contempt",
+      "severity": "major",
+      "question": "等价交换和不过度计较的评论夹杂把女性比作小孩等贬损；可用部分需逐句剥离。",
+      "affected_ids": [
+        "mikey-youtube-live-017-E0011",
+        "mikey-youtube-live-017-K010"
+      ],
+      "required_evidence": "连续音画与编辑审查",
+      "owner": "editorial-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-017-E0011-R050",
+          "youtube_url": "https://www.youtube.com/watch?v=m9UNQmf2Sf8&t=8233s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "major",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-017-R013",
+      "source_id": "mikey-youtube-live-017",
+      "start": 9200,
+      "end": 9800,
+      "type": "objectification_and_game_endings",
+      "severity": "blocking",
+      "question": "真话游戏、物化评论与多个结局交错；不得把角色选择及结局当作现实因果。",
+      "affected_ids": [
+        "mikey-youtube-live-017-E0012"
+      ],
+      "required_evidence": "连续音画、角色归属和章节顺序复核",
+      "owner": "audio-visual-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-017-E0012-R116",
+          "youtube_url": "https://www.youtube.com/watch?v=m9UNQmf2Sf8&t=9609s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "blocking",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-017-R014",
+      "source_id": "mikey-youtube-live-017",
+      "start": 9800,
+      "end": 10583,
+      "type": "self_report_revenge_and_coercion",
+      "severity": "blocking",
+      "question": "‘曾像男主’自述周围夹杂复仇、通过性或诱导投资拿回钱的危险表达；须逐句确认归属并全部隔离危险做法。",
+      "affected_ids": [
+        "mikey-youtube-live-017-E0013"
+      ],
+      "required_evidence": "连续音画、说话人和安全审查",
+      "owner": "safety-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-017-E0013-R026",
+          "youtube_url": "https://www.youtube.com/watch?v=m9UNQmf2Sf8&t=9917s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "blocking",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-017-R015",
+      "source_id": "mikey-youtube-live-017",
+      "start": 10480,
+      "end": 10583,
+      "type": "phone_call_control_and_asset_impression",
+      "severity": "major",
+      "question": "不质问电话、吃好离开的评论同时带控制和资产印象框架，不能简化为成熟沟通范本。",
+      "affected_ids": [
+        "mikey-youtube-live-017-E0013"
+      ],
+      "required_evidence": "完整上下文与编辑审查",
+      "owner": "editorial-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-017-E0013-R175",
+          "youtube_url": "https://www.youtube.com/watch?v=m9UNQmf2Sf8&t=10480s"
+        }
+      ],
+      "original_recording_dependency": true,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_original_dependent_evidence_preserved",
+      "evidence_state": "full_audio_archive_plus_target_video_or_existing_frames_required",
+      "candidate_status": "open",
+      "candidate_severity": "major",
+      "delete_readiness_note": ""
+    },
+    {
+      "id": "mikey-youtube-live-017-R016",
+      "source_id": "mikey-youtube-live-017",
+      "start": 26,
+      "end": 10696,
+      "type": "asr_and_visual_limit",
+      "severity": "major",
+      "question": "完整自动稿未逐句听校；人物、否定词、金额、游戏字幕、选项结果及歌曲内容可能有误。",
+      "affected_ids": [
+        "mikey-youtube-live-017-E0001",
+        "mikey-youtube-live-017-E0014"
+      ],
+      "required_evidence": "重点原音、连续音画和屏幕文字复核",
+      "owner": "audio-visual-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-017-E0001-R001",
+          "youtube_url": "https://www.youtube.com/watch?v=m9UNQmf2Sf8&t=26s"
+        }
+      ],
+      "original_recording_dependency": true,
+      "continuous_visual_dependency": true,
+      "delete_disposition": "open_original_dependent_evidence_preserved",
+      "evidence_state": "full_audio_archive_plus_target_video_or_existing_frames_required",
+      "candidate_status": "open",
+      "candidate_severity": "major",
+      "delete_readiness_note": ""
+    },
+    {
+      "id": "mikey-youtube-live-018-R001",
+      "source_id": "mikey-youtube-live-018",
+      "start": 23.92,
+      "end": 277.58,
+      "type": "gameplay_speaker_attribution",
+      "severity": "major",
+      "question": "开场、回顾上一期并恢复游戏进度内保守标为uncertain_overlap的SID，哪些可由连续音画进一步细分为游戏角色、旁白、主播朗读、观众文字或Mikey评论？",
+      "affected_ids": [
+        "mikey-youtube-live-018-E0001"
+      ],
+      "required_evidence": "连续播放原片，结合Mikey小窗嘴型、游戏字幕出现顺序、音色和相邻上下文逐句核验",
+      "owner": "audio-visual-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-018-E0001-R001",
+          "youtube_url": "https://www.youtube.com/watch?v=RQ9O4As_1A0&t=23s"
+        }
+      ],
+      "original_recording_dependency": true,
+      "continuous_visual_dependency": true,
+      "delete_disposition": "open_original_dependent_evidence_preserved",
+      "evidence_state": "full_audio_archive_plus_target_video_or_existing_frames_required",
+      "candidate_status": "open",
+      "candidate_severity": "major",
+      "delete_readiness_note": ""
+    },
+    {
+      "id": "mikey-youtube-live-018-R002",
+      "source_id": "mikey-youtube-live-018",
+      "start": 277.58,
+      "end": 802.87,
+      "type": "gameplay_speaker_attribution",
+      "severity": "major",
+      "question": "剧情继续：争吵、角色死亡与后续对话内保守标为uncertain_overlap的SID，哪些可由连续音画进一步细分为游戏角色、旁白、主播朗读、观众文字或Mikey评论？",
+      "affected_ids": [
+        "mikey-youtube-live-018-E0002"
+      ],
+      "required_evidence": "连续播放原片，结合Mikey小窗嘴型、游戏字幕出现顺序、音色和相邻上下文逐句核验",
+      "owner": "audio-visual-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-018-E0002-R001",
+          "youtube_url": "https://www.youtube.com/watch?v=RQ9O4As_1A0&t=277s"
+        }
+      ],
+      "original_recording_dependency": true,
+      "continuous_visual_dependency": true,
+      "delete_disposition": "open_original_dependent_evidence_preserved",
+      "evidence_state": "full_audio_archive_plus_target_video_or_existing_frames_required",
+      "candidate_status": "open",
+      "candidate_severity": "major",
+      "delete_readiness_note": ""
+    },
+    {
+      "id": "mikey-youtube-live-018-R003",
+      "source_id": "mikey-youtube-live-018",
+      "start": 802.87,
+      "end": 1274.46,
+      "type": "gameplay_speaker_attribution",
+      "severity": "major",
+      "question": "宴会冲突：指控、选择与被殴打剧情内保守标为uncertain_overlap的SID，哪些可由连续音画进一步细分为游戏角色、旁白、主播朗读、观众文字或Mikey评论？",
+      "affected_ids": [
+        "mikey-youtube-live-018-E0003"
+      ],
+      "required_evidence": "连续播放原片，结合Mikey小窗嘴型、游戏字幕出现顺序、音色和相邻上下文逐句核验",
+      "owner": "audio-visual-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-018-E0003-R001",
+          "youtube_url": "https://www.youtube.com/watch?v=RQ9O4As_1A0&t=802s"
+        }
+      ],
+      "original_recording_dependency": true,
+      "continuous_visual_dependency": true,
+      "delete_disposition": "open_original_dependent_evidence_preserved",
+      "evidence_state": "full_audio_archive_plus_target_video_or_existing_frames_required",
+      "candidate_status": "open",
+      "candidate_severity": "major",
+      "delete_readiness_note": ""
+    },
+    {
+      "id": "mikey-youtube-live-018-R004",
+      "source_id": "mikey-youtube-live-018",
+      "start": 1274.46,
+      "end": 1612.35,
+      "type": "gameplay_speaker_attribution",
+      "severity": "major",
+      "question": "现实追问：被打是否还手；随后离席与剧情过渡内保守标为uncertain_overlap的SID，哪些可由连续音画进一步细分为游戏角色、旁白、主播朗读、观众文字或Mikey评论？",
+      "affected_ids": [
+        "mikey-youtube-live-018-E0004"
+      ],
+      "required_evidence": "连续播放原片，结合Mikey小窗嘴型、游戏字幕出现顺序、音色和相邻上下文逐句核验",
+      "owner": "audio-visual-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-018-E0004-R001",
+          "youtube_url": "https://www.youtube.com/watch?v=RQ9O4As_1A0&t=1274s"
+        }
+      ],
+      "original_recording_dependency": true,
+      "continuous_visual_dependency": true,
+      "delete_disposition": "open_original_dependent_evidence_preserved",
+      "evidence_state": "full_audio_archive_plus_target_video_or_existing_frames_required",
+      "candidate_status": "open",
+      "candidate_severity": "major",
+      "delete_readiness_note": ""
+    },
+    {
+      "id": "mikey-youtube-live-018-R005",
+      "source_id": "mikey-youtube-live-018",
+      "start": 1612.35,
+      "end": 2182.41,
+      "type": "gameplay_speaker_attribution",
+      "severity": "major",
+      "question": "舆论谈判、投资条件与边界试探解读内保守标为uncertain_overlap的SID，哪些可由连续音画进一步细分为游戏角色、旁白、主播朗读、观众文字或Mikey评论？",
+      "affected_ids": [
+        "mikey-youtube-live-018-E0005"
+      ],
+      "required_evidence": "连续播放原片，结合Mikey小窗嘴型、游戏字幕出现顺序、音色和相邻上下文逐句核验",
+      "owner": "audio-visual-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-018-E0005-R001",
+          "youtube_url": "https://www.youtube.com/watch?v=RQ9O4As_1A0&t=1612s"
+        }
+      ],
+      "original_recording_dependency": true,
+      "continuous_visual_dependency": true,
+      "delete_disposition": "open_original_dependent_evidence_preserved",
+      "evidence_state": "full_audio_archive_plus_target_video_or_existing_frames_required",
+      "candidate_status": "open",
+      "candidate_severity": "major",
+      "delete_readiness_note": ""
+    },
+    {
+      "id": "mikey-youtube-live-018-R006",
+      "source_id": "mikey-youtube-live-018",
+      "start": 2182.41,
+      "end": 2740.58,
+      "type": "gameplay_speaker_attribution",
+      "severity": "major",
+      "question": "潜入‘变凤凰’、学员筛选与自信选择内保守标为uncertain_overlap的SID，哪些可由连续音画进一步细分为游戏角色、旁白、主播朗读、观众文字或Mikey评论？",
+      "affected_ids": [
+        "mikey-youtube-live-018-E0006"
+      ],
+      "required_evidence": "连续播放原片，结合Mikey小窗嘴型、游戏字幕出现顺序、音色和相邻上下文逐句核验",
+      "owner": "audio-visual-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-018-E0006-R001",
+          "youtube_url": "https://www.youtube.com/watch?v=RQ9O4As_1A0&t=2182s"
+        }
+      ],
+      "original_recording_dependency": true,
+      "continuous_visual_dependency": true,
+      "delete_disposition": "open_original_dependent_evidence_preserved",
+      "evidence_state": "full_audio_archive_plus_target_video_or_existing_frames_required",
+      "candidate_status": "open",
+      "candidate_severity": "major",
+      "delete_readiness_note": ""
+    },
+    {
+      "id": "mikey-youtube-live-018-R007",
+      "source_id": "mikey-youtube-live-018",
+      "start": 2740.58,
+      "end": 3156.43,
+      "type": "gameplay_speaker_attribution",
+      "severity": "major",
+      "question": "屏幕测试题：社交、约会与资源选择内保守标为uncertain_overlap的SID，哪些可由连续音画进一步细分为游戏角色、旁白、主播朗读、观众文字或Mikey评论？",
+      "affected_ids": [
+        "mikey-youtube-live-018-E0007"
+      ],
+      "required_evidence": "连续播放原片，结合Mikey小窗嘴型、游戏字幕出现顺序、音色和相邻上下文逐句核验",
+      "owner": "audio-visual-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-018-E0007-R001",
+          "youtube_url": "https://www.youtube.com/watch?v=RQ9O4As_1A0&t=2740s"
+        }
+      ],
+      "original_recording_dependency": true,
+      "continuous_visual_dependency": true,
+      "delete_disposition": "open_original_dependent_evidence_preserved",
+      "evidence_state": "full_audio_archive_plus_target_video_or_existing_frames_required",
+      "candidate_status": "open",
+      "candidate_severity": "major",
+      "delete_readiness_note": ""
+    },
+    {
+      "id": "mikey-youtube-live-018-R008",
+      "source_id": "mikey-youtube-live-018",
+      "start": 3156.43,
+      "end": 4091.07,
+      "type": "gameplay_speaker_attribution",
+      "severity": "major",
+      "question": "宋诗奇路线启动、选择失误与首次回档内保守标为uncertain_overlap的SID，哪些可由连续音画进一步细分为游戏角色、旁白、主播朗读、观众文字或Mikey评论？",
+      "affected_ids": [
+        "mikey-youtube-live-018-E0008"
+      ],
+      "required_evidence": "连续播放原片，结合Mikey小窗嘴型、游戏字幕出现顺序、音色和相邻上下文逐句核验",
+      "owner": "audio-visual-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-018-E0008-R001",
+          "youtube_url": "https://www.youtube.com/watch?v=RQ9O4As_1A0&t=3156s"
+        }
+      ],
+      "original_recording_dependency": true,
+      "continuous_visual_dependency": true,
+      "delete_disposition": "open_original_dependent_evidence_preserved",
+      "evidence_state": "full_audio_archive_plus_target_video_or_existing_frames_required",
+      "candidate_status": "open",
+      "candidate_severity": "major",
+      "delete_readiness_note": ""
+    },
+    {
+      "id": "mikey-youtube-live-018-R009",
+      "source_id": "mikey-youtube-live-018",
+      "start": 4091.07,
+      "end": 5020.8,
+      "type": "gameplay_speaker_attribution",
+      "severity": "major",
+      "question": "多次回档：重走宴会、质问与分班路线内保守标为uncertain_overlap的SID，哪些可由连续音画进一步细分为游戏角色、旁白、主播朗读、观众文字或Mikey评论？",
+      "affected_ids": [
+        "mikey-youtube-live-018-E0009"
+      ],
+      "required_evidence": "连续播放原片，结合Mikey小窗嘴型、游戏字幕出现顺序、音色和相邻上下文逐句核验",
+      "owner": "audio-visual-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-018-E0009-R001",
+          "youtube_url": "https://www.youtube.com/watch?v=RQ9O4As_1A0&t=4091s"
+        }
+      ],
+      "original_recording_dependency": true,
+      "continuous_visual_dependency": true,
+      "delete_disposition": "open_original_dependent_evidence_preserved",
+      "evidence_state": "full_audio_archive_plus_target_video_or_existing_frames_required",
+      "candidate_status": "open",
+      "candidate_severity": "major",
+      "delete_readiness_note": ""
+    },
+    {
+      "id": "mikey-youtube-live-018-R010",
+      "source_id": "mikey-youtube-live-018",
+      "start": 5020.8,
+      "end": 6114.94,
+      "type": "gameplay_speaker_attribution",
+      "severity": "major",
+      "question": "重选人物路线并进入宋诗奇约会内保守标为uncertain_overlap的SID，哪些可由连续音画进一步细分为游戏角色、旁白、主播朗读、观众文字或Mikey评论？",
+      "affected_ids": [
+        "mikey-youtube-live-018-E0010"
+      ],
+      "required_evidence": "连续播放原片，结合Mikey小窗嘴型、游戏字幕出现顺序、音色和相邻上下文逐句核验",
+      "owner": "audio-visual-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-018-E0010-R001",
+          "youtube_url": "https://www.youtube.com/watch?v=RQ9O4As_1A0&t=5020s"
+        }
+      ],
+      "original_recording_dependency": true,
+      "continuous_visual_dependency": true,
+      "delete_disposition": "open_original_dependent_evidence_preserved",
+      "evidence_state": "full_audio_archive_plus_target_video_or_existing_frames_required",
+      "candidate_status": "open",
+      "candidate_severity": "major",
+      "delete_readiness_note": ""
+    },
+    {
+      "id": "mikey-youtube-live-018-R011",
+      "source_id": "mikey-youtube-live-018",
+      "start": 6114.94,
+      "end": 6661.67,
+      "type": "gameplay_speaker_attribution",
+      "severity": "major",
+      "question": "宋诗奇约会：真诚、分寸与推进速度内保守标为uncertain_overlap的SID，哪些可由连续音画进一步细分为游戏角色、旁白、主播朗读、观众文字或Mikey评论？",
+      "affected_ids": [
+        "mikey-youtube-live-018-E0011"
+      ],
+      "required_evidence": "连续播放原片，结合Mikey小窗嘴型、游戏字幕出现顺序、音色和相邻上下文逐句核验",
+      "owner": "audio-visual-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-018-E0011-R001",
+          "youtube_url": "https://www.youtube.com/watch?v=RQ9O4As_1A0&t=6114s"
+        }
+      ],
+      "original_recording_dependency": true,
+      "continuous_visual_dependency": true,
+      "delete_disposition": "open_original_dependent_evidence_preserved",
+      "evidence_state": "full_audio_archive_plus_target_video_or_existing_frames_required",
+      "candidate_status": "open",
+      "candidate_severity": "major",
+      "delete_readiness_note": ""
+    },
+    {
+      "id": "mikey-youtube-live-018-R012",
+      "source_id": "mikey-youtube-live-018",
+      "start": 6661.67,
+      "end": 7361.55,
+      "type": "gameplay_speaker_attribution",
+      "severity": "major",
+      "question": "游戏通关逻辑与现实方法边界；文学电影对话内保守标为uncertain_overlap的SID，哪些可由连续音画进一步细分为游戏角色、旁白、主播朗读、观众文字或Mikey评论？",
+      "affected_ids": [
+        "mikey-youtube-live-018-E0012"
+      ],
+      "required_evidence": "连续播放原片，结合Mikey小窗嘴型、游戏字幕出现顺序、音色和相邻上下文逐句核验",
+      "owner": "audio-visual-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-018-E0012-R001",
+          "youtube_url": "https://www.youtube.com/watch?v=RQ9O4As_1A0&t=6661s"
+        }
+      ],
+      "original_recording_dependency": true,
+      "continuous_visual_dependency": true,
+      "delete_disposition": "open_original_dependent_evidence_preserved",
+      "evidence_state": "full_audio_archive_plus_target_video_or_existing_frames_required",
+      "candidate_status": "open",
+      "candidate_severity": "major",
+      "delete_readiness_note": ""
+    },
+    {
+      "id": "mikey-youtube-live-018-R013",
+      "source_id": "mikey-youtube-live-018",
+      "start": 7361.55,
+      "end": 8121.84,
+      "type": "gameplay_speaker_attribution",
+      "severity": "major",
+      "question": "宋诗奇路线收束：技巧差异、基金与惩罚尺度内保守标为uncertain_overlap的SID，哪些可由连续音画进一步细分为游戏角色、旁白、主播朗读、观众文字或Mikey评论？",
+      "affected_ids": [
+        "mikey-youtube-live-018-E0013"
+      ],
+      "required_evidence": "连续播放原片，结合Mikey小窗嘴型、游戏字幕出现顺序、音色和相邻上下文逐句核验",
+      "owner": "audio-visual-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-018-E0013-R001",
+          "youtube_url": "https://www.youtube.com/watch?v=RQ9O4As_1A0&t=7361s"
+        }
+      ],
+      "original_recording_dependency": true,
+      "continuous_visual_dependency": true,
+      "delete_disposition": "open_original_dependent_evidence_preserved",
+      "evidence_state": "full_audio_archive_plus_target_video_or_existing_frames_required",
+      "candidate_status": "open",
+      "candidate_severity": "major",
+      "delete_readiness_note": ""
+    },
+    {
+      "id": "mikey-youtube-live-018-R014",
+      "source_id": "mikey-youtube-live-018",
+      "start": 8121.84,
+      "end": 9071.75,
+      "type": "gameplay_speaker_attribution",
+      "severity": "major",
+      "question": "何月银路线：强硬对抗、控制与胁迫剧情内保守标为uncertain_overlap的SID，哪些可由连续音画进一步细分为游戏角色、旁白、主播朗读、观众文字或Mikey评论？",
+      "affected_ids": [
+        "mikey-youtube-live-018-E0014"
+      ],
+      "required_evidence": "连续播放原片，结合Mikey小窗嘴型、游戏字幕出现顺序、音色和相邻上下文逐句核验",
+      "owner": "audio-visual-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-018-E0014-R001",
+          "youtube_url": "https://www.youtube.com/watch?v=RQ9O4As_1A0&t=8121s"
+        }
+      ],
+      "original_recording_dependency": true,
+      "continuous_visual_dependency": true,
+      "delete_disposition": "open_original_dependent_evidence_preserved",
+      "evidence_state": "full_audio_archive_plus_target_video_or_existing_frames_required",
+      "candidate_status": "open",
+      "candidate_severity": "major",
+      "delete_readiness_note": ""
+    },
+    {
+      "id": "mikey-youtube-live-018-R015",
+      "source_id": "mikey-youtube-live-018",
+      "start": 9071.75,
+      "end": 9838.61,
+      "type": "gameplay_speaker_attribution",
+      "severity": "major",
+      "question": "何月银约会、攀岩与福利院转场内保守标为uncertain_overlap的SID，哪些可由连续音画进一步细分为游戏角色、旁白、主播朗读、观众文字或Mikey评论？",
+      "affected_ids": [
+        "mikey-youtube-live-018-E0015"
+      ],
+      "required_evidence": "连续播放原片，结合Mikey小窗嘴型、游戏字幕出现顺序、音色和相邻上下文逐句核验",
+      "owner": "audio-visual-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-018-E0015-R001",
+          "youtube_url": "https://www.youtube.com/watch?v=RQ9O4As_1A0&t=9071s"
+        }
+      ],
+      "original_recording_dependency": true,
+      "continuous_visual_dependency": true,
+      "delete_disposition": "open_original_dependent_evidence_preserved",
+      "evidence_state": "full_audio_archive_plus_target_video_or_existing_frames_required",
+      "candidate_status": "open",
+      "candidate_severity": "major",
+      "delete_readiness_note": ""
+    },
+    {
+      "id": "mikey-youtube-live-018-R016",
+      "source_id": "mikey-youtube-live-018",
+      "start": 9838.61,
+      "end": 10499.36,
+      "type": "gameplay_speaker_attribution",
+      "severity": "major",
+      "question": "福利院：关系定义、画作信息与慈善直播内保守标为uncertain_overlap的SID，哪些可由连续音画进一步细分为游戏角色、旁白、主播朗读、观众文字或Mikey评论？",
+      "affected_ids": [
+        "mikey-youtube-live-018-E0016"
+      ],
+      "required_evidence": "连续播放原片，结合Mikey小窗嘴型、游戏字幕出现顺序、音色和相邻上下文逐句核验",
+      "owner": "audio-visual-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-018-E0016-R001",
+          "youtube_url": "https://www.youtube.com/watch?v=RQ9O4As_1A0&t=9838s"
+        }
+      ],
+      "original_recording_dependency": true,
+      "continuous_visual_dependency": true,
+      "delete_disposition": "open_original_dependent_evidence_preserved",
+      "evidence_state": "full_audio_archive_plus_target_video_or_existing_frames_required",
+      "candidate_status": "open",
+      "candidate_severity": "major",
+      "delete_readiness_note": ""
+    },
+    {
+      "id": "mikey-youtube-live-018-R017",
+      "source_id": "mikey-youtube-live-018",
+      "start": 10499.36,
+      "end": 11567.26,
+      "type": "gameplay_speaker_attribution",
+      "severity": "major",
+      "question": "台风留宿、是否趁人之危与亲密剧情内保守标为uncertain_overlap的SID，哪些可由连续音画进一步细分为游戏角色、旁白、主播朗读、观众文字或Mikey评论？",
+      "affected_ids": [
+        "mikey-youtube-live-018-E0017"
+      ],
+      "required_evidence": "连续播放原片，结合Mikey小窗嘴型、游戏字幕出现顺序、音色和相邻上下文逐句核验",
+      "owner": "audio-visual-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-018-E0017-R001",
+          "youtube_url": "https://www.youtube.com/watch?v=RQ9O4As_1A0&t=10499s"
+        }
+      ],
+      "original_recording_dependency": true,
+      "continuous_visual_dependency": true,
+      "delete_disposition": "open_original_dependent_evidence_preserved",
+      "evidence_state": "full_audio_archive_plus_target_video_or_existing_frames_required",
+      "candidate_status": "open",
+      "candidate_severity": "major",
+      "delete_readiness_note": ""
+    },
+    {
+      "id": "mikey-youtube-live-018-R018",
+      "source_id": "mikey-youtube-live-018",
+      "start": 11567.26,
+      "end": 12281.44,
+      "type": "gameplay_speaker_attribution",
+      "severity": "major",
+      "question": "何月银结局、惩罚选择与最终Boss预告内保守标为uncertain_overlap的SID，哪些可由连续音画进一步细分为游戏角色、旁白、主播朗读、观众文字或Mikey评论？",
+      "affected_ids": [
+        "mikey-youtube-live-018-E0018"
+      ],
+      "required_evidence": "连续播放原片，结合Mikey小窗嘴型、游戏字幕出现顺序、音色和相邻上下文逐句核验",
+      "owner": "audio-visual-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-018-E0018-R001",
+          "youtube_url": "https://www.youtube.com/watch?v=RQ9O4As_1A0&t=11567s"
+        }
+      ],
+      "original_recording_dependency": true,
+      "continuous_visual_dependency": true,
+      "delete_disposition": "open_original_dependent_evidence_preserved",
+      "evidence_state": "full_audio_archive_plus_target_video_or_existing_frames_required",
+      "candidate_status": "open",
+      "candidate_severity": "major",
+      "delete_readiness_note": ""
+    },
+    {
+      "id": "mikey-youtube-live-018-R019",
+      "source_id": "mikey-youtube-live-018",
+      "start": 12281.44,
+      "end": 12584.76,
+      "type": "gameplay_speaker_attribution",
+      "severity": "major",
+      "question": "潘梦娜登场预览与下播安排内保守标为uncertain_overlap的SID，哪些可由连续音画进一步细分为游戏角色、旁白、主播朗读、观众文字或Mikey评论？",
+      "affected_ids": [
+        "mikey-youtube-live-018-E0019"
+      ],
+      "required_evidence": "连续播放原片，结合Mikey小窗嘴型、游戏字幕出现顺序、音色和相邻上下文逐句核验",
+      "owner": "audio-visual-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-018-E0019-R001",
+          "youtube_url": "https://www.youtube.com/watch?v=RQ9O4As_1A0&t=12281s"
+        }
+      ],
+      "original_recording_dependency": true,
+      "continuous_visual_dependency": true,
+      "delete_disposition": "open_original_dependent_evidence_preserved",
+      "evidence_state": "full_audio_archive_plus_target_video_or_existing_frames_required",
+      "candidate_status": "open",
+      "candidate_severity": "major",
+      "delete_readiness_note": ""
+    },
+    {
+      "id": "mikey-youtube-live-018-R020",
+      "source_id": "mikey-youtube-live-018",
+      "start": 1286.28,
+      "end": 1382.62,
+      "type": "harm_and_self_defense_boundary",
+      "severity": "blocking",
+      "question": "还手、自卫、平权平责与体格差异的表述如何保留完整限制，避免变成鼓励报复或家暴？",
+      "affected_ids": [
+        "mikey-youtube-live-018-E0004",
+        "mikey-youtube-live-018-K001"
+      ],
+      "required_evidence": "原音核验并按必要性、即时性、比例性做编辑边界审查",
+      "owner": "audio-and-editorial-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-018-E0004-R022",
+          "youtube_url": "https://www.youtube.com/watch?v=RQ9O4As_1A0&t=1313s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "blocking",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-018-R021",
+      "source_id": "mikey-youtube-live-018",
+      "start": 1991.07,
+      "end": 2052.66,
+      "type": "gender_generalization",
+      "severity": "blocking",
+      "question": "把玩手机解释为试探、用战争类比划边界及‘女人很喜欢’的普遍化说法，哪些只能作为人物观点保留？",
+      "affected_ids": [
+        "mikey-youtube-live-018-E0005",
+        "mikey-youtube-live-018-K002"
+      ],
+      "required_evidence": "原音核验、跨来源比对和编辑边界审查",
+      "owner": "cross-source-and-editorial-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-018-E0005-R130",
+          "youtube_url": "https://www.youtube.com/watch?v=RQ9O4As_1A0&t=2013s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "blocking",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-018-R022",
+      "source_id": "mikey-youtube-live-018",
+      "start": 11522.0,
+      "end": 11939.2,
+      "type": "coercion_and_violence_gameplay",
+      "severity": "blocking",
+      "question": "何月银结局中的胁迫、羞辱、惩罚和暴力措辞哪些只是游戏角色/主播情绪化评论，均不得升级为现实建议？",
+      "affected_ids": [
+        "mikey-youtube-live-018-E0018"
+      ],
+      "required_evidence": "连续音画核验并保持do-not-generalize边界",
+      "owner": "audio-visual-and-editorial-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-018-E0018-R040",
+          "youtube_url": "https://www.youtube.com/watch?v=RQ9O4As_1A0&t=11750s"
+        }
+      ],
+      "original_recording_dependency": true,
+      "continuous_visual_dependency": true,
+      "delete_disposition": "open_original_dependent_evidence_preserved",
+      "evidence_state": "full_audio_archive_plus_target_video_or_existing_frames_required",
+      "candidate_status": "open",
+      "candidate_severity": "blocking",
+      "delete_readiness_note": ""
+    },
+    {
+      "id": "mikey-youtube-live-018-R023",
+      "source_id": "mikey-youtube-live-018",
+      "start": 23.92,
+      "end": 12584.8,
+      "type": "asr_and_screen_text",
+      "severity": "major",
+      "question": "人物名、选项、否定词、好感度、金额及屏幕剧情树存在大量近音和漏字，哪些会改变路线解释或观点方向？",
+      "affected_ids": [
+        "mikey-youtube-live-018-E0001",
+        "mikey-youtube-live-018-E0002",
+        "mikey-youtube-live-018-E0003",
+        "mikey-youtube-live-018-E0004",
+        "mikey-youtube-live-018-E0005",
+        "mikey-youtube-live-018-E0006",
+        "mikey-youtube-live-018-E0007",
+        "mikey-youtube-live-018-E0008",
+        "mikey-youtube-live-018-E0009",
+        "mikey-youtube-live-018-E0010",
+        "mikey-youtube-live-018-E0011",
+        "mikey-youtube-live-018-E0012",
+        "mikey-youtube-live-018-E0013",
+        "mikey-youtube-live-018-E0014",
+        "mikey-youtube-live-018-E0015",
+        "mikey-youtube-live-018-E0016",
+        "mikey-youtube-live-018-E0017",
+        "mikey-youtube-live-018-E0018",
+        "mikey-youtube-live-018-E0019",
+        "mikey-youtube-live-018-K001",
+        "mikey-youtube-live-018-K002",
+        "mikey-youtube-live-018-K003",
+        "mikey-youtube-live-018-K004",
+        "mikey-youtube-live-018-K005",
+        "mikey-youtube-live-018-K006",
+        "mikey-youtube-live-018-K007",
+        "mikey-youtube-live-018-K008",
+        "mikey-youtube-live-018-K009"
+      ],
+      "required_evidence": "原音听校加原分辨率屏幕截图核对，优先核验知识引用窗口",
+      "owner": "audio-visual-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-018-E0012-R021",
+          "youtube_url": "https://www.youtube.com/watch?v=RQ9O4As_1A0&t=6741s"
+        }
+      ],
+      "original_recording_dependency": true,
+      "continuous_visual_dependency": true,
+      "delete_disposition": "open_original_dependent_evidence_preserved",
+      "evidence_state": "full_audio_archive_plus_target_video_or_existing_frames_required",
+      "candidate_status": "open",
+      "candidate_severity": "major",
+      "delete_readiness_note": ""
+    },
+    {
+      "id": "mikey-youtube-live-019-R001",
+      "source_id": "mikey-youtube-live-019",
+      "start": 230,
+      "end": 360,
+      "type": "gender_class_stereotype",
+      "severity": "major",
+      "question": "对‘捞女’、富家女及不同成长环境的分类是否过度概括并可能造成工具化判断？",
+      "affected_ids": [
+        "mikey-youtube-live-019-E0001"
+      ],
+      "required_evidence": "编辑与跨来源审查",
+      "owner": "editorial-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-019-E0001-R094",
+          "youtube_url": "https://www.youtube.com/watch?v=Mkg_9tSudJY&t=268s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "major",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-019-R002",
+      "source_id": "mikey-youtube-live-019",
+      "start": 760,
+      "end": 920,
+      "type": "mental_health_claim",
+      "severity": "major",
+      "question": "情绪像水流走、自我价值解释是否被误作临床心理结论？",
+      "affected_ids": [
+        "mikey-youtube-live-019-E0003",
+        "mikey-youtube-live-019-K003"
+      ],
+      "required_evidence": "心理健康边界审查",
+      "owner": "safety-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-019-E0003-R007",
+          "youtube_url": "https://www.youtube.com/watch?v=Mkg_9tSudJY&t=586s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "major",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-019-R003",
+      "source_id": "mikey-youtube-live-019",
+      "start": 920,
+      "end": 1400,
+      "type": "self_worth_and_suicide",
+      "severity": "blocking",
+      "question": "以张国荣自杀说明主观价值感，是否构成未经证实的抑郁和自杀病因简化？",
+      "affected_ids": [
+        "mikey-youtube-live-019-E0004",
+        "mikey-youtube-live-019-E0005"
+      ],
+      "required_evidence": "事实与心理健康审查",
+      "owner": "safety-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-019-E0005-R081",
+          "youtube_url": "https://www.youtube.com/watch?v=Mkg_9tSudJY&t=1331s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "blocking",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-019-R004",
+      "source_id": "mikey-youtube-live-019",
+      "start": 1600,
+      "end": 1900,
+      "type": "self_reported_case",
+      "severity": "major",
+      "question": "每日实战、约会频率和不拍摄原因均为自述，不能作为独立效果证据。",
+      "affected_ids": [
+        "mikey-youtube-live-019-E0006"
+      ],
+      "required_evidence": "其他来源与原片核验",
+      "owner": "source-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-019-E0006-R010",
+          "youtube_url": "https://www.youtube.com/watch?v=Mkg_9tSudJY&t=1634s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "major",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-019-R005",
+      "source_id": "mikey-youtube-live-019",
+      "start": 2240,
+      "end": 2260,
+      "type": "speaker_attribution",
+      "severity": "blocking",
+      "question": "S00699–S00710含场外女性短句与Mikey讲话，需连续音画确认每句归属。",
+      "affected_ids": [
+        "mikey-youtube-live-019-E0007"
+      ],
+      "required_evidence": "连续音画与原音",
+      "owner": "audio-visual-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-019-E0007-R018",
+          "youtube_url": "https://www.youtube.com/watch?v=Mkg_9tSudJY&t=2300s"
+        }
+      ],
+      "original_recording_dependency": true,
+      "continuous_visual_dependency": true,
+      "delete_disposition": "open_original_dependent_evidence_preserved",
+      "evidence_state": "full_audio_archive_plus_target_video_or_existing_frames_required",
+      "candidate_status": "open",
+      "candidate_severity": "blocking",
+      "delete_readiness_note": ""
+    },
+    {
+      "id": "mikey-youtube-live-019-R006",
+      "source_id": "mikey-youtube-live-019",
+      "start": 2470,
+      "end": 2700,
+      "type": "management_generalization",
+      "severity": "major",
+      "question": "由两个团队经历推出严肃管理框架，是否忽略组织和角色差异？",
+      "affected_ids": [
+        "mikey-youtube-live-019-E0008",
+        "mikey-youtube-live-019-K006"
+      ],
+      "required_evidence": "情境化编辑审查",
+      "owner": "editorial-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-019-E0008-R033",
+          "youtube_url": "https://www.youtube.com/watch?v=Mkg_9tSudJY&t=2523s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "major",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-019-R007",
+      "source_id": "mikey-youtube-live-019",
+      "start": 3260,
+      "end": 3340,
+      "type": "medical_advice",
+      "severity": "blocking",
+      "question": "痘痘治疗与公私立医院动机判断是否越过医疗建议边界？",
+      "affected_ids": [
+        "mikey-youtube-live-019-E0011"
+      ],
+      "required_evidence": "医疗事实与安全审查",
+      "owner": "safety-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-019-E0011-R002",
+          "youtube_url": "https://www.youtube.com/watch?v=Mkg_9tSudJY&t=3245s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "blocking",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-019-R008",
+      "source_id": "mikey-youtube-live-019",
+      "start": 3340,
+      "end": 3450,
+      "type": "race_and_gender_generalization",
+      "severity": "blocking",
+      "question": "用非洲男性与亚洲女性的夜店观察支持肤色/自信结论，涉及种族和性别刻板化且未核实。",
+      "affected_ids": [
+        "mikey-youtube-live-019-E0011"
+      ],
+      "required_evidence": "事实与偏见审查",
+      "owner": "editorial-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-019-E0011-R031",
+          "youtube_url": "https://www.youtube.com/watch?v=Mkg_9tSudJY&t=3312s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "blocking",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-019-R009",
+      "source_id": "mikey-youtube-live-019",
+      "start": 3520,
+      "end": 3780,
+      "type": "expectation_absolutism",
+      "severity": "major",
+      "question": "‘预期高百害无一利’是否应收窄为对不可控结果的执着，而非否定目标和计划？",
+      "affected_ids": [
+        "mikey-youtube-live-019-E0012",
+        "mikey-youtube-live-019-K011"
+      ],
+      "required_evidence": "语义与跨来源审查",
+      "owner": "cross-source-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-019-E0012-R043",
+          "youtube_url": "https://www.youtube.com/watch?v=Mkg_9tSudJY&t=3630s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "major",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-019-R010",
+      "source_id": "mikey-youtube-live-019",
+      "start": 35,
+      "end": 4074,
+      "type": "asr_and_attribution",
+      "severity": "major",
+      "question": "完整自动稿未逐句听校；否定词、数字、观众代读和短暂场外声音是否准确？",
+      "affected_ids": [
+        "mikey-youtube-live-019-E0001",
+        "mikey-youtube-live-019-E0014"
+      ],
+      "required_evidence": "重点原音与连续音画抽查",
+      "owner": "audio-visual-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-019-E0014-R040",
+          "youtube_url": "https://www.youtube.com/watch?v=Mkg_9tSudJY&t=4069s"
+        }
+      ],
+      "original_recording_dependency": true,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_original_dependent_evidence_preserved",
+      "evidence_state": "full_audio_archive_plus_target_video_or_existing_frames_required",
+      "candidate_status": "open",
+      "candidate_severity": "major",
+      "delete_readiness_note": ""
+    },
+    {
+      "id": "mikey-youtube-live-020-R001",
+      "source_id": "mikey-youtube-live-020",
+      "start": 24,
+      "end": 300,
+      "type": "breakup_and_mental_health",
+      "severity": "major",
+      "question": "把分手痛苦完全归因于抗拒、用更好看下一任覆盖失落，是否忽略哀伤和专业支持？",
+      "affected_ids": [
+        "mikey-youtube-live-020-E0001",
+        "mikey-youtube-live-020-K001"
+      ],
+      "required_evidence": "心理健康边界审查",
+      "owner": "safety-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-020-E0001-R020",
+          "youtube_url": "https://www.youtube.com/watch?v=0rVKemT02iA&t=108s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "major",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-020-R002",
+      "source_id": "mikey-youtube-live-020",
+      "start": 300,
+      "end": 660,
+      "type": "unsupported_case_and_gender_stereotype",
+      "severity": "blocking",
+      "question": "对提问者关系编造‘渣男—性行为—回去找前任’剧情，并泛化成都女性有小心机，无证据且污名化。",
+      "affected_ids": [
+        "mikey-youtube-live-020-E0002"
+      ],
+      "required_evidence": "事实与编辑审查",
+      "owner": "editorial-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-020-E0002-R014",
+          "youtube_url": "https://www.youtube.com/watch?v=0rVKemT02iA&t=345s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "blocking",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-020-R003",
+      "source_id": "mikey-youtube-live-020",
+      "start": 660,
+      "end": 900,
+      "type": "emotional_manipulation",
+      "severity": "blocking",
+      "question": "故意让女性难过、再安抚以制造吸引属于操控，不得进入建议。",
+      "affected_ids": [
+        "mikey-youtube-live-020-E0003"
+      ],
+      "required_evidence": "同意与操控边界审查",
+      "owner": "safety-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-020-E0003-R040",
+          "youtube_url": "https://www.youtube.com/watch?v=0rVKemT02iA&t=715s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "blocking",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-020-R004",
+      "source_id": "mikey-youtube-live-020",
+      "start": 760,
+      "end": 930,
+      "type": "deception_and_sexual_reconciliation",
+      "severity": "blocking",
+      "question": "建议隐瞒与其他女性聊天、把性行为作为复合路径，涉及欺骗与同意边界。",
+      "affected_ids": [
+        "mikey-youtube-live-020-E0003"
+      ],
+      "required_evidence": "同意与关系诚实审查",
+      "owner": "safety-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-020-E0003-R079",
+          "youtube_url": "https://www.youtube.com/watch?v=0rVKemT02iA&t=774s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "blocking",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-020-R005",
+      "source_id": "mikey-youtube-live-020",
+      "start": 950,
+      "end": 1120,
+      "type": "course_privacy_and_promotion",
+      "severity": "major",
+      "question": "学员约会录音是否取得对方知情同意，课程效果是否仅为宣传自述？",
+      "affected_ids": [
+        "mikey-youtube-live-020-E0004",
+        "mikey-youtube-live-020-K004"
+      ],
+      "required_evidence": "隐私与来源审查",
+      "owner": "privacy-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-020-E0004-R050",
+          "youtube_url": "https://www.youtube.com/watch?v=0rVKemT02iA&t=1084s"
+        }
+      ],
+      "original_recording_dependency": true,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_original_dependent_evidence_preserved",
+      "evidence_state": "full_audio_archive_plus_target_video_or_existing_frames_required",
+      "candidate_status": "open",
+      "candidate_severity": "major",
+      "delete_readiness_note": ""
+    },
+    {
+      "id": "mikey-youtube-live-020-R006",
+      "source_id": "mikey-youtube-live-020",
+      "start": 1120,
+      "end": 1660,
+      "type": "misogyny_and_gender_claims",
+      "severity": "blocking",
+      "question": "女性只能提供性/情绪价值、普遍索取等表述是贬低和本质化，不得作为Mikey确定建议。",
+      "affected_ids": [
+        "mikey-youtube-live-020-E0005",
+        "mikey-youtube-live-020-E0006"
+      ],
+      "required_evidence": "编辑与偏见审查",
+      "owner": "editorial-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-020-E0005-R021",
+          "youtube_url": "https://www.youtube.com/watch?v=0rVKemT02iA&t=1188s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "blocking",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-020-R007",
+      "source_id": "mikey-youtube-live-020",
+      "start": 1660,
+      "end": 1840,
+      "type": "consent_and_minor_boundary",
+      "severity": "blocking",
+      "question": "对方明确说没感觉/不愿意应停止；70/30责任比例、未来只约18岁女大学生涉及无依据归责和年龄/权力风险。",
+      "affected_ids": [
+        "mikey-youtube-live-020-E0007"
+      ],
+      "required_evidence": "同意、年龄和事实审查",
+      "owner": "safety-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-020-E0007-R011",
+          "youtube_url": "https://www.youtube.com/watch?v=0rVKemT02iA&t=1654s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "blocking",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-020-R008",
+      "source_id": "mikey-youtube-live-020",
+      "start": 1900,
+      "end": 2250,
+      "type": "asd_and_consent",
+      "severity": "blocking",
+      "question": "故意触发所谓ASD、在拒绝转场或拒绝性行为后‘搞定/带走’是否越过拒绝和持续同意？",
+      "affected_ids": [
+        "mikey-youtube-live-020-E0008"
+      ],
+      "required_evidence": "连续音画、原音与持续同意审查",
+      "owner": "safety-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-020-E0008-R047",
+          "youtube_url": "https://www.youtube.com/watch?v=0rVKemT02iA&t=1980s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "blocking",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-020-R009",
+      "source_id": "mikey-youtube-live-020",
+      "start": 2320,
+      "end": 2430,
+      "type": "offline_contact_after_delete",
+      "severity": "blocking",
+      "question": "被删除后按已知地点线下找人可能构成骚扰；必须以拒绝即停止和不追踪覆盖。",
+      "affected_ids": [
+        "mikey-youtube-live-020-E0009"
+      ],
+      "required_evidence": "法律与边界审查",
+      "owner": "safety-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-020-E0009-R043",
+          "youtube_url": "https://www.youtube.com/watch?v=0rVKemT02iA&t=2382s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "blocking",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-020-R010",
+      "source_id": "mikey-youtube-live-020",
+      "start": 2620,
+      "end": 2910,
+      "type": "speaker_attribution",
+      "severity": "blocking",
+      "question": "S01039–S01099电话播放混合远程女性、原通话Mikey与直播评论，需逐句连续原音归属。",
+      "affected_ids": [
+        "mikey-youtube-live-020-E0011"
+      ],
+      "required_evidence": "连续音画与原音",
+      "owner": "audio-visual-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-020-E0011-R001",
+          "youtube_url": "https://www.youtube.com/watch?v=0rVKemT02iA&t=2621s"
+        }
+      ],
+      "original_recording_dependency": true,
+      "continuous_visual_dependency": true,
+      "delete_disposition": "open_original_dependent_evidence_preserved",
+      "evidence_state": "full_audio_archive_plus_target_video_or_existing_frames_required",
+      "candidate_status": "open",
+      "candidate_severity": "blocking",
+      "delete_readiness_note": ""
+    },
+    {
+      "id": "mikey-youtube-live-020-R011",
+      "source_id": "mikey-youtube-live-020",
+      "start": 2700,
+      "end": 2920,
+      "type": "sexual_pressure_and_consent",
+      "severity": "blocking",
+      "question": "通话中露骨预告、‘不能就算了’和脱衣表述是否形成压力；不能把未来见面或暧昧当作性同意。",
+      "affected_ids": [
+        "mikey-youtube-live-020-E0011"
+      ],
+      "required_evidence": "逐句原音、语境与持续同意审查",
+      "owner": "safety-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-020-E0011-R024",
+          "youtube_url": "https://www.youtube.com/watch?v=0rVKemT02iA&t=2692s"
+        }
+      ],
+      "original_recording_dependency": false,
+      "continuous_visual_dependency": false,
+      "delete_disposition": "open_editorial_or_external",
+      "evidence_state": "transcript_and_existing_visual_material_sufficient_for_current_restriction",
+      "candidate_status": "open",
+      "candidate_severity": "blocking",
+      "delete_readiness_note": "This is an editorial, factual, legal, medical, consent, privacy, or generalization boundary; watching the same recording cannot by itself remove the restriction."
+    },
+    {
+      "id": "mikey-youtube-live-020-R012",
+      "source_id": "mikey-youtube-live-020",
+      "start": 3150,
+      "end": 3400,
+      "type": "privacy_and_case_result",
+      "severity": "blocking",
+      "question": "展示私密聊天截图、醉酒和到家叙述仅为单方自述，且含昵称/消息隐私，不能保存为结果证据。",
+      "affected_ids": [
+        "mikey-youtube-live-020-E0014"
+      ],
+      "required_evidence": "隐私、连续画面与事实核验",
+      "owner": "privacy-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-020-E0014-R013",
+          "youtube_url": "https://www.youtube.com/watch?v=0rVKemT02iA&t=3432s"
+        }
+      ],
+      "original_recording_dependency": true,
+      "continuous_visual_dependency": true,
+      "delete_disposition": "open_original_dependent_evidence_preserved",
+      "evidence_state": "full_audio_archive_plus_target_video_or_existing_frames_required",
+      "candidate_status": "open",
+      "candidate_severity": "blocking",
+      "delete_readiness_note": ""
+    },
+    {
+      "id": "mikey-youtube-live-020-R013",
+      "source_id": "mikey-youtube-live-020",
+      "start": 24,
+      "end": 4009,
+      "type": "asr_and_speaker_limit",
+      "severity": "major",
+      "question": "完整自动稿未逐句听校；观众代读、电话播放、否定词、数字和露骨句是否准确？",
+      "affected_ids": [
+        "mikey-youtube-live-020-E0001",
+        "mikey-youtube-live-020-E0017"
+      ],
+      "required_evidence": "重点原音与连续音画抽查",
+      "owner": "audio-visual-review",
+      "status": "open",
+      "evidence_refs": [
+        {
+          "evidence_id": "mikey-youtube-live-020-E0017-R022",
+          "youtube_url": "https://www.youtube.com/watch?v=0rVKemT02iA&t=4004s"
+        }
+      ],
+      "original_recording_dependency": true,
+      "continuous_visual_dependency": true,
+      "delete_disposition": "open_original_dependent_evidence_preserved",
+      "evidence_state": "full_audio_archive_plus_target_video_or_existing_frames_required",
+      "candidate_status": "open",
+      "candidate_severity": "major",
+      "delete_readiness_note": ""
+    }
+  ]
+}

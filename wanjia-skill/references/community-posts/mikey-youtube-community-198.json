@@ -1,0 +1,72 @@
+{
+  "schema_version": "mikey-community-post-fulltext-1.0",
+  "source_id": "mikey-youtube-community-198",
+  "post_id": "Ugkx9fT2slg25UM9XmDhQ7VDiUPzEqcMrqvc",
+  "url": "https://www.youtube.com/post/Ugkx9fT2slg25UM9XmDhQ7VDiUPzEqcMrqvc",
+  "published_at": "2026-09-07T23:15:00.202713-07:00",
+  "date_basis": "archived_public_observation",
+  "body": "哪怕清华本科也难逃苦主得命运…\n这种案例现在真得比比皆是，所以说能力有限，能帮一批是一批！\n\n我付出了🟰你欠我一个结果\n（国男的思维）",
+  "body_kind": "verbatim_or_as_archived_in_corrected_candidate",
+  "image_refs": [
+    {
+      "image_index": 1,
+      "research_archive_path": "research/youtube-community-batch1/images/Ugkx9fT2slg25UM9XmDhQ7VDiUPzEqcMrqvc/01.jpg",
+      "sha256": "ee859266b885405a54b5ad2bd5c4c3b2c6ec8ffc771ee976d4208156378a3519",
+      "bytes": 236827,
+      "formal_asset_policy": "reference_only_do_not_copy",
+      "safe_summary": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。"
+    },
+    {
+      "image_index": 2,
+      "research_archive_path": "research/youtube-community-batch1/images/Ugkx9fT2slg25UM9XmDhQ7VDiUPzEqcMrqvc/02.jpg",
+      "sha256": "a30f06af4c5ee0dd818372b2dad943a426a9f589f62f5debb0eb19d6596243cf",
+      "bytes": 222366,
+      "formal_asset_policy": "reference_only_do_not_copy",
+      "safe_summary": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。"
+    }
+  ],
+  "segments": [
+    {
+      "sid": "C0198-BODY",
+      "kind": "channel_body",
+      "text": "哪怕清华本科也难逃苦主得命运…\n这种案例现在真得比比皆是，所以说能力有限，能帮一批是一批！\n\n我付出了🟰你欠我一个结果\n（国男的思维）",
+      "verbatim_allowed": true,
+      "source_scope": "public_channel_body_as_archived"
+    },
+    {
+      "sid": "C0198-IMG01",
+      "kind": "image_reference_metadata",
+      "text": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。",
+      "verbatim_allowed": false,
+      "image_reference": {
+        "image_index": 1,
+        "research_archive_path": "research/youtube-community-batch1/images/Ugkx9fT2slg25UM9XmDhQ7VDiUPzEqcMrqvc/01.jpg",
+        "sha256": "ee859266b885405a54b5ad2bd5c4c3b2c6ec8ffc771ee976d4208156378a3519",
+        "bytes": 236827,
+        "formal_asset_policy": "reference_only_do_not_copy",
+        "safe_summary": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。"
+      }
+    },
+    {
+      "sid": "C0198-IMG02",
+      "kind": "image_reference_metadata",
+      "text": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。",
+      "verbatim_allowed": false,
+      "image_reference": {
+        "image_index": 2,
+        "research_archive_path": "research/youtube-community-batch1/images/Ugkx9fT2slg25UM9XmDhQ7VDiUPzEqcMrqvc/02.jpg",
+        "sha256": "a30f06af4c5ee0dd818372b2dad943a426a9f589f62f5debb0eb19d6596243cf",
+        "bytes": 222366,
+        "formal_asset_policy": "reference_only_do_not_copy",
+        "safe_summary": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。"
+      }
+    }
+  ],
+  "privacy_policy": {
+    "original_images_copied": false,
+    "raw_ocr_copied": false,
+    "private_chat_transcript_copied": false,
+    "third_party_identity_confirmed": false,
+    "publication_authorization_confirmed": false
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-live-refresh-001",
+  "youtube_id": "o1Auc_79NR8",
+  "decision": "new",
+  "compared_sources": [
+    {
+      "scope": "formal_mikey_guide",
+      "source_count": 202,
+      "comparison": "YouTube ID, URL/title identity and normalized full-transcript 16-character shingle screening across all 202 transcripts referenced by mikey-guide/references/source-index.json"
+    },
+    {
+      "scope": "same_case_prior_candidate",
+      "source_id": "mikey-youtube-video-003",
+      "youtube_id": "efyqkeWyhUw",
+      "title": "對不起，我愛上了別人的女朋友。這將是我最後一次使用禁忌之力",
+      "comparison": "normalized full transcript plus event-level comparison; this is the earlier case and the current source is a later follow-up"
+    },
+    {
+      "scope": "same_batch_other_available_source",
+      "source_id": "mikey-youtube-live-refresh-002",
+      "youtube_id": "dpwFz0FpGzU",
+      "title": "外賣頂級外圍女 事後問我要錢 我分幣不掏 白嫖兩次",
+      "comparison": "normalized full-transcript 16-character shingle screening and title/topic comparison"
+    },
+    {
+      "scope": "same_batch_pending_source",
+      "source_id": "mikey-youtube-live-refresh-003",
+      "youtube_id": "EPmR6XOphxY",
+      "title": "對不起，我愛上了別人的女朋友。這將是我最後一次使用禁忌之力",
+      "comparison": "identity/title/duration and batch metadata only; transcript was not yet present during this review"
+    }
+  ],
+  "evidence": [
+    {
+      "type": "identity",
+      "result": "no_exact_formal_id_or_url_match",
+      "basis": "Batch identity precheck records o1Auc_79NR8 as absent from the formal 202 sources and the frozen 96-video inventory."
+    },
+    {
+      "type": "normalized_fulltext_formal_screen",
+      "target_segments": 3160,
+      "target_normalized_chars": 20341,
+      "target_normalized_sha256": "0368ce63156eacd23b91cd63712acd84455a22df2041f98af1b9486123060e12",
+      "target_16_character_shingles": 20314,
+      "formal_transcripts_checked": 202,
+      "exact_matches": [],
+      "maximum_16_character_shingle_overlap": {
+        "source_id": "OSEq7tPwrqY",
+        "title": "2026-07-27 - 长期关系怎么维护？ [OSEq7tPwrqY]",
+        "shared_shingles": 4,
+        "target_coverage": 0.000196909,
+        "formal_source_coverage": 0.000190015
+      }
+    },
+    {
+      "type": "same_case_prior_candidate",
+      "result": "new_follow_up_not_duplicate_recording",
+      "basis": "mikey-youtube-video-003 covers the initial contact, calls, concealed travel and meeting. This source starts after the boyfriend's discovery and covers confrontation, privacy/medical concerns, later rapport, claimed permission and course enrollment. The normalized 16-character shingle comparison found 0 shared shingles across 20,314 target shingles and 14,241 prior-source shingles.",
+      "boundary": "Treat the two uploads as separate sources but one underlying case. Do not use their agreement as independent corroboration or double-count repeated case facts."
+    },
+    {
+      "type": "same_batch_available_source",
+      "result": "different_topic_and_recording",
+      "basis": "mikey-youtube-live-refresh-002 concerns a different alleged paid-sex case. The normalized 16-character shingle comparison found 0 shared shingles across 20,314 target shingles and 29,472 sibling-source shingles."
+    },
+    {
+      "type": "same_batch_pending_source",
+      "result": "not_comparable_beyond_metadata_yet",
+      "basis": "mikey-youtube-live-refresh-003 is the long live version associated with the earlier 'forbidden power' case and is a likely cross-tab duplicate of mikey-youtube-video-003. Its local transcript was not present during this review, so clip-level containment against the present follow-up could not be tested."
+    }
+  ],
+  "boundary": "Provisionally count o1Auc_79NR8 as new relative to the formal 202 and current batch materials. It is a sequel within the same underlying case as mikey-youtube-video-003, not independent evidence that the narrated events are true. Re-run clip-level comparison if mikey-youtube-live-refresh-003 later supplies transcript or audio."
+}

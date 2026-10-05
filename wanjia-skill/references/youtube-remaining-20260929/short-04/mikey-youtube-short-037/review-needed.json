@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-037",
+  "youtube_id": "EqbzKgXKNC4",
+  "review_completed": true,
+  "items": [
+    {
+      "review_id": "s037-r01",
+      "severity": "blocking",
+      "category": "privacy_and_authorization",
+      "issue": "An identifiable participant's face and a real-world approach are published; filming and publication authorization are not established by the clip.",
+      "affected_evidence": ["whole source"],
+      "disposition": "Keep research-only unless authorization and suitable privacy treatment are resolved; do not package identifiable frames by default."
+    },
+    {
+      "review_id": "s037-r02",
+      "severity": "blocking",
+      "category": "age_ambiguity",
+      "issue": "The operator asks age, but the reply is transcribed unclearly as '我做01' and is not audio-verified.",
+      "affected_evidence": ["S00006-S00007"],
+      "disposition": "Do not infer a verified birth year or adulthood from the ASR. Confirm age clearly before any sexual, alcohol or private-space context."
+    },
+    {
+      "review_id": "s037-r03",
+      "severity": "major",
+      "category": "speaker_attribution",
+      "issue": "The male camera operator is never visible, so channel branding alone does not independently prove that he is Mikey.",
+      "affected_evidence": ["S00001-S00007", "S00009-S00024", "S00027-S00030"],
+      "disposition": "Attribute him as the male camera operator editorially presented as Mikey; do not upgrade to certain first-person Mikey evidence."
+    },
+    {
+      "review_id": "s037-r04",
+      "severity": "major",
+      "category": "outcome_inference",
+      "issue": "Phone handling, laughter and a casual affirmative reply are presented in a success-framed edit but do not prove a contact exchange, attraction or later meeting.",
+      "affected_evidence": ["S00008-S00031"],
+      "disposition": "Record only the visible interaction and spoken replies; do not claim causality or a later result."
+    },
+    {
+      "review_id": "s037-r05",
+      "severity": "major",
+      "category": "source_parent",
+      "issue": "No parent long-form source or complete unedited approach was located.",
+      "affected_evidence": ["whole source"],
+      "disposition": "Keep provisional and re-run visual/transcript dedup and context review if the parent appears."
+    }
+  ]
+}

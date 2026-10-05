@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-034",
+  "youtube_id": "JpmWNxPyhLc",
+  "review_completed": true,
+  "items": [
+    {"review_id": "v034-r01", "severity": "major", "category": "dated_navigation", "issue": "The recommended playlists and viewing order are a historical snapshot and may no longer match the channel.", "affected_evidence": ["S00013-S00109", "sampled frames 000002 and 000004"], "disposition": "Use only as historical creator intent unless the current channel structure is independently checked."},
+    {"review_id": "v034-r02", "severity": "major", "category": "marketing_claim", "issue": "The claim that viewers found relationships through livestreams is an unverified testimonial.", "affected_evidence": ["S00066-S00072"], "disposition": "Do not use as efficacy evidence without the original messages, denominator, follow-up and independent verification."},
+    {"review_id": "v034-r03", "severity": "major", "category": "privacy_marketing", "issue": "The closing sampled frame displays a QR code and contact handle.", "affected_evidence": ["sampled frame 000005"], "disposition": "Do not reproduce marketing contact identifiers in formal evidence unless specifically needed and reviewed."},
+    {"review_id": "v034-r04", "severity": "minor", "category": "asr", "issue": "The closing slogan and final token are noisy in ASR.", "affected_evidence": ["S00110-S00117"], "disposition": "Avoid exact quotation without original-audio checking."}
+  ]
+}

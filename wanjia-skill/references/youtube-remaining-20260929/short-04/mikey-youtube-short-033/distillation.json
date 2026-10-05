@@ -1,0 +1,95 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-033",
+  "youtube_id": "apoG8W9NziA",
+  "title": "高位框架，不是你做了什麽事才讓你高位，而是你對一些事情出現的情緒反應，這個狀態才能讓你“高位”#shorts",
+  "coverage": {
+    "transcript_segments_read": 72,
+    "transcript_time_range_seconds": [0.0, 122.38],
+    "semantic_media_range_seconds": [0.0, 124.017778],
+    "sampled_frames_reviewed": 41,
+    "continuous_original_audio_visual_review": false,
+    "excluded_asr_tail": "The final sentence is cut off at S00072@121.10-122.38 and is not used as a complete claim."
+  },
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 26.36,
+      "summary": "The speaker recounts a student's phone question about appearing higher-status and says the student reported criticizing dates who then stopped responding."
+    },
+    {
+      "start": 26.36,
+      "end": 45.94,
+      "summary": "He argues that needing to put others down to appear high-status expresses insecurity rather than genuine confidence."
+    },
+    {
+      "start": 45.94,
+      "end": 77.88,
+      "summary": "He defines the preferred state as emotional steadiness, natural self-expression and speech that feels calm and forceful, without deliberately chasing a status performance."
+    },
+    {
+      "start": 77.88,
+      "end": 104.22,
+      "summary": "Using a date who keeps using a phone, he suggests calmly asking whether the person does not want to talk rather than performing anger or dominance."
+    },
+    {
+      "start": 104.22,
+      "end": 124.017778,
+      "summary": "He repeats that attacking others or continually displaying strength comes from insecurity; the final sentence is truncated before completion."
+    }
+  ],
+  "claims": [
+    {
+      "claim_id": "s033-c01",
+      "speaker": "Mikey",
+      "statement": "He says putting another person down to display status is evidence of insecurity rather than genuine confidence.",
+      "conditions": "A normative interpretation of the recounted behavior; the student, dates and outcomes are second-hand and not independently shown.",
+      "evidence": ["S00012-S00024@20.04-45.94", "S00060-S00069@104.22-116.62"],
+      "use_level": "reuse_zero_weight"
+    },
+    {
+      "claim_id": "s033-c02",
+      "speaker": "Mikey",
+      "statement": "He defines a desirable interaction state as emotionally steady, unforced and able to express oneself calmly rather than deliberately performing dominance.",
+      "conditions": "His phrase 不以物喜不以己悲 should not be read as suppressing emotions, tolerating mistreatment or ignoring the other person's boundaries.",
+      "evidence": ["S00025-S00041@45.94-77.88"],
+      "use_level": "reuse_zero_weight"
+    },
+    {
+      "claim_id": "s033-c03",
+      "speaker": "Mikey",
+      "statement": "If a date repeatedly uses a phone, he suggests a calm direct question about whether the person wants to talk.",
+      "conditions": "A phone may have many explanations; ask without accusation, accept the answer, and respect either person's choice to pause or end the interaction.",
+      "evidence": ["S00042-S00059@77.88-104.22"],
+      "use_level": "reuse_zero_weight"
+    }
+  ],
+  "speaker_attribution": [
+    {
+      "speaker": "Mikey",
+      "basis": "One channel host appears seated and speaking throughout all 41 sampled frames; the background passerby does not join the interaction."
+    },
+    {
+      "speaker": "student",
+      "basis": "Only reported by Mikey as a prior phone conversation; the student is not heard or shown directly in this clip."
+    }
+  ],
+  "visual_findings": [
+    "All 41 sampled frames show the same seated speaker in a continuous outdoor lakeside setup with embedded subtitles.",
+    "A passerby appears briefly behind the speaker around sampled frames 27-30 but provides no content or evidence.",
+    "No student, date, phone interaction, message, recipient reaction or outcome is shown."
+  ],
+  "permissions": {
+    "formal_integration": false,
+    "first_person_allowed": false,
+    "action_advice_allowed": false,
+    "use_level": "reuse_zero_weight",
+    "reason": "The useful calm-strength and direct-expression material is already represented by formal quark-live-030 knowledge."
+  },
+  "limitations": [
+    "Sparse sampled frames are not continuous audio-visual review.",
+    "The student story and the dates' lack of response are unverified second-hand claims.",
+    "The final sentence is cut off and cannot support a complete claim.",
+    "The label high-position framework is the speaker's framing and should not be used to justify control, insult or status hierarchy."
+  ]
+}

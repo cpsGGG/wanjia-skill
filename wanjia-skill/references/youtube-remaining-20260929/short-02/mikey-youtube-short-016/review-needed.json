@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-016",
+  "youtube_id": "cIE63w6uJXs",
+  "review_completed": true,
+  "items": [
+    {"review_id": "s016-r01", "severity": "blocking", "issue": "The claim that the world may disappear when the viewer dies is a solipsistic thought experiment, not verified fact.", "affected_evidence": ["S00003-S00011"], "disposition": "Attribute as Mikey's metaphor and do not present literally."},
+    {"review_id": "s016-r02", "severity": "blocking", "issue": "Calling every other person an NPC can dehumanize people and erase their independent interests.", "affected_evidence": ["S00012-S00018"], "disposition": "Do not generalize; never use it to override autonomy, rights, privacy or consent."},
+    {"review_id": "s016-r03", "severity": "major", "issue": "The vertical edit omits the surrounding parent-stream discussion.", "affected_evidence": ["whole short"], "disposition": "Weight 0 and use the formal parent source for context."},
+    {"review_id": "s016-r04", "severity": "major", "issue": "ASR S00025-S00035 extends beyond the actual media and is incoherent.", "affected_evidence": ["S00025-S00035", "media-audit.json"], "disposition": "Exclude those segments; semantic timeline ends at 74.210975 seconds."}
+  ]
+}

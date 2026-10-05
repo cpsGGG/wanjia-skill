@@ -1,0 +1,2391 @@
+[
+  {
+    "id": "mikey-youtube-live-021-R001",
+    "source_id": "mikey-youtube-live-021",
+    "start": 481,
+    "end": 565,
+    "type": "crime_and_legal_boundary",
+    "severity": "major",
+    "question": "暴力犯罪与搭讪边界是否被错误理解成对任何接触方式的法律背书？",
+    "affected_ids": [
+      "mikey-youtube-live-021-E0002",
+      "mikey-youtube-live-021-K003"
+    ],
+    "required_evidence": "法律与安全边界审查",
+    "owner": "safety-review",
+    "status": "open",
+    "evidence_refs": [
+      {
+        "evidence_id": "mikey-youtube-live-021-E0002-R098",
+        "youtube_url": "https://www.youtube.com/watch?v=gkADT8_5s14&t=518s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-021-E0002-R118",
+        "youtube_url": "https://www.youtube.com/watch?v=gkADT8_5s14&t=546s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-021-E0002-R119",
+        "youtube_url": "https://www.youtube.com/watch?v=gkADT8_5s14&t=548s"
+      }
+    ]
+  },
+  {
+    "id": "mikey-youtube-live-021-R002",
+    "source_id": "mikey-youtube-live-021",
+    "start": 601,
+    "end": 725,
+    "type": "deception_and_self_report",
+    "severity": "blocking",
+    "question": "隐瞒第二天离开、以‘看你表现’推进关系的案例是否构成欺骗或不当操控？",
+    "affected_ids": [
+      "mikey-youtube-live-021-E0003"
+    ],
+    "required_evidence": "伦理边界及原音画复核",
+    "owner": "safety-review",
+    "status": "open",
+    "evidence_refs": [
+      {
+        "evidence_id": "mikey-youtube-live-021-E0003-R001",
+        "youtube_url": "https://www.youtube.com/watch?v=gkADT8_5s14&t=601s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-021-E0003-R007",
+        "youtube_url": "https://www.youtube.com/watch?v=gkADT8_5s14&t=611s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-021-E0003-R009",
+        "youtube_url": "https://www.youtube.com/watch?v=gkADT8_5s14&t=615s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-021-E0003-R013",
+        "youtube_url": "https://www.youtube.com/watch?v=gkADT8_5s14&t=619s"
+      }
+    ]
+  },
+  {
+    "id": "mikey-youtube-live-021-R003",
+    "source_id": "mikey-youtube-live-021",
+    "start": 795,
+    "end": 895,
+    "type": "sexual_outcome_self_report",
+    "severity": "major",
+    "question": "80%至100%成功率和性结果数字是否仅为自述且不应作为用户基准？",
+    "affected_ids": [
+      "mikey-youtube-live-021-E0003",
+      "mikey-youtube-live-021-K004"
+    ],
+    "required_evidence": "来源与统计边界审查",
+    "owner": "source-review",
+    "status": "open",
+    "evidence_refs": [
+      {
+        "evidence_id": "mikey-youtube-live-021-E0003-R056",
+        "youtube_url": "https://www.youtube.com/watch?v=gkADT8_5s14&t=805s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-021-E0003-R062",
+        "youtube_url": "https://www.youtube.com/watch?v=gkADT8_5s14&t=813s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-021-E0003-R071",
+        "youtube_url": "https://www.youtube.com/watch?v=gkADT8_5s14&t=832s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-021-E0003-R072",
+        "youtube_url": "https://www.youtube.com/watch?v=gkADT8_5s14&t=834s"
+      }
+    ]
+  },
+  {
+    "id": "mikey-youtube-live-021-R004",
+    "source_id": "mikey-youtube-live-021",
+    "start": 1203.14,
+    "end": 1500.24,
+    "type": "gender_stereotype_and_aggression",
+    "severity": "blocking",
+    "question": "女性类型概括及‘骂她／治她’措辞是否会导向羞辱、威胁或冲突升级？",
+    "affected_ids": [
+      "mikey-youtube-live-021-E0005",
+      "mikey-youtube-live-021-K009"
+    ],
+    "required_evidence": "安全与编辑边界审查",
+    "owner": "safety-review",
+    "status": "open",
+    "evidence_refs": [
+      {
+        "evidence_id": "mikey-youtube-live-021-E0005-R047",
+        "youtube_url": "https://www.youtube.com/watch?v=gkADT8_5s14&t=1339s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-021-E0005-R055",
+        "youtube_url": "https://www.youtube.com/watch?v=gkADT8_5s14&t=1354s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-021-E0005-R075",
+        "youtube_url": "https://www.youtube.com/watch?v=gkADT8_5s14&t=1397s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-021-E0005-R086",
+        "youtube_url": "https://www.youtube.com/watch?v=gkADT8_5s14&t=1416s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-021-E0005-R100",
+        "youtube_url": "https://www.youtube.com/watch?v=gkADT8_5s14&t=1449s"
+      }
+    ]
+  },
+  {
+    "id": "mikey-youtube-live-021-R005",
+    "source_id": "mikey-youtube-live-021",
+    "start": 1710,
+    "end": 1810,
+    "type": "medical_claim",
+    "severity": "major",
+    "question": "护肤品、激素和‘三天就好’是否为未经核验的医学绝对判断？",
+    "affected_ids": [
+      "mikey-youtube-live-021-E0006",
+      "mikey-youtube-live-021-K012"
+    ],
+    "required_evidence": "医疗专业审查",
+    "owner": "safety-review",
+    "status": "open",
+    "evidence_refs": [
+      {
+        "evidence_id": "mikey-youtube-live-021-E0006-R087",
+        "youtube_url": "https://www.youtube.com/watch?v=gkADT8_5s14&t=1722s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-021-E0006-R097",
+        "youtube_url": "https://www.youtube.com/watch?v=gkADT8_5s14&t=1741s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-021-E0006-R100",
+        "youtube_url": "https://www.youtube.com/watch?v=gkADT8_5s14&t=1744s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-021-E0006-R101",
+        "youtube_url": "https://www.youtube.com/watch?v=gkADT8_5s14&t=1746s"
+      }
+    ]
+  },
+  {
+    "id": "mikey-youtube-live-021-R006",
+    "source_id": "mikey-youtube-live-021",
+    "start": 1800.0,
+    "end": 2411.88,
+    "type": "public_event_factual_claim",
+    "severity": "blocking",
+    "question": "武汉大学事件的人名、录音、行为和责任描述是否准确，能否承载后续群体结论？",
+    "affected_ids": [
+      "mikey-youtube-live-021-E0007",
+      "mikey-youtube-live-021-E0008"
+    ],
+    "required_evidence": "原始事件资料、原音和编辑审查",
+    "owner": "fact-review",
+    "status": "open",
+    "evidence_refs": [
+      {
+        "evidence_id": "mikey-youtube-live-021-E0007-R070",
+        "youtube_url": "https://www.youtube.com/watch?v=gkADT8_5s14&t=2026s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-021-E0008-R020",
+        "youtube_url": "https://www.youtube.com/watch?v=gkADT8_5s14&t=2135s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-021-E0008-R046",
+        "youtube_url": "https://www.youtube.com/watch?v=gkADT8_5s14&t=2184s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-021-E0008-R089",
+        "youtube_url": "https://www.youtube.com/watch?v=gkADT8_5s14&t=2250s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-021-E0008-R106",
+        "youtube_url": "https://www.youtube.com/watch?v=gkADT8_5s14&t=2273s"
+      }
+    ]
+  },
+  {
+    "id": "mikey-youtube-live-021-R007",
+    "source_id": "mikey-youtube-live-021",
+    "start": 2100,
+    "end": 2750,
+    "type": "group_generalization",
+    "severity": "blocking",
+    "question": "对犹太人、女性主义者、保安及阶级问题的概括是否可普遍化？",
+    "affected_ids": [
+      "mikey-youtube-live-021-E0008",
+      "mikey-youtube-live-021-E0009"
+    ],
+    "required_evidence": "跨来源与编辑边界审查",
+    "owner": "editorial-review",
+    "status": "open",
+    "evidence_refs": [
+      {
+        "evidence_id": "mikey-youtube-live-021-E0008-R007",
+        "youtube_url": "https://www.youtube.com/watch?v=gkADT8_5s14&t=2111s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-021-E0008-R142",
+        "youtube_url": "https://www.youtube.com/watch?v=gkADT8_5s14&t=2340s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-021-E0009-R028",
+        "youtube_url": "https://www.youtube.com/watch?v=gkADT8_5s14&t=2461s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-021-E0009-R036",
+        "youtube_url": "https://www.youtube.com/watch?v=gkADT8_5s14&t=2485s"
+      }
+    ]
+  },
+  {
+    "id": "mikey-youtube-live-021-R008",
+    "source_id": "mikey-youtube-live-021",
+    "start": 2820,
+    "end": 3010,
+    "type": "alcohol_consent_and_private_space",
+    "severity": "blocking",
+    "question": "饮酒后前往私密空间的情境是否具备清醒、自愿、持续同意和安全返回条件？",
+    "affected_ids": [
+      "mikey-youtube-live-021-E0010",
+      "mikey-youtube-live-021-K015"
+    ],
+    "required_evidence": "连续音画、聊天原图及同意边界审查",
+    "owner": "safety-review",
+    "status": "open",
+    "evidence_refs": [
+      {
+        "evidence_id": "mikey-youtube-live-021-E0010-R039",
+        "youtube_url": "https://www.youtube.com/watch?v=gkADT8_5s14&t=2840s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-021-E0010-R046",
+        "youtube_url": "https://www.youtube.com/watch?v=gkADT8_5s14&t=2852s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-021-E0010-R056",
+        "youtube_url": "https://www.youtube.com/watch?v=gkADT8_5s14&t=2870s"
+      }
+    ]
+  },
+  {
+    "id": "mikey-youtube-live-021-R009",
+    "source_id": "mikey-youtube-live-021",
+    "start": 3020,
+    "end": 3640,
+    "type": "hotel_and_escalation_boundary",
+    "severity": "blocking",
+    "question": "酒店、肢体升级和直接邀请的建议是否明确允许拒绝且不得施压？",
+    "affected_ids": [
+      "mikey-youtube-live-021-E0011",
+      "mikey-youtube-live-021-E0012"
+    ],
+    "required_evidence": "持续同意与安全边界审查",
+    "owner": "safety-review",
+    "status": "open",
+    "evidence_refs": [
+      {
+        "evidence_id": "mikey-youtube-live-021-E0011-R004",
+        "youtube_url": "https://www.youtube.com/watch?v=gkADT8_5s14&t=3026s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-021-E0011-R018",
+        "youtube_url": "https://www.youtube.com/watch?v=gkADT8_5s14&t=3056s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-021-E0012-R044",
+        "youtube_url": "https://www.youtube.com/watch?v=gkADT8_5s14&t=3617s"
+      }
+    ]
+  },
+  {
+    "id": "mikey-youtube-live-022-R001",
+    "source_id": "mikey-youtube-live-022",
+    "start": 6,
+    "end": 6020,
+    "type": "speaker_attribution",
+    "severity": "major",
+    "question": "Mikey、面具参与者和第三名门徒的逐句发言边界是什么？",
+    "affected_ids": [
+      "mikey-youtube-live-022-E0001",
+      "mikey-youtube-live-022-E0002",
+      "mikey-youtube-live-022-E0003",
+      "mikey-youtube-live-022-E0004",
+      "mikey-youtube-live-022-E0005",
+      "mikey-youtube-live-022-E0006",
+      "mikey-youtube-live-022-E0007",
+      "mikey-youtube-live-022-E0008",
+      "mikey-youtube-live-022-E0009",
+      "mikey-youtube-live-022-E0010",
+      "mikey-youtube-live-022-E0011",
+      "mikey-youtube-live-022-E0012",
+      "mikey-youtube-live-022-E0013",
+      "mikey-youtube-live-022-E0014",
+      "mikey-youtube-live-022-E0015",
+      "mikey-youtube-live-022-E0016",
+      "mikey-youtube-live-022-K001",
+      "mikey-youtube-live-022-K002",
+      "mikey-youtube-live-022-K003",
+      "mikey-youtube-live-022-K004",
+      "mikey-youtube-live-022-K005",
+      "mikey-youtube-live-022-K006",
+      "mikey-youtube-live-022-K007",
+      "mikey-youtube-live-022-K008",
+      "mikey-youtube-live-022-K009",
+      "mikey-youtube-live-022-K010",
+      "mikey-youtube-live-022-K011",
+      "mikey-youtube-live-022-K012",
+      "mikey-youtube-live-022-K013",
+      "mikey-youtube-live-022-K014",
+      "mikey-youtube-live-022-K015",
+      "mikey-youtube-live-022-K016",
+      "mikey-youtube-live-022-K017",
+      "mikey-youtube-live-022-K018"
+    ],
+    "required_evidence": "原音、连续嘴型和已确认身份参照片段；必要时声纹映射",
+    "owner": "source-review",
+    "status": "open",
+    "evidence_refs": [
+      {
+        "evidence_id": "mikey-youtube-live-022-E0001-R051",
+        "youtube_url": "https://www.youtube.com/watch?v=dZgV_s1FVv8&t=154s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-022-E0003-R001",
+        "youtube_url": "https://www.youtube.com/watch?v=dZgV_s1FVv8&t=672s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-022-E0008-R101",
+        "youtube_url": "https://www.youtube.com/watch?v=dZgV_s1FVv8&t=2748s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-022-E0014-R041",
+        "youtube_url": "https://www.youtube.com/watch?v=dZgV_s1FVv8&t=5224s"
+      }
+    ]
+  },
+  {
+    "id": "mikey-youtube-live-022-R002",
+    "source_id": "mikey-youtube-live-022",
+    "start": 1540,
+    "end": 1700,
+    "type": "sexual_coercion_boundary",
+    "severity": "blocking",
+    "question": "别天神、改变意识和接受性交的段落由谁提出，是否明确是戏谑或反讽？",
+    "affected_ids": [
+      "mikey-youtube-live-022-E0005",
+      "mikey-youtube-live-022-K006"
+    ],
+    "required_evidence": "原音语气与上下文连续听校",
+    "owner": "source-review",
+    "status": "open",
+    "evidence_refs": [
+      {
+        "evidence_id": "mikey-youtube-live-022-E0005-R091",
+        "youtube_url": "https://www.youtube.com/watch?v=dZgV_s1FVv8&t=1583s"
+      }
+    ]
+  },
+  {
+    "id": "mikey-youtube-live-022-R003",
+    "source_id": "mikey-youtube-live-022",
+    "start": 3090,
+    "end": 3240,
+    "type": "coercive_control_boundary",
+    "severity": "blocking",
+    "question": "洗脑、精神控制和邪教领袖类比的具体发言人与评价方向是什么？",
+    "affected_ids": [
+      "mikey-youtube-live-022-E0009",
+      "mikey-youtube-live-022-K011"
+    ],
+    "required_evidence": "原音和发言人物确认",
+    "owner": "source-review",
+    "status": "open",
+    "evidence_refs": [
+      {
+        "evidence_id": "mikey-youtube-live-022-E0009-R081",
+        "youtube_url": "https://www.youtube.com/watch?v=dZgV_s1FVv8&t=3161s"
+      }
+    ]
+  },
+  {
+    "id": "mikey-youtube-live-022-R004",
+    "source_id": "mikey-youtube-live-022",
+    "start": 4130,
+    "end": 4300,
+    "type": "consent_and_financial_pressure",
+    "severity": "blocking",
+    "question": "雷影、喝酒和给钱的情节是赞同、调侃还是角色设想？",
+    "affected_ids": [
+      "mikey-youtube-live-022-E0012",
+      "mikey-youtube-live-022-K014"
+    ],
+    "required_evidence": "原音语气、前后文和人物归属",
+    "owner": "source-review",
+    "status": "open",
+    "evidence_refs": [
+      {
+        "evidence_id": "mikey-youtube-live-022-E0012-R011",
+        "youtube_url": "https://www.youtube.com/watch?v=dZgV_s1FVv8&t=4185s"
+      }
+    ]
+  },
+  {
+    "id": "mikey-youtube-live-022-R005",
+    "source_id": "mikey-youtube-live-022",
+    "start": 0,
+    "end": 6020,
+    "type": "visual_content",
+    "severity": "major",
+    "question": "未人工查看的联系表及稀疏间隙是否有手机聊天截图、动漫正片或其他承载教学信息的画面？",
+    "affected_ids": [
+      "mikey-youtube-live-022-E0001",
+      "mikey-youtube-live-022-E0002",
+      "mikey-youtube-live-022-E0003",
+      "mikey-youtube-live-022-E0004",
+      "mikey-youtube-live-022-E0005",
+      "mikey-youtube-live-022-E0006",
+      "mikey-youtube-live-022-E0007",
+      "mikey-youtube-live-022-E0008",
+      "mikey-youtube-live-022-E0009",
+      "mikey-youtube-live-022-E0010",
+      "mikey-youtube-live-022-E0011",
+      "mikey-youtube-live-022-E0012",
+      "mikey-youtube-live-022-E0013",
+      "mikey-youtube-live-022-E0014",
+      "mikey-youtube-live-022-E0015",
+      "mikey-youtube-live-022-E0016"
+    ],
+    "required_evidence": "剩余联系表与必要连续窗口视觉复核",
+    "owner": "source-review",
+    "status": "open",
+    "evidence_refs": [
+      {
+        "evidence_id": "mikey-youtube-live-022-E0001-R001",
+        "youtube_url": "https://www.youtube.com/watch?v=dZgV_s1FVv8&t=6s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-022-E0016-R021",
+        "youtube_url": "https://www.youtube.com/watch?v=dZgV_s1FVv8&t=5948s"
+      }
+    ]
+  },
+  {
+    "id": "mikey-youtube-live-023-R001",
+    "source_id": "mikey-youtube-live-023",
+    "start": 210,
+    "end": 370,
+    "type": "self_worth_and_contact_boundary",
+    "severity": "major",
+    "question": "把陌生搭讪比作给路人发钱是否会弱化对方拒绝和不愿被接触的权利？",
+    "affected_ids": [
+      "mikey-youtube-live-023-E0001",
+      "mikey-youtube-live-023-K002"
+    ],
+    "required_evidence": "编辑边界复核",
+    "owner": "editorial-review",
+    "status": "open",
+    "evidence_refs": [
+      {
+        "evidence_id": "mikey-youtube-live-023-E0001-R066",
+        "youtube_url": "https://www.youtube.com/watch?v=wjizzSk9eAI&t=245s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-023-E0001-R075",
+        "youtube_url": "https://www.youtube.com/watch?v=wjizzSk9eAI&t=266s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-023-E0001-R078",
+        "youtube_url": "https://www.youtube.com/watch?v=wjizzSk9eAI&t=270s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-023-E0001-R087",
+        "youtube_url": "https://www.youtube.com/watch?v=wjizzSk9eAI&t=286s"
+      }
+    ]
+  },
+  {
+    "id": "mikey-youtube-live-023-R002",
+    "source_id": "mikey-youtube-live-023",
+    "start": 470,
+    "end": 540,
+    "type": "theory_and_political_analogy",
+    "severity": "major",
+    "question": "用政治制度作逻辑自洽类比是否准确，是否需要从可执行知识中移除？",
+    "affected_ids": [
+      "mikey-youtube-live-023-E0001",
+      "mikey-youtube-live-023-K004"
+    ],
+    "required_evidence": "语义与事实边界复核",
+    "owner": "source-review",
+    "status": "open",
+    "evidence_refs": [
+      {
+        "evidence_id": "mikey-youtube-live-023-E0001-R166",
+        "youtube_url": "https://www.youtube.com/watch?v=wjizzSk9eAI&t=488s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-023-E0001-R176",
+        "youtube_url": "https://www.youtube.com/watch?v=wjizzSk9eAI&t=508s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-023-E0001-R179",
+        "youtube_url": "https://www.youtube.com/watch?v=wjizzSk9eAI&t=513s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-023-E0001-R183",
+        "youtube_url": "https://www.youtube.com/watch?v=wjizzSk9eAI&t=522s"
+      }
+    ]
+  },
+  {
+    "id": "mikey-youtube-live-023-R003",
+    "source_id": "mikey-youtube-live-023",
+    "start": 1730,
+    "end": 1840,
+    "type": "sexual_self_report",
+    "severity": "blocking",
+    "question": "疫情期间大量性经历为单方自述，是否存在身份、同意、数量或ASR错误？",
+    "affected_ids": [
+      "mikey-youtube-live-023-E0005"
+    ],
+    "required_evidence": "原音、连续画面和来源复核",
+    "owner": "source-review",
+    "status": "open",
+    "evidence_refs": [
+      {
+        "evidence_id": "mikey-youtube-live-023-E0005-R039",
+        "youtube_url": "https://www.youtube.com/watch?v=wjizzSk9eAI&t=1732s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-023-E0005-R042",
+        "youtube_url": "https://www.youtube.com/watch?v=wjizzSk9eAI&t=1737s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-023-E0005-R050",
+        "youtube_url": "https://www.youtube.com/watch?v=wjizzSk9eAI&t=1748s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-023-E0005-R055",
+        "youtube_url": "https://www.youtube.com/watch?v=wjizzSk9eAI&t=1754s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-023-E0005-R057",
+        "youtube_url": "https://www.youtube.com/watch?v=wjizzSk9eAI&t=1757s"
+      }
+    ]
+  },
+  {
+    "id": "mikey-youtube-live-023-R004",
+    "source_id": "mikey-youtube-live-023",
+    "start": 1638.28,
+    "end": 2100.52,
+    "type": "dehumanizing_metaphor",
+    "severity": "blocking",
+    "question": "NPC、战略蔑视与‘教女人做人’是否会被误用为不尊重现实他人或攻击性控制？",
+    "affected_ids": [
+      "mikey-youtube-live-023-E0005",
+      "mikey-youtube-live-023-K008",
+      "mikey-youtube-live-023-K012"
+    ],
+    "required_evidence": "安全与编辑边界复核",
+    "owner": "safety-review",
+    "status": "open",
+    "evidence_refs": [
+      {
+        "evidence_id": "mikey-youtube-live-023-E0005-R070",
+        "youtube_url": "https://www.youtube.com/watch?v=wjizzSk9eAI&t=1783s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-023-E0005-R073",
+        "youtube_url": "https://www.youtube.com/watch?v=wjizzSk9eAI&t=1800s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-023-E0005-R098",
+        "youtube_url": "https://www.youtube.com/watch?v=wjizzSk9eAI&t=1891s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-023-E0005-R102",
+        "youtube_url": "https://www.youtube.com/watch?v=wjizzSk9eAI&t=1900s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-023-E0005-R162",
+        "youtube_url": "https://www.youtube.com/watch?v=wjizzSk9eAI&t=2003s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-023-E0005-R174",
+        "youtube_url": "https://www.youtube.com/watch?v=wjizzSk9eAI&t=2023s"
+      }
+    ]
+  },
+  {
+    "id": "mikey-youtube-live-023-R005",
+    "source_id": "mikey-youtube-live-023",
+    "start": 2050,
+    "end": 2200,
+    "type": "sexual_objectification",
+    "severity": "blocking",
+    "question": "按‘灵魂伴侣／解决生理需求’分类的说法是否缺少诚实、尊重和持续同意？",
+    "affected_ids": [
+      "mikey-youtube-live-023-E0005",
+      "mikey-youtube-live-023-E0006",
+      "mikey-youtube-live-023-K025"
+    ],
+    "required_evidence": "关系目标、同意与安全边界复核",
+    "owner": "safety-review",
+    "status": "open",
+    "evidence_refs": [
+      {
+        "evidence_id": "mikey-youtube-live-023-E0005-R206",
+        "youtube_url": "https://www.youtube.com/watch?v=wjizzSk9eAI&t=2090s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-023-E0006-R001",
+        "youtube_url": "https://www.youtube.com/watch?v=wjizzSk9eAI&t=2100s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-023-E0006-R006",
+        "youtube_url": "https://www.youtube.com/watch?v=wjizzSk9eAI&t=2110s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-023-E0006-R012",
+        "youtube_url": "https://www.youtube.com/watch?v=wjizzSk9eAI&t=2124s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-023-E0006-R013",
+        "youtube_url": "https://www.youtube.com/watch?v=wjizzSk9eAI&t=2126s"
+      }
+    ]
+  },
+  {
+    "id": "mikey-youtube-live-023-R006",
+    "source_id": "mikey-youtube-live-023",
+    "start": 2390,
+    "end": 2460,
+    "type": "money_and_sex_exchange",
+    "severity": "blocking",
+    "question": "把不给钱与获得性结果对比是否会把亲密关系商品化或形成不当因果？",
+    "affected_ids": [
+      "mikey-youtube-live-023-E0006",
+      "mikey-youtube-live-023-K015"
+    ],
+    "required_evidence": "编辑和因果边界复核",
+    "owner": "safety-review",
+    "status": "open",
+    "evidence_refs": [
+      {
+        "evidence_id": "mikey-youtube-live-023-E0006-R120",
+        "youtube_url": "https://www.youtube.com/watch?v=wjizzSk9eAI&t=2406s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-023-E0006-R127",
+        "youtube_url": "https://www.youtube.com/watch?v=wjizzSk9eAI&t=2424s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-023-E0006-R129",
+        "youtube_url": "https://www.youtube.com/watch?v=wjizzSk9eAI&t=2426s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-023-E0006-R136",
+        "youtube_url": "https://www.youtube.com/watch?v=wjizzSk9eAI&t=2436s"
+      }
+    ]
+  },
+  {
+    "id": "mikey-youtube-live-023-R007",
+    "source_id": "mikey-youtube-live-023",
+    "start": 2610,
+    "end": 2810,
+    "type": "relationship_self_report_and_revenge",
+    "severity": "blocking",
+    "question": "前任关系和‘复仇式拿下’自述是否应全部限制为不可执行材料？",
+    "affected_ids": [
+      "mikey-youtube-live-023-E0007",
+      "mikey-youtube-live-023-K025"
+    ],
+    "required_evidence": "原音与安全边界复核",
+    "owner": "safety-review",
+    "status": "open",
+    "evidence_refs": [
+      {
+        "evidence_id": "mikey-youtube-live-023-E0007-R029",
+        "youtube_url": "https://www.youtube.com/watch?v=wjizzSk9eAI&t=2633s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-023-E0007-R031",
+        "youtube_url": "https://www.youtube.com/watch?v=wjizzSk9eAI&t=2637s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-023-E0007-R035",
+        "youtube_url": "https://www.youtube.com/watch?v=wjizzSk9eAI&t=2646s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-023-E0007-R064",
+        "youtube_url": "https://www.youtube.com/watch?v=wjizzSk9eAI&t=2765s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-023-E0007-R067",
+        "youtube_url": "https://www.youtube.com/watch?v=wjizzSk9eAI&t=2787s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-023-E0007-R070",
+        "youtube_url": "https://www.youtube.com/watch?v=wjizzSk9eAI&t=2792s"
+      }
+    ]
+  },
+  {
+    "id": "mikey-youtube-live-023-R008",
+    "source_id": "mikey-youtube-live-023",
+    "start": 3270,
+    "end": 3330,
+    "type": "explicit_sexual_proposition",
+    "severity": "blocking",
+    "question": "对只想发生性关系的人直接说露骨提议是否具备成年人、诚实、自愿和可退出条件？",
+    "affected_ids": [
+      "mikey-youtube-live-023-E0008",
+      "mikey-youtube-live-023-K025"
+    ],
+    "required_evidence": "年龄、同意和情境复核",
+    "owner": "safety-review",
+    "status": "open",
+    "evidence_refs": [
+      {
+        "evidence_id": "mikey-youtube-live-023-E0008-R096",
+        "youtube_url": "https://www.youtube.com/watch?v=wjizzSk9eAI&t=3287s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-023-E0008-R098",
+        "youtube_url": "https://www.youtube.com/watch?v=wjizzSk9eAI&t=3297s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-023-E0008-R099",
+        "youtube_url": "https://www.youtube.com/watch?v=wjizzSk9eAI&t=3299s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-023-E0009-R002",
+        "youtube_url": "https://www.youtube.com/watch?v=wjizzSk9eAI&t=3303s"
+      }
+    ]
+  },
+  {
+    "id": "mikey-youtube-live-023-R009",
+    "source_id": "mikey-youtube-live-023",
+    "start": 3690,
+    "end": 3950,
+    "type": "confidence_and_group_generalization",
+    "severity": "major",
+    "question": "把使用‘普信’的人一律解释为自卑、羡慕是否是无证据动机归因？",
+    "affected_ids": [
+      "mikey-youtube-live-023-E0010",
+      "mikey-youtube-live-023-K020"
+    ],
+    "required_evidence": "编辑边界复核",
+    "owner": "editorial-review",
+    "status": "open",
+    "evidence_refs": [
+      {
+        "evidence_id": "mikey-youtube-live-023-E0010-R075",
+        "youtube_url": "https://www.youtube.com/watch?v=wjizzSk9eAI&t=3849s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-023-E0010-R076",
+        "youtube_url": "https://www.youtube.com/watch?v=wjizzSk9eAI&t=3853s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-023-E0010-R080",
+        "youtube_url": "https://www.youtube.com/watch?v=wjizzSk9eAI&t=3859s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-023-E0010-R082",
+        "youtube_url": "https://www.youtube.com/watch?v=wjizzSk9eAI&t=3864s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-023-E0010-R093",
+        "youtube_url": "https://www.youtube.com/watch?v=wjizzSk9eAI&t=3886s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-023-E0010-R095",
+        "youtube_url": "https://www.youtube.com/watch?v=wjizzSk9eAI&t=3890s"
+      }
+    ]
+  },
+  {
+    "id": "mikey-youtube-live-023-R010",
+    "source_id": "mikey-youtube-live-023",
+    "start": 4020,
+    "end": 4140,
+    "type": "regional_class_stereotype",
+    "severity": "blocking",
+    "question": "对杭州、成都和小城市女性的性职业、智力、阶层概括是否应禁止一般化？",
+    "affected_ids": [
+      "mikey-youtube-live-023-E0011"
+    ],
+    "required_evidence": "来源与歧视性概括复核",
+    "owner": "editorial-review",
+    "status": "open",
+    "evidence_refs": [
+      {
+        "evidence_id": "mikey-youtube-live-023-E0011-R042",
+        "youtube_url": "https://www.youtube.com/watch?v=wjizzSk9eAI&t=4053s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-023-E0011-R046",
+        "youtube_url": "https://www.youtube.com/watch?v=wjizzSk9eAI&t=4065s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-023-E0011-R047",
+        "youtube_url": "https://www.youtube.com/watch?v=wjizzSk9eAI&t=4068s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-023-E0011-R070",
+        "youtube_url": "https://www.youtube.com/watch?v=wjizzSk9eAI&t=4098s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-023-E0011-R071",
+        "youtube_url": "https://www.youtube.com/watch?v=wjizzSk9eAI&t=4098s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-023-E0011-R075",
+        "youtube_url": "https://www.youtube.com/watch?v=wjizzSk9eAI&t=4106s"
+      }
+    ]
+  },
+  {
+    "id": "mikey-youtube-live-023-R011",
+    "source_id": "mikey-youtube-live-023",
+    "start": 3938.56,
+    "end": 4505.0,
+    "type": "minor_and_power_boundary",
+    "severity": "blocking",
+    "question": "观众提到初高中生且主持人后续说‘外校可以’，是否可能绕过未成年人及职业权力边界？",
+    "affected_ids": [
+      "mikey-youtube-live-023-E0011",
+      "mikey-youtube-live-023-K022"
+    ],
+    "required_evidence": "年龄、法律和职业伦理复核",
+    "owner": "safety-review",
+    "status": "open",
+    "evidence_refs": [
+      {
+        "evidence_id": "mikey-youtube-live-023-E0011-R076",
+        "youtube_url": "https://www.youtube.com/watch?v=wjizzSk9eAI&t=4108s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-023-E0011-R078",
+        "youtube_url": "https://www.youtube.com/watch?v=wjizzSk9eAI&t=4123s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-023-E0011-R083",
+        "youtube_url": "https://www.youtube.com/watch?v=wjizzSk9eAI&t=4131s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-023-E0011-R089",
+        "youtube_url": "https://www.youtube.com/watch?v=wjizzSk9eAI&t=4140s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-023-E0012-R027",
+        "youtube_url": "https://www.youtube.com/watch?v=wjizzSk9eAI&t=4269s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-023-E0012-R031",
+        "youtube_url": "https://www.youtube.com/watch?v=wjizzSk9eAI&t=4284s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-023-E0012-R032",
+        "youtube_url": "https://www.youtube.com/watch?v=wjizzSk9eAI&t=4287s"
+      }
+    ]
+  },
+  {
+    "id": "mikey-youtube-live-023-R012",
+    "source_id": "mikey-youtube-live-023",
+    "start": 5150,
+    "end": 5200,
+    "type": "block_evasion",
+    "severity": "blocking",
+    "question": "换号重加或直接电话是否是在绕过明确拉黑，能否作为错误示范彻底隔离？",
+    "affected_ids": [
+      "mikey-youtube-live-023-E0014",
+      "mikey-youtube-live-023-K024"
+    ],
+    "required_evidence": "安全与持续联系边界复核",
+    "owner": "safety-review",
+    "status": "open",
+    "evidence_refs": [
+      {
+        "evidence_id": "mikey-youtube-live-023-E0014-R012",
+        "youtube_url": "https://www.youtube.com/watch?v=wjizzSk9eAI&t=5156s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-023-E0014-R014",
+        "youtube_url": "https://www.youtube.com/watch?v=wjizzSk9eAI&t=5158s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-023-E0014-R016",
+        "youtube_url": "https://www.youtube.com/watch?v=wjizzSk9eAI&t=5160s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-023-E0014-R018",
+        "youtube_url": "https://www.youtube.com/watch?v=wjizzSk9eAI&t=5162s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-023-E0014-R019",
+        "youtube_url": "https://www.youtube.com/watch?v=wjizzSk9eAI&t=5165s"
+      }
+    ]
+  },
+  {
+    "id": "mikey-youtube-live-024-R001",
+    "source_id": "mikey-youtube-live-024",
+    "start": 1180,
+    "end": 1810,
+    "type": "childhood_abuse_and_genetics",
+    "severity": "blocking",
+    "question": "家暴经历、基因决定和反脆弱人格是否构成未经支持的创伤与遗传结论？",
+    "affected_ids": [
+      "mikey-youtube-live-024-E0003",
+      "mikey-youtube-live-024-K005"
+    ],
+    "required_evidence": "原音、个案边界和心理专业复核",
+    "owner": "safety-review",
+    "status": "open",
+    "evidence_refs": [
+      {
+        "evidence_id": "mikey-youtube-live-024-E0003-R165",
+        "youtube_url": "https://www.youtube.com/watch?v=-yPQ13M6jX8&t=1556s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-024-E0003-R183",
+        "youtube_url": "https://www.youtube.com/watch?v=-yPQ13M6jX8&t=1585s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-024-E0003-R202",
+        "youtube_url": "https://www.youtube.com/watch?v=-yPQ13M6jX8&t=1624s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-024-E0003-R203",
+        "youtube_url": "https://www.youtube.com/watch?v=-yPQ13M6jX8&t=1627s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-024-E0003-R205",
+        "youtube_url": "https://www.youtube.com/watch?v=-yPQ13M6jX8&t=1630s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-024-E0003-R208",
+        "youtube_url": "https://www.youtube.com/watch?v=-yPQ13M6jX8&t=1636s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-024-E0003-R238",
+        "youtube_url": "https://www.youtube.com/watch?v=-yPQ13M6jX8&t=1694s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-024-E0003-R284",
+        "youtube_url": "https://www.youtube.com/watch?v=-yPQ13M6jX8&t=1778s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-024-E0003-R291",
+        "youtube_url": "https://www.youtube.com/watch?v=-yPQ13M6jX8&t=1791s"
+      }
+    ]
+  },
+  {
+    "id": "mikey-youtube-live-024-R002",
+    "source_id": "mikey-youtube-live-024",
+    "start": 2580,
+    "end": 3335,
+    "type": "sexual_pressure_and_consent",
+    "severity": "blocking",
+    "question": "用说服、虚假承诺对比和‘CPU烧了’推进性交是否绕过清楚持续同意？",
+    "affected_ids": [
+      "mikey-youtube-live-024-E0005",
+      "mikey-youtube-live-024-E0006",
+      "mikey-youtube-live-024-E0007",
+      "mikey-youtube-live-024-K011"
+    ],
+    "required_evidence": "成年人、持续同意和安全边界复核",
+    "owner": "safety-review",
+    "status": "open",
+    "evidence_refs": [
+      {
+        "evidence_id": "mikey-youtube-live-024-E0005-R114",
+        "youtube_url": "https://www.youtube.com/watch?v=-yPQ13M6jX8&t=2726s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-024-E0005-R118",
+        "youtube_url": "https://www.youtube.com/watch?v=-yPQ13M6jX8&t=2733s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-024-E0005-R121",
+        "youtube_url": "https://www.youtube.com/watch?v=-yPQ13M6jX8&t=2737s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-024-E0006-R077",
+        "youtube_url": "https://www.youtube.com/watch?v=-yPQ13M6jX8&t=3192s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-024-E0006-R080",
+        "youtube_url": "https://www.youtube.com/watch?v=-yPQ13M6jX8&t=3211s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-024-E0006-R096",
+        "youtube_url": "https://www.youtube.com/watch?v=-yPQ13M6jX8&t=3234s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-024-E0006-R111",
+        "youtube_url": "https://www.youtube.com/watch?v=-yPQ13M6jX8&t=3264s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-024-E0006-R113",
+        "youtube_url": "https://www.youtube.com/watch?v=-yPQ13M6jX8&t=3266s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-024-E0006-R124",
+        "youtube_url": "https://www.youtube.com/watch?v=-yPQ13M6jX8&t=3288s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-024-E0007-R004",
+        "youtube_url": "https://www.youtube.com/watch?v=-yPQ13M6jX8&t=3307s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-024-E0007-R007",
+        "youtube_url": "https://www.youtube.com/watch?v=-yPQ13M6jX8&t=3312s"
+      }
+    ]
+  },
+  {
+    "id": "mikey-youtube-live-024-R003",
+    "source_id": "mikey-youtube-live-024",
+    "start": 3380,
+    "end": 3550,
+    "type": "medical_misinformation",
+    "severity": "blocking",
+    "question": "安全套、艾滋和其他性病风险说法是否为严重医学错误并污名化患者？",
+    "affected_ids": [
+      "mikey-youtube-live-024-E0007",
+      "mikey-youtube-live-024-K012"
+    ],
+    "required_evidence": "权威医学来源复核",
+    "owner": "safety-review",
+    "status": "open",
+    "evidence_refs": [
+      {
+        "evidence_id": "mikey-youtube-live-024-E0007-R050",
+        "youtube_url": "https://www.youtube.com/watch?v=-yPQ13M6jX8&t=3394s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-024-E0007-R052",
+        "youtube_url": "https://www.youtube.com/watch?v=-yPQ13M6jX8&t=3397s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-024-E0007-R054",
+        "youtube_url": "https://www.youtube.com/watch?v=-yPQ13M6jX8&t=3400s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-024-E0007-R057",
+        "youtube_url": "https://www.youtube.com/watch?v=-yPQ13M6jX8&t=3405s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-024-E0007-R064",
+        "youtube_url": "https://www.youtube.com/watch?v=-yPQ13M6jX8&t=3417s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-024-E0007-R067",
+        "youtube_url": "https://www.youtube.com/watch?v=-yPQ13M6jX8&t=3422s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-024-E0007-R090",
+        "youtube_url": "https://www.youtube.com/watch?v=-yPQ13M6jX8&t=3459s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-024-E0007-R104",
+        "youtube_url": "https://www.youtube.com/watch?v=-yPQ13M6jX8&t=3496s"
+      }
+    ]
+  },
+  {
+    "id": "mikey-youtube-live-024-R004",
+    "source_id": "mikey-youtube-live-024",
+    "start": 3600.08,
+    "end": 4200.82,
+    "type": "violence_and_public_figure_claims",
+    "severity": "blocking",
+    "question": "对特朗普视频和撞人等内容是事实、玩笑、引用还是ASR错误？",
+    "affected_ids": [
+      "mikey-youtube-live-024-E0008"
+    ],
+    "required_evidence": "原音、原视频和事实核查",
+    "owner": "fact-review",
+    "status": "open",
+    "evidence_refs": [
+      {
+        "evidence_id": "mikey-youtube-live-024-E0008-R051",
+        "youtube_url": "https://www.youtube.com/watch?v=-yPQ13M6jX8&t=3867s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-024-E0008-R053",
+        "youtube_url": "https://www.youtube.com/watch?v=-yPQ13M6jX8&t=3875s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-024-E0008-R113",
+        "youtube_url": "https://www.youtube.com/watch?v=-yPQ13M6jX8&t=4060s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-024-E0008-R119",
+        "youtube_url": "https://www.youtube.com/watch?v=-yPQ13M6jX8&t=4072s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-024-E0008-R120",
+        "youtube_url": "https://www.youtube.com/watch?v=-yPQ13M6jX8&t=4073s"
+      }
+    ]
+  },
+  {
+    "id": "mikey-youtube-live-024-R005",
+    "source_id": "mikey-youtube-live-024",
+    "start": 4000,
+    "end": 4380,
+    "type": "online_harassment",
+    "severity": "major",
+    "question": "把网暴者一律归为弱者并把网暴当成功证明，是否会掩盖真实越界和安全风险？",
+    "affected_ids": [
+      "mikey-youtube-live-024-E0008",
+      "mikey-youtube-live-024-K014"
+    ],
+    "required_evidence": "安全和编辑边界复核",
+    "owner": "editorial-review",
+    "status": "open",
+    "evidence_refs": [
+      {
+        "evidence_id": "mikey-youtube-live-024-E0008-R093",
+        "youtube_url": "https://www.youtube.com/watch?v=-yPQ13M6jX8&t=4013s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-024-E0008-R099",
+        "youtube_url": "https://www.youtube.com/watch?v=-yPQ13M6jX8&t=4030s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-024-E0008-R103",
+        "youtube_url": "https://www.youtube.com/watch?v=-yPQ13M6jX8&t=4039s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-024-E0008-R104",
+        "youtube_url": "https://www.youtube.com/watch?v=-yPQ13M6jX8&t=4041s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-024-E0008-R123",
+        "youtube_url": "https://www.youtube.com/watch?v=-yPQ13M6jX8&t=4080s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-024-E0008-R125",
+        "youtube_url": "https://www.youtube.com/watch?v=-yPQ13M6jX8&t=4084s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-024-E0008-R145",
+        "youtube_url": "https://www.youtube.com/watch?v=-yPQ13M6jX8&t=4127s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-024-E0008-R149",
+        "youtube_url": "https://www.youtube.com/watch?v=-yPQ13M6jX8&t=4135s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-024-E0008-R157",
+        "youtube_url": "https://www.youtube.com/watch?v=-yPQ13M6jX8&t=4154s"
+      }
+    ]
+  },
+  {
+    "id": "mikey-youtube-live-024-R006",
+    "source_id": "mikey-youtube-live-024",
+    "start": 4200.82,
+    "end": 4500.0,
+    "type": "sexual_boundary_and_aftercare",
+    "severity": "blocking",
+    "question": "性关系后让对方离开、把不同意视为必须接纳自己的二选一，是否缺少事前沟通和安全照顾？",
+    "affected_ids": [
+      "mikey-youtube-live-024-E0009"
+    ],
+    "required_evidence": "同意、住宿和安全边界复核",
+    "owner": "safety-review",
+    "status": "open",
+    "evidence_refs": [
+      {
+        "evidence_id": "mikey-youtube-live-024-E0009-R021",
+        "youtube_url": "https://www.youtube.com/watch?v=-yPQ13M6jX8&t=4239s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-024-E0009-R023",
+        "youtube_url": "https://www.youtube.com/watch?v=-yPQ13M6jX8&t=4241s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-024-E0009-R034",
+        "youtube_url": "https://www.youtube.com/watch?v=-yPQ13M6jX8&t=4267s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-024-E0009-R040",
+        "youtube_url": "https://www.youtube.com/watch?v=-yPQ13M6jX8&t=4276s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-024-E0009-R046",
+        "youtube_url": "https://www.youtube.com/watch?v=-yPQ13M6jX8&t=4284s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-024-E0009-R065",
+        "youtube_url": "https://www.youtube.com/watch?v=-yPQ13M6jX8&t=4307s"
+      }
+    ]
+  },
+  {
+    "id": "mikey-youtube-live-024-R007",
+    "source_id": "mikey-youtube-live-024",
+    "start": 4500.0,
+    "end": 4801.92,
+    "type": "block_evasion",
+    "severity": "blocking",
+    "question": "换号或电话绕过拉黑是否应完全禁止用于建议？",
+    "affected_ids": [
+      "mikey-youtube-live-024-E0010",
+      "mikey-youtube-live-024-K016"
+    ],
+    "required_evidence": "持续联系与骚扰边界复核",
+    "owner": "safety-review",
+    "status": "open",
+    "evidence_refs": [
+      {
+        "evidence_id": "mikey-youtube-live-024-E0010-R024",
+        "youtube_url": "https://www.youtube.com/watch?v=-yPQ13M6jX8&t=4562s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-024-E0010-R029",
+        "youtube_url": "https://www.youtube.com/watch?v=-yPQ13M6jX8&t=4570s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-024-E0010-R030",
+        "youtube_url": "https://www.youtube.com/watch?v=-yPQ13M6jX8&t=4572s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-024-E0010-R032",
+        "youtube_url": "https://www.youtube.com/watch?v=-yPQ13M6jX8&t=4576s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-024-E0010-R033",
+        "youtube_url": "https://www.youtube.com/watch?v=-yPQ13M6jX8&t=4578s"
+      }
+    ]
+  },
+  {
+    "id": "mikey-youtube-live-024-R008",
+    "source_id": "mikey-youtube-live-024",
+    "start": 4500.0,
+    "end": 4801.92,
+    "type": "sti_repeat_claim",
+    "severity": "blocking",
+    "question": "后续再次用‘戴套就行’回答疾病风险是否必须阻断？",
+    "affected_ids": [
+      "mikey-youtube-live-024-E0010",
+      "mikey-youtube-live-024-K012"
+    ],
+    "required_evidence": "医学与风险复核",
+    "owner": "safety-review",
+    "status": "open",
+    "evidence_refs": [
+      {
+        "evidence_id": "mikey-youtube-live-024-E0010-R075",
+        "youtube_url": "https://www.youtube.com/watch?v=-yPQ13M6jX8&t=4683s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-024-E0010-R076",
+        "youtube_url": "https://www.youtube.com/watch?v=-yPQ13M6jX8&t=4689s"
+      }
+    ]
+  },
+  {
+    "id": "mikey-youtube-live-024-R009",
+    "source_id": "mikey-youtube-live-024",
+    "start": 4801.92,
+    "end": 5395.96,
+    "type": "sexual_topic_pressure",
+    "severity": "major",
+    "question": "用‘不够文艺／读书少’使对方怀疑自己来接受性话题，是否属于操控？",
+    "affected_ids": [
+      "mikey-youtube-live-024-E0011"
+    ],
+    "required_evidence": "同意与沟通边界复核",
+    "owner": "safety-review",
+    "status": "open",
+    "evidence_refs": [
+      {
+        "evidence_id": "mikey-youtube-live-024-E0011-R111",
+        "youtube_url": "https://www.youtube.com/watch?v=-yPQ13M6jX8&t=5079s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-024-E0011-R112",
+        "youtube_url": "https://www.youtube.com/watch?v=-yPQ13M6jX8&t=5081s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-024-E0011-R116",
+        "youtube_url": "https://www.youtube.com/watch?v=-yPQ13M6jX8&t=5090s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-024-E0012-R003",
+        "youtube_url": "https://www.youtube.com/watch?v=-yPQ13M6jX8&t=5103s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-024-E0012-R010",
+        "youtube_url": "https://www.youtube.com/watch?v=-yPQ13M6jX8&t=5114s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-024-E0012-R011",
+        "youtube_url": "https://www.youtube.com/watch?v=-yPQ13M6jX8&t=5116s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-024-E0012-R014",
+        "youtube_url": "https://www.youtube.com/watch?v=-yPQ13M6jX8&t=5125s"
+      }
+    ]
+  },
+  {
+    "id": "mikey-youtube-live-024-R010",
+    "source_id": "mikey-youtube-live-024",
+    "start": 5449.84,
+    "end": 5784.18,
+    "type": "block_evasion_repeat",
+    "severity": "blocking",
+    "question": "再次把拉黑解释为有吸引就能继续操作，是否应全部隔离？",
+    "affected_ids": [
+      "mikey-youtube-live-024-E0013",
+      "mikey-youtube-live-024-K016"
+    ],
+    "required_evidence": "持续联系与骚扰边界复核",
+    "owner": "safety-review",
+    "status": "open",
+    "evidence_refs": [
+      {
+        "evidence_id": "mikey-youtube-live-024-E0013-R040",
+        "youtube_url": "https://www.youtube.com/watch?v=-yPQ13M6jX8&t=5631s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-024-E0013-R048",
+        "youtube_url": "https://www.youtube.com/watch?v=-yPQ13M6jX8&t=5645s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-024-E0013-R055",
+        "youtube_url": "https://www.youtube.com/watch?v=-yPQ13M6jX8&t=5655s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-024-E0013-R061",
+        "youtube_url": "https://www.youtube.com/watch?v=-yPQ13M6jX8&t=5663s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-024-E0013-R063",
+        "youtube_url": "https://www.youtube.com/watch?v=-yPQ13M6jX8&t=5666s"
+      }
+    ]
+  },
+  {
+    "id": "mikey-youtube-live-025-R001",
+    "source_id": "mikey-youtube-live-025",
+    "start": 300,
+    "end": 570,
+    "type": "public_figure_private_life",
+    "severity": "blocking",
+    "question": "电竞选手及伴侣的性经历、婚姻和亲子暗示是否有可靠来源，是否应全部移出可执行知识？",
+    "affected_ids": [
+      "mikey-youtube-live-025-E0001"
+    ],
+    "required_evidence": "原始来源和事实核查",
+    "owner": "fact-review",
+    "status": "open",
+    "evidence_refs": [
+      {
+        "evidence_id": "mikey-youtube-live-025-E0001-R130",
+        "youtube_url": "https://www.youtube.com/watch?v=dSYHWDUlQ4I&t=443s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-025-E0001-R131",
+        "youtube_url": "https://www.youtube.com/watch?v=dSYHWDUlQ4I&t=446s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-025-E0001-R132",
+        "youtube_url": "https://www.youtube.com/watch?v=dSYHWDUlQ4I&t=450s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-025-E0001-R154",
+        "youtube_url": "https://www.youtube.com/watch?v=dSYHWDUlQ4I&t=514s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-025-E0001-R156",
+        "youtube_url": "https://www.youtube.com/watch?v=dSYHWDUlQ4I&t=519s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-025-E0001-R158",
+        "youtube_url": "https://www.youtube.com/watch?v=dSYHWDUlQ4I&t=522s"
+      }
+    ]
+  },
+  {
+    "id": "mikey-youtube-live-025-R002",
+    "source_id": "mikey-youtube-live-025",
+    "start": 570,
+    "end": 800,
+    "type": "relationship_determinism",
+    "severity": "major",
+    "question": "‘唯一选择／道德高尚／持续提升’三条件是否被错误表达为伴侣不离开的客观事实？",
+    "affected_ids": [
+      "mikey-youtube-live-025-E0002",
+      "mikey-youtube-live-025-K005"
+    ],
+    "required_evidence": "语义和因果边界复核",
+    "owner": "source-review",
+    "status": "open",
+    "evidence_refs": [
+      {
+        "evidence_id": "mikey-youtube-live-025-E0002-R079",
+        "youtube_url": "https://www.youtube.com/watch?v=dSYHWDUlQ4I&t=712s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-025-E0002-R082",
+        "youtube_url": "https://www.youtube.com/watch?v=dSYHWDUlQ4I&t=716s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-025-E0002-R085",
+        "youtube_url": "https://www.youtube.com/watch?v=dSYHWDUlQ4I&t=721s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-025-E0002-R094",
+        "youtube_url": "https://www.youtube.com/watch?v=dSYHWDUlQ4I&t=732s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-025-E0002-R107",
+        "youtube_url": "https://www.youtube.com/watch?v=dSYHWDUlQ4I&t=749s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-025-E0002-R109",
+        "youtube_url": "https://www.youtube.com/watch?v=dSYHWDUlQ4I&t=751s"
+      }
+    ]
+  },
+  {
+    "id": "mikey-youtube-live-025-R003",
+    "source_id": "mikey-youtube-live-025",
+    "start": 895,
+    "end": 1160,
+    "type": "gender_and_regional_stereotype",
+    "severity": "blocking",
+    "question": "对女性智力、山东女性性压抑和所谓喜欢不尊重者的概括是否应禁止一般化？",
+    "affected_ids": [
+      "mikey-youtube-live-025-E0003",
+      "mikey-youtube-live-025-K016"
+    ],
+    "required_evidence": "编辑和歧视性概括复核",
+    "owner": "editorial-review",
+    "status": "open",
+    "evidence_refs": [
+      {
+        "evidence_id": "mikey-youtube-live-025-E0003-R004",
+        "youtube_url": "https://www.youtube.com/watch?v=dSYHWDUlQ4I&t=904s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-025-E0003-R011",
+        "youtube_url": "https://www.youtube.com/watch?v=dSYHWDUlQ4I&t=922s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-025-E0003-R066",
+        "youtube_url": "https://www.youtube.com/watch?v=dSYHWDUlQ4I&t=1087s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-025-E0003-R067",
+        "youtube_url": "https://www.youtube.com/watch?v=dSYHWDUlQ4I&t=1088s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-025-E0003-R083",
+        "youtube_url": "https://www.youtube.com/watch?v=dSYHWDUlQ4I&t=1117s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-025-E0003-R095",
+        "youtube_url": "https://www.youtube.com/watch?v=dSYHWDUlQ4I&t=1141s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-025-E0003-R099",
+        "youtube_url": "https://www.youtube.com/watch?v=dSYHWDUlQ4I&t=1147s"
+      }
+    ]
+  },
+  {
+    "id": "mikey-youtube-live-025-R004",
+    "source_id": "mikey-youtube-live-025",
+    "start": 1390,
+    "end": 1485,
+    "type": "private_chat_display",
+    "severity": "blocking",
+    "question": "手机展示的联系人身份、消息顺序、公开授权和主持人口述是否能由画面确认？",
+    "affected_ids": [
+      "mikey-youtube-live-025-E0004"
+    ],
+    "required_evidence": "原尺寸顺序帧、OCR和授权边界复核",
+    "owner": "source-review",
+    "status": "open",
+    "evidence_refs": [
+      {
+        "evidence_id": "mikey-youtube-live-025-E0004-R094",
+        "youtube_url": "https://www.youtube.com/watch?v=dSYHWDUlQ4I&t=1407s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-025-E0004-R096",
+        "youtube_url": "https://www.youtube.com/watch?v=dSYHWDUlQ4I&t=1421s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-025-E0004-R098",
+        "youtube_url": "https://www.youtube.com/watch?v=dSYHWDUlQ4I&t=1428s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-025-E0004-R105",
+        "youtube_url": "https://www.youtube.com/watch?v=dSYHWDUlQ4I&t=1442s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-025-E0004-R110",
+        "youtube_url": "https://www.youtube.com/watch?v=dSYHWDUlQ4I&t=1461s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-025-E0004-R116",
+        "youtube_url": "https://www.youtube.com/watch?v=dSYHWDUlQ4I&t=1469s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-025-E0004-R124",
+        "youtube_url": "https://www.youtube.com/watch?v=dSYHWDUlQ4I&t=1479s"
+      }
+    ]
+  },
+  {
+    "id": "mikey-youtube-live-025-R005",
+    "source_id": "mikey-youtube-live-025",
+    "start": 1500.25,
+    "end": 2103.12,
+    "type": "course_sales_claim",
+    "severity": "major",
+    "question": "课程‘全行业最好’、效果和无法盗版等宣称是否仅为销售话术？",
+    "affected_ids": [
+      "mikey-youtube-live-025-E0005",
+      "mikey-youtube-live-025-E0006",
+      "mikey-youtube-live-025-E0010"
+    ],
+    "required_evidence": "销售语境和事实核查",
+    "owner": "fact-review",
+    "status": "open",
+    "evidence_refs": [
+      {
+        "evidence_id": "mikey-youtube-live-025-E0005-R094",
+        "youtube_url": "https://www.youtube.com/watch?v=dSYHWDUlQ4I&t=1742s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-025-E0005-R098",
+        "youtube_url": "https://www.youtube.com/watch?v=dSYHWDUlQ4I&t=1781s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-025-E0005-R100",
+        "youtube_url": "https://www.youtube.com/watch?v=dSYHWDUlQ4I&t=1785s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-025-E0006-R028",
+        "youtube_url": "https://www.youtube.com/watch?v=dSYHWDUlQ4I&t=1918s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-025-E0006-R031",
+        "youtube_url": "https://www.youtube.com/watch?v=dSYHWDUlQ4I&t=1924s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-025-E0006-R065",
+        "youtube_url": "https://www.youtube.com/watch?v=dSYHWDUlQ4I&t=2018s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-025-E0006-R068",
+        "youtube_url": "https://www.youtube.com/watch?v=dSYHWDUlQ4I&t=2025s"
+      }
+    ]
+  },
+  {
+    "id": "mikey-youtube-live-025-R006",
+    "source_id": "mikey-youtube-live-025",
+    "start": 1620,
+    "end": 2580,
+    "type": "coercive_control",
+    "severity": "blocking",
+    "question": "把关系定义为支配游戏、让对方无法说no或失去尊严，是否必须全部隔离为不可建议内容？",
+    "affected_ids": [
+      "mikey-youtube-live-025-E0005",
+      "mikey-youtube-live-025-E0006",
+      "mikey-youtube-live-025-E0008",
+      "mikey-youtube-live-025-K015"
+    ],
+    "required_evidence": "同意、胁迫和安全边界复核",
+    "owner": "safety-review",
+    "status": "open",
+    "evidence_refs": [
+      {
+        "evidence_id": "mikey-youtube-live-025-E0005-R060",
+        "youtube_url": "https://www.youtube.com/watch?v=dSYHWDUlQ4I&t=1664s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-025-E0005-R065",
+        "youtube_url": "https://www.youtube.com/watch?v=dSYHWDUlQ4I&t=1674s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-025-E0006-R004",
+        "youtube_url": "https://www.youtube.com/watch?v=dSYHWDUlQ4I&t=1810s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-025-E0006-R005",
+        "youtube_url": "https://www.youtube.com/watch?v=dSYHWDUlQ4I&t=1812s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-025-E0006-R037",
+        "youtube_url": "https://www.youtube.com/watch?v=dSYHWDUlQ4I&t=1937s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-025-E0008-R013",
+        "youtube_url": "https://www.youtube.com/watch?v=dSYHWDUlQ4I&t=2459s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-025-E0008-R016",
+        "youtube_url": "https://www.youtube.com/watch?v=dSYHWDUlQ4I&t=2471s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-025-E0008-R022",
+        "youtube_url": "https://www.youtube.com/watch?v=dSYHWDUlQ4I&t=2487s"
+      }
+    ]
+  },
+  {
+    "id": "mikey-youtube-live-025-R007",
+    "source_id": "mikey-youtube-live-025",
+    "start": 2700.0,
+    "end": 3001.09,
+    "type": "education_decision",
+    "severity": "major",
+    "question": "大学去留建议是否充分考虑学校、经济、心理状态、家庭与可逆后路？",
+    "affected_ids": [
+      "mikey-youtube-live-025-E0009",
+      "mikey-youtube-live-025-K013"
+    ],
+    "required_evidence": "用户个案信息和教育职业复核",
+    "owner": "source-review",
+    "status": "open",
+    "evidence_refs": [
+      {
+        "evidence_id": "mikey-youtube-live-025-E0009-R074",
+        "youtube_url": "https://www.youtube.com/watch?v=dSYHWDUlQ4I&t=2899s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-025-E0009-R083",
+        "youtube_url": "https://www.youtube.com/watch?v=dSYHWDUlQ4I&t=2920s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-025-E0009-R086",
+        "youtube_url": "https://www.youtube.com/watch?v=dSYHWDUlQ4I&t=2928s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-025-E0009-R104",
+        "youtube_url": "https://www.youtube.com/watch?v=dSYHWDUlQ4I&t=2962s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-025-E0009-R108",
+        "youtube_url": "https://www.youtube.com/watch?v=dSYHWDUlQ4I&t=2967s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-025-E0009-R110",
+        "youtube_url": "https://www.youtube.com/watch?v=dSYHWDUlQ4I&t=2969s"
+      }
+    ]
+  },
+  {
+    "id": "mikey-youtube-live-025-R008",
+    "source_id": "mikey-youtube-live-025",
+    "start": 3300,
+    "end": 3890,
+    "type": "sexual_responsibility_and_gender_generalization",
+    "severity": "blocking",
+    "question": "责任回答、名人出轨新闻、女性不可信和限制伴侣社交是否会形成欺骗或控制？",
+    "affected_ids": [
+      "mikey-youtube-live-025-E0011",
+      "mikey-youtube-live-025-K014",
+      "mikey-youtube-live-025-K015",
+      "mikey-youtube-live-025-K016"
+    ],
+    "required_evidence": "事实、同意和控制边界复核",
+    "owner": "safety-review",
+    "status": "open",
+    "evidence_refs": [
+      {
+        "evidence_id": "mikey-youtube-live-025-E0011-R006",
+        "youtube_url": "https://www.youtube.com/watch?v=dSYHWDUlQ4I&t=3321s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-025-E0011-R011",
+        "youtube_url": "https://www.youtube.com/watch?v=dSYHWDUlQ4I&t=3338s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-025-E0011-R030",
+        "youtube_url": "https://www.youtube.com/watch?v=dSYHWDUlQ4I&t=3578s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-025-E0011-R033",
+        "youtube_url": "https://www.youtube.com/watch?v=dSYHWDUlQ4I&t=3587s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-025-E0011-R040",
+        "youtube_url": "https://www.youtube.com/watch?v=dSYHWDUlQ4I&t=3603s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-025-E0011-R077",
+        "youtube_url": "https://www.youtube.com/watch?v=dSYHWDUlQ4I&t=3858s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-025-E0011-R083",
+        "youtube_url": "https://www.youtube.com/watch?v=dSYHWDUlQ4I&t=3868s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-025-E0011-R089",
+        "youtube_url": "https://www.youtube.com/watch?v=dSYHWDUlQ4I&t=3886s"
+      }
+    ]
+  },
+  {
+    "id": "mikey-youtube-live-026-R001",
+    "source_id": "mikey-youtube-live-026",
+    "start": 323.52,
+    "end": 527.92,
+    "type": "gender_determinism",
+    "severity": "blocking",
+    "question": "把女性动机、忠诚和性价值作绝对化概括是否必须限制？",
+    "affected_ids": [
+      "mikey-youtube-live-026-E0001",
+      "mikey-youtube-live-026-E0002"
+    ],
+    "required_evidence": "语义、群体概括和编辑复核",
+    "owner": "editorial-review",
+    "status": "open",
+    "evidence_refs": [
+      {
+        "evidence_id": "mikey-youtube-live-026-E0002-R020",
+        "youtube_url": "https://www.youtube.com/watch?v=PQbkX-IUGcs&t=345s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-026-E0002-R082",
+        "youtube_url": "https://www.youtube.com/watch?v=PQbkX-IUGcs&t=468s"
+      }
+    ]
+  },
+  {
+    "id": "mikey-youtube-live-026-R002",
+    "source_id": "mikey-youtube-live-026",
+    "start": 527.92,
+    "end": 819.2,
+    "type": "unsafe_sex_and_pregnancy",
+    "severity": "blocking",
+    "question": "不戴套、怀孕和所谓强势是否被错误转成可执行建议？",
+    "affected_ids": [
+      "mikey-youtube-live-026-E0003"
+    ],
+    "required_evidence": "同意、避孕和医疗安全复核",
+    "owner": "safety-review",
+    "status": "open",
+    "evidence_refs": [
+      {
+        "evidence_id": "mikey-youtube-live-026-E0003-R026",
+        "youtube_url": "https://www.youtube.com/watch?v=PQbkX-IUGcs&t=627s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-026-E0003-R027",
+        "youtube_url": "https://www.youtube.com/watch?v=PQbkX-IUGcs&t=629s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-026-E0003-R028",
+        "youtube_url": "https://www.youtube.com/watch?v=PQbkX-IUGcs&t=630s"
+      }
+    ]
+  },
+  {
+    "id": "mikey-youtube-live-026-R003",
+    "source_id": "mikey-youtube-live-026",
+    "start": 1840,
+    "end": 1950,
+    "type": "hiv_risk",
+    "severity": "blocking",
+    "question": "艾滋风险回答是否淡化检测、窗口期和屏障保护？",
+    "affected_ids": [
+      "mikey-youtube-live-026-E0007"
+    ],
+    "required_evidence": "专业医疗信息复核",
+    "owner": "medical-review",
+    "status": "open",
+    "evidence_refs": [
+      {
+        "evidence_id": "mikey-youtube-live-026-E0007-R067",
+        "youtube_url": "https://www.youtube.com/watch?v=PQbkX-IUGcs&t=1851s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-026-E0007-R084",
+        "youtube_url": "https://www.youtube.com/watch?v=PQbkX-IUGcs&t=1891s"
+      }
+    ]
+  },
+  {
+    "id": "mikey-youtube-live-026-R004",
+    "source_id": "mikey-youtube-live-026",
+    "start": 0,
+    "end": 3970,
+    "type": "visual_inspection_pending",
+    "severity": "major",
+    "question": "低清候选虽已生成，直播中是否存在屏幕、截图、播放材料或人物切换尚未语义审查？",
+    "affected_ids": [
+      "mikey-youtube-live-026-E0001",
+      "mikey-youtube-live-026-E0002",
+      "mikey-youtube-live-026-E0003",
+      "mikey-youtube-live-026-E0004",
+      "mikey-youtube-live-026-E0005",
+      "mikey-youtube-live-026-E0006",
+      "mikey-youtube-live-026-E0007",
+      "mikey-youtube-live-026-E0008",
+      "mikey-youtube-live-026-E0009",
+      "mikey-youtube-live-026-E0010",
+      "mikey-youtube-live-026-E0011",
+      "mikey-youtube-live-026-E0012"
+    ],
+    "required_evidence": "313个低清候选、7张联系表的人工审查和重点原尺寸顺序帧",
+    "owner": "visual-review",
+    "status": "open",
+    "evidence_refs": [
+      {
+        "evidence_id": "mikey-youtube-live-026-E0001-R001",
+        "youtube_url": "https://www.youtube.com/watch?v=PQbkX-IUGcs&t=28s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-026-E0012-R107",
+        "youtube_url": "https://www.youtube.com/watch?v=PQbkX-IUGcs&t=3960s"
+      }
+    ]
+  },
+  {
+    "id": "mikey-youtube-live-027-R001",
+    "source_id": "mikey-youtube-live-027",
+    "start": 2223.71,
+    "end": 2842.67,
+    "type": "sexual_exploitation_and_gender_abuse",
+    "severity": "blocking",
+    "question": "婚外情、皮条、卖淫和女性贬损段落是否全部隔离？",
+    "affected_ids": [
+      "mikey-youtube-live-027-E0007"
+    ],
+    "required_evidence": "安全和编辑复核",
+    "owner": "safety-review",
+    "status": "open",
+    "evidence_refs": [
+      {
+        "evidence_id": "mikey-youtube-live-027-E0007-R020",
+        "youtube_url": "https://www.youtube.com/watch?v=8jCwDoBjWT0&t=2306s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-027-E0007-R021",
+        "youtube_url": "https://www.youtube.com/watch?v=8jCwDoBjWT0&t=2318s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-027-E0007-R022",
+        "youtube_url": "https://www.youtube.com/watch?v=8jCwDoBjWT0&t=2319s"
+      }
+    ]
+  },
+  {
+    "id": "mikey-youtube-live-027-R002",
+    "source_id": "mikey-youtube-live-027",
+    "start": 1150,
+    "end": 1400,
+    "type": "private_space_consent",
+    "severity": "blocking",
+    "question": "私密空间和身体接触建议是否缺少清楚、持续、可撤回同意？",
+    "affected_ids": [
+      "mikey-youtube-live-027-E0004"
+    ],
+    "required_evidence": "连续语境和同意边界复核",
+    "owner": "safety-review",
+    "status": "open",
+    "evidence_refs": [
+      {
+        "evidence_id": "mikey-youtube-live-027-E0004-R060",
+        "youtube_url": "https://www.youtube.com/watch?v=8jCwDoBjWT0&t=1372s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-027-E0004-R061",
+        "youtube_url": "https://www.youtube.com/watch?v=8jCwDoBjWT0&t=1373s"
+      }
+    ]
+  },
+  {
+    "id": "mikey-youtube-live-027-R003",
+    "source_id": "mikey-youtube-live-027",
+    "start": 0,
+    "end": 4460,
+    "type": "visual_inspection_pending",
+    "severity": "major",
+    "question": "低清候选和联系表尚未人工语义审查，是否有截图、演示或人物切换？",
+    "affected_ids": [
+      "mikey-youtube-live-027-E0001",
+      "mikey-youtube-live-027-E0002",
+      "mikey-youtube-live-027-E0003",
+      "mikey-youtube-live-027-E0004",
+      "mikey-youtube-live-027-E0005",
+      "mikey-youtube-live-027-E0006",
+      "mikey-youtube-live-027-E0007",
+      "mikey-youtube-live-027-E0008",
+      "mikey-youtube-live-027-E0009",
+      "mikey-youtube-live-027-E0010",
+      "mikey-youtube-live-027-E0011",
+      "mikey-youtube-live-027-E0012",
+      "mikey-youtube-live-027-E0013",
+      "mikey-youtube-live-027-E0014"
+    ],
+    "required_evidence": "340个候选、8张联系表和重点原尺寸帧复核",
+    "owner": "visual-review",
+    "status": "open",
+    "evidence_refs": [
+      {
+        "evidence_id": "mikey-youtube-live-027-E0001-R001",
+        "youtube_url": "https://www.youtube.com/watch?v=8jCwDoBjWT0&t=39s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-027-E0014-R020",
+        "youtube_url": "https://www.youtube.com/watch?v=8jCwDoBjWT0&t=4456s"
+      }
+    ]
+  },
+  {
+    "id": "mikey-youtube-live-028-R001",
+    "source_id": "mikey-youtube-live-028",
+    "start": 900,
+    "end": 1400,
+    "type": "mental_health_and_violence",
+    "severity": "blocking",
+    "question": "内在小孩、催眠、冥想和打骂伴侣的疗愈说法是否越过心理治疗与暴力边界？",
+    "affected_ids": [
+      "mikey-youtube-live-028-E0002"
+    ],
+    "required_evidence": "心理健康专业复核和暴力边界",
+    "owner": "clinical-review",
+    "status": "open",
+    "evidence_refs": [
+      {
+        "evidence_id": "mikey-youtube-live-028-E0002-R059",
+        "youtube_url": "https://www.youtube.com/watch?v=vBoAYfRFhh0&t=1045s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-028-E0002-R070",
+        "youtube_url": "https://www.youtube.com/watch?v=vBoAYfRFhh0&t=1061s"
+      }
+    ]
+  },
+  {
+    "id": "mikey-youtube-live-028-R002",
+    "source_id": "mikey-youtube-live-028",
+    "start": 2533.96,
+    "end": 3126.75,
+    "type": "deception_consent_and_alcohol",
+    "severity": "blocking",
+    "question": "上楼借口、身体接触排斥、酒吧转场和拒绝后继续推进是否全部隔离？",
+    "affected_ids": [
+      "mikey-youtube-live-028-E0003",
+      "mikey-youtube-live-028-E0007"
+    ],
+    "required_evidence": "连续语境、清楚同意和酒精影响复核",
+    "owner": "safety-review",
+    "status": "open",
+    "evidence_refs": [
+      {
+        "evidence_id": "mikey-youtube-live-028-E0007-R035",
+        "youtube_url": "https://www.youtube.com/watch?v=vBoAYfRFhh0&t=2591s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-028-E0007-R036",
+        "youtube_url": "https://www.youtube.com/watch?v=vBoAYfRFhh0&t=2592s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-028-E0008-R041",
+        "youtube_url": "https://www.youtube.com/watch?v=vBoAYfRFhh0&t=2912s"
+      }
+    ]
+  },
+  {
+    "id": "mikey-youtube-live-028-R003",
+    "source_id": "mikey-youtube-live-028",
+    "start": 3900,
+    "end": 4400,
+    "type": "npc_dehumanization",
+    "severity": "blocking",
+    "question": "‘世界只有自己、别人都是NPC、女性只提供性价值’是否必须禁止一般化？",
+    "affected_ids": [
+      "mikey-youtube-live-028-E0011",
+      "mikey-youtube-live-028-E0012"
+    ],
+    "required_evidence": "编辑和去人化风险复核",
+    "owner": "editorial-review",
+    "status": "open",
+    "evidence_refs": [
+      {
+        "evidence_id": "mikey-youtube-live-028-E0011-R066",
+        "youtube_url": "https://www.youtube.com/watch?v=vBoAYfRFhh0&t=4050s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-028-E0011-R075",
+        "youtube_url": "https://www.youtube.com/watch?v=vBoAYfRFhh0&t=4067s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-028-E0011-R081",
+        "youtube_url": "https://www.youtube.com/watch?v=vBoAYfRFhh0&t=4077s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-028-E0012-R015",
+        "youtube_url": "https://www.youtube.com/watch?v=vBoAYfRFhh0&t=4236s"
+      }
+    ]
+  },
+  {
+    "id": "mikey-youtube-live-028-R004",
+    "source_id": "mikey-youtube-live-028",
+    "start": 0,
+    "end": 5465,
+    "type": "visual_inspection_pending",
+    "severity": "major",
+    "question": "431个低清候选尚未语义审查，是否出现屏幕、聊天截图、播放材料或人物切换？",
+    "affected_ids": [
+      "mikey-youtube-live-028-E0001",
+      "mikey-youtube-live-028-E0002",
+      "mikey-youtube-live-028-E0003",
+      "mikey-youtube-live-028-E0004",
+      "mikey-youtube-live-028-E0005",
+      "mikey-youtube-live-028-E0006",
+      "mikey-youtube-live-028-E0007",
+      "mikey-youtube-live-028-E0008",
+      "mikey-youtube-live-028-E0009",
+      "mikey-youtube-live-028-E0010",
+      "mikey-youtube-live-028-E0011",
+      "mikey-youtube-live-028-E0012",
+      "mikey-youtube-live-028-E0013",
+      "mikey-youtube-live-028-E0014",
+      "mikey-youtube-live-028-E0015"
+    ],
+    "required_evidence": "9张联系表、候选和重点原尺寸顺序帧复核",
+    "owner": "visual-review",
+    "status": "open",
+    "evidence_refs": [
+      {
+        "evidence_id": "mikey-youtube-live-028-E0001-R001",
+        "youtube_url": "https://www.youtube.com/watch?v=vBoAYfRFhh0&t=63s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-028-E0015-R030",
+        "youtube_url": "https://www.youtube.com/watch?v=vBoAYfRFhh0&t=5459s"
+      }
+    ]
+  },
+  {
+    "id": "mikey-youtube-live-029-R001",
+    "source_id": "mikey-youtube-live-029",
+    "start": 3600,
+    "end": 4100,
+    "type": "sexual_coercion_and_humiliation",
+    "severity": "blocking",
+    "question": "辱骂后见面、多人性故事和‘必须拼’等内容是否全部隔离？",
+    "affected_ids": [
+      "mikey-youtube-live-029-E0006"
+    ],
+    "required_evidence": "同意、安全和事实复核",
+    "owner": "safety-review",
+    "status": "open",
+    "evidence_refs": [
+      {
+        "evidence_id": "mikey-youtube-live-029-E0006-R028",
+        "youtube_url": "https://www.youtube.com/watch?v=knZc0MMOnbw&t=3675s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-029-E0006-R030",
+        "youtube_url": "https://www.youtube.com/watch?v=knZc0MMOnbw&t=3679s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-029-E0006-R088",
+        "youtube_url": "https://www.youtube.com/watch?v=knZc0MMOnbw&t=3807s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-029-E0006-R121",
+        "youtube_url": "https://www.youtube.com/watch?v=knZc0MMOnbw&t=3931s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-029-E0006-R123",
+        "youtube_url": "https://www.youtube.com/watch?v=knZc0MMOnbw&t=3935s"
+      }
+    ]
+  },
+  {
+    "id": "mikey-youtube-live-029-R002",
+    "source_id": "mikey-youtube-live-029",
+    "start": 4300,
+    "end": 7500,
+    "type": "call_speaker_and_privacy",
+    "severity": "blocking",
+    "question": "多次电话中每句话是谁说、来电者是否知情直播、私人经历是否获公开授权？",
+    "affected_ids": [
+      "mikey-youtube-live-029-E0007",
+      "mikey-youtube-live-029-E0008",
+      "mikey-youtube-live-029-E0009",
+      "mikey-youtube-live-029-E0010"
+    ],
+    "required_evidence": "连续音画、声纹映射、屏幕状态和授权边界",
+    "owner": "speaker-review",
+    "status": "open",
+    "evidence_refs": [
+      {
+        "evidence_id": "mikey-youtube-live-029-E0007-R010",
+        "youtube_url": "https://www.youtube.com/watch?v=knZc0MMOnbw&t=4325s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-029-E0008-R008",
+        "youtube_url": "https://www.youtube.com/watch?v=knZc0MMOnbw&t=4591s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-029-E0009-R031",
+        "youtube_url": "https://www.youtube.com/watch?v=knZc0MMOnbw&t=5224s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-029-E0009-R042",
+        "youtube_url": "https://www.youtube.com/watch?v=knZc0MMOnbw&t=5248s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-029-E0009-R125",
+        "youtube_url": "https://www.youtube.com/watch?v=knZc0MMOnbw&t=5575s"
+      }
+    ]
+  },
+  {
+    "id": "mikey-youtube-live-029-R003",
+    "source_id": "mikey-youtube-live-029",
+    "start": 6300.56,
+    "end": 7505.62,
+    "type": "call_consent_and_pressure",
+    "severity": "blocking",
+    "question": "长电话中的‘不要’、睡觉、时间不确定及反复性邀约是否形成压力式推进？",
+    "affected_ids": [
+      "mikey-youtube-live-029-E0011",
+      "mikey-youtube-live-029-E0012"
+    ],
+    "required_evidence": "逐句说话人分离和持续同意复核",
+    "owner": "safety-review",
+    "status": "open",
+    "evidence_refs": [
+      {
+        "evidence_id": "mikey-youtube-live-029-E0011-R163",
+        "youtube_url": "https://www.youtube.com/watch?v=knZc0MMOnbw&t=6894s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-029-E0011-R164",
+        "youtube_url": "https://www.youtube.com/watch?v=knZc0MMOnbw&t=6897s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-029-E0012-R001",
+        "youtube_url": "https://www.youtube.com/watch?v=knZc0MMOnbw&t=6902s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-029-E0012-R074",
+        "youtube_url": "https://www.youtube.com/watch?v=knZc0MMOnbw&t=7147s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-029-E0012-R082",
+        "youtube_url": "https://www.youtube.com/watch?v=knZc0MMOnbw&t=7171s"
+      }
+    ]
+  },
+  {
+    "id": "mikey-youtube-live-029-R004",
+    "source_id": "mikey-youtube-live-029",
+    "start": 0,
+    "end": 9355,
+    "type": "visual_not_available",
+    "severity": "blocking",
+    "question": "尚无正式视觉manifest，屏幕、交友软件、电话状态、聊天和人物切换均未核。",
+    "affected_ids": [
+      "mikey-youtube-live-029-E0001",
+      "mikey-youtube-live-029-E0002",
+      "mikey-youtube-live-029-E0003",
+      "mikey-youtube-live-029-E0004",
+      "mikey-youtube-live-029-E0005",
+      "mikey-youtube-live-029-E0006",
+      "mikey-youtube-live-029-E0007",
+      "mikey-youtube-live-029-E0008",
+      "mikey-youtube-live-029-E0009",
+      "mikey-youtube-live-029-E0010",
+      "mikey-youtube-live-029-E0011",
+      "mikey-youtube-live-029-E0012",
+      "mikey-youtube-live-029-E0013",
+      "mikey-youtube-live-029-E0014",
+      "mikey-youtube-live-029-E0015"
+    ],
+    "required_evidence": "全片视觉候选、联系表、重点原尺寸顺序帧和连续音画",
+    "owner": "visual-review",
+    "status": "open",
+    "evidence_refs": [
+      {
+        "evidence_id": "mikey-youtube-live-029-E0001-R001",
+        "youtube_url": "https://www.youtube.com/watch?v=knZc0MMOnbw&t=36s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-029-E0015-R066",
+        "youtube_url": "https://www.youtube.com/watch?v=knZc0MMOnbw&t=9352s"
+      }
+    ]
+  },
+  {
+    "id": "mikey-youtube-live-030-R001",
+    "source_id": "mikey-youtube-live-030",
+    "start": 41.94,
+    "end": 600.66,
+    "type": "sexual_violence_language",
+    "severity": "blocking",
+    "question": "‘边骂边透’是否可能把暴力和性行为混为可执行建议？",
+    "affected_ids": [
+      "mikey-youtube-live-030-E0001"
+    ],
+    "required_evidence": "同意与暴力边界复核",
+    "owner": "safety-review",
+    "status": "open",
+    "evidence_refs": [
+      {
+        "evidence_id": "mikey-youtube-live-030-E0001-R134",
+        "youtube_url": "https://www.youtube.com/watch?v=KO5l9Lh7FZc&t=533s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-030-E0001-R137",
+        "youtube_url": "https://www.youtube.com/watch?v=KO5l9Lh7FZc&t=538s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-030-E0001-R138",
+        "youtube_url": "https://www.youtube.com/watch?v=KO5l9Lh7FZc&t=540s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-030-E0001-R139",
+        "youtube_url": "https://www.youtube.com/watch?v=KO5l9Lh7FZc&t=540s"
+      }
+    ]
+  },
+  {
+    "id": "mikey-youtube-live-030-R002",
+    "source_id": "mikey-youtube-live-030",
+    "start": 1450,
+    "end": 2050,
+    "type": "domination_and_consent",
+    "severity": "blocking",
+    "question": "课程中的支配、服从、灌酒、软磨硬泡与同意边界如何隔离？",
+    "affected_ids": [
+      "mikey-youtube-live-030-E0005"
+    ],
+    "required_evidence": "连续语境、清楚同意和酒精风险复核",
+    "owner": "safety-review",
+    "status": "open",
+    "evidence_refs": [
+      {
+        "evidence_id": "mikey-youtube-live-030-E0005-R014",
+        "youtube_url": "https://www.youtube.com/watch?v=KO5l9Lh7FZc&t=1560s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-030-E0005-R020",
+        "youtube_url": "https://www.youtube.com/watch?v=KO5l9Lh7FZc&t=1582s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-030-E0005-R022",
+        "youtube_url": "https://www.youtube.com/watch?v=KO5l9Lh7FZc&t=1586s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-030-E0005-R028",
+        "youtube_url": "https://www.youtube.com/watch?v=KO5l9Lh7FZc&t=1595s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-030-E0005-R078",
+        "youtube_url": "https://www.youtube.com/watch?v=KO5l9Lh7FZc&t=1731s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-030-E0005-R079",
+        "youtube_url": "https://www.youtube.com/watch?v=KO5l9Lh7FZc&t=1736s"
+      }
+    ]
+  },
+  {
+    "id": "mikey-youtube-live-030-R003",
+    "source_id": "mikey-youtube-live-030",
+    "start": 1850,
+    "end": 1980,
+    "type": "undressing_without_clear_consent",
+    "severity": "blocking",
+    "question": "‘让她走—不走—直接脱衣—没有反抗’是否缺少明确同意？",
+    "affected_ids": [
+      "mikey-youtube-live-030-E0006"
+    ],
+    "required_evidence": "原音、连续音画和同意语义复核",
+    "owner": "safety-review",
+    "status": "open",
+    "evidence_refs": [
+      {
+        "evidence_id": "mikey-youtube-live-030-E0006-R054",
+        "youtube_url": "https://www.youtube.com/watch?v=KO5l9Lh7FZc&t=1905s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-030-E0006-R057",
+        "youtube_url": "https://www.youtube.com/watch?v=KO5l9Lh7FZc&t=1910s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-030-E0006-R058",
+        "youtube_url": "https://www.youtube.com/watch?v=KO5l9Lh7FZc&t=1913s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-030-E0006-R059",
+        "youtube_url": "https://www.youtube.com/watch?v=KO5l9Lh7FZc&t=1913s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-030-E0006-R060",
+        "youtube_url": "https://www.youtube.com/watch?v=KO5l9Lh7FZc&t=1914s"
+      }
+    ]
+  },
+  {
+    "id": "mikey-youtube-live-030-R004",
+    "source_id": "mikey-youtube-live-030",
+    "start": 41.94,
+    "end": 4085.22,
+    "type": "sparse_visual_limit",
+    "severity": "major",
+    "question": "全7张联系表未见课程页、价格表、幻灯片或全屏宣传图；课程内容只能按单人口述使用，稀疏普查仍不能排除极短展示或解除同意相关疑点。",
+    "affected_ids": [
+      "mikey-youtube-live-030-E0001",
+      "mikey-youtube-live-030-E0002",
+      "mikey-youtube-live-030-E0003",
+      "mikey-youtube-live-030-E0004",
+      "mikey-youtube-live-030-E0005",
+      "mikey-youtube-live-030-E0006",
+      "mikey-youtube-live-030-E0007",
+      "mikey-youtube-live-030-E0008",
+      "mikey-youtube-live-030-E0009",
+      "mikey-youtube-live-030-E0010",
+      "mikey-youtube-live-030-E0011",
+      "mikey-youtube-live-030-E0012",
+      "mikey-youtube-live-030-E0013"
+    ],
+    "required_evidence": "需要连续音画才能核对极短展示、观众问题与回答对应及同意语义",
+    "owner": "visual-review",
+    "status": "open",
+    "evidence_refs": [
+      {
+        "evidence_id": "mikey-youtube-live-030-E0001-R001",
+        "youtube_url": "https://www.youtube.com/watch?v=KO5l9Lh7FZc&t=41s"
+      },
+      {
+        "evidence_id": "mikey-youtube-live-030-E0013-R035",
+        "youtube_url": "https://www.youtube.com/watch?v=KO5l9Lh7FZc&t=4083s"
+      }
+    ]
+  }
+]

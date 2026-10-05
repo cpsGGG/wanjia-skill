@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-048",
+  "youtube_id": "wRh8BssCwuQ",
+  "review_completed": true,
+  "items": [
+    {"review_id": "s048-r01", "severity": "major", "category": "effectiveness_claim", "issue": "The Short says goals, feedback and a good mentor produce useful progress but supplies no evaluation standard or outcome evidence.", "affected_evidence": ["S00004-S00012@6.04-22.76"], "disposition": "Keep as the speaker's teaching view; do not infer that a named mentor, course or practice volume is effective."},
+    {"review_id": "s048-r02", "severity": "major", "category": "semantic_reuse", "issue": "The portable method is already represented by formal sources on stopping blind repetition and adjusting from failure feedback.", "affected_evidence": ["whole source"], "disposition": "Assign zero formal weight and retain only as a concise restatement."}
+  ]
+}

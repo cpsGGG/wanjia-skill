@@ -1,0 +1,204 @@
+{
+  "schema_version": "1.0",
+  "source_id": "mikey-youtube-live-003",
+  "speakers": [
+    {
+      "id": "mikey",
+      "role": "host",
+      "status": "confirmed",
+      "identity_basis": "标题明示Mikey；联系表全片显示固定主持人摄像头覆盖在语音会议界面上，多名群友直接称呼Mikey/Mike哥，主持回答轮次稳定。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=FoNPmM1r0KM&t=65s",
+        "https://www.youtube.com/watch?v=FoNPmM1r0KM&t=5522s",
+        "https://www.youtube.com/watch?v=FoNPmM1r0KM&t=6916s"
+      ],
+      "notes": "主持人身份确认；具体短插话未做逐句嘴型或声纹核验。"
+    },
+    {
+      "id": "caller-01",
+      "role": "internal-group caller/member",
+      "status": "provisional",
+      "identity_basis": "依据问题轮次和语义转折临时编号，未实名介绍或声纹确认。",
+      "evidence_refs": [],
+      "notes": "不同编号不保证对应不同自然人。"
+    },
+    {
+      "id": "caller-02",
+      "role": "internal-group caller/member",
+      "status": "provisional",
+      "identity_basis": "依据问题轮次和语义转折临时编号，未实名介绍或声纹确认。",
+      "evidence_refs": [],
+      "notes": "不同编号不保证对应不同自然人。"
+    },
+    {
+      "id": "caller-03",
+      "role": "internal-group caller/member",
+      "status": "provisional",
+      "identity_basis": "依据问题轮次和语义转折临时编号，未实名介绍或声纹确认。",
+      "evidence_refs": [],
+      "notes": "不同编号不保证对应不同自然人。"
+    },
+    {
+      "id": "caller-04",
+      "role": "internal-group caller/member",
+      "status": "provisional",
+      "identity_basis": "依据问题轮次和语义转折临时编号，未实名介绍或声纹确认。",
+      "evidence_refs": [],
+      "notes": "不同编号不保证对应不同自然人。"
+    },
+    {
+      "id": "caller-05",
+      "role": "internal-group caller/member",
+      "status": "provisional",
+      "identity_basis": "依据问题轮次和语义转折临时编号，未实名介绍或声纹确认。",
+      "evidence_refs": [],
+      "notes": "不同编号不保证对应不同自然人。"
+    },
+    {
+      "id": "caller-06",
+      "role": "internal-group caller/member",
+      "status": "provisional",
+      "identity_basis": "依据问题轮次和语义转折临时编号，未实名介绍或声纹确认。",
+      "evidence_refs": [],
+      "notes": "不同编号不保证对应不同自然人。"
+    },
+    {
+      "id": "caller-07",
+      "role": "internal-group caller/member",
+      "status": "provisional",
+      "identity_basis": "依据问题轮次和语义转折临时编号，未实名介绍或声纹确认。",
+      "evidence_refs": [],
+      "notes": "不同编号不保证对应不同自然人。"
+    },
+    {
+      "id": "caller-08",
+      "role": "internal-group caller/member",
+      "status": "provisional",
+      "identity_basis": "依据问题轮次和语义转折临时编号，未实名介绍或声纹确认。",
+      "evidence_refs": [],
+      "notes": "不同编号不保证对应不同自然人。"
+    },
+    {
+      "id": "caller-09",
+      "role": "internal-group caller/member",
+      "status": "provisional",
+      "identity_basis": "依据问题轮次和语义转折临时编号，未实名介绍或声纹确认。",
+      "evidence_refs": [],
+      "notes": "不同编号不保证对应不同自然人。"
+    },
+    {
+      "id": "caller-10",
+      "role": "internal-group caller/member",
+      "status": "provisional",
+      "identity_basis": "依据问题轮次和语义转折临时编号，未实名介绍或声纹确认。",
+      "evidence_refs": [],
+      "notes": "不同编号不保证对应不同自然人。"
+    },
+    {
+      "id": "caller-11",
+      "role": "internal-group caller/member",
+      "status": "provisional",
+      "identity_basis": "依据问题轮次和语义转折临时编号，未实名介绍或声纹确认。",
+      "evidence_refs": [],
+      "notes": "不同编号不保证对应不同自然人。"
+    },
+    {
+      "id": "caller-12",
+      "role": "internal-group caller/member",
+      "status": "provisional",
+      "identity_basis": "依据问题轮次和语义转折临时编号，未实名介绍或声纹确认。",
+      "evidence_refs": [],
+      "notes": "不同编号不保证对应不同自然人。"
+    },
+    {
+      "id": "caller-13",
+      "role": "internal-group caller/member",
+      "status": "provisional",
+      "identity_basis": "依据问题轮次和语义转折临时编号，未实名介绍或声纹确认。",
+      "evidence_refs": [],
+      "notes": "不同编号不保证对应不同自然人。"
+    },
+    {
+      "id": "caller-14",
+      "role": "internal-group caller/member",
+      "status": "provisional",
+      "identity_basis": "依据问题轮次和语义转折临时编号，未实名介绍或声纹确认。",
+      "evidence_refs": [],
+      "notes": "不同编号不保证对应不同自然人。"
+    },
+    {
+      "id": "caller-15",
+      "role": "internal-group caller/member",
+      "status": "provisional",
+      "identity_basis": "依据问题轮次和语义转折临时编号，未实名介绍或声纹确认。",
+      "evidence_refs": [],
+      "notes": "不同编号不保证对应不同自然人。"
+    },
+    {
+      "id": "caller-16",
+      "role": "internal-group caller/member",
+      "status": "provisional",
+      "identity_basis": "依据问题轮次和语义转折临时编号，未实名介绍或声纹确认。",
+      "evidence_refs": [],
+      "notes": "不同编号不保证对应不同自然人。"
+    },
+    {
+      "id": "caller-17",
+      "role": "internal-group caller/member",
+      "status": "provisional",
+      "identity_basis": "依据问题轮次和语义转折临时编号，未实名介绍或声纹确认。",
+      "evidence_refs": [],
+      "notes": "不同编号不保证对应不同自然人。"
+    },
+    {
+      "id": "caller-18",
+      "role": "internal-group caller/member",
+      "status": "provisional",
+      "identity_basis": "依据问题轮次和语义转折临时编号，未实名介绍或声纹确认。",
+      "evidence_refs": [],
+      "notes": "不同编号不保证对应不同自然人。"
+    },
+    {
+      "id": "caller-19",
+      "role": "internal-group caller/member",
+      "status": "provisional",
+      "identity_basis": "依据问题轮次和语义转折临时编号，未实名介绍或声纹确认。",
+      "evidence_refs": [],
+      "notes": "不同编号不保证对应不同自然人。"
+    },
+    {
+      "id": "viewer-question-01",
+      "role": "YouTube viewer question author(s)",
+      "status": "collective_placeholder",
+      "identity_basis": "S01140-S01145、S03101-S03112明确转入YouTube直播间问题。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=FoNPmM1r0KM&t=2038s",
+        "https://www.youtube.com/watch?v=FoNPmM1r0KM&t=5522s"
+      ],
+      "notes": "代表多个观众，问题由Mikey代读。"
+    },
+    {
+      "id": "screen-person-01",
+      "role": "person represented in screen/chat material",
+      "status": "unresolved",
+      "identity_basis": "S02569-S02576要求查看截图，S02727-S02776展示YouTube画面上的聊天示例。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=FoNPmM1r0KM&t=4567s",
+        "https://www.youtube.com/watch?v=FoNPmM1r0KM&t=4895s"
+      ],
+      "notes": "联系表小字无法逐条辨认，不将屏幕文字归给Mikey。"
+    },
+    {
+      "id": "unknown-voice-01",
+      "role": "unknown/overlapping group voice",
+      "status": "disputed",
+      "identity_basis": "多人语音会议中的短插话、重叠、语义突变或无法稳定分辨的声音。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=FoNPmM1r0KM&t=288s",
+        "https://www.youtube.com/watch?v=FoNPmM1r0KM&t=4014s",
+        "https://www.youtube.com/watch?v=FoNPmM1r0KM&t=6916s"
+      ],
+      "notes": "不得归为Mikey。"
+    }
+  ]
+}

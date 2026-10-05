@@ -1,0 +1,50 @@
+{
+  "schema_version": "mikey-community-post-fulltext-1.0",
+  "source_id": "mikey-youtube-community-032",
+  "post_id": "Ugkxqp5L_sjp1vGTm94pm8JSjdeBbGhhn-96",
+  "url": "https://www.youtube.com/post/Ugkxqp5L_sjp1vGTm94pm8JSjdeBbGhhn-96",
+  "published_at": "2025-09-08T00:00:00.814189-07:00",
+  "date_basis": "archived_public_observation",
+  "body": "开场白怎么才能让女生接得住？\n\n最好的方式就是 抛出一个能让她思考、延展、发挥的空间",
+  "body_kind": "verbatim_or_as_archived_in_corrected_candidate",
+  "image_refs": [
+    {
+      "image_index": 1,
+      "research_archive_path": "research/youtube-community-batch1/images/Ugkxqp5L_sjp1vGTm94pm8JSjdeBbGhhn-96/01.jpg",
+      "sha256": "7905200cfd12c7d917f5ff6dae3531656cb081bebb2a6b1aae066fdd382de177",
+      "bytes": 91949,
+      "formal_asset_policy": "reference_only_do_not_copy",
+      "safe_summary": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。"
+    }
+  ],
+  "segments": [
+    {
+      "sid": "C0032-BODY",
+      "kind": "channel_body",
+      "text": "开场白怎么才能让女生接得住？\n\n最好的方式就是 抛出一个能让她思考、延展、发挥的空间",
+      "verbatim_allowed": true,
+      "source_scope": "public_channel_body_as_archived"
+    },
+    {
+      "sid": "C0032-IMG01",
+      "kind": "image_reference_metadata",
+      "text": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。",
+      "verbatim_allowed": false,
+      "image_reference": {
+        "image_index": 1,
+        "research_archive_path": "research/youtube-community-batch1/images/Ugkxqp5L_sjp1vGTm94pm8JSjdeBbGhhn-96/01.jpg",
+        "sha256": "7905200cfd12c7d917f5ff6dae3531656cb081bebb2a6b1aae066fdd382de177",
+        "bytes": 91949,
+        "formal_asset_policy": "reference_only_do_not_copy",
+        "safe_summary": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。"
+      }
+    }
+  ],
+  "privacy_policy": {
+    "original_images_copied": false,
+    "raw_ocr_copied": false,
+    "private_chat_transcript_copied": false,
+    "third_party_identity_confirmed": false,
+    "publication_authorization_confirmed": false
+  }
+}

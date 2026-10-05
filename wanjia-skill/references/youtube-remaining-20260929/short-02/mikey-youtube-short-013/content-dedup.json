@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-013",
+  "youtube_id": "uSsi-dXlMwk",
+  "decision": "new",
+  "formal_weight_if_integrated": 1,
+  "compared_sources": [
+    {
+      "scope": "formal_mikey_guide",
+      "source_count": 202,
+      "comparison": "id/url, normalized transcript shingle and semantic screen"
+    },
+    {
+      "scope": "remaining_video_batches_01_05_and_short_01",
+      "source_count": 55,
+      "comparison": "normalized transcript shingle screen"
+    },
+    {
+      "source_id": "quark-live-021",
+      "comparison": "small incidental phrase overlap only; no matching conversation sequence"
+    }
+  ],
+  "evidence": [
+    {
+      "type": "identity",
+      "result": "no_exact_id_or_url_match"
+    },
+    {
+      "type": "transcript",
+      "result": "no_same_passage_match",
+      "basis": "No parent recording or material same-passage transcript match was found."
+    },
+    {
+      "type": "visual",
+      "result": "private_chat_sequence",
+      "basis": "Twenty sampled and 61 one-second dense frames show one scrolling WeChat conversation, with right-green messages presented as Mikey’s and left-gray as the other participant’s."
+    }
+  ],
+  "boundary": "New only within the processed corpus. Keep the material research-only because it exposes a private conversation and promotes a fixed adversarial reply sequence."
+}

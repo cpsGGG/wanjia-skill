@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-010",
+  "youtube_id": "pWKKfVHT0Ck",
+  "review_completed": true,
+  "items": [
+    {"review_id": "v010-r01", "severity": "blocking_for_case_fact", "issue": "The identities, chronology, immigration motive and claimed sexual outcome are presented through anonymized promotional narration and selected screenshots.", "affected_evidence": ["S00055-S00144", "S00656-S00671"], "disposition": "Keep all case facts and outcomes context_only and explicitly attributed."},
+    {"review_id": "v010-r02", "severity": "blocking_for_action_advice", "issue": "The hotel-booking and sunk-cost tactic is designed to create material and emotional investment and can cross consent or manipulation boundaries.", "affected_evidence": ["S00250-S00284", "S00469-S00490"], "disposition": "Do not generalize or turn into instructions; preserve explicit, ongoing consent and separate-room boundaries."},
+    {"review_id": "v010-r03", "severity": "major", "issue": "The video repeatedly treats selected messages as proof of the woman's hidden motives, competition strategy and attraction.", "affected_evidence": ["S00342-S00414", "S00563-S00630"], "disposition": "Attribute interpretations to Mikey; do not state them as the woman's verified intent."},
+    {"review_id": "v010-r04", "severity": "major", "issue": "The screenshots are cropped, edited and partially blurred, and do not provide a complete message sequence.", "affected_evidence": ["dense windows 200-300, 410-560, 620-690, 770-850"], "disposition": "Use only coarse order visible in the edit; do not reconstruct unreadable or missing messages."},
+    {"review_id": "v010-r05", "severity": "major", "issue": "Derogatory labels and broad gender/psychology claims are not substantiated by independent evidence.", "affected_evidence": ["S00082-S00144", "S00218-S00284", "S00342-S00414"], "disposition": "Do not adopt labels as facts or use them as diagnostic categories."},
+    {"review_id": "v010-r06", "severity": "minor", "issue": "The automatic transcript contains recurring recognition errors such as '沉默成本' for '沉没成本' and unstable pronouns.", "affected_evidence": ["S00250-S00284 and throughout"], "disposition": "Normalize only when meaning is clear; do not quote uncertain wording without audio review."}
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-002",
+  "youtube_id": "oWRX-9Dl-QA",
+  "decision": "reuse",
+  "compared_sources": [
+    "quark-live-015",
+    "quark-live-013",
+    "quark-live-022",
+    "quark-live-014",
+    "mikey-youtube-live-002",
+    "quark-live-025",
+    "quark-live-019"
+  ],
+  "evidence": [
+    {
+      "type": "reuse_target",
+      "detail": "复用正式来源 quark-live-015《直播15-月入4000的臭屌丝的大战顶级捞女》。本片是该直播中同一“2022成都核酸队认识舞蹈女生—约三周微信/电话—8月5日到访—后来自述恋爱”的案例剪辑，不应作为独立案例或新增来源重复计权。"
+    },
+    {
+      "type": "full_transcript_shingle_compare",
+      "detail": "完整读取本片 S00001-S01957（0.00-3059.85秒），并与source-index指向的全部正式全文比较。12字符shingle与quark-live-015重合9218个，覆盖本片44.887%，Jaccard 18.541%；第二名quark-live-013仅4个（覆盖0.019%）。剪辑重排、删减和两版ASR差异解释了非100%覆盖，但领先差距足以确认同一原始案例。"
+    },
+    {
+      "type": "distinctive_chronology_match",
+      "detail": "本片与quark-live-015共同出现一组几乎不可能偶合的锚点：神似易梦林（正式S00183/S00185）、太平洋宽肩（正式S01532/S01537/S01700）、“我的DNA”（正式S03281等）、求同存异/每个人看法不同（正式S04200-S04229附近）、骑自行车去对方家（正式S04531/S04537）、麻将搭变形金刚（正式S04716-S04718），且日期顺序、人物背景和结果叙事一致。"
+    },
+    {
+      "type": "visual_compare_scope",
+      "detail": "已读取visual/manifest.json并查看全部68张45秒间隔sampled JPG（000001-000068），关键帧回看原图。画面持续展示同一组2022年微信截图、同一女性素材、同一主播直播窗口与案例进程；与quark-live-015分析记录的易梦林、宽肩、电话、七夕、朋友同住、骑车到访和麻将模型一致。"
+    },
+    {
+      "type": "formal_source_boundary",
+      "detail": "quark-live-015已经以完整9770.32秒直播、5075段全文和29条知识正式接入；本片提供的是较短公开剪辑及较清晰画面，不改变同案复用结论。可保留为替代视觉/公开URL证据，但权重应为0。"
+    }
+  ]
+}

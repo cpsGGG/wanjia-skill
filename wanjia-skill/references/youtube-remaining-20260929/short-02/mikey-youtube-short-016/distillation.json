@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-016",
+  "youtube_id": "cIE63w6uJXs",
+  "title": "我们换个角度来看什么是主体性！",
+  "coverage": {
+    "transcript_segments_read": 33,
+    "transcript_time_range_seconds": [0.0, 98.42],
+    "semantic_media_range_seconds": [0.0, 74.210975],
+    "sampled_frames_reviewed": 25,
+    "continuous_original_audio_visual_review": false,
+    "excluded_asr_tail": "S00025-S00035 extend beyond the audited media duration and are excluded from claims."
+  },
+  "timeline": [
+    {"start": 0.0, "end": 8.94, "summary": "A viewer asks how to cultivate subjectivity; Mikey begins with a game metaphor."},
+    {"start": 8.94, "end": 31.42, "summary": "He asks whether one could verify that the world continues after one's death and presents non-continuation as a thought experiment, not evidence."},
+    {"start": 31.42, "end": 61.42, "summary": "He imagines the world as belonging to the viewer, labels surrounding people NPCs and says seeing oneself as the sole protagonist produces subjectivity."},
+    {"start": 61.42, "end": 74.210975, "summary": "He reframes the world as an amusement park entered with a ticket from one's parents; other people, including Mikey, provide clues or value in the viewer's world. The cut ends before the ASR's hallucinated tail."}
+  ],
+  "claims": [
+    {"claim_id": "s016-c01", "speaker": "Mikey", "statement": "He uses a game metaphor to cultivate agency: regard yourself as the protagonist responsible for exploring and choosing in your own life.", "conditions": "A philosophical exercise about personal agency, not a literal claim that reality disappears after death.", "evidence": ["S00001-S00011@0.00-39.42"], "use_level": "hold"},
+    {"claim_id": "s016-c02", "speaker": "Mikey", "statement": "He describes everyone else as NPCs and only oneself as the protagonist.", "conditions": "Dehumanizing if applied literally; it cannot reduce other people's autonomy, rights, consent or independent interests.", "evidence": ["S00012-S00018@39.42-61.42"], "use_level": "do_not_generalize"},
+    {"claim_id": "s016-c03", "speaker": "Mikey", "statement": "In the amusement-park version of the metaphor, parents provide the ticket and other people, including teachers, can offer clues and value while the individual directs his own experience.", "conditions": "Use only as a metaphor for responsibility and selective learning.", "evidence": ["S00019-S00024@61.42-73.42"], "use_level": "hold"}
+  ],
+  "speaker_attribution": [
+    {"speaker": "viewer", "basis": "The opening question is displayed as a viewer prompt and then read aloud."},
+    {"speaker": "Mikey", "basis": "Single visible beige-jacket livestream host; audio independently aligns with formal source o6fS0sTCYcU."},
+    {"speaker": "chat participants", "basis": "Visible in the livestream overlay but not treated as evidence speakers."}
+  ],
+  "visual_findings": [
+    "All 25 three-second frames show one continuous beige-jacket livestream shot with public chat overlay and added vertical subtitles.",
+    "No separate example footage, private chat or speaker switch appears; the final circular crop is an editorial end card."
+  ],
+  "permissions": {"formal_integration": false, "first_person_allowed": false, "action_advice_allowed": false, "use_level": "reuse_zero_weight", "reason": "Already represented by formal o6fS0sTCYcU; solipsistic/NPC language requires a strong autonomy boundary."},
+  "limitations": [
+    "The automatic transcript contains a hallucinated tail after the 74.210975-second media endpoint.",
+    "The short is an edited excerpt and omits the parent livestream context.",
+    "The metaphysical thought experiment is not empirical evidence."
+  ]
+}

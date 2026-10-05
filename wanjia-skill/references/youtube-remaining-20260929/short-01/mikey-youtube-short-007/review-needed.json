@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-007",
+  "youtube_id": "xai9p7jJdFg",
+  "review_completed": true,
+  "items": [
+    {"review_id": "s007-r01", "severity": "blocking", "category": "duplicate", "issue": "The Short is an excerpt of formal source Gs467Dozs3w.", "affected_evidence": ["whole source"], "disposition": "Reuse with weight 0."},
+    {"review_id": "s007-r02", "severity": "blocking", "category": "consent_and_intent", "issue": "The 'good person/bad person' framing can be misread as permission to sexualize or escalate without checking the other person's comfort.", "affected_evidence": ["S00004-S00023"], "disposition": "Keep only as a consistency observation; explicit consent, respect and withdrawal cues govern conduct."},
+    {"review_id": "s007-r03", "severity": "major", "category": "rhetoric", "issue": "The ending uses grandiose and violent idioms rather than evidence.", "affected_evidence": ["S00021-S00028"], "disposition": "Treat as performance rhetoric, not a method or outcome claim."}
+  ]
+}

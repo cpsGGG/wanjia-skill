@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "source_id": "mikey-youtube-live-036",
+  "speakers": [
+    {
+      "id": "mikey",
+      "role": "host",
+      "status": "confirmed",
+      "identity_basis": "频道直播标题、主持人口吻及连续直播结构确认主持人为Mikey；但观众文字由其朗读不等于内容作者。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=iyOpcVWr88k"
+      ],
+      "notes": "仅把主持人明确回答、评论和自述作为其观点。"
+    },
+    {
+      "id": "viewer-question-collective",
+      "role": "collective live-chat author(s)",
+      "status": "collective_placeholder",
+      "identity_basis": "直播中多名观众问题由主持人朗读，未逐条取得发言者身份。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=iyOpcVWr88k"
+      ],
+      "notes": "问题中的经历、判断和事实不归给Mikey。"
+    },
+    {
+      "id": "mixed-phone-voices",
+      "role": "phone/delivery/other external voices",
+      "status": "mixed_not_diarized",
+      "identity_basis": "部分窗口包含外部电话或现场声音，自动稿未做句级人物分离。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=iyOpcVWr88k"
+      ],
+      "notes": "任何未确认外部声音保持混合归属，不作为Mikey明确观点。"
+    }
+  ]
+}

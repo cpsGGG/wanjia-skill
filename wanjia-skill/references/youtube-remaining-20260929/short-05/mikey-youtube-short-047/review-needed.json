@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-047",
+  "youtube_id": "n5elOH9OnBA",
+  "review_completed": true,
+  "items": [
+    {
+      "review_id": "s047-r01",
+      "severity": "major",
+      "category": "absolute_claim_and_learning",
+      "issue": "The statements 'I never regret any decision' and 'I never doubt my judgment' can conflict with evidence-based belief revision and learning from preventable harm.",
+      "affected_evidence": ["S00003-S00005@6.18-15.22"],
+      "disposition": "Keep on hold; retain only the narrower distinction between self-condemnation and responsible review."
+    },
+    {
+      "review_id": "s047-r02",
+      "severity": "major",
+      "category": "responsibility_and_repair",
+      "issue": "The clip says the speaker will bear all consequences but gives no example of acknowledging another person's harm, apologizing, repairing damage or changing behavior.",
+      "affected_evidence": ["S00003-S00004@6.18-13.10"],
+      "disposition": "Do not treat 'buying the consequences' as verified accountability or as permission to repeat the same conduct."
+    },
+    {
+      "review_id": "s047-r03",
+      "severity": "major",
+      "category": "causal_oversimplification",
+      "issue": "Attributing every unwanted result only to insufficient capability may preserve a wrong goal, bad judgment or harmful choice.",
+      "affected_evidence": ["S00006-S00009@15.22-23.30"],
+      "disposition": "Require review of the original goal, judgment, impact and alternatives before applying the improve-capability framing."
+    }
+  ]
+}

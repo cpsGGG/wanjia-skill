@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-004",
+  "youtube_id": "ea-wnYQpZWM",
+  "review_completed": true,
+  "sparse_frames_reviewed": 13,
+  "dense_windows": [
+    {"range_seconds": [55, 120], "frames_reviewed": 65, "reason": "student profile, photographer introduction and setup"},
+    {"range_seconds": [120, 210], "frames_reviewed": 90, "reason": "first-date report, contact and refusal sequence"},
+    {"range_seconds": [240, 335], "frames_reviewed": 95, "reason": "recording feedback, coaching instructions and second-date chat sequence"},
+    {"range_seconds": [450, 535], "frames_reviewed": 85, "reason": "second-date outcome, phone debrief and third-date arrangement"}
+  ],
+  "findings": [
+    "The visible host is Mikey and he self-identifies at 579.8-580.5 seconds.",
+    "The student and photographer do not speak on camera; their actions and words are mediated through Mikey's narration and edited chat/feedback cards.",
+    "Movie, animation and stock clips are illustrative edits and are not evidence for the case facts.",
+    "The screenshots support the presented sequence at a coarse level, but names and some text are blurred or too small for a complete independent reconstruction.",
+    "No continuous original date audio or unedited chat export is present in this upload."
+  ],
+  "scope": "Sparse whole-video screening plus four one-frame-per-second dense windows; not continuous audio-visual verification of the underlying dates."
+}

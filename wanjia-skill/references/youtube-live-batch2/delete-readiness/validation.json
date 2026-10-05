@@ -1,0 +1,330 @@
+{
+  "passed": true,
+  "checks_passed": 63,
+  "checks_total": 63,
+  "checks": [
+    {
+      "name": "review_count_135",
+      "passed": true,
+      "detail": 135
+    },
+    {
+      "name": "review_ids_unique",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "original_severity_counts",
+      "passed": true,
+      "detail": {
+        "major": 74,
+        "blocking": 60,
+        "minor": 1
+      }
+    },
+    {
+      "name": "formal_unchanged_flag",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "candidate_files_10",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "candidate_review_count_135",
+      "passed": true,
+      "detail": 135
+    },
+    {
+      "name": "three_original_questions_resolved_or_reframed",
+      "passed": true,
+      "detail": {
+        "resolved": 1,
+        "open": 132,
+        "resolved_asr_open_semantic_hold": 2
+      }
+    },
+    {
+      "name": "evidence_manifest_exists",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "ten_full_audio_assets",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "seven_visual_assets",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "asset_exists:evidence-pack/full-audio/mikey-youtube-live-011.m4a",
+      "passed": true,
+      "detail": 73182875
+    },
+    {
+      "name": "asset_sha256:evidence-pack/full-audio/mikey-youtube-live-011.m4a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "asset_ffprobe:evidence-pack/full-audio/mikey-youtube-live-011.m4a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "asset_exists:evidence-pack/full-audio/mikey-youtube-live-012.m4a",
+      "passed": true,
+      "detail": 58981786
+    },
+    {
+      "name": "asset_sha256:evidence-pack/full-audio/mikey-youtube-live-012.m4a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "asset_ffprobe:evidence-pack/full-audio/mikey-youtube-live-012.m4a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "asset_exists:evidence-pack/full-audio/mikey-youtube-live-013.m4a",
+      "passed": true,
+      "detail": 74147807
+    },
+    {
+      "name": "asset_sha256:evidence-pack/full-audio/mikey-youtube-live-013.m4a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "asset_ffprobe:evidence-pack/full-audio/mikey-youtube-live-013.m4a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "asset_exists:evidence-pack/full-audio/mikey-youtube-live-014.m4a",
+      "passed": true,
+      "detail": 62185376
+    },
+    {
+      "name": "asset_sha256:evidence-pack/full-audio/mikey-youtube-live-014.m4a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "asset_ffprobe:evidence-pack/full-audio/mikey-youtube-live-014.m4a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "asset_exists:evidence-pack/full-audio/mikey-youtube-live-015.m4a",
+      "passed": true,
+      "detail": 59598076
+    },
+    {
+      "name": "asset_sha256:evidence-pack/full-audio/mikey-youtube-live-015.m4a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "asset_ffprobe:evidence-pack/full-audio/mikey-youtube-live-015.m4a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "asset_exists:evidence-pack/full-audio/mikey-youtube-live-016.m4a",
+      "passed": true,
+      "detail": 69543629
+    },
+    {
+      "name": "asset_sha256:evidence-pack/full-audio/mikey-youtube-live-016.m4a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "asset_ffprobe:evidence-pack/full-audio/mikey-youtube-live-016.m4a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "asset_exists:evidence-pack/full-audio/mikey-youtube-live-017.m4a",
+      "passed": true,
+      "detail": 173209570
+    },
+    {
+      "name": "asset_sha256:evidence-pack/full-audio/mikey-youtube-live-017.m4a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "asset_ffprobe:evidence-pack/full-audio/mikey-youtube-live-017.m4a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "asset_exists:evidence-pack/full-audio/mikey-youtube-live-018.m4a",
+      "passed": true,
+      "detail": 203674865
+    },
+    {
+      "name": "asset_sha256:evidence-pack/full-audio/mikey-youtube-live-018.m4a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "asset_ffprobe:evidence-pack/full-audio/mikey-youtube-live-018.m4a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "asset_exists:evidence-pack/full-audio/mikey-youtube-live-019.m4a",
+      "passed": true,
+      "detail": 65985691
+    },
+    {
+      "name": "asset_sha256:evidence-pack/full-audio/mikey-youtube-live-019.m4a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "asset_ffprobe:evidence-pack/full-audio/mikey-youtube-live-019.m4a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "asset_exists:evidence-pack/full-audio/mikey-youtube-live-020.m4a",
+      "passed": true,
+      "detail": 65015245
+    },
+    {
+      "name": "asset_sha256:evidence-pack/full-audio/mikey-youtube-live-020.m4a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "asset_ffprobe:evidence-pack/full-audio/mikey-youtube-live-020.m4a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "asset_exists:evidence-pack/visual-proxies/mikey-youtube-live-016__000005.000-000265.000.mp4",
+      "passed": true,
+      "detail": 25096416
+    },
+    {
+      "name": "asset_sha256:evidence-pack/visual-proxies/mikey-youtube-live-016__000005.000-000265.000.mp4",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "asset_ffprobe:evidence-pack/visual-proxies/mikey-youtube-live-016__000005.000-000265.000.mp4",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "asset_exists:evidence-pack/visual-proxies/mikey-youtube-live-016__001205.000-003115.000.mp4",
+      "passed": true,
+      "detail": 51797046
+    },
+    {
+      "name": "asset_sha256:evidence-pack/visual-proxies/mikey-youtube-live-016__001205.000-003115.000.mp4",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "asset_ffprobe:evidence-pack/visual-proxies/mikey-youtube-live-016__001205.000-003115.000.mp4",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "asset_exists:evidence-pack/visual-proxies/mikey-youtube-live-017__full-720p-evidence.mp4",
+      "passed": true,
+      "detail": 192302691
+    },
+    {
+      "name": "asset_sha256:evidence-pack/visual-proxies/mikey-youtube-live-017__full-720p-evidence.mp4",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "asset_ffprobe:evidence-pack/visual-proxies/mikey-youtube-live-017__full-720p-evidence.mp4",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "asset_exists:evidence-pack/visual-proxies/mikey-youtube-live-018__full-720p-evidence.mp4",
+      "passed": true,
+      "detail": 81301347
+    },
+    {
+      "name": "asset_sha256:evidence-pack/visual-proxies/mikey-youtube-live-018__full-720p-evidence.mp4",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "asset_ffprobe:evidence-pack/visual-proxies/mikey-youtube-live-018__full-720p-evidence.mp4",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "asset_exists:evidence-pack/visual-proxies/mikey-youtube-live-019__002225.000-002275.000.mp4",
+      "passed": true,
+      "detail": 980740
+    },
+    {
+      "name": "asset_sha256:evidence-pack/visual-proxies/mikey-youtube-live-019__002225.000-002275.000.mp4",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "asset_ffprobe:evidence-pack/visual-proxies/mikey-youtube-live-019__002225.000-002275.000.mp4",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "asset_exists:evidence-pack/visual-proxies/mikey-youtube-live-020__002605.000-002925.000.mp4",
+      "passed": true,
+      "detail": 5164976
+    },
+    {
+      "name": "asset_sha256:evidence-pack/visual-proxies/mikey-youtube-live-020__002605.000-002925.000.mp4",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "asset_ffprobe:evidence-pack/visual-proxies/mikey-youtube-live-020__002605.000-002925.000.mp4",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "asset_exists:evidence-pack/visual-proxies/mikey-youtube-live-020__003135.000-003415.000.mp4",
+      "passed": true,
+      "detail": 4656763
+    },
+    {
+      "name": "asset_sha256:evidence-pack/visual-proxies/mikey-youtube-live-020__003135.000-003415.000.mp4",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "asset_ffprobe:evidence-pack/visual-proxies/mikey-youtube-live-020__003135.000-003415.000.mp4",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "targeted_asr_recheck_exists",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "downstream_amendments_exists",
+      "passed": true,
+      "detail": ""
+    }
+  ]
+}

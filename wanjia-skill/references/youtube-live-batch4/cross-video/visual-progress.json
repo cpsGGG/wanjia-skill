@@ -1,0 +1,180 @@
+{
+  "schema_version": 4,
+  "updated_utc": "2026-09-20T01:36:45.907610+00:00",
+  "batch": "youtube-live-batch4",
+  "status": "first_pass_complete",
+  "summary": {
+    "item_count": 9,
+    "completed_item_count": 9,
+    "candidate_count": 3645,
+    "survey_sheet_count": 79,
+    "completed_block_manifest_count": 82,
+    "manifest_validation": "passed",
+    "continuous_audiovisual_review": "not_done"
+  },
+  "items": [
+    {
+      "source_id": "mikey-youtube-live-031",
+      "livestream_number": 84,
+      "video_id": "7EzW-UuiF-Y",
+      "visual_profile": "live_mixed_first_pass",
+      "candidate_count": 399,
+      "survey_sheet_count": 9,
+      "completed_block_manifest_count": 10,
+      "manifest_validation": "passed",
+      "checks": {
+        "candidate_rows_files_match": true,
+        "survey_rows_files_match": true,
+        "references_exist": true,
+        "blocks_complete": true,
+        "block_sum_matches": true
+      }
+    },
+    {
+      "source_id": "mikey-youtube-live-032",
+      "livestream_number": 88,
+      "video_id": "Qk5w8-va0g0",
+      "visual_profile": "live_mixed_first_pass",
+      "candidate_count": 373,
+      "survey_sheet_count": 8,
+      "completed_block_manifest_count": 9,
+      "manifest_validation": "passed",
+      "checks": {
+        "candidate_rows_files_match": true,
+        "survey_rows_files_match": true,
+        "references_exist": true,
+        "blocks_complete": true,
+        "block_sum_matches": true
+      }
+    },
+    {
+      "source_id": "mikey-youtube-live-033",
+      "livestream_number": 89,
+      "video_id": "QR3QTtE690c",
+      "visual_profile": "live_mixed_first_pass",
+      "candidate_count": 390,
+      "survey_sheet_count": 9,
+      "completed_block_manifest_count": 9,
+      "manifest_validation": "passed",
+      "checks": {
+        "candidate_rows_files_match": true,
+        "survey_rows_files_match": true,
+        "references_exist": true,
+        "blocks_complete": true,
+        "block_sum_matches": true
+      }
+    },
+    {
+      "source_id": "mikey-youtube-live-034",
+      "livestream_number": 90,
+      "video_id": "FiS325eqCSo",
+      "visual_profile": "live_mixed_first_pass",
+      "candidate_count": 336,
+      "survey_sheet_count": 7,
+      "completed_block_manifest_count": 8,
+      "manifest_validation": "passed",
+      "checks": {
+        "candidate_rows_files_match": true,
+        "survey_rows_files_match": true,
+        "references_exist": true,
+        "blocks_complete": true,
+        "block_sum_matches": true
+      }
+    },
+    {
+      "source_id": "mikey-youtube-live-035",
+      "livestream_number": 91,
+      "video_id": "TMh4CDqLhhs",
+      "visual_profile": "live_mixed_first_pass",
+      "candidate_count": 368,
+      "survey_sheet_count": 8,
+      "completed_block_manifest_count": 9,
+      "manifest_validation": "passed",
+      "checks": {
+        "candidate_rows_files_match": true,
+        "survey_rows_files_match": true,
+        "references_exist": true,
+        "blocks_complete": true,
+        "block_sum_matches": true
+      }
+    },
+    {
+      "source_id": "mikey-youtube-live-036",
+      "livestream_number": 93,
+      "video_id": "iyOpcVWr88k",
+      "visual_profile": "live_mixed_first_pass",
+      "candidate_count": 467,
+      "survey_sheet_count": 10,
+      "completed_block_manifest_count": 10,
+      "manifest_validation": "passed",
+      "checks": {
+        "candidate_rows_files_match": true,
+        "survey_rows_files_match": true,
+        "references_exist": true,
+        "blocks_complete": true,
+        "block_sum_matches": true
+      }
+    },
+    {
+      "source_id": "mikey-youtube-live-037",
+      "livestream_number": null,
+      "video_id": "F5_4eZNBZFI",
+      "visual_profile": "live_mixed_first_pass",
+      "candidate_count": 334,
+      "survey_sheet_count": 7,
+      "completed_block_manifest_count": 8,
+      "manifest_validation": "passed",
+      "checks": {
+        "candidate_rows_files_match": true,
+        "survey_rows_files_match": true,
+        "references_exist": true,
+        "blocks_complete": true,
+        "block_sum_matches": true
+      }
+    },
+    {
+      "source_id": "mikey-youtube-live-038",
+      "livestream_number": null,
+      "video_id": "014QMRiYY28",
+      "visual_profile": "live_mixed_first_pass",
+      "candidate_count": 672,
+      "survey_sheet_count": 14,
+      "completed_block_manifest_count": 11,
+      "manifest_validation": "passed",
+      "checks": {
+        "candidate_rows_files_match": true,
+        "survey_rows_files_match": true,
+        "references_exist": true,
+        "blocks_complete": true,
+        "block_sum_matches": true
+      }
+    },
+    {
+      "source_id": "mikey-youtube-live-039",
+      "livestream_number": null,
+      "video_id": "O1QLG8_zyyA",
+      "visual_profile": "live_mixed_first_pass",
+      "candidate_count": 306,
+      "survey_sheet_count": 7,
+      "completed_block_manifest_count": 8,
+      "manifest_validation": "passed",
+      "checks": {
+        "candidate_rows_files_match": true,
+        "survey_rows_files_match": true,
+        "references_exist": true,
+        "blocks_complete": true,
+        "block_sum_matches": true
+      }
+    }
+  ],
+  "manual_profile_confirmation": [
+    {
+      "source_id": "mikey-youtube-live-038",
+      "reason": "标题暗示可能包含外部材料、屏幕内容或他人案例；先看稀疏联系表，再决定是否启用加密视觉扫描和专门归属类别。"
+    }
+  ],
+  "limitations": [
+    "低分辨率候选和联系表只用于定位，不等于完整理解视频。",
+    "不能据此证明人物、引语、屏幕文字顺序、同意、因果或结果。"
+  ]
+}

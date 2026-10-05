@@ -1,0 +1,50 @@
+{
+  "schema_version": "mikey-community-post-fulltext-1.0",
+  "source_id": "mikey-youtube-community-022",
+  "post_id": "UgkxNYUFnFXYa_TTcuuO9nK6QjYTvmAqd836",
+  "url": "https://www.youtube.com/post/UgkxNYUFnFXYa_TTcuuO9nK6QjYTvmAqd836",
+  "published_at": "2025-08-27T04:20:42.519602-07:00",
+  "date_basis": "archived_public_observation",
+  "body": "今晚22:00 油管直播\n火影迷专场 \n带两个门徒来聊聊里面谁最会泡妞 分析每个人物吸引女生的特质",
+  "body_kind": "verbatim_or_as_archived_in_corrected_candidate",
+  "image_refs": [
+    {
+      "image_index": 1,
+      "research_archive_path": "research/youtube-community-batch1/images/UgkxNYUFnFXYa_TTcuuO9nK6QjYTvmAqd836/01.png",
+      "sha256": "59a8a6c968e4764511407f308a4d855630a4825e1dfb3e5ec368326c4b949712",
+      "bytes": 858521,
+      "formal_asset_policy": "reference_only_do_not_copy",
+      "safe_summary": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。"
+    }
+  ],
+  "segments": [
+    {
+      "sid": "C0022-BODY",
+      "kind": "channel_body",
+      "text": "今晚22:00 油管直播\n火影迷专场 \n带两个门徒来聊聊里面谁最会泡妞 分析每个人物吸引女生的特质",
+      "verbatim_allowed": true,
+      "source_scope": "public_channel_body_as_archived"
+    },
+    {
+      "sid": "C0022-IMG01",
+      "kind": "image_reference_metadata",
+      "text": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。",
+      "verbatim_allowed": false,
+      "image_reference": {
+        "image_index": 1,
+        "research_archive_path": "research/youtube-community-batch1/images/UgkxNYUFnFXYa_TTcuuO9nK6QjYTvmAqd836/01.png",
+        "sha256": "59a8a6c968e4764511407f308a4d855630a4825e1dfb3e5ec368326c4b949712",
+        "bytes": 858521,
+        "formal_asset_policy": "reference_only_do_not_copy",
+        "safe_summary": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。"
+      }
+    }
+  ],
+  "privacy_policy": {
+    "original_images_copied": false,
+    "raw_ocr_copied": false,
+    "private_chat_transcript_copied": false,
+    "third_party_identity_confirmed": false,
+    "publication_authorization_confirmed": false
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-034",
+  "youtube_id": "-uU-eZT5c_E",
+  "title": "真實搭訕，搭訕181長腿女生丨搭訕丨愛情丨脫單丨情感丨戀愛丨dating in china#shorts",
+  "coverage": {
+    "transcript_segments_read": 18,
+    "transcript_time_range_seconds": [0.0, 33.92],
+    "semantic_media_range_seconds": [0.0, 35.131791],
+    "sampled_frames_reviewed": 12,
+    "continuous_original_audio_visual_review": false,
+    "excluded_asr_tail": null
+  },
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 6.0,
+      "summary": "A camera-wearing man greets a woman at a storefront, says he wants to meet her and compliments her proportions."
+    },
+    {
+      "start": 6.0,
+      "end": 14.0,
+      "summary": "The automatic transcript is unreliable, but the visible sequence shows continued conversation followed by both parties handling phones; the Short does not prove a completed contact save."
+    },
+    {
+      "start": 14.0,
+      "end": 22.92,
+      "summary": "The man asks whether she is a model; the exchange appears to mention dancing or an occupation, but several replies are too corrupted to state confidently."
+    },
+    {
+      "start": 22.92,
+      "end": 31.92,
+      "summary": "He proposes meeting for coffee if there is time. Her response appears to mention having no time today and already having had coffee, but the exact wording and scope of refusal are unclear."
+    },
+    {
+      "start": 31.92,
+      "end": 35.131791,
+      "summary": "They say goodbye; no later contact, meeting, romantic result or consent to publication is shown."
+    }
+  ],
+  "claims": [
+    {
+      "claim_id": "s034-c01",
+      "speaker": "unknown_camera_wearing_male",
+      "statement": "He opens by stating that he wants to meet the woman and gives a specific visible-feature compliment.",
+      "conditions": "A case observation from an edited first-person recording; the man's identity is not visually established and the woman's willingness beyond each visible step must not be inferred.",
+      "evidence": ["S00001-S00004@0.00-6.00", "frames 000001-000002"],
+      "use_level": "reuse_zero_weight"
+    },
+    {
+      "claim_id": "s034-c02",
+      "speaker": "unknown_camera_wearing_male",
+      "statement": "He asks whether she is a model and later makes a conditional coffee invitation.",
+      "conditions": "The intervening occupation exchange and her answer to the invitation are ASR-uncertain; an invitation is not evidence of acceptance or a later meeting.",
+      "evidence": ["S00009-S00018@14.00-33.92"],
+      "use_level": "reuse_zero_weight"
+    },
+    {
+      "claim_id": "s034-c03",
+      "speaker": "visual_case_observation",
+      "statement": "Both parties handle phones during the edited interaction, after which the conversation continues and ends with a goodbye.",
+      "conditions": "The frames do not show a readable identifier, successful friend request, saved contact or subsequent interaction.",
+      "evidence": ["frames 000003-000012"],
+      "use_level": "hold"
+    }
+  ],
+  "speaker_attribution": [
+    {
+      "speaker": "unknown_camera_wearing_male",
+      "basis": "The male voice comes from the first-person camera position, but his face is never shown in the 12 sampled frames; channel publication and title alone do not prove he is Mikey."
+    },
+    {
+      "speaker": "female_participant",
+      "basis": "One woman is visible throughout and appears to respond; exact turn boundaries rely on noisy ASR and sparse frames."
+    }
+  ],
+  "visual_findings": [
+    "All 12 sampled frames show the same woman outside a beauty-storefront setting; the camera-wearer's hands and phone enter the frame.",
+    "The woman and phone area are selectively blurred in frames 000007-000009, indicating an edit/privacy treatment and preventing interface verification.",
+    "Frames show phone handling but no readable account, successful save, later message, date or relationship outcome.",
+    "No frame identifies the camera-wearing man."
+  ],
+  "permissions": {
+    "formal_integration": false,
+    "first_person_allowed": false,
+    "action_advice_allowed": false,
+    "use_level": "reuse_zero_weight",
+    "reason": "The interaction pattern is already represented in formal dashan sources, while attribution, phone result and later outcome remain unverified."
+  },
+  "limitations": [
+    "Sparse three-second frames are not continuous audio-visual review and can miss refusal, pressure, cuts and turn boundaries.",
+    "Automatic speech recognition is poor across much of the interaction, especially S00005-S00008 and S00011-S00017.",
+    "The Short is edited and selectively blurred; contact exchange and invitation outcome cannot be established.",
+    "Publication, filming and privacy consent are not shown."
+  ]
+}

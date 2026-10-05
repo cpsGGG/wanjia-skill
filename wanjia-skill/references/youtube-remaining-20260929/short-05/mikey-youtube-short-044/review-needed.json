@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-044",
+  "youtube_id": "SRv3bw4d6AA",
+  "review_completed": true,
+  "items": [
+    {"review_id": "s044-r01", "severity": "blocking", "category": "speaker_attribution", "issue": "The male editorial narrator is not shown or independently authenticated as Mikey.", "affected_evidence": ["whole source"], "disposition": "Attribute all narration generically and disable first-person use."},
+    {"review_id": "s044-r02", "severity": "blocking", "category": "third_party_fact_verification", "issue": "The alleged concert dialogue, relationship, ticket purchase, chronology and later behavior rely on edited footage, reposts and unspecified online witnesses.", "affected_evidence": ["S00001-S00029@0.00-59.78", "all sampled frames"], "disposition": "Keep every incident detail as an allegation and do not use it as factual support for advice."},
+    {"review_id": "s044-r03", "severity": "major", "category": "stigmatizing_label", "issue": "The 沸羊羊 and 小仙女 labels turn an unverified event into a gendered ridicule narrative.", "affected_evidence": ["S00001-S00026@0.00-54.82"], "disposition": "Preserve only as editorial framing; do not generalize the labels to people or relationships."},
+    {"review_id": "s044-r04", "severity": "blocking", "category": "privacy_and_republication", "issue": "Identifiable concert attendees, online comments, reposted text, street footage and ticket images may expose third-party personal information.", "affected_evidence": ["visual/sampled/000001.jpg-visual/sampled/000020.jpg"], "disposition": "Do not package or republish the imagery without privacy, provenance and redaction review."},
+    {"review_id": "s044-r05", "severity": "major", "category": "asr_accuracy", "issue": "S00027-S00029 are materially garbled and cannot support a reliable ending claim.", "affected_evidence": ["S00027-S00029@54.82-59.78"], "disposition": "Exclude the garbled wording from claims and treat the tail only as ticket imagery/noisy outro."}
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-018",
+  "youtube_id": "Tt5Hdf1YPvU",
+  "decision": "reuse",
+  "reuse_of": "mikey-youtube-live-027",
+  "formal_weight_if_integrated": 0,
+  "compared_sources": [
+    {
+      "scope": "formal_mikey_guide",
+      "source_count": 202,
+      "comparison": "YouTube identity, distinctive title phrases and normalized transcript search"
+    },
+    {
+      "scope": "researched_video-01_to_video-05_and_short-01",
+      "comparison": "distinctive transcript phrases and known reuse ledgers"
+    },
+    {
+      "scope": "targeted_formal_source",
+      "source_id": "mikey-youtube-live-027",
+      "comparison": "ordered transcript alignment against S00947-S00975"
+    }
+  ],
+  "evidence": [
+    {
+      "type": "identity",
+      "result": "different_youtube_id_but_edited_excerpt",
+      "short_youtube_id": "Tt5Hdf1YPvU",
+      "formal_youtube_id": "8jCwDoBjWT0"
+    },
+    {
+      "type": "normalized_text_alignment",
+      "result": "reuse_confirmed",
+      "formal_source_id": "mikey-youtube-live-027",
+      "formal_evidence": "S00947-S00975@3350.44-3496.45",
+      "matching_characters": 255,
+      "short_normalized_characters": 281,
+      "short_character_coverage": 0.9075,
+      "basis": "The two ordered short sections—humility versus weakness, followed by dating as an investment—occur consecutively in the formal livestream transcript. The residual difference is repetition/editing and minor ASR wording."
+    },
+    {
+      "type": "corpus_phrase_search",
+      "result": "only_target_formal_transcript_matched",
+      "phrases": [
+        "谦虚的男人是不是没有吸引力",
+        "约会是年轻人最好的投资"
+      ]
+    },
+    {
+      "type": "visual_review",
+      "result": "single_livestream_speaker_with_burned_in_subtitles",
+      "basis": "All 17 sampled frames were reviewed. They show one continuous host shot with subtitle styling and no independent case image, chat screenshot or second speaker."
+    }
+  ],
+  "boundary": "Treat the Short as an edited reuse of mikey-youtube-live-027. If ever integrated, retain the Short only as a discovery pointer and assign zero source and knowledge weight."
+}

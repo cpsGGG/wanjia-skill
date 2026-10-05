@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-010",
+  "youtube_id": "pWKKfVHT0Ck",
+  "decision": "new",
+  "compared_sources": [
+    {"scope": "formal_mikey_guide", "source_count": 202, "comparison": "youtube_id_url_normalized_fulltext_and_12_character_shingles"}
+  ],
+  "evidence": [
+    {"type": "identity", "result": "no_exact_youtube_id_or_url_overlap", "basis": "video-01/identity-precheck.json and current formal source-index"},
+    {"type": "normalized_fulltext", "target_normalized_chars": 5943, "target_sha256": "c4bc35bbc70dab9434d4c3279dd62ddecca8976861e2f118a91b6c5374da2129", "formal_transcripts_checked": 202, "exact_matches": []},
+    {"type": "near_duplicate_screen", "method": "12_character_shingle_containment", "highest_formal_containment": 0.00016857720836142953, "result": "no transcript-scale reuse detected"}
+  ],
+  "boundary": "No exact or transcript-scale reuse was detected among the 202 formal sources. The themes overlap existing teachings, and the edited private-coaching case must still be reviewed as third-party material."
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-038",
+  "youtube_id": "Vi9Jw-UOwVU",
+  "review_completed": true,
+  "items": [
+    {"review_id": "s038-r01", "severity": "major", "category": "speaker_attribution", "issue": "The first-person camera-holder is not independently identified as Mikey by the sampled frames.", "affected_evidence": ["whole source"], "disposition": "Keep the speaker generic and disable first-person use."},
+    {"review_id": "s038-r02", "severity": "major", "category": "asr_uncertainty", "issue": "The opening request in S00001 is garbled.", "affected_evidence": ["S00001@0.00-3.20"], "disposition": "Do not quote or infer the missing object without original-audio review."},
+    {"review_id": "s038-r03", "severity": "major", "category": "outcome_and_consent", "issue": "Phone handling is visible, but the clip does not establish what was exchanged or whether continued contact was wanted.", "affected_evidence": ["sampled frames 000004-000006"], "disposition": "Do not label the interaction a success or infer consent beyond the visible moment."},
+    {"review_id": "s038-r04", "severity": "blocking", "category": "privacy_and_publication_authorization", "issue": "The women are identifiable in the street footage, while consent to filming or public posting is not documented in the research package.", "affected_evidence": ["sampled frames 000001-000007"], "disposition": "Do not package identifiable frames into a formal distributable skill without privacy and authorization review."}
+  ]
+}

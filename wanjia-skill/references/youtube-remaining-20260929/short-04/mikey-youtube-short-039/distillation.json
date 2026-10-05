@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-039",
+  "youtube_id": "60HetHyw-tA",
+  "title": "真实搭讪，搭讪眼镜妹",
+  "coverage": {"transcript_segments_read": 17, "transcript_time_range_seconds": [0.0, 26.89], "semantic_media_range_seconds": [0.0, 27.747846], "sampled_frames_reviewed": 9, "continuous_original_audio_visual_review": false, "excluded_asr_tail": null},
+  "timeline": [
+    {"start": 0.0, "end": 6.0, "summary": "The male camera-holder greets a woman, directly says he came to ask for WeChat, and she appears to agree."},
+    {"start": 6.0, "end": 7.0, "summary": "No reliable ASR text is present for this short interval. The visible phone interaction continues, but its exact operation and words are unknown."},
+    {"start": 7.0, "end": 13.46, "summary": "Phone use follows; he asks whether he startled her, and she says it is fine before an incomplete ASR fragment."},
+    {"start": 13.46, "end": 24.89, "summary": "He asks whether she is visiting, notices Guangdong shown on the phone, and confirms that she is not local."},
+    {"start": 24.89, "end": 27.747846, "summary": "They exchange goodbyes; no later outcome is shown."}
+  ],
+  "claims": [
+    {"claim_id": "s039-c01", "speaker": "male_camera_holder_unconfirmed", "statement": "He makes the contact request directly and moves to phone handling after an affirmative response.", "conditions": "One edited street interaction; the exact contact state and later outcome are not verified.", "evidence": ["S00001-S00007@0.00-8.00"], "use_level": "hold"},
+    {"claim_id": "s039-c02", "speaker": "male_camera_holder_unconfirmed", "statement": "He checks whether his approach startled her and then uses a brief travel/origin question before ending the exchange.", "conditions": "Descriptive sequence only; it does not establish a general recovery technique or causal effect.", "evidence": ["S00008-S00017@8.00-26.89"], "use_level": "hold"}
+  ],
+  "speaker_attribution": [{"speaker": "male_camera_holder_unconfirmed", "basis": "Male voice aligns with the first-person camera-holder, but sparse frames do not independently identify him as Mikey."}, {"speaker": "woman_in_frame", "basis": "The visible woman uses her phone and gives brief replies; exact turn mapping follows the ASR and visible exchange, not voiceprint analysis."}],
+  "visual_findings": ["Nine sampled frames show one woman at a roadside while both parties use phones.", "Frames briefly blur the woman, consistent with privacy editing rather than a change of participant.", "No teaching overlay, second scene, or later outcome appears."],
+  "permissions": {"formal_integration": false, "first_person_allowed": false, "action_advice_allowed": false, "use_level": "reuse_zero_weight", "reason": "The sequence is already represented and adds no independently verified outcome."},
+  "limitations": ["Several short ASR phrases are uncertain, especially S00002 and S00007.", "Sparse frames do not establish that contact was saved, retained, or welcomed later.", "No continuous original-audio review or voiceprint identification was performed."]
+}

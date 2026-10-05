@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-020",
+  "youtube_id": "myHvEWyuWZI",
+  "title": "强男的不传之秘｜强行为线索速成篇",
+  "coverage": {
+    "transcript_segments_read": 401,
+    "transcript_time_range_seconds": [0.0, 727.77],
+    "sparse_frames_reviewed": 16,
+    "dense_frames_reviewed": 0,
+    "dense_windows_required_seconds": [[400, 525], [585, 645], [657, 690], [708, 728]],
+    "continuous_original_audio_visual_review": false,
+    "dedup": "new against 202 formal sources; strongest 12-character shingle containment 0.157% with mikey-gameshengjing-015"
+  },
+  "timeline": [
+    {"start": 0.0, "end": 67.0, "summary": "Mikey defines 'strong behavioral cues' as impressions people infer from presentation rather than explicit self-description, using two differently dressed alleged stock traders as an analogy.", "speaker": "Mikey"},
+    {"start": 67.0, "end": 128.10, "summary": "He applies the analogy to dating: a socially ordinary man can be perceived as elite if he presents confidence, while a wealthy boss can be perceived as weak if he is hesitant and avoids eye contact.", "speaker": "Mikey; hypothetical generalization"},
+    {"start": 128.10, "end": 200.10, "summary": "He gives an evolutionary story for women relying on feeling, then links dislike of certain finance men to incorrect value signaling. These sex-wide biological and causal claims are unsupported in the package.", "speaker": "Mikey"},
+    {"start": 200.10, "end": 326.28, "summary": "The '道' section prioritizes subjectivity/selfhood: excessive focus on pleasing, seducing or managing the other person's impression creates psychological load, self-objectification and distorted behavior. He then frames sex as a game reward, which introduces an objectifying and consent-sensitive boundary.", "speaker": "Mikey"},
+    {"start": 326.28, "end": 471.99, "summary": "The '法' section argues that genuine self-direction produces relaxed eye contact and speech, while rehearsed confidence motivated by obtaining sex leaks insecurity. It also uses dominance and 'rather break than bend' rhetoric.", "speaker": "Mikey; includes quoted student question around 423-431 seconds"},
+    {"start": 472.00, "end": 552.92, "summary": "The '术' section rejects canned lines and sudden touching as substitutes for internal change, explicitly noting that unexpected touching can appear creepy or be treated as molestation; it then promotes private coaching and makes a problematic claim about controlling or dominating women's psychology.", "speaker": "Mikey"},
+    {"start": 552.92, "end": 657.04, "summary": "The '器' section treats clothing, watches, cars, posture and photos as packaging that affects whether someone agrees to meet, while warning against logo stacking, excessive styling, debt-funded cosmetic work and dishonest self-presentation.", "speaker": "Mikey"},
+    {"start": 657.04, "end": 727.77, "summary": "Mikey promotes more material via contact details, closes with grandiose strength slogans, then an inserted film monologue says liking something does not require possessing it and advises living more freely.", "speaker": "Mikey followed by an embedded film speaker"}
+  ],
+  "claims": [
+    {"claim_id": "v020-c01", "speaker": "Mikey", "statement": "People often infer status or competence from coherent behavioral and appearance cues rather than accepting explicit self-description.", "reason": "He contrasts two hypothetical stock traders and a wealthy but hesitant boss to separate stated facts from perceived fit.", "conditions": "A heuristic about impression formation, not proof of competence, wealth, character or attraction; stereotypes can mislead.", "evidence": ["S00008-S00031@20.20-62.06", "S00050-S00069@91.04-126.14"], "use_level": "context_only", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v020-c02", "speaker": "Mikey", "statement": "He says pursuing approval, performing wealth and planning every flirtatious move overloads attention and makes behavior rigid or inconsistent.", "reason": "The person monitors the other's judgment after every action and turns himself into a product to be sold.", "conditions": "A self-regulation interpretation; it does not prove what a particular date perceived or why they declined another meeting.", "evidence": ["S00122-S00169@222.02-304.64"], "use_level": "context_only", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v020-c03", "speaker": "Mikey", "statement": "He defines selfhood/subjectivity as acting from one's own considered values rather than changing every word and gesture to secure the other person's approval.", "reason": "He contrasts relaxed, direct behavior with constant impression management.", "conditions": "Self-direction does not grant permission to ignore feedback, disagreement, comfort or consent.", "evidence": ["S00147-S00167@267.70-301.12", "S00193-S00219@341.06-384.10"], "use_level": "context_only", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v020-c04", "speaker": "Mikey", "statement": "He argues that copying eye contact, downward intonation or scripted confidence to obtain sex will not reliably substitute for a stable internal state.", "reason": "He says the underlying approval-seeking motive appears elsewhere and offsets the performed cues.", "conditions": "Personal coaching theory without independent outcome evidence; speech or gaze style should not be used to judge moral worth or consent.", "evidence": ["S00234-S00263@402.98-456.86"], "use_level": "context_only", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v020-c05", "speaker": "Mikey", "statement": "He rejects canned lines and lists of responses as a path to personal growth because they are detached from the user's own habits and judgment.", "reason": "He describes them as spontaneous lines from other people that a learner imitates without acquiring the underlying capacity.", "conditions": "A critique of rote imitation, not proof that all rehearsal or communication practice is useless.", "evidence": ["S00271-S00290@470.82-509.38"], "use_level": "context_only", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v020-c06", "speaker": "Mikey", "statement": "He says suddenly touching someone after learning a tactic can be perceived as creepy or molestation when no relationship or comfort supports it.", "reason": "Technique does not create willingness, and a mismatch between prior behavior and sudden touching is salient.", "conditions": "The necessary boundary is stronger than his framing: current, voluntary and specific consent is required; appearance, confidence or prior attraction is not permission.", "evidence": ["S00291-S00302@509.38-531.44"], "use_level": "hold", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v020-c07", "speaker": "Mikey", "statement": "He says clothing, grooming, posture and profile photos function as packaging that affects whether someone is willing to meet or consider the person further.", "reason": "Initial presentation changes the information available before deeper character can be observed.", "conditions": "A broad impression-management claim; it should be framed as fit, hygiene and accurate presentation rather than status spending or deception.", "evidence": ["S00313-S00343@550.60-605.44"], "use_level": "context_only", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v020-c08", "speaker": "Mikey", "statement": "He warns that excessive logos, debt-funded cosmetic work and lies used to secure sex turn presentation into deceptive packaging rather than self-development.", "reason": "He distinguishes access to a first meeting from sustaining trust or attraction after the presentation is tested.", "conditions": "Several style judgments are insulting and subjective; retain only the anti-deception and financial-boundary point.", "evidence": ["S00344-S00370@605.44-655.44"], "use_level": "context_only", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v020-c09", "speaker": "Mikey", "statement": "He claims women universally rely on an evolved 'feeling' system to assess male protection/resources and that women as a group read behavioral cues with high accuracy.", "reason": "He invokes pregnancy cost and ancestral vulnerability as the mechanism.", "conditions": "Unsupported sex-wide evolutionary and psychological generalization; not established by the video and not suitable for diagnosing individuals.", "evidence": ["S00070-S00108@126.14-200.10", "S00195-S00233@345.56-402.98"], "use_level": "do_not_generalize", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v020-c10", "speaker": "Mikey", "statement": "The video frames sex as a reward for 'clearing' an interaction game and later claims an internally improved man can control women's attention or psychology.", "reason": "These lines place the other person inside a performance/control framework.", "conditions": "Objectifying and coercive framing; do not use as advice. Other people remain autonomous, and consent is specific, ongoing and revocable.", "evidence": ["S00174-S00180@312.18-326.08", "S00307-S00312@539.04-552.92"], "use_level": "do_not_generalize", "knowledge_status": "hold_pending_independent_review"}
+  ],
+  "examples": [
+    {"example_id": "v020-e01", "summary": "Two alleged stock traders dressed differently illustrate how stereotypes shape trust, while also showing why inferred status can be wrong.", "evidence": ["S00011-S00028@28.68-56.26"], "limits": "A hypothetical, not empirical evidence."},
+    {"example_id": "v020-e02", "summary": "A wealthy boss who speaks hesitantly is used to separate objective resources from perceived social confidence.", "evidence": ["S00050-S00065@91.04-116.74"], "limits": "The woman's reaction is hypothetical and cannot establish a universal rule."},
+    {"example_id": "v020-e03", "summary": "A quoted student asks why eye contact, downward intonation and ease did not make women like him; Mikey answers that the approval-seeking motive remained.", "evidence": ["S00243-S00260@421.54-454.00", "sampled frame 000010"], "limits": "The message is selected and de-identified; no independent outcome or full case history is provided."}
+  ],
+  "speaker_attribution": [
+    {"speaker": "Mikey", "basis": "Single identified studio host for the full teaching track, with repeated self-identification and consistent on-camera presentation."},
+    {"speaker": "student/message writer", "basis": "The green message shown around sampled frame 000010 is quoted material asking about eye contact and intonation; it is not Mikey's own experience."},
+    {"speaker": "illustrative clip subjects", "basis": "Film, fashion, dramatized and social-media-style inserts in frames 000001, 000009, 000012, 000014 and 000016 illustrate narration only and are not evidence sources for the claims."},
+    {"speaker": "embedded film speaker", "basis": "S00391-S00401 after 708.56 seconds is a quoted film/TV monologue, not Mikey's original statement."}
+  ],
+  "visual_findings": [
+    "All 16 sampled frames were opened. The dominant image is Mikey speaking alone in a studio with subtitles and course/contact branding.",
+    "Frame 000006 is a teaching graphic about a novice asking how to flirt or signal wealth. Frame 000010 shows a selected, generic-avatar message from a student; it supports that the question was displayed but not the case outcome.",
+    "Frames 000001, 000009, 000012, 000014 and 000016 are illustrative film, dramatized, social-media or fashion clips. They do not verify general claims about women's psychology, consent, wealth or attraction.",
+    "Frame 000012 accompanies a sudden-touch example and therefore needs continuous review around 495-525 seconds before describing the physical action or consent context. Frame 000014 may depict an identifiable third party and needs provenance/privacy review before reuse."
+  ],
+  "permissions": {
+    "formal_integration": false,
+    "knowledge_status": "hold_pending_independent_review",
+    "first_person_allowed": false,
+    "action_advice_allowed": false,
+    "speaker_restriction": "Only the studio teaching track belongs to Mikey. Student messages, film dialogue and illustrative subjects retain separate attribution.",
+    "safety_restriction": "No dominance, psychological control, sex-as-reward, inferred-attraction or sudden-touch framing may become action advice. Explicit, voluntary and ongoing consent controls all physical contact.",
+    "reuse_policy": "New research-source candidate; reconcile topic overlap with formal strong-behavior and attraction sources before any formal weight."
+  },
+  "limitations": [
+    "The complete automatic transcript was read but not checked word-for-word against original audio; recurrent ASR errors include social proof, objectification, escalation, first impressions and idioms.",
+    "Sixteen 45-second sampled frames are sparse screening rather than continuous audio-visual verification.",
+    "The video offers no independent evidence for sex-wide, evolutionary, attraction, finance-profession or course-effect claims.",
+    "Illustrative film/social-media clips and the selected student message do not establish chronology, consent, outcome or representative frequency."
+  ]
+}

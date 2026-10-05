@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-010",
+  "youtube_id": "5zGlhGJloA0",
+  "title": "为什么你对女人好，但是女人并不爱你？",
+  "coverage": {"transcript_segments_read": 64, "transcript_time_range_seconds": [0.0, 89.0], "semantic_media_range_seconds": [0.0, 86.81941], "sampled_frames_reviewed": 29, "continuous_original_audio_visual_review": false, "asr_tail_excluded": "The final ASR fragment extends beyond the audited media duration and carries no additional claim."},
+  "timeline": [
+    {"start": 0.0, "end": 10.34, "summary": "Mikey rejects the simple rule that kindness fails and mistreatment causes love; he shifts the explanation to having a self."},
+    {"start": 10.34, "end": 29.66, "summary": "He says self-directed men may be labeled negatively or uncontrollable and makes a categorical claim that women ultimately prefer them."},
+    {"start": 29.66, "end": 47.1, "summary": "He reframes his teaching as helping men develop selfhood and attraction rather than merely learning pickup techniques."},
+    {"start": 47.1, "end": 60.8, "summary": "He describes approval-seeking on dates as placing oneself below the woman and granting her authority to judge one's worth."},
+    {"start": 60.8, "end": 82.68, "summary": "He says the individual should be central in his own life, extends this below parents and partners, and links freedom to no longer craving approval."},
+    {"start": 82.68, "end": 86.81941, "summary": "He ends with a hyperbolic claim that ordinary behavior becomes attractive once one has this selfhood; the ASR fragment beyond the media boundary is excluded."}
+  ],
+  "claims": [
+    {"claim_id": "s010-c01", "speaker": "Mikey", "statement": "He says the issue is not choosing kindness or mistreatment, but preserving selfhood rather than making another person's approval the measure of one's worth.", "conditions": "Selfhood must coexist with respect, care, reciprocity and accountability.", "evidence": ["S00001-S00007@0.00-10.34", "S00034-S00042@47.10-60.80"], "use_level": "context_only", "knowledge_status": "candidate_new_pending_independent_review"},
+    {"claim_id": "s010-c02", "speaker": "Mikey", "statement": "He frames his teaching as developing selfhood and attraction rather than merely teaching pickup behavior.", "conditions": "A self-description of his teaching, not independent evidence of effectiveness.", "evidence": ["S00020-S00033@29.66-47.10"], "use_level": "context_only", "knowledge_status": "candidate_new_pending_independent_review"},
+    {"claim_id": "s010-c03", "speaker": "Mikey", "statement": "He claims women ultimately prefer self-directed men even if they describe them negatively.", "conditions": "Sweeping gender mind-reading and unsupported outcome claim.", "evidence": ["S00008-S00019@10.34-29.66"], "use_level": "do_not_generalize", "knowledge_status": "candidate_new_pending_independent_review"},
+    {"claim_id": "s010-c04", "speaker": "Mikey", "statement": "He says freedom comes from no longer needing others to like you and treating yourself as central in your own life.", "conditions": "Do not interpret this as making parents or partners unimportant in obligations, care, safety or mutual decisions.", "evidence": ["S00043-S00059@60.80-82.68"], "use_level": "hold", "knowledge_status": "candidate_new_pending_independent_review"}
+  ],
+  "examples": [],
+  "permissions": {"use_level": "hold", "first_person_allowed": false, "action_advice_allowed": false}
+}

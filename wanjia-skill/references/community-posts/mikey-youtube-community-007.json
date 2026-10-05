@@ -1,0 +1,50 @@
+{
+  "schema_version": "mikey-community-post-fulltext-1.0",
+  "source_id": "mikey-youtube-community-007",
+  "post_id": "UgkxWHdO8WHiGOdoH4_I7DGG1GdzEHI6xACe",
+  "url": "https://www.youtube.com/post/UgkxWHdO8WHiGOdoH4_I7DGG1GdzEHI6xACe",
+  "published_at": "2025-07-30T00:16:45.025062-07:00",
+  "date_basis": "archived_public_observation",
+  "body": "不要等感受（比如恐惧，担忧）完全走了再去行动，\n等它们完全走了，大量的时间，机会就也没有了.\n\n八月面试课时间 29-31 \n地点：上海",
+  "body_kind": "verbatim_or_as_archived_in_corrected_candidate",
+  "image_refs": [
+    {
+      "image_index": 1,
+      "research_archive_path": "research/youtube-community-batch1/images/UgkxWHdO8WHiGOdoH4_I7DGG1GdzEHI6xACe/01.jpg",
+      "sha256": "0e8ffc36fce2d69c78fa08c2542e1aa3e43a3d8b9ce3957025717057e0891c39",
+      "bytes": 105508,
+      "formal_asset_policy": "reference_only_do_not_copy",
+      "safe_summary": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。"
+    }
+  ],
+  "segments": [
+    {
+      "sid": "C0007-BODY",
+      "kind": "channel_body",
+      "text": "不要等感受（比如恐惧，担忧）完全走了再去行动，\n等它们完全走了，大量的时间，机会就也没有了.\n\n八月面试课时间 29-31 \n地点：上海",
+      "verbatim_allowed": true,
+      "source_scope": "public_channel_body_as_archived"
+    },
+    {
+      "sid": "C0007-IMG01",
+      "kind": "image_reference_metadata",
+      "text": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。",
+      "verbatim_allowed": false,
+      "image_reference": {
+        "image_index": 1,
+        "research_archive_path": "research/youtube-community-batch1/images/UgkxWHdO8WHiGOdoH4_I7DGG1GdzEHI6xACe/01.jpg",
+        "sha256": "0e8ffc36fce2d69c78fa08c2542e1aa3e43a3d8b9ce3957025717057e0891c39",
+        "bytes": 105508,
+        "formal_asset_policy": "reference_only_do_not_copy",
+        "safe_summary": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。"
+      }
+    }
+  ],
+  "privacy_policy": {
+    "original_images_copied": false,
+    "raw_ocr_copied": false,
+    "private_chat_transcript_copied": false,
+    "third_party_identity_confirmed": false,
+    "publication_authorization_confirmed": false
+  }
+}

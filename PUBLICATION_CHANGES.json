@@ -1,0 +1,434 @@
+{
+  "schema_version": 1,
+  "role": "explicit_public_projection_changes_not_new_semantic_approval",
+  "baseline_version": "0.2.1",
+  "baseline_package_zip_sha256": "98357d85ad13a3952a2fcadec0e13efe94348d7e51d5bf38bd74e20facf0e30e",
+  "raw_original_values_included": false,
+  "public_automatic_transcript_projection": "公开自动稿仅对本清单指定的7个联系数码字段作遮盖，8个精确知识引文复本同步遮盖；SID、时间、归属、观点、理由及全部许可保持原状。未经遮盖的原字节保留在本地正式指南与历史v0.2.1完整包，不进入本清单。",
+  "historical_input_hash_scope": "原始分析输入、源材料及历史字段的既有SHA仍表示本地原证据来历，不能被当作安全公开副本SHA；公开副本完整性另由file_changes与重新冻结的分发清单绑定。SHA更新不表示公开自动稿未经遮盖。",
+  "projection_reason": "Private session locators removed; uncertain contact digit fragments conservatively hidden without deleting the surrounding source or changing runtime permissions.",
+  "contact_fragment_fields": 15,
+  "private_session_locator_occurrences": 2,
+  "field_changes": [
+    {
+      "file": "wanjia-skill/references/dashan/mikey-approach-016/transcript.json",
+      "pointer": "$.segments[86].text",
+      "public_replacement": "[联系交换中的号码片段已遮盖]",
+      "kind": "contact_digit_fragment_projection",
+      "certified_full_contact_number": false
+    },
+    {
+      "file": "wanjia-skill/references/dashan/mikey-approach-016/transcript.json",
+      "pointer": "$.segments[159].text",
+      "public_replacement": "[联系交换中的号码片段已遮盖]",
+      "kind": "contact_digit_fragment_projection",
+      "certified_full_contact_number": false
+    },
+    {
+      "file": "wanjia-skill/references/dashan/mikey-approach-016/transcript.json",
+      "pointer": "$.segments[172].text",
+      "public_replacement": "[联系交换中的号码片段已遮盖]",
+      "kind": "contact_digit_fragment_projection",
+      "certified_full_contact_number": false
+    },
+    {
+      "file": "wanjia-skill/references/dashan/mikey-approach-016/transcript.json",
+      "pointer": "$.segments[185].text",
+      "public_replacement": "[联系交换中的号码片段已遮盖]",
+      "kind": "contact_digit_fragment_projection",
+      "certified_full_contact_number": false
+    },
+    {
+      "file": "wanjia-skill/references/dashan/mikey-approach-018/transcript.json",
+      "pointer": "$.segments[11].text",
+      "public_replacement": "[联系交换中的号码片段已遮盖]",
+      "kind": "contact_digit_fragment_projection",
+      "certified_full_contact_number": false
+    },
+    {
+      "file": "wanjia-skill/references/dashan/mikey-approach-018/transcript.json",
+      "pointer": "$.segments[12].text",
+      "public_replacement": "[联系交换中的号码片段已遮盖]",
+      "kind": "contact_digit_fragment_projection",
+      "certified_full_contact_number": false
+    },
+    {
+      "file": "wanjia-skill/references/dashan/mikey-approach-018/transcript.json",
+      "pointer": "$.segments[13].text",
+      "public_replacement": "[联系交换中的号码片段已遮盖]",
+      "kind": "contact_digit_fragment_projection",
+      "certified_full_contact_number": false
+    },
+    {
+      "file": "wanjia-skill/references/knowledge.jsonl",
+      "line": 2282,
+      "pointer": "$.evidence[3].text",
+      "public_replacement": "[联系交换中的号码片段已遮盖]",
+      "kind": "contact_digit_fragment_projection",
+      "certified_full_contact_number": false
+    },
+    {
+      "file": "wanjia-skill/references/knowledge.jsonl",
+      "line": 2282,
+      "pointer": "$.raw_notes.original_entry.source_quotes[3].text_as_supplied",
+      "public_replacement": "[联系交换中的号码片段已遮盖]",
+      "kind": "contact_digit_fragment_projection",
+      "certified_full_contact_number": false
+    },
+    {
+      "file": "wanjia-skill/references/knowledge.jsonl",
+      "line": 2289,
+      "pointer": "$.evidence[6].text",
+      "public_replacement": "[联系交换中的号码片段已遮盖]",
+      "kind": "contact_digit_fragment_projection",
+      "certified_full_contact_number": false
+    },
+    {
+      "file": "wanjia-skill/references/knowledge.jsonl",
+      "line": 2289,
+      "pointer": "$.evidence[7].text",
+      "public_replacement": "[联系交换中的号码片段已遮盖]",
+      "kind": "contact_digit_fragment_projection",
+      "certified_full_contact_number": false
+    },
+    {
+      "file": "wanjia-skill/references/knowledge.jsonl",
+      "line": 2289,
+      "pointer": "$.evidence[8].text",
+      "public_replacement": "[联系交换中的号码片段已遮盖]",
+      "kind": "contact_digit_fragment_projection",
+      "certified_full_contact_number": false
+    },
+    {
+      "file": "wanjia-skill/references/knowledge.jsonl",
+      "line": 2289,
+      "pointer": "$.raw_notes.original_entry.source_quotes[6].text_as_supplied",
+      "public_replacement": "[联系交换中的号码片段已遮盖]",
+      "kind": "contact_digit_fragment_projection",
+      "certified_full_contact_number": false
+    },
+    {
+      "file": "wanjia-skill/references/knowledge.jsonl",
+      "line": 2289,
+      "pointer": "$.raw_notes.original_entry.source_quotes[7].text_as_supplied",
+      "public_replacement": "[联系交换中的号码片段已遮盖]",
+      "kind": "contact_digit_fragment_projection",
+      "certified_full_contact_number": false
+    },
+    {
+      "file": "wanjia-skill/references/knowledge.jsonl",
+      "line": 2289,
+      "pointer": "$.raw_notes.original_entry.source_quotes[8].text_as_supplied",
+      "public_replacement": "[联系交换中的号码片段已遮盖]",
+      "kind": "contact_digit_fragment_projection",
+      "certified_full_contact_number": false
+    },
+    {
+      "file": "wanjia-skill/references/audio-correction-evidence/audio-review-comparison.json",
+      "pointer": "$.windows[0].web_report",
+      "public_replacement": "网页会话定位已从公开副本移除，原始记录由制作方本地保留",
+      "kind": "private_session_locator_removed",
+      "original_record_retained_locally": true,
+      "web_review_content_retained": true
+    },
+    {
+      "file": "wanjia-skill/references/audio-correction-evidence/web-audio-review-01.md",
+      "pointer": "text:line5:private_session_locator",
+      "public_replacement": "网页会话定位已从公开副本移除，原始记录由制作方本地保留",
+      "kind": "private_session_locator_removed",
+      "original_record_retained_locally": true,
+      "web_review_content_retained": true
+    },
+    {
+      "file": "wanjia-skill/references/audio-correction-evidence/navigation.json",
+      "pointer": "$.documents.web-audio-review-01.md.sha256",
+      "public_replacement": "7b99f76415f75e43e725ba463fc0665e053d90ce83c6671325a6760bdfec6c43",
+      "kind": "portable_copy_sha_binding"
+    },
+    {
+      "file": "wanjia-skill/references/audio-correction-evidence/navigation.json",
+      "pointer": "$.documents.audio-review-comparison.json.sha256",
+      "public_replacement": "4c2fd0e5c53b9dfc21a06f59f6053c6d01cc7bd57d9b10c28a0eaf2e2596f6c7",
+      "kind": "portable_copy_sha_binding"
+    },
+    {
+      "file": "wanjia-skill/references/audio-correction-evidence/navigation.json",
+      "pointer": "$.segments.S02543.web_report.sha256",
+      "public_replacement": "7b99f76415f75e43e725ba463fc0665e053d90ce83c6671325a6760bdfec6c43",
+      "kind": "portable_copy_sha_binding"
+    },
+    {
+      "file": "wanjia-skill/references/audio-correction-evidence/navigation.json",
+      "pointer": "$.segments.S02543.comparison.sha256",
+      "public_replacement": "4c2fd0e5c53b9dfc21a06f59f6053c6d01cc7bd57d9b10c28a0eaf2e2596f6c7",
+      "kind": "portable_copy_sha_binding"
+    },
+    {
+      "file": "wanjia-skill/references/audio-correction-evidence/navigation.json",
+      "pointer": "$.segments.S02544.web_report.sha256",
+      "public_replacement": "7b99f76415f75e43e725ba463fc0665e053d90ce83c6671325a6760bdfec6c43",
+      "kind": "portable_copy_sha_binding"
+    },
+    {
+      "file": "wanjia-skill/references/audio-correction-evidence/navigation.json",
+      "pointer": "$.segments.S02544.comparison.sha256",
+      "public_replacement": "4c2fd0e5c53b9dfc21a06f59f6053c6d01cc7bd57d9b10c28a0eaf2e2596f6c7",
+      "kind": "portable_copy_sha_binding"
+    },
+    {
+      "file": "wanjia-skill/references/audio-correction-evidence/navigation.json",
+      "pointer": "$.segments.S01972.comparison.sha256",
+      "public_replacement": "4c2fd0e5c53b9dfc21a06f59f6053c6d01cc7bd57d9b10c28a0eaf2e2596f6c7",
+      "kind": "portable_copy_sha_binding"
+    },
+    {
+      "file": "wanjia-skill/references/audio-correction-evidence/navigation.json",
+      "pointer": "$.segments.S02343.comparison.sha256",
+      "public_replacement": "4c2fd0e5c53b9dfc21a06f59f6053c6d01cc7bd57d9b10c28a0eaf2e2596f6c7",
+      "kind": "portable_copy_sha_binding"
+    },
+    {
+      "file": "wanjia-skill/references/audio-correction-evidence/navigation.json",
+      "pointer": "$.segments.S02353.comparison.sha256",
+      "public_replacement": "4c2fd0e5c53b9dfc21a06f59f6053c6d01cc7bd57d9b10c28a0eaf2e2596f6c7",
+      "kind": "portable_copy_sha_binding"
+    },
+    {
+      "file": "wanjia-skill/references/audio-correction-evidence/navigation.json",
+      "pointer": "$.segments.S02356.comparison.sha256",
+      "public_replacement": "4c2fd0e5c53b9dfc21a06f59f6053c6d01cc7bd57d9b10c28a0eaf2e2596f6c7",
+      "kind": "portable_copy_sha_binding"
+    },
+    {
+      "file": "wanjia-skill/references/audio-correction-evidence/navigation.json",
+      "pointer": "$.segments.S02556.comparison.sha256",
+      "public_replacement": "4c2fd0e5c53b9dfc21a06f59f6053c6d01cc7bd57d9b10c28a0eaf2e2596f6c7",
+      "kind": "portable_copy_sha_binding"
+    },
+    {
+      "file": "wanjia-skill/references/audio-correction-evidence/navigation.json",
+      "pointer": "$.segments.S02557.comparison.sha256",
+      "public_replacement": "4c2fd0e5c53b9dfc21a06f59f6053c6d01cc7bd57d9b10c28a0eaf2e2596f6c7",
+      "kind": "portable_copy_sha_binding"
+    },
+    {
+      "file": "wanjia-skill/references/audio-correction-evidence/navigation.json",
+      "pointer": "$.segments.S02558.comparison.sha256",
+      "public_replacement": "4c2fd0e5c53b9dfc21a06f59f6053c6d01cc7bd57d9b10c28a0eaf2e2596f6c7",
+      "kind": "portable_copy_sha_binding"
+    },
+    {
+      "file": "wanjia-skill/references/audio-correction-evidence/navigation.json",
+      "pointer": "$.segments.S02560.comparison.sha256",
+      "public_replacement": "4c2fd0e5c53b9dfc21a06f59f6053c6d01cc7bd57d9b10c28a0eaf2e2596f6c7",
+      "kind": "portable_copy_sha_binding"
+    },
+    {
+      "file": "wanjia-skill/references/audio-correction-evidence/navigation.json",
+      "pointer": "$.segments.S02587.comparison.sha256",
+      "public_replacement": "4c2fd0e5c53b9dfc21a06f59f6053c6d01cc7bd57d9b10c28a0eaf2e2596f6c7",
+      "kind": "portable_copy_sha_binding"
+    },
+    {
+      "file": "wanjia-skill/references/audio-correction-evidence/navigation.json",
+      "pointer": "$.segments.S02589.comparison.sha256",
+      "public_replacement": "4c2fd0e5c53b9dfc21a06f59f6053c6d01cc7bd57d9b10c28a0eaf2e2596f6c7",
+      "kind": "portable_copy_sha_binding"
+    },
+    {
+      "file": "wanjia-skill/references/audio-correction-evidence/navigation.json",
+      "pointer": "$.segments.S02592.comparison.sha256",
+      "public_replacement": "4c2fd0e5c53b9dfc21a06f59f6053c6d01cc7bd57d9b10c28a0eaf2e2596f6c7",
+      "kind": "portable_copy_sha_binding"
+    },
+    {
+      "file": "wanjia-skill/references/audio-correction-evidence/navigation.json",
+      "pointer": "$.segments.S02737.comparison.sha256",
+      "public_replacement": "4c2fd0e5c53b9dfc21a06f59f6053c6d01cc7bd57d9b10c28a0eaf2e2596f6c7",
+      "kind": "portable_copy_sha_binding"
+    },
+    {
+      "file": "wanjia-skill/references/audio-correction-evidence/navigation.json",
+      "pointer": "$.segments.S01891.comparison.sha256",
+      "public_replacement": "4c2fd0e5c53b9dfc21a06f59f6053c6d01cc7bd57d9b10c28a0eaf2e2596f6c7",
+      "kind": "portable_copy_sha_binding"
+    },
+    {
+      "file": "wanjia-skill/references/audio-correction-evidence/navigation.json",
+      "pointer": "$.segments.S01892.comparison.sha256",
+      "public_replacement": "4c2fd0e5c53b9dfc21a06f59f6053c6d01cc7bd57d9b10c28a0eaf2e2596f6c7",
+      "kind": "portable_copy_sha_binding"
+    },
+    {
+      "file": "wanjia-skill/references/audio-correction-evidence/navigation.json",
+      "pointer": "$.segments.S02692.comparison.sha256",
+      "public_replacement": "4c2fd0e5c53b9dfc21a06f59f6053c6d01cc7bd57d9b10c28a0eaf2e2596f6c7",
+      "kind": "portable_copy_sha_binding"
+    },
+    {
+      "file": "wanjia-skill/references/audio-correction-evidence/navigation.json",
+      "pointer": "$.segments.S02693.comparison.sha256",
+      "public_replacement": "4c2fd0e5c53b9dfc21a06f59f6053c6d01cc7bd57d9b10c28a0eaf2e2596f6c7",
+      "kind": "portable_copy_sha_binding"
+    },
+    {
+      "file": "wanjia-skill/references/audio-correction-evidence/navigation.json",
+      "pointer": "$.segments.S02694.comparison.sha256",
+      "public_replacement": "4c2fd0e5c53b9dfc21a06f59f6053c6d01cc7bd57d9b10c28a0eaf2e2596f6c7",
+      "kind": "portable_copy_sha_binding"
+    },
+    {
+      "file": "wanjia-skill/references/audio-correction-evidence/navigation.json",
+      "pointer": "$.segments.S02399.comparison.sha256",
+      "public_replacement": "4c2fd0e5c53b9dfc21a06f59f6053c6d01cc7bd57d9b10c28a0eaf2e2596f6c7",
+      "kind": "portable_copy_sha_binding"
+    },
+    {
+      "file": "wanjia-skill/references/audio-correction-evidence/navigation.json",
+      "pointer": "$.segments.S02111.comparison.sha256",
+      "public_replacement": "4c2fd0e5c53b9dfc21a06f59f6053c6d01cc7bd57d9b10c28a0eaf2e2596f6c7",
+      "kind": "portable_copy_sha_binding"
+    },
+    {
+      "file": "wanjia-skill/references/audio-correction-evidence/navigation.json",
+      "pointer": "$.segments.S02112.comparison.sha256",
+      "public_replacement": "4c2fd0e5c53b9dfc21a06f59f6053c6d01cc7bd57d9b10c28a0eaf2e2596f6c7",
+      "kind": "portable_copy_sha_binding"
+    },
+    {
+      "file": "wanjia-skill/references/audio-correction-evidence/navigation.json",
+      "pointer": "$.segments.S02116.comparison.sha256",
+      "public_replacement": "4c2fd0e5c53b9dfc21a06f59f6053c6d01cc7bd57d9b10c28a0eaf2e2596f6c7",
+      "kind": "portable_copy_sha_binding"
+    },
+    {
+      "file": "wanjia-skill/references/audio-correction-evidence/navigation.json",
+      "pointer": "$.segments.S02117.comparison.sha256",
+      "public_replacement": "4c2fd0e5c53b9dfc21a06f59f6053c6d01cc7bd57d9b10c28a0eaf2e2596f6c7",
+      "kind": "portable_copy_sha_binding"
+    },
+    {
+      "file": "wanjia-skill/references/audio-correction-evidence/navigation.json",
+      "pointer": "$.segments.S02118.comparison.sha256",
+      "public_replacement": "4c2fd0e5c53b9dfc21a06f59f6053c6d01cc7bd57d9b10c28a0eaf2e2596f6c7",
+      "kind": "portable_copy_sha_binding"
+    },
+    {
+      "file": "wanjia-skill/references/audio-correction-evidence/navigation.json",
+      "pointer": "$.segments.S02011.comparison.sha256",
+      "public_replacement": "4c2fd0e5c53b9dfc21a06f59f6053c6d01cc7bd57d9b10c28a0eaf2e2596f6c7",
+      "kind": "portable_copy_sha_binding"
+    },
+    {
+      "file": "wanjia-skill/references/audio-correction-evidence/navigation.json",
+      "pointer": "$.segments.S02013.comparison.sha256",
+      "public_replacement": "4c2fd0e5c53b9dfc21a06f59f6053c6d01cc7bd57d9b10c28a0eaf2e2596f6c7",
+      "kind": "portable_copy_sha_binding"
+    }
+  ],
+  "file_changes": [
+    {
+      "file": "wanjia-skill/references/dashan/mikey-approach-016/transcript.json",
+      "before_sha256": "d1c3d3dd8f118a7aa80284d25ca65cf95cbda2440fd4c5feb0e3bd9b40027ddd",
+      "before_bytes": 84616,
+      "after_sha256": "72c22a44683c26db2bad8c68d7921648ec0676a27fc80e1a5bc733efbde5fa1b",
+      "after_bytes": 84768
+    },
+    {
+      "file": "wanjia-skill/references/dashan/mikey-approach-018/transcript.json",
+      "before_sha256": "5eef816f818480a44ebf9b25c4151673162b7db07962ffa52c6b37703ec9d696",
+      "before_bytes": 41786,
+      "after_sha256": "6945c2e89e6e59563fefc412ddf0b3da1799c92dc080ef5847a72c920a23b43a",
+      "after_bytes": 41899
+    },
+    {
+      "file": "wanjia-skill/references/knowledge.jsonl",
+      "before_sha256": "ba1c169d7febde8ad51c67d237206e4747111b32143da77408e02f8f077990bf",
+      "before_bytes": 28604706,
+      "after_sha256": "af44c9a5de0548fa683530eead8ba07c5d1c6ce58a936f14fbdbcea0d0758903",
+      "after_bytes": 28605008
+    },
+    {
+      "file": "wanjia-skill/references/audio-correction-evidence/audio-review-comparison.json",
+      "before_sha256": "c4c6c3dfa21466a7bcb835d665330276ff2ececb3646017725a279e7428c2c06",
+      "before_bytes": 35539,
+      "after_sha256": "4c2fd0e5c53b9dfc21a06f59f6053c6d01cc7bd57d9b10c28a0eaf2e2596f6c7",
+      "after_bytes": 35562
+    },
+    {
+      "file": "wanjia-skill/references/audio-correction-evidence/web-audio-review-01.md",
+      "before_sha256": "3314e13d154e7e7afaae9655c2f4c025cdebc42d4a8942678dc9b319357611b3",
+      "before_bytes": 1556,
+      "after_sha256": "7b99f76415f75e43e725ba463fc0665e053d90ce83c6671325a6760bdfec6c43",
+      "after_bytes": 1579
+    },
+    {
+      "file": "wanjia-skill/references/audio-correction-evidence/navigation.json",
+      "before_sha256": "69d43ab7fcd2ecac594435d50f9117c70a6d998e27ec5286f64eab51cf2d9d0e",
+      "before_bytes": 26820,
+      "after_sha256": "d8d28384b4aa206bcdef7fefef1f85e781d2c41ef7054825f0ffac8e92760c0d",
+      "after_bytes": 38281
+    }
+  ],
+  "knowledge_rows_changed_only_in_contact_quote_fields": [
+    {
+      "id": "mikey-approach-016-K0004",
+      "status_before": {
+        "layer": "privacy_boundary",
+        "speaker_id": null,
+        "attribution": "unknown",
+        "release_status": "hold",
+        "cross_use_level": "hold",
+        "text": "automatic_transcript_with_episode_analysis_not_sentence_by_sentence_verified",
+        "visual": "sampled_and_targeted_review_not_continuous_av_verification",
+        "first_person_allowed": false,
+        "action_advice_allowed": false
+      },
+      "status_after": {
+        "layer": "privacy_boundary",
+        "speaker_id": null,
+        "attribution": "unknown",
+        "release_status": "hold",
+        "cross_use_level": "hold",
+        "text": "automatic_transcript_with_episode_analysis_not_sentence_by_sentence_verified",
+        "visual": "sampled_and_targeted_review_not_continuous_av_verification",
+        "first_person_allowed": false,
+        "action_advice_allowed": false
+      }
+    },
+    {
+      "id": "mikey-approach-018-K0001",
+      "status_before": {
+        "layer": "case_observation",
+        "speaker_id": null,
+        "attribution": "unknown",
+        "release_status": "hold",
+        "cross_use_level": "hold",
+        "text": "automatic_transcript_with_episode_analysis_not_sentence_by_sentence_verified",
+        "visual": "sampled_and_targeted_review_not_continuous_av_verification",
+        "first_person_allowed": false,
+        "action_advice_allowed": false
+      },
+      "status_after": {
+        "layer": "case_observation",
+        "speaker_id": null,
+        "attribution": "unknown",
+        "release_status": "hold",
+        "cross_use_level": "hold",
+        "text": "automatic_transcript_with_episode_analysis_not_sentence_by_sentence_verified",
+        "visual": "sampled_and_targeted_review_not_continuous_av_verification",
+        "first_person_allowed": false,
+        "action_advice_allowed": false
+      }
+    }
+  ],
+  "all_117_previously_approved_rows_unchanged": true,
+  "runtime_personification_allowed": 117,
+  "runtime_action_advice_allowed": 51,
+  "runtime_permission_id_lists_and_authority_script_hashes_unchanged": true,
+  "formal_guide_or_historical_zip_changed": false,
+  "new_independent_final_publication_gate": "NOT_RUN",
+  "pending_outer_bindings": "Root packaging role will regenerate source-index transcript SHA pins, resource map, public ready and package manifest transparently.",
+  "public_field_provenance": "公开清单以精确字段位置、替代文本及原文件/安全副本完整文件SHA记录改动；不公开短数码或私人会话定位的值摘要。逐字段原值SHA匹配仅保留在制作方本地证据。",
+  "raw_original_value_digests_included": false
+}

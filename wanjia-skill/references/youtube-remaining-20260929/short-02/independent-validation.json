@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "batch_key": "short-02",
+  "validated_at": "2026-09-29T20:48:07+08:00",
+  "validator_role": "local_independent_review_after_subagent_distillation",
+  "pass": true,
+  "scope": {
+    "items": 10,
+    "media_audit_items": 10,
+    "transcript_segments": 470,
+    "sampled_frames": 267,
+    "dense_frames_reviewed": 61,
+    "timeline_entries": 40,
+    "claims": 31,
+    "short_transcript_claim_references_checked": 31,
+    "review_items": 39
+  },
+  "checks": {
+    "pipeline_validation_report_present_and_pass": true,
+    "media_files_rehashed_against_audit": "10/10",
+    "media_hash_bound_transcripts": "10/10",
+    "media_hash_bound_visual_manifests": "10/10",
+    "visual_manifest_files_and_hashes_valid": "267/267",
+    "timeline_nonempty_and_within_media": "10/10",
+    "short_claim_segment_references_exist": "31/31",
+    "short_claim_segment_references_within_media": "31/31",
+    "review_ledgers_completed": "10/10",
+    "first_person_permission_closed": "10/10",
+    "action_advice_permission_closed": "10/10",
+    "formal_integration_approved": "0/10",
+    "reuse_zero_weight": "8/8",
+    "formal_source_index_unchanged": true
+  },
+  "deduplication": {
+    "identity_decisions": {"new": 2, "reuse": 8},
+    "new_positive_weight_candidates": ["mikey-youtube-short-012", "mikey-youtube-short-013"],
+    "reuse_zero_weight": {
+      "mikey-youtube-short-011": ["jvFRTgH_4cE", "mikey-youtube-video-007"],
+      "mikey-youtube-short-014": ["mikey-youtube-live-028"],
+      "mikey-youtube-short-015": ["o6fS0sTCYcU"],
+      "mikey-youtube-short-016": ["o6fS0sTCYcU"],
+      "mikey-youtube-short-017": ["mikey-youtube-live-028"],
+      "mikey-youtube-short-018": ["mikey-youtube-live-027"],
+      "mikey-youtube-short-019": ["quark-live-046"],
+      "mikey-youtube-short-020": ["mikey-youtube-live-025"]
+    },
+    "new_candidate_limits": {
+      "mikey-youtube-short-012": "No parent long-form source was located. The business workflow, hiring and delegation claims remain unverified and restricted.",
+      "mikey-youtube-short-013": "The full Short is private correspondence. Dense one-second review confirms the displayed order but not identity, authorization, causation or a later meeting."
+    }
+  },
+  "resolved_validation_findings": [
+    {
+      "stable_ids": ["mikey-youtube-short-011", "mikey-youtube-short-012", "mikey-youtube-short-014", "mikey-youtube-short-016", "mikey-youtube-short-017", "mikey-youtube-short-018"],
+      "finding": "Automatic ASR contains tail segments beyond audited media duration.",
+      "resolution": "All semantic timelines and Short evidence are capped at media duration; the overrun tails remain in extraction records but are explicitly excluded from claims."
+    },
+    {
+      "stable_id": "mikey-youtube-short-016",
+      "finding": "Coverage metadata reported 35 transcript segments although transcript.json contains 33.",
+      "resolution": "Corrected transcript_segments_read to 33 and re-ran mechanical and independent checks."
+    }
+  ],
+  "open_research_limits": {
+    "review_items_by_severity": {"blocking": 12, "major": 27},
+    "summary": "The new candidates remain restricted by an unlocated parent source, unverified business claims, private correspondence, uncertain publication authorization and coercive messaging. Reused clips inherit their formal-source limits, including consent, manipulation, dehumanizing metaphors and gender generalizations."
+  },
+  "permissions": {
+    "formal_mikey_guide_modified": false,
+    "formal_source_index_sha256": "bec0688ff67e13cc849b8f3ad03e570ee13473477788a72fc7cfebfa008e8d75",
+    "formal_integration_approved": false,
+    "raw_media_deletion_authorized": false,
+    "short_03_started": false
+  }
+}

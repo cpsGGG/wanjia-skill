@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-029",
+  "youtube_id": "TUx4Jo4wEBk",
+  "title": "价值≠价值感，很多人其实天生就有吸引力，只是很多人不敢做“自己”",
+  "coverage": {
+    "transcript_segments_read": 35,
+    "transcript_time_range_seconds": [0.0, 136.48],
+    "semantic_media_range_seconds": [0.0, 136.533333],
+    "sampled_frames_reviewed": 45,
+    "continuous_original_audio_visual_review": false
+  },
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 25.34,
+      "summary": "He defines attraction as consistency between inner state and outward behavior, then says being oneself is attractive only when the underlying self has value."
+    },
+    {
+      "start": 25.34,
+      "end": 68.82,
+      "summary": "He says capable students can lose attraction by suppressing themselves and flattering women, while also insisting that self-development still requires effort."
+    },
+    {
+      "start": 68.82,
+      "end": 97.94,
+      "summary": "He says reassurance is easy after attraction and gives hugging, future plans and positive messages as examples, then claims the same acts are seen as harassment without attraction."
+    },
+    {
+      "start": 97.94,
+      "end": 136.533333,
+      "summary": "After an editorial jump, he says nothing is a big deal while life remains, then advances an unverified belief that the soul is immortal and reincarnates."
+    }
+  ],
+  "claims": [
+    {
+      "claim_id": "s029-c01",
+      "speaker": "Mikey",
+      "statement": "He defines attraction as consistency, but says doing oneself is attractive only when the person already possesses what he calls value.",
+      "conditions": "His value hierarchy is undefined and uses a demeaning poverty example; it is not an objective ranking of people.",
+      "evidence": ["S00001-S00005@0.00-25.34"],
+      "use_level": "hold"
+    },
+    {
+      "claim_id": "s029-c02",
+      "speaker": "Mikey",
+      "statement": "He says capable men can suppress their own behavior and lose attraction by performing deference or excessive protection, while effort remains necessary to develop attractive qualities.",
+      "conditions": "A broad relationship model, not proof that care or courtesy reduces attraction.",
+      "evidence": ["S00006-S00016@25.34-68.82"],
+      "use_level": "hold"
+    },
+    {
+      "claim_id": "s029-c03",
+      "speaker": "Mikey",
+      "statement": "He presents a hug, a future plan and positive messages as reassurance after attraction, and claims the same acts are interpreted as harassment when attraction is absent.",
+      "conditions": "Attraction never substitutes for consent; hugs require freely given present permission, and messages or invitations must stop when unwelcome.",
+      "evidence": ["S00017-S00023@68.82-97.94"],
+      "use_level": "do_not_generalize"
+    },
+    {
+      "claim_id": "s029-c04",
+      "speaker": "Mikey",
+      "statement": "He says even death is not a major problem because he believes the soul is immortal and can reincarnate into a new body.",
+      "conditions": "Unverified spiritual belief; never use it to minimize death, grief, self-harm risk or medical danger.",
+      "evidence": ["S00024-S00035@97.94-136.48"],
+      "use_level": "do_not_generalize"
+    }
+  ],
+  "speaker_attribution": [
+    {
+      "speaker": "Mikey",
+      "basis": "One visible channel host speaks throughout, and both edited passages match formal mikey-youtube-live-009."
+    }
+  ],
+  "visual_findings": [
+    "All 45 sampled frames show the same black-shirt host holding a phone in one dark setting with editorial subtitles.",
+    "No woman, hug, message exchange, student, beggar, death-related event or independent result is shown."
+  ],
+  "permissions": {
+    "formal_integration": false,
+    "first_person_allowed": false,
+    "action_advice_allowed": false,
+    "use_level": "reuse_zero_weight",
+    "reason": "Compilation of two passages from formal mikey-youtube-live-009; includes consent-sensitive contact claims and unverifiable reincarnation belief."
+  },
+  "limitations": [
+    "The edit joins parent passages separated by roughly fifteen minutes without marking the context change.",
+    "The clip gives no independent evidence for its attraction, harassment or spiritual claims."
+  ]
+}

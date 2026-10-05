@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-024",
+  "youtube_id": "WtkiYS2CJ6Q",
+  "title": "揭秘行业内幕，职业选手是如何把妹的。丨私密空间丨情感丨恋爱丨dating in china 丨真实社交造假丨请演员",
+  "coverage": {
+    "transcript_segments_read": 1064,
+    "transcript_time_range_seconds": [0.0, 1430.59],
+    "sparse_frames_reviewed": 32,
+    "dense_frames_reviewed": 113,
+    "dense_windows_required_seconds": [],
+    "continuous_original_audio_visual_review": false
+  },
+  "timeline": [
+    {"start": 0.0, "end": 84.16, "summary": "Mikey introduces a fan-submitted exposé and guest 'Tinder King'; both frame the episode as a reaction to alleged dating-coaching fraud."},
+    {"start": 84.76, "end": 177.26, "summary": "An embedded third-party video presents edited street and date clips as evidence that interactions were staged or performed by actors."},
+    {"start": 177.26, "end": 319.11, "summary": "The embedded narrator alleges fabricated scripts and testimonials, invokes Chinese fraud law and predicts criminal penalties for a named team."},
+    {"start": 317.31, "end": 555.37, "summary": "Mikey and the guest react to pauses, cuts and awkward behavior, infer staging, and contrast scripts with context-sensitive conversation."},
+    {"start": 554.39, "end": 695.37, "summary": "They discuss a masked accuser, alleged former students and named figures, adding further claims about copied videos, fake mentors and testimonials."},
+    {"start": 692.69, "end": 780.05, "summary": "Additional posts, clips, team pages and screenshots are shown while the hosts infer common identity and coordinated deception."},
+    {"start": 779.41, "end": 920.04, "summary": "The episode shifts to practical interaction talk: respond to the actual exchange, express oneself and transition rather than reciting fixed lines."},
+    {"start": 918.62, "end": 1128.98, "summary": "The hosts discuss neediness, explicit sexual questions and the guest's story of watching neighbors through windows with binoculars or a telescope."},
+    {"start": 1126.32, "end": 1188.48, "summary": "The guest makes high-volume sexual-frequency claims and describes fatigue and performance pressure."},
+    {"start": 1186.84, "end": 1275.76, "summary": "They discuss fast-acting erectile drugs, health and legality, then answer a scenario in which a drug was taken but the woman did not want sex."},
+    {"start": 1274.96, "end": 1320.91, "summary": "The guest promotes his own service and social account."},
+    {"start": 1319.45, "end": 1430.59, "summary": "They return to industry ethics, audience responsibility and a closing appeal to distinguish teaching from manufactured results."}
+  ],
+  "claims": [
+    {"claim_id": "v024-c01", "speaker": "embedded third-party accuser", "statement": "A named dating-coaching team allegedly stages encounters, hires actors, fabricates chat or testimonial evidence and sells instruction through deception.", "conditions": "Serious allegations from an edited third-party source; the episode does not provide original media, contracts, payment records or responses from the accused.", "evidence": ["S00057-S00163@84.76-319.11", "visual/dense/085-325-every5s/"], "use_level": "do_not_generalize", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v024-c02", "speaker": "embedded third-party accuser", "statement": "The accuser invokes PRC Criminal Law Article 266 and predicts fraud penalties for the named operation.", "conditions": "Legal conclusion and sentencing prediction without authenticated facts, charging decision or court record.", "evidence": ["S00124-S00163@239.07-319.11", "visual/dense/085-325-every5s/contacts/contact-03.jpg"], "use_level": "do_not_generalize", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v024-c03", "speaker": "Mikey and Tinder King reacting", "statement": "They infer that visible pauses, camera cuts, repeated angles and unnatural behavior indicate scripted or staged interaction.", "conditions": "Possible editing clues but not proof; the reaction uses another edited montage rather than original continuous footage.", "evidence": ["S00163-S00310@317.31-485.15"], "use_level": "hold", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v024-c04", "speaker": "Mikey and Tinder King", "statement": "Natural interaction is described as responding to context and the other person instead of reproducing exact lines from a script.", "conditions": "A limited interaction principle; it does not establish the fraud allegations or guarantee attraction.", "evidence": ["S00275-S00372@447.73-555.37", "S00499-S00618@779.41-920.04"], "use_level": "context_only", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v024-c05", "speaker": "Mikey and Tinder King discussing named people", "statement": "They repeat and extend allegations that named mentors, students and testimonial subjects share identities, copy material or participate in fabricated marketing.", "conditions": "Identifiable-person reputational claims based on selected screenshots and resemblance; identity and conduct are not independently verified.", "evidence": ["S00372-S00499@554.39-780.05", "visual/dense/560-790-every5s/"], "use_level": "do_not_generalize", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v024-c06", "speaker": "Mikey and Tinder King", "statement": "They frame low neediness as being able to express interest without making one's self-worth depend on the other person's response.", "conditions": "Retain only the self-regulation theme; the surrounding dominance and conquest language is not approved relationship guidance.", "evidence": ["S00618-S00693@918.62-1007.43"], "use_level": "context_only", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v024-c07", "speaker": "Mikey and Tinder King", "statement": "They advocate discussing sex more directly and treat explicit sexual questions as a way to reduce shame.", "conditions": "Highly context-dependent; requires mutual comfort, age appropriateness, consent and an easy way to decline. The exact prompts are not approved advice.", "evidence": ["S00682-S00748@990.45-1076.55"], "use_level": "do_not_generalize", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v024-c08", "speaker": "Tinder King", "statement": "He says he used a telescope or military binoculars to watch neighbors through their windows and used the activity while hosting dates.", "conditions": "Privacy-invasive conduct and possible legal violation depending on jurisdiction; must not be normalized, copied or framed as a dating technique.", "evidence": ["S00735-S00796@1055.21-1128.98"], "use_level": "do_not_generalize", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v024-c09", "speaker": "Tinder King", "statement": "He reports having sex three or four times per day and roughly twenty times per week during one period.", "conditions": "Unverified self-report used as status proof; no health, chronology or independent evidence is provided.", "evidence": ["S00796-S00847@1126.32-1188.48"], "use_level": "do_not_generalize", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v024-c10", "speaker": "Mikey and Tinder King discussing medication", "statement": "They describe a fast-acting erectile drug as legal and healthy and encourage viewers to search for it.", "conditions": "Medical, product and legal claims are not supported with a verified ingredient, prescription status, contraindications or clinician guidance.", "evidence": ["S00847-S00912@1186.84-1252.75", "visual/dense/1180-1275-every5s/"], "use_level": "do_not_generalize", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v024-c11", "speaker": "Tinder King answering Mikey's scenario", "statement": "When asked what to do after taking the drug if a woman does not want sex, the guest answers with oral sex rather than centering refusal and stopping.", "conditions": "Consent ambiguity and unsafe advice; another sexual act also requires explicit willingness and is not a workaround for refusal.", "evidence": ["S00902-S00935@1240.21-1275.76"], "use_level": "do_not_generalize", "knowledge_status": "hold_pending_independent_review"}
+  ],
+  "examples": [
+    {"example_id": "v024-e01", "summary": "Street and café clips, a masked accuser, social posts, course pages and identity-comparison graphics are edited into an accusation sequence; none is preserved here as authenticated primary proof.", "evidence": ["S00057-S00499@84.76-780.05", "visual/dense/085-325-every5s/", "visual/dense/560-790-every5s/"]},
+    {"example_id": "v024-e02", "summary": "The hosts use a contrast between memorized lines and responding to the current interaction to explain why exact scripts can look unnatural.", "evidence": ["S00275-S00372@447.73-555.37", "S00499-S00618@779.41-920.04"]},
+    {"example_id": "v024-e03", "summary": "A medication-and-refusal hypothetical exposes a serious gap: the discussion treats sexual performance as the problem instead of treating the woman's refusal as decisive.", "evidence": ["S00847-S00935@1186.84-1275.76"]}
+  ],
+  "speaker_attribution": [
+    {"speaker": "Mikey", "basis": "Right-side host in black leather outerwear for the main two-person studio footage; self-identification and recurring channel-host context support the mapping."},
+    {"speaker": "Tinder King", "basis": "Left-side guest in a light patterned cardigan; introduced by name at the start and addressed as guest throughout."},
+    {"speaker": "embedded third-party accuser", "basis": "Voice and edited visuals inside the reacted-to exposé from about 85-319 seconds; allegations must remain attributed to that embedded source."},
+    {"speaker": "masked or named alleged students, mentors and testimonial subjects", "basis": "Appear through clips, posts or screenshots selected by the accuser or hosts; identities and statements are not independently established."},
+    {"speaker": "unmapped clip voices", "basis": "Several short embedded voices cannot be securely mapped from sparse or five-second sampling and are not treated as Mikey's own statements."}
+  ],
+  "visual_findings": [
+    "All 32 sparse frames and 113 targeted dense frames were reviewed. Dense windows cover 85-325, 560-790 and 1180-1275 seconds at five-second intervals; contact sheets are preserved with the extracted frames.",
+    "The first accusation window contains street/date clips, an apparent course or message screen, a masked accuser, identity-comparison graphics, chat lists, legal text and a team-marketing page. It is an edited evidentiary montage rather than continuous source footage.",
+    "The 560-790 window shows posts, masked alleged students, face-comparison graphics, a contact list, named team members and replayed clips. Visual resemblance and editorial labels do not authenticate identity or prove misconduct.",
+    "The medication window shows only the two hosts and promotional graphics; no packaging, ingredient list, prescription information or medical source is readable enough to support the health and legality claims.",
+    "No continuous original audio-visual review was performed, so speaker mapping within embedded clips and the completeness of displayed source material remain limited."
+  ],
+  "permissions": {
+    "formal_integration": false,
+    "first_person_allowed": false,
+    "action_advice_allowed": false,
+    "knowledge_status": "hold_pending_independent_review",
+    "reason": "The episode combines unverified allegations about identifiable people, edited third-party media, privacy-invasive conduct, explicit sexual advice, consent ambiguity and unsupported medical claims."
+  },
+  "limitations": [
+    "Automatic transcript was not checked word-for-word against original audio and speaker turns are unreliable in embedded clips.",
+    "The accuser's original files, accused parties' responses, contracts, payments, raw footage and legal records were not obtained.",
+    "Dense frame sampling remains discontinuous and cannot establish clip chronology, editing omissions or authenticity.",
+    "The same hosts agreeing with an embedded accusation does not constitute independent corroboration.",
+    "Medication safety, legality and sexual-health effects require product-specific medical and jurisdictional verification.",
+    "Any refusal or hesitation must be treated as a reason to stop and check consent, not as a performance problem to route around."
+  ]
+}

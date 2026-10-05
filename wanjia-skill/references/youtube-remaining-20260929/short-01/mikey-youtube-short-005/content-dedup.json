@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-005",
+  "youtube_id": "7oqg4ft8AGs",
+  "decision": "reuse",
+  "reuse_of": "Gs467Dozs3w",
+  "formal_weight_if_integrated": 0,
+  "compared_sources": [
+    {"scope": "formal_mikey_guide", "source_count": 202, "comparison": "youtube_id_url_and_normalized_fulltext"},
+    {"source_id": "Gs467Dozs3w", "title": "2026-06-16 - mikey正在直播", "comparison": "ordered transcript passage and same studio visual"}
+  ],
+  "evidence": [
+    {"type": "normalized_transcript", "result": "clip_match", "short_8_character_shingle_containment": 0.498024, "basis": "The full Short follows the same question and answer found around formal segment S00156, including accepting present fear, avoiding self-proof and continuing courageous action."},
+    {"type": "exact_phrase", "result": "match", "short_evidence": "S00016-S00024@34.38-57.06", "formal_evidence": "Gs467Dozs3w:S00156@773.16-777.42 and surrounding passage"},
+    {"type": "visual", "result": "same_livestream_setup", "basis": "All 20 sampled frames show Mikey in the same black-shirt studio livestream presentation."}
+  ],
+  "boundary": "A vertical excerpt of formal source Gs467Dozs3w; preserve as alternate public pointer only and add zero independent weight."
+}

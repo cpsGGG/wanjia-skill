@@ -1,0 +1,362 @@
+{
+  "schema_version": "source-reuse-ledger-1.0",
+  "generated_date": "2026-09-19",
+  "scope": "mikey-youtube-live-021..030 versus current formal 183-source index",
+  "formal_source_count": 183,
+  "new_source_count": 10,
+  "result_counts": {
+    "unique": 10,
+    "reuse": 0,
+    "suspected": 0
+  },
+  "method": [
+    "比对YouTube video_id/URL、源SHA-256。",
+    "对正式来源和本批可引用全文执行规范化全文SHA-256及连续40字符窗筛查。",
+    "并入近时长候选的全时长音频或视觉序列比较；标题和时长只用于生成候选。",
+    "整期unique不自动否认短片段、案例复述、重剪或完全替换画面的局部复用。"
+  ],
+  "rows": [
+    {
+      "source_id": "mikey-youtube-live-021",
+      "livestream_number": 68,
+      "video_id": "gkADT8_5s14",
+      "youtube_url": "https://www.youtube.com/watch?v=gkADT8_5s14",
+      "title": "直播68： 两性情感 泡妞 搭讪 约会丨搭訕玩家TV",
+      "duration_seconds": 3665.060862,
+      "source_sha256": "176914ff684de5c072d4c3dfc18886ec5ffe235e2c1c27d2702bc44588a05398",
+      "normalized_transcript_sha256": "441bf69852beec432e6fe8dd7afa53ca7bd3e8be8ee11176ead3fbcf3ded9486",
+      "normalized_char_count": 11180,
+      "identity_screening": {
+        "video_id_matches": 0,
+        "url_matches": 0,
+        "source_sha256_matches": 0,
+        "basis": "research/youtube-live-batch3/inventory.json"
+      },
+      "content_precheck": {
+        "source_id": "mikey-youtube-live-021",
+        "livestream_number": 68,
+        "status": "no_whole_episode_match_in_compared_near_candidates",
+        "compared_candidates": [
+          "mikey-youtube-live-012",
+          "mikey-youtube-live-015"
+        ],
+        "remaining_boundary": "Normalized transcript comparison against all formal sources is still required."
+      },
+      "normalized_fulltext_matches": [],
+      "continuous_40char_matches": [],
+      "batch_internal_40char_matches": [],
+      "status": "unique",
+      "primary_source_id": null,
+      "formal_weight_recommendation": 1,
+      "rationale": "未发现相同video ID/URL、源SHA、规范化全文或连续40字符窗；近时长候选按音频或视觉证据未证实整期重复。"
+    },
+    {
+      "source_id": "mikey-youtube-live-022",
+      "livestream_number": 70,
+      "video_id": "dZgV_s1FVv8",
+      "youtube_url": "https://www.youtube.com/watch?v=dZgV_s1FVv8",
+      "title": "直播70： 火影忍者谁最会泡妞？丨 搭訕玩家TV",
+      "duration_seconds": 6020.051882,
+      "source_sha256": "83d6650881e81c26cc1652be1dd661c261db66fdd2a1bd14466478a10834be63",
+      "normalized_transcript_sha256": "449766dd5053fc704ad77418b2907d13920c5852ccd193248809fcd602717e50",
+      "normalized_char_count": 21259,
+      "identity_screening": {
+        "video_id_matches": 0,
+        "url_matches": 0,
+        "source_sha256_matches": 0,
+        "basis": "research/youtube-live-batch3/inventory.json"
+      },
+      "content_precheck": {
+        "source_id": "mikey-youtube-live-022",
+        "livestream_number": 70,
+        "status": "no_exact_identity_match_content_comparison_pending",
+        "unresolved_near_candidates": [
+          "quark-live-022",
+          "quark-live-044",
+          "quark-live-043"
+        ]
+      },
+      "normalized_fulltext_matches": [],
+      "continuous_40char_matches": [],
+      "batch_internal_40char_matches": [],
+      "status": "unique",
+      "primary_source_id": null,
+      "formal_weight_recommendation": 1,
+      "rationale": "未发现相同video ID/URL、源SHA、规范化全文或连续40字符窗；近时长候选按音频或视觉证据未证实整期重复。"
+    },
+    {
+      "source_id": "mikey-youtube-live-023",
+      "livestream_number": 72,
+      "video_id": "wjizzSk9eAI",
+      "youtube_url": "https://www.youtube.com/watch?v=wjizzSk9eAI",
+      "title": "直播72： 近期实战案例分享，直播答疑 泡妞 搭讪 约会丨搭訕玩家TV",
+      "duration_seconds": 5779.609252,
+      "source_sha256": "ff6c5ecf8b0b8c029a5add5aa5987dede5996f8295dda92bfe22fa374475117c",
+      "normalized_transcript_sha256": "907fe88cc8d5a1573f3b808c1f00c88f1e39295b760d19dd913e622de4603ed5",
+      "normalized_char_count": 17854,
+      "identity_screening": {
+        "video_id_matches": 0,
+        "url_matches": 0,
+        "source_sha256_matches": 0,
+        "basis": "research/youtube-live-batch3/inventory.json"
+      },
+      "content_precheck": {
+        "source_id": "mikey-youtube-live-023",
+        "livestream_number": 72,
+        "status": "no_exact_identity_match_content_comparison_pending",
+        "unresolved_near_candidates": [
+          "Gs467Dozs3w",
+          "quark-live-012",
+          "quark-live-008"
+        ]
+      },
+      "normalized_fulltext_matches": [],
+      "continuous_40char_matches": [],
+      "batch_internal_40char_matches": [],
+      "status": "unique",
+      "primary_source_id": null,
+      "formal_weight_recommendation": 1,
+      "rationale": "未发现相同video ID/URL、源SHA、规范化全文或连续40字符窗；近时长候选按音频或视觉证据未证实整期重复。"
+    },
+    {
+      "source_id": "mikey-youtube-live-024",
+      "livestream_number": 75,
+      "video_id": "-yPQ13M6jX8",
+      "youtube_url": "https://www.youtube.com/watch?v=-yPQ13M6jX8",
+      "title": "直播75：近期实战案例分享，直播答疑 泡妞 搭讪 约会丨搭訕玩家TV",
+      "duration_seconds": 5785.274921,
+      "source_sha256": "4bddfc514756ccb06e14cad8e8a994c572537517957ff9416efb770c24a4c93f",
+      "normalized_transcript_sha256": "103e629f309faadcecd0df6867f137e61b9f4e63965ec9ab48a1ec9afc297e01",
+      "normalized_char_count": 17706,
+      "identity_screening": {
+        "video_id_matches": 0,
+        "url_matches": 0,
+        "source_sha256_matches": 0,
+        "basis": "research/youtube-live-batch3/inventory.json"
+      },
+      "content_precheck": {
+        "source_id": "mikey-youtube-live-024",
+        "livestream_number": 75,
+        "status": "no_exact_identity_match_content_comparison_pending",
+        "unresolved_near_candidates": [
+          "Gs467Dozs3w",
+          "quark-live-012",
+          "quark-live-008"
+        ]
+      },
+      "normalized_fulltext_matches": [],
+      "continuous_40char_matches": [],
+      "batch_internal_40char_matches": [],
+      "status": "unique",
+      "primary_source_id": null,
+      "formal_weight_recommendation": 1,
+      "rationale": "未发现相同video ID/URL、源SHA、规范化全文或连续40字符窗；近时长候选按音频或视觉证据未证实整期重复。"
+    },
+    {
+      "source_id": "mikey-youtube-live-025",
+      "livestream_number": 77,
+      "video_id": "dSYHWDUlQ4I",
+      "youtube_url": "https://www.youtube.com/watch?v=dSYHWDUlQ4I",
+      "title": "直播77：近期实战案例分享，直播答疑 泡妞 搭讪 约会丨搭訕玩家TV",
+      "duration_seconds": 3995.062857,
+      "source_sha256": "df309cf805996a1ff85f762f1e999b5d43228cd798fd83e56903e511deb3dcf5",
+      "normalized_transcript_sha256": "2f6fed5c0dded925c7d4b94627c19b4ed9767365daab511d7a6d4e4a05133718",
+      "normalized_char_count": 12218,
+      "identity_screening": {
+        "video_id_matches": 0,
+        "url_matches": 0,
+        "source_sha256_matches": 0,
+        "basis": "research/youtube-live-batch3/inventory.json"
+      },
+      "content_precheck": {
+        "source_id": "mikey-youtube-live-025",
+        "livestream_number": 77,
+        "status": "focus_candidate_ruled_out_as_whole_episode_duplicate",
+        "compared_candidates": [
+          "mikey-youtube-live-006"
+        ]
+      },
+      "normalized_fulltext_matches": [],
+      "continuous_40char_matches": [],
+      "batch_internal_40char_matches": [],
+      "status": "unique",
+      "primary_source_id": null,
+      "formal_weight_recommendation": 1,
+      "rationale": "未发现相同video ID/URL、源SHA、规范化全文或连续40字符窗；近时长候选按音频或视觉证据未证实整期重复。"
+    },
+    {
+      "source_id": "mikey-youtube-live-026",
+      "livestream_number": 79,
+      "video_id": "PQbkX-IUGcs",
+      "youtube_url": "https://www.youtube.com/watch?v=PQbkX-IUGcs",
+      "title": "直播79：干货分享 直播答疑 泡妞 搭讪 约会丨搭訕玩家TV",
+      "duration_seconds": 3970.078186,
+      "source_sha256": "027237226dfb0ed91e97a48f8594b23d2b36786262920b7bd7e78b113fa3dcdc",
+      "normalized_transcript_sha256": "97a27b94c62553f362c53dd347b734f69e1f446629084d4b2470f79da5660246",
+      "normalized_char_count": 11424,
+      "identity_screening": {
+        "video_id_matches": 0,
+        "url_matches": 0,
+        "source_sha256_matches": 0,
+        "basis": "research/youtube-live-batch3/inventory.json"
+      },
+      "content_precheck": {
+        "source_id": "mikey-youtube-live-026",
+        "livestream_number": 79,
+        "status": "no_whole_episode_match_in_compared_near_candidate",
+        "compared_candidates": [
+          "mikey-youtube-live-006"
+        ]
+      },
+      "normalized_fulltext_matches": [],
+      "continuous_40char_matches": [],
+      "batch_internal_40char_matches": [],
+      "status": "unique",
+      "primary_source_id": null,
+      "formal_weight_recommendation": 1,
+      "rationale": "未发现相同video ID/URL、源SHA、规范化全文或连续40字符窗；近时长候选按音频或视觉证据未证实整期重复。"
+    },
+    {
+      "source_id": "mikey-youtube-live-027",
+      "livestream_number": 80,
+      "video_id": "8jCwDoBjWT0",
+      "youtube_url": "https://www.youtube.com/watch?v=8jCwDoBjWT0",
+      "title": "直播80：干货分享 直播答疑 泡妞 搭讪 约会丨搭訕玩家TV",
+      "duration_seconds": 4460.065669,
+      "source_sha256": "51a196647f6e7e11c8f12753f054fb7ad15a3683b1c871f92721b88b26b95d17",
+      "normalized_transcript_sha256": "0845d3b7473fba7b59695b4ff1464d87bfdb0c29775050176bd5a11770a10a39",
+      "normalized_char_count": 11077,
+      "identity_screening": {
+        "video_id_matches": 0,
+        "url_matches": 0,
+        "source_sha256_matches": 0,
+        "basis": "research/youtube-live-batch3/inventory.json"
+      },
+      "content_precheck": {
+        "source_id": "mikey-youtube-live-027",
+        "livestream_number": 80,
+        "status": "no_whole_episode_match_in_compared_near_candidate",
+        "compared_candidates": [
+          "mikey-youtube-live-011"
+        ]
+      },
+      "normalized_fulltext_matches": [],
+      "continuous_40char_matches": [],
+      "batch_internal_40char_matches": [],
+      "status": "unique",
+      "primary_source_id": null,
+      "formal_weight_recommendation": 1,
+      "rationale": "未发现相同video ID/URL、源SHA、规范化全文或连续40字符窗；近时长候选按音频或视觉证据未证实整期重复。"
+    },
+    {
+      "source_id": "mikey-youtube-live-028",
+      "livestream_number": 81,
+      "video_id": "vBoAYfRFhh0",
+      "youtube_url": "https://www.youtube.com/watch?v=vBoAYfRFhh0",
+      "title": "直播81：干货分享 直播答疑 泡妞 搭讪 约会丨搭訕玩家TV",
+      "duration_seconds": 5465.048526,
+      "source_sha256": "1845ea29e0f735e43f3cc0a3f9d19c8b8f3225521840a74d4a616fcccb211f9d",
+      "normalized_transcript_sha256": "7e6084461003b795b6151f870f0fd0d7dc23d5230c01b890d0e29b27d4c5e06f",
+      "normalized_char_count": 13142,
+      "identity_screening": {
+        "video_id_matches": 0,
+        "url_matches": 0,
+        "source_sha256_matches": 0,
+        "basis": "research/youtube-live-batch3/inventory.json"
+      },
+      "content_precheck": {
+        "source_id": "mikey-youtube-live-028",
+        "livestream_number": 81,
+        "status": "no_exact_identity_match_content_comparison_pending",
+        "unresolved_near_candidates": [
+          "quark-live-027",
+          "OSEq7tPwrqY",
+          "quark-live-018"
+        ]
+      },
+      "normalized_fulltext_matches": [],
+      "continuous_40char_matches": [],
+      "batch_internal_40char_matches": [],
+      "status": "unique",
+      "primary_source_id": null,
+      "formal_weight_recommendation": 1,
+      "rationale": "未发现相同video ID/URL、源SHA、规范化全文或连续40字符窗；近时长候选按音频或视觉证据未证实整期重复。"
+    },
+    {
+      "source_id": "mikey-youtube-live-029",
+      "livestream_number": 82,
+      "video_id": "knZc0MMOnbw",
+      "youtube_url": "https://www.youtube.com/watch?v=knZc0MMOnbw",
+      "title": "直播82：干货分享 直播答疑 泡妞 搭讪 约会丨搭訕玩家TV",
+      "duration_seconds": 9355.064308,
+      "source_sha256": "c1efcee3163ffe28b11d77a3e36fe8ae844a40bb139a371d00c1c2b86fcae512",
+      "normalized_transcript_sha256": "affd67aba9bf8c6d5761f781764ef909e17cf85b8dfb8848c0170e7980c54023",
+      "normalized_char_count": 16956,
+      "identity_screening": {
+        "video_id_matches": 0,
+        "url_matches": 0,
+        "source_sha256_matches": 0,
+        "basis": "research/youtube-live-batch3/inventory.json"
+      },
+      "content_precheck": {
+        "source_id": "mikey-youtube-live-029",
+        "livestream_number": 82,
+        "status": "no_exact_identity_match_no_close_duration_candidate",
+        "nearest_duration_delta_seconds": 314.594308
+      },
+      "normalized_fulltext_matches": [],
+      "continuous_40char_matches": [],
+      "batch_internal_40char_matches": [],
+      "status": "unique",
+      "primary_source_id": null,
+      "formal_weight_recommendation": 1,
+      "rationale": "未发现相同video ID/URL、源SHA、规范化全文或连续40字符窗；近时长候选按音频或视觉证据未证实整期重复。"
+    },
+    {
+      "source_id": "mikey-youtube-live-030",
+      "livestream_number": 83,
+      "video_id": "KO5l9Lh7FZc",
+      "youtube_url": "https://www.youtube.com/watch?v=KO5l9Lh7FZc",
+      "title": "直播83：干货分享 直播答疑 泡妞 搭讪 约会丨搭訕玩家TV",
+      "duration_seconds": 4085.063401,
+      "source_sha256": "10010f3cb7d67f42a2f4f94fd5db8ff8f6b3a0f59f443c5ed0b942859dd06a04",
+      "normalized_transcript_sha256": "f0d7f2fb51d73b66ca6e1500a57894a8655f02c1be0f023e463019e97e7bc53a",
+      "normalized_char_count": 11205,
+      "identity_screening": {
+        "video_id_matches": 0,
+        "url_matches": 0,
+        "source_sha256_matches": 0,
+        "basis": "research/youtube-live-batch3/inventory.json"
+      },
+      "content_precheck": {
+        "source_id": "mikey-youtube-live-030",
+        "livestream_number": 83,
+        "status": "focus_candidate_ruled_out_as_whole_episode_duplicate",
+        "compared_candidates": [
+          "mikey-youtube-live-019"
+        ]
+      },
+      "normalized_fulltext_matches": [],
+      "continuous_40char_matches": [],
+      "batch_internal_40char_matches": [],
+      "status": "unique",
+      "primary_source_id": null,
+      "formal_weight_recommendation": 1,
+      "rationale": "未发现相同video ID/URL、源SHA、规范化全文或连续40字符窗；近时长候选按音频或视觉证据未证实整期重复。"
+    }
+  ],
+  "precheck_artifacts": {
+    "audio_metrics": "research/youtube-live-batch3/dedup-work/audio-comparison.json",
+    "visual_metrics": "research/youtube-live-batch3/dedup-work/visual-comparison.json",
+    "audio_reproducer": "research/youtube-live-batch3/dedup-work/audio_compare.py",
+    "visual_reproducer": "research/youtube-live-batch3/dedup-work/visual_compare.py"
+  },
+  "limits": [
+    "This is a whole-episode duplicate precheck, not a partial-reuse audit.",
+    "Visual mismatch can rule out the same preserved video recording but cannot rule out audio-only reuse with entirely replaced visuals.",
+    "Only retained-source media or retained storyboards were available for direct content comparison before batch-3 ASR.",
+    "Similar titles, livestream templates, and near-equal duration were treated only as candidate generators, never as proof of duplication.",
+    "Isolated matching windows are phrase or case reuse candidates, not full-episode duplicates; inspect high-count pairs before integration."
+  ],
+  "decision_boundary": "unique仅表示当前证据未发现整期或40字符窗复用；局部观点重复由跨期综合另行记录，不自动降为零权重。"
+}

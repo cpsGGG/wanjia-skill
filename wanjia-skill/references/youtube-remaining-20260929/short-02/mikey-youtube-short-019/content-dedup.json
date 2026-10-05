@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-019",
+  "youtube_id": "1mleRuRP_78",
+  "decision": "reuse",
+  "reuse_of": "quark-live-046",
+  "formal_weight_if_integrated": 0,
+  "compared_sources": [
+    {
+      "scope": "formal_mikey_guide",
+      "source_count": 202,
+      "comparison": "YouTube identity, distinctive phrase search and normalized transcript alignment"
+    },
+    {
+      "scope": "researched_video-01_to_video-05_and_short-01",
+      "comparison": "distinctive transcript phrases and known reuse ledgers"
+    },
+    {
+      "scope": "targeted_formal_source",
+      "source_id": "quark-live-046",
+      "comparison": "ordered alignment against S01120-S01188 and S01234-S01248"
+    }
+  ],
+  "evidence": [
+    {
+      "type": "normalized_text_alignment",
+      "result": "reuse_confirmed",
+      "formal_source_id": "quark-live-046",
+      "formal_evidence": ["S01120-S01188@3451.02-3570.12", "S01234-S01248@3676.00-3703.64"],
+      "matching_characters": 603,
+      "short_normalized_characters": 612,
+      "short_character_coverage": 0.9853,
+      "basis": "The Short preserves the original order and wording, while cutting the intermediate case discussion S01189-S01233."
+    },
+    {
+      "type": "corpus_phrase_search",
+      "result": "only_target_formal_transcript_matched",
+      "phrases": ["你真的有自我吗", "不要说任何违心的话", "要对自己有绝对的掌控力"]
+    },
+    {
+      "type": "visual_review",
+      "result": "single_studio_speaker_with_burned_in_subtitles",
+      "basis": "All 46 sampled frames show the same speaker and studio setup; no independent screenshot, second speaker or outcome evidence is introduced."
+    }
+  ],
+  "boundary": "Treat the Short as an edited reuse of quark-live-046. If ever integrated, assign zero source and knowledge weight and preserve the original source's review restrictions."
+}

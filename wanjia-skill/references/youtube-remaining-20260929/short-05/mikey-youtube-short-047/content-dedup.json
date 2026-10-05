@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-047",
+  "youtube_id": "n5elOH9OnBA",
+  "decision": "reuse",
+  "reuse_of": [
+    "YEm81yAdw2E:K38",
+    "mikey-youtube-video-021",
+    "mikey-youtube-live-035-K006",
+    "quark-live-033-k011"
+  ],
+  "formal_weight_if_integrated": 0,
+  "compared_sources": [
+    {
+      "scope": "formal_mikey_guide",
+      "source_count": 202,
+      "comparison": "exact ID/URL, distinctive phrase search, normalized transcript 5-character shingles and semantic screen"
+    },
+    {
+      "scope": "youtube_pipeline_video_01_to_05_and_short_01_to_04",
+      "comparison": "exact ID/URL, transcript and semantic reuse screen"
+    },
+    {
+      "source_id": "YEm81yAdw2E:K38",
+      "comparison": "same acceptance of mistakes as part of practice and learning"
+    },
+    {
+      "source_id": "mikey-youtube-video-021",
+      "comparison": "same failure-as-feedback, recovery and renewed-attempt argument"
+    },
+    {
+      "source_id": "mikey-youtube-live-035-K006",
+      "comparison": "same practice, mistake and review loop"
+    },
+    {
+      "source_id": "quark-live-033-k011",
+      "comparison": "same boundary against turning an adverse result into global self-attack"
+    }
+  ],
+  "evidence": [
+    {
+      "type": "identity",
+      "result": "no_exact_youtube_id_or_url_match"
+    },
+    {
+      "type": "transcript",
+      "result": "no_same_passage_match",
+      "basis": "No source reproduces the complete wording about paying for mistakes, not regretting decisions, improving present ability and refusing hindsight self-destruction."
+    },
+    {
+      "type": "semantic_overlap",
+      "result": "usable_method_already_represented",
+      "basis": "Formal and completed pipeline sources already preserve the usable sequence: allow mistakes, accept consequences, separate results from global self-worth, extract feedback, improve capacity and try again."
+    },
+    {
+      "type": "visual",
+      "result": "single_speaker_motivational_clip",
+      "basis": "All 14 sampled frames show the same walking selfie monologue; there is no decision example, harmed party, repair process or outcome."
+    }
+  ],
+  "boundary": "Zero weight. Retain the hindsight self-compassion wording as an alternate expression only. 'Never regret' and 'never doubt my judgment' must not be used to excuse preventable harm, ignore new evidence or repeat a damaging decision."
+}

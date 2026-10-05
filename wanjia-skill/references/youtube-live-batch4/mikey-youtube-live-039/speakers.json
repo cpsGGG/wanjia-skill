@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "source_id": "mikey-youtube-live-039",
+  "speakers": [
+    {
+      "id": "mikey",
+      "role": "host",
+      "status": "confirmed",
+      "identity_basis": "频道直播结构和连续单人主持确认Mikey为主要说话人。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=O1QLG8_zyyA"
+      ],
+      "notes": "观众问题、名人事件和第三方经历须与主持人回答分开。"
+    },
+    {
+      "id": "viewer-question-collective",
+      "role": "collective live-chat author(s)",
+      "status": "collective_placeholder",
+      "identity_basis": "多名观众问题由主持人口头转述。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=O1QLG8_zyyA"
+      ],
+      "notes": "集合占位符，不代表同一人物。"
+    },
+    {
+      "id": "third-party-subjects",
+      "role": "public figures, friends and anecdotal third parties discussed by host",
+      "status": "reported_not_verified",
+      "identity_basis": "直播谈到公开争议、跑车聚会和朋友经历，事实主要来自主持人转述。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=O1QLG8_zyyA"
+      ],
+      "notes": "第三方行为、动机、财富和关系事实均未独立核验。"
+    },
+    {
+      "id": "in-room-visitor-039",
+      "role": "briefly visible in-room visitor",
+      "status": "visible_identity_unknown_voice_unmapped",
+      "identity_basis": "全片联系表和原尺寸帧显示约00:41:30至00:52:45间有另一名男性短暂进入Mikey右侧画面。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=O1QLG8_zyyA"
+      ],
+      "notes": "未通过连续音画确认其姓名、是否发言或任何台词归属；不得把邻近自动稿直接归给该人物。"
+    }
+  ]
+}

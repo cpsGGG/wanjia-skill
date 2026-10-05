@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-045",
+  "youtube_id": "iMi4ns51Xgw",
+  "title": "搭讪自然的重要性",
+  "coverage": {"transcript_segments_read": 80, "transcript_time_range_seconds": [0.0, 86.97], "semantic_media_range_seconds": [0.0, 94.017596], "sparse_frames_reviewed": 2, "dense_frames_reviewed": 0, "continuous_original_audio_visual_review": false},
+  "timeline": [
+    {"start": 0.0, "end": 16.0, "summary": "A man compliments a woman, introduces himself and asks whether she is visiting or local."},
+    {"start": 16.0, "end": 29.3, "summary": "She asks whether someone is filming. The exchange includes a denial followed by the statement that they plan to shoot material but have not started, although the published camera is already recording."},
+    {"start": 29.3, "end": 45.57, "summary": "He proposes coffee at a later opportunity; both mention current commitments, discuss tomorrow/the day after, and move toward a WeChat request."},
+    {"start": 45.57, "end": 71.37, "summary": "They discuss age. The transcript contains an 18-year-old estimate and broad statements about Chinese women's makeup making ages difficult to judge."},
+    {"start": 71.37, "end": 86.97, "summary": "They discuss how long she will stay in Chengdu; he asks her to stay longer and give him a chance, followed by brief assent and goodbye."},
+    {"start": 86.97, "end": 94.017596, "summary": "No reliable ASR; ending does not establish later contact or a date."
+    }
+  ],
+  "claims": [
+    {"claim_id": "v045-c01", "speaker": "field participants, turns partly uncertain", "statement": "The woman asks whether filming is occurring; the man says they intend to film material but have not started.", "conditions": "The camera was already capturing the interaction. This cannot be treated as informed recording or publication consent.", "evidence": ["S00016-S00027@17.00-28.80"], "reuse_note": "Covered by mikey-approach-017-K0001.", "use_level": "do_not_generalize", "knowledge_status": "reuse_zero_weight_pending_independent_review"},
+    {"claim_id": "v045-c02", "speaker": "field participants, turns partly uncertain", "statement": "A coffee invitation is shifted away from the current day after both mention other commitments, followed by a WeChat request.", "conditions": "Rescheduling and short assent do not prove voluntary contact exchange or a future meeting; refusal and uncertainty must remain easy.", "evidence": ["S00029-S00040@29.30-43.30"], "reuse_note": "Covered by mikey-approach-017-K0002.", "use_level": "hold", "knowledge_status": "reuse_zero_weight_pending_independent_review"},
+    {"claim_id": "v045-c03", "speaker": "field participants, turns partly uncertain", "statement": "The exchange includes an estimate of age 18 and continues into appearance-based age discussion.", "conditions": "Adulthood is not verified. Appearance, makeup or student status must never substitute for confirming that a person is an adult before romantic pursuit.", "evidence": ["S00041-S00061@45.57-68.87"], "reuse_note": "Covered by mikey-approach-017-K0003.", "use_level": "do_not_generalize", "knowledge_status": "reuse_zero_weight_pending_independent_review"},
+    {"claim_id": "v045-c04", "speaker": "field man", "statement": "He asks her to stay longer in Chengdu and give him a chance.", "conditions": "An emotional request is not consent evidence and should not pressure travel, schedule, contact or romantic decisions.", "evidence": ["S00062-S00080@71.37-86.97"], "reuse_note": "Covered by mikey-approach-017-K0004.", "use_level": "hold", "knowledge_status": "reuse_zero_weight_pending_independent_review"}
+  ],
+  "examples": [
+    {"example_id": "v045-e01", "summary": "One continuous public interaction includes a filming question, tentative rescheduling, a contact request, ambiguous age talk and an emotional request; none establishes informed publication consent or later outcome.", "evidence": ["S00001-S00080"]}
+  ],
+  "speaker_attribution": [
+    {"speaker": "field man", "basis": "Visible male participant; formal source did not independently prove he is Mikey, so claims remain role-attributed."},
+    {"speaker": "approached woman", "basis": "White-jacketed participant visible in both frames; exact short turns and age statement are not independently diarized."}
+  ],
+  "visual_findings": [
+    "Both sampled frames show the same man and woman in a single public location beside an advertising panel; no case change is visible.",
+    "Frame 000001 carries a subtitle saying filming has not started while the interaction is visibly being recorded, creating a direct transparency and consent concern.",
+    "Both participants use phones, but screens are unreadable and do not prove contact saving. Faces, bodies, location and bystanders remain visible."
+  ],
+  "permissions": {"formal_integration": false, "first_person_allowed": false, "action_advice_allowed": false, "knowledge_status": "reuse_zero_weight_pending_independent_review", "reason": "Duplicate formal source with blocking recording-consent and adulthood uncertainty, plus privacy, pressure and unverified contact/outcome issues."},
+  "limitations": ["Automatic transcript was not word-for-word audio checked or diarized.", "Two sparse frames do not equal continuous audio-visual review.", "The participant's age/adulthood, informed filming/publication consent, contact exchange and later outcome are unverified.", "Visible phone use does not prove voluntary contact saving."]
+}

@@ -1,0 +1,105 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-023",
+  "youtube_id": "8vTeGYRtoyM",
+  "title": "你不可能迅速提升吸引力丨吸引力的构成",
+  "coverage": {
+    "transcript_segments_read": 102,
+    "transcript_time_range_seconds": [0.0, 143.66],
+    "semantic_media_range_seconds": [0.0, 144.288798],
+    "sampled_frames_reviewed": 48,
+    "continuous_original_audio_visual_review": false,
+    "excluded_asr_tail": null
+  },
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 22.66,
+      "summary": "Using a hypothetical question to Ma Yun about becoming rich quickly, he argues that attraction cannot be transformed instantly and must be built gradually."
+    },
+    {
+      "start": 22.66,
+      "end": 50.18,
+      "summary": "He divides attraction into external and internal value, defining external value as visible resources and presentation that affect whether a meeting can happen."
+    },
+    {
+      "start": 50.18,
+      "end": 73.7,
+      "summary": "He says grooming, clothing and income can improve external value comparatively quickly, while what he calls real attraction or internal value changes slowly."
+    },
+    {
+      "start": 73.7,
+      "end": 110.4,
+      "summary": "He describes internal value as intangible but quickly perceived and uses it to explain his claim that people decide how to treat a man within minutes."
+    },
+    {
+      "start": 110.4,
+      "end": 144.288798,
+      "summary": "He lists lack of fear, self-worth, confidence, security, deservingness, boundary expression and low neediness, then contrasts an abundant state with a scarce state."
+    }
+  ],
+  "claims": [
+    {
+      "claim_id": "s023-c01",
+      "speaker": "Mikey",
+      "statement": "He says attraction cannot be improved instantly and compares the process to becoming wealthy gradually rather than through one quick answer.",
+      "conditions": "A motivational analogy, not a measured time course or guaranteed development path.",
+      "evidence": ["S00001-S00018@0.00-22.66"],
+      "use_level": "hold"
+    },
+    {
+      "claim_id": "s023-c02",
+      "speaker": "Mikey",
+      "statement": "He divides attraction into visible external value, such as income and presentation, and slower-changing internal value.",
+      "conditions": "His conceptual model; it is not presented with empirical validation in the clip.",
+      "evidence": ["S00019-S00030@22.66-39.26", "S00054-S00063@68.50-83.36"],
+      "use_level": "hold"
+    },
+    {
+      "claim_id": "s023-c03",
+      "speaker": "Mikey",
+      "statement": "He says external presentation affects whether a woman will meet, and that grooming, clothing and earning more can improve this layer comparatively quickly.",
+      "conditions": "A gendered and socioeconomic generalization; appearance or income does not determine another person's willingness.",
+      "evidence": ["S00031-S00053@39.26-68.50"],
+      "use_level": "hold"
+    },
+    {
+      "claim_id": "s023-c04",
+      "speaker": "Mikey",
+      "statement": "He claims internal state is perceived within minutes and influences respect and the interaction pattern.",
+      "conditions": "The clip supplies no recipient testimony or outcome evidence, so this remains his interpretation rather than verified mind-reading.",
+      "evidence": ["S00064-S00078@83.36-108.02"],
+      "use_level": "hold"
+    },
+    {
+      "claim_id": "s023-c05",
+      "speaker": "Mikey",
+      "statement": "He associates internal value with confidence, security, self-worth, expressing boundaries and not needing a particular person's approval.",
+      "conditions": "Boundary expression must respect the other person's equal boundaries; confidence cannot substitute for consent.",
+      "evidence": ["S00079-S00102@108.02-143.66"],
+      "use_level": "hold"
+    }
+  ],
+  "speaker_attribution": [
+    {
+      "speaker": "Mikey",
+      "basis": "One channel host is visible and speaks continuously in all 48 sampled frames."
+    }
+  ],
+  "visual_findings": [
+    "All 48 sampled frames show the same speaker in a single green-lit studio setup with burned-in subtitles.",
+    "No woman, meeting, grooming comparison, income evidence, refusal/consent event, or independent result appears."
+  ],
+  "permissions": {
+    "formal_integration": false,
+    "first_person_allowed": false,
+    "action_advice_allowed": false,
+    "use_level": "reuse_zero_weight",
+    "reason": "The full passage is already present in formal mikey-youtube-live-009."
+  },
+  "limitations": [
+    "The internal/external value taxonomy is the speaker's framework, not independently validated in the clip.",
+    "The clip makes gendered, socioeconomic and mind-reading generalizations.",
+    "Sparse sampled frames do not constitute continuous audio-visual review."
+  ]
+}

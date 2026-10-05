@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-035",
+  "youtube_id": "BGO3cSrAnsA",
+  "decision": "reuse",
+  "reuse_of": "mikey-sijiao-001",
+  "formal_weight_if_integrated": 0,
+  "compared_sources": [
+    {"scope": "formal_mikey_guide", "source_count": 202, "comparison": "youtube_id_url_normalized_fulltext_and_12_character_shingles"},
+    {"source_id": "mikey-sijiao-001", "title": "40岁老板三天收尾女大学生", "comparison": "same ordered case, examples, chat sequence, advice, claimed outcome and closing promotion"},
+    {"scope": "formal_source_artifacts", "comparison": "source-index metadata, 708-segment transcript, 12 knowledge items, evidence windows, visual review and eight open review items"}
+  ],
+  "evidence": [
+    {"type": "identity", "result": "public_url_not_previously_bound", "basis": "formal mikey-sijiao-001 is a deleted local source with no public URL; inventory flags this YouTube upload as its likely public counterpart"},
+    {"type": "normalized_fulltext", "target_normalized_chars": 7041, "target_sha256": "7927d2273dba54afe886c60cc78b309f1a43fc2b3cbc524ab62d45611866a3ce", "matched_formal_normalized_chars": 6936, "matched_formal_sha256": "61de1f03ac694492b0f1ecf8f6e478942748a78d3474e1b8d59f9daf4b7570bb", "exact_whole_transcript_match": false},
+    {"type": "formal_content_reuse", "matched_source_id": "mikey-sijiao-001", "method": "12_character_shingle_containment", "intersection": 5745, "target_shingles": 7030, "formal_shingles": 6925, "target_containment": 0.8172119488, "formal_containment": 0.8296028881, "result": "same_release_with_independent_asr_and_minor_runtime_editing"},
+    {"type": "duration_and_structure", "target_asr_end_seconds": 1254.39, "formal_asr_end_seconds": 1252.23, "formal_media_duration_seconds": 1269.507007, "result": "near-identical runtime and eleven-part event order; ASR timing and wording differ slightly"},
+    {"type": "visual_match", "result": "same_case_packaging_and_evidence_sequence", "basis": "All 28 sampled frames show Mikey picture-in-picture beside the same female photos and ordered WeChat screenshots described in the formal visual review, including refusal, proposed repair, later reports and promotional identifiers."}
+  ],
+  "boundary": "Reuse formal source mikey-sijiao-001 with zero additional source, claim or outcome weight. Preserve BGO3cSrAnsA only as the public URL/packaging identity and as a fresh sparse visual sample; it does not close the formal source's consent, chronology, authenticity, privacy or outcome reviews."
+}

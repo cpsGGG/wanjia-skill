@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-034",
+  "youtube_id": "JpmWNxPyhLc",
+  "title": "小白必看，频道导读指南丨搭讪玩家TV丨約會丨把妹丨情感丨戀愛丨約炮丨男性自我提升丨短期關係丨長期關係丨dating in china",
+  "coverage": {
+    "transcript_segments_read": 117,
+    "transcript_time_range_seconds": [0.0, 195.54],
+    "sparse_frames_reviewed": 5,
+    "dense_frames_reviewed": 0,
+    "dense_windows_required_seconds": [],
+    "continuous_original_audio_visual_review": false
+  },
+  "timeline": [
+    {"start": 0.0, "end": 23.90, "summary": "Mikey introduces the video at the Forbidden City as a map for newcomers to his channel."},
+    {"start": 23.90, "end": 69.12, "summary": "He recommends beginning with a playlist of field practice, dates and online-chat breakdowns, then watching his autobiographical 'Who I Am' material."},
+    {"start": 69.12, "end": 130.82, "summary": "He recommends archived livestreams for detailed, relatively unedited explanations and points viewers with chat problems to early livestreams."},
+    {"start": 130.82, "end": 183.70, "summary": "He directs prospective students to teaching-case and clip playlists to compare their own problems with prior students' situations."},
+    {"start": 183.70, "end": 195.54, "summary": "He closes with a general hope for viewer improvement and channel branding."}
+  ],
+  "claims": [
+    {"claim_id": "v034-c01", "speaker": "Mikey", "statement": "He recommends a viewing order of practical breakdowns, autobiography, livestreams and teaching cases for newcomers to understand the channel.", "conditions": "Historical channel navigation; playlist names, order and availability may have changed.", "evidence": ["S00013-S00109@23.90-183.70"], "use_level": "hold", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v034-c02", "speaker": "Mikey", "statement": "He says livestreams contain detailed, relatively unedited explanations and are especially useful for online-chat questions.", "conditions": "Creator description rather than an audited comparison of formats; livestream material still requires source and safety review.", "evidence": ["S00046-S00080@76.70-130.82"], "use_level": "hold", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v034-c03", "speaker": "Mikey", "statement": "He says teaching cases let viewers observe his teaching process and compare their problems with students at different socioeconomic levels.", "conditions": "Promotional framing; case authenticity, representativeness, privacy and outcomes are not established by this guide video.", "evidence": ["S00081-S00109@130.82-183.70"], "use_level": "hold", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v034-c04", "speaker": "Mikey", "statement": "He reports receiving private messages saying that livestreams helped viewers start relationships.", "conditions": "Unverified testimonial claim with no messages, denominator, follow-up or independent outcome assessment.", "evidence": ["S00066-S00072@105.34-116.76"], "use_level": "do_not_generalize", "knowledge_status": "hold_pending_independent_review"}
+  ],
+  "examples": [
+    {"example_id": "v034-e01", "summary": "A physical tourist map at the Forbidden City is used as the analogy for a channel viewing guide.", "evidence": ["S00001-S00018@0.00-31.36"]}
+  ],
+  "speaker_attribution": [
+    {"speaker": "Mikey", "basis": "Single on-camera presenter self-identifies and describes his own channel and playlists."}
+  ],
+  "visual_findings": [
+    "All five sampled frames were reviewed. Frames 000001 and 000003 show Mikey speaking in front of the Forbidden City; frames 000002 and 000004 overlay channel playlist pages; frame 000005 is a QR/contact promotion.",
+    "The playlist overlays support the video's navigation purpose but are historical snapshots and do not prove teaching effectiveness.",
+    "The QR code and contact handle are marketing identifiers and should not be copied into a formal knowledge answer or evidence bundle without a current need and privacy review."
+  ],
+  "permissions": {
+    "formal_integration": false,
+    "first_person_allowed": false,
+    "action_advice_allowed": false,
+    "knowledge_status": "hold_pending_independent_review",
+    "reason": "The source is dated channel-navigation and promotional metadata with an unverified testimonial, not substantive instructional evidence."
+  },
+  "limitations": [
+    "Automatic transcript was not checked word-for-word against original audio.",
+    "Five sparse frames do not equal continuous audio-visual verification.",
+    "Current playlist existence, order, titles and availability were not checked.",
+    "Reported viewer outcomes are not independently documented."
+  ]
+}

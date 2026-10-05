@@ -1,0 +1,50 @@
+{
+  "schema_version": "mikey-community-post-fulltext-1.0",
+  "source_id": "mikey-youtube-community-055",
+  "post_id": "UgkxrluG-l7WvWXZsdlmAlL3Ass7tVFZaQIc",
+  "url": "https://www.youtube.com/post/UgkxrluG-l7WvWXZsdlmAlL3Ass7tVFZaQIc",
+  "published_at": "2025-10-08T00:00:00.494629-07:00",
+  "date_basis": "archived_public_observation",
+  "body": "当思想不用力的时候，行动就充满力量.\n当思想一直自我斗争时，行动的变得绵软无力.\n\n下一期面授课时间\n杭州 11.27-30",
+  "body_kind": "verbatim_or_as_archived_in_corrected_candidate",
+  "image_refs": [
+    {
+      "image_index": 1,
+      "research_archive_path": "research/youtube-community-batch1/images/UgkxrluG-l7WvWXZsdlmAlL3Ass7tVFZaQIc/01.jpg",
+      "sha256": "9a324bde6b92809bedb840f52285160900969e8f86a49df6880bea1d2baece7f",
+      "bytes": 142093,
+      "formal_asset_policy": "reference_only_do_not_copy",
+      "safe_summary": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。"
+    }
+  ],
+  "segments": [
+    {
+      "sid": "C0055-BODY",
+      "kind": "channel_body",
+      "text": "当思想不用力的时候，行动就充满力量.\n当思想一直自我斗争时，行动的变得绵软无力.\n\n下一期面授课时间\n杭州 11.27-30",
+      "verbatim_allowed": true,
+      "source_scope": "public_channel_body_as_archived"
+    },
+    {
+      "sid": "C0055-IMG01",
+      "kind": "image_reference_metadata",
+      "text": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。",
+      "verbatim_allowed": false,
+      "image_reference": {
+        "image_index": 1,
+        "research_archive_path": "research/youtube-community-batch1/images/UgkxrluG-l7WvWXZsdlmAlL3Ass7tVFZaQIc/01.jpg",
+        "sha256": "9a324bde6b92809bedb840f52285160900969e8f86a49df6880bea1d2baece7f",
+        "bytes": 142093,
+        "formal_asset_policy": "reference_only_do_not_copy",
+        "safe_summary": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。"
+      }
+    }
+  ],
+  "privacy_policy": {
+    "original_images_copied": false,
+    "raw_ocr_copied": false,
+    "private_chat_transcript_copied": false,
+    "third_party_identity_confirmed": false,
+    "publication_authorization_confirmed": false
+  }
+}

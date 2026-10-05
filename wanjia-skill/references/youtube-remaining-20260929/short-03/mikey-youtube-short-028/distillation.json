@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-028",
+  "youtube_id": "MqnwsxmTFL8",
+  "title": "你和女生约会紧张的原因",
+  "coverage": {
+    "transcript_segments_read": 75,
+    "transcript_time_range_seconds": [0.0, 119.45],
+    "semantic_media_range_seconds": [0.0, 119.931066],
+    "sampled_frames_reviewed": 40,
+    "continuous_original_audio_visual_review": false
+  },
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 32.44,
+      "summary": "He says date anxiety comes from treating the woman as a judge whose reaction decides the man's personal worth."
+    },
+    {
+      "start": 32.44,
+      "end": 61.06,
+      "summary": "He contrasts treating a failed date as one event to examine with treating it as proof that the whole self is a failure, and says multiple factors should be considered."
+    },
+    {
+      "start": 61.06,
+      "end": 97.90,
+      "summary": "He says yes/no reactions should not determine worth and argues that lacking a stable internal position reduces perceived charm even when objective resources are high."
+    },
+    {
+      "start": 97.90,
+      "end": 119.931066,
+      "summary": "He uses people who made money in stocks or bitcoin yet remain insecure as examples for separating external value from a felt sense of value."
+    }
+  ],
+  "claims": [
+    {
+      "claim_id": "s028-c01",
+      "speaker": "Mikey",
+      "statement": "He says a man becomes tense on dates when he treats the woman's reaction as a verdict on his total personal worth.",
+      "conditions": "A broad explanatory model, not a diagnosis of every person's anxiety.",
+      "evidence": ["S00001-S00019@0.00-32.44"],
+      "use_level": "hold"
+    },
+    {
+      "claim_id": "s028-c02",
+      "speaker": "Mikey",
+      "statement": "He recommends treating a failed interaction as an event to examine across multiple factors rather than proof that the whole self is a failure.",
+      "conditions": "Useful only as a reflective framing; the clip does not supply a complete assessment method.",
+      "evidence": ["S00020-S00040@32.44-61.06"],
+      "use_level": "hold"
+    },
+    {
+      "claim_id": "s028-c03",
+      "speaker": "Mikey",
+      "statement": "He separates external value from a stable internal sense of value and says money or success can coexist with insecurity and emptiness.",
+      "conditions": "The financial examples are hypothetical/generalized and do not establish a mental-health causal rule.",
+      "evidence": ["S00041-S00075@61.06-119.45"],
+      "use_level": "hold"
+    }
+  ],
+  "speaker_attribution": [
+    {
+      "speaker": "Mikey",
+      "basis": "One visible channel host speaks throughout, and the wording matches formal mikey-youtube-live-025."
+    }
+  ],
+  "visual_findings": [
+    "All 40 sampled frames show the same black-shirt host in one livestream layout with public-chat overlay and editorial subtitles.",
+    "No date partner, investment case or independent outcome evidence is shown."
+  ],
+  "permissions": {
+    "formal_integration": false,
+    "first_person_allowed": false,
+    "action_advice_allowed": false,
+    "use_level": "reuse_zero_weight",
+    "reason": "Same passage as formal mikey-youtube-live-025; anxiety and value-feeling claims remain broad and unverified."
+  },
+  "limitations": [
+    "The Short is edited from a longer livestream and retains no surrounding viewer-question context.",
+    "Automatic transcript and sparse frames are not sentence-by-sentence listening or continuous audio-visual review."
+  ]
+}

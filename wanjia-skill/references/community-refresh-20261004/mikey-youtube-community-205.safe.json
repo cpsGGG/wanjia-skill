@@ -1,0 +1,41 @@
+{
+  "schema_version": "community-safe-distillation-reference-1.0",
+  "source_id": "mikey-youtube-community-205",
+  "post_id": "UgkxvkElXALsn2CKOYIc_rWSi4aNCLVscGHG",
+  "public_body_sha256": "dce221cbf60b879ec80949e4bc40fccb2002c4e6eb065dc1cdf59e9e791b62a8",
+  "safe_summary": "正文将高敏感作正面重述；配图是桌面音频设备环境，无法证明心理能力、先天机制或环境因果。",
+  "source_body_scope": "可以准确归档频道公开正文的正面表述；不能将天生、高阶、深思天赋或环境决定论当成心理科学事实或个体诊断。",
+  "summary_origin": "author_distillation_with_editorial_boundaries_not_mikey_quote",
+  "image_summaries": [
+    {
+      "image_index": 1,
+      "sha256": "cbc67382dbcce8f12c24e15f26e5c922f0271339aa190025ba5c116010811524",
+      "safe_summary": "桌面音频设备与屏幕的环境照片，没有心理能力测试或聊天案例。",
+      "summary_origin": "author_visual_analysis_not_mikey_quote",
+      "independent_review_status": "pending",
+      "runtime_answer_allowed": false,
+      "evidence_weight": 0
+    }
+  ],
+  "new_knowledge_count": 0,
+  "research_distillation_path": "research/youtube-channel-refresh-20261004/distillation/mikey-youtube-community-205.json",
+  "research_distillation_sha256": "fbbd460ff6649c11e98fa550126919a2f47d3ba14fc6d95d7c0bf4c426a5e6a9",
+  "independent_review_status": "pending",
+  "permissions": {
+    "first_person_allowed": false,
+    "persona_first_person_allowed": false,
+    "action_advice_allowed": false,
+    "runtime_answer_allowed": false,
+    "evidence_weight": 0
+  },
+  "privacy_policy": {
+    "raw_screenshot_text_packaged": false,
+    "raw_images_packaged": false,
+    "third_party_identifiers_packaged": false,
+    "private_customer_ui_packaged": false
+  },
+  "limits": [
+    "原图只在研究归档保留；摘要来自逐帖分析，独立视觉审查未完成前不据此确认第三方身份、聊天上下文、截图真实性、授权或训练效果。",
+    "公开正文保留作者发帖文字；转述和营销效果不视为事实验证或行动许可。"
+  ]
+}

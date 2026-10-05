@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-003",
+  "youtube_id": "pcOGT-RUlLk",
+  "decision": "reuse",
+  "reuse_of": ["mikey-youtube-live-038", "mikey-youtube-video-024"],
+  "formal_weight_if_integrated": 0,
+  "compared_sources": [
+    {"source_id": "mikey-youtube-live-038", "comparison": "opening played third-party video, transcript, preserved continuous W01 audio/video window"},
+    {"source_id": "mikey-youtube-video-024", "comparison": "same accusation montage, named team and staged-case material"},
+    {"scope": "formal_mikey_guide", "source_count": 202, "comparison": "youtube_id, titles, transcripts and visual sequence"}
+  ],
+  "evidence": [
+    {"type": "audio_alignment", "result": "exact underlying excerpt found in formal live source", "basis": "A 5-second chunk at short 00:45-00:50 cross-correlates with live-038 preserved W01 at about 00:54.31 (coefficient 0.508 at 1 kHz), matching the spoken '你就录了，我看就行了' sequence."},
+    {"type": "ordered_visual_content", "result": "same third-party rebuttal/accusation chain", "basis": "The short's admissions montage, chat screenshot, staged/real comparison, Cim/Hank inserts, paid-actor allegation and Jason outro are the external material played and discussed in live-038 and substantially repeated in video-024."},
+    {"type": "visual_scope", "result": "complete short reviewed", "basis": "All 21 sampled frames and 63 one-second dense frames were reviewed."}
+  ],
+  "boundary": "This is a standalone copy/edit of third-party material already embedded in the formal live source, not a new Mikey statement. Preserve only as a clearer alternate evidence pointer at weight 0."
+}

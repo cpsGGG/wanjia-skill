@@ -1,0 +1,72 @@
+{
+  "schema_version": "mikey-community-post-fulltext-1.0",
+  "source_id": "mikey-youtube-community-183",
+  "post_id": "UgkxxBxGA760NbL5Pt8n-_17TozYStYCbJtL",
+  "url": "https://www.youtube.com/post/UgkxxBxGA760NbL5Pt8n-_17TozYStYCbJtL",
+  "published_at": "2026-08-10T04:50:00.181604-07:00",
+  "date_basis": "archived_public_observation",
+  "body": "收到一位大龄学员的半期反馈，字里行间全是思考\n\n到了这个阶段，再去看社交、心态管理、商业博弈，底层逻辑全是相通的",
+  "body_kind": "verbatim_or_as_archived_in_corrected_candidate",
+  "image_refs": [
+    {
+      "image_index": 1,
+      "research_archive_path": "research/youtube-community-batch1/images/UgkxxBxGA760NbL5Pt8n-_17TozYStYCbJtL/01.jpg",
+      "sha256": "68f04f65fa1dee9a4cfbaf54ec29728849eb585e4e9a9920da8cf3e48f0a2d4b",
+      "bytes": 300266,
+      "formal_asset_policy": "reference_only_do_not_copy",
+      "safe_summary": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。"
+    },
+    {
+      "image_index": 2,
+      "research_archive_path": "research/youtube-community-batch1/images/UgkxxBxGA760NbL5Pt8n-_17TozYStYCbJtL/02.jpg",
+      "sha256": "ef26df527b5fc1ad91b66e30ef0e28da2d1cfff309815fa919643091a29f4c20",
+      "bytes": 255750,
+      "formal_asset_policy": "reference_only_do_not_copy",
+      "safe_summary": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。"
+    }
+  ],
+  "segments": [
+    {
+      "sid": "C0183-BODY",
+      "kind": "channel_body",
+      "text": "收到一位大龄学员的半期反馈，字里行间全是思考\n\n到了这个阶段，再去看社交、心态管理、商业博弈，底层逻辑全是相通的",
+      "verbatim_allowed": true,
+      "source_scope": "public_channel_body_as_archived"
+    },
+    {
+      "sid": "C0183-IMG01",
+      "kind": "image_reference_metadata",
+      "text": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。",
+      "verbatim_allowed": false,
+      "image_reference": {
+        "image_index": 1,
+        "research_archive_path": "research/youtube-community-batch1/images/UgkxxBxGA760NbL5Pt8n-_17TozYStYCbJtL/01.jpg",
+        "sha256": "68f04f65fa1dee9a4cfbaf54ec29728849eb585e4e9a9920da8cf3e48f0a2d4b",
+        "bytes": 300266,
+        "formal_asset_policy": "reference_only_do_not_copy",
+        "safe_summary": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。"
+      }
+    },
+    {
+      "sid": "C0183-IMG02",
+      "kind": "image_reference_metadata",
+      "text": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。",
+      "verbatim_allowed": false,
+      "image_reference": {
+        "image_index": 2,
+        "research_archive_path": "research/youtube-community-batch1/images/UgkxxBxGA760NbL5Pt8n-_17TozYStYCbJtL/02.jpg",
+        "sha256": "ef26df527b5fc1ad91b66e30ef0e28da2d1cfff309815fa919643091a29f4c20",
+        "bytes": 255750,
+        "formal_asset_policy": "reference_only_do_not_copy",
+        "safe_summary": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。"
+      }
+    }
+  ],
+  "privacy_policy": {
+    "original_images_copied": false,
+    "raw_ocr_copied": false,
+    "private_chat_transcript_copied": false,
+    "third_party_identity_confirmed": false,
+    "publication_authorization_confirmed": false
+  }
+}

@@ -1,0 +1,2691 @@
+{
+  "schema_version": "1.0",
+  "scope": {
+    "purpose": "网页照片方法材料缺口的独立源文补充与最小修订建议",
+    "target_object_id": "action-pilot-visible-photo-selection",
+    "candidate_or_formal_modified": false,
+    "new_action_or_permission_added": false,
+    "media_or_screenshot_exported": false,
+    "text_only_original_automatic_transcript_not_certified_verbatim": true,
+    "not_a_general_effectiveness_or_speaker_certification": true,
+    "original_segment_hash_scheme": "SHA256(json.dumps(original_segment_object, ensure_ascii=False, sort_keys=True, separators=(',', ':'), allow_nan=False).encode('utf-8'))",
+    "original_object_included_for_independent_hash_reproduction": true
+  },
+  "windows": [
+    {
+      "label": "A1-natural-complete-question-and-teaching",
+      "source_id": "mikey-youtube-live-009",
+      "title": "直播45：Mikey 撩妹答疑丨搭讪玩家TV",
+      "public_url": "https://www.youtube.com/watch?v=f0gOZfoOhvo",
+      "public_url_status": "available_at_inventory_time",
+      "source_kind": "youtube_public_livestream",
+      "source_visibility_note": "public_youtube_teaching",
+      "purpose": "自然感/艺术照/刻意pose/九宫格上下文；S00313中间词未听校，保持原字不补词。",
+      "sid_range": [
+        "S00290",
+        "S00314"
+      ],
+      "transcript_relative_path": "references/youtube-live-batch1/mikey-youtube-live-009/transcript.json",
+      "transcript_file_sha256": "c1a15f1849dc2e3da2bf6397979f97619f84c30904235d4bcc39e9d00d827a54",
+      "source_index_transcript_sha256": "c1a15f1849dc2e3da2bf6397979f97619f84c30904235d4bcc39e9d00d827a54",
+      "runtime_resource_mapping_verified": true,
+      "read_context_interface_verified": true,
+      "complete_consecutive_window": true,
+      "text_status": "automatic_transcription_with_analysis_not_sentence_by_sentence_verified",
+      "new_audio_visual_check": false,
+      "speaker_identity_newly_verified": false,
+      "privacy_status": "teaching_text_only_no_private_chat_screenshot_or_client_identifier",
+      "segments": [
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00290",
+          "start": 743.27,
+          "end": 749.06,
+          "text": "麦哥展示面拍什么类型",
+          "original_segment_sha256_canonical_json": "88f55d2370286a1314dc9a4835ab7138f1776cbcbcd0e66f547621509265179a",
+          "original_segment_object": {
+            "start": 743.27,
+            "end": 749.06,
+            "text": "麦哥展示面拍什么类型",
+            "avg_logprob": -0.13535391988165407,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00290"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00291",
+          "start": 749.06,
+          "end": 749.68,
+          "text": "女生喜欢",
+          "original_segment_sha256_canonical_json": "8bf2eee8709967b6819864971a4597f4e8a958b16b9e2ab78f663e3f44bc5ac8",
+          "original_segment_object": {
+            "start": 749.06,
+            "end": 749.68,
+            "text": "女生喜欢",
+            "avg_logprob": -0.13535391988165407,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00291"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00292",
+          "start": 749.68,
+          "end": 750.86,
+          "text": "就是你的展示面",
+          "original_segment_sha256_canonical_json": "08383e602b42f7a16bed8bced10b579de73f459969e4448d46bf4bdc6ac3ea2b",
+          "original_segment_object": {
+            "start": 749.68,
+            "end": 750.86,
+            "text": "就是你的展示面",
+            "avg_logprob": -0.13535391988165407,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00292"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00293",
+          "start": 750.86,
+          "end": 752.08,
+          "text": "一定不能是艺术照",
+          "original_segment_sha256_canonical_json": "8447e4e001b223a033dc5550deeef5195bca07e75ec19d06e58d1277defaf616",
+          "original_segment_object": {
+            "start": 750.86,
+            "end": 752.08,
+            "text": "一定不能是艺术照",
+            "avg_logprob": -0.13535391988165407,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00293"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00294",
+          "start": 752.08,
+          "end": 753.98,
+          "text": "你的展示面最好是那种自然一点",
+          "original_segment_sha256_canonical_json": "4a77cc217653aee2b6c8503541ac59ac1ff061db711a6566911f0d83c2a7c89e",
+          "original_segment_object": {
+            "start": 752.08,
+            "end": 753.98,
+            "text": "你的展示面最好是那种自然一点",
+            "avg_logprob": -0.13535391988165407,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00294"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00295",
+          "start": 753.98,
+          "end": 755.0,
+          "text": "什么叫自然一点",
+          "original_segment_sha256_canonical_json": "a399b59e1e0832f4b16ae14f346ecd4a29d059d97cb832b568fda8bd0566dd59",
+          "original_segment_object": {
+            "start": 753.98,
+            "end": 755.0,
+            "text": "什么叫自然一点",
+            "avg_logprob": -0.13535391988165407,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00295"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00296",
+          "start": 755.0,
+          "end": 756.08,
+          "text": "就越自然越好",
+          "original_segment_sha256_canonical_json": "429f3238e531ccd665b2703e777b5791a9c118c031f7fbf4b30c5c3e7f31666a",
+          "original_segment_object": {
+            "start": 755.0,
+            "end": 756.08,
+            "text": "就越自然越好",
+            "avg_logprob": -0.13535391988165407,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00296"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00297",
+          "start": 756.08,
+          "end": 757.96,
+          "text": "就是不要给人一种感觉",
+          "original_segment_sha256_canonical_json": "9962af917dfead4ffa93fdde6fcba29e9e6f2166997b8b2c6dc20e6bc63eca98",
+          "original_segment_object": {
+            "start": 756.08,
+            "end": 757.96,
+            "text": "就是不要给人一种感觉",
+            "avg_logprob": -0.13535391988165407,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00297"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00298",
+          "start": 757.96,
+          "end": 759.42,
+          "text": "说我特地我屁股往这一坐",
+          "original_segment_sha256_canonical_json": "7bbad0195d4b7a421342357cecb96bc2c520bf70104299c1f3d12e95a196ccf6",
+          "original_segment_object": {
+            "start": 757.96,
+            "end": 759.42,
+            "text": "说我特地我屁股往这一坐",
+            "avg_logprob": -0.13535391988165407,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00298"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00299",
+          "start": 759.42,
+          "end": 761.3,
+          "text": "然后我就拿一个酒杯",
+          "original_segment_sha256_canonical_json": "35269e7da1cff4f5508ebdff0cd5897de346f7d3b68dfe7c0931312d02fd908a",
+          "original_segment_object": {
+            "start": 759.42,
+            "end": 761.3,
+            "text": "然后我就拿一个酒杯",
+            "avg_logprob": -0.13535391988165407,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00299"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00300",
+          "start": 761.3,
+          "end": 762.42,
+          "text": "这样子",
+          "original_segment_sha256_canonical_json": "d3e6165fe3011ca914705ff9b7829ae424e846d2aeaa906b50ee77756c87db1f",
+          "original_segment_object": {
+            "start": 761.3,
+            "end": 762.42,
+            "text": "这样子",
+            "avg_logprob": -0.13535391988165407,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00300"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00301",
+          "start": 762.42,
+          "end": 765.32,
+          "text": "这样子摆各种各样的pose",
+          "original_segment_sha256_canonical_json": "72de523360335cc1926a8b3ba217d970929c9c888307dd5567b3cc34d2a4b27c",
+          "original_segment_object": {
+            "start": 762.42,
+            "end": 765.32,
+            "text": "这样子摆各种各样的pose",
+            "avg_logprob": -0.1533260244375084,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00301"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00302",
+          "start": 765.32,
+          "end": 768.58,
+          "text": "那女生就会觉得这个男的好装啊",
+          "original_segment_sha256_canonical_json": "5960aa4ffd85168751a9bdb939becf625cc614ec5a2560fe41989ed55cd2c259",
+          "original_segment_object": {
+            "start": 765.32,
+            "end": 768.58,
+            "text": "那女生就会觉得这个男的好装啊",
+            "avg_logprob": -0.1533260244375084,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00302"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00303",
+          "start": 768.58,
+          "end": 769.7,
+          "text": "他会这么觉得,你懂吗",
+          "original_segment_sha256_canonical_json": "c2f134fb9fa0f400321740908cf628d9b274332dd62e35b54badef961531fba4",
+          "original_segment_object": {
+            "start": 768.58,
+            "end": 769.7,
+            "text": "他会这么觉得,你懂吗",
+            "avg_logprob": -0.1533260244375084,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00303"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00304",
+          "start": 769.7,
+          "end": 774.34,
+          "text": "就你的照片要给人的感觉",
+          "original_segment_sha256_canonical_json": "8a98138d7be788428b100ce65f3de5a5f7dd2ca89ad178404b2a1e487200209d",
+          "original_segment_object": {
+            "start": 769.7,
+            "end": 774.34,
+            "text": "就你的照片要给人的感觉",
+            "avg_logprob": -0.1533260244375084,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00304"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00305",
+          "start": 774.34,
+          "end": 776.16,
+          "text": "要有网感,什么叫网感",
+          "original_segment_sha256_canonical_json": "89e384e4a718b3a9ac6687a9b3ec9db645bb3629294bf2eaacea57e132d4de75",
+          "original_segment_object": {
+            "start": 774.34,
+            "end": 776.16,
+            "text": "要有网感,什么叫网感",
+            "avg_logprob": -0.1533260244375084,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00305"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00306",
+          "start": 776.16,
+          "end": 777.5,
+          "text": "就是你屁股往那一坐",
+          "original_segment_sha256_canonical_json": "57759bc4c3050023c6c19694a89dec0da3eca2d82311261b33a02eb2d6afd315",
+          "original_segment_object": {
+            "start": 776.16,
+            "end": 777.5,
+            "text": "就是你屁股往那一坐",
+            "avg_logprob": -0.1533260244375084,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00306"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00307",
+          "start": 777.5,
+          "end": 778.98,
+          "text": "然后呢,你的摄影师",
+          "original_segment_sha256_canonical_json": "981c23e7f9d30eae972337837974db716725a5062aeaf37f04ea372c7d3fda62",
+          "original_segment_object": {
+            "start": 777.5,
+            "end": 778.98,
+            "text": "然后呢,你的摄影师",
+            "avg_logprob": -0.1533260244375084,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00307"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00308",
+          "start": 778.98,
+          "end": 782.4,
+          "text": "哗哗哗两三秒钟就给你拍出来的照片",
+          "original_segment_sha256_canonical_json": "36e6b51575b218bb385cc1108bbaf7b16c9618d96f80f7d0bdc61cc4a737aeeb",
+          "original_segment_object": {
+            "start": 778.98,
+            "end": 782.4,
+            "text": "哗哗哗两三秒钟就给你拍出来的照片",
+            "avg_logprob": -0.1533260244375084,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00308"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00309",
+          "start": 782.4,
+          "end": 785.24,
+          "text": "那这种照片呢,其实女生是喜欢的",
+          "original_segment_sha256_canonical_json": "507836c5a7822d1b1bdc70c84d7bc7878202f18105771021a23d4d6dc4a8e206",
+          "original_segment_object": {
+            "start": 782.4,
+            "end": 785.24,
+            "text": "那这种照片呢,其实女生是喜欢的",
+            "avg_logprob": -0.1533260244375084,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00309"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00310",
+          "start": 785.24,
+          "end": 787.22,
+          "text": "你不要跑过去拍个照片",
+          "original_segment_sha256_canonical_json": "e6114f275abefc8814cf7bc29165a1f63b7e4d7955d4ad9c8e5f71137da97ac0",
+          "original_segment_object": {
+            "start": 785.24,
+            "end": 787.22,
+            "text": "你不要跑过去拍个照片",
+            "avg_logprob": -0.1533260244375084,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00310"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00311",
+          "start": 787.22,
+          "end": 789.14,
+          "text": "你摆各种各样的pose",
+          "original_segment_sha256_canonical_json": "70e6694f4954e8047c5ff95a313ca8a23cc9d5a257a817207227c0d8e25095c6",
+          "original_segment_object": {
+            "start": 787.22,
+            "end": 789.14,
+            "text": "你摆各种各样的pose",
+            "avg_logprob": -0.1533260244375084,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00311"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00312",
+          "start": 789.14,
+          "end": 790.98,
+          "text": "然后呢,发九宫格",
+          "original_segment_sha256_canonical_json": "fbd27c40cb39e0d3d5015086cf349ed357327e6f0f318d198368e7c52422457e",
+          "original_segment_object": {
+            "start": 789.14,
+            "end": 790.98,
+            "text": "然后呢,发九宫格",
+            "avg_logprob": -0.1533260244375084,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00312"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00313",
+          "start": 790.98,
+          "end": 793.54,
+          "text": "然后九宫格里面有八张是几的照片",
+          "original_segment_sha256_canonical_json": "0c8551e955e664eb27620e4cbcfabcd772d862c72f49816e84a93e12211b65de",
+          "original_segment_object": {
+            "start": 790.98,
+            "end": 793.54,
+            "text": "然后九宫格里面有八张是几的照片",
+            "avg_logprob": -0.1533260244375084,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00313"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00314",
+          "start": 793.54,
+          "end": 796.24,
+          "text": "女生会觉得你这个男太自恋了",
+          "original_segment_sha256_canonical_json": "d5e7ee0bb05ace513f283a2676bbaba3654b5c7ec3063d6b5657ea9d20707e79",
+          "original_segment_object": {
+            "start": 793.54,
+            "end": 796.24,
+            "text": "女生会觉得你这个男太自恋了",
+            "avg_logprob": -0.13879189228212369,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00314"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        }
+      ],
+      "excerpt_sha256_canonical_json": "ebc2b783747910f96763e4f4bfb35eb5c145d9ab7f97bef351219836b913f909"
+    },
+    {
+      "label": "A1-select-complete-question-and-teaching",
+      "source_id": "mikey-youtube-live-009",
+      "title": "直播45：Mikey 撩妹答疑丨搭讪玩家TV",
+      "public_url": "https://www.youtube.com/watch?v=f0gOZfoOhvo",
+      "public_url_status": "available_at_inventory_time",
+      "source_kind": "youtube_public_livestream",
+      "source_visibility_note": "public_youtube_teaching",
+      "purpose": "六七张、帅/价值两点及兼具两者更好；止于教学答案结束，不带后续服务销售段。",
+      "sid_range": [
+        "S00715",
+        "S00758"
+      ],
+      "transcript_relative_path": "references/youtube-live-batch1/mikey-youtube-live-009/transcript.json",
+      "transcript_file_sha256": "c1a15f1849dc2e3da2bf6397979f97619f84c30904235d4bcc39e9d00d827a54",
+      "source_index_transcript_sha256": "c1a15f1849dc2e3da2bf6397979f97619f84c30904235d4bcc39e9d00d827a54",
+      "runtime_resource_mapping_verified": true,
+      "read_context_interface_verified": true,
+      "complete_consecutive_window": true,
+      "text_status": "automatic_transcription_with_analysis_not_sentence_by_sentence_verified",
+      "new_audio_visual_check": false,
+      "speaker_identity_newly_verified": false,
+      "privacy_status": "teaching_text_only_no_private_chat_screenshot_or_client_identifier",
+      "segments": [
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00715",
+          "start": 1564.7,
+          "end": 1569.55,
+          "text": "麦哥展示面一般拍什么",
+          "original_segment_sha256_canonical_json": "26538189608c8217cf484d1bc661952ac53ba6990801f6b269be781f25aad6df",
+          "original_segment_object": {
+            "start": 1564.7,
+            "end": 1569.55,
+            "text": "麦哥展示面一般拍什么",
+            "avg_logprob": -0.11840062111801242,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00715"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00716",
+          "start": 1569.55,
+          "end": 1570.95,
+          "text": "不知道拍什么",
+          "original_segment_sha256_canonical_json": "560119dcdf39e6aec8c0ecd6d575fbbc3ef24724c01f57edfd102b53e49bd6fd",
+          "original_segment_object": {
+            "start": 1569.55,
+            "end": 1570.95,
+            "text": "不知道拍什么",
+            "avg_logprob": -0.11840062111801242,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00716"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00717",
+          "start": 1570.95,
+          "end": 1574.55,
+          "text": "还有就是朋友圈发的量控制在哪里",
+          "original_segment_sha256_canonical_json": "c7a3e469f99de31c6c593c0573ba91d78b7ddcdc575c15b2f26134b0ae2286af",
+          "original_segment_object": {
+            "start": 1570.95,
+            "end": 1574.55,
+            "text": "还有就是朋友圈发的量控制在哪里",
+            "avg_logprob": -0.11840062111801242,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00717"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00718",
+          "start": 1574.55,
+          "end": 1575.33,
+          "text": "没有思路",
+          "original_segment_sha256_canonical_json": "2df86d1ec1e8d4421ddebccfbaa0b5050300b05bcda2c0bcd31a08070179a074",
+          "original_segment_object": {
+            "start": 1574.55,
+            "end": 1575.33,
+            "text": "没有思路",
+            "avg_logprob": -0.11840062111801242,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00718"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00719",
+          "start": 1575.33,
+          "end": 1577.99,
+          "text": "你一般朋友圈只需要出现",
+          "original_segment_sha256_canonical_json": "6fa4b7d0933e16a44910481e35f3ffd677a6c96684b93556f6341c0597a4b2a8",
+          "original_segment_object": {
+            "start": 1575.33,
+            "end": 1577.99,
+            "text": "你一般朋友圈只需要出现",
+            "avg_logprob": -0.11840062111801242,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00719"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00720",
+          "start": 1577.99,
+          "end": 1580.01,
+          "text": "六到七张个人照片就行了",
+          "original_segment_sha256_canonical_json": "2912f64e2969b06140d177d8724eec5d075bbd02034f4030f268fb1c8923d739",
+          "original_segment_object": {
+            "start": 1577.99,
+            "end": 1580.01,
+            "text": "六到七张个人照片就行了",
+            "avg_logprob": -0.11840062111801242,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00720"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00721",
+          "start": 1580.01,
+          "end": 1581.97,
+          "text": "这张照片拍帅一点就够了",
+          "original_segment_sha256_canonical_json": "38f6b6d8d8ede8b2462160f17f46c968dd0bc0cfc48ffea732f28d18187ce664",
+          "original_segment_object": {
+            "start": 1580.01,
+            "end": 1581.97,
+            "text": "这张照片拍帅一点就够了",
+            "avg_logprob": -0.11840062111801242,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00721"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00722",
+          "start": 1581.97,
+          "end": 1582.47,
+          "text": "OK",
+          "original_segment_sha256_canonical_json": "d8c277cc1c9af1914bd7ea7ec39103a06a613a1108ebf0ccacfb31d5b5e8f0c0",
+          "original_segment_object": {
+            "start": 1581.97,
+            "end": 1582.47,
+            "text": "OK",
+            "avg_logprob": -0.11840062111801242,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00722"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00723",
+          "start": 1582.47,
+          "end": 1584.45,
+          "text": "六到七张个人照片",
+          "original_segment_sha256_canonical_json": "2c1dd6e1492409ad8fc528c3cba519f9f30d061e5de4e9cbc6ef7edde82f12e6",
+          "original_segment_object": {
+            "start": 1582.47,
+            "end": 1584.45,
+            "text": "六到七张个人照片",
+            "avg_logprob": -0.11840062111801242,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00723"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00724",
+          "start": 1584.45,
+          "end": 1585.35,
+          "text": "这就够了",
+          "original_segment_sha256_canonical_json": "c8f002235b537cc9bc2e2db30dcd0fc30e4dfb8a2d3164fcce3d16158d22bd95",
+          "original_segment_object": {
+            "start": 1584.45,
+            "end": 1585.35,
+            "text": "这就够了",
+            "avg_logprob": -0.11840062111801242,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00724"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00725",
+          "start": 1585.35,
+          "end": 1587.17,
+          "text": "然后这个照片越帅越好",
+          "original_segment_sha256_canonical_json": "e3e8282947edc4b1140beb69346afbe6d9ac289d385d99e1573203567e784d8f",
+          "original_segment_object": {
+            "start": 1585.35,
+            "end": 1587.17,
+            "text": "然后这个照片越帅越好",
+            "avg_logprob": -0.11840062111801242,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00725"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00726",
+          "start": 1587.17,
+          "end": 1592.83,
+          "text": "然后就OK了",
+          "original_segment_sha256_canonical_json": "3781f99a03b526a37d7d8feaeda4105146b88b06400305c710282ebe17d90aab",
+          "original_segment_object": {
+            "start": 1587.17,
+            "end": 1592.83,
+            "text": "然后就OK了",
+            "avg_logprob": -0.11840062111801242,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00726"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00727",
+          "start": 1592.83,
+          "end": 1594.37,
+          "text": "就我们发朋友圈照片",
+          "original_segment_sha256_canonical_json": "fbae1898e206d6a28d76f81d389387970b11d85993cac12229ee1ec2161c2ee5",
+          "original_segment_object": {
+            "start": 1592.83,
+            "end": 1594.37,
+            "text": "就我们发朋友圈照片",
+            "avg_logprob": -0.11840062111801242,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00727"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00728",
+          "start": 1594.37,
+          "end": 1597.57,
+          "text": "一张照片无非就是衬托两个点",
+          "original_segment_sha256_canonical_json": "fe6f24fbb7372f77ce85ac3cd9ae07e7f99acb7d157506ed782db511b17cc712",
+          "original_segment_object": {
+            "start": 1594.37,
+            "end": 1597.57,
+            "text": "一张照片无非就是衬托两个点",
+            "avg_logprob": -0.11840062111801242,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00728"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00729",
+          "start": 1597.57,
+          "end": 1598.47,
+          "text": "要么是帅",
+          "original_segment_sha256_canonical_json": "5c01d7508c11bd454789119e66d6da32b3774eb35fd34c4039c7a94838950afa",
+          "original_segment_object": {
+            "start": 1597.57,
+            "end": 1598.47,
+            "text": "要么是帅",
+            "avg_logprob": -0.11840062111801242,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00729"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00730",
+          "start": 1598.47,
+          "end": 1599.61,
+          "text": "就是你这个人不错",
+          "original_segment_sha256_canonical_json": "4729435d55cbb930fd4efaa7d1e5675012ab0af9c4279e4cde6228e8208d13ec",
+          "original_segment_object": {
+            "start": 1598.47,
+            "end": 1599.61,
+            "text": "就是你这个人不错",
+            "avg_logprob": -0.12311557661648372,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00730"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00731",
+          "start": 1599.61,
+          "end": 1599.97,
+          "text": "这样的",
+          "original_segment_sha256_canonical_json": "bdd8acd974a2a2fa1b45a32a874a1b006edb2afff78137a6791fabd84044f031",
+          "original_segment_object": {
+            "start": 1599.61,
+            "end": 1599.97,
+            "text": "这样的",
+            "avg_logprob": -0.12311557661648372,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00731"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00732",
+          "start": 1599.97,
+          "end": 1600.87,
+          "text": "就是拍的很帅",
+          "original_segment_sha256_canonical_json": "522a9a28eb0519b8eece95fb462dc0a6dc541bcf9bc6bee16c1f23d3877e4893",
+          "original_segment_object": {
+            "start": 1599.97,
+            "end": 1600.87,
+            "text": "就是拍的很帅",
+            "avg_logprob": -0.12311557661648372,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00732"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00733",
+          "start": 1600.87,
+          "end": 1602.59,
+          "text": "要么第二个点就是价值",
+          "original_segment_sha256_canonical_json": "a5fde5644e589beb8606a3c853bd284bcf761dbf8875333715a72a68497f9a40",
+          "original_segment_object": {
+            "start": 1600.87,
+            "end": 1602.59,
+            "text": "要么第二个点就是价值",
+            "avg_logprob": -0.12311557661648372,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00733"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00734",
+          "start": 1602.59,
+          "end": 1604.09,
+          "text": "如果你发一张照片",
+          "original_segment_sha256_canonical_json": "74801081a108ca05bde47201d2469e79d310b1c56cef22ba33ef261fb6d38ef0",
+          "original_segment_object": {
+            "start": 1602.59,
+            "end": 1604.09,
+            "text": "如果你发一张照片",
+            "avg_logprob": -0.12311557661648372,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00734"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00735",
+          "start": 1604.09,
+          "end": 1605.85,
+          "text": "这张照片它既没有价值",
+          "original_segment_sha256_canonical_json": "167105ef37aecf91493ed7e098f4cdd10ddd39caa7256bd06b87c93694fae1d4",
+          "original_segment_object": {
+            "start": 1604.09,
+            "end": 1605.85,
+            "text": "这张照片它既没有价值",
+            "avg_logprob": -0.12311557661648372,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00735"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00736",
+          "start": 1605.85,
+          "end": 1606.81,
+          "text": "它又不帅",
+          "original_segment_sha256_canonical_json": "14ee864345d3872a9e973c6a3c7a2efa23a9c5c9a0031fc7f90ea307c1939e0e",
+          "original_segment_object": {
+            "start": 1605.85,
+            "end": 1606.81,
+            "text": "它又不帅",
+            "avg_logprob": -0.12311557661648372,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00736"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00737",
+          "start": 1606.81,
+          "end": 1608.01,
+          "text": "那我问你什么点",
+          "original_segment_sha256_canonical_json": "b7d0a728826612a95ca1054c97ab3bc482da7f400a1e62192e9fd2debb05ba4d",
+          "original_segment_object": {
+            "start": 1606.81,
+            "end": 1608.01,
+            "text": "那我问你什么点",
+            "avg_logprob": -0.12311557661648372,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00737"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00738",
+          "start": 1608.01,
+          "end": 1609.01,
+          "text": "你为什么要发它呢",
+          "original_segment_sha256_canonical_json": "62590672a6ae4b5e969dcbd4f3e0988390ecae834ae7020d85675045e1da0d72",
+          "original_segment_object": {
+            "start": 1608.01,
+            "end": 1609.01,
+            "text": "你为什么要发它呢",
+            "avg_logprob": -0.12311557661648372,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00738"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00739",
+          "start": 1609.01,
+          "end": 1610.33,
+          "text": "你发出去干嘛呢",
+          "original_segment_sha256_canonical_json": "5252562187b5f02381ebfd2b8e44054b4e063d1ac58a85197c9127540d342319",
+          "original_segment_object": {
+            "start": 1609.01,
+            "end": 1610.33,
+            "text": "你发出去干嘛呢",
+            "avg_logprob": -0.12311557661648372,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00739"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00740",
+          "start": 1610.33,
+          "end": 1611.63,
+          "text": "对吧",
+          "original_segment_sha256_canonical_json": "c8bd92fff2b5555985e190a56271c6274a9555e3fe6cc1dd19ec4fcf1aec0cff",
+          "original_segment_object": {
+            "start": 1610.33,
+            "end": 1611.63,
+            "text": "对吧",
+            "avg_logprob": -0.12311557661648372,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00740"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00741",
+          "start": 1611.63,
+          "end": 1612.81,
+          "text": "你发一张照片",
+          "original_segment_sha256_canonical_json": "8ca1a55681f8649482b74d7af319f04ffa8701b982849992c63d8897b3f43382",
+          "original_segment_object": {
+            "start": 1611.63,
+            "end": 1612.81,
+            "text": "你发一张照片",
+            "avg_logprob": -0.12311557661648372,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00741"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00742",
+          "start": 1612.81,
+          "end": 1614.83,
+          "text": "要么是你想传递的事情",
+          "original_segment_sha256_canonical_json": "9b59ca6c05b5a29143755fc72d4f3706ee02cd3b6a1d60fdb80cc1637f24d11d",
+          "original_segment_object": {
+            "start": 1612.81,
+            "end": 1614.83,
+            "text": "要么是你想传递的事情",
+            "avg_logprob": -0.12311557661648372,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00742"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00743",
+          "start": 1614.83,
+          "end": 1615.35,
+          "text": "你很帅",
+          "original_segment_sha256_canonical_json": "e4c20ec97e0828566fbe170458a2933f0f3378a5501aae1282a25c4bdd6d4378",
+          "original_segment_object": {
+            "start": 1614.83,
+            "end": 1615.35,
+            "text": "你很帅",
+            "avg_logprob": -0.12311557661648372,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00743"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00744",
+          "start": 1615.35,
+          "end": 1616.03,
+          "text": "好",
+          "original_segment_sha256_canonical_json": "e9ca40f510ac7f3be978b246f8722ae5530e72a018fc02f6239b602860c6d8bd",
+          "original_segment_object": {
+            "start": 1615.35,
+            "end": 1616.03,
+            "text": "好",
+            "avg_logprob": -0.12311557661648372,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00744"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00745",
+          "start": 1616.03,
+          "end": 1617.41,
+          "text": "那么你发出去",
+          "original_segment_sha256_canonical_json": "5c364b86d91690b5bfccfa30d977926e6469b783d826327d34dd357e05852544",
+          "original_segment_object": {
+            "start": 1616.03,
+            "end": 1617.41,
+            "text": "那么你发出去",
+            "avg_logprob": -0.12311557661648372,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00745"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00746",
+          "start": 1617.41,
+          "end": 1618.79,
+          "text": "要么是这张照片呢",
+          "original_segment_sha256_canonical_json": "1a656213d16be994f7149ea2dc74c22e64b592296499c53ed838cc5032f929b7",
+          "original_segment_object": {
+            "start": 1617.41,
+            "end": 1618.79,
+            "text": "要么是这张照片呢",
+            "avg_logprob": -0.12311557661648372,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00746"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00747",
+          "start": 1618.79,
+          "end": 1619.85,
+          "text": "传递的是你有价值",
+          "original_segment_sha256_canonical_json": "11dd5d66d384e9b8f252c8648cf9dfca54256a6d4003a1f98b8ce13764c9ff4c",
+          "original_segment_object": {
+            "start": 1618.79,
+            "end": 1619.85,
+            "text": "传递的是你有价值",
+            "avg_logprob": -0.12311557661648372,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00747"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00748",
+          "start": 1619.85,
+          "end": 1620.29,
+          "text": "好",
+          "original_segment_sha256_canonical_json": "6a2a8e66a8a94fd9ffaf65fbe3b2b0f4a22bf2e2a0c23e7464302f8d6623a887",
+          "original_segment_object": {
+            "start": 1619.85,
+            "end": 1620.29,
+            "text": "好",
+            "avg_logprob": -0.12311557661648372,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00748"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00749",
+          "start": 1620.29,
+          "end": 1620.93,
+          "text": "你发出去",
+          "original_segment_sha256_canonical_json": "86f3ffb7226d25525fc9ac42029f7bb9c45cdc9a459ddd1ed92c219e0ba73e3c",
+          "original_segment_object": {
+            "start": 1620.29,
+            "end": 1620.93,
+            "text": "你发出去",
+            "avg_logprob": -0.12311557661648372,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00749"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00750",
+          "start": 1620.93,
+          "end": 1622.61,
+          "text": "如果你发出去的一张照片",
+          "original_segment_sha256_canonical_json": "9a203cc1a7e3b558364c46a80bf865d8714a45fe4913c4ebffdbef4a26cbec76",
+          "original_segment_object": {
+            "start": 1620.93,
+            "end": 1622.61,
+            "text": "如果你发出去的一张照片",
+            "avg_logprob": -0.12311557661648372,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00750"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00751",
+          "start": 1622.61,
+          "end": 1623.45,
+          "text": "它既不帅",
+          "original_segment_sha256_canonical_json": "a34d712ae8e325a9e6d9bb132e262af21ff9654bb0958a2cf1d9c7e63ab71506",
+          "original_segment_object": {
+            "start": 1622.61,
+            "end": 1623.45,
+            "text": "它既不帅",
+            "avg_logprob": -0.12311557661648372,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00751"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00752",
+          "start": 1623.45,
+          "end": 1624.57,
+          "text": "然后也没有价值",
+          "original_segment_sha256_canonical_json": "9da2b530d133529540aeb11ebe4a90899b99e1e059fb6928fd7c586398e792e1",
+          "original_segment_object": {
+            "start": 1623.45,
+            "end": 1624.57,
+            "text": "然后也没有价值",
+            "avg_logprob": -0.12311557661648372,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00752"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00753",
+          "start": 1624.57,
+          "end": 1625.85,
+          "text": "你为什么要发出去呢",
+          "original_segment_sha256_canonical_json": "a28167eed9ebfb0b5c3d6a20a077669cb863224636ed621876ede57de0eae8ec",
+          "original_segment_object": {
+            "start": 1624.57,
+            "end": 1625.85,
+            "text": "你为什么要发出去呢",
+            "avg_logprob": -0.12311557661648372,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00753"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00754",
+          "start": 1625.85,
+          "end": 1627.97,
+          "text": "但是如果你发出去的一张照片呢",
+          "original_segment_sha256_canonical_json": "31be8a7ad4dd03027c183033dda29048a94d1f014ab56c04324343ecfbd92f68",
+          "original_segment_object": {
+            "start": 1625.85,
+            "end": 1627.97,
+            "text": "但是如果你发出去的一张照片呢",
+            "avg_logprob": -0.12311557661648372,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00754"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00755",
+          "start": 1627.97,
+          "end": 1629.43,
+          "text": "他既帅又有价值",
+          "original_segment_sha256_canonical_json": "ad6e934ed7f4fad0ce30d411f3bde00d80cc758a2009bd4439d127002fe41265",
+          "original_segment_object": {
+            "start": 1627.97,
+            "end": 1629.43,
+            "text": "他既帅又有价值",
+            "avg_logprob": -0.17311790407719937,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00755"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00756",
+          "start": 1629.43,
+          "end": 1630.99,
+          "text": "那非常非常的棒",
+          "original_segment_sha256_canonical_json": "5d15ed5d642042b4d9eb74854b4da7917c07879434b834da9c8cc3fe744e6546",
+          "original_segment_object": {
+            "start": 1629.43,
+            "end": 1630.99,
+            "text": "那非常非常的棒",
+            "avg_logprob": -0.17311790407719937,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00756"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00757",
+          "start": 1630.99,
+          "end": 1633.31,
+          "text": "这是一个非常非常优秀的照片",
+          "original_segment_sha256_canonical_json": "44f0cbf4e26fece9f4a00d6dc91de3ab792a607935b0ebac17b31b7645179362",
+          "original_segment_object": {
+            "start": 1630.99,
+            "end": 1633.31,
+            "text": "这是一个非常非常优秀的照片",
+            "avg_logprob": -0.17311790407719937,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00757"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00758",
+          "start": 1633.31,
+          "end": 1635.17,
+          "text": "我会推荐你一定要发出去",
+          "original_segment_sha256_canonical_json": "2b7c3294eeebbf7ed298e3bebc7fc068f3fb05940aa7a20cde506e422f770f19",
+          "original_segment_object": {
+            "start": 1633.31,
+            "end": 1635.17,
+            "text": "我会推荐你一定要发出去",
+            "avg_logprob": -0.17311790407719937,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00758"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        }
+      ],
+      "excerpt_sha256_canonical_json": "cfa583d6ad63c796ca6f470b50e7ffeb064dd86da5d99b610bf7434139287877"
+    },
+    {
+      "label": "A1-honest-complete-question-and-teaching",
+      "source_id": "mikey-youtube-live-009",
+      "title": "直播45：Mikey 撩妹答疑丨搭讪玩家TV",
+      "public_url": "https://www.youtube.com/watch?v=f0gOZfoOhvo",
+      "public_url_status": "available_at_inventory_time",
+      "source_kind": "youtube_public_livestream",
+      "source_visibility_note": "public_youtube_teaching",
+      "purpose": "IG那样的指代、够了、不需要拍很帅、要P但不过分、假照及见面落差；IG具体画面未附。",
+      "sid_range": [
+        "S00970",
+        "S00999"
+      ],
+      "transcript_relative_path": "references/youtube-live-batch1/mikey-youtube-live-009/transcript.json",
+      "transcript_file_sha256": "c1a15f1849dc2e3da2bf6397979f97619f84c30904235d4bcc39e9d00d827a54",
+      "source_index_transcript_sha256": "c1a15f1849dc2e3da2bf6397979f97619f84c30904235d4bcc39e9d00d827a54",
+      "runtime_resource_mapping_verified": true,
+      "read_context_interface_verified": true,
+      "complete_consecutive_window": true,
+      "text_status": "automatic_transcription_with_analysis_not_sentence_by_sentence_verified",
+      "new_audio_visual_check": false,
+      "speaker_identity_newly_verified": false,
+      "privacy_status": "teaching_text_only_no_private_chat_screenshot_or_client_identifier",
+      "segments": [
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00970",
+          "start": 2070.18,
+          "end": 2086.79,
+          "text": "展示面朋友圈的话",
+          "original_segment_sha256_canonical_json": "545532602a3a71ef1fce1e9fea22395951025326a8153986104ed8db2ee49c60",
+          "original_segment_object": {
+            "start": 2070.18,
+            "end": 2086.79,
+            "text": "展示面朋友圈的话",
+            "avg_logprob": -0.13259549283732971,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00970"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00971",
+          "start": 2086.79,
+          "end": 2088.81,
+          "text": "像你IG那样吗",
+          "original_segment_sha256_canonical_json": "fd33cd532e09abd846068850cbcead17699755b5a6eec1042ca514453b8612f6",
+          "original_segment_object": {
+            "start": 2086.79,
+            "end": 2088.81,
+            "text": "像你IG那样吗",
+            "avg_logprob": -0.13259549283732971,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00971"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00972",
+          "start": 2088.81,
+          "end": 2089.55,
+          "text": "差不多吧",
+          "original_segment_sha256_canonical_json": "84143f9f3de9a8ac10641e17613f19a7aa2c977b25822753bf233327f7aeaa7a",
+          "original_segment_object": {
+            "start": 2088.81,
+            "end": 2089.55,
+            "text": "差不多吧",
+            "avg_logprob": -0.13259549283732971,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00972"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00973",
+          "start": 2089.55,
+          "end": 2090.99,
+          "text": "那样就其实够了",
+          "original_segment_sha256_canonical_json": "d95c334c7081d75c22a9e2b4900798e0c43f5d82d0fe17864c1343aad6e5e1d4",
+          "original_segment_object": {
+            "start": 2089.55,
+            "end": 2090.99,
+            "text": "那样就其实够了",
+            "avg_logprob": -0.13259549283732971,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00973"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00974",
+          "start": 2090.99,
+          "end": 2092.03,
+          "text": "那样其实就已经够了",
+          "original_segment_sha256_canonical_json": "a9675ae1fc9d910cb7f1d02c23bf876575b6fd8afeb55deb48fa47791d85fd30",
+          "original_segment_object": {
+            "start": 2090.99,
+            "end": 2092.03,
+            "text": "那样其实就已经够了",
+            "avg_logprob": -0.13259549283732971,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00974"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00975",
+          "start": 2092.03,
+          "end": 2093.09,
+          "text": "不需要拍很帅",
+          "original_segment_sha256_canonical_json": "66cd750ff5ca181d5fb2b57c0266ad3df54c4456fe9793a4fde4924bee75b5cc",
+          "original_segment_object": {
+            "start": 2092.03,
+            "end": 2093.09,
+            "text": "不需要拍很帅",
+            "avg_logprob": -0.13259549283732971,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00975"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00976",
+          "start": 2093.09,
+          "end": 2095.05,
+          "text": "然后P图不要P特别过分",
+          "original_segment_sha256_canonical_json": "5eb8f84e5600eb82b2999648c1edbbd640f89d18d5456b3eb591a9e2f224becb",
+          "original_segment_object": {
+            "start": 2093.09,
+            "end": 2095.05,
+            "text": "然后P图不要P特别过分",
+            "avg_logprob": -0.13259549283732971,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00976"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00977",
+          "start": 2095.05,
+          "end": 2096.11,
+          "text": "你们批的很过分",
+          "original_segment_sha256_canonical_json": "2982b66dbd6dc488a4552bf771b1d52a7cab45f5ce208aa74811401f45b13d11",
+          "original_segment_object": {
+            "start": 2095.05,
+            "end": 2096.11,
+            "text": "你们批的很过分",
+            "avg_logprob": -0.13427473054850164,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00977"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00978",
+          "start": 2096.11,
+          "end": 2097.63,
+          "text": "其实有问题的",
+          "original_segment_sha256_canonical_json": "c4639f1886fdc899998e32d20271c067874b779969b5f7585ccf925eb5e980e9",
+          "original_segment_object": {
+            "start": 2096.11,
+            "end": 2097.63,
+            "text": "其实有问题的",
+            "avg_logprob": -0.13427473054850164,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00978"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00979",
+          "start": 2097.63,
+          "end": 2100.17,
+          "text": "女人会感觉被照片被骗了",
+          "original_segment_sha256_canonical_json": "f91a89f563d90bce4f049a2d26eb81a06053f3815f256830900243a3d3afe0f3",
+          "original_segment_object": {
+            "start": 2097.63,
+            "end": 2100.17,
+            "text": "女人会感觉被照片被骗了",
+            "avg_logprob": -0.13427473054850164,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00979"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00980",
+          "start": 2100.17,
+          "end": 2101.47,
+          "text": "你知道吗",
+          "original_segment_sha256_canonical_json": "c4a05a35347a7d71ceb76538fb5820a32670b805be2ab663f59f162b48deb211",
+          "original_segment_object": {
+            "start": 2100.17,
+            "end": 2101.47,
+            "text": "你知道吗",
+            "avg_logprob": -0.13427473054850164,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00980"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00981",
+          "start": 2101.47,
+          "end": 2103.11,
+          "text": "他会觉得他被骗了",
+          "original_segment_sha256_canonical_json": "9bc8c0129b6f484c1b443533f4572e466ecc05148faef1651bbbec81dc3f937b",
+          "original_segment_object": {
+            "start": 2101.47,
+            "end": 2103.11,
+            "text": "他会觉得他被骗了",
+            "avg_logprob": -0.13427473054850164,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00981"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00982",
+          "start": 2103.11,
+          "end": 2105.09,
+          "text": "他大老远过来找你",
+          "original_segment_sha256_canonical_json": "7a224588e6480716bc77d0f62fced5fbf6321b3113cdce9fc3ccbbabee2f3232",
+          "original_segment_object": {
+            "start": 2103.11,
+            "end": 2105.09,
+            "text": "他大老远过来找你",
+            "avg_logprob": -0.13427473054850164,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00982"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00983",
+          "start": 2105.09,
+          "end": 2105.65,
+          "text": "对吧",
+          "original_segment_sha256_canonical_json": "ef3d37ca7b1341e98151fe694e3076eb142e22c571e4dd92904c82f1be5e7df2",
+          "original_segment_object": {
+            "start": 2105.09,
+            "end": 2105.65,
+            "text": "对吧",
+            "avg_logprob": -0.13427473054850164,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00983"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00984",
+          "start": 2105.65,
+          "end": 2106.49,
+          "text": "他大老远过来找你",
+          "original_segment_sha256_canonical_json": "d481a7596cb3d1e133f52ca1190f18de56931c04ed128a6b932869e63787b48d",
+          "original_segment_object": {
+            "start": 2105.65,
+            "end": 2106.49,
+            "text": "他大老远过来找你",
+            "avg_logprob": -0.13427473054850164,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00984"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00985",
+          "start": 2106.49,
+          "end": 2107.53,
+          "text": "他打车过来找你",
+          "original_segment_sha256_canonical_json": "8593472addc3d01345c082e3f3ef24aa3911d80ae98d2f3bbaf4016dcc6c444a",
+          "original_segment_object": {
+            "start": 2106.49,
+            "end": 2107.53,
+            "text": "他打车过来找你",
+            "avg_logprob": -0.13427473054850164,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00985"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00986",
+          "start": 2107.53,
+          "end": 2109.43,
+          "text": "他花了四五十块钱",
+          "original_segment_sha256_canonical_json": "cb735f17d0950f67f6917390376e6b3bf76f602b7335ca5b0330091e5d6d97ee",
+          "original_segment_object": {
+            "start": 2107.53,
+            "end": 2109.43,
+            "text": "他花了四五十块钱",
+            "avg_logprob": -0.13427473054850164,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00986"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00987",
+          "start": 2109.43,
+          "end": 2110.19,
+          "text": "打车过来找你",
+          "original_segment_sha256_canonical_json": "d0a9acf6f550202d6367ec81ce093292fb8036e81f506ac8303730b40b9ca992",
+          "original_segment_object": {
+            "start": 2109.43,
+            "end": 2110.19,
+            "text": "打车过来找你",
+            "avg_logprob": -0.13427473054850164,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00987"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00988",
+          "start": 2110.19,
+          "end": 2111.65,
+          "text": "结果发现你跟照片不一样",
+          "original_segment_sha256_canonical_json": "6a71fe9d1b9564f13564c5e2c54ea192b1e2a19173cb0159073c2b227147d7d6",
+          "original_segment_object": {
+            "start": 2110.19,
+            "end": 2111.65,
+            "text": "结果发现你跟照片不一样",
+            "avg_logprob": -0.13427473054850164,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00988"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00989",
+          "start": 2111.65,
+          "end": 2113.21,
+          "text": "他是非常下头的",
+          "original_segment_sha256_canonical_json": "e6b0fcda172adbb4dba3e74d08250e59a9595b12add1ddf3e436107a84d498b5",
+          "original_segment_object": {
+            "start": 2111.65,
+            "end": 2113.21,
+            "text": "他是非常下头的",
+            "avg_logprob": -0.13427473054850164,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00989"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00990",
+          "start": 2113.21,
+          "end": 2116.35,
+          "text": "他宁愿就是你不要骗他",
+          "original_segment_sha256_canonical_json": "a23249e6163b6003b04b89ee9dc2badde7e4105bf14566606688ccea5a1d2778",
+          "original_segment_object": {
+            "start": 2113.21,
+            "end": 2116.35,
+            "text": "他宁愿就是你不要骗他",
+            "avg_logprob": -0.13427473054850164,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00990"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00991",
+          "start": 2116.35,
+          "end": 2116.69,
+          "text": "对吧",
+          "original_segment_sha256_canonical_json": "2d28a2b51020e25902af96e8ff3aa711c719d329ef12d47e097c74923f105d94",
+          "original_segment_object": {
+            "start": 2116.35,
+            "end": 2116.69,
+            "text": "对吧",
+            "avg_logprob": -0.13427473054850164,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00991"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00992",
+          "start": 2116.69,
+          "end": 2118.93,
+          "text": "你照片不要批的很过分",
+          "original_segment_sha256_canonical_json": "d80d44d1764a76b84288141aee1764b0e162f883ba3578784d8a1b7b49145475",
+          "original_segment_object": {
+            "start": 2116.69,
+            "end": 2118.93,
+            "text": "你照片不要批的很过分",
+            "avg_logprob": -0.13427473054850164,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00992"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00993",
+          "start": 2118.93,
+          "end": 2119.69,
+          "text": "但是你要批",
+          "original_segment_sha256_canonical_json": "9c17cf75107a19e546f877a716f15361783381aeb2db75aac3c6ac2dd0e1fb8a",
+          "original_segment_object": {
+            "start": 2118.93,
+            "end": 2119.69,
+            "text": "但是你要批",
+            "avg_logprob": -0.13427473054850164,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00993"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00994",
+          "start": 2119.69,
+          "end": 2120.27,
+          "text": "你要批",
+          "original_segment_sha256_canonical_json": "e8ddb17919607c0f12fea7ad6d9e52bb71ba20791b4c64e8a5af74c08fc9567c",
+          "original_segment_object": {
+            "start": 2119.69,
+            "end": 2120.27,
+            "text": "你要批",
+            "avg_logprob": -0.13427473054850164,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00994"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00995",
+          "start": 2120.27,
+          "end": 2121.75,
+          "text": "但是你不要批的很过分",
+          "original_segment_sha256_canonical_json": "5ce6989087122475126b9b78befab57b5614b723fe8ff9feadd2f372fe92f59e",
+          "original_segment_object": {
+            "start": 2120.27,
+            "end": 2121.75,
+            "text": "但是你不要批的很过分",
+            "avg_logprob": -0.13427473054850164,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00995"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00996",
+          "start": 2121.75,
+          "end": 2123.79,
+          "text": "你不要把五官都批成别的东西了",
+          "original_segment_sha256_canonical_json": "42391d7ab83dfb406feeaf3169c320a118bd60657f2ad601d29681d857842ff0",
+          "original_segment_object": {
+            "start": 2121.75,
+            "end": 2123.79,
+            "text": "你不要把五官都批成别的东西了",
+            "avg_logprob": -0.13427473054850164,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00996"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00997",
+          "start": 2123.79,
+          "end": 2125.65,
+          "text": "甚至还有些人用假照",
+          "original_segment_sha256_canonical_json": "287a1d1a0d1e068008a8f4a1845fd0a33dbb19c47ff53014df550b00fead5f7d",
+          "original_segment_object": {
+            "start": 2123.79,
+            "end": 2125.65,
+            "text": "甚至还有些人用假照",
+            "avg_logprob": -0.13157328079486716,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00997"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00998",
+          "start": 2125.65,
+          "end": 2127.43,
+          "text": "我是非常难理解的",
+          "original_segment_sha256_canonical_json": "24024ff7a9b5e7b2839bff8c73b5ff7abeb60c23d5b0acdf553cefd31e1b0589",
+          "original_segment_object": {
+            "start": 2125.65,
+            "end": 2127.43,
+            "text": "我是非常难理解的",
+            "avg_logprob": -0.13157328079486716,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00998"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-youtube-live-009",
+          "sid": "S00999",
+          "start": 2127.43,
+          "end": 2128.73,
+          "text": "你这么不自信吗",
+          "original_segment_sha256_canonical_json": "0d511072037819c56df5b8bcecbd64f96bed8dfafe5974ccf811aa4cb2da7564",
+          "original_segment_object": {
+            "start": 2127.43,
+            "end": 2128.73,
+            "text": "你这么不自信吗",
+            "avg_logprob": -0.13157328079486716,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00999"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        }
+      ],
+      "excerpt_sha256_canonical_json": "907261a51938252b620294e872138f9f052b0cee6f3acbcf351dbd8c9fd958da"
+    },
+    {
+      "label": "Game005-resume-life-aesthetic-complete-teaching-passage",
+      "source_id": "mikey-gameshengjing-005",
+      "title": "第五章 你为什么没有约会（关于你为什么没有约会）",
+      "public_url": null,
+      "public_url_status": "not_available",
+      "source_kind": "local_gameshengjing_video",
+      "source_visibility_note": "local_course_teaching_no_public_url",
+      "purpose": "展示面/包装/简历/后续约会及生活审美理由；80%仅保存作者观察原段，未纳入动作或有效性判断。",
+      "sid_range": [
+        "S00100",
+        "S00151"
+      ],
+      "transcript_relative_path": "references/gameshengjing/mikey-gameshengjing-005/transcript.json",
+      "transcript_file_sha256": "094f7b6036d296377771f65d03156d81969e3f8a5115ea2f5ea37e89c70817e9",
+      "source_index_transcript_sha256": "094f7b6036d296377771f65d03156d81969e3f8a5115ea2f5ea37e89c70817e9",
+      "runtime_resource_mapping_verified": true,
+      "read_context_interface_verified": true,
+      "complete_consecutive_window": true,
+      "text_status": "automatic_transcription_with_analysis_not_sentence_by_sentence_verified",
+      "new_audio_visual_check": false,
+      "speaker_identity_newly_verified": false,
+      "privacy_status": "teaching_text_only_no_private_chat_screenshot_or_client_identifier",
+      "segments": [
+        {
+          "source_id": "mikey-gameshengjing-005",
+          "sid": "S00100",
+          "start": 166.36,
+          "end": 167.16,
+          "text": "那么说到这儿",
+          "original_segment_sha256_canonical_json": "4f4b5fc3492871cdc79857ce9c2b2d0b39bb9c592639fb13f8bc790afc86b31b",
+          "original_segment_object": {
+            "start": 166.36,
+            "end": 167.16,
+            "text": "那么说到这儿",
+            "avg_logprob": -0.09776577231622188,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00100"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-gameshengjing-005",
+          "sid": "S00101",
+          "start": 167.16,
+          "end": 167.9,
+          "text": "你可能会问",
+          "original_segment_sha256_canonical_json": "ac9f721e04cf0c65b55ccfdce1b3c6095a9cfa49c31367a322c2c7a701334ef1",
+          "original_segment_object": {
+            "start": 167.16,
+            "end": 167.9,
+            "text": "你可能会问",
+            "avg_logprob": -0.09776577231622188,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00101"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-gameshengjing-005",
+          "sid": "S00102",
+          "start": 167.9,
+          "end": 170.24,
+          "text": "那到底是什么阻碍了我们走向约会呢",
+          "original_segment_sha256_canonical_json": "644bfbf1cc9ca78418680cda89db60e76cfaebae31a71c84c4900b3a286dbb63",
+          "original_segment_object": {
+            "start": 167.9,
+            "end": 170.24,
+            "text": "那到底是什么阻碍了我们走向约会呢",
+            "avg_logprob": -0.09776577231622188,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00102"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-gameshengjing-005",
+          "sid": "S00103",
+          "start": 170.24,
+          "end": 171.44,
+          "text": "那么根据我的观察",
+          "original_segment_sha256_canonical_json": "29d6bdcf1cff48e258c1bd012f5ffafbbe588e02ad3f7f6e9b4b535e0c5ccc88",
+          "original_segment_object": {
+            "start": 170.24,
+            "end": 171.44,
+            "text": "那么根据我的观察",
+            "avg_logprob": -0.09776577231622188,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00103"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-gameshengjing-005",
+          "sid": "S00104",
+          "start": 171.44,
+          "end": 173.82,
+          "text": "80%的人他没有约会",
+          "original_segment_sha256_canonical_json": "f1b16a40c9ba46705ef138f4a441b6493a197fa58c02b524ca102de9aab5288c",
+          "original_segment_object": {
+            "start": 171.44,
+            "end": 173.82,
+            "text": "80%的人他没有约会",
+            "avg_logprob": -0.09776577231622188,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00104"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-gameshengjing-005",
+          "sid": "S00105",
+          "start": 173.82,
+          "end": 175.5,
+          "text": "最核心最致命的一点",
+          "original_segment_sha256_canonical_json": "44028baa85dbf20368f85d5dfb6f2edf82ae229d57ba3db63acfcc7993c2b443",
+          "original_segment_object": {
+            "start": 173.82,
+            "end": 175.5,
+            "text": "最核心最致命的一点",
+            "avg_logprob": -0.06021341521565507,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00105"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-gameshengjing-005",
+          "sid": "S00106",
+          "start": 175.5,
+          "end": 176.66,
+          "text": "是因为没有展示面",
+          "original_segment_sha256_canonical_json": "bc43b7e85c2ee2caeb267fd62d26d0e81d40885e5d361e6dc398cc38bc13ffe1",
+          "original_segment_object": {
+            "start": 175.5,
+            "end": 176.66,
+            "text": "是因为没有展示面",
+            "avg_logprob": -0.06021341521565507,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00106"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-gameshengjing-005",
+          "sid": "S00107",
+          "start": 176.66,
+          "end": 177.54,
+          "text": "甚至朋友圈里",
+          "original_segment_sha256_canonical_json": "d31f493ef80f2b86628825c8e8ba8082934a7059160c2469bff94e65f9ce07e9",
+          "original_segment_object": {
+            "start": 176.66,
+            "end": 177.54,
+            "text": "甚至朋友圈里",
+            "avg_logprob": -0.06021341521565507,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00107"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-gameshengjing-005",
+          "sid": "S00108",
+          "start": 177.54,
+          "end": 179.52,
+          "text": "连一张像样的照片都没有",
+          "original_segment_sha256_canonical_json": "023d25145447bc4a7633ca6fedb67eb9ce3cdd911f436488ef253039aff90867",
+          "original_segment_object": {
+            "start": 177.54,
+            "end": 179.52,
+            "text": "连一张像样的照片都没有",
+            "avg_logprob": -0.06021341521565507,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00108"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-gameshengjing-005",
+          "sid": "S00109",
+          "start": 179.52,
+          "end": 181.64,
+          "text": "我之前有讲过外在包装的重要性",
+          "original_segment_sha256_canonical_json": "5d1db3fa0dd0deee1f91ab37a8bf8c5c72048574272b5249b31ccd8fe5ac2d51",
+          "original_segment_object": {
+            "start": 179.52,
+            "end": 181.64,
+            "text": "我之前有讲过外在包装的重要性",
+            "avg_logprob": -0.06021341521565507,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00109"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-gameshengjing-005",
+          "sid": "S00110",
+          "start": 181.64,
+          "end": 183.64,
+          "text": "如果把你整个人看作一个产品",
+          "original_segment_sha256_canonical_json": "a847602f2dc9393ea2dd9bd391aaac1519ba32beef464a0ae561589d7ec3282b",
+          "original_segment_object": {
+            "start": 181.64,
+            "end": 183.64,
+            "text": "如果把你整个人看作一个产品",
+            "avg_logprob": -0.06021341521565507,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00110"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-gameshengjing-005",
+          "sid": "S00111",
+          "start": 183.64,
+          "end": 185.24,
+          "text": "你可能内在价值很好",
+          "original_segment_sha256_canonical_json": "0517312127afb59b12e2dbc3334ddd28e41096e33208fc7177e023d325fa7193",
+          "original_segment_object": {
+            "start": 183.64,
+            "end": 185.24,
+            "text": "你可能内在价值很好",
+            "avg_logprob": -0.06021341521565507,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00111"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-gameshengjing-005",
+          "sid": "S00112",
+          "start": 185.24,
+          "end": 187.0,
+          "text": "是个自信有底气的男人",
+          "original_segment_sha256_canonical_json": "c511b739fcb3886e2a0a11f719c6d8512230ba899967fa124570ac8dacce6416",
+          "original_segment_object": {
+            "start": 185.24,
+            "end": 187.0,
+            "text": "是个自信有底气的男人",
+            "avg_logprob": -0.06021341521565507,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00112"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-gameshengjing-005",
+          "sid": "S00113",
+          "start": 187.0,
+          "end": 188.6,
+          "text": "但如果你没有产品包装",
+          "original_segment_sha256_canonical_json": "2a90d50cbe0056ad4103580effdec046c18713a50de2a0d6fbd2647a8019a2f3",
+          "original_segment_object": {
+            "start": 187.0,
+            "end": 188.6,
+            "text": "但如果你没有产品包装",
+            "avg_logprob": -0.06021341521565507,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00113"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-gameshengjing-005",
+          "sid": "S00114",
+          "start": 188.6,
+          "end": 190.56,
+          "text": "那么对方是根本看不见你的好的",
+          "original_segment_sha256_canonical_json": "94a3998e1b77f97774b07d392142257f88104af52d41cd24e333b61971177221",
+          "original_segment_object": {
+            "start": 188.6,
+            "end": 190.56,
+            "text": "那么对方是根本看不见你的好的",
+            "avg_logprob": -0.06021341521565507,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00114"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-gameshengjing-005",
+          "sid": "S00115",
+          "start": 190.56,
+          "end": 192.58,
+          "text": "自然也就不愿意去买你的账",
+          "original_segment_sha256_canonical_json": "7d26646f82b0e8736a6ab1f4f8e2e935641427939d931ef739897a0adaffaf3b",
+          "original_segment_object": {
+            "start": 190.56,
+            "end": 192.58,
+            "text": "自然也就不愿意去买你的账",
+            "avg_logprob": -0.06021341521565507,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00115"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-gameshengjing-005",
+          "sid": "S00116",
+          "start": 192.58,
+          "end": 194.62,
+          "text": "就像是找工作投简历一样",
+          "original_segment_sha256_canonical_json": "1c1a69298d984f328b00701a64b7f2bfeb158ef718ed9765b1ecab00b5dc0586",
+          "original_segment_object": {
+            "start": 192.58,
+            "end": 194.62,
+            "text": "就像是找工作投简历一样",
+            "avg_logprob": -0.06021341521565507,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00116"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-gameshengjing-005",
+          "sid": "S00117",
+          "start": 194.62,
+          "end": 196.04,
+          "text": "展示面就是你的简历",
+          "original_segment_sha256_canonical_json": "cd4cb446465d2f89e08236968e43b206e982557a58168c1f86e4ef841c46ac4b",
+          "original_segment_object": {
+            "start": 194.62,
+            "end": 196.04,
+            "text": "展示面就是你的简历",
+            "avg_logprob": -0.06021341521565507,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00117"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-gameshengjing-005",
+          "sid": "S00118",
+          "start": 196.04,
+          "end": 198.28,
+          "text": "如果你连一份像样的简历都拿不出来",
+          "original_segment_sha256_canonical_json": "14cb5c5933731e57e589952ac8af6f6ddca41abb3ffe3e65cb4ae2090d206da1",
+          "original_segment_object": {
+            "start": 196.04,
+            "end": 198.28,
+            "text": "如果你连一份像样的简历都拿不出来",
+            "avg_logprob": -0.06021341521565507,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00118"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-gameshengjing-005",
+          "sid": "S00119",
+          "start": 198.28,
+          "end": 199.86,
+          "text": "你的业务能力哪怕再强",
+          "original_segment_sha256_canonical_json": "7010ded54fab8ce4cba879db0d9f696324cf00996f7e3dc6a479b3c714ded89b",
+          "original_segment_object": {
+            "start": 198.28,
+            "end": 199.86,
+            "text": "你的业务能力哪怕再强",
+            "avg_logprob": -0.06021341521565507,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00119"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-gameshengjing-005",
+          "sid": "S00120",
+          "start": 199.86,
+          "end": 201.76,
+          "text": "人家也不会给你面试的机会",
+          "original_segment_sha256_canonical_json": "e91d5928bdc8a40781486553d163051df5d44345153f59adde420009b07de395",
+          "original_segment_object": {
+            "start": 199.86,
+            "end": 201.76,
+            "text": "人家也不会给你面试的机会",
+            "avg_logprob": -0.06021341521565507,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00120"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-gameshengjing-005",
+          "sid": "S00121",
+          "start": 201.76,
+          "end": 203.94,
+          "text": "那么也就没有了后续约会的可能",
+          "original_segment_sha256_canonical_json": "407ffdc96cc08b454a69aaf9383f15cc8ff52896efaf1bfd77309580105d5cc3",
+          "original_segment_object": {
+            "start": 201.76,
+            "end": 203.94,
+            "text": "那么也就没有了后续约会的可能",
+            "avg_logprob": -0.09053308622655916,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00121"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-gameshengjing-005",
+          "sid": "S00122",
+          "start": 203.94,
+          "end": 205.7,
+          "text": "那么很多兄弟们经常跟我抱怨",
+          "original_segment_sha256_canonical_json": "a6cbbe792be0a5442aeac70ddcc1db1a6fba23ada197dd554764b49c50781328",
+          "original_segment_object": {
+            "start": 203.94,
+            "end": 205.7,
+            "text": "那么很多兄弟们经常跟我抱怨",
+            "avg_logprob": -0.09053308622655916,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00122"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-gameshengjing-005",
+          "sid": "S00123",
+          "start": 205.7,
+          "end": 207.34,
+          "text": "说微信聊天太累了",
+          "original_segment_sha256_canonical_json": "c1f5abcf635dab1a6718ce7a97ff4691ffba8bd4f6785ddde9b6edd33daec6bc",
+          "original_segment_object": {
+            "start": 205.7,
+            "end": 207.34,
+            "text": "说微信聊天太累了",
+            "avg_logprob": -0.09053308622655916,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00123"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-gameshengjing-005",
+          "sid": "S00124",
+          "start": 207.34,
+          "end": 208.1,
+          "text": "不管发什么",
+          "original_segment_sha256_canonical_json": "a1d5beb6131a6b53c904b246445d77ca1cd26b6bc40677adebf24eec5fcb8939",
+          "original_segment_object": {
+            "start": 207.34,
+            "end": 208.1,
+            "text": "不管发什么",
+            "avg_logprob": -0.09053308622655916,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00124"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-gameshengjing-005",
+          "sid": "S00125",
+          "start": 208.1,
+          "end": 209.1,
+          "text": "女生要么不回",
+          "original_segment_sha256_canonical_json": "3652c55988ef53cb9e3ee54da1365407bba3ea4bdb9c527bcd6048ce31f26a23",
+          "original_segment_object": {
+            "start": 208.1,
+            "end": 209.1,
+            "text": "女生要么不回",
+            "avg_logprob": -0.09053308622655916,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00125"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-gameshengjing-005",
+          "sid": "S00126",
+          "start": 209.1,
+          "end": 210.14,
+          "text": "要么就NRO",
+          "original_segment_sha256_canonical_json": "49b2503850d9c98e920fd96abfb14914f8b9f8b9f3f1031e47f7b419157f4334",
+          "original_segment_object": {
+            "start": 209.1,
+            "end": 210.14,
+            "text": "要么就NRO",
+            "avg_logprob": -0.09053308622655916,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00126"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-gameshengjing-005",
+          "sid": "S00127",
+          "start": 210.14,
+          "end": 211.82,
+          "text": "你们有没有换位思考过",
+          "original_segment_sha256_canonical_json": "79ac713f04b0dbaeb520c721e14ade6fb435a1531bc6e9e3bc6cf428cde5c890",
+          "original_segment_object": {
+            "start": 210.14,
+            "end": 211.82,
+            "text": "你们有没有换位思考过",
+            "avg_logprob": -0.09053308622655916,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00127"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-gameshengjing-005",
+          "sid": "S00128",
+          "start": 211.82,
+          "end": 213.72,
+          "text": "为什么对方不想回你消息",
+          "original_segment_sha256_canonical_json": "c440cf7002b5be58d53b5241cc5956da8a8a2929f1a2d3709699116b5d822df1",
+          "original_segment_object": {
+            "start": 211.82,
+            "end": 213.72,
+            "text": "为什么对方不想回你消息",
+            "avg_logprob": -0.09053308622655916,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00128"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-gameshengjing-005",
+          "sid": "S00129",
+          "start": 213.72,
+          "end": 214.96,
+          "text": "其实原因很简单",
+          "original_segment_sha256_canonical_json": "5319183eeee493d5d1f2fce95e5df3203b3d8633309ebdd10ad67b2b12689995",
+          "original_segment_object": {
+            "start": 213.72,
+            "end": 214.96,
+            "text": "其实原因很简单",
+            "avg_logprob": -0.09053308622655916,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00129"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-gameshengjing-005",
+          "sid": "S00130",
+          "start": 214.96,
+          "end": 216.2,
+          "text": "当他打开你的朋友圈",
+          "original_segment_sha256_canonical_json": "f3fc51eeeed1d5ba0b87f30e6972d2d19d4fa12a96bbe2f54e1e811f08005b25",
+          "original_segment_object": {
+            "start": 214.96,
+            "end": 216.2,
+            "text": "当他打开你的朋友圈",
+            "avg_logprob": -0.09053308622655916,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00130"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-gameshengjing-005",
+          "sid": "S00131",
+          "start": 216.2,
+          "end": 217.56,
+          "text": "发现里面空空如也",
+          "original_segment_sha256_canonical_json": "d18dbebeb38b3d7824e4349a3db21046bef587e79ced4c9f162a1571ddd1bb95",
+          "original_segment_object": {
+            "start": 216.2,
+            "end": 217.56,
+            "text": "发现里面空空如也",
+            "avg_logprob": -0.09053308622655916,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00131"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-gameshengjing-005",
+          "sid": "S00132",
+          "start": 217.56,
+          "end": 218.8,
+          "text": "或者是三天可见",
+          "original_segment_sha256_canonical_json": "441b2795520a6c8752ce52e89112d5d2f735789296140ca7431bfcdb33045d28",
+          "original_segment_object": {
+            "start": 217.56,
+            "end": 218.8,
+            "text": "或者是三天可见",
+            "avg_logprob": -0.09053308622655916,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00132"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-gameshengjing-005",
+          "sid": "S00133",
+          "start": 218.8,
+          "end": 220.52,
+          "text": "没有任何能展示你生活",
+          "original_segment_sha256_canonical_json": "62f930f96d82d2fdfaeb1c4f471a86b00c663417fcaee15ca29554a53b38dd5c",
+          "original_segment_object": {
+            "start": 218.8,
+            "end": 220.52,
+            "text": "没有任何能展示你生活",
+            "avg_logprob": -0.09053308622655916,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00133"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-gameshengjing-005",
+          "sid": "S00134",
+          "start": 220.52,
+          "end": 221.62,
+          "text": "审美的照片时",
+          "original_segment_sha256_canonical_json": "a74c878a27b4880adef5f96b255413190ff8064124374106e6b8a7410a6bd9c5",
+          "original_segment_object": {
+            "start": 220.52,
+            "end": 221.62,
+            "text": "审美的照片时",
+            "avg_logprob": -0.09053308622655916,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00134"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-gameshengjing-005",
+          "sid": "S00135",
+          "start": 221.62,
+          "end": 223.66,
+          "text": "他对你这个人是完全没有预期的",
+          "original_segment_sha256_canonical_json": "d3b409f4d436e735c263d063b8c8598013dad58902a6155cd794666ad6874a82",
+          "original_segment_object": {
+            "start": 221.62,
+            "end": 223.66,
+            "text": "他对你这个人是完全没有预期的",
+            "avg_logprob": -0.09053308622655916,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00135"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-gameshengjing-005",
+          "sid": "S00136",
+          "start": 223.66,
+          "end": 225.3,
+          "text": "如果一个女生加了我",
+          "original_segment_sha256_canonical_json": "7d2eea5d9ea882a306acdcb2f34a01dcf51545e553f9ad84d59d2e84251e889b",
+          "original_segment_object": {
+            "start": 223.66,
+            "end": 225.3,
+            "text": "如果一个女生加了我",
+            "avg_logprob": -0.09053308622655916,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00136"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-gameshengjing-005",
+          "sid": "S00137",
+          "start": 225.3,
+          "end": 226.54,
+          "text": "他的朋友圈什么都没有",
+          "original_segment_sha256_canonical_json": "562bab5d4684105b2a3fa4fae0d4b2c57ff57e1a4bff9fc078c7d299155c40e2",
+          "original_segment_object": {
+            "start": 225.3,
+            "end": 226.54,
+            "text": "他的朋友圈什么都没有",
+            "avg_logprob": -0.09053308622655916,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00137"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-gameshengjing-005",
+          "sid": "S00138",
+          "start": 226.54,
+          "end": 227.82,
+          "text": "即便他再热情",
+          "original_segment_sha256_canonical_json": "a2ecd96f81acda3e834519890e7e3e3c7b3859c2a9b7058cabc276daa58f75fd",
+          "original_segment_object": {
+            "start": 226.54,
+            "end": 227.82,
+            "text": "即便他再热情",
+            "avg_logprob": -0.09053308622655916,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00138"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-gameshengjing-005",
+          "sid": "S00139",
+          "start": 227.82,
+          "end": 229.08,
+          "text": "我可能也不想理他",
+          "original_segment_sha256_canonical_json": "da518069f3441c38dbe3c20eb76237c916183dbe99c149286e23672f111001d9",
+          "original_segment_object": {
+            "start": 227.82,
+            "end": 229.08,
+            "text": "我可能也不想理他",
+            "avg_logprob": -0.09053308622655916,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00139"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-gameshengjing-005",
+          "sid": "S00140",
+          "start": 229.08,
+          "end": 230.14,
+          "text": "但如果他的朋友圈",
+          "original_segment_sha256_canonical_json": "415cfcc896d686f2e810639788a2fc426ae4441f86d4ee105455c5b019162e3b",
+          "original_segment_object": {
+            "start": 229.08,
+            "end": 230.14,
+            "text": "但如果他的朋友圈",
+            "avg_logprob": -0.09053308622655916,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00140"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-gameshengjing-005",
+          "sid": "S00141",
+          "start": 230.14,
+          "end": 231.54,
+          "text": "放了他的性感照片",
+          "original_segment_sha256_canonical_json": "793d2f81257f469120429f1126ddc04d7588386c9ed99256f7088a106a51660c",
+          "original_segment_object": {
+            "start": 230.14,
+            "end": 231.54,
+            "text": "放了他的性感照片",
+            "avg_logprob": -0.09053308622655916,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00141"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-gameshengjing-005",
+          "sid": "S00142",
+          "start": 231.54,
+          "end": 233.12,
+          "text": "那么这些照片也很有质感",
+          "original_segment_sha256_canonical_json": "e68136a014fe131b4d028df4dbf4a20cf87b198575f3a46c1fac554392c5710a",
+          "original_segment_object": {
+            "start": 231.54,
+            "end": 233.12,
+            "text": "那么这些照片也很有质感",
+            "avg_logprob": -0.07744040136638376,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00142"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-gameshengjing-005",
+          "sid": "S00143",
+          "start": 233.12,
+          "end": 233.76,
+          "text": "很有趣",
+          "original_segment_sha256_canonical_json": "49db89ccc1fd138847866b63f0ca09046dc3073ca42f2feadc86c3e8f4190e4d",
+          "original_segment_object": {
+            "start": 233.12,
+            "end": 233.76,
+            "text": "很有趣",
+            "avg_logprob": -0.07744040136638376,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00143"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-gameshengjing-005",
+          "sid": "S00144",
+          "start": 233.76,
+          "end": 237.2,
+          "text": "那么我的态度很有可能会立马180度大转弯",
+          "original_segment_sha256_canonical_json": "cae8572498c44eb2c56e6416207c19ae369d0dbde015a1684f1ebe57151f0689",
+          "original_segment_object": {
+            "start": 233.76,
+            "end": 237.2,
+            "text": "那么我的态度很有可能会立马180度大转弯",
+            "avg_logprob": -0.07744040136638376,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00144"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-gameshengjing-005",
+          "sid": "S00145",
+          "start": 237.2,
+          "end": 238.78,
+          "text": "那么大家本质上都一样",
+          "original_segment_sha256_canonical_json": "6f731b174d6be56f9054408af7486cb91157d774f5e77fc4183e408affbb52d3",
+          "original_segment_object": {
+            "start": 237.2,
+            "end": 238.78,
+            "text": "那么大家本质上都一样",
+            "avg_logprob": -0.07744040136638376,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00145"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-gameshengjing-005",
+          "sid": "S00146",
+          "start": 238.78,
+          "end": 240.12,
+          "text": "人性就是如此",
+          "original_segment_sha256_canonical_json": "29def937f5a9d81da7f89dccd89224cce232beeb1242421243146e92447ce772",
+          "original_segment_object": {
+            "start": 238.78,
+            "end": 240.12,
+            "text": "人性就是如此",
+            "avg_logprob": -0.07744040136638376,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00146"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-gameshengjing-005",
+          "sid": "S00147",
+          "start": 240.12,
+          "end": 242.02,
+          "text": "所以当你抱怨聊天累的时候",
+          "original_segment_sha256_canonical_json": "30e3c82447c5b34209d324b3a7e3d01627000703b840e26eb078998afcc80e3c",
+          "original_segment_object": {
+            "start": 240.12,
+            "end": 242.02,
+            "text": "所以当你抱怨聊天累的时候",
+            "avg_logprob": -0.07744040136638376,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00147"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-gameshengjing-005",
+          "sid": "S00148",
+          "start": 242.02,
+          "end": 242.94,
+          "text": "你要不先看看",
+          "original_segment_sha256_canonical_json": "9acaea01a6e07e70ca44accac621927bbdbd1ad2f0afd81047a233190eb04d89",
+          "original_segment_object": {
+            "start": 242.02,
+            "end": 242.94,
+            "text": "你要不先看看",
+            "avg_logprob": -0.07744040136638376,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00148"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-gameshengjing-005",
+          "sid": "S00149",
+          "start": 242.94,
+          "end": 245.0,
+          "text": "是什么导致你聊天累",
+          "original_segment_sha256_canonical_json": "b7e7e2c7f1c40aaeda2b22e17faa97cc78c48a3af6157ab780ff7ccf0cf12a5e",
+          "original_segment_object": {
+            "start": 242.94,
+            "end": 245.0,
+            "text": "是什么导致你聊天累",
+            "avg_logprob": -0.07744040136638376,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00149"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-gameshengjing-005",
+          "sid": "S00150",
+          "start": 245.0,
+          "end": 247.52,
+          "text": "那么我相信80%都不是你不会聊",
+          "original_segment_sha256_canonical_json": "5baffb3a5e4680955bcb03b631b5ddbbadcdafdb1d2a94a1ea45ef74032c1960",
+          "original_segment_object": {
+            "start": 245.0,
+            "end": 247.52,
+            "text": "那么我相信80%都不是你不会聊",
+            "avg_logprob": -0.07744040136638376,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00150"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        },
+        {
+          "source_id": "mikey-gameshengjing-005",
+          "sid": "S00151",
+          "start": 247.52,
+          "end": 249.96,
+          "text": "是你的朋友圈展示面首先就不过关",
+          "original_segment_sha256_canonical_json": "7a5fa07c28d26ea29c0b4a1956f4fb4b9ab765f65c546427943559e37b4fc6c9",
+          "original_segment_object": {
+            "start": 247.52,
+            "end": 249.96,
+            "text": "是你的朋友圈展示面首先就不过关",
+            "avg_logprob": -0.07744040136638376,
+            "no_speech_prob": 0.0,
+            "segment_id": "S00151"
+          },
+          "usage": "research_source_context_only_no_permission_added"
+        }
+      ],
+      "excerpt_sha256_canonical_json": "ccfef7a801af1e5d61233d188b4db3527e1a565b03498799f24075d346004bf9"
+    }
+  ]
+}

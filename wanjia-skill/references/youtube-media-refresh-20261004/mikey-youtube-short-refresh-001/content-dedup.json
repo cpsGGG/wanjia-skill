@@ -1,0 +1,61 @@
+{
+  "schema_version": "pro-complete-dedup-retention-1.0",
+  "source_id": "mikey-youtube-short-refresh-001",
+  "decision": "theme_related_only_visual_identity_unproved",
+  "reuse_relationship": {
+    "decision": "theme_related_only_visual_identity_unproved",
+    "canonical_source_ids": [],
+    "independent_story_weight": 0,
+    "related_sources": [
+      "mikey-youtube-live-refresh-002",
+      "quark-live-048"
+    ],
+    "reported_theme_anchors": [
+      {
+        "source_id": "mikey-youtube-live-refresh-002",
+        "sid_start": "S00991",
+        "sid_end": "S01094",
+        "start_seconds": 1751.54,
+        "end_seconds": 1917.28,
+        "reported_actual_segments_read": 104,
+        "relation": "旧源讨论观众跨平台识别与分平台称呼；只支持备忘录主题关联。",
+        "input_file": "dedup-supplement-safe.json",
+        "input_json_pointer": "/sources/1/content_dedup/best_semantic_prior_candidate"
+      },
+      {
+        "source_id": "quark-live-048",
+        "sid_start": "S02295",
+        "sid_end": "S02358",
+        "start_seconds": 5662.48,
+        "end_seconds": 5769.15,
+        "reported_actual_segments_read": 64,
+        "relation": "旧案例报告用MCN工作解释身份；只是身份管理主题相关。",
+        "input_file": "dedup-supplement-safe.json",
+        "input_json_pointer": "/sources/1/content_dedup/additional_related_readback"
+      }
+    ],
+    "reported_fulltext_screen": {
+      "source_records": 510,
+      "segments": 332901
+    },
+    "visual_dedup_status": "NOT_EXHAUSTIVE_NO_CONFIRMED_SCREENSHOT_OR_PARTICIPANT_MATCH",
+    "unresolved_visual_containment": "No exhaustive 324-community-image or old-video-pixel comparison; do not claim exact screenshot identity or confirmed novelty.",
+    "asr_dedup_limits": "两段背景音样式ASR的14字原计数无匹配，不能作为截图故事内容指纹；本轮安全字数也不能拿来替代原计数。",
+    "not_merged_with_long_video_case": true,
+    "new_knowledge_decision_this_review": "ZERO_NEW_FORMAL_METHODS_THEME_REEXPRESSION_AND_VISUAL_CONTEXT_ONLY",
+    "reasons": [
+      "已有跨平台称呼主题对应，但未证明同一截图或当事人。",
+      "画面给的是选择后的过程与红字解释，没有新增可独立执行／检验的完整方法。",
+      "两段ASR不能归为Mikey；尾部没有语音稿仍可能有内容。"
+    ]
+  },
+  "input_resource_map": {
+    "complete-safe-input.json": "references/youtube-media-refresh-20261004/shared-inputs/complete-safe-input.json",
+    "attribution-addendum.json": "references/youtube-media-refresh-20261004/shared-inputs/attribution-addendum.json",
+    "dedup-supplement-safe.json": "references/youtube-media-refresh-20261004/shared-inputs/dedup-supplement-safe.json"
+  },
+  "independent_story_weight": 0,
+  "new_knowledge_candidates": [],
+  "canonical_source_ids": [],
+  "original_pro_artifact_sha256": "a941d5c6aa858c6020fa80d7e058fa1bd09d010881023dee41b93f92e8ed3822"
+}

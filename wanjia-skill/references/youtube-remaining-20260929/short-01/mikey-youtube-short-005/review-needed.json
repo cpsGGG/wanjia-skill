@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-005",
+  "youtube_id": "7oqg4ft8AGs",
+  "review_completed": true,
+  "items": [
+    {"review_id": "s005-r01", "severity": "blocking", "category": "duplicate", "issue": "The Short is an excerpt of formal source Gs467Dozs3w.", "affected_evidence": ["whole source"], "disposition": "Reuse with weight 0; do not count as independent corroboration."},
+    {"review_id": "s005-r02", "severity": "major", "category": "medical_language_asr", "issue": "S00016 is misrecognized as a treatment phrase and could be mistaken for mental-health advice.", "affected_evidence": ["S00016@34.38-38.36"], "disposition": "Paraphrase only as a personal approach to fear; do not present as diagnosis or treatment."}
+  ]
+}

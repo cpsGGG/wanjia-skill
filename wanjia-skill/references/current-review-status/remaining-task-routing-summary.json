@@ -1,0 +1,75 @@
+{
+  "status": "COMPLETE_3746_RECORD_AND_EVIDENCE_ROUTING_INDEX_NOT_NEW_WHOLE_CORPUS_SEMANTIC_AUDIT",
+  "original_task_records": 3746,
+  "original_task_ids_unique": 3746,
+  "source_records_with_original_tasks": 303,
+  "original_task_counts_are_not_wrong_sentence_counts": true,
+  "full_original_task_closures": 0,
+  "original_effective_status_counts": {
+    "open_no_confirmed_closure": 3485,
+    "partial": 11,
+    "open_existing_disposition": 249,
+    "open": 1
+  },
+  "existing_108_decision_records": 108,
+  "existing_decisions_reaudited": 0,
+  "user_deleted_original_sources_location_question_closed": 100,
+  "source_availability_groups_snapshot_counts": {
+    "original_av_present": 111,
+    "static_evidence_only": 163,
+    "full_audio_with_limited_visual_evidence": 20,
+    "partial_continuous_av_only": 8,
+    "degraded_full_audio_with_partial_visual_evidence": 1
+  },
+  "task_counts_by_source_availability_snapshot": {
+    "original_av_present": 1471,
+    "static_evidence_only": 2010,
+    "full_audio_with_limited_visual_evidence": 207,
+    "partial_continuous_av_only": 54,
+    "degraded_full_audio_with_partial_visual_evidence": 4
+  },
+  "task_records_on_user_deleted_original_sources": 1336,
+  "structural_requirement_counts_multilabel": {
+    "question_specific_requirement_preserved_not_reclassified": 2668,
+    "audio_verification": 585,
+    "image_or_visual_verification": 364,
+    "speaker_identity": 41,
+    "continuous_game_visuals": 19,
+    "medical_or_clinical_validity": 5,
+    "third_party_verification": 3,
+    "semantic_non_independence": 5,
+    "continuous_visual_verification": 2,
+    "privacy_or_authorization": 22,
+    "dedup_or_reuse": 42,
+    "consent_boundary": 3,
+    "editorial_attribution": 1,
+    "real_effect_verification": 4,
+    "time_alignment": 7,
+    "missing_parent_context": 5,
+    "semantic_novelty": 2
+  },
+  "role": "mechanical_record_and_evidence_routing_not_new_semantic_audit",
+  "index_sha256": "1ded7ce110ef609b869a32bb6becd7c198e9eab445a43abcc910b2d14ad6039d",
+  "limits": [
+    "3746是原待核任务数，不是错误句数；本轮没有逐项重审全部原任务。",
+    "结构路由保留原作者分类/要求字段；多标签不相加，未分类的具体问题不靠关键词判结。",
+    "111原片存在不等于听校；静帧/代理不证明原动作连续或说话人实名。",
+    "108旧决策仅索引已审范围，不重新语义审核，不把有限子条许可传给父条或原待核。",
+    "全量私人制作索引不作为外部运行依赖；当前问题须回到包内原任务、原稿与现有处置。"
+  ],
+  "other_scopes": {
+    "separate_records": 410,
+    "original_plus_other_record_union": 4156,
+    "summary_path": "references/current-review-status/extra-scope-summary.json",
+    "scope_counts": {
+      "audio_correction_layer": 27,
+      "supplemental_report_followup": 37,
+      "research_external_checklist": 200,
+      "excluded_asr_segment": 131,
+      "nested_review_subitem": 13,
+      "existing_solved_reference": 2
+    },
+    "not_an_error_count": true,
+    "not_extra_410_original_tasks": true
+  }
+}

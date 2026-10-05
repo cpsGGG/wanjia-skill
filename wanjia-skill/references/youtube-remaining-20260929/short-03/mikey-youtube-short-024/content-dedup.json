@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-024",
+  "youtube_id": "d8xHM4XCRQw",
+  "decision": "reuse",
+  "reuse_of": "mikey-youtube-live-024",
+  "formal_weight_if_integrated": 0,
+  "compared_sources": [
+    {
+      "scope": "formal_mikey_guide",
+      "source_count": 202,
+      "comparison": "YouTube identity, distinctive phrase search and ordered transcript alignment"
+    },
+    {
+      "scope": "video-01_to_video-05_short-01_to_short-02_and_short-03_known_items",
+      "comparison": "YouTube identity, normalized transcript phrase and semantic screen"
+    },
+    {
+      "scope": "targeted_formal_source",
+      "source_id": "mikey-youtube-live-024",
+      "comparison": "ordered excerpt alignment against 1172.70-1288.52 seconds"
+    }
+  ],
+  "evidence": [
+    {
+      "type": "identity",
+      "result": "no_exact_id_or_url_match"
+    },
+    {
+      "type": "content_alignment",
+      "result": "reuse_confirmed",
+      "formal_source_id": "mikey-youtube-live-024",
+      "formal_evidence": "1172.70-1288.52",
+      "basis": "The parent has the same ordered passage from the prompt about cultivating strong behavioral cues through the explanation of looks, weak cues and attribution of failure."
+    },
+    {
+      "type": "visual",
+      "result": "single_studio_speaker",
+      "basis": "All 39 sampled frames show the same speaker in one studio setup; no separate case, woman, or outcome is shown."
+    }
+  ],
+  "boundary": "Treat as an excerpt reuse of formal mikey-youtube-live-024. Assign zero source and knowledge weight and retain the parent's restrictions."
+}

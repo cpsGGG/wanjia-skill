@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-041",
+  "youtube_id": "o65H-5O2EsQ",
+  "review_completed": true,
+  "items": [
+    {"review_id": "s041-r01", "severity": "major", "category": "speaker_attribution", "issue": "The male camera-holder is not independently identified as Mikey, and the two women's short turns cannot always be mapped individually.", "affected_evidence": ["whole source"], "disposition": "Use generic speaker labels and disable first-person use."},
+    {"review_id": "s041-r02", "severity": "blocking", "category": "consent_and_outcome", "issue": "Phone handling is visible, but a saved WeChat contact, informed filming consent and later reciprocal contact are not established.", "affected_evidence": ["visual/dense-1s/000008.jpg-visual/dense-1s/000020.jpg"], "disposition": "Describe only the observed handling and keep all success or consent inferences out."},
+    {"review_id": "s041-r03", "severity": "major", "category": "asr_accuracy", "issue": "S00002-S00006 are materially garbled relative to the burned subtitles.", "affected_evidence": ["S00002-S00006@1.76-7.56"], "disposition": "Use only the broad visually supported sequence; do not quote the automatic text as exact speech."},
+    {"review_id": "s041-r04", "severity": "major", "category": "privacy", "issue": "Two women are clearly identifiable in public footage.", "affected_evidence": ["all sampled and dense frames"], "disposition": "Require privacy review or redaction before packaging imagery outside the research archive."},
+    {"review_id": "s041-r05", "severity": "major", "category": "identity_status", "issue": "The upload title describes the women as university students, but no reviewed speech or frame establishes that status.", "affected_evidence": ["source title", "whole source"], "disposition": "Keep ‘university student’ only as unverified title metadata and do not use it as a factual case attribute."}
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-014",
+  "youtube_id": "CMpHMvwuZRI",
+  "review_completed": true,
+  "items": [
+    {
+      "review_id": "s014-r01",
+      "severity": "blocking",
+      "category": "gender_stereotype",
+      "issue": "The opening makes explicit, derogatory generalizations about women.",
+      "affected_evidence": [
+        "S00002-S00014"
+      ],
+      "disposition": "Do not generalize or reproduce as advice."
+    },
+    {
+      "review_id": "s014-r02",
+      "severity": "blocking",
+      "category": "predatory_metaphor",
+      "issue": "The closing frames women as prey to be taken by a hunter.",
+      "affected_evidence": [
+        "S00037-S00045"
+      ],
+      "disposition": "Do not operationalize; require mutual interest, transparency and consent."
+    },
+    {
+      "review_id": "s014-r03",
+      "severity": "major",
+      "category": "asr_tail",
+      "issue": "S00046-S00047 overrun the media endpoint.",
+      "affected_evidence": [
+        "S00046-S00047"
+      ],
+      "disposition": "Exclude them from timeline and claims."
+    },
+    {
+      "review_id": "s014-r04",
+      "severity": "major",
+      "category": "source_reuse",
+      "issue": "The passage already exists in formal live-028.",
+      "affected_evidence": [
+        "whole source"
+      ],
+      "disposition": "Keep formal weight at zero."
+    }
+  ]
+}

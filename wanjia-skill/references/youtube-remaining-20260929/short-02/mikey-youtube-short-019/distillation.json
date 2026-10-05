@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-019",
+  "youtube_id": "1mleRuRP_78",
+  "title": "不要为了结果去说一些违心的话…",
+  "coverage": {
+    "transcript_segments_read": 75,
+    "transcript_time_range_seconds": [0.0, 137.58],
+    "media_duration_seconds": 138.08907,
+    "sampled_frames_reviewed": 46,
+    "dense_frames_reviewed": 0,
+    "continuous_original_audio_visual_review": false
+  },
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 42.91,
+      "summary": "Mikey criticizes pretending to share a woman's interests solely to obtain a romantic or sexual result. He argues that this reveals neediness and invites an unequal dynamic.",
+      "evidence": ["S00001-S00031@0.00-42.91", "visual/sampled/000001.jpg-000014.jpg"]
+    },
+    {
+      "start": 42.91,
+      "end": 84.36,
+      "summary": "He says one should not say things against one's convictions merely to succeed, and that he would rather accept failure than please someone dishonestly. The point is delivered with degrading insults and absolute causal claims.",
+      "evidence": ["S00032-S00056@42.91-84.36", "visual/sampled/000015.jpg-000028.jpg"]
+    },
+    {
+      "start": 84.36,
+      "end": 109.08,
+      "summary": "He describes his own messaging style: he usually does not study a woman's social feed for topics and instead asks directly what she is doing, while acknowledging that looking at the feed can be acceptable.",
+      "evidence": ["S00057-S00067@84.36-109.08", "visual/sampled/000029.jpg-000036.jpg"]
+    },
+    {
+      "start": 109.08,
+      "end": 137.58,
+      "summary": "After an editorial cut, he adds that people should cultivate composure, emotional restraint and control over themselves, framing these traits as part of his leadership model.",
+      "evidence": ["S00068-S00075@109.08-137.58", "visual/sampled/000037.jpg-000046.jpg"]
+    }
+  ],
+  "claims": [
+    {
+      "claim_id": "s019-c01",
+      "speaker": "Mikey; exact formal-source reuse and single-speaker visual continuity",
+      "statement": "He argues that feigning interests to gain a romantic or sexual result sacrifices authenticity and communicates approval-seeking.",
+      "conditions": "The useful distinction is between sincere curiosity and strategic agreement against one's actual views. His assertion that women always detect this is not established as fact.",
+      "evidence": ["S00001-S00031@0.00-42.91", "quark-live-046:S01120-S01150@3451.02-3497.32"],
+      "use_level": "hold",
+      "knowledge_status": "formal_reuse_zero_weight"
+    },
+    {
+      "claim_id": "s019-c02",
+      "speaker": "Mikey",
+      "statement": "He would rather accept a failed interaction than obtain a result by saying things he does not believe or by ingratiating himself.",
+      "conditions": "This can describe a personal boundary around honesty, but the accompanying claim that pleasing behavior guarantees failure and the dehumanizing insults must not be retained as general truths.",
+      "evidence": ["S00032-S00056@42.91-84.36", "quark-live-046:S01151-S01176@3497.32-3538.92"],
+      "use_level": "hold",
+      "knowledge_status": "formal_reuse_zero_weight"
+    },
+    {
+      "claim_id": "s019-c03",
+      "speaker": "Mikey",
+      "statement": "His stated personal messaging style is to ask directly what the other person is doing instead of researching her social feed for a tailored topic.",
+      "conditions": "He explicitly says checking the feed can also be acceptable; his own low-effort style is a preference, not a universal rule or evidence of superior outcomes.",
+      "evidence": ["S00057-S00067@84.36-109.08", "quark-live-046:S01177-S01188@3538.92-3570.12"],
+      "use_level": "context_only",
+      "knowledge_status": "formal_reuse_zero_weight"
+    },
+    {
+      "claim_id": "s019-c04",
+      "speaker": "Mikey",
+      "statement": "He links leadership with staying calm, restrained and in control of one's own reactions.",
+      "conditions": "Self-regulation is the supported content of this excerpt. It does not justify controlling another person or suppressing all emotion.",
+      "evidence": ["S00068-S00075@109.08-137.58", "quark-live-046:S01234-S01248@3676.00-3703.64"],
+      "use_level": "hold",
+      "knowledge_status": "formal_reuse_zero_weight"
+    }
+  ],
+  "visual_findings": [
+    "All 46 sampled frames were reviewed and show Mikey alone at a microphone in one studio setup with burned-in subtitles.",
+    "The visual presentation contains editorial cuts but no chat screenshot, demonstration, second speaker or independent outcome evidence.",
+    "The subtitles corroborate the broad transcript structure; exact wording still rests on automatic transcription and was not audio-checked."
+  ],
+  "permissions": {
+    "formal_integration": false,
+    "first_person_allowed": false,
+    "action_advice_allowed": false,
+    "formal_weight_if_integrated": 0,
+    "knowledge_status": "formal_reuse_zero_weight_pending_batch_review",
+    "reason": "The Short is fully derivative of quark-live-046 and includes sexual-objectifying, dehumanizing and absolute relationship claims."
+  },
+  "limitations": [
+    "The automatic transcript was not sentence-by-sentence listened and corrected.",
+    "The edit removes the intermediate livestream case context between the direct-message example and the self-control section.",
+    "Sparse frame review is not continuous audiovisual review and supplies no causal evidence for the claimed outcomes."
+  ]
+}

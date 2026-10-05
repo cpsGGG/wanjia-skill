@@ -1,0 +1,359 @@
+{
+  "schema_version": "source-reuse-ledger-1.0",
+  "generated_date": "2026-09-18",
+  "scope": "mikey-youtube-live-011..020 versus current formal 173-source index and batch1",
+  "formal_source_count": 173,
+  "new_source_count": 10,
+  "result_counts": {
+    "unique": 10,
+    "reuse": 0,
+    "suspected": 0
+  },
+  "method": [
+    "精确比对YouTube video_id/URL、批内与batch1完整源SHA-256。",
+    "对正式173来源和本批完整自动稿做规范化全文SHA-256与连续40字符窗比对。",
+    "并入39条公开直播对夸克51期和本地首批10期的全时长故事板查重结论。",
+    "标题或时长接近只记录候选，不单独判复用。"
+  ],
+  "rows": [
+    {
+      "source_id": "mikey-youtube-live-011",
+      "livestream_number": 47,
+      "video_id": "QKKXbO1JYmw",
+      "youtube_url": "https://www.youtube.com/watch?v=QKKXbO1JYmw",
+      "title": "直播47：什么是潜沟通？约会迅速吸引女人的关键 直播拆解 现场演示",
+      "duration_seconds": 4525.081542,
+      "source_sha256": "0ebd0be2e7729baa597b7825ed003094b080ba9c837611e4fca78052ecf2b2e2",
+      "normalized_transcript_sha256": "910e51f985c0e1d9ab20f30b084cdd69dfa44ef439638b18979cd961bb4c9f45",
+      "normalized_char_count": 17647,
+      "formal_exact_identity_match": false,
+      "normalized_fulltext_matches": [],
+      "continuous_40char_matches": [],
+      "nearest_formal_duration_candidate": {
+        "source_id": "quark-live-019",
+        "delta_seconds": 12.458458
+      },
+      "prior_visual_duplicate_audit": "no_duplicate_high_confidence",
+      "content_form": "single_host_livestream_or_qa",
+      "speaker_attribution_risk": "ordinary_live_attribution_review",
+      "status": "unique",
+      "primary_source_id": null,
+      "formal_weight_recommendation": 1,
+      "rationale": "未发现相同video ID/URL、源SHA、规范化全文、连续40字符窗或既有故事板重复。",
+      "limits": [
+        "SHA-256 uniqueness excludes byte-identical files but not all differently encoded copies.",
+        "The prior storyboard audits strongly reject visual duplicates but cannot rule out audio-only reuse with entirely replaced visuals.",
+        "The gameplay classification is based on sparse visual checkpoints, not continuous viewing or completed speaker diarization.",
+        "The normalized-text audit covers exact full-text equality and exact continuous 40-character windows; shorter paraphrase, translated reuse, or heavily edited retellings can still exist."
+      ]
+    },
+    {
+      "source_id": "mikey-youtube-live-012",
+      "livestream_number": 49,
+      "video_id": "bbe08PDyOts",
+      "youtube_url": "https://www.youtube.com/watch?v=bbe08PDyOts",
+      "title": "直播49： 两性情感 泡妞 搭讪 约会丨搭訕玩家TV",
+      "duration_seconds": 3646.972517,
+      "source_sha256": "01c95508eadd6fb6cb2462bdcc7fb88241a163bf279562a8072dc200a8b449b3",
+      "normalized_transcript_sha256": "e814cd1dfb5ce598db976cb45b9a74ee87787d60fa2807a89e4992867ca375d2",
+      "normalized_char_count": 14840,
+      "formal_exact_identity_match": false,
+      "normalized_fulltext_matches": [],
+      "continuous_40char_matches": [],
+      "nearest_formal_duration_candidate": {
+        "source_id": "quark-live-028",
+        "delta_seconds": 6.982517
+      },
+      "prior_visual_duplicate_audit": "no_duplicate_high_confidence",
+      "content_form": "single_host_livestream_or_qa",
+      "speaker_attribution_risk": "ordinary_live_attribution_review",
+      "status": "unique",
+      "primary_source_id": null,
+      "formal_weight_recommendation": 1,
+      "rationale": "未发现相同video ID/URL、源SHA、规范化全文、连续40字符窗或既有故事板重复。",
+      "limits": [
+        "SHA-256 uniqueness excludes byte-identical files but not all differently encoded copies.",
+        "The prior storyboard audits strongly reject visual duplicates but cannot rule out audio-only reuse with entirely replaced visuals.",
+        "The gameplay classification is based on sparse visual checkpoints, not continuous viewing or completed speaker diarization.",
+        "The normalized-text audit covers exact full-text equality and exact continuous 40-character windows; shorter paraphrase, translated reuse, or heavily edited retellings can still exist."
+      ]
+    },
+    {
+      "source_id": "mikey-youtube-live-013",
+      "livestream_number": 50,
+      "video_id": "gkqsEuTD1Mo",
+      "youtube_url": "https://www.youtube.com/watch?v=gkqsEuTD1Mo",
+      "title": "直播50： 两性情感 泡妞 搭讪 约会丨搭訕玩家TV",
+      "duration_seconds": 4584.733605,
+      "source_sha256": "b62466b195c27f558ea443141d79b0f5606a41f1124d2eb736e5132ab6276c9a",
+      "normalized_transcript_sha256": "709822fef0081ca28c56ec0a4171abac22bfd91b2bf15e0d1c331dec97d1a7b7",
+      "normalized_char_count": 16808,
+      "formal_exact_identity_match": false,
+      "normalized_fulltext_matches": [],
+      "continuous_40char_matches": [],
+      "nearest_formal_duration_candidate": {
+        "source_id": "mikey-youtube-live-001",
+        "delta_seconds": 18.877823
+      },
+      "prior_visual_duplicate_audit": "no_duplicate_high_confidence",
+      "content_form": "single_host_livestream_or_qa",
+      "speaker_attribution_risk": "ordinary_live_attribution_review",
+      "status": "unique",
+      "primary_source_id": null,
+      "formal_weight_recommendation": 1,
+      "rationale": "未发现相同video ID/URL、源SHA、规范化全文、连续40字符窗或既有故事板重复。",
+      "limits": [
+        "SHA-256 uniqueness excludes byte-identical files but not all differently encoded copies.",
+        "The prior storyboard audits strongly reject visual duplicates but cannot rule out audio-only reuse with entirely replaced visuals.",
+        "The gameplay classification is based on sparse visual checkpoints, not continuous viewing or completed speaker diarization.",
+        "The normalized-text audit covers exact full-text equality and exact continuous 40-character windows; shorter paraphrase, translated reuse, or heavily edited retellings can still exist."
+      ]
+    },
+    {
+      "source_id": "mikey-youtube-live-014",
+      "livestream_number": 53,
+      "video_id": "e1PGzzbFcf8",
+      "youtube_url": "https://www.youtube.com/watch?v=e1PGzzbFcf8",
+      "title": "直播53： 如何约会高价值女生 丨搭訕玩家TV",
+      "duration_seconds": 3845.06195,
+      "source_sha256": "38d288fd32672dd235cc6d5c5f185ae00182483d9daa5be977e47fd10b5e4d20",
+      "normalized_transcript_sha256": "c8bfbd08321e3d38f5bbef3287351df08732b4dd47e82a55754d402251a1625e",
+      "normalized_char_count": 13256,
+      "formal_exact_identity_match": false,
+      "normalized_fulltext_matches": [],
+      "continuous_40char_matches": [],
+      "nearest_formal_duration_candidate": {
+        "source_id": "quark-live-050",
+        "delta_seconds": 5.38195
+      },
+      "prior_visual_duplicate_audit": "no_duplicate_high_confidence",
+      "content_form": "single_host_livestream_or_qa",
+      "speaker_attribution_risk": "ordinary_live_attribution_review",
+      "status": "unique",
+      "primary_source_id": null,
+      "formal_weight_recommendation": 1,
+      "rationale": "未发现相同video ID/URL、源SHA、规范化全文、连续40字符窗或既有故事板重复。",
+      "limits": [
+        "SHA-256 uniqueness excludes byte-identical files but not all differently encoded copies.",
+        "The prior storyboard audits strongly reject visual duplicates but cannot rule out audio-only reuse with entirely replaced visuals.",
+        "The gameplay classification is based on sparse visual checkpoints, not continuous viewing or completed speaker diarization.",
+        "The normalized-text audit covers exact full-text equality and exact continuous 40-character windows; shorter paraphrase, translated reuse, or heavily edited retellings can still exist."
+      ]
+    },
+    {
+      "source_id": "mikey-youtube-live-015",
+      "livestream_number": 54,
+      "video_id": "hQaBcP15E-E",
+      "youtube_url": "https://www.youtube.com/watch?v=hQaBcP15E-E",
+      "title": "直播54： 泡妞问题，直播答疑 丨搭訕玩家TV",
+      "duration_seconds": 3685.076463,
+      "source_sha256": "db00053a89885749e0ec7f1e482807aa2cbdc2d0d04ebbd84176f0537ede6b16",
+      "normalized_transcript_sha256": "d1578cfafb90061d229540cfaa13fff6654ff185cfecff02235aad11de4d271e",
+      "normalized_char_count": 13123,
+      "formal_exact_identity_match": false,
+      "normalized_fulltext_matches": [],
+      "continuous_40char_matches": [],
+      "nearest_formal_duration_candidate": {
+        "source_id": "quark-live-034",
+        "delta_seconds": 11.863537
+      },
+      "prior_visual_duplicate_audit": "no_duplicate_high_confidence",
+      "content_form": "single_host_livestream_or_qa",
+      "speaker_attribution_risk": "ordinary_live_attribution_review",
+      "status": "unique",
+      "primary_source_id": null,
+      "formal_weight_recommendation": 1,
+      "rationale": "未发现相同video ID/URL、源SHA、规范化全文、连续40字符窗或既有故事板重复。",
+      "limits": [
+        "SHA-256 uniqueness excludes byte-identical files but not all differently encoded copies.",
+        "The prior storyboard audits strongly reject visual duplicates but cannot rule out audio-only reuse with entirely replaced visuals.",
+        "The gameplay classification is based on sparse visual checkpoints, not continuous viewing or completed speaker diarization.",
+        "The normalized-text audit covers exact full-text equality and exact continuous 40-character windows; shorter paraphrase, translated reuse, or heavily edited retellings can still exist."
+      ]
+    },
+    {
+      "source_id": "mikey-youtube-live-016",
+      "livestream_number": 57,
+      "video_id": "XtOuBx0no_w",
+      "youtube_url": "https://www.youtube.com/watch?v=XtOuBx0no_w",
+      "title": "直播57： 近期实战案例分享，直播答疑  泡妞 搭讪 约会丨搭訕玩家TV",
+      "duration_seconds": 4300.056961,
+      "source_sha256": "25cb7f90ab20e1d77ab62dfa1ae5b1a9ef3770cc0fc272b89d3da499e574d0a8",
+      "normalized_transcript_sha256": "f69bfd480cfb876987746ebcd55e69b6ba21b3a0e43ee0742e9048bcbcfe0304",
+      "normalized_char_count": 15581,
+      "formal_exact_identity_match": false,
+      "normalized_fulltext_matches": [],
+      "continuous_40char_matches": [],
+      "nearest_formal_duration_candidate": {
+        "source_id": "mikey-practice-011",
+        "delta_seconds": 37.523968
+      },
+      "prior_visual_duplicate_audit": "no_duplicate_high_confidence",
+      "content_form": "single_host_livestream_or_qa",
+      "speaker_attribution_risk": "ordinary_live_attribution_review",
+      "status": "unique",
+      "primary_source_id": null,
+      "formal_weight_recommendation": 1,
+      "rationale": "未发现相同video ID/URL、源SHA、规范化全文、连续40字符窗或既有故事板重复。",
+      "limits": [
+        "SHA-256 uniqueness excludes byte-identical files but not all differently encoded copies.",
+        "The prior storyboard audits strongly reject visual duplicates but cannot rule out audio-only reuse with entirely replaced visuals.",
+        "The gameplay classification is based on sparse visual checkpoints, not continuous viewing or completed speaker diarization.",
+        "The normalized-text audit covers exact full-text equality and exact continuous 40-character windows; shorter paraphrase, translated reuse, or heavily edited retellings can still exist."
+      ]
+    },
+    {
+      "source_id": "mikey-youtube-live-017",
+      "livestream_number": 58,
+      "video_id": "m9UNQmf2Sf8",
+      "youtube_url": "https://www.youtube.com/watch?v=m9UNQmf2Sf8",
+      "title": "直播58：试玩《捞女游戏》Mikey实况直播  丨搭訕玩家TV",
+      "duration_seconds": 10710.064762,
+      "source_sha256": "7342cc1c4751df5243f16fff0fccd00c8ae04825b2d733e19bea26b9ab6319ba",
+      "normalized_transcript_sha256": "c0a70468c23e66135a4ab0a2db345a3073b5de286aa6792ba82f0e586b36ed26",
+      "normalized_char_count": 23238,
+      "formal_exact_identity_match": false,
+      "normalized_fulltext_matches": [],
+      "continuous_40char_matches": [],
+      "nearest_formal_duration_candidate": {
+        "source_id": "quark-live-007",
+        "delta_seconds": 620.955238
+      },
+      "prior_visual_duplicate_audit": "no_duplicate_high_confidence",
+      "content_form": "gameplay_dominant_with_mikey_facecam_and_live_chat_overlay",
+      "speaker_attribution_risk": "critical",
+      "status": "unique",
+      "primary_source_id": null,
+      "formal_weight_recommendation": 1,
+      "rationale": "未发现相同video ID/URL、源SHA、规范化全文、连续40字符窗或既有故事板重复。",
+      "limits": [
+        "SHA-256 uniqueness excludes byte-identical files but not all differently encoded copies.",
+        "The prior storyboard audits strongly reject visual duplicates but cannot rule out audio-only reuse with entirely replaced visuals.",
+        "The gameplay classification is based on sparse visual checkpoints, not continuous viewing or completed speaker diarization.",
+        "The normalized-text audit covers exact full-text equality and exact continuous 40-character windows; shorter paraphrase, translated reuse, or heavily edited retellings can still exist."
+      ]
+    },
+    {
+      "source_id": "mikey-youtube-live-018",
+      "livestream_number": 59,
+      "video_id": "RQ9O4As_1A0",
+      "youtube_url": "https://www.youtube.com/watch?v=RQ9O4As_1A0",
+      "title": "直播59：《捞女游戏》Mikey实况直播第二期  丨搭訕玩家TV",
+      "duration_seconds": 12593.853243,
+      "source_sha256": "57319c5deec0c333b258474a4c1949f0fee93b8b00271251b552af443726f8fe",
+      "normalized_transcript_sha256": "8d12f2ecf67e0885eb7cae439fe3f24cab95ba45ab627ace8fdaeb2be0e02658",
+      "normalized_char_count": 25091,
+      "formal_exact_identity_match": false,
+      "normalized_fulltext_matches": [],
+      "continuous_40char_matches": [],
+      "nearest_formal_duration_candidate": {
+        "source_id": "quark-live-007",
+        "delta_seconds": 1262.833243
+      },
+      "prior_visual_duplicate_audit": "no_duplicate_high_confidence",
+      "content_form": "gameplay_dominant_with_mikey_facecam_and_live_chat_overlay",
+      "speaker_attribution_risk": "critical",
+      "status": "unique",
+      "primary_source_id": null,
+      "formal_weight_recommendation": 1,
+      "rationale": "未发现相同video ID/URL、源SHA、规范化全文、连续40字符窗或既有故事板重复。",
+      "limits": [
+        "SHA-256 uniqueness excludes byte-identical files but not all differently encoded copies.",
+        "The prior storyboard audits strongly reject visual duplicates but cannot rule out audio-only reuse with entirely replaced visuals.",
+        "The gameplay classification is based on sparse visual checkpoints, not continuous viewing or completed speaker diarization.",
+        "The normalized-text audit covers exact full-text equality and exact continuous 40-character windows; shorter paraphrase, translated reuse, or heavily edited retellings can still exist."
+      ]
+    },
+    {
+      "source_id": "mikey-youtube-live-019",
+      "livestream_number": 61,
+      "video_id": "Mkg_9tSudJY",
+      "youtube_url": "https://www.youtube.com/watch?v=Mkg_9tSudJY",
+      "title": "直播61： 近期实战案例分享，直播答疑  泡妞 搭讪 约会丨搭訕玩家TV",
+      "duration_seconds": 4080.047891,
+      "source_sha256": "e1f8502ac4a4ec20ea850335e0256d4d1baa612ed2c5020b5ddb94fa55d1bc42",
+      "normalized_transcript_sha256": "16d3d0f2f0be063930935a60c306c2cb4ccc456c6c5c95f01a867bd0109870d6",
+      "normalized_char_count": 11460,
+      "formal_exact_identity_match": false,
+      "normalized_fulltext_matches": [],
+      "continuous_40char_matches": [],
+      "nearest_formal_duration_candidate": {
+        "source_id": "quark-live-051",
+        "delta_seconds": 54.992109
+      },
+      "prior_visual_duplicate_audit": "no_duplicate_high_confidence",
+      "content_form": "single_host_livestream_or_qa",
+      "speaker_attribution_risk": "ordinary_live_attribution_review",
+      "status": "unique",
+      "primary_source_id": null,
+      "formal_weight_recommendation": 1,
+      "rationale": "未发现相同video ID/URL、源SHA、规范化全文、连续40字符窗或既有故事板重复。",
+      "limits": [
+        "SHA-256 uniqueness excludes byte-identical files but not all differently encoded copies.",
+        "The prior storyboard audits strongly reject visual duplicates but cannot rule out audio-only reuse with entirely replaced visuals.",
+        "The gameplay classification is based on sparse visual checkpoints, not continuous viewing or completed speaker diarization.",
+        "The normalized-text audit covers exact full-text equality and exact continuous 40-character windows; shorter paraphrase, translated reuse, or heavily edited retellings can still exist."
+      ]
+    },
+    {
+      "source_id": "mikey-youtube-live-020",
+      "livestream_number": 62,
+      "video_id": "0rVKemT02iA",
+      "youtube_url": "https://www.youtube.com/watch?v=0rVKemT02iA",
+      "title": "直播62： 把妹心态 内核丨直播答疑  泡妞 搭讪 约会丨搭訕玩家TV",
+      "duration_seconds": 4020.047528,
+      "source_sha256": "13decb5d4586a3a0949fb367b432537629af717809a03f6b879eb9464ac57333",
+      "normalized_transcript_sha256": "5ffe6b647f50aa7db1a96970763dc649b280d278dbadc1ec918df5d653268588",
+      "normalized_char_count": 12688,
+      "formal_exact_identity_match": false,
+      "normalized_fulltext_matches": [],
+      "continuous_40char_matches": [],
+      "nearest_formal_duration_candidate": {
+        "source_id": "mikey-youtube-live-006",
+        "delta_seconds": 19.992381
+      },
+      "prior_visual_duplicate_audit": "no_duplicate_high_confidence",
+      "content_form": "single_host_livestream_or_qa",
+      "speaker_attribution_risk": "ordinary_live_attribution_review",
+      "status": "unique",
+      "primary_source_id": null,
+      "formal_weight_recommendation": 1,
+      "rationale": "未发现相同video ID/URL、源SHA、规范化全文、连续40字符窗或既有故事板重复。",
+      "limits": [
+        "SHA-256 uniqueness excludes byte-identical files but not all differently encoded copies.",
+        "The prior storyboard audits strongly reject visual duplicates but cannot rule out audio-only reuse with entirely replaced visuals.",
+        "The gameplay classification is based on sparse visual checkpoints, not continuous viewing or completed speaker diarization.",
+        "The normalized-text audit covers exact full-text equality and exact continuous 40-character windows; shorter paraphrase, translated reuse, or heavily edited retellings can still exist."
+      ]
+    }
+  ],
+  "gameplay_rule": {
+    "applies_to": [
+      "mikey-youtube-live-017",
+      "mikey-youtube-live-018"
+    ],
+    "visual_sample_result": "15 sparse checkpoints across both files show the game/menu/cinematic as the main canvas with Mikey facecam and live-chat overlay; the stream is game-plot dominant rather than a normal single-speaker lecture",
+    "mixed_audio_fact": "game dialogue/narration and Mikey commentary share one AAC track",
+    "required_labels": [
+      "mikey_commentary",
+      "game_dialogue_or_narration",
+      "viewer_chat_text",
+      "mikey_quote_or_reading",
+      "uncertain_overlap"
+    ],
+    "eligibility_rule": "Only mikey_commentary with sufficient audio-visual attribution may support Mikey knowledge. Game dialogue is plot context; viewer chat is audience material; quotations/readings are not endorsement; uncertain overlap stays hold.",
+    "verification_cues": [
+      "align ASR timestamps with in-game subtitles and character mouth/action",
+      "use Mikey facecam mouth movement and direct audience-response context for commentary",
+      "check sequential frames around overlaps, choices, pauses, and cutscenes",
+      "do not infer speaker identity from wording or ASR segmentation alone"
+    ]
+  },
+  "limits": [
+    "SHA-256 uniqueness excludes byte-identical files but not all differently encoded copies.",
+    "The prior storyboard audits strongly reject visual duplicates but cannot rule out audio-only reuse with entirely replaced visuals.",
+    "The gameplay classification is based on sparse visual checkpoints, not continuous viewing or completed speaker diarization.",
+    "The normalized-text audit covers exact full-text equality and exact continuous 40-character windows; shorter paraphrase, translated reuse, or heavily edited retellings can still exist."
+  ],
+  "decision_boundary": "unique仅表示当前证据未发现整期复用；不排除短片段、同案复述、重剪、翻译或完全替换画面的音频复用。"
+}

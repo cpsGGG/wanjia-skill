@@ -1,0 +1,16 @@
+{
+  "batch_key": "video-02",
+  "checks": {
+    "manifest_count": true,
+    "unique_ids": true,
+    "media_audit_pass": true,
+    "full_asr_valid": true,
+    "visual_manifest_valid": true,
+    "content_dedup_valid": true,
+    "distillation_valid": true,
+    "review_ledger_valid": true
+  },
+  "extraction_ready": true,
+  "pass": true,
+  "raw_media_deletion_authorized": false
+}

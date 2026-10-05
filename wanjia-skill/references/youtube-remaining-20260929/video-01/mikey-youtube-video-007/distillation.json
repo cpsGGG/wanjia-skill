@@ -1,0 +1,130 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-007",
+  "youtube_id": "r7rpeVQxTis",
+  "title": "為什麼約會不要試圖牽手… 多數人都做錯了",
+  "coverage": {
+    "transcript_segments_read": 798,
+    "transcript_time_range_seconds": [0.11, 1118.95],
+    "sparse_frames_reviewed": 25,
+    "dense_frames_reviewed": 0,
+    "continuous_original_audio_visual_review": false
+  },
+  "timeline": [
+    {"start": 0.11, "end": 193.29, "summary": "Mikey introduces four proposed functions of touch and argues that using touch to test compliance or affection exposes a need for reassurance and can shift the interaction into an evaluator/applicant hierarchy."},
+    {"start": 193.29, "end": 466.47, "summary": "He separates correlation from cause: a successful touch test can improve an insecure person's confidence, while rejection can collapse it. He allows a limited novice training use but says confidence tied to feedback remains unstable."},
+    {"start": 466.47, "end": 715.95, "summary": "He rejects using public touch to declare or upgrade a relationship, arguing that this often communicates pursuit and prompts the other person to evaluate the pursuer. This section includes broad unsupported claims about women and mate choice."},
+    {"start": 715.95, "end": 948.77, "summary": "He treats touch as possible availability only after attraction, adjusted to his reading of the other person's confidence, and describes two informal response types. The categories are personal heuristics rather than validated psychological types."},
+    {"start": 948.77, "end": 1024.03, "summary": "He criticizes 'compliance accumulation' as wearing someone down and disputes the idea that alcohol itself creates attraction, attributing apparent success to a change in the man's state."},
+    {"start": 1024.03, "end": 1118.95, "summary": "He calls later touch a 'charge signal' after attraction, describes moving to a private home and kissing directly, then closes by advising confident men to avoid public testing while conceding that insecure beginners may use limited touch to seek certainty."}
+  ],
+  "claims": [
+    {
+      "claim_id": "v007-c01",
+      "speaker": "Mikey",
+      "statement": "Using touch primarily to test whether someone likes you can make your confidence depend on their immediate reaction rather than on a stable internal state.",
+      "conditions": "Mikey's dating framework; the causal claim about attraction is not independently established.",
+      "evidence": ["S00008-S00120@12.79-196.77", "S00134-S00192@216.47-308.13"],
+      "use_level": "context_only"
+    },
+    {
+      "claim_id": "v007-c02",
+      "speaker": "Mikey",
+      "statement": "A successful touch test may appear to create attraction when the intervening change is the tester becoming more confident after receiving reassurance.",
+      "conditions": "A proposed alternative explanation, not proof that touch never affects an interaction.",
+      "evidence": ["S00120-S00173@193.29-280.57"],
+      "use_level": "context_only"
+    },
+    {
+      "claim_id": "v007-c03",
+      "speaker": "Mikey",
+      "statement": "For some beginners he uses a limited compliance test as temporary training, while warning that a negative response can make feedback-dependent confidence collapse.",
+      "conditions": "This describes his coaching practice; it must not override consent or be presented as a recommended way to touch someone without clear willingness.",
+      "evidence": ["S00196-S00244@312.57-375.45", "S00244-S00319@374.79-467.61"],
+      "use_level": "hold"
+    },
+    {
+      "claim_id": "v007-c04",
+      "speaker": "Mikey",
+      "statement": "He rejects using public touch to declare or manufacture a relationship, because he believes it can communicate pursuit and trigger evaluation rather than create attraction.",
+      "conditions": "A relationship-theory claim from this source, not a universal empirical rule.",
+      "evidence": ["S00319-S00424@466.47-603.35"],
+      "use_level": "context_only"
+    },
+    {
+      "claim_id": "v007-c05",
+      "speaker": "Mikey",
+      "statement": "Touch can function as availability only after he believes attraction already exists, and he says the amount should depend on the other person's confidence and behavior.",
+      "conditions": "His subjective reading of attraction is not consent; any touch still requires current willingness, and ambiguity or withdrawal requires stopping.",
+      "evidence": ["S00504-S00599@715.95-846.35", "S00599-S00621@844.23-875.01"],
+      "use_level": "hold"
+    },
+    {
+      "claim_id": "v007-c06",
+      "speaker": "Mikey",
+      "statement": "His A/B response categories distinguish people who conceal interest from people who state it more directly.",
+      "conditions": "Informal anecdotal categories with no validation; do not diagnose individuals or generalize them to women as a group.",
+      "evidence": ["S00621-S00683@873.87-948.77"],
+      "use_level": "do_not_generalize"
+    },
+    {
+      "claim_id": "v007-c07",
+      "speaker": "Mikey",
+      "statement": "He describes prolonged 'compliance accumulation' as persistence and attrition rather than evidence that attraction was created.",
+      "conditions": "Do not turn persistence, late hours, intoxication or fatigue into a tactic; these conditions can impair free participation and consent.",
+      "evidence": ["S00683-S00732@947.73-1026.47"],
+      "use_level": "hold"
+    },
+    {
+      "claim_id": "v007-c08",
+      "speaker": "Mikey",
+      "statement": "He describes moving to a private home after perceived attraction and then kissing directly as a 'charge signal'.",
+      "conditions": "The source supplies no reliable consent check for this step. Arrival at a home, attraction cues, lack of a verbal objection or prior availability do not establish consent to kissing or further contact.",
+      "evidence": ["S00732-S00773@1024.03-1083.67"],
+      "use_level": "do_not_generalize"
+    },
+    {
+      "claim_id": "v007-c09",
+      "speaker": "Mikey",
+      "statement": "His closing hierarchy is: do not use public touch if confidence is already stable; beginners may use a limited test for certainty; advanced practice should cultivate confidence that does not depend on testing.",
+      "conditions": "Archive his stated progression only; the beginner exception is not actionable without explicit consent safeguards.",
+      "evidence": ["S00770-S00798@1076.67-1118.95"],
+      "use_level": "hold"
+    },
+    {
+      "claim_id": "v007-c10",
+      "speaker": "Mikey",
+      "statement": "The video makes sweeping claims that women seek many pursuers and that male behavior is biologically driven.",
+      "conditions": "Unsupported sex-wide generalizations mixed with anecdote and rhetorical examples.",
+      "evidence": ["S00345-S00371@500.19-535.51", "S00465-S00504@660.07-717.23"],
+      "use_level": "do_not_generalize"
+    }
+  ],
+  "examples": [
+    {"example_id": "v007-e01", "summary": "Two hypothetical dates show confidence rising after a positive touch response and falling after withdrawal, illustrating feedback-dependent state rather than a stable technique effect.", "evidence": ["S00264-S00319@399.27-467.61"]},
+    {"example_id": "v007-e02", "summary": "A personal coffee-date anecdote is used to classify delayed initiation as concealed interest; it remains an anecdote, not proof of the other person's internal state.", "evidence": ["S00621-S00683@873.87-948.77"]},
+    {"example_id": "v007-e03", "summary": "Alcohol is discussed as changing the man's confidence rather than creating attraction; impairment must not be used as a path to intimacy.", "evidence": ["S00713-S00732@997.05-1026.47"]}
+  ],
+  "speaker_attribution": [
+    {"speaker": "Mikey", "basis": "Single on-camera studio host throughout the teaching track; the ending and the matched formal live transcript identify the same speaker."},
+    {"speaker": "viewers", "basis": "Their proposed answers and questions are paraphrased or read by Mikey; no independent viewer voice is verified."},
+    {"speaker": "illustrative clip subjects", "basis": "Short stock, entertainment and sports inserts supply visuals only and are not sources for the teaching claims."}
+  ],
+  "visual_findings": [
+    "All 25 sparse frames were opened and reviewed. The dominant image is Mikey speaking alone in a studio with burned-in captions.",
+    "Brief vertical, performance, sports and alcohol-related inserts illustrate the narration; no chat conversation, case chronology or second live speaker was found in the sparse sequence.",
+    "No dense extraction was required because the sampled sequence and transcript showed no screen-carried teaching evidence whose order or legibility would change the claims."
+  ],
+  "permissions": {
+    "formal_integration": false,
+    "first_person_answering": false,
+    "action_advice": false,
+    "reason": "This is a zero-weight repackaging of an existing formal source and contains consent-sensitive instructions and unsupported sex-wide generalizations."
+  },
+  "limitations": [
+    "Automatic transcript was read completely but not checked word-for-word against original audio.",
+    "Sparse frame review does not equal continuous audio-visual verification.",
+    "The formal-source match establishes substantive reuse despite ASR and edit differences; it does not prove frame-for-frame identity.",
+    "Perceived attraction, confidence and internal motives cannot be verified from the described behavior alone."
+  ]
+}

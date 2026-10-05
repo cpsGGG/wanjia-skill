@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-032",
+  "youtube_id": "3nXm4bdpzLY",
+  "title": "山西大同強奸案的背後丨男人征服世界 又如何沦为奴隶丨男人如何走出女本位社會的困境？ 丨社會真相 丨女本位丨矩陣",
+  "coverage": {
+    "transcript_segments_read": 727,
+    "transcript_time_range_seconds": [0.85, 1399.17],
+    "sparse_frames_reviewed": 31,
+    "dense_frames_reviewed": 0,
+    "dense_windows_required_seconds": [],
+    "continuous_original_audio_visual_review": false
+  },
+  "timeline": [
+    {"start": 0.85, "end": 177.23, "summary": "An edited case excerpt introduces a sexual-assault prosecution; Mikey disputes the judgment and moves from that case to a broad claim that consent law favors women."},
+    {"start": 177.23, "end": 418.58, "summary": "He defines 'gynocentrism' and constructs an evolutionary story about female reproductive scarcity, sexual dimorphism and male expendability."},
+    {"start": 418.58, "end": 637.26, "summary": "He extends the evolutionary narrative to pair bonds, parental investment and modern provider roles, then labels the result systemic oppression of men."},
+    {"start": 637.26, "end": 764.64, "summary": "He argues that concepts such as misogyny, son preference and patriarchy are themselves obscuring mechanisms, and divides the alleged system into feminism and traditionalism."},
+    {"start": 764.64, "end": 953.48, "summary": "He describes contemporary feminism and traditional male responsibility as two ways men are controlled by public judgment and provider expectations."},
+    {"start": 953.48, "end": 1095.86, "summary": "He predicts worsening male conditions and proposes reducing possessions and social obligations and keeping one's views private."},
+    {"start": 1095.86, "end": 1236.98, "summary": "A hunter metaphor and autobiographical account of discovering pickup material support his claim that men can train confidence and escape provider identity."},
+    {"start": 1236.98, "end": 1399.17, "summary": "He recommends defining an internal value system, closes with literary quotations, and appends English-language clips celebrating men's labor and necessity."}
+  ],
+  "claims": [
+    {"claim_id": "v032-c01", "speaker": "Mikey", "statement": "He claims the referenced sexual-assault conviction lacked sufficient evidence and illustrates a legal system that treats women's stated will as dispositive.", "conditions": "Unverified legal commentary based on an edited presentation; facts, evidence, holdings and current law must be checked against primary court records and qualified counsel.", "evidence": ["S00041-S00089@67.59-156.85"], "use_level": "do_not_generalize", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v032-c02", "speaker": "Mikey", "statement": "He treats verbal resistance during sexual activity as potentially emotional or ambiguous rather than necessarily a refusal.", "conditions": "Unsafe framing. A stated 'no', resistance, uncertainty, incapacity or withdrawal requires stopping; pornography and stereotypes are not consent evidence.", "evidence": ["S00065-S00089@111.19-156.85"], "use_level": "do_not_generalize", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v032-c03", "speaker": "Mikey", "statement": "He defines gynocentrism as social reasoning centered on women's interests while hiding or devaluing men's interests.", "conditions": "An ideological framework used by the speaker, not a neutral or empirically established description of society.", "evidence": ["S00090-S00111@156.85-197.93"], "use_level": "hold", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v032-c04", "speaker": "Mikey", "statement": "He derives modern gender roles, female selfishness and male expendability from reproductive biology and evolutionary history.", "conditions": "Speculative just-so narrative mixing biology, history and moral conclusions without cited evidence; do not use to infer individual motives or obligations.", "evidence": ["S00112-S00317@197.93-631.34"], "use_level": "do_not_generalize", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v032-c05", "speaker": "Mikey", "statement": "He argues that both contemporary feminism and traditional provider expectations impose asymmetric responsibility on men.", "conditions": "Political interpretation with selective examples; retain only as his position and do not present as settled social fact.", "evidence": ["S00318-S00496@631.34-918.90"], "use_level": "hold", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v032-c06", "speaker": "Mikey", "statement": "He recommends reducing unnecessary consumption and social obligations to protect attention and freedom.", "conditions": "General lifestyle reflection; financial, family and work duties cannot be dismissed without context.", "evidence": ["S00542-S00574@1025.76-1080.78"], "use_level": "context_only", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v032-c07", "speaker": "Mikey", "statement": "He recommends avoiding public disclosure of controversial beliefs when disclosure would create needless conflict or risk.", "conditions": "Context-dependent privacy strategy; it does not justify deception, harassment, discrimination or evasion of lawful duties.", "evidence": ["S00575-S00599@1080.78-1095.86"], "use_level": "hold", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v032-c08", "speaker": "Mikey", "statement": "He proposes defining a personal value system that is less dependent on bosses' praise, romantic acceptance or public status.", "conditions": "Potentially useful self-reflection, but it is embedded in unsupported gender ideology and does not remove accountability or interdependence.", "evidence": ["S00658-S00687@1197.34-1250.80"], "use_level": "context_only", "knowledge_status": "hold_pending_independent_review"}
+  ],
+  "examples": [
+    {"example_id": "v032-e01", "summary": "The Shanxi Datong case is used as the opening legal example; only edited narration and clips are available here.", "evidence": ["S00001-S00089@0.85-156.85"]},
+    {"example_id": "v032-e02", "summary": "Predators, insects, mammals, early humans and hunters are arranged into a single evolutionary story, but the upload gives no traceable sources for the chain.", "evidence": ["S00112-S00317@197.93-631.34", "sampled frames 000007-000014 and 000025"]}
+  ],
+  "speaker_attribution": [
+    {"speaker": "Mikey", "basis": "Identified single host provides the Chinese narration and ideological argument."},
+    {"speaker": "case, meme and English montage participants", "basis": "Edited excerpts and stock/public clips; their statements are not adopted as independently verified facts and their original contexts are unknown."}
+  ],
+  "visual_findings": [
+    "All 31 sampled frames were reviewed. They alternate between Mikey speaking to camera and illustrative paintings, diagrams, stock footage, memes, public clips, a monastery, hunter imagery and an English-language closing montage.",
+    "Frames include labels about neural plasticity, sexual dimorphism, male responsibility and the video's proposed methods. These are editorial graphics, not citations or empirical evidence.",
+    "No sampled frame provides a readable primary judgment, full scientific source or complete context for the public clips; visual material cannot verify the legal and evolutionary claims."
+  ],
+  "permissions": {
+    "formal_integration": false,
+    "first_person_allowed": false,
+    "action_advice_allowed": false,
+    "knowledge_status": "hold_pending_independent_review",
+    "reason": "The upload contains high-risk consent and legal claims, pseudoscientific evolutionary arguments, gender hostility and unsupported predictions."
+  },
+  "limitations": [
+    "Automatic transcript was not checked word-for-word against original audio.",
+    "Thirty-one sparse frames do not equal continuous audio-visual verification.",
+    "No primary court record, statute, scientific paper or source list is supplied in the reviewed package.",
+    "The closing English clips are excerpts with unknown original context and should not be treated as evidence."
+  ]
+}

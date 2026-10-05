@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-007",
+  "youtube_id": "xai9p7jJdFg",
+  "title": "这也是约会建立基调的重要性",
+  "coverage": {"transcript_segments_read": 28, "transcript_time_range_seconds": [0.0, 42.58], "semantic_media_range_seconds": [0.0, 39.984762], "sampled_frames_reviewed": 13, "continuous_original_audio_visual_review": false, "asr_tail_excluded": "Repeated closing recognition after the audited media boundary carries no additional claim."},
+  "timeline": [
+    {"start": 0.0, "end": 15.88, "summary": "A viewer asks about shame over showing romantic or sexual intent; Mikey interprets it as a mismatch created by presenting oneself differently earlier."},
+    {"start": 15.88, "end": 29.68, "summary": "He gives a personal example: acting like a 'good person' and then switching into a 'bad person' role creates an uncomfortable break in consistency."},
+    {"start": 29.68, "end": 39.984762, "summary": "He says beginning without that performance avoids the break, then ends with exaggerated boastful language; ASR beyond the media boundary is excluded."}
+  ],
+  "claims": [
+    {"claim_id": "s007-c01", "speaker": "Mikey", "statement": "He interprets discomfort about showing intent as a possible consistency break between an earlier performed persona and a later move.", "conditions": "His interpretation is not a diagnosis and does not mean intent should be imposed or hidden boundaries ignored.", "evidence": ["S00001-S00015@0.00-23.96"], "use_level": "hold", "knowledge_status": "reuse_zero_weight"},
+    {"claim_id": "s007-c02", "speaker": "Mikey", "statement": "He recommends avoiding a falsely agreeable persona from the start so later honest expression does not feel like a sudden character switch.", "conditions": "Honesty still requires respect, explicit consent where relevant and stopping on discomfort or refusal.", "evidence": ["S00016-S00023@23.96-38.38"], "use_level": "hold", "knowledge_status": "reuse_zero_weight"}
+  ],
+  "examples": [],
+  "permissions": {"use_level": "hold", "first_person_allowed": false, "action_advice_allowed": false}
+}

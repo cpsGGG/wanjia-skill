@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-049",
+  "youtube_id": "J4fxjbY8u0U",
+  "title": "遇到出来玩手机的怎么办？丨搭讪丨约会丨dating in china丨#shorts",
+  "coverage": {"transcript_segments_read": 17, "transcript_time_range_seconds": [0.0, 30.9], "semantic_media_range_seconds": [0.0, 32.020317], "sampled_frames_reviewed": 11, "continuous_original_audio_visual_review": false, "excluded_asr_tail": null},
+  "timeline": [
+    {"start": 0.0, "end": 10.72, "summary": "Mikey describes a woman who attends a gathering but stays on her phone and declines offered alcohol and games, then labels that behavior as aloof and low."},
+    {"start": 10.72, "end": 20.66, "summary": "He argues that attending creates an obligation to respect everyone present and calls giving face a basic social norm; if she thought the gathering was unsuitable, he says she should not have come."},
+    {"start": 20.66, "end": 32.020317, "summary": "He uses gendered insults and predicts that such behavior damages her reputation, confines her to low-level novice gatherings and leaves her unwanted when older."}
+  ],
+  "claims": [
+    {"claim_id": "s049-c01", "speaker": "Mikey (visual/channel continuity)", "statement": "He interprets attending while remaining absorbed in a phone and not engaging with the group as disrespectful to the gathering.", "conditions": "A personal social judgment based on a hypothetical or unshown case; urgent phone use, discomfort, safety, sobriety and the right to decline are not considered.", "evidence": ["S00001-S00011@0.00-20.66", "visual/sampled/000001.jpg-visual/sampled/000007.jpg"], "use_level": "hold", "knowledge_status": "reuse_zero_weight"},
+    {"claim_id": "s049-c02", "speaker": "Mikey (visual/channel continuity)", "statement": "He predicts that a woman who behaves this way will damage her reputation, remain in low-level social circles and become unwanted with age.", "conditions": "Unsupported, gendered and stigmatizing speculation; no observed person, social network or outcome is shown.", "evidence": ["S00012-S00017@20.66-30.90", "visual/sampled/000008.jpg-visual/sampled/000011.jpg"], "use_level": "do_not_generalize", "knowledge_status": "reuse_zero_weight"}
+  ],
+  "speaker_attribution": [{"speaker": "Mikey (visual/channel continuity)", "basis": "One on-camera narrator speaks throughout; face and presentation match formal Mikey talking-head sources. The described woman and gathering are not shown."}],
+  "visual_findings": ["All eleven sampled frames were reviewed at original resolution.", "The visuals show only a single speaker in a public indoor seating area with editorial subtitles.", "No woman, phone behavior, offered alcohol, game, gathering interaction or later social outcome is visible."],
+  "permissions": {"formal_integration": false, "first_person_allowed": false, "action_advice_allowed": false, "use_level": "reuse_zero_weight_do_not_generalize", "reason": "The limited phone-distraction theme already exists, while the clip adds coercive participation assumptions, unsupported gendered judgments and outcome predictions."},
+  "limitations": ["Declining alcohol or a game is an ordinary boundary and does not itself show disrespect.", "The reason for phone use and whether anyone wanted to leave are unknown.", "The clip provides no second-party account or real-world evidence for reputational and age-based predictions.", "Sparse frames do not replace continuous audio-visual review."]
+}

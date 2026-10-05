@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-006",
+  "youtube_id": "NB1KsmdaoxI",
+  "title": "享受约会是主要的，收尾结果只是顺便的事情",
+  "coverage": {"transcript_segments_read": 37, "transcript_time_range_seconds": [0.69, 68.95], "semantic_media_range_seconds": [0.0, 66.43229], "sampled_frames_reviewed": 22, "continuous_original_audio_visual_review": false, "asr_tail_excluded": "Repeated outro recognition after the audited media boundary carries no semantic claim."},
+  "timeline": [
+    {"start": 0.69, "end": 10.87, "summary": "A viewer asks whether to keep a date when the woman has a firm early departure time; Mikey says the date can still happen."},
+    {"start": 10.87, "end": 40.99, "summary": "He criticizes treating first-date sex as mandatory and recommends enjoying ordinary conversation rather than making the encounter entirely outcome-driven."},
+    {"start": 40.99, "end": 65.55, "summary": "He calls his own one-date sexual outcome content a display of skill and recounts increasingly compressed targets, ending with inviting women home without a date."},
+    {"start": 65.55, "end": 66.43229, "summary": "Repeated outro within the media boundary; no additional claim. Later ASR repetition is excluded."}
+  ],
+  "claims": [
+    {"claim_id": "s006-c01", "speaker": "Mikey", "statement": "A short first date can still be worthwhile; he recommends focusing on the interaction rather than treating sex as a required outcome.", "conditions": "Both people retain their time limits, consent and right to leave; a later date is not guaranteed.", "evidence": ["S00001-S00021@0.69-40.99"], "use_level": "context_only", "knowledge_status": "reuse_zero_weight"},
+    {"claim_id": "s006-c02", "speaker": "Mikey", "statement": "He describes his own progression from many dates to fewer or no dates before sexual outcomes as skill-display history.", "conditions": "Unverified self-report; does not establish consent, denominator, causation or a recommended target.", "evidence": ["S00022-S00033@40.99-65.55"], "use_level": "do_not_generalize", "knowledge_status": "reuse_zero_weight"}
+  ],
+  "examples": [],
+  "permissions": {"use_level": "hold", "first_person_allowed": false, "action_advice_allowed": false}
+}

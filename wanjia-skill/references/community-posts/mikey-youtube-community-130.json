@@ -1,0 +1,50 @@
+{
+  "schema_version": "mikey-community-post-fulltext-1.0",
+  "source_id": "mikey-youtube-community-130",
+  "post_id": "UgkxIhiihSB6T95usV6RUl0bE7lcLQXfzQEZ",
+  "url": "https://www.youtube.com/post/UgkxIhiihSB6T95usV6RUl0bE7lcLQXfzQEZ",
+  "published_at": "2026-04-18T02:31:28.464081-07:00",
+  "date_basis": "archived_public_observation",
+  "body": "感受生命力！",
+  "body_kind": "verbatim_or_as_archived_in_corrected_candidate",
+  "image_refs": [
+    {
+      "image_index": 1,
+      "research_archive_path": "research/youtube-community-batch1/images/UgkxIhiihSB6T95usV6RUl0bE7lcLQXfzQEZ/01.jpg",
+      "sha256": "a2aa978494cc2230acb535009ee8983248e53bb506eb0a6a8c95457e35f212c5",
+      "bytes": 227625,
+      "formal_asset_policy": "reference_only_do_not_copy",
+      "safe_summary": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。"
+    }
+  ],
+  "segments": [
+    {
+      "sid": "C0130-BODY",
+      "kind": "channel_body",
+      "text": "感受生命力！",
+      "verbatim_allowed": true,
+      "source_scope": "public_channel_body_as_archived"
+    },
+    {
+      "sid": "C0130-IMG01",
+      "kind": "image_reference_metadata",
+      "text": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。",
+      "verbatim_allowed": false,
+      "image_reference": {
+        "image_index": 1,
+        "research_archive_path": "research/youtube-community-batch1/images/UgkxIhiihSB6T95usV6RUl0bE7lcLQXfzQEZ/01.jpg",
+        "sha256": "a2aa978494cc2230acb535009ee8983248e53bb506eb0a6a8c95457e35f212c5",
+        "bytes": 227625,
+        "formal_asset_policy": "reference_only_do_not_copy",
+        "safe_summary": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。"
+      }
+    }
+  ],
+  "privacy_policy": {
+    "original_images_copied": false,
+    "raw_ocr_copied": false,
+    "private_chat_transcript_copied": false,
+    "third_party_identity_confirmed": false,
+    "publication_authorization_confirmed": false
+  }
+}

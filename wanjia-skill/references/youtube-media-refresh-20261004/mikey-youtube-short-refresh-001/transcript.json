@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "source_id": "mikey-youtube-short-refresh-001",
+  "title": "现实却比我们诚实…  兄弟们求求了别串了…",
+  "source": {
+    "youtube_video_id": "Q4mGmPgp6HY",
+    "url": "https://www.youtube.com/watch?v=Q4mGmPgp6HY",
+    "local_path": "D:\\startup\\玩家.skill\\research\\youtube-channel-refresh-20261004\\media\\shorts\\Q4mGmPgp6HY\\20261002 - 现实却比我们诚实…  兄弟们求求了别串了… [Q4mGmPgp6HY].mkv",
+    "size_bytes": 1504977,
+    "sha256": "2b2fec203bec835d43d89390c525cbdc969903db2691b62c354a573ccbce901e",
+    "width": 1080,
+    "height": 1920,
+    "duration_seconds": 21.481,
+    "filename_date": "20261002",
+    "date_status": "platform_download_filename_date_not_independently_reverified"
+  },
+  "duration_seconds": 21.481,
+  "model": "large-v3-turbo",
+  "parameters": {
+    "language": "zh",
+    "beam_size": 5,
+    "vad_filter": true,
+    "condition_on_previous_text": false,
+    "temperature": [
+      0.0,
+      0.2,
+      0.4,
+      0.6,
+      0.8,
+      1.0
+    ],
+    "word_timestamps": false
+  },
+  "status": "complete_sid_preserving_privacy_safe_derivative_not_audio_verified",
+  "speaker": "not_diarized",
+  "segments": [
+    {
+      "sid": "S00001",
+      "start": 0.0,
+      "end": 4.24,
+      "text": "【未核对的背景音ASR；不能归为Mikey发言或画面论点，原字仅在研究保存】",
+      "raw_start": 0.0,
+      "raw_end": 4.24,
+      "raw_chunk": 1,
+      "avg_logprob": -0.2650082362325568,
+      "no_speech_prob": 0.0,
+      "time_adjustment": null,
+      "usable_time_span": true,
+      "speaker": "unknown_not_diarized",
+      "original_text_sha256": "2742e642893d401b95dd151f0e1d41b2f6f10d41cb23428f0f9d267cd4e89a75",
+      "redaction_status": "redacted_derivative",
+      "first_person_allowed": false,
+      "action_advice_allowed": false,
+      "runtime_answer_allowed": false
+    },
+    {
+      "sid": "S00002",
+      "start": 4.24,
+      "end": 9.06,
+      "text": "【未核对的背景音ASR；不能归为Mikey发言或画面论点，原字仅在研究保存】",
+      "raw_start": 4.24,
+      "raw_end": 9.06,
+      "raw_chunk": 1,
+      "avg_logprob": -0.2650082362325568,
+      "no_speech_prob": 0.0,
+      "time_adjustment": null,
+      "usable_time_span": true,
+      "speaker": "unknown_not_diarized",
+      "original_text_sha256": "b3984332fdd91fd440520a793b0fcab06e87dd3c81c77467dd30330ab551853d",
+      "redaction_status": "redacted_derivative",
+      "first_person_allowed": false,
+      "action_advice_allowed": false,
+      "runtime_answer_allowed": false
+    }
+  ],
+  "privacy_derivative": {
+    "original_transcript_sha256": "086b7f683b1b7a9e4090d3bd595ff2a7b0c7a7ea7b05ea8b64ae15937d32b9d9",
+    "original_segments": 2,
+    "derivative_segments": 2,
+    "redacted_segments": 2,
+    "original_preserved_in_research": true,
+    "original_not_copied_to_web_or_skill": true,
+    "not_a_verbatim_quote_resource": true
+  }
+}

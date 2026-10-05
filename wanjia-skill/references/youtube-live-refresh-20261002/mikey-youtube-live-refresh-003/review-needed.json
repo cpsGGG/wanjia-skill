@@ -1,0 +1,120 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-live-refresh-003",
+  "youtube_id": "EPmR6XOphxY",
+  "review_completed": true,
+  "items": [
+    {
+      "review_id": "lr003-r01",
+      "severity": "blocking_for_dedup",
+      "category": "reuse_conflict",
+      "issue": "Text comparison strongly supports suspected containment relative to efyqkeWyhUw, while raw Chromaprint audio containment is only 0.2235%; common origin is not proven.",
+      "affected_evidence": ["epm-vs-efy-containment.json", "content-dedup.json"],
+      "disposition": "Keep reuse_pending with weight 0 because the full semantic sequence and 91.14% ordered normalized text are contained, but common origin remains unproven. Preserve the fingerprint conflict and require stronger continuous-audio or edit-chain evidence before resolving the relation."
+    },
+    {
+      "review_id": "lr003-r02",
+      "severity": "blocking_for_privacy_and_integration",
+      "category": "privacy_and_consent",
+      "issue": "The live publicly displays private chats, avatars, face images, voice messages, calls, timestamps, travel/location clues, group/public-place images and alleged in-person audio. Consent to recording or publication is not established.",
+      "affected_evidence": ["visual contact-sheets pages 01-08", "visual dense-contact-sheets pages 001-033", "S00001-S03959"],
+      "disposition": "Do not copy identifying screenshots, exact private messages, voice audio, faces, handles, itinerary details or promotional contact identifiers into the formal runtime package without a resolved redaction and authorization rule."
+    },
+    {
+      "review_id": "lr003-r03",
+      "severity": "blocking_for_action_advice",
+      "category": "manipulation_and_infidelity",
+      "issue": "The central sequence operationalizes pressure, push-pull, romantic priming and persistence after disclosure of an existing relationship, then discusses concealment from the partner and family.",
+      "affected_evidence": ["S02473-S02598", "S02665-S02799", "S03183-S03704"],
+      "disposition": "Keep these claims do_not_generalize with action_advice=false. Retain only as attributed description of conduct, contradiction and later regret."
+    },
+    {
+      "review_id": "lr003-r04",
+      "severity": "blocking_for_attribution",
+      "category": "speaker_identity",
+      "issue": "Played call and alleged in-person recordings are not diarized; Mikey's live commentary overlaps the source material, and he says pauses were removed and AI processing was applied.",
+      "affected_evidence": ["S02226-S03077", "S03762-S03892"],
+      "disposition": "Do not publish ambiguous sentences as exact quotations from the woman or Mikey. Use coarse labels such as 'the woman is presented as saying' until continuous original-audio review and diarization are completed."
+    },
+    {
+      "review_id": "lr003-r05",
+      "severity": "major",
+      "category": "third_party_facts",
+      "issue": "Claims about the woman's family wealth, relationship, boyfriend, movements, friends, mother, travel, meeting and later sexual/reproductive events are self-reported or shown through selected material.",
+      "affected_evidence": ["S00174-S00205", "S02077-S02177", "S03183-S03892"],
+      "disposition": "Treat every such detail as a claim inside Mikey's case narrative, not an established fact about identifiable third parties."
+    },
+    {
+      "review_id": "lr003-r06",
+      "severity": "major",
+      "category": "unsupported_generalization",
+      "issue": "Mikey generalizes from one selected case that women genetically need providers while preferring highly desired lovers and will tolerate harmful conduct from the latter.",
+      "affected_evidence": ["S03369-S03438", "S03880-S03915"],
+      "disposition": "Keep do_not_generalize. Do not present as biological fact, a universal account of women or a prediction about an individual."
+    },
+    {
+      "review_id": "lr003-r07",
+      "severity": "major",
+      "category": "harassment_and_stop_signals",
+      "issue": "Low-interest replies are interpreted as challenge opportunities, and the source lacks a reliable rule for distinguishing receptive teasing from pressure or harassment.",
+      "affected_evidence": ["S00473-S00592", "S01596-S01671"],
+      "disposition": "Keep hold and action_advice=false. Any later synthesis must treat silence, refusal, discomfort and hostile responses as stop signals rather than as tactical obstacles."
+    },
+    {
+      "review_id": "lr003-r08",
+      "severity": "blocking_for_privacy_and_integration",
+      "category": "voyeurism_and_recording",
+      "issue": "Mikey describes filming sexual activity visible in neighbors' residence and a telescope story about looking into others' private space.",
+      "affected_evidence": ["S00759-S00825@1769.1-1858.2"],
+      "disposition": "Do not normalize or turn this into an example script. Keep do_not_generalize; retain only as a privacy-risk record."
+    },
+    {
+      "review_id": "lr003-r09",
+      "severity": "blocking_for_action_advice",
+      "category": "deception_and_evasion",
+      "issue": "The source discusses female-friend cover, indirect travel, misleading a parent/partner and planning around video calls.",
+      "affected_evidence": ["S03183-S03333", "S03466-S03633"],
+      "disposition": "Do not extract scripts, procedures or ranked plans. Keep all details descriptive and do_not_generalize."
+    },
+    {
+      "review_id": "lr003-r10",
+      "severity": "blocking_for_health_legal_and_consent",
+      "category": "sexual_reproductive_and_paternity",
+      "issue": "The alleged post-meeting recording contains sexual, pregnancy and paternity-test hypotheticals with possible deception of a partner and future child.",
+      "affected_evidence": ["S03762-S03865@7640.7-7868.2"],
+      "disposition": "Keep do_not_generalize and close action advice. Do not infer pregnancy, parentage, legality, consent or medical facts; require original-audio, legal and health review for any use beyond noting the topic."
+    },
+    {
+      "review_id": "lr003-r11",
+      "severity": "major",
+      "category": "asr_quality",
+      "issue": "The automatic transcript has unstable pronouns, garbled names/places and obvious semantic errors, including rendering paternity testing as '性格鉴定'.",
+      "affected_evidence": ["S00001-S03959", "especially S03839-S03865"],
+      "disposition": "Use timestamped paraphrase only. Do not quote disputed terms, identities, numbers or speaker turns without original-audio review."
+    },
+    {
+      "review_id": "lr003-r12",
+      "severity": "major",
+      "category": "visual_completeness",
+      "issue": "All sparse and dense contact sheets were reviewed, but 10-second/45-second sampling cannot prove message continuity, playback state, speaker identity, omitted screens, consent/refusal or behavior outcomes. In particular, the blue item visible from about 69:50 to 100:00 is a static chat-history ‘voice call’ card, not proof of an active call.",
+      "affected_evidence": ["visual/manifest.json", "visual/dense-manifest.json", "visual/visual-review.json"],
+      "disposition": "Keep visual conclusions at screening level. Require continuous audiovisual review and original-resolution source inspection before resolving message order, exact wording or played-audio attribution."
+    },
+    {
+      "review_id": "lr003-r13",
+      "severity": "major",
+      "category": "marketing_and_disclaimer_conflict",
+      "issue": "The source pairs regret and 'do not repeat this' language with detailed demonstration, claims of exceptional attraction and direct course/contact promotion.",
+      "affected_evidence": ["S00072-S00144", "S03899-S03958"],
+      "disposition": "Preserve the contradiction. Do not use the disclaimer alone to upgrade any technique, first-person voice or action-advice permission."
+    },
+    {
+      "review_id": "lr003-r14",
+      "severity": "minor",
+      "category": "third_party_likeness_and_promotion",
+      "issue": "Persistent female cutout, QR/contact overlay, viewer comments and embedded media introduce additional third-party likeness, authorship and promotional context.",
+      "affected_evidence": ["all contact sheets", "visual/visual-review.json"],
+      "disposition": "Treat overlays and viewer comments as separate source material, never as live co-speakers or independent corroboration; remove them from any formal evidence image unless specifically authorized and necessary."
+    }
+  ]
+}

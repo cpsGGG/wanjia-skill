@@ -1,0 +1,89 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-031",
+  "youtube_id": "iJ-sPn7b1_Q",
+  "title": "你波澜壮阔的人生，从不需要他人的评判和认同…",
+  "coverage": {
+    "transcript_segments_read": 54,
+    "transcript_time_range_seconds": [2.36, 109.27],
+    "semantic_media_range_seconds": [0.0, 111.966621],
+    "sampled_frames_reviewed": 37,
+    "continuous_original_audio_visual_review": false,
+    "excluded_asr_tail": null
+  },
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 19.96,
+      "summary": "The excerpt opens mid-livestream with the speaker saying that being unknown or forgotten is frightening and that a person should live for oneself rather than for spectators."
+    },
+    {
+      "start": 19.96,
+      "end": 39.18,
+      "summary": "He imagines looking back from an ICU near death and regretting a life he considers 碌碌无为; the Short ASR corrupts the final phrase."
+    },
+    {
+      "start": 39.18,
+      "end": 61.96,
+      "summary": "He frames choices as adding to one's personal local-history record and says outside recognition is unnecessary; doing the desired thing can matter even if it is not done well."
+    },
+    {
+      "start": 61.96,
+      "end": 90.1,
+      "summary": "He contrasts parental stability advice with an example of a civil servant who also wrote a bestselling Ming-history work, so stable employment and a vivid life are not presented as mutually exclusive."
+    },
+    {
+      "start": 90.1,
+      "end": 111.966621,
+      "summary": "He briefly cites Musk and Trump as people he regards as unusually prominent; the recording ends after the examples without an independently demonstrated outcome."
+    }
+  ],
+  "claims": [
+    {
+      "claim_id": "s031-c01",
+      "speaker": "Mikey",
+      "statement": "He says life should be judged primarily by whether one lived for oneself, using imagined end-of-life regret as the test.",
+      "conditions": "A personal value judgment from a livestream excerpt, not a clinical or universally valid prescription; obligations, safety and effects on others are not discussed here.",
+      "evidence": ["S00001-S00016@2.36-39.18"],
+      "use_level": "reuse_zero_weight"
+    },
+    {
+      "claim_id": "s031-c02",
+      "speaker": "Mikey",
+      "statement": "He treats choices as entries in a personal life record and says outside recognition is not required to try what one wants, even if the attempt is imperfect.",
+      "conditions": "The clip does not distinguish reversible experiments from choices with legal, financial, health, relational or safety consequences.",
+      "evidence": ["S00017-S00028@39.18-61.96"],
+      "use_level": "reuse_zero_weight"
+    },
+    {
+      "claim_id": "s031-c03",
+      "speaker": "Mikey",
+      "statement": "He rejects a simple opposition between a stable career and a vivid life, citing a civil servant who wrote a popular history book.",
+      "conditions": "The examples are rhetorical and do not establish that any particular career choice will produce fulfillment.",
+      "evidence": ["S00029-S00044@61.96-90.10"],
+      "use_level": "reuse_zero_weight"
+    }
+  ],
+  "speaker_attribution": [
+    {
+      "speaker": "Mikey",
+      "basis": "One channel host is visible at the microphone across all 37 sampled frames and speaks continuously; the exact passage is also present in formal quark-live-044."
+    }
+  ],
+  "visual_findings": [
+    "All 37 sampled frames show one man in the same dark studio/livestream shot with large edited subtitles.",
+    "The frames add no external documents, chat screenshot, demonstration, audience reaction, or evidence for the public-figure examples."
+  ],
+  "permissions": {
+    "formal_integration": false,
+    "first_person_allowed": false,
+    "action_advice_allowed": false,
+    "use_level": "reuse_zero_weight",
+    "reason": "This is the same ordered passage already preserved in formal quark-live-044."
+  },
+  "limitations": [
+    "Sparse sampled frames are not continuous audio-visual review.",
+    "Several automatic-transcript words are wrong; claims use the matching formal passage only to resolve those words, not to add new content.",
+    "The public-figure descriptions are the speaker's evaluative examples and were not independently checked."
+  ]
+}

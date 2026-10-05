@@ -1,0 +1,104 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-012",
+  "youtube_id": "GSFHvvEzMxA",
+  "title": "先完成再完美！",
+  "coverage": {
+    "transcript_segments_read": 42,
+    "transcript_time_range_seconds": [
+      1.01,
+      78.53
+    ],
+    "semantic_media_range_seconds": [
+      0.0,
+      75.162993
+    ],
+    "sampled_frames_reviewed": 25,
+    "continuous_original_audio_visual_review": false,
+    "excluded_asr_tail": "S00040-S00042 overrun the audited media endpoint and are excluded from claims."
+  },
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 10.01,
+      "summary": "A viewer asks about career and execution; he answers by rejecting conflicting perfection demands."
+    },
+    {
+      "start": 10.01,
+      "end": 25.35,
+      "summary": "He says people often fail to act because they overthink and want the first attempt to be excellent or perfect."
+    },
+    {
+      "start": 25.35,
+      "end": 50.73,
+      "summary": "He recommends personally running the whole workflow once, then delegating technical problems to specialists while retaining decisions."
+    },
+    {
+      "start": 50.73,
+      "end": 69.31,
+      "summary": "He suggests delegating routine work only after the process is understood and warns against hiring before understanding it."
+    },
+    {
+      "start": 69.31,
+      "end": 75.162993,
+      "summary": "He closes with start first and solve encountered problems; the repeated ASR continuation past the cut is excluded."
+    }
+  ],
+  "claims": [
+    {
+      "claim_id": "s012-c01",
+      "speaker": "Mikey",
+      "statement": "He links non-action to overthinking and wanting a first attempt to be excellent or perfect.",
+      "conditions": "A motivational framing, not a universal psychological explanation.",
+      "evidence": [
+        "S00001-S00012@1.01-25.35"
+      ],
+      "use_level": "hold"
+    },
+    {
+      "claim_id": "s012-c02",
+      "speaker": "Mikey",
+      "statement": "Before scaling or delegating, he recommends personally running the whole workflow once and then assigning technical work to specialists.",
+      "conditions": "Applies to learnable business workflows; regulated or dangerous work may require experts from the start.",
+      "evidence": [
+        "S00013-S00022@25.35-50.73"
+      ],
+      "use_level": "hold"
+    },
+    {
+      "claim_id": "s012-c03",
+      "speaker": "Mikey",
+      "statement": "He advises against hiring blindly before understanding the process and favors starting, finding concrete problems and solving them.",
+      "conditions": "Do not use low pay or inexperience as a proxy for suitability; comply with employment law and fair treatment.",
+      "evidence": [
+        "S00023-S00039@50.73-74.31"
+      ],
+      "use_level": "hold"
+    }
+  ],
+  "speaker_attribution": [
+    {
+      "speaker": "viewer",
+      "basis": "Opening question is displayed as a student prompt."
+    },
+    {
+      "speaker": "Mikey",
+      "basis": "Single visible striped-shirt speaker answers throughout."
+    }
+  ],
+  "visual_findings": [
+    "All 25 sampled frames show the same striped-shirt host with editorial subtitles.",
+    "No employees, workflow artifact or business result is shown; the claims are oral advice only."
+  ],
+  "permissions": {
+    "formal_integration": false,
+    "first_person_allowed": false,
+    "action_advice_allowed": false,
+    "use_level": "hold",
+    "reason": "New research candidate, but parent source is unlocated and employment/scaling claims need contextual review."
+  },
+  "limitations": [
+    "Automatic ASR overruns the media by 3.37 seconds.",
+    "Business recommendations are unsupported by independent outcome evidence."
+  ]
+}

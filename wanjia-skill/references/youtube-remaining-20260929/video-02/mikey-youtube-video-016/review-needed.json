@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-016",
+  "youtube_id": "KdUrSM8j7iQ",
+  "review_completed": true,
+  "items": [
+    {"review_id": "v016-r01", "severity": "blocking_for_privacy", "issue": "Selected private coaching and chat screenshots expose an anonymized student's sexual behavior, relapse, messages and case progress.", "affected_evidence": ["sampled frames 000007, 000010, 000012, 000013, 000018"], "disposition": "Do not package the raw screenshots formally without purpose-limited redaction and privacy approval; dense review must preserve role and message order before paraphrase."},
+    {"review_id": "v016-r02", "severity": "blocking_for_consent", "issue": "Private cinemas, gaming hotels and one-room booking are framed as ways to bypass a woman's expected verbal refusal or redirect her attention.", "affected_evidence": ["S00405-S00429", "S00485-S00518"], "disposition": "No action advice. Entering a venue, sharing a room or accepting food is not sexual consent; require explicit, ongoing, sober and revocable agreement."},
+    {"review_id": "v016-r03", "severity": "blocking_for_deception", "issue": "The source recommends upgrading a salesperson or programmer to a supervisor title as identity packaging.", "affected_evidence": ["S00335-S00395"], "disposition": "Do not advise false credentials or job titles. Any later use must limit presentation to truthful selection and framing of real strengths."},
+    {"review_id": "v016-r04", "severity": "major", "issue": "The student's sexual, dating, sales and promotion outcomes are a selected coaching testimonial tied to a consultation pitch.", "affected_evidence": ["S00533-S00585", "sampled frames 000018-000022"], "disposition": "Treat as Mikey's marketing narrative, not causal evidence; require student consent, full records and employer confirmation for factual claims."},
+    {"review_id": "v016-r05", "severity": "major", "issue": "Commercial sex is discussed mainly as shame and power-seeking, without jurisdiction, exploitation, STI, coercion or financial-risk assessment.", "affected_evidence": ["S00003-S00024", "S00241-S00290"], "disposition": "Do not provide legal or health conclusions from this source; external current jurisdiction-specific evidence would be required."},
+    {"review_id": "v016-r06", "severity": "major", "issue": "The psychological labels, motive attribution and claim that light diet reduces libido are unsourced and may be ASR-corrupted.", "affected_evidence": ["S00058-S00084", "S00253-S00280"], "disposition": "Do not diagnose or present a treatment protocol; verify terminology and seek qualified evidence before health use."},
+    {"review_id": "v016-r07", "severity": "major", "issue": "The video assigns the woman's intentions from indirect behavior and claims she may want one room while saying two.", "affected_evidence": ["S00485-S00508"], "disposition": "Reject mind-reading as consent evidence and retain the woman's stated choice unless she freely changes it."},
+    {"review_id": "v016-r08", "severity": "minor", "issue": "ASR corrupts important terms such as 去合理化/认知失调, 性欲, 卖淫/PC euphemisms and multiple outcome words.", "affected_evidence": ["throughout"], "disposition": "Listen to original audio before exact quotation or clinical/legal interpretation."}
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "source_id": "mikey-youtube-live-025",
+  "speakers": [
+    {
+      "id": "mikey",
+      "role": "host",
+      "status": "confirmed",
+      "identity_basis": "搭讪玩家TV直播77由Mikey主持；完整稿为主持人连续答疑，视觉联系表另行记录画面结构。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=dSYHWDUlQ4I&t=30s"
+      ],
+      "notes": "观众问题由主持人口头转述，问题中的经历不归给Mikey。"
+    },
+    {
+      "id": "viewer-question-01",
+      "role": "collective live-chat question author(s)",
+      "status": "collective_placeholder",
+      "identity_basis": "多名观众的文字问题由主持人朗读。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=dSYHWDUlQ4I&t=207s"
+      ],
+      "notes": "集合占位符，不代表同一人物。"
+    }
+  ]
+}

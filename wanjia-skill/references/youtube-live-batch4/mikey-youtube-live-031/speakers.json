@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "source_id": "mikey-youtube-live-031",
+  "speakers": [
+    {
+      "id": "mikey",
+      "role": "host",
+      "status": "provisional",
+      "identity_basis": "标题与直播结构指向Mikey主持；自动稿中还出现门徒/同场男性的短对话，尚未完成连续音画与声纹确认。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=7EzW-UuiF-Y&t=30s"
+      ],
+      "notes": "在未完成逐句分离前，不把同场男性或观众经历写成Mikey观点。"
+    },
+    {
+      "id": "companion-01",
+      "role": "同场门徒或嘉宾",
+      "status": "provisional",
+      "identity_basis": "开场明确介绍门徒并持续有互答，具体身份与每句边界待核。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=7EzW-UuiF-Y&t=120s"
+      ],
+      "notes": "不得仅凭上下文把其话归给Mikey。"
+    },
+    {
+      "id": "viewer-question-01",
+      "role": "collective live-chat question author(s)",
+      "status": "collective_placeholder",
+      "identity_basis": "问题由主持或同场者朗读，观众身份不明。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=7EzW-UuiF-Y"
+      ],
+      "notes": "观众问题中的经历不归给Mikey。"
+    },
+    {
+      "id": "unknown-voice-01",
+      "role": "未逐句分离的直播语音",
+      "status": "unresolved",
+      "identity_basis": "自动稿没有说话人标签；需要连续音画、画面位置和声纹参照片段。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=7EzW-UuiF-Y"
+      ],
+      "notes": "仅作为覆盖占位。"
+    }
+  ]
+}

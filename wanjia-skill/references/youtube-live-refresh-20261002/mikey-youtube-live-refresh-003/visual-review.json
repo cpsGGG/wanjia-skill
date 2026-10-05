@@ -1,0 +1,154 @@
+{
+  "stable_id": "mikey-youtube-live-refresh-003",
+  "youtube_id": "EPmR6XOphxY",
+  "review_completed": true,
+  "all_contact_sheets_reviewed": true,
+  "review_scope": "Reviewed all 8 sparse contact-sheet pages covering 179 frames sampled every 45 seconds and all 33 dense contact-sheet pages sampled every 10 seconds. This remains a still-frame visual screening, not continuous audiovisual verification.",
+  "observations": [
+    {
+      "time_seconds": 0,
+      "type": "host_with_private_chat",
+      "description": "Mikey appears alone at the desk while a large phone-chat panel occupies the right side; a persistent female cutout graphic and QR/contact graphic also appear.",
+      "risk": "high"
+    },
+    {
+      "time_seconds": 0,
+      "type": "profile_and_face_images",
+      "description": "The opening chat includes profile/face photographs and short messages; visible identities are blurred only partially in the contact sheet.",
+      "risk": "high"
+    },
+    {
+      "time_seconds": 1080,
+      "type": "voice_messages_and_media",
+      "description": "The conversation shows multiple blue voice-message bubbles, stickers, photos, and video thumbnails. These are repeatedly referenced while Mikey speaks.",
+      "risk": "high"
+    },
+    {
+      "time_seconds": 1500,
+      "type": "travel_or_transaction_images",
+      "description": "Embedded images include what appears to be a vehicle dashboard/price display, outdoor/vehicle scenes, group photos, and other media used inside the conversation chronology.",
+      "risk": "high"
+    },
+    {
+      "time_seconds": 1800,
+      "type": "decorated_chat_sequence",
+      "description": "A long light-background chat with many stickers, short alternating messages, and voice entries spans much of the middle of the video; sender side and sequence are visually meaningful.",
+      "risk": "high"
+    },
+    {
+      "time_seconds": 4260,
+      "type": "audio_or_video_preview",
+      "description": "A black/red media thumbnail is followed by a blue voice-call card/control that remains visible for an extended stretch from about 69:50. The control is part of the chat history and does not prove an active call, playback, or speaker identity.",
+      "risk": "high"
+    },
+    {
+      "time_seconds": 6075,
+      "type": "voice_message_transcript_context",
+      "description": "The chat changes to several voice bubbles and a longer text message block, followed later by a very long scrolling message-thread overview.",
+      "risk": "high"
+    },
+    {
+      "time_seconds": 7515,
+      "type": "long_thread_and_embedded_photos",
+      "description": "The final section shows a tall overview of a long chat and then a dark chat containing photos and video/image thumbnails, including apparent public-place scenes.",
+      "risk": "high"
+    }
+  ],
+  "dense_review_windows": [
+    {
+      "start_seconds": 0,
+      "end_seconds": 1800,
+      "reason": "Opening private chat includes faces, voice messages, media, and possible travel/transaction evidence; read sequence and distinguish Mikey's commentary from source material."
+    },
+    {
+      "start_seconds": 1800,
+      "end_seconds": 4260,
+      "reason": "Rapidly changing decorated chat thread with many short messages and stickers; sparse samples cannot preserve sender order or omitted messages."
+    },
+    {
+      "start_seconds": 4190,
+      "end_seconds": 6000,
+      "reason": "Media preview, voice/call control, photos, and continuing chat may contain played third-party audio and claimed results."
+    },
+    {
+      "start_seconds": 5940,
+      "end_seconds": 6075,
+      "reason": "The same phone evidence remains on screen for a long interval; denser review should verify scrolling, hidden context, and any change in displayed source."
+    },
+    {
+      "start_seconds": 6075,
+      "end_seconds": 7200,
+      "reason": "Multiple voice messages and longer text blocks require sequential screen capture plus audio alignment."
+    },
+    {
+      "start_seconds": 7200,
+      "end_seconds": 8010,
+      "reason": "Final long-thread overview and dark chat with embedded media require dense capture through the last sampled frame at 133:30."
+    }
+  ],
+  "attribution_limits": [
+    "The studio speaker is visually consistent with Mikey, but every chat bubble, image, voice message, and embedded video belongs to a source conversation unless separately verified.",
+    "The female cutout and QR/contact graphic are overlays and do not indicate a live co-speaker.",
+    "Voice-message bubbles and call/media controls do not prove that audio was played or identify the speaker; continuous audiovisual alignment is required.",
+    "The batch metadata marks this item as a possible duplicate of mikey-youtube-video-003/efyqkeWyhUw; visual similarity alone must not grant independent source weight.",
+    "Case events, consent/refusal, and outcomes cannot be inferred from isolated screen captures without the missing messages and Mikey's audio framing."
+  ],
+  "privacy_or_third_party_risks": [
+    "The private chat contains participant avatars, face photos, messages, timestamps, voice recordings, and media thumbnails.",
+    "Travel, vehicle, location-like, group-photo, and public-place imagery may identify third parties or reveal sensitive context.",
+    "The female cutout and QR/contact overlay involve third-party likeness or promotional identifiers.",
+    "Any formal reuse should de-identify chat participants and avoid reproducing private media unless authorization and necessity are established."
+  ],
+  "dense_review_completed": true,
+  "dense_contact_sheets_reviewed": 33,
+  "dense_observations": [
+    {
+      "time_seconds": 0,
+      "type": "private_chat_with_third_party_faces",
+      "description": "The opening white chat shows third-party face photographs and short alternating messages while Mikey is the only live studio person visible. The female image and QR/contact block are persistent overlays, not live participants.",
+      "risk": "high"
+    },
+    {
+      "time_seconds": 1100,
+      "type": "voice_messages_and_sender_sides",
+      "description": "From about 18:20 the chat displays face photos, multiple blue voice-message bubbles, stickers, and alternating sender sides. The ten-second sequence improves ordering but cannot identify voice speakers or prove playback.",
+      "risk": "high"
+    },
+    {
+      "time_seconds": 1480,
+      "type": "phone_call_like_screen_and_vehicle_media",
+      "description": "Around 24:40 Mikey holds up another phone with an incoming- or active-call-like interface; shortly afterward the main panel shows a vehicle dashboard/price-like image and vehicle or outdoor media. The sampled visuals do not identify the caller or establish a live audible call.",
+      "risk": "high"
+    },
+    {
+      "time_seconds": 3290,
+      "type": "embedded_media_and_third_party_woman",
+      "description": "Around 54:50 onward the chat includes blurred media thumbnails, photographs, and at about 68:50 a vertical video preview containing a woman's face. These are third-party materials and no statement can be attributed from the preview alone.",
+      "risk": "high"
+    },
+    {
+      "time_seconds": 4190,
+      "type": "voice_call_history_card",
+      "description": "From about 69:50 through roughly 100:00 a blue voice-call card/button remains displayed beneath a black/red thumbnail. Its persistence indicates a static chat-history item, not visual evidence that a call is currently connected or being played.",
+      "risk": "high"
+    },
+    {
+      "time_seconds": 6135,
+      "type": "new_chat_with_voice_messages",
+      "description": "Around 102:15 the panel switches to another white chat containing short voice-message bubbles, text blocks, and small video thumbnails. Sender-side changes are visible, but identities, audio, and any agreement or refusal require audiovisual checking.",
+      "risk": "high"
+    },
+    {
+      "time_seconds": 7490,
+      "type": "dark_chat_and_public_place_images",
+      "description": "At about 124:50 the display changes to a dark chat with green and grey sender sides and several third-party photos or video thumbnails, including apparent shop or public-place scenes, continuing to the end.",
+      "risk": "high"
+    }
+  ],
+  "remaining_visual_limits": [
+    "The dense review samples one still every 10 seconds; it is not continuous audiovisual verification and may miss brief taps, message transitions, or media playback between samples.",
+    "Voice-message bubbles, call-like interfaces, and the long blue voice-call card do not establish an active call, audible playback, speaker identity, or consent.",
+    "Much of the chat text is small, blurred, decorated, or cropped; exact wording, omitted messages, and sender identity cannot be recovered reliably from these sheets.",
+    "No refusal, agreement, behavioral result, or causal outcome is visually proven by the sampled frames alone, and third-party previews must not be treated as Mikey's statements."
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-006",
+  "youtube_id": "mFQnUFGEFEY",
+  "title": "中國女人迎來「牛來」時代 國男得背大鍋｜王水牛｜easy girl ｜巴西牛排｜两性｜心理学｜香港兰桂坊老外事件｜复旦大学｜情感｜婚恋｜崇洋媚外｜约炮",
+  "coverage": {
+    "transcript_segments_read": 607,
+    "transcript_time_range_seconds": [0.0, 848.805],
+    "sparse_frames_reviewed": 19,
+    "dense_interval_seconds": 5,
+    "dense_frames_reviewed": 170,
+    "continuous_original_audio_visual_review": false
+  },
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 106.08,
+      "summary": "Mikey introduces an online controversy involving a foreign man and Chinese women, criticizes both media victim framing and men who explain romantic rejection solely as preference for foreigners, and states that adult women have agency in choosing partners."
+    },
+    {
+      "start": 106.08,
+      "end": 185.88,
+      "summary": "He separates attraction from moral virtue and argues that body language, social posture, direct expression and tolerance of rejection matter more than presenting oneself as a moral or financial résumé."
+    },
+    {
+      "start": 185.88,
+      "end": 230.76,
+      "summary": "He explicitly says online allegations are still unverified disclosures and labels the ensuing explanation his subjective analysis, then contrasts stable-provider traits with loss of self-direction."
+    },
+    {
+      "start": 230.76,
+      "end": 341.65,
+      "summary": "He defines 'self' as having one's own feelings, judgment and choices, and argues that housing, employment and abstaining from vices do not by themselves describe a compelling person or entitle someone to romance."
+    },
+    {
+      "start": 341.65,
+      "end": 486.22,
+      "summary": "He links approval-seeking in school, work and dating to anxious self-monitoring, then argues that rejection should not trigger entanglement, blame or self-abasement and that effort does not create a debt of marriage or affection."
+    },
+    {
+      "start": 486.22,
+      "end": 545.88,
+      "summary": "He contrasts Western and Chinese socialization, claiming Western men more often express interest directly and maintain other sources of identity after rejection; he acknowledges that foreign men can also be insecure and unattractive."
+    },
+    {
+      "start": 545.88,
+      "end": 645.06,
+      "summary": "He proposes that social feedback and historical status imagery can amplify confidence attached to foreign identity, using cross-cultural anecdotes and an English-direction example."
+    },
+    {
+      "start": 645.06,
+      "end": 735.17,
+      "summary": "He says foreign identity creates only temporary curiosity, describes selection bias in viral success stories, and disputes the idea that two quoted invitation lines constitute magical manipulation."
+    },
+    {
+      "start": 735.17,
+      "end": 830.33,
+      "summary": "He distinguishes blunt boundaries from people-pleasing, asks rejected men to examine their own low self-worth rather than blame a group, and closes by saying selfhood means respecting oneself and others regardless of whether a woman chooses you."
+    },
+    {
+      "start": 830.33,
+      "end": 848.805,
+      "summary": "Outro and low-information tail; no new substantive claim is retained."
+    }
+  ],
+  "claims": [
+    {
+      "claim_id": "v006-c01",
+      "speaker": "Mikey",
+      "statement": "An adult woman's choice between Chinese and foreign partners is her own decision, and explaining rejection only as worship of foreigners denies her agency and avoids examining one's own behavior.",
+      "conditions": "Normative autonomy point combined with Mikey's interpretation of online discourse; it does not validate any specific participant's conduct.",
+      "evidence": ["S00038-S00060@54.42-89.48"],
+      "use_level": "context_only"
+    },
+    {
+      "claim_id": "v006-c02",
+      "speaker": "Mikey",
+      "statement": "Moral virtue and attraction are separate: status and credentials are not immediately visible, while body language, social posture, direct expression and tolerance of rejection shape first impressions.",
+      "conditions": "Mikey's attraction model, not a universal psychological law; no behavioral signal creates entitlement or overrides consent.",
+      "evidence": ["S00074-S00130@106.08-183.42"],
+      "use_level": "context_only"
+    },
+    {
+      "claim_id": "v006-c03",
+      "speaker": "Mikey",
+      "statement": "Having a self means letting one's own feelings, judgments and choices help determine how one lives, instead of presenting completed tasks and waiting for a partner to award a result.",
+      "conditions": "General self-development claim; the surrounding ethnic and gender rhetoric is not required for this proposition.",
+      "evidence": ["S00175-S00198@239.28-264.42", "S00213-S00244@279.44-320.01"],
+      "use_level": "direct"
+    },
+    {
+      "claim_id": "v006-c04",
+      "speaker": "Mikey",
+      "statement": "On a date, ask whether you actually like the other person rather than treating the encounter solely as an exam in which she scores you.",
+      "conditions": "Applies to anxious approval-seeking; still requires attention to the other person's comfort, refusal and boundaries.",
+      "evidence": ["S00271-S00304@351.29-389.97"],
+      "use_level": "direct"
+    },
+    {
+      "claim_id": "v006-c05",
+      "speaker": "Mikey",
+      "statement": "A normal refusal should not destroy a person's self-evaluation or lead to entanglement, accusation or self-abasement.",
+      "conditions": "Rejection must be accepted; confidence is not permission to pressure or retaliate.",
+      "evidence": ["S00334-S00357@425.81-456.84", "S00381-S00394@486.22-505.94"],
+      "use_level": "direct"
+    },
+    {
+      "claim_id": "v006-c06",
+      "speaker": "Mikey",
+      "statement": "Time, attention or effort invested in someone does not make that person owe marriage, affection or a relationship outcome.",
+      "conditions": "Consent and relationship choice remain voluntary at every stage.",
+      "evidence": ["S00358-S00379@456.84-484.92"],
+      "use_level": "direct"
+    },
+    {
+      "claim_id": "v006-c07",
+      "speaker": "Mikey",
+      "statement": "Confidence is partly reinforced by social feedback, and viral examples overrepresent successful foreigners while unsuccessful cases receive little attention.",
+      "conditions": "Plausible mechanism and selection-bias observation, but the video provides anecdotes rather than measured comparative data.",
+      "evidence": ["S00425-S00441@548.8-575.58", "S00469-S00484@617.92-644.04", "S00494-S00513@657.78-689.76"],
+      "use_level": "context_only"
+    },
+    {
+      "claim_id": "v006-c08",
+      "speaker": "Mikey",
+      "statement": "Broad differences between Chinese and Western men's dating outcomes are fundamentally differences in confidence and self-expression produced by culture and historical status.",
+      "conditions": "Sweeping national, racial and cultural generalization unsupported by comparative evidence; multiple acknowledged counterexamples remain.",
+      "evidence": ["S00380-S00424@484.92-548.8", "S00442-S00484@575.58-644.04"],
+      "use_level": "do_not_generalize"
+    },
+    {
+      "claim_id": "v006-c09",
+      "speaker": "Mikey",
+      "statement": "Selfhood is not another task completed to earn a girlfriend; it means respecting oneself and others while keeping one's identity when interest is not reciprocated.",
+      "conditions": "The phrase 'respect oneself and then others' also appears in formal source quark-live-026, so this is corroborating rather than novel.",
+      "evidence": ["S00589-S00602@804.21-827.23"],
+      "use_level": "direct"
+    },
+    {
+      "claim_id": "v006-c10",
+      "speaker": "Mikey narrating third-party material",
+      "statement": "The video repeats online allegations about 'Wang Shuiniu' and quotes purported invitation and dismissal messages attributed to him.",
+      "conditions": "Mikey explicitly says the allegations were unverified disclosures and his analysis was subjective; screenshot provenance, completeness and authenticity were not established.",
+      "evidence": ["S00133-S00147@185.88-205.8", "S00529-S00561@717.45-766.01"],
+      "use_level": "do_not_generalize"
+    }
+  ],
+  "examples": [
+    {
+      "example_id": "v006-e01",
+      "summary": "A self-description limited to not smoking, not drinking and not fooling around says what the person avoids but not who he is.",
+      "evidence": ["S00199-S00209@264.42-276.44"]
+    },
+    {
+      "example_id": "v006-e02",
+      "summary": "Mikey describes a date spent monitoring every microexpression and line for approval, without asking whether the man himself likes the woman.",
+      "evidence": ["S00273-S00304@353.75-389.97"]
+    },
+    {
+      "example_id": "v006-e03",
+      "summary": "He compares five years of one-sided effort to a bank deposit to reject the idea that time invested earns a mandatory relationship return.",
+      "evidence": ["S00371-S00379@473.64-484.92"]
+    },
+    {
+      "example_id": "v006-e04",
+      "summary": "He uses differing treatment of English-speaking visitors and Chinese-speaking travelers as an anecdote about status feedback; it is not comparative data.",
+      "evidence": ["S00455-S00468@597.56-617.92"]
+    }
+  ],
+  "speaker_attribution": [
+    {
+      "speaker": "Mikey",
+      "basis": "A single continuous host-style male narration structures the episode and self-identifies as Mike at S00603. Much of the program is voice-over; no formal voiceprint or word-for-word listening was performed."
+    },
+    {
+      "speaker": "Wang Shuiniu and women shown or quoted",
+      "basis": "Represented through public screenshots, reposted clips, drawings and Mikey's narration. None is treated as a directly verified participant statement or as Mikey's eyewitness evidence."
+    },
+    {
+      "speaker": "media authors, commentators and social users",
+      "basis": "Their posts and headlines are editorial inserts. Cropped text cannot establish full context, authorship or authenticity."
+    },
+    {
+      "speaker": "actors, animation characters, street subjects and historical figures",
+      "basis": "Illustrative B-roll only; their depicted actions and subtitles are not evidence of Mikey's claims."
+    }
+  ],
+  "visual_findings": [
+    "All 19 sparse frames and all 170 five-second dense frames were reviewed. The video is an almost continuous montage over narration, with no stable interview or continuous case recording.",
+    "Visual material includes social posts, news and article screenshots, channel pages, chat-like cards, cartoons, film and television clips, street and bar footage, historical or diplomatic imagery and custom chapter titles.",
+    "Several screenshots show names, profile images or private-message-style text. They are public reposts in the upload, but provenance, completeness, consent and authenticity are unknown; no unreadable text was reconstructed.",
+    "The montage uses people of different nationalities and races as illustrations for broad cultural claims. Their appearance does not verify the claimed causal differences.",
+    "The final 830.33-848.805 seconds are outro or low-information tail and add no stable claim."
+  ],
+  "permissions": {
+    "formal_integration": false,
+    "first_person_answering": false,
+    "action_advice": false,
+    "reason": "Research candidate with unverified allegations, private-message imagery, cultural and racial generalizations, gender generalizations and consent-sensitive dating material. Later cross-source review must assign any runtime permission."
+  },
+  "limitations": [
+    "The automatic transcript was read in full but not checked word-for-word against the original audio.",
+    "Five-second dense frames do not equal continuous audio-visual verification and may miss brief text or cuts between frames.",
+    "The online allegations, message screenshots and participant identities were not independently authenticated.",
+    "The original ASR hallucinated two segments after the media ended; those segments were removed and the remaining final segment was clipped to the audited 848.805-second duration. The low-quality outro still should not be quoted.",
+    "Claims comparing Chinese men, Western men, Chinese women or racial groups are rhetorical generalizations, not measured population findings.",
+    "Mikey's explicit uncertainty at S00133-S00147 applies to the controversy; downstream notes must not erase it.",
+    "Only the selfhood and rejection-boundary propositions can be separated cleanly from the episode's contested ethnic and gender framing, and even those remain pending formal integration review."
+  ]
+}

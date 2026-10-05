@@ -1,0 +1,2738 @@
+{
+  "role": "current_source_mapping_corrections_with_exact_history_not_new_audio_authority",
+  "status": "adopted_in_candidate_pending_final_runtime_gate",
+  "proposal_bindings": [
+    {
+      "file": "research/v2-remediation-20261004/web-pro-review/01-private-a-independent-acceptance/source-field-correction-proposals.json",
+      "sha256": "274d39edf4d17edd80ec1bcee2cb9c7fe97521342c8023657fc696ebba50fd4c"
+    },
+    {
+      "file": "research/v2-remediation-20261004/live010-mapping-recovery/independent-acceptance/current-source-mapping-correction-proposals.json",
+      "sha256": "2a53f7497b2b8b1b7ed9252bdcfb7fa9154fc875e474d6fd663c314503e73af9"
+    }
+  ],
+  "items": [
+    {
+      "knowledge_id": "mikey-sijiao-004-K0002",
+      "proposal_only": true,
+      "implemented": false,
+      "correction_kind": "current_claim_and_attribution_source_mapping_repair_not_blind_source_relabel",
+      "current_record_source_id_to_preserve_as_catalog_and_history": "mikey-sijiao-004",
+      "claim_origin_source_id_correction": "mikey-sijiao-005",
+      "related_existing_knowledge_id": "mikey-sijiao-005-K0002",
+      "do_not_duplicate_method_or_transfer_entire_parent_permission": true,
+      "current_object_sha256": "2e2b32fdeeeb3fc5e4b44faa1318d82b3774e459fc54d3d896bfa6eb8359e831",
+      "proposed_current_record": {
+        "id": "mikey-sijiao-004-K0002",
+        "source_id": "mikey-sijiao-004",
+        "date": null,
+        "title": "行动前别替陌生人完成拒绝",
+        "claim": "本条旧“行动前不替对方拒绝”命题未获当前mikey-sijiao-004引文及完整安全窗口支持，不能作为Mikey在004的观点或方法。相同SID编号在mikey-sijiao-005对应不同原句，005既有mikey-sijiao-005-K0002有相关讲解；不得把005内容写回004或将本条重复计为独立教学。",
+        "reason": null,
+        "method_or_meaning": null,
+        "conditions": [],
+        "limits": [
+          "当前004引文不支持旧命题，禁止人物化、行动化或以原direct/explicit_mikey覆盖。",
+          "raw_notes.original_entry及原索引/原待核仅保留为纠错前历史，不得作为现行命题依据。",
+          "005仅为相同教学的已验证文字定位，使用须回读其独立有限payload；不授予整个005原对象许可。"
+        ],
+        "evidence": [
+          {
+            "sid": "S00054",
+            "start": 122.47,
+            "end": 124.17,
+            "text": "这个是你妈妈",
+            "kind": "automatic_transcript_segment_not_sentence_by_sentence_verified",
+            "url": null
+          },
+          {
+            "sid": "S00055",
+            "start": 125.57,
+            "end": 127.17,
+            "text": "哦 嗨 阿姨好 阿姨好",
+            "kind": "automatic_transcript_segment_not_sentence_by_sentence_verified",
+            "url": null
+          },
+          {
+            "sid": "S00056",
+            "start": 127.17,
+            "end": 129.37,
+            "text": "对 我就过来跟你搭个设计而已",
+            "kind": "automatic_transcript_segment_not_sentence_by_sentence_verified",
+            "url": null
+          },
+          {
+            "sid": "S00058",
+            "start": 131.27,
+            "end": 132.87,
+            "text": "我跟我朋友他们过来吃饭",
+            "kind": "automatic_transcript_segment_not_sentence_by_sentence_verified",
+            "url": null
+          },
+          {
+            "sid": "S00059",
+            "start": 132.87,
+            "end": 133.97,
+            "text": "可以看到 对",
+            "kind": "automatic_transcript_segment_not_sentence_by_sentence_verified",
+            "url": null
+          },
+          {
+            "sid": "S00062",
+            "start": 141.47,
+            "end": 143.57,
+            "text": "他虽然不是很好看 但是你应该上 你懂吧",
+            "kind": "automatic_transcript_segment_not_sentence_by_sentence_verified",
+            "url": null
+          },
+          {
+            "sid": "S00064",
+            "start": 146.39,
+            "end": 146.89,
+            "text": "OK",
+            "kind": "automatic_transcript_segment_not_sentence_by_sentence_verified",
+            "url": null
+          },
+          {
+            "sid": "S00065",
+            "start": 153.27,
+            "end": 154.29,
+            "text": "哈喽不好意思",
+            "kind": "automatic_transcript_segment_not_sentence_by_sentence_verified",
+            "url": null
+          },
+          {
+            "sid": "S00066",
+            "start": 154.79,
+            "end": 156.59,
+            "text": "不好意思打打扰一下",
+            "kind": "automatic_transcript_segment_not_sentence_by_sentence_verified",
+            "url": null
+          },
+          {
+            "sid": "S00067",
+            "start": 157.11,
+            "end": 159.67,
+            "text": "哎不好意思我就看你的衣服很喜欢",
+            "kind": "automatic_transcript_segment_not_sentence_by_sentence_verified",
+            "url": null
+          }
+        ],
+        "status": {
+          "layer": "principle",
+          "speaker_id": null,
+          "attribution": "unsupported_current_claim_to_source_mapping",
+          "release_status": "publish",
+          "cross_use_level": "hold",
+          "text": "automatic_transcript_with_episode_analysis_not_sentence_by_sentence_verified",
+          "visual": "sampled_and_targeted_review_not_continuous_av_verification",
+          "first_person_allowed": false,
+          "action_advice_allowed": false,
+          "speaker_claim_scope": "no_person_attribution_until_correct_source_mapping",
+          "runtime_notice": "current_projection_marks_confirmed_unsupported_mapping; legacy_claim_retained_as_history_only"
+        },
+        "related": {
+          "theme_ids": [
+            "T03"
+          ],
+          "proposition_ids": [
+            "P05"
+          ]
+        },
+        "raw_notes": {
+          "original_entry": {
+            "schema_version": "1.0",
+            "id": "mikey-sijiao-004-K0002",
+            "source_id": "mikey-sijiao-004",
+            "source_revision": "sha256:801496773398a62d3e605a3081df946bbf6256e17a72c89fe83a169527991b4d",
+            "transcript_revision": "sha256:0557034491c4e3a4c8ad2f7d9b3f6f33a06a4e80e40a1d3c824b98060ced9905",
+            "knowledge_type": "principle",
+            "topic": "行动前别替陌生人完成拒绝",
+            "question": "身高、穿着或气场差异很大时要不要放弃开口？",
+            "claim": "Mikey认为，在对方还没回应前，不要先用自己的判断代替她拒绝；先礼貌开口，再按真实反馈决定停止或继续。",
+            "event_ids": [
+              "mikey-sijiao-004-E0002",
+              "mikey-sijiao-004-E0003"
+            ],
+            "claim_evidence_refs": [
+              {
+                "source_id": "mikey-sijiao-004",
+                "event_id": "mikey-sijiao-004-E0002",
+                "evidence_id": "mikey-sijiao-004-E0002-R032"
+              },
+              {
+                "source_id": "mikey-sijiao-004",
+                "event_id": "mikey-sijiao-004-E0002",
+                "evidence_id": "mikey-sijiao-004-E0002-R033"
+              },
+              {
+                "source_id": "mikey-sijiao-004",
+                "event_id": "mikey-sijiao-004-E0002",
+                "evidence_id": "mikey-sijiao-004-E0002-R034"
+              },
+              {
+                "source_id": "mikey-sijiao-004",
+                "event_id": "mikey-sijiao-004-E0002",
+                "evidence_id": "mikey-sijiao-004-E0002-R036"
+              },
+              {
+                "source_id": "mikey-sijiao-004",
+                "event_id": "mikey-sijiao-004-E0002",
+                "evidence_id": "mikey-sijiao-004-E0002-R037"
+              },
+              {
+                "source_id": "mikey-sijiao-004",
+                "event_id": "mikey-sijiao-004-E0003",
+                "evidence_id": "mikey-sijiao-004-E0003-R001"
+              },
+              {
+                "source_id": "mikey-sijiao-004",
+                "event_id": "mikey-sijiao-004-E0003",
+                "evidence_id": "mikey-sijiao-004-E0003-R003"
+              },
+              {
+                "source_id": "mikey-sijiao-004",
+                "event_id": "mikey-sijiao-004-E0003",
+                "evidence_id": "mikey-sijiao-004-E0003-R004"
+              },
+              {
+                "source_id": "mikey-sijiao-004",
+                "event_id": "mikey-sijiao-004-E0003",
+                "evidence_id": "mikey-sijiao-004-E0003-R005"
+              },
+              {
+                "source_id": "mikey-sijiao-004",
+                "event_id": "mikey-sijiao-004-E0003",
+                "evidence_id": "mikey-sijiao-004-E0003-R006"
+              }
+            ],
+            "reasoning": [],
+            "method": [],
+            "conditions": [],
+            "examples": [],
+            "counterexamples": [],
+            "feedback": [],
+            "source_quotes": [
+              {
+                "source_id": "mikey-sijiao-004",
+                "event_id": "mikey-sijiao-004-E0002",
+                "evidence_id": "mikey-sijiao-004-E0002-R032",
+                "sid": "S00054",
+                "start": 122.47,
+                "end": 124.17,
+                "text_as_supplied": "这个是你妈妈"
+              },
+              {
+                "source_id": "mikey-sijiao-004",
+                "event_id": "mikey-sijiao-004-E0002",
+                "evidence_id": "mikey-sijiao-004-E0002-R033",
+                "sid": "S00055",
+                "start": 125.57,
+                "end": 127.17,
+                "text_as_supplied": "哦 嗨 阿姨好 阿姨好"
+              },
+              {
+                "source_id": "mikey-sijiao-004",
+                "event_id": "mikey-sijiao-004-E0002",
+                "evidence_id": "mikey-sijiao-004-E0002-R034",
+                "sid": "S00056",
+                "start": 127.17,
+                "end": 129.37,
+                "text_as_supplied": "对 我就过来跟你搭个设计而已"
+              },
+              {
+                "source_id": "mikey-sijiao-004",
+                "event_id": "mikey-sijiao-004-E0002",
+                "evidence_id": "mikey-sijiao-004-E0002-R036",
+                "sid": "S00058",
+                "start": 131.27,
+                "end": 132.87,
+                "text_as_supplied": "我跟我朋友他们过来吃饭"
+              },
+              {
+                "source_id": "mikey-sijiao-004",
+                "event_id": "mikey-sijiao-004-E0002",
+                "evidence_id": "mikey-sijiao-004-E0002-R037",
+                "sid": "S00059",
+                "start": 132.87,
+                "end": 133.97,
+                "text_as_supplied": "可以看到 对"
+              },
+              {
+                "source_id": "mikey-sijiao-004",
+                "event_id": "mikey-sijiao-004-E0003",
+                "evidence_id": "mikey-sijiao-004-E0003-R001",
+                "sid": "S00062",
+                "start": 141.47,
+                "end": 143.57,
+                "text_as_supplied": "他虽然不是很好看 但是你应该上 你懂吧"
+              },
+              {
+                "source_id": "mikey-sijiao-004",
+                "event_id": "mikey-sijiao-004-E0003",
+                "evidence_id": "mikey-sijiao-004-E0003-R003",
+                "sid": "S00064",
+                "start": 146.39,
+                "end": 146.89,
+                "text_as_supplied": "OK"
+              },
+              {
+                "source_id": "mikey-sijiao-004",
+                "event_id": "mikey-sijiao-004-E0003",
+                "evidence_id": "mikey-sijiao-004-E0003-R004",
+                "sid": "S00065",
+                "start": 153.27,
+                "end": 154.29,
+                "text_as_supplied": "哈喽不好意思"
+              },
+              {
+                "source_id": "mikey-sijiao-004",
+                "event_id": "mikey-sijiao-004-E0003",
+                "evidence_id": "mikey-sijiao-004-E0003-R005",
+                "sid": "S00066",
+                "start": 154.79,
+                "end": 156.59,
+                "text_as_supplied": "不好意思打打扰一下"
+              },
+              {
+                "source_id": "mikey-sijiao-004",
+                "event_id": "mikey-sijiao-004-E0003",
+                "evidence_id": "mikey-sijiao-004-E0003-R006",
+                "sid": "S00067",
+                "start": 157.11,
+                "end": 159.67,
+                "text_as_supplied": "哎不好意思我就看你的衣服很喜欢"
+              }
+            ],
+            "attribution_status": "explicit_mikey",
+            "release_status": "publish",
+            "unknowns": []
+          },
+          "cross_index": {
+            "knowledge_id": "mikey-sijiao-004-K0002",
+            "source_id": "mikey-sijiao-004",
+            "topic": "行动前别替陌生人完成拒绝",
+            "theme_ids": [
+              "T03"
+            ],
+            "proposition_ids": [
+              "P05"
+            ],
+            "use_level": "direct"
+          },
+          "source_mapping_correction": {
+            "legacy_record_scope": "history_only_not_current_claim_authority",
+            "confirmed_unsupported_source_id": "mikey-sijiao-004",
+            "verified_related_teaching_source_id": "mikey-sijiao-005",
+            "verified_related_parent_id": "mikey-sijiao-005-K0002",
+            "new_audio_visual_review": false,
+            "review_tasks_closed": 0
+          }
+        },
+        "provenance": {
+          "source_analysis": "references/sijiao/mikey-sijiao-004/episode-analysis.md",
+          "source_entry_id": "mikey-sijiao-004-K0002",
+          "transcript": "references/sijiao/mikey-sijiao-004/transcript.json",
+          "review_needed": "references/sijiao/mikey-sijiao-004/review-needed.md",
+          "visual_reports": [
+            "references/sijiao/mikey-sijiao-004/visual/review.md"
+          ],
+          "cross_synthesis": "references/sijiao/cross-video/sijiao-cross-synthesis.json",
+          "project_source_path": "../research/sijiao/items/mikey-sijiao-004",
+          "current_claim_support_status": "unsupported_in_current_source",
+          "related_verified_teaching_source_id": "mikey-sijiao-005",
+          "related_existing_knowledge_id": "mikey-sijiao-005-K0002"
+        },
+        "content_origin": "editorial_source_mapping_correction_not_new_mikey_teaching",
+        "speaker_claim_scope": "no_attribution_for_unsupported_004_claim"
+      },
+      "proposed_current_record_sha256": "a4afc2a97b2be3b18c836eec77681fea2e8271892a320ea7fb7871b904115fb3",
+      "exact_changed_fields": [
+        "/claim",
+        "/content_origin",
+        "/limits",
+        "/provenance/current_claim_support_status",
+        "/provenance/related_existing_knowledge_id",
+        "/provenance/related_verified_teaching_source_id",
+        "/raw_notes/source_mapping_correction",
+        "/speaker_claim_scope",
+        "/status/attribution",
+        "/status/cross_use_level",
+        "/status/runtime_notice",
+        "/status/speaker_claim_scope"
+      ],
+      "same_sid_different_source_comparisons": [
+        {
+          "sid": "S00054",
+          "current_source_id": "mikey-sijiao-004",
+          "current_source_segment": {
+            "end": 124.17,
+            "sid": "S00054",
+            "start": 122.47,
+            "text": "这个是你妈妈"
+          },
+          "related_source_id": "mikey-sijiao-005",
+          "related_source_segment": {
+            "end": 162.24,
+            "sid": "S00054",
+            "start": 160.92,
+            "text": "在你没有上之前"
+          },
+          "same_sid_different_text": true
+        },
+        {
+          "sid": "S00055",
+          "current_source_id": "mikey-sijiao-004",
+          "current_source_segment": {
+            "end": 127.17,
+            "sid": "S00055",
+            "start": 125.57,
+            "text": "哦 嗨 阿姨好 阿姨好"
+          },
+          "related_source_id": "mikey-sijiao-005",
+          "related_source_segment": {
+            "end": 164.4,
+            "sid": "S00055",
+            "start": 162.24,
+            "text": "永远不要事先揣测这个女人"
+          },
+          "same_sid_different_text": true
+        },
+        {
+          "sid": "S00056",
+          "current_source_id": "mikey-sijiao-004",
+          "current_source_segment": {
+            "end": 129.37,
+            "sid": "S00056",
+            "start": 127.17,
+            "text": "对 我就过来跟你搭个设计而已"
+          },
+          "related_source_id": "mikey-sijiao-005",
+          "related_source_segment": {
+            "end": 165.56,
+            "sid": "S00056",
+            "start": 164.4,
+            "text": "她心里怎么想的 OK"
+          },
+          "same_sid_different_text": true
+        },
+        {
+          "sid": "S00058",
+          "current_source_id": "mikey-sijiao-004",
+          "current_source_segment": {
+            "end": 132.87,
+            "sid": "S00058",
+            "start": 131.27,
+            "text": "我跟我朋友他们过来吃饭"
+          },
+          "related_source_id": "mikey-sijiao-005",
+          "related_source_segment": {
+            "end": 167.8,
+            "sid": "S00058",
+            "start": 165.96,
+            "text": "她很高 很郁"
+          },
+          "same_sid_different_text": true
+        },
+        {
+          "sid": "S00059",
+          "current_source_id": "mikey-sijiao-004",
+          "current_source_segment": {
+            "end": 133.97,
+            "sid": "S00059",
+            "start": 132.87,
+            "text": "可以看到 对"
+          },
+          "related_source_id": "mikey-sijiao-005",
+          "related_source_segment": {
+            "end": 170.36,
+            "sid": "S00059",
+            "start": 169.24,
+            "text": "起码比你高一个头"
+          },
+          "same_sid_different_text": true
+        },
+        {
+          "sid": "S00062",
+          "current_source_id": "mikey-sijiao-004",
+          "current_source_segment": {
+            "end": 143.57,
+            "sid": "S00062",
+            "start": 141.47,
+            "text": "他虽然不是很好看 但是你应该上 你懂吧"
+          },
+          "related_source_id": "mikey-sijiao-005",
+          "related_source_segment": {
+            "end": 175.64,
+            "sid": "S00062",
+            "start": 173.96,
+            "text": "人家就是我愿意给你号 OK"
+          },
+          "same_sid_different_text": true
+        },
+        {
+          "sid": "S00064",
+          "current_source_id": "mikey-sijiao-004",
+          "current_source_segment": {
+            "end": 146.89,
+            "sid": "S00064",
+            "start": 146.39,
+            "text": "OK"
+          },
+          "related_source_id": "mikey-sijiao-005",
+          "related_source_segment": {
+            "end": 179.28,
+            "sid": "S00064",
+            "start": 176.28,
+            "text": "所以说不要不要给自我限制"
+          },
+          "same_sid_different_text": true
+        },
+        {
+          "sid": "S00065",
+          "current_source_id": "mikey-sijiao-004",
+          "current_source_segment": {
+            "end": 154.29,
+            "sid": "S00065",
+            "start": 153.27,
+            "text": "哈喽不好意思"
+          },
+          "related_source_id": "mikey-sijiao-005",
+          "related_source_segment": {
+            "end": 181.38,
+            "sid": "S00065",
+            "start": 179.28,
+            "text": "女人女人都没有说什么"
+          },
+          "same_sid_different_text": true
+        },
+        {
+          "sid": "S00066",
+          "current_source_id": "mikey-sijiao-004",
+          "current_source_segment": {
+            "end": 156.59,
+            "sid": "S00066",
+            "start": 154.79,
+            "text": "不好意思打打扰一下"
+          },
+          "related_source_id": "mikey-sijiao-005",
+          "related_source_segment": {
+            "end": 183.28,
+            "sid": "S00066",
+            "start": 181.38,
+            "text": "你不要给自己增加什么限制"
+          },
+          "same_sid_different_text": true
+        },
+        {
+          "sid": "S00067",
+          "current_source_id": "mikey-sijiao-004",
+          "current_source_segment": {
+            "end": 159.67,
+            "sid": "S00067",
+            "start": 157.11,
+            "text": "哎不好意思我就看你的衣服很喜欢"
+          },
+          "related_source_id": "mikey-sijiao-005",
+          "related_source_segment": {
+            "end": 184.78,
+            "sid": "S00067",
+            "start": 183.28,
+            "text": "上了就说 ok ok"
+          },
+          "same_sid_different_text": true
+        }
+      ],
+      "history_requirement": "另存原current对象/行原字及SHA，再改现行投影；raw_notes.original_entry、原引文/索引/待核全部保留并标为历史。",
+      "permission_effect": "narrower_hold_false_false_no_whole_object_or_raw_word_grant",
+      "review_tasks_closed": 0
+    },
+    {
+      "knowledge_id": "mikey-sijiao-004-K0003",
+      "proposal_only": true,
+      "implemented": false,
+      "correction_kind": "current_claim_and_attribution_source_mapping_repair_not_blind_source_relabel",
+      "current_record_source_id_to_preserve_as_catalog_and_history": "mikey-sijiao-004",
+      "claim_origin_source_id_correction": "mikey-sijiao-005",
+      "related_existing_knowledge_id": "mikey-sijiao-005-K0003",
+      "do_not_duplicate_method_or_transfer_entire_parent_permission": true,
+      "current_object_sha256": "d57a683d3d52861951cb73aea7775dea87c5ccea57f2f0e7b95c53fef7e2aab1",
+      "proposed_current_record": {
+        "id": "mikey-sijiao-004-K0003",
+        "source_id": "mikey-sijiao-004",
+        "date": null,
+        "title": "邀约处慌乱会让意图变模糊",
+        "claim": "本条旧“即时邀约时的慌乱与意图表达”命题未获当前mikey-sijiao-004引文及完整安全窗口支持，不能作为Mikey在004的观点或方法。相同SID编号在mikey-sijiao-005对应不同原句，005既有mikey-sijiao-005-K0003有相关讲解；不得把005内容写回004或将本条重复计为独立教学。",
+        "reason": null,
+        "method_or_meaning": null,
+        "conditions": [],
+        "limits": [
+          "当前004引文不支持旧命题，禁止人物化、行动化或以原direct/explicit_mikey覆盖。",
+          "raw_notes.original_entry及原索引/原待核仅保留为纠错前历史，不得作为现行命题依据。",
+          "005仅为相同教学的已验证文字定位，使用须回读其独立有限payload；不授予整个005原对象许可。"
+        ],
+        "evidence": [
+          {
+            "sid": "S00131",
+            "start": 295.67,
+            "end": 296.67,
+            "text": "还没打烊",
+            "kind": "automatic_transcript_segment_not_sentence_by_sentence_verified",
+            "url": null
+          },
+          {
+            "sid": "S00132",
+            "start": 296.67,
+            "end": 297.67,
+            "text": "好",
+            "kind": "automatic_transcript_segment_not_sentence_by_sentence_verified",
+            "url": null
+          },
+          {
+            "sid": "S00137",
+            "start": 311.67,
+            "end": 313.67,
+            "text": "你们是在这边拍照",
+            "kind": "automatic_transcript_segment_not_sentence_by_sentence_verified",
+            "url": null
+          },
+          {
+            "sid": "S00138",
+            "start": 314.19,
+            "end": 315.97,
+            "text": "你是口音不是本地人啊",
+            "kind": "automatic_transcript_segment_not_sentence_by_sentence_verified",
+            "url": null
+          },
+          {
+            "sid": "S00140",
+            "start": 318.79,
+            "end": 319.81,
+            "text": "湖南",
+            "kind": "automatic_transcript_segment_not_sentence_by_sentence_verified",
+            "url": null
+          },
+          {
+            "sid": "S00142",
+            "start": 323.15,
+            "end": 324.43,
+            "text": "衡阳",
+            "kind": "automatic_transcript_segment_not_sentence_by_sentence_verified",
+            "url": null
+          },
+          {
+            "sid": "S00143",
+            "start": 324.67,
+            "end": 326.47,
+            "text": "湖南是那个恒山那里",
+            "kind": "automatic_transcript_segment_not_sentence_by_sentence_verified",
+            "url": null
+          },
+          {
+            "sid": "S00145",
+            "start": 330.31,
+            "end": 331.33,
+            "text": "很小的时候了",
+            "kind": "automatic_transcript_segment_not_sentence_by_sentence_verified",
+            "url": null
+          },
+          {
+            "sid": "S00147",
+            "start": 335.43,
+            "end": 336.45,
+            "text": "你们吃饭没有",
+            "kind": "automatic_transcript_segment_not_sentence_by_sentence_verified",
+            "url": null
+          },
+          {
+            "sid": "S00148",
+            "start": 337.73,
+            "end": 338.25,
+            "text": "吃过了",
+            "kind": "automatic_transcript_segment_not_sentence_by_sentence_verified",
+            "url": null
+          },
+          {
+            "sid": "S00149",
+            "start": 340.54,
+            "end": 342.34,
+            "text": "我叫Vincent 你怎么称呼",
+            "kind": "automatic_transcript_segment_not_sentence_by_sentence_verified",
+            "url": null
+          },
+          {
+            "sid": "S00152",
+            "start": 348.88,
+            "end": 351.88,
+            "text": "不是,我在看他刚刚就发的道理",
+            "kind": "automatic_transcript_segment_not_sentence_by_sentence_verified",
+            "url": null
+          },
+          {
+            "sid": "S00153",
+            "start": 351.88,
+            "end": 353.88,
+            "text": "没有关系,我们可以一会儿看,我在Mikey",
+            "kind": "automatic_transcript_segment_not_sentence_by_sentence_verified",
+            "url": null
+          }
+        ],
+        "status": {
+          "layer": "method",
+          "speaker_id": null,
+          "attribution": "unsupported_current_claim_to_source_mapping",
+          "release_status": "publish_with_context",
+          "cross_use_level": "hold",
+          "text": "automatic_transcript_with_episode_analysis_not_sentence_by_sentence_verified",
+          "visual": "sampled_and_targeted_review_not_continuous_av_verification",
+          "first_person_allowed": false,
+          "action_advice_allowed": false,
+          "speaker_claim_scope": "no_person_attribution_until_correct_source_mapping",
+          "runtime_notice": "current_projection_marks_confirmed_unsupported_mapping; legacy_claim_retained_as_history_only"
+        },
+        "related": {
+          "theme_ids": [
+            "T03",
+            "T06"
+          ],
+          "proposition_ids": [
+            "P09",
+            "P13"
+          ]
+        },
+        "raw_notes": {
+          "original_entry": {
+            "schema_version": "1.0",
+            "id": "mikey-sijiao-004-K0003",
+            "source_id": "mikey-sijiao-004",
+            "source_revision": "sha256:801496773398a62d3e605a3081df946bbf6256e17a72c89fe83a169527991b4d",
+            "transcript_revision": "sha256:0557034491c4e3a4c8ad2f7d9b3f6f33a06a4e80e40a1d3c824b98060ced9905",
+            "knowledge_type": "method",
+            "topic": "邀约处慌乱会让意图变模糊",
+            "question": "前面聊得流畅，为什么一提邀约就崩？",
+            "claim": "Mikey观察到学员在表达当天见面的意图时开始慌乱和退缩，导致口头内容与真实意图不一致；应先承认自己想邀约，再用清楚、可拒绝的方式提出。",
+            "event_ids": [
+              "mikey-sijiao-004-E0004"
+            ],
+            "claim_evidence_refs": [
+              {
+                "source_id": "mikey-sijiao-004",
+                "event_id": "mikey-sijiao-004-E0004",
+                "evidence_id": "mikey-sijiao-004-E0004-R015"
+              },
+              {
+                "source_id": "mikey-sijiao-004",
+                "event_id": "mikey-sijiao-004-E0004",
+                "evidence_id": "mikey-sijiao-004-E0004-R016"
+              },
+              {
+                "source_id": "mikey-sijiao-004",
+                "event_id": "mikey-sijiao-004-E0004",
+                "evidence_id": "mikey-sijiao-004-E0004-R021"
+              },
+              {
+                "source_id": "mikey-sijiao-004",
+                "event_id": "mikey-sijiao-004-E0004",
+                "evidence_id": "mikey-sijiao-004-E0004-R022"
+              },
+              {
+                "source_id": "mikey-sijiao-004",
+                "event_id": "mikey-sijiao-004-E0004",
+                "evidence_id": "mikey-sijiao-004-E0004-R024"
+              },
+              {
+                "source_id": "mikey-sijiao-004",
+                "event_id": "mikey-sijiao-004-E0004",
+                "evidence_id": "mikey-sijiao-004-E0004-R026"
+              },
+              {
+                "source_id": "mikey-sijiao-004",
+                "event_id": "mikey-sijiao-004-E0004",
+                "evidence_id": "mikey-sijiao-004-E0004-R027"
+              },
+              {
+                "source_id": "mikey-sijiao-004",
+                "event_id": "mikey-sijiao-004-E0004",
+                "evidence_id": "mikey-sijiao-004-E0004-R029"
+              },
+              {
+                "source_id": "mikey-sijiao-004",
+                "event_id": "mikey-sijiao-004-E0004",
+                "evidence_id": "mikey-sijiao-004-E0004-R031"
+              },
+              {
+                "source_id": "mikey-sijiao-004",
+                "event_id": "mikey-sijiao-004-E0004",
+                "evidence_id": "mikey-sijiao-004-E0004-R032"
+              },
+              {
+                "source_id": "mikey-sijiao-004",
+                "event_id": "mikey-sijiao-004-E0004",
+                "evidence_id": "mikey-sijiao-004-E0004-R033"
+              },
+              {
+                "source_id": "mikey-sijiao-004",
+                "event_id": "mikey-sijiao-004-E0004",
+                "evidence_id": "mikey-sijiao-004-E0004-R036"
+              },
+              {
+                "source_id": "mikey-sijiao-004",
+                "event_id": "mikey-sijiao-004-E0004",
+                "evidence_id": "mikey-sijiao-004-E0004-R037"
+              }
+            ],
+            "reasoning": [],
+            "method": [],
+            "conditions": [],
+            "examples": [],
+            "counterexamples": [],
+            "feedback": [],
+            "source_quotes": [
+              {
+                "source_id": "mikey-sijiao-004",
+                "event_id": "mikey-sijiao-004-E0004",
+                "evidence_id": "mikey-sijiao-004-E0004-R015",
+                "sid": "S00131",
+                "start": 295.67,
+                "end": 296.67,
+                "text_as_supplied": "还没打烊"
+              },
+              {
+                "source_id": "mikey-sijiao-004",
+                "event_id": "mikey-sijiao-004-E0004",
+                "evidence_id": "mikey-sijiao-004-E0004-R016",
+                "sid": "S00132",
+                "start": 296.67,
+                "end": 297.67,
+                "text_as_supplied": "好"
+              },
+              {
+                "source_id": "mikey-sijiao-004",
+                "event_id": "mikey-sijiao-004-E0004",
+                "evidence_id": "mikey-sijiao-004-E0004-R021",
+                "sid": "S00137",
+                "start": 311.67,
+                "end": 313.67,
+                "text_as_supplied": "你们是在这边拍照"
+              },
+              {
+                "source_id": "mikey-sijiao-004",
+                "event_id": "mikey-sijiao-004-E0004",
+                "evidence_id": "mikey-sijiao-004-E0004-R022",
+                "sid": "S00138",
+                "start": 314.19,
+                "end": 315.97,
+                "text_as_supplied": "你是口音不是本地人啊"
+              },
+              {
+                "source_id": "mikey-sijiao-004",
+                "event_id": "mikey-sijiao-004-E0004",
+                "evidence_id": "mikey-sijiao-004-E0004-R024",
+                "sid": "S00140",
+                "start": 318.79,
+                "end": 319.81,
+                "text_as_supplied": "湖南"
+              },
+              {
+                "source_id": "mikey-sijiao-004",
+                "event_id": "mikey-sijiao-004-E0004",
+                "evidence_id": "mikey-sijiao-004-E0004-R026",
+                "sid": "S00142",
+                "start": 323.15,
+                "end": 324.43,
+                "text_as_supplied": "衡阳"
+              },
+              {
+                "source_id": "mikey-sijiao-004",
+                "event_id": "mikey-sijiao-004-E0004",
+                "evidence_id": "mikey-sijiao-004-E0004-R027",
+                "sid": "S00143",
+                "start": 324.67,
+                "end": 326.47,
+                "text_as_supplied": "湖南是那个恒山那里"
+              },
+              {
+                "source_id": "mikey-sijiao-004",
+                "event_id": "mikey-sijiao-004-E0004",
+                "evidence_id": "mikey-sijiao-004-E0004-R029",
+                "sid": "S00145",
+                "start": 330.31,
+                "end": 331.33,
+                "text_as_supplied": "很小的时候了"
+              },
+              {
+                "source_id": "mikey-sijiao-004",
+                "event_id": "mikey-sijiao-004-E0004",
+                "evidence_id": "mikey-sijiao-004-E0004-R031",
+                "sid": "S00147",
+                "start": 335.43,
+                "end": 336.45,
+                "text_as_supplied": "你们吃饭没有"
+              },
+              {
+                "source_id": "mikey-sijiao-004",
+                "event_id": "mikey-sijiao-004-E0004",
+                "evidence_id": "mikey-sijiao-004-E0004-R032",
+                "sid": "S00148",
+                "start": 337.73,
+                "end": 338.25,
+                "text_as_supplied": "吃过了"
+              },
+              {
+                "source_id": "mikey-sijiao-004",
+                "event_id": "mikey-sijiao-004-E0004",
+                "evidence_id": "mikey-sijiao-004-E0004-R033",
+                "sid": "S00149",
+                "start": 340.54,
+                "end": 342.34,
+                "text_as_supplied": "我叫Vincent 你怎么称呼"
+              },
+              {
+                "source_id": "mikey-sijiao-004",
+                "event_id": "mikey-sijiao-004-E0004",
+                "evidence_id": "mikey-sijiao-004-E0004-R036",
+                "sid": "S00152",
+                "start": 348.88,
+                "end": 351.88,
+                "text_as_supplied": "不是,我在看他刚刚就发的道理"
+              },
+              {
+                "source_id": "mikey-sijiao-004",
+                "event_id": "mikey-sijiao-004-E0004",
+                "evidence_id": "mikey-sijiao-004-E0004-R037",
+                "sid": "S00153",
+                "start": 351.88,
+                "end": 353.88,
+                "text_as_supplied": "没有关系,我们可以一会儿看,我在Mikey"
+              }
+            ],
+            "attribution_status": "explicit_mikey",
+            "release_status": "publish_with_context",
+            "unknowns": []
+          },
+          "cross_index": {
+            "knowledge_id": "mikey-sijiao-004-K0003",
+            "source_id": "mikey-sijiao-004",
+            "topic": "邀约处慌乱会让意图变模糊",
+            "theme_ids": [
+              "T03",
+              "T06"
+            ],
+            "proposition_ids": [
+              "P09",
+              "P13"
+            ],
+            "use_level": "direct"
+          },
+          "source_mapping_correction": {
+            "legacy_record_scope": "history_only_not_current_claim_authority",
+            "confirmed_unsupported_source_id": "mikey-sijiao-004",
+            "verified_related_teaching_source_id": "mikey-sijiao-005",
+            "verified_related_parent_id": "mikey-sijiao-005-K0003",
+            "new_audio_visual_review": false,
+            "review_tasks_closed": 0
+          }
+        },
+        "provenance": {
+          "source_analysis": "references/sijiao/mikey-sijiao-004/episode-analysis.md",
+          "source_entry_id": "mikey-sijiao-004-K0003",
+          "transcript": "references/sijiao/mikey-sijiao-004/transcript.json",
+          "review_needed": "references/sijiao/mikey-sijiao-004/review-needed.md",
+          "visual_reports": [
+            "references/sijiao/mikey-sijiao-004/visual/review.md"
+          ],
+          "cross_synthesis": "references/sijiao/cross-video/sijiao-cross-synthesis.json",
+          "project_source_path": "../research/sijiao/items/mikey-sijiao-004",
+          "current_claim_support_status": "unsupported_in_current_source",
+          "related_verified_teaching_source_id": "mikey-sijiao-005",
+          "related_existing_knowledge_id": "mikey-sijiao-005-K0003"
+        },
+        "content_origin": "editorial_source_mapping_correction_not_new_mikey_teaching",
+        "speaker_claim_scope": "no_attribution_for_unsupported_004_claim"
+      },
+      "proposed_current_record_sha256": "0ae782d2a62ea25ccb6f6d34b921c2d8ea4cbf63f87609043841adcb9bf18393",
+      "exact_changed_fields": [
+        "/claim",
+        "/content_origin",
+        "/limits",
+        "/provenance/current_claim_support_status",
+        "/provenance/related_existing_knowledge_id",
+        "/provenance/related_verified_teaching_source_id",
+        "/raw_notes/source_mapping_correction",
+        "/speaker_claim_scope",
+        "/status/attribution",
+        "/status/cross_use_level",
+        "/status/runtime_notice",
+        "/status/speaker_claim_scope"
+      ],
+      "same_sid_different_source_comparisons": [
+        {
+          "sid": "S00131",
+          "current_source_id": "mikey-sijiao-004",
+          "current_source_segment": {
+            "end": 296.67,
+            "sid": "S00131",
+            "start": 295.67,
+            "text": "还没打烊"
+          },
+          "related_source_id": "mikey-sijiao-005",
+          "related_source_segment": {
+            "end": 344.64,
+            "sid": "S00131",
+            "start": 342.64,
+            "text": "你是不是想跟他及时约会"
+          },
+          "same_sid_different_text": true
+        },
+        {
+          "sid": "S00132",
+          "current_source_id": "mikey-sijiao-004",
+          "current_source_segment": {
+            "end": 297.67,
+            "sid": "S00132",
+            "start": 296.67,
+            "text": "好"
+          },
+          "related_source_id": "mikey-sijiao-005",
+          "related_source_segment": {
+            "end": 346.64,
+            "sid": "S00132",
+            "start": 344.64,
+            "text": "那你为什么没有说"
+          },
+          "same_sid_different_text": true
+        },
+        {
+          "sid": "S00137",
+          "current_source_id": "mikey-sijiao-004",
+          "current_source_segment": {
+            "end": 313.67,
+            "sid": "S00137",
+            "start": 311.67,
+            "text": "你们是在这边拍照"
+          },
+          "related_source_id": "mikey-sijiao-005",
+          "related_source_segment": {
+            "end": 354.64,
+            "sid": "S00137",
+            "start": 352.64,
+            "text": "我说有时间可以"
+          },
+          "same_sid_different_text": true
+        },
+        {
+          "sid": "S00138",
+          "current_source_id": "mikey-sijiao-004",
+          "current_source_segment": {
+            "end": 315.97,
+            "sid": "S00138",
+            "start": 314.19,
+            "text": "你是口音不是本地人啊"
+          },
+          "related_source_id": "mikey-sijiao-005",
+          "related_source_segment": {
+            "end": 356.2,
+            "sid": "S00138",
+            "start": 354.64,
+            "text": "我想跟你约会"
+          },
+          "same_sid_different_text": true
+        },
+        {
+          "sid": "S00140",
+          "current_source_id": "mikey-sijiao-004",
+          "current_source_segment": {
+            "end": 319.81,
+            "sid": "S00140",
+            "start": 318.79,
+            "text": "湖南"
+          },
+          "related_source_id": "mikey-sijiao-005",
+          "related_source_segment": {
+            "end": 359.4,
+            "sid": "S00140",
+            "start": 357.48,
+            "text": "OK 我想跟你约会"
+          },
+          "same_sid_different_text": true
+        },
+        {
+          "sid": "S00142",
+          "current_source_id": "mikey-sijiao-004",
+          "current_source_segment": {
+            "end": 324.43,
+            "sid": "S00142",
+            "start": 323.15,
+            "text": "衡阳"
+          },
+          "related_source_id": "mikey-sijiao-005",
+          "related_source_segment": {
+            "end": 361.48,
+            "sid": "S00142",
+            "start": 359.7,
+            "text": "我今天就想跟你约会"
+          },
+          "same_sid_different_text": true
+        },
+        {
+          "sid": "S00143",
+          "current_source_id": "mikey-sijiao-004",
+          "current_source_segment": {
+            "end": 326.47,
+            "sid": "S00143",
+            "start": 324.67,
+            "text": "湖南是那个恒山那里"
+          },
+          "related_source_id": "mikey-sijiao-005",
+          "related_source_segment": {
+            "end": 362.78,
+            "sid": "S00143",
+            "start": 361.48,
+            "text": "算了算了 我害怕"
+          },
+          "same_sid_different_text": true
+        },
+        {
+          "sid": "S00145",
+          "current_source_id": "mikey-sijiao-004",
+          "current_source_segment": {
+            "end": 331.33,
+            "sid": "S00145",
+            "start": 330.31,
+            "text": "很小的时候了"
+          },
+          "related_source_id": "mikey-sijiao-005",
+          "related_source_segment": {
+            "end": 365.32,
+            "sid": "S00145",
+            "start": 363.34,
+            "text": "你浅沟通传递是这个信息"
+          },
+          "same_sid_different_text": true
+        },
+        {
+          "sid": "S00147",
+          "current_source_id": "mikey-sijiao-004",
+          "current_source_segment": {
+            "end": 336.45,
+            "sid": "S00147",
+            "start": 335.43,
+            "text": "你们吃饭没有"
+          },
+          "related_source_id": "mikey-sijiao-005",
+          "related_source_segment": {
+            "end": 368.44,
+            "sid": "S00147",
+            "start": 366.06,
+            "text": "但是你前面是很有流畅度的"
+          },
+          "same_sid_different_text": true
+        },
+        {
+          "sid": "S00148",
+          "current_source_id": "mikey-sijiao-004",
+          "current_source_segment": {
+            "end": 338.25,
+            "sid": "S00148",
+            "start": 337.73,
+            "text": "吃过了"
+          },
+          "related_source_id": "mikey-sijiao-005",
+          "related_source_segment": {
+            "end": 370.86,
+            "sid": "S00148",
+            "start": 368.44,
+            "text": "但是在你谈到邀约那一刻开始"
+          },
+          "same_sid_different_text": true
+        },
+        {
+          "sid": "S00149",
+          "current_source_id": "mikey-sijiao-004",
+          "current_source_segment": {
+            "end": 342.34,
+            "sid": "S00149",
+            "start": 340.54,
+            "text": "我叫Vincent 你怎么称呼"
+          },
+          "related_source_id": "mikey-sijiao-005",
+          "related_source_segment": {
+            "end": 373.04,
+            "sid": "S00149",
+            "start": 370.86,
+            "text": "你后面整个人就是很慌"
+          },
+          "same_sid_different_text": true
+        },
+        {
+          "sid": "S00152",
+          "current_source_id": "mikey-sijiao-004",
+          "current_source_segment": {
+            "end": 351.88,
+            "sid": "S00152",
+            "start": 348.88,
+            "text": "不是,我在看他刚刚就发的道理"
+          },
+          "related_source_id": "mikey-sijiao-005",
+          "related_source_segment": {
+            "end": 376.16,
+            "sid": "S00152",
+            "start": 374.76,
+            "text": "你的意图变得不清晰了"
+          },
+          "same_sid_different_text": true
+        },
+        {
+          "sid": "S00153",
+          "current_source_id": "mikey-sijiao-004",
+          "current_source_segment": {
+            "end": 353.88,
+            "sid": "S00153",
+            "start": 351.88,
+            "text": "没有关系,我们可以一会儿看,我在Mikey"
+          },
+          "related_source_id": "mikey-sijiao-005",
+          "related_source_segment": {
+            "end": 377.34,
+            "sid": "S00153",
+            "start": 376.16,
+            "text": "变混乱了"
+          },
+          "same_sid_different_text": true
+        }
+      ],
+      "history_requirement": "另存原current对象/行原字及SHA，再改现行投影；raw_notes.original_entry、原引文/索引/待核全部保留并标为历史。",
+      "permission_effect": "narrower_hold_false_false_no_whole_object_or_raw_word_grant",
+      "review_tasks_closed": 0
+    },
+    {
+      "knowledge_id": "mikey-youtube-live-010-K0007",
+      "original_object": {
+        "id": "mikey-youtube-live-010-K0007",
+        "source_id": "mikey-youtube-live-010",
+        "date": "2025-03-09",
+        "title": "策略与体验",
+        "claim": "可以短暂抽离判断阶段和下一步，然后马上回到互动执行；思考应服务于体验，不能占满全场。",
+        "reason": null,
+        "method_or_meaning": null,
+        "conditions": [],
+        "limits": [
+          "自动稿未逐句听校；本批查重完成前不发布"
+        ],
+        "evidence": [
+          {
+            "sid": "S00533",
+            "start": 1211.56,
+            "end": 1212.18,
+            "text": "你们真的想看",
+            "kind": "automatic_transcript_segment_not_sentence_by_sentence_verified",
+            "url": "https://www.youtube.com/watch?v=CxNdBfHWns8&t=1211s"
+          },
+          {
+            "sid": "S00562",
+            "start": 1301.33,
+            "end": 1303.25,
+            "text": "是不是需要减少一下幽默感",
+            "kind": "automatic_transcript_segment_not_sentence_by_sentence_verified",
+            "url": "https://www.youtube.com/watch?v=CxNdBfHWns8&t=1301s"
+          },
+          {
+            "sid": "S00616",
+            "start": 1430.41,
+            "end": 1431.53,
+            "text": "那远离",
+            "kind": "automatic_transcript_segment_not_sentence_by_sentence_verified",
+            "url": "https://www.youtube.com/watch?v=CxNdBfHWns8&t=1430s"
+          }
+        ],
+        "status": {
+          "layer": "method_or_principle",
+          "speaker_id": null,
+          "attribution": "explicit_mikey",
+          "release_status": "candidate_only",
+          "cross_use_level": "direct",
+          "text": "automatic_transcript_with_episode_analysis_not_sentence_by_sentence_verified",
+          "visual": "sampled_visual_review_not_continuous_av_verification",
+          "first_person_allowed": false,
+          "action_advice_allowed": false
+        },
+        "related": {
+          "theme_ids": [
+            "T01"
+          ],
+          "proposition_ids": []
+        },
+        "raw_notes": {
+          "original_entry": {
+            "schema_version": "1.0",
+            "id": "mikey-youtube-live-010-K0007",
+            "source_id": "mikey-youtube-live-010",
+            "knowledge_type": "method_or_principle",
+            "topic": "策略与体验",
+            "question": "分析约会阶段会不会破坏当下？",
+            "claim": "可以短暂抽离判断阶段和下一步，然后马上回到互动执行；思考应服务于体验，不能占满全场。",
+            "event_ids": [
+              "mikey-youtube-live-010-E0005"
+            ],
+            "claim_evidence_refs": [
+              {
+                "source_id": "mikey-youtube-live-010",
+                "event_id": "mikey-youtube-live-010-E0005",
+                "evidence_id": "mikey-youtube-live-010-E0005-R005"
+              },
+              {
+                "source_id": "mikey-youtube-live-010",
+                "event_id": "mikey-youtube-live-010-E0005",
+                "evidence_id": "mikey-youtube-live-010-E0005-R034"
+              },
+              {
+                "source_id": "mikey-youtube-live-010",
+                "event_id": "mikey-youtube-live-010-E0005",
+                "evidence_id": "mikey-youtube-live-010-E0005-R088"
+              }
+            ],
+            "source_quotes": [
+              {
+                "source_id": "mikey-youtube-live-010",
+                "event_id": "mikey-youtube-live-010-E0005",
+                "evidence_id": "mikey-youtube-live-010-E0005-R005",
+                "sid": "S00533",
+                "start": 1211.56,
+                "end": 1212.18,
+                "text_as_supplied": "你们真的想看",
+                "youtube_url": "https://www.youtube.com/watch?v=CxNdBfHWns8&t=1211s"
+              },
+              {
+                "source_id": "mikey-youtube-live-010",
+                "event_id": "mikey-youtube-live-010-E0005",
+                "evidence_id": "mikey-youtube-live-010-E0005-R034",
+                "sid": "S00562",
+                "start": 1301.33,
+                "end": 1303.25,
+                "text_as_supplied": "是不是需要减少一下幽默感",
+                "youtube_url": "https://www.youtube.com/watch?v=CxNdBfHWns8&t=1301s"
+              },
+              {
+                "source_id": "mikey-youtube-live-010",
+                "event_id": "mikey-youtube-live-010-E0005",
+                "evidence_id": "mikey-youtube-live-010-E0005-R088",
+                "sid": "S00616",
+                "start": 1430.41,
+                "end": 1431.53,
+                "text_as_supplied": "那远离",
+                "youtube_url": "https://www.youtube.com/watch?v=CxNdBfHWns8&t=1430s"
+              }
+            ],
+            "attribution_status": "explicit_mikey",
+            "release_status": "candidate_only",
+            "unknowns": [
+              "自动稿未逐句听校；本批查重完成前不发布"
+            ]
+          },
+          "cross_index": {
+            "knowledge_id": "mikey-youtube-live-010-K0007",
+            "source_id": "mikey-youtube-live-010",
+            "theme_ids": [
+              "T01"
+            ],
+            "proposition_ids": [],
+            "use_level": "direct",
+            "use_reason": "新基线为candidate_only + explicit_mikey，且知识及所属事件均无关联open blocking；沿用上一版经逐条风险筛选得到的direct，仅依据该知识自身精确证据，不因跨期重复而升级。",
+            "blocking_review_ids": []
+          }
+        },
+        "provenance": {
+          "source_analysis": "references/youtube-live-batch1/mikey-youtube-live-010/episode-analysis.md",
+          "source_entry_id": "mikey-youtube-live-010-K0007",
+          "transcript": "references/youtube-live-batch1/mikey-youtube-live-010/transcript.json",
+          "event_timeline": "references/youtube-live-batch1/mikey-youtube-live-010/events.jsonl",
+          "speaker_registry": "references/youtube-live-batch1/mikey-youtube-live-010/speakers.json",
+          "review_needed": "references/youtube-live-batch1/mikey-youtube-live-010/review-needed.md",
+          "visual_reports": [
+            "references/youtube-live-batch1/mikey-youtube-live-010/visual/review.md"
+          ],
+          "cross_synthesis": "references/youtube-live-batch1/cross-video/youtube-live-batch1-cross-synthesis.json",
+          "project_source_path": "../research/youtube-live-batch1/items/mikey-youtube-live-010"
+        }
+      },
+      "original_canonical_sha256": "acdf37f90b84a9d7611814dfbea7214f5dfbcfce0e185e5dee9020d0b5c5986d",
+      "proposed_current_object": {
+        "id": "mikey-youtube-live-010-K0007",
+        "source_id": "mikey-youtube-live-010",
+        "date": "2025-03-09",
+        "title": "策略与体验",
+        "claim": "在聊天或约会里，短暂判断当前阶段和下一步策略，与投入当下的互动并不矛盾；确定行动后，再回到当下去执行。",
+        "reason": "Mikey区分短暂判断与全程在头脑里反复演算，用游戏时查看小地图或计分板后继续操作的类比解释二者可以交替。",
+        "method_or_meaning": null,
+        "conditions": [],
+        "limits": [
+          "自动稿未逐句听校；本批查重完成前不发布",
+          "第二版修正了原claim对应的SID；旧错误锚点只在历史保留，父条权限仍关闭。",
+          "不把原十几二十秒定为必须遵守的计时规则。",
+          "原稿S00448/S00449有记了等未音校词面，不用于直接引语或成功率预测。",
+          "游戏只是Mikey的类比，不能作为已经证明所有约会都适用的实验。",
+          "不能把全程思考必然失败、疲惫必然没享受等人物强判断当成现实诊断或确定效果。",
+          "[读题边界] S00388–S00390是代读观众问题，只作上下文；人物回应从S00391开始，读题不作为Mikey立场。",
+          "[编者条件归属] 双方愿意继续及遇到拒绝即停止是项目的使用条件，不声称这是本段来源教出的步骤；本方法不补出约会阶段分类、推进目的或具体推进动作。"
+        ],
+        "evidence": [
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00388",
+            "start": 904.28,
+            "end": 908.74,
+            "text": "但是学了学习了约会的几个阶段",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00389",
+            "start": 908.74,
+            "end": 910.4,
+            "text": "关注约会处于什么阶段",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00390",
+            "start": 910.4,
+            "end": 911.7,
+            "text": "是不是就不是在当下",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00391",
+            "start": 911.7,
+            "end": 912.78,
+            "text": "不是这样子的",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00392",
+            "start": 912.78,
+            "end": 914.46,
+            "text": "比如说我跟你们讲",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00393",
+            "start": 914.46,
+            "end": 916.6,
+            "text": "怎么样去评估当下这个阶段",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00394",
+            "start": 916.6,
+            "end": 918.3,
+            "text": "我们在跟这女生聊天的时候",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00395",
+            "start": 918.3,
+            "end": 919.12,
+            "text": "约会的时候呢",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00396",
+            "start": 919.12,
+            "end": 921.74,
+            "text": "我们突然就是把大脑",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00397",
+            "start": 921.74,
+            "end": 925.14,
+            "text": "就是把我们人给抽离回当下",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00398",
+            "start": 925.14,
+            "end": 926.64,
+            "text": "回来然后就是进入头脑",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00399",
+            "start": 926.64,
+            "end": 927.58,
+            "text": "去思考一下",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00400",
+            "start": 927.58,
+            "end": 928.8,
+            "text": "我们当下是属于一个什么阶段",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00401",
+            "start": 928.8,
+            "end": 929.84,
+            "text": "我下一步策略是什么",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00402",
+            "start": 929.84,
+            "end": 931.68,
+            "text": "好一旦敲定这个策略",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00403",
+            "start": 931.68,
+            "end": 933.04,
+            "text": "确定了这个行动",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00404",
+            "start": 933.04,
+            "end": 934.64,
+            "text": "马上再回到当下",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00405",
+            "start": 934.64,
+            "end": 936.86,
+            "text": "然后继续做你当",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00406",
+            "start": 936.86,
+            "end": 939.74,
+            "text": "就你当时大脑里的演算的那个策略",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00407",
+            "start": 939.74,
+            "end": 941.62,
+            "text": "就行执行那个策略就OK了",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00408",
+            "start": 941.62,
+            "end": 942.42,
+            "text": "能理解吧",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00409",
+            "start": 942.42,
+            "end": 943.6,
+            "text": "就你需要",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00410",
+            "start": 943.6,
+            "end": 946.74,
+            "text": "就比如说我们在打游戏的时候呢",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00411",
+            "start": 946.74,
+            "end": 948.06,
+            "text": "我们思考归思考",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00412",
+            "start": 948.06,
+            "end": 950.56,
+            "text": "但是我们在沉浸式跟别人兑现的时候",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00413",
+            "start": 950.56,
+            "end": 951.9,
+            "text": "我们是沉浸式兑现的",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00414",
+            "start": 951.9,
+            "end": 952.88,
+            "text": "能理解吧",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00415",
+            "start": 952.88,
+            "end": 955.08,
+            "text": "我们可能就是打一会之后呢",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00416",
+            "start": 955.08,
+            "end": 956.1,
+            "text": "我们看一会小地图",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00417",
+            "start": 956.1,
+            "end": 957.36,
+            "text": "我们打一会之后呢",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00418",
+            "start": 957.36,
+            "end": 958.42,
+            "text": "我们看一下积分版",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00419",
+            "start": 958.42,
+            "end": 959.44,
+            "text": "我们看完之后呢",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00420",
+            "start": 959.44,
+            "end": 960.58,
+            "text": "马上又回到当下了",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00421",
+            "start": 960.58,
+            "end": 961.62,
+            "text": "那一样的",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00422",
+            "start": 961.62,
+            "end": 962.88,
+            "text": "我们跟女生约会的时候呢",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00423",
+            "start": 962.88,
+            "end": 963.2,
+            "text": "也是",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00424",
+            "start": 963.2,
+            "end": 964.16,
+            "text": "就是我们",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00425",
+            "start": 964.16,
+            "end": 965.54,
+            "text": "可能约会的时候",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00426",
+            "start": 965.54,
+            "end": 966.84,
+            "text": "我们在享受咖啡",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00427",
+            "start": 966.84,
+            "end": 967.68,
+            "text": "享受美酒",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00428",
+            "start": 967.68,
+            "end": 968.68,
+            "text": "享受聊天",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00429",
+            "start": 968.68,
+            "end": 969.36,
+            "text": "然后呢",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00430",
+            "start": 969.36,
+            "end": 970.94,
+            "text": "这个时候短暂的抽离回来",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00431",
+            "start": 970.94,
+            "end": 971.52,
+            "text": "然后看一下",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00432",
+            "start": 971.52,
+            "end": 973.32,
+            "text": "我们当下是处于一个什么样的阶段",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00433",
+            "start": 973.32,
+            "end": 974.22,
+            "text": "我下一步该干嘛",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00434",
+            "start": 974.22,
+            "end": 975.92,
+            "text": "一旦确定马上回到当下",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00435",
+            "start": 975.92,
+            "end": 977.98,
+            "text": "然后继续执行刚下的策略",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00436",
+            "start": 977.98,
+            "end": 979.96,
+            "text": "它是不冲突的",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00437",
+            "start": 979.96,
+            "end": 980.9,
+            "text": "它是不冲突的",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00438",
+            "start": 980.9,
+            "end": 981.98,
+            "text": "最怕的是那种",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00439",
+            "start": 981.98,
+            "end": 982.88,
+            "text": "就是我全程",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00440",
+            "start": 982.88,
+            "end": 983.9,
+            "text": "我都在回到头脑里",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00441",
+            "start": 983.9,
+            "end": 985.32,
+            "text": "我一直在想来想去",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00442",
+            "start": 985.32,
+            "end": 985.86,
+            "text": "想话术",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00443",
+            "start": 985.86,
+            "end": 986.84,
+            "text": "想各种各样的策略",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00444",
+            "start": 986.84,
+            "end": 988.16,
+            "text": "想东想西",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00445",
+            "start": 988.16,
+            "end": 989.14,
+            "text": "想给IOI",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00446",
+            "start": 989.14,
+            "end": 989.84,
+            "text": "想给IOD",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          }
+        ],
+        "status": {
+          "layer": "method_or_principle",
+          "speaker_id": null,
+          "attribution": "explicit_mikey",
+          "release_status": "candidate_only",
+          "cross_use_level": "hold",
+          "text": "automatic_transcript_with_episode_analysis_not_sentence_by_sentence_verified",
+          "visual": "sampled_visual_review_not_continuous_av_verification",
+          "first_person_allowed": false,
+          "action_advice_allowed": false
+        },
+        "related": {
+          "theme_ids": [
+            "T01"
+          ],
+          "proposition_ids": []
+        },
+        "raw_notes": {
+          "original_entry": {
+            "schema_version": "1.0",
+            "id": "mikey-youtube-live-010-K0007",
+            "source_id": "mikey-youtube-live-010",
+            "knowledge_type": "method_or_principle",
+            "topic": "策略与体验",
+            "question": "分析约会阶段会不会破坏当下？",
+            "claim": "可以短暂抽离判断阶段和下一步，然后马上回到互动执行；思考应服务于体验，不能占满全场。",
+            "event_ids": [
+              "mikey-youtube-live-010-E0005"
+            ],
+            "claim_evidence_refs": [
+              {
+                "source_id": "mikey-youtube-live-010",
+                "event_id": "mikey-youtube-live-010-E0005",
+                "evidence_id": "mikey-youtube-live-010-E0005-R005"
+              },
+              {
+                "source_id": "mikey-youtube-live-010",
+                "event_id": "mikey-youtube-live-010-E0005",
+                "evidence_id": "mikey-youtube-live-010-E0005-R034"
+              },
+              {
+                "source_id": "mikey-youtube-live-010",
+                "event_id": "mikey-youtube-live-010-E0005",
+                "evidence_id": "mikey-youtube-live-010-E0005-R088"
+              }
+            ],
+            "source_quotes": [
+              {
+                "source_id": "mikey-youtube-live-010",
+                "event_id": "mikey-youtube-live-010-E0005",
+                "evidence_id": "mikey-youtube-live-010-E0005-R005",
+                "sid": "S00533",
+                "start": 1211.56,
+                "end": 1212.18,
+                "text_as_supplied": "你们真的想看",
+                "youtube_url": "https://www.youtube.com/watch?v=CxNdBfHWns8&t=1211s"
+              },
+              {
+                "source_id": "mikey-youtube-live-010",
+                "event_id": "mikey-youtube-live-010-E0005",
+                "evidence_id": "mikey-youtube-live-010-E0005-R034",
+                "sid": "S00562",
+                "start": 1301.33,
+                "end": 1303.25,
+                "text_as_supplied": "是不是需要减少一下幽默感",
+                "youtube_url": "https://www.youtube.com/watch?v=CxNdBfHWns8&t=1301s"
+              },
+              {
+                "source_id": "mikey-youtube-live-010",
+                "event_id": "mikey-youtube-live-010-E0005",
+                "evidence_id": "mikey-youtube-live-010-E0005-R088",
+                "sid": "S00616",
+                "start": 1430.41,
+                "end": 1431.53,
+                "text_as_supplied": "那远离",
+                "youtube_url": "https://www.youtube.com/watch?v=CxNdBfHWns8&t=1430s"
+              }
+            ],
+            "attribution_status": "explicit_mikey",
+            "release_status": "candidate_only",
+            "unknowns": [
+              "自动稿未逐句听校；本批查重完成前不发布"
+            ]
+          },
+          "cross_index": {
+            "knowledge_id": "mikey-youtube-live-010-K0007",
+            "source_id": "mikey-youtube-live-010",
+            "theme_ids": [
+              "T01"
+            ],
+            "proposition_ids": [],
+            "use_level": "direct",
+            "use_reason": "新基线为candidate_only + explicit_mikey，且知识及所属事件均无关联open blocking；沿用上一版经逐条风险筛选得到的direct，仅依据该知识自身精确证据，不因跨期重复而升级。",
+            "blocking_review_ids": []
+          },
+          "v2_evidence_mapping_correction": {
+            "original_current_object_sha256": "acdf37f90b84a9d7611814dfbea7214f5dfbcfce0e185e5dee9020d0b5c5986d",
+            "original_retained_in": "history/v2-source-mapping-corrections.jsonl",
+            "scope": "claim_to_saved_SID_mapping_only_not_audio_or_permission_grant",
+            "correct_evidence_sids": [
+              "S00388",
+              "S00389",
+              "S00390",
+              "S00391",
+              "S00392",
+              "S00393",
+              "S00394",
+              "S00395",
+              "S00396",
+              "S00397",
+              "S00398",
+              "S00399",
+              "S00400",
+              "S00401",
+              "S00402",
+              "S00403",
+              "S00404",
+              "S00405",
+              "S00406",
+              "S00407",
+              "S00408",
+              "S00409",
+              "S00410",
+              "S00411",
+              "S00412",
+              "S00413",
+              "S00414",
+              "S00415",
+              "S00416",
+              "S00417",
+              "S00418",
+              "S00419",
+              "S00420",
+              "S00421",
+              "S00422",
+              "S00423",
+              "S00424",
+              "S00425",
+              "S00426",
+              "S00427",
+              "S00428",
+              "S00429",
+              "S00430",
+              "S00431",
+              "S00432",
+              "S00433",
+              "S00434",
+              "S00435",
+              "S00436",
+              "S00437",
+              "S00438",
+              "S00439",
+              "S00440",
+              "S00441",
+              "S00442",
+              "S00443",
+              "S00444",
+              "S00445",
+              "S00446"
+            ],
+            "history_reference_status": "proposed_history_must_be_materialized_and_registered_before_application",
+            "responding_viewpoint_sids": [
+              "S00391",
+              "S00392",
+              "S00393",
+              "S00394",
+              "S00395",
+              "S00396",
+              "S00397",
+              "S00398",
+              "S00399",
+              "S00400",
+              "S00401",
+              "S00402",
+              "S00403",
+              "S00404",
+              "S00405",
+              "S00406",
+              "S00407",
+              "S00408",
+              "S00409",
+              "S00410",
+              "S00411",
+              "S00412",
+              "S00413",
+              "S00414",
+              "S00415",
+              "S00416",
+              "S00417",
+              "S00418",
+              "S00419",
+              "S00420",
+              "S00421",
+              "S00422",
+              "S00423",
+              "S00424",
+              "S00425",
+              "S00426",
+              "S00427",
+              "S00428",
+              "S00429",
+              "S00430",
+              "S00431",
+              "S00432",
+              "S00433",
+              "S00434",
+              "S00435",
+              "S00436",
+              "S00437",
+              "S00438",
+              "S00439",
+              "S00440",
+              "S00441",
+              "S00442",
+              "S00443",
+              "S00444",
+              "S00445",
+              "S00446"
+            ],
+            "question_context_only_sids": [
+              "S00388",
+              "S00389",
+              "S00390"
+            ]
+          }
+        },
+        "provenance": {
+          "source_analysis": "references/youtube-live-batch1/mikey-youtube-live-010/episode-analysis.md",
+          "source_entry_id": "mikey-youtube-live-010-K0007",
+          "transcript": "references/youtube-live-batch1/mikey-youtube-live-010/transcript.json",
+          "event_timeline": "references/youtube-live-batch1/mikey-youtube-live-010/events.jsonl",
+          "speaker_registry": "references/youtube-live-batch1/mikey-youtube-live-010/speakers.json",
+          "review_needed": "references/youtube-live-batch1/mikey-youtube-live-010/review-needed.md",
+          "visual_reports": [
+            "references/youtube-live-batch1/mikey-youtube-live-010/visual/review.md"
+          ],
+          "cross_synthesis": "references/youtube-live-batch1/cross-video/youtube-live-batch1-cross-synthesis.json",
+          "project_source_path": "../research/youtube-live-batch1/items/mikey-youtube-live-010"
+        },
+        "evidence_scope": {
+          "saved_text_binding_only": true,
+          "question_context_sids": [
+            "S00388",
+            "S00389",
+            "S00390"
+          ],
+          "mikey_response_paraphrase_sids": [
+            "S00391",
+            "S00392",
+            "S00393",
+            "S00394",
+            "S00395",
+            "S00396",
+            "S00397",
+            "S00398",
+            "S00399",
+            "S00400",
+            "S00401",
+            "S00402",
+            "S00403",
+            "S00404",
+            "S00405",
+            "S00406",
+            "S00407",
+            "S00408",
+            "S00409",
+            "S00410",
+            "S00411",
+            "S00412",
+            "S00413",
+            "S00414",
+            "S00415",
+            "S00416",
+            "S00417",
+            "S00418",
+            "S00419",
+            "S00420",
+            "S00421",
+            "S00422",
+            "S00423",
+            "S00424",
+            "S00425",
+            "S00426",
+            "S00427",
+            "S00428",
+            "S00429",
+            "S00430",
+            "S00431",
+            "S00432",
+            "S00433",
+            "S00434",
+            "S00435",
+            "S00436",
+            "S00437",
+            "S00438",
+            "S00439",
+            "S00440",
+            "S00441",
+            "S00442",
+            "S00443",
+            "S00444",
+            "S00445",
+            "S00446"
+          ],
+          "question_words_are_not_mikey_position": true,
+          "new_audio_voice_or_continuous_visual_verification": false,
+          "ambiguous_context_only_sids": []
+        },
+        "editorial_use_limits": [
+          "[证据范围] 完整已保存自动稿的真实SID已回读，修正的是旧段号对应；本轮没有新回听、声纹、连续画面或逐句音校。",
+          "[归属范围] 读题与回答按原问答结构分开；只改述本段Mikey回应，不冒认本人、亲历或原话。",
+          "[必要条件] 讨论正常、双方愿意继续的聊天或约会中，思考与当下体验的关系。",
+          "[必要条件] 本载荷没有规定约会阶段的分类、转场目的或具体推进动作；那些内容必须另找来源。",
+          "[未授权扩展] 不把原十几二十秒定为必须遵守的计时规则。",
+          "[未授权扩展] 原稿S00448/S00449有记了等未音校词面，不用于直接引语或成功率预测。",
+          "[未授权扩展] 游戏只是Mikey的类比，不能作为已经证明所有约会都适用的实验。",
+          "[未授权扩展] 不能把全程思考必然失败、疲惫必然没享受等人物强判断当成现实诊断或确定效果。",
+          "[观察归属] 本载荷没有来源明确的观察量表，不额外编造复盘指标、频率或疗效。",
+          "[父条与效果] 父条与其他SID不继承许可；实际效果和完整原问题未获全面核实。",
+          "[读题边界] S00388–S00390是代读观众问题，只作上下文；人物回应从S00391开始，读题不作为Mikey立场。",
+          "[编者条件归属] 双方愿意继续及遇到拒绝即停止是项目的使用条件，不声称这是本段来源教出的步骤；本方法不补出约会阶段分类、推进目的或具体推进动作。"
+        ]
+      },
+      "proposed_current_canonical_sha256": "6a1a66ce740948877a4d0704983f2cce6b271bac11957b446e6d5afc1849a6c8",
+      "treatment": "repair_saved_text_evidence_mapping_with_permissions_closed",
+      "source_audio_review_closed": false,
+      "independent_disposition": "adopt_with_complete_narrow_revisions"
+    },
+    {
+      "knowledge_id": "mikey-youtube-live-010-K0008",
+      "original_object": {
+        "id": "mikey-youtube-live-010-K0008",
+        "source_id": "mikey-youtube-live-010",
+        "date": "2025-03-09",
+        "title": "专注训练",
+        "claim": "做一件事时尽量只做这一件事，例如看直播、洗澡或吃饭时感受当下；把专注练成生活习惯。",
+        "reason": null,
+        "method_or_meaning": null,
+        "conditions": [],
+        "limits": [
+          "自动稿未逐句听校；本批查重完成前不发布"
+        ],
+        "evidence": [
+          {
+            "sid": "S00648",
+            "start": 1500.0,
+            "end": 1501.54,
+            "text": "他会觉得你不自信",
+            "kind": "automatic_transcript_segment_not_sentence_by_sentence_verified",
+            "url": "https://www.youtube.com/watch?v=CxNdBfHWns8&t=1500s"
+          },
+          {
+            "sid": "S00676",
+            "start": 1570.74,
+            "end": 1573.08,
+            "text": "如果你认为打飞机是一个很low",
+            "kind": "automatic_transcript_segment_not_sentence_by_sentence_verified",
+            "url": "https://www.youtube.com/watch?v=CxNdBfHWns8&t=1570s"
+          },
+          {
+            "sid": "S00717",
+            "start": 1650.37,
+            "end": 1652.25,
+            "text": "就是不好好工作",
+            "kind": "automatic_transcript_segment_not_sentence_by_sentence_verified",
+            "url": "https://www.youtube.com/watch?v=CxNdBfHWns8&t=1650s"
+          }
+        ],
+        "status": {
+          "layer": "method_or_principle",
+          "speaker_id": null,
+          "attribution": "explicit_mikey",
+          "release_status": "candidate_only",
+          "cross_use_level": "direct",
+          "text": "automatic_transcript_with_episode_analysis_not_sentence_by_sentence_verified",
+          "visual": "sampled_visual_review_not_continuous_av_verification",
+          "first_person_allowed": false,
+          "action_advice_allowed": false
+        },
+        "related": {
+          "theme_ids": [
+            "T01",
+            "T03",
+            "T12"
+          ],
+          "proposition_ids": []
+        },
+        "raw_notes": {
+          "original_entry": {
+            "schema_version": "1.0",
+            "id": "mikey-youtube-live-010-K0008",
+            "source_id": "mikey-youtube-live-010",
+            "knowledge_type": "method_or_principle",
+            "topic": "专注训练",
+            "question": "怎样练习活在当下？",
+            "claim": "做一件事时尽量只做这一件事，例如看直播、洗澡或吃饭时感受当下；把专注练成生活习惯。",
+            "event_ids": [
+              "mikey-youtube-live-010-E0006"
+            ],
+            "claim_evidence_refs": [
+              {
+                "source_id": "mikey-youtube-live-010",
+                "event_id": "mikey-youtube-live-010-E0006",
+                "evidence_id": "mikey-youtube-live-010-E0006-R001"
+              },
+              {
+                "source_id": "mikey-youtube-live-010",
+                "event_id": "mikey-youtube-live-010-E0006",
+                "evidence_id": "mikey-youtube-live-010-E0006-R029"
+              },
+              {
+                "source_id": "mikey-youtube-live-010",
+                "event_id": "mikey-youtube-live-010-E0006",
+                "evidence_id": "mikey-youtube-live-010-E0006-R070"
+              }
+            ],
+            "source_quotes": [
+              {
+                "source_id": "mikey-youtube-live-010",
+                "event_id": "mikey-youtube-live-010-E0006",
+                "evidence_id": "mikey-youtube-live-010-E0006-R001",
+                "sid": "S00648",
+                "start": 1500.0,
+                "end": 1501.54,
+                "text_as_supplied": "他会觉得你不自信",
+                "youtube_url": "https://www.youtube.com/watch?v=CxNdBfHWns8&t=1500s"
+              },
+              {
+                "source_id": "mikey-youtube-live-010",
+                "event_id": "mikey-youtube-live-010-E0006",
+                "evidence_id": "mikey-youtube-live-010-E0006-R029",
+                "sid": "S00676",
+                "start": 1570.74,
+                "end": 1573.08,
+                "text_as_supplied": "如果你认为打飞机是一个很low",
+                "youtube_url": "https://www.youtube.com/watch?v=CxNdBfHWns8&t=1570s"
+              },
+              {
+                "source_id": "mikey-youtube-live-010",
+                "event_id": "mikey-youtube-live-010-E0006",
+                "evidence_id": "mikey-youtube-live-010-E0006-R070",
+                "sid": "S00717",
+                "start": 1650.37,
+                "end": 1652.25,
+                "text_as_supplied": "就是不好好工作",
+                "youtube_url": "https://www.youtube.com/watch?v=CxNdBfHWns8&t=1650s"
+              }
+            ],
+            "attribution_status": "explicit_mikey",
+            "release_status": "candidate_only",
+            "unknowns": [
+              "自动稿未逐句听校；本批查重完成前不发布"
+            ]
+          },
+          "cross_index": {
+            "knowledge_id": "mikey-youtube-live-010-K0008",
+            "source_id": "mikey-youtube-live-010",
+            "theme_ids": [
+              "T01",
+              "T03",
+              "T12"
+            ],
+            "proposition_ids": [],
+            "use_level": "direct",
+            "use_reason": "新基线为candidate_only + explicit_mikey，且知识及所属事件均无关联open blocking；沿用上一版经逐条风险筛选得到的direct，仅依据该知识自身精确证据，不因跨期重复而升级。",
+            "blocking_review_ids": []
+          }
+        },
+        "provenance": {
+          "source_analysis": "references/youtube-live-batch1/mikey-youtube-live-010/episode-analysis.md",
+          "source_entry_id": "mikey-youtube-live-010-K0008",
+          "transcript": "references/youtube-live-batch1/mikey-youtube-live-010/transcript.json",
+          "event_timeline": "references/youtube-live-batch1/mikey-youtube-live-010/events.jsonl",
+          "speaker_registry": "references/youtube-live-batch1/mikey-youtube-live-010/speakers.json",
+          "review_needed": "references/youtube-live-batch1/mikey-youtube-live-010/review-needed.md",
+          "visual_reports": [
+            "references/youtube-live-batch1/mikey-youtube-live-010/visual/review.md"
+          ],
+          "cross_synthesis": "references/youtube-live-batch1/cross-video/youtube-live-batch1-cross-synthesis.json",
+          "project_source_path": "../research/youtube-live-batch1/items/mikey-youtube-live-010"
+        }
+      },
+      "original_canonical_sha256": "05400f3c8f21d3117375790b21f842ca156901497046df765180abeb987b1a17",
+      "proposed_current_object": {
+        "id": "mikey-youtube-live-010-K0008",
+        "source_id": "mikey-youtube-live-010",
+        "date": "2025-03-09",
+        "title": "专注训练",
+        "claim": "把体验当下当成日常习惯：正在做一件事时，尽可能把注意力放在这件事本身，不一边做一边不断切到别的内容。",
+        "reason": "Mikey以专注吃饭、睡觉、看直播和洗澡感受水流作说明；这些是他的生活实践建议，不是本次已验证的心理治疗或效果结论。",
+        "method_or_meaning": null,
+        "conditions": [],
+        "limits": [
+          "自动稿未逐句听校；本批查重完成前不发布",
+          "第二版修正了原claim对应的SID；旧错误锚点只在历史保留，父条权限仍关闭。",
+          "不把三秒原则、冥想训练、确定进入心流的方法或计时指标继承进本载荷。",
+          "S00484关掉手机在看直播的设备语境下有歧义，本载荷只采用S00485不要再刷抖音，不规定切断通信。",
+          "绿皮书台词是Mikey在稿中的引用来源说明，本轮未核对电影原句。",
+          "不从这个普通生活建议推导医学或心理因果、疗效或人格诊断。",
+          "[读题边界] S00473–S00474是代读观众问题，只作上下文；生活专注回应从S00475开始。S00366–S00367仅补绑定已回读的习惯说明，不继承其前后心流、冥想或三秒原则。",
+          "[程度限定] 原回应是尽可能去感受，不要求每一时刻都持续专注；没有做到也不能据此诊断失败或心理问题。",
+          "[手机动作范围] S00484关掉手机只保留作有歧义的原稿上下文，既不列为动作步骤证据，也不允许据此规定关机或切断通信；采用的手机相关动作仅是S00485看直播时不刷抖音。"
+        ],
+        "evidence": [
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00366",
+            "start": 829.1,
+            "end": 833.38,
+            "text": "你需要把活在当下当成一个习惯去做",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00367",
+            "start": 833.38,
+            "end": 835.58,
+            "text": "当成一个习惯去做",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00473",
+            "start": 1053.2,
+            "end": 1060.95,
+            "text": "那是不是活在当下生活中",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00474",
+            "start": 1060.95,
+            "end": 1062.63,
+            "text": "所有的小时都要去感受呢",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00475",
+            "start": 1062.63,
+            "end": 1065.23,
+            "text": "你应该是尽可能的去感受",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00476",
+            "start": 1065.23,
+            "end": 1070.05,
+            "text": "绿皮书里面有说过一个很经典的台词",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00477",
+            "start": 1070.05,
+            "end": 1072.43,
+            "text": "是我吃饭的时候我就专注吃饭",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00478",
+            "start": 1072.43,
+            "end": 1075.87,
+            "text": "睡觉的时候就专注于睡觉",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00479",
+            "start": 1075.87,
+            "end": 1079.27,
+            "text": "做任何事情的时候就专注于这件事情",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00480",
+            "start": 1079.27,
+            "end": 1080.63,
+            "text": "能懂吗",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00481",
+            "start": 1080.63,
+            "end": 1082.89,
+            "text": "很简单",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00482",
+            "start": 1082.89,
+            "end": 1084.47,
+            "text": "比如说你现在看Mikey直播",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00483",
+            "start": 1084.47,
+            "end": 1085.89,
+            "text": "你可以看直播的时候呢",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00484",
+            "start": 1085.89,
+            "end": 1087.13,
+            "text": "就把手机关掉了",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00485",
+            "start": 1087.13,
+            "end": 1088.67,
+            "text": "就不要去刷抖音了",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00486",
+            "start": 1088.67,
+            "end": 1089.27,
+            "text": "OK",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00487",
+            "start": 1089.27,
+            "end": 1093.89,
+            "text": "一比如说那你过会要去洗澡",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00488",
+            "start": 1093.89,
+            "end": 1095.17,
+            "text": "那你洗澡的时候呢",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00489",
+            "start": 1095.17,
+            "end": 1097.95,
+            "text": "你就专心去体验水流动身体",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          },
+          {
+            "source_id": "mikey-youtube-live-010",
+            "sid": "S00490",
+            "start": 1097.95,
+            "end": 1099.85,
+            "text": "就穿过身体的感觉",
+            "kind": "saved_automatic_text_not_verbatim_certified"
+          }
+        ],
+        "status": {
+          "layer": "method_or_principle",
+          "speaker_id": null,
+          "attribution": "explicit_mikey",
+          "release_status": "candidate_only",
+          "cross_use_level": "hold",
+          "text": "automatic_transcript_with_episode_analysis_not_sentence_by_sentence_verified",
+          "visual": "sampled_visual_review_not_continuous_av_verification",
+          "first_person_allowed": false,
+          "action_advice_allowed": false
+        },
+        "related": {
+          "theme_ids": [
+            "T01",
+            "T03",
+            "T12"
+          ],
+          "proposition_ids": []
+        },
+        "raw_notes": {
+          "original_entry": {
+            "schema_version": "1.0",
+            "id": "mikey-youtube-live-010-K0008",
+            "source_id": "mikey-youtube-live-010",
+            "knowledge_type": "method_or_principle",
+            "topic": "专注训练",
+            "question": "怎样练习活在当下？",
+            "claim": "做一件事时尽量只做这一件事，例如看直播、洗澡或吃饭时感受当下；把专注练成生活习惯。",
+            "event_ids": [
+              "mikey-youtube-live-010-E0006"
+            ],
+            "claim_evidence_refs": [
+              {
+                "source_id": "mikey-youtube-live-010",
+                "event_id": "mikey-youtube-live-010-E0006",
+                "evidence_id": "mikey-youtube-live-010-E0006-R001"
+              },
+              {
+                "source_id": "mikey-youtube-live-010",
+                "event_id": "mikey-youtube-live-010-E0006",
+                "evidence_id": "mikey-youtube-live-010-E0006-R029"
+              },
+              {
+                "source_id": "mikey-youtube-live-010",
+                "event_id": "mikey-youtube-live-010-E0006",
+                "evidence_id": "mikey-youtube-live-010-E0006-R070"
+              }
+            ],
+            "source_quotes": [
+              {
+                "source_id": "mikey-youtube-live-010",
+                "event_id": "mikey-youtube-live-010-E0006",
+                "evidence_id": "mikey-youtube-live-010-E0006-R001",
+                "sid": "S00648",
+                "start": 1500.0,
+                "end": 1501.54,
+                "text_as_supplied": "他会觉得你不自信",
+                "youtube_url": "https://www.youtube.com/watch?v=CxNdBfHWns8&t=1500s"
+              },
+              {
+                "source_id": "mikey-youtube-live-010",
+                "event_id": "mikey-youtube-live-010-E0006",
+                "evidence_id": "mikey-youtube-live-010-E0006-R029",
+                "sid": "S00676",
+                "start": 1570.74,
+                "end": 1573.08,
+                "text_as_supplied": "如果你认为打飞机是一个很low",
+                "youtube_url": "https://www.youtube.com/watch?v=CxNdBfHWns8&t=1570s"
+              },
+              {
+                "source_id": "mikey-youtube-live-010",
+                "event_id": "mikey-youtube-live-010-E0006",
+                "evidence_id": "mikey-youtube-live-010-E0006-R070",
+                "sid": "S00717",
+                "start": 1650.37,
+                "end": 1652.25,
+                "text_as_supplied": "就是不好好工作",
+                "youtube_url": "https://www.youtube.com/watch?v=CxNdBfHWns8&t=1650s"
+              }
+            ],
+            "attribution_status": "explicit_mikey",
+            "release_status": "candidate_only",
+            "unknowns": [
+              "自动稿未逐句听校；本批查重完成前不发布"
+            ]
+          },
+          "cross_index": {
+            "knowledge_id": "mikey-youtube-live-010-K0008",
+            "source_id": "mikey-youtube-live-010",
+            "theme_ids": [
+              "T01",
+              "T03",
+              "T12"
+            ],
+            "proposition_ids": [],
+            "use_level": "direct",
+            "use_reason": "新基线为candidate_only + explicit_mikey，且知识及所属事件均无关联open blocking；沿用上一版经逐条风险筛选得到的direct，仅依据该知识自身精确证据，不因跨期重复而升级。",
+            "blocking_review_ids": []
+          },
+          "v2_evidence_mapping_correction": {
+            "original_current_object_sha256": "05400f3c8f21d3117375790b21f842ca156901497046df765180abeb987b1a17",
+            "original_retained_in": "history/v2-source-mapping-corrections.jsonl",
+            "scope": "claim_to_saved_SID_mapping_only_not_audio_or_permission_grant",
+            "correct_evidence_sids": [
+              "S00366",
+              "S00367",
+              "S00473",
+              "S00474",
+              "S00475",
+              "S00476",
+              "S00477",
+              "S00478",
+              "S00479",
+              "S00480",
+              "S00481",
+              "S00482",
+              "S00483",
+              "S00484",
+              "S00485",
+              "S00486",
+              "S00487",
+              "S00488",
+              "S00489",
+              "S00490"
+            ],
+            "history_reference_status": "proposed_history_must_be_materialized_and_registered_before_application",
+            "responding_viewpoint_sids": [
+              "S00366",
+              "S00367",
+              "S00475",
+              "S00476",
+              "S00477",
+              "S00478",
+              "S00479",
+              "S00480",
+              "S00481",
+              "S00482",
+              "S00483",
+              "S00485",
+              "S00486",
+              "S00487",
+              "S00488",
+              "S00489",
+              "S00490"
+            ],
+            "question_context_only_sids": [
+              "S00473",
+              "S00474"
+            ]
+          }
+        },
+        "provenance": {
+          "source_analysis": "references/youtube-live-batch1/mikey-youtube-live-010/episode-analysis.md",
+          "source_entry_id": "mikey-youtube-live-010-K0008",
+          "transcript": "references/youtube-live-batch1/mikey-youtube-live-010/transcript.json",
+          "event_timeline": "references/youtube-live-batch1/mikey-youtube-live-010/events.jsonl",
+          "speaker_registry": "references/youtube-live-batch1/mikey-youtube-live-010/speakers.json",
+          "review_needed": "references/youtube-live-batch1/mikey-youtube-live-010/review-needed.md",
+          "visual_reports": [
+            "references/youtube-live-batch1/mikey-youtube-live-010/visual/review.md"
+          ],
+          "cross_synthesis": "references/youtube-live-batch1/cross-video/youtube-live-batch1-cross-synthesis.json",
+          "project_source_path": "../research/youtube-live-batch1/items/mikey-youtube-live-010"
+        },
+        "evidence_scope": {
+          "saved_text_binding_only": true,
+          "question_context_sids": [
+            "S00473",
+            "S00474"
+          ],
+          "mikey_response_paraphrase_sids": [
+            "S00366",
+            "S00367",
+            "S00475",
+            "S00476",
+            "S00477",
+            "S00478",
+            "S00479",
+            "S00480",
+            "S00481",
+            "S00482",
+            "S00483",
+            "S00485",
+            "S00486",
+            "S00487",
+            "S00488",
+            "S00489",
+            "S00490"
+          ],
+          "question_words_are_not_mikey_position": true,
+          "new_audio_voice_or_continuous_visual_verification": false,
+          "ambiguous_context_only_sids": [
+            "S00484"
+          ]
+        },
+        "editorial_use_limits": [
+          "[证据范围] 完整已保存自动稿的真实SID已回读，修正的是旧段号对应；本轮没有新回听、声纹、连续画面或逐句音校。",
+          "[归属范围] 读题与回答按原问答结构分开；只改述本段Mikey回应，不冒认本人、亲历或原话。",
+          "[必要条件] 只讨论正常日常活动中让注意力回到当前所做事情的习惯。",
+          "[必要条件] 看直播、洗澡、吃饭是举例，不要求按三个项目组成训练计划。",
+          "[未授权扩展] 不把三秒原则、冥想训练、确定进入心流的方法或计时指标继承进本载荷。",
+          "[未授权扩展] S00484关掉手机在看直播的设备语境下有歧义，本载荷只采用S00485不要再刷抖音，不规定切断通信。",
+          "[未授权扩展] 绿皮书台词是Mikey在稿中的引用来源说明，本轮未核对电影原句。",
+          "[未授权扩展] 不从这个普通生活建议推导医学或心理因果、疗效或人格诊断。",
+          "[观察归属] 本载荷没有来源明确的观察量表，不额外编造复盘指标、频率或疗效。",
+          "[父条与效果] 父条与其他SID不继承许可；实际效果和完整原问题未获全面核实。",
+          "[读题边界] S00473–S00474是代读观众问题，只作上下文；生活专注回应从S00475开始。S00366–S00367仅补绑定已回读的习惯说明，不继承其前后心流、冥想或三秒原则。",
+          "[程度限定] 原回应是尽可能去感受，不要求每一时刻都持续专注；没有做到也不能据此诊断失败或心理问题。",
+          "[手机动作范围] S00484关掉手机只保留作有歧义的原稿上下文，既不列为动作步骤证据，也不允许据此规定关机或切断通信；采用的手机相关动作仅是S00485看直播时不刷抖音。"
+        ]
+      },
+      "proposed_current_canonical_sha256": "d83e5e1c20c44f61a9654c7a05d9f6f33c958ce8fae14d3752f1ea0094bc8f0b",
+      "treatment": "repair_saved_text_evidence_mapping_with_permissions_closed",
+      "source_audio_review_closed": false,
+      "independent_disposition": "adopt_with_complete_narrow_revisions"
+    }
+  ],
+  "history": "history/v2-source-mapping-corrections.jsonl",
+  "whole_parent_grants": 0,
+  "new_audio_or_visual_verification": false,
+  "whole_original_tasks_closed": 0
+}

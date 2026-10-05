@@ -1,0 +1,32 @@
+{
+  "source_id": "mikey-youtube-short-012",
+  "status": "preserved_not_indexed_timing_unreliable",
+  "time_alignment_verified": false,
+  "original_transcript": "references/untrimmed-transcripts/mikey-youtube-short-012/transcript.original.json",
+  "original_transcript_sha256": "dec89b867b1d47e390e0631c7796753a97667aea95c273781644605d3aef54a4",
+  "original_research_transcript": "D:\\startup\\玩家.skill\\research\\youtube-all-remaining-pipeline\\integration-candidate\\references\\youtube-remaining-20260929\\short-02\\mikey-youtube-short-012\\transcript.json",
+  "media_duration_seconds": 75.162993,
+  "excluded_segments": [
+    {
+      "sid": "S00041",
+      "start": 76.23,
+      "end": 78.03,
+      "text": "我先做一个事"
+    },
+    {
+      "sid": "S00042",
+      "start": 78.03,
+      "end": 78.53,
+      "text": "我先做一个事"
+    }
+  ],
+  "crossing_segments_original": [
+    {
+      "sid": "S00040",
+      "start": 74.31,
+      "end": 76.23,
+      "text": "我先做一个事"
+    }
+  ],
+  "notice": "All original text is retained. Out-of-duration timestamps may be ASR hallucination or misalignment; no information-value verdict or permission upgrade follows from exclusion from the normal timed index."
+}

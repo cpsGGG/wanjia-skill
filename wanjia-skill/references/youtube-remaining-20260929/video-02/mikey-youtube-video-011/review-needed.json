@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-011",
+  "youtube_id": "MJep9Wpzixg",
+  "review_completed": true,
+  "items": [
+    {"review_id": "v011-r01", "severity": "blocking_for_case_fact", "issue": "The video makes identifiable-person claims about marriage motives, attraction, debt, business conduct and family beneficiaries without supplying primary records or full responses.", "affected_evidence": ["S00045-S00063", "S00267-S00300", "S00329-S00425"], "disposition": "Attribute every claim to Mikey, keep it unverified, and do not present it as fact about the named people."},
+    {"review_id": "v011-r02", "severity": "blocking_for_legal_financial_claim", "issue": "The alleged contract routing, asset transfer and tax effect are high-impact financial/legal assertions.", "affected_evidence": ["S00329-S00364"], "disposition": "Require contracts, corporate records, accounts, tax/legal analysis and responses before any factual use; otherwise keep do_not_generalize."},
+    {"review_id": "v011-r03", "severity": "major", "issue": "The video treats edited interviews and public clips as evidence of hidden motives and a coordinated public-relations strategy.", "affected_evidence": ["S00375-S00425", "sampled frames 000002, 000005, 000010, 000014"], "disposition": "Do not infer intent from montage selections; targeted continuous review at 0-75 and 500-640 seconds would still not substitute for external verification."},
+    {"review_id": "v011-r04", "severity": "major", "issue": "Broad evolutionary and gender claims are stated as biological facts without methods or sources.", "affected_evidence": ["S00074-S00100", "S00120-S00126"], "disposition": "Keep as Mikey's model only; do not generalize to women, relationships or named individuals."},
+    {"review_id": "v011-r05", "severity": "major", "issue": "Advice about retaining the ability to replace or leave a partner can be turned into coercive leverage rather than healthy autonomy.", "affected_evidence": ["S00442-S00464"], "disposition": "Do not convert into action advice; if later used, separate financial autonomy and boundaries from threats or dominance."},
+    {"review_id": "v011-r06", "severity": "major", "issue": "The same case and many underlying claims overlap formal source S-cMTEvo6To and video-012, but repetition is not corroboration.", "affected_evidence": ["entire source"], "disposition": "Count this upload as a distinct scripted source only; assign no extra confidence to repeated allegations."},
+    {"review_id": "v011-r07", "severity": "minor", "issue": "Automatic ASR repeatedly corrupts names, terms and idioms, including the public figures' names, '慕强', '沉没成本' and closing phrases.", "affected_evidence": ["throughout"], "disposition": "Normalize only where context is unambiguous; listen to original audio before quoting exact wording."}
+  ]
+}

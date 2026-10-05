@@ -1,0 +1,77 @@
+{
+  "schema_version": "community-safe-distillation-reference-1.0",
+  "source_id": "mikey-youtube-community-208",
+  "post_id": "UgkxIWfBhGHmDM6nml_Z4cGIeiNo9kGRGWnN",
+  "public_body_sha256": "6ba38d508a81ae3d5f6e02568908e74283228ea84d453e4c57a78246d25993f5",
+  "safe_summary": "正文只有walk in拿到的简短自报，5图是腕表展示、试戴/调整与票据场景；没有解释财富与吸引力的关系，也没有可重建教学步骤。",
+  "source_body_scope": "只支持频道作者发布了简短生活自报；配图可说明其语境可能是腕表/店内场景，不能证明购买金额、资产、真伪或吸引力效果。",
+  "summary_origin": "author_distillation_with_editorial_boundaries_not_mikey_quote",
+  "image_summaries": [
+    {
+      "image_index": 1,
+      "sha256": "2630ff438fdd0faceac18ab07aaa8e477d56bf75f83e0be3a5a7aec498fdc2da",
+      "safe_summary": "人物展示腕表与表盒的室内照片，没有吸引力方法或关系结果。",
+      "summary_origin": "author_visual_analysis_not_mikey_quote",
+      "independent_review_status": "pending",
+      "runtime_answer_allowed": false,
+      "evidence_weight": 0
+    },
+    {
+      "image_index": 2,
+      "sha256": "3e063e8500e9d23937050e785d636fe8e28120749f104288d7bf34986448e803",
+      "safe_summary": "手腕佩表与戴手套者调节的近景，纸张细字不可靠。",
+      "summary_origin": "author_visual_analysis_not_mikey_quote",
+      "independent_review_status": "pending",
+      "runtime_answer_allowed": false,
+      "evidence_weight": 0
+    },
+    {
+      "image_index": 3,
+      "sha256": "0bfd04593f42f4bc3b81764a43043a02f8c6038a31548114a15b0f481b44c56f",
+      "safe_summary": "打开的品牌表盒与腕表展示，没有方法或效果证据。",
+      "summary_origin": "author_visual_analysis_not_mikey_quote",
+      "independent_review_status": "pending",
+      "runtime_answer_allowed": false,
+      "evidence_weight": 0
+    },
+    {
+      "image_index": 4,
+      "sha256": "513094bf7eec75752dacfe5dad7ab899f78bacdb9ecce11e2a7d1341d5d56534",
+      "safe_summary": "托盘上腕表与调整工具的展示照片，未证明交易或效果。",
+      "summary_origin": "author_visual_analysis_not_mikey_quote",
+      "independent_review_status": "pending",
+      "runtime_answer_allowed": false,
+      "evidence_weight": 0
+    },
+    {
+      "image_index": 5,
+      "sha256": "4fd8157c502a5f853fc8875e1e08e636ab22c063ba9293056c7724123b7c62cd",
+      "safe_summary": "腕表、手机产品页面和含交易字段的纸张展示，原图含潜在隐私资料，仅留研究。",
+      "summary_origin": "author_visual_analysis_not_mikey_quote",
+      "independent_review_status": "pending",
+      "runtime_answer_allowed": false,
+      "evidence_weight": 0
+    }
+  ],
+  "new_knowledge_count": 0,
+  "research_distillation_path": "research/youtube-channel-refresh-20261004/distillation/mikey-youtube-community-208.json",
+  "research_distillation_sha256": "7d514f26401ef62f04d5684bdea5a39470e8ea0720bc800b057b6eea4e1edea1",
+  "independent_review_status": "pending",
+  "permissions": {
+    "first_person_allowed": false,
+    "persona_first_person_allowed": false,
+    "action_advice_allowed": false,
+    "runtime_answer_allowed": false,
+    "evidence_weight": 0
+  },
+  "privacy_policy": {
+    "raw_screenshot_text_packaged": false,
+    "raw_images_packaged": false,
+    "third_party_identifiers_packaged": false,
+    "private_customer_ui_packaged": false
+  },
+  "limits": [
+    "原图只在研究归档保留；摘要来自逐帖分析，独立视觉审查未完成前不据此确认第三方身份、聊天上下文、截图真实性、授权或训练效果。",
+    "公开正文保留作者发帖文字；转述和营销效果不视为事实验证或行动许可。"
+  ]
+}

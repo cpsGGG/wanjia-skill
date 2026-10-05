@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-017",
+  "youtube_id": "HK4ubB2vW0Q",
+  "decision": "reuse",
+  "reuse_of": "mikey-youtube-live-028",
+  "formal_weight_if_integrated": 0,
+  "compared_sources": [
+    {"scope": "formal_mikey_guide", "source_count": 202, "comparison": "youtube_id_url_normalized_transcript_and_ordered passage"},
+    {"source_id": "mikey-youtube-live-028", "comparison": "formal transcript S00962 onward, visual setting and ordered Q&A sequence"},
+    {"source_id": "mikey-youtube-short-014", "comparison": "same parent livestream but a different excerpt; not independent corroboration"},
+    {"scope": "researched_video-01_to_video-05_and_short-01", "comparison": "identity and normalized transcript screen"}
+  ],
+  "evidence": [
+    {"type": "identity", "result": "different YouTube ID; no formal exact-ID match"},
+    {"type": "formal_target_integrity", "result": "pass", "detail": "The local mikey-youtube-live-028 transcript SHA-256 matches the current formal source-index entry."},
+    {"type": "normalized_transcript", "result": "clip_match", "short_8_character_shingle_containment": 0.668224, "short_12_character_shingle_containment": 0.620283},
+    {"type": "ordered_alignment", "result": "same_passage", "detail": "The relaxed-dating question, quality-versus-count answer, preserve-and-optimize character model, and multiple-partner acceptance discussion appear in the same order from formal S00962 onward."},
+    {"type": "visual", "result": "same_livestream_edit", "detail": "All 23 sampled frames show the same black-shirt livestream and fixed diagram overlay."}
+  ],
+  "boundary": "A vertical excerpt of formal source mikey-youtube-live-028. Assign zero independent weight; short-014 is another excerpt from the same parent and cannot corroborate it independently."
+}

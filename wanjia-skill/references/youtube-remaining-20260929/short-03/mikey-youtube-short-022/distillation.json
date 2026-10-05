@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-022",
+  "youtube_id": "siSEYCLz4ww",
+  "title": "你真的有自我吗？",
+  "coverage": {
+    "transcript_segments_read": 75,
+    "transcript_time_range_seconds": [0.0, 137.58],
+    "semantic_media_range_seconds": [0.0, 138.08907],
+    "sampled_frames_reviewed": 46,
+    "continuous_original_audio_visual_review": false,
+    "excluded_asr_tail": null
+  },
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 42.91,
+      "summary": "He argues that pretending interest and agreeing with everything to obtain sex shows a lack of self and predicts the other person will notice and gain leverage."
+    },
+    {
+      "start": 42.91,
+      "end": 84.36,
+      "summary": "He tells viewers not to say things against their own beliefs, says he would rather fail than ingratiate himself, and then uses demeaning language to condemn people-pleasing."
+    },
+    {
+      "start": 84.36,
+      "end": 109.08,
+      "summary": "He describes his own style as rarely researching a woman's interests for topics because he has his own work, while acknowledging that others may do so."
+    },
+    {
+      "start": 109.08,
+      "end": 138.08907,
+      "summary": "He links a commanding presence to a big heart, restraint, calmness and self-control."
+    }
+  ],
+  "claims": [
+    {
+      "claim_id": "s022-c01",
+      "speaker": "Mikey",
+      "statement": "He treats false agreement and feigned interest used to obtain sex as loss of self rather than genuine connection.",
+      "conditions": "The motive attributed to the listener is hypothetical and should not be inferred without evidence.",
+      "evidence": ["S00001-S00012@0.00-23.13"],
+      "use_level": "hold"
+    },
+    {
+      "claim_id": "s022-c02",
+      "speaker": "Mikey",
+      "statement": "He predicts that visible people-pleasing will be noticed and can create an unequal interaction in which the other person has leverage.",
+      "conditions": "This is his generalized interpretation of women's motives, not a reliable mind-reading rule.",
+      "evidence": ["S00013-S00024@23.13-42.91"],
+      "use_level": "hold"
+    },
+    {
+      "claim_id": "s022-c03",
+      "speaker": "Mikey",
+      "statement": "He says he would rather accept romantic failure than say things against his own beliefs merely to please someone.",
+      "conditions": "Honest disagreement still requires respect; the accompanying insults are not adopted as advice.",
+      "evidence": ["S00025-S00043@42.91-75.44"],
+      "use_level": "hold"
+    },
+    {
+      "claim_id": "s022-c04",
+      "speaker": "Mikey",
+      "statement": "He describes his own conversation style as prioritizing his real interests and responsibilities over researching topics solely to impress a woman.",
+      "conditions": "This is a personal style claim, not a reason to ignore the other person's interests or reciprocity.",
+      "evidence": ["S00050-S00065@84.36-109.08"],
+      "use_level": "hold"
+    },
+    {
+      "claim_id": "s022-c05",
+      "speaker": "Mikey",
+      "statement": "He associates a strong presence with restraint, calmness and self-control.",
+      "conditions": "A rhetorical leadership model, not a clinical or universal personality standard.",
+      "evidence": ["S00066-S00075@109.08-137.58"],
+      "use_level": "hold"
+    }
+  ],
+  "speaker_attribution": [
+    {
+      "speaker": "Mikey",
+      "basis": "One channel host is visible and speaks continuously throughout all 46 sampled frames."
+    }
+  ],
+  "visual_findings": [
+    "All 46 sampled frames show a single speaker in one dark studio setup with editorial subtitles.",
+    "No woman, private conversation, demonstrated reaction, consent/refusal event, or independent outcome evidence appears."
+  ],
+  "permissions": {
+    "formal_integration": false,
+    "first_person_allowed": false,
+    "action_advice_allowed": false,
+    "use_level": "reuse_zero_weight",
+    "reason": "Exact duplicate of short-019 and edited reuse of formal quark-live-046."
+  },
+  "limitations": [
+    "The clip makes broad gender and motive generalizations without showing the described interaction.",
+    "It contains demeaning language about people who ingratiate themselves.",
+    "Sparse sampled frames do not constitute continuous audio-visual review."
+  ]
+}

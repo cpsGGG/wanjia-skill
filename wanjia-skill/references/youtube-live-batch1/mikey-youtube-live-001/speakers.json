@@ -1,0 +1,116 @@
+{
+  "schema_version": "1.0",
+  "source_id": "mikey-youtube-live-001",
+  "speakers": [
+    {
+      "id": "mikey",
+      "role": "host",
+      "status": "confirmed",
+      "identity_basis": "固定主持人摄像头贯穿全片；标题标明Mikey在线答疑；多名来电者直接称呼‘Mikey/Mikey哥’，回答声音与主持轮次稳定。稀疏帧不能逐句证明嘴型。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=2o0eci1RIos&t=188s",
+        "https://www.youtube.com/watch?v=2o0eci1RIos&t=1079s",
+        "https://www.youtube.com/watch?v=2o0eci1RIos&t=4075s"
+      ],
+      "notes": "主持人实名确认；具体短插话仍可能需连续音画复核。"
+    },
+    {
+      "id": "caller-01",
+      "role": "internal-group caller / Long哥",
+      "status": "provisional",
+      "identity_basis": "S00049-S00053称其为龙哥，开场第一人称案例与S00102-S00107收尾连续。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=2o0eci1RIos&t=87s",
+        "https://www.youtube.com/watch?v=2o0eci1RIos&t=178s"
+      ],
+      "notes": "画外电话声音，未完成声纹映射。"
+    },
+    {
+      "id": "caller-02",
+      "role": "internal-group caller",
+      "status": "provisional",
+      "identity_basis": "依据问题轮次和语义转折临时编号；无实名与声纹确认。",
+      "evidence_refs": [],
+      "notes": "不同编号不保证对应不同自然人。"
+    },
+    {
+      "id": "caller-03",
+      "role": "internal-group caller",
+      "status": "provisional",
+      "identity_basis": "依据问题轮次和语义转折临时编号；无实名与声纹确认。",
+      "evidence_refs": [],
+      "notes": "不同编号不保证对应不同自然人。"
+    },
+    {
+      "id": "caller-04",
+      "role": "internal-group caller",
+      "status": "provisional",
+      "identity_basis": "依据问题轮次和语义转折临时编号；无实名与声纹确认。",
+      "evidence_refs": [],
+      "notes": "不同编号不保证对应不同自然人。"
+    },
+    {
+      "id": "caller-05",
+      "role": "internal-group caller",
+      "status": "provisional",
+      "identity_basis": "依据问题轮次和语义转折临时编号；无实名与声纹确认。",
+      "evidence_refs": [],
+      "notes": "不同编号不保证对应不同自然人。"
+    },
+    {
+      "id": "caller-06",
+      "role": "internal-group caller",
+      "status": "provisional",
+      "identity_basis": "依据问题轮次和语义转折临时编号；无实名与声纹确认。",
+      "evidence_refs": [],
+      "notes": "不同编号不保证对应不同自然人。"
+    },
+    {
+      "id": "caller-07",
+      "role": "internal-group caller",
+      "status": "provisional",
+      "identity_basis": "依据问题轮次和语义转折临时编号；无实名与声纹确认。",
+      "evidence_refs": [],
+      "notes": "不同编号不保证对应不同自然人。"
+    },
+    {
+      "id": "caller-08",
+      "role": "internal-group caller",
+      "status": "provisional",
+      "identity_basis": "依据问题轮次和语义转折临时编号；无实名与声纹确认。",
+      "evidence_refs": [],
+      "notes": "不同编号不保证对应不同自然人。"
+    },
+    {
+      "id": "viewer-question-01",
+      "role": "YouTube viewer question author(s)",
+      "status": "collective_placeholder",
+      "identity_basis": "Mikey明确说读取YouTube直播间问题。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=2o0eci1RIos&t=826s",
+        "https://www.youtube.com/watch?v=2o0eci1RIos&t=3996s"
+      ],
+      "notes": "代表多个观众，问题由Mikey代读，不是Mikey自己的观点。"
+    },
+    {
+      "id": "live-chat-author-01",
+      "role": "live chat/internal group text author(s)",
+      "status": "collective_placeholder",
+      "identity_basis": "Mikey逐条引用评论区和内部群答案。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=2o0eci1RIos&t=2708s"
+      ],
+      "notes": "联系表中文字过小，未逐条映射昵称与原文。"
+    },
+    {
+      "id": "unknown-voice-01",
+      "role": "unknown/overlapping voice",
+      "status": "disputed",
+      "identity_basis": "自动稿出现语义突变或短重叠插话。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=2o0eci1RIos&t=55s"
+      ],
+      "notes": "不得归为Mikey。"
+    }
+  ]
+}

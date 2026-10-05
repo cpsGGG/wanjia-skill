@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "source_id": "mikey-youtube-live-004",
+  "speakers": [
+    {
+      "id": "mikey",
+      "role": "host",
+      "status": "confirmed",
+      "identity_basis": "标题明确为Mikey直播；8张全片联系表持续显示同一主持人小窗、直播聊天和频道品牌，未见嘉宾/来电者画面。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=NEWlQZot2i8&t=14s",
+        "https://www.youtube.com/watch?v=NEWlQZot2i8&t=2520s",
+        "https://www.youtube.com/watch?v=NEWlQZot2i8&t=5040s"
+      ],
+      "notes": "主持身份确认；自动稿仍未逐句听校。"
+    },
+    {
+      "id": "viewer-question-collective",
+      "role": "YouTube live-chat question authors",
+      "status": "collective_placeholder",
+      "identity_basis": "画面左侧持续显示多名直播观众留言；Mikey逐条读出问题再回答。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=NEWlQZot2i8&t=410s",
+        "https://www.youtube.com/watch?v=NEWlQZot2i8&t=2640s",
+        "https://www.youtube.com/watch?v=NEWlQZot2i8&t=4320s"
+      ],
+      "notes": "代表多个观众，问题文字归观众，发声者是Mikey。"
+    },
+    {
+      "id": "screen-chat-authors",
+      "role": "visible live-chat authors",
+      "status": "unresolved",
+      "identity_basis": "联系表能看到聊天栏持续滚动，但小字、账号和每条时间无法完整辨认。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=NEWlQZot2i8&t=410s"
+      ],
+      "notes": "不得把屏幕留言内容自动归为Mikey观点。"
+    }
+  ]
+}

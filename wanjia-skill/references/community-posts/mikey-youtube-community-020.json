@@ -1,0 +1,50 @@
+{
+  "schema_version": "mikey-community-post-fulltext-1.0",
+  "source_id": "mikey-youtube-community-020",
+  "post_id": "UgkxEd30FNP8UsS1hKmDfOPdN5ZntFDBjCG0",
+  "url": "https://www.youtube.com/post/UgkxEd30FNP8UsS1hKmDfOPdN5ZntFDBjCG0",
+  "published_at": "2025-08-20T05:00:00.608291-07:00",
+  "date_basis": "archived_public_observation",
+  "body": "很多人的感受是聊到内核就觉得很空，是因为即使你知道了怎么做，也没有办法自己去拉高自己的阈值，你感觉自己一直在原地很痛苦",
+  "body_kind": "verbatim_or_as_archived_in_corrected_candidate",
+  "image_refs": [
+    {
+      "image_index": 1,
+      "research_archive_path": "research/youtube-community-batch1/images/UgkxEd30FNP8UsS1hKmDfOPdN5ZntFDBjCG0/01.jpg",
+      "sha256": "8c8a305b0b58664bd57210d18b223fbd65cdd4aa265c008727412a724d2b2169",
+      "bytes": 246231,
+      "formal_asset_policy": "reference_only_do_not_copy",
+      "safe_summary": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。"
+    }
+  ],
+  "segments": [
+    {
+      "sid": "C0020-BODY",
+      "kind": "channel_body",
+      "text": "很多人的感受是聊到内核就觉得很空，是因为即使你知道了怎么做，也没有办法自己去拉高自己的阈值，你感觉自己一直在原地很痛苦",
+      "verbatim_allowed": true,
+      "source_scope": "public_channel_body_as_archived"
+    },
+    {
+      "sid": "C0020-IMG01",
+      "kind": "image_reference_metadata",
+      "text": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。",
+      "verbatim_allowed": false,
+      "image_reference": {
+        "image_index": 1,
+        "research_archive_path": "research/youtube-community-batch1/images/UgkxEd30FNP8UsS1hKmDfOPdN5ZntFDBjCG0/01.jpg",
+        "sha256": "8c8a305b0b58664bd57210d18b223fbd65cdd4aa265c008727412a724d2b2169",
+        "bytes": 246231,
+        "formal_asset_policy": "reference_only_do_not_copy",
+        "safe_summary": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。"
+      }
+    }
+  ],
+  "privacy_policy": {
+    "original_images_copied": false,
+    "raw_ocr_copied": false,
+    "private_chat_transcript_copied": false,
+    "third_party_identity_confirmed": false,
+    "publication_authorization_confirmed": false
+  }
+}

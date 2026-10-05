@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-009",
+  "youtube_id": "vmnNcNnT4mE",
+  "decision": "new",
+  "formal_weight_if_integrated": 1,
+  "compared_sources": [
+    {"scope": "formal_mikey_guide", "source_count": 202, "comparison": "youtube_id_url_exact_phrase_normalized_transcript_and_semantic knowledge screen"},
+    {"scope": "remaining_video_batches_01_05", "source_count": 45, "comparison": "normalized transcript shingle screen"},
+    {"source_id": "o6fS0sTCYcU", "comparison": "semantic overlap on subjectivity, but no same-recording transcript match"},
+    {"source_id": "EIcItpA_RZU", "comparison": "same striped-shirt visual setting as short-008 but no matching passage found"}
+  ],
+  "evidence": [
+    {"type": "identity", "result": "no_exact_id_or_url_match"},
+    {"type": "transcript", "result": "no_same_passage_match", "basis": "No distinctive phrase or material n-gram overlap was found in formal transcripts or the 45 processed remaining videos."},
+    {"type": "semantic_overlap", "result": "related_but_not_duplicate", "basis": "Formal sources already discuss subjectivity and choice, but this exact distinction between subjectivity, emotional investment and relationship duration is not found as a clip match."},
+    {"type": "visual", "result": "possible_shared_unlocated_livestream_session", "basis": "All 15 frames show the same striped-shirt studio setup as shorts 008 and 010; the original long-form source for this passage was not located."}
+  ],
+  "boundary": "Count as a new Short candidate relative to the processed corpus, while recording that it may be an excerpt from an unlocated long stream. It is not independent corroboration of the broader subjectivity theme."
+}

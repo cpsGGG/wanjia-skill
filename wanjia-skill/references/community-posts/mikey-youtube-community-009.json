@@ -1,0 +1,50 @@
+{
+  "schema_version": "mikey-community-post-fulltext-1.0",
+  "source_id": "mikey-youtube-community-009",
+  "post_id": "UgkxSWcvgF3mioBTjiRIUSUkcdFR4xUtIuQF",
+  "url": "https://www.youtube.com/post/UgkxSWcvgF3mioBTjiRIUSUkcdFR4xUtIuQF",
+  "published_at": "2025-08-01T07:00:01.800803-07:00",
+  "date_basis": "archived_public_observation",
+  "body": "大家都在错，任何一个人不论说话再斩钉截铁，不论怎么有结果，但他也有错的时候。真理不断发展、变化，任何人都只能在某时某刻某方面靠近真理，谁也无法代表真理。你跟有结果的人的最大区别在于，你在等待一个‘正确答案’，别人敢于带着不一定正确的答案行动；你太要确定感，而别人敢摸着石头过河；你要求完全正确才行动。",
+  "body_kind": "readable_normalized_summary_not_verbatim",
+  "image_refs": [
+    {
+      "image_index": 1,
+      "research_archive_path": "research/youtube-community-batch1/images/UgkxSWcvgF3mioBTjiRIUSUkcdFR4xUtIuQF/01.jpg",
+      "sha256": "af6e54b25a37fc9488d7e1efb336236adc21699a7ebe7bcc5f6a25006aa95266",
+      "bytes": 175685,
+      "formal_asset_policy": "reference_only_do_not_copy",
+      "safe_summary": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。"
+    }
+  ],
+  "segments": [
+    {
+      "sid": "C0009-BODY",
+      "kind": "channel_body",
+      "text": "大家都在错，任何一个人不论说话再斩钉截铁，不论怎么有结果，但他也有错的时候。真理不断发展、变化，任何人都只能在某时某刻某方面靠近真理，谁也无法代表真理。你跟有结果的人的最大区别在于，你在等待一个‘正确答案’，别人敢于带着不一定正确的答案行动；你太要确定感，而别人敢摸着石头过河；你要求完全正确才行动。",
+      "verbatim_allowed": false,
+      "source_scope": "readable_normalized_summary_not_verbatim"
+    },
+    {
+      "sid": "C0009-IMG01",
+      "kind": "image_reference_metadata",
+      "text": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。",
+      "verbatim_allowed": false,
+      "image_reference": {
+        "image_index": 1,
+        "research_archive_path": "research/youtube-community-batch1/images/UgkxSWcvgF3mioBTjiRIUSUkcdFR4xUtIuQF/01.jpg",
+        "sha256": "af6e54b25a37fc9488d7e1efb336236adc21699a7ebe7bcc5f6a25006aa95266",
+        "bytes": 175685,
+        "formal_asset_policy": "reference_only_do_not_copy",
+        "safe_summary": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。"
+      }
+    }
+  ],
+  "privacy_policy": {
+    "original_images_copied": false,
+    "raw_ocr_copied": false,
+    "private_chat_transcript_copied": false,
+    "third_party_identity_confirmed": false,
+    "publication_authorization_confirmed": false
+  }
+}

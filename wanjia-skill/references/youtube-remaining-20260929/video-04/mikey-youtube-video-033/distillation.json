@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-033",
+  "youtube_id": "0hG_JSFWXwE",
+  "title": "你把不到妹是因為你太丑？丨約會丨把妹丨情感丨戀愛丨約炮丨男性自我提升丨短期關係丨長期關係丨dating in china",
+  "coverage": {
+    "transcript_segments_read": 513,
+    "transcript_time_range_seconds": [0.0, 967.25],
+    "asr_reported_final_end_seconds": 972.90,
+    "sparse_frames_reviewed": 21,
+    "dense_frames_reviewed": 0,
+    "dense_windows_required_seconds": [],
+    "continuous_original_audio_visual_review": false
+  },
+  "timeline": [
+    {"start": 0.0, "end": 201.35, "summary": "Mikey reviews appearance-centered pickup theories and states that appearance attracts initial attention while behavior matters more for sustained attraction."},
+    {"start": 201.35, "end": 362.49, "summary": "He constructs an evolutionary 'hunter traits' model involving body shape, movement, eye contact, pace, confidence and decisiveness."},
+    {"start": 362.49, "end": 511.61, "summary": "He claims women need longer to assess safety and consistency, then links emotional stability to survival cues and modern social conditioning to loss of self."},
+    {"start": 511.61, "end": 656.19, "summary": "Modern status ideals, subcultures and named celebrity relationships are used to argue that behavior can outweigh conventional looks and status."},
+    {"start": 656.19, "end": 776.01, "summary": "He distinguishes attention from attraction, introduces social proof as a shortcut, and says looks and behavioral traits can coexist independently."},
+    {"start": 776.01, "end": 913.54, "summary": "He attributes confidence differences partly to childhood appearance feedback, encouragement, jealousy or bullying, including his own acne and bullying story."},
+    {"start": 913.54, "end": 943.14, "summary": "He closes by calling looks a basic threshold and urging viewers to develop confidence and individual behavioral expression."},
+    {"start": 943.14, "end": 967.25, "summary": "The remaining ASR is multilingual noise and an overlong final segment; it is excluded from semantic claims and clamped to media duration."}
+  ],
+  "claims": [
+    {"claim_id": "v033-c01", "speaker": "Mikey", "statement": "Appearance can win quick attention, but it does not by itself sustain attraction when behavior communicates insecurity or instability.", "conditions": "A qualitative model, not a measured percentage or universal rule; preferences vary by person and context.", "evidence": ["S00063-S00102@155.41-242.69"], "use_level": "context_only", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v033-c02", "speaker": "Mikey", "statement": "He groups calm movement, eye contact, measured speech, decisiveness and low dependence on public judgment into 'strong behavioral cues'.", "conditions": "Useful as a description of the speaker's model; it does not prove character, safety, leadership or compatibility.", "evidence": ["S00134-S00162@314.15-365.91"], "use_level": "context_only", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v033-c03", "speaker": "Mikey", "statement": "He says attraction accumulates as women observe behavioral consistency over time rather than switching on instantly.", "conditions": "Metaphor and gender generalization; do not infer consent or attraction from time spent, tests or ambiguous behavior.", "evidence": ["S00163-S00215@365.91-468.07"], "use_level": "hold", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v033-c04", "speaker": "Mikey", "statement": "He treats composure under surprise as a stronger signal than panic or emotional volatility.", "conditions": "Composure can help interaction, but normal anxiety does not imply low worth or danger and should not be masked at the cost of safety.", "evidence": ["S00216-S00240@468.07-511.61"], "use_level": "context_only", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v033-c05", "speaker": "Mikey", "statement": "Social proof can cause people to assume value before they independently evaluate someone's behavior.", "conditions": "A broad social observation; followers and popularity do not establish trustworthiness, compatibility or consent.", "evidence": ["S00329-S00358@669.17-705.63"], "use_level": "context_only", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v033-c06", "speaker": "Mikey", "statement": "Positive appearance feedback in childhood may reinforce confidence, while bullying and harsh parenting may reinforce insecurity.", "conditions": "Possible developmental pathways, not diagnoses or deterministic rules; individual histories require assessment.", "evidence": ["S00374-S00455@734.51-878.58"], "use_level": "hold", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v033-c07", "speaker": "Mikey", "statement": "He argues that past disadvantages can explain current patterns without permanently determining them, and that behavior can change through practice.", "conditions": "Motivational framing; the upload does not specify safe training, time, effect size or when professional support may be needed.", "evidence": ["S00442-S00500@852.46-943.14"], "use_level": "context_only", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v033-c08", "speaker": "Mikey", "statement": "He claims women's reasoning and physical disadvantages create generalized fear, superior intuition and a need for male protection.", "conditions": "Unsupported and derogatory gender essentialism; do not use to infer women’s capacities, preferences or consent.", "evidence": ["S00173-S00200@382.17-439.33"], "use_level": "do_not_generalize", "knowledge_status": "hold_pending_independent_review"}
+  ],
+  "examples": [
+    {"example_id": "v033-e01", "summary": "Pan-Lü-Deng-Xiao-Xian, peacock signaling and popular pickup books are reviewed as prior models before Mikey rejects appearance as decisive.", "evidence": ["S00019-S00080@43.87-201.35"]},
+    {"example_id": "v033-e02", "summary": "Named celebrities and subcultures are used as anecdotes for behavior overriding conventional looks or status; the relationship claims are not independently verified.", "evidence": ["S00258-S00328@537.61-669.17"]}
+  ],
+  "speaker_attribution": [
+    {"speaker": "Mikey", "basis": "Single identified host supplies the main narration and personal acne/bullying account."},
+    {"speaker": "film, celebrity and public clips", "basis": "Edited illustrative inserts with unknown original context; they are not independent evidence for Mikey's claims."}
+  ],
+  "visual_findings": [
+    "All 21 sampled frames were reviewed. The host appears throughout an edited essay intercut with Titanic, DNA imagery, predators, period film scenes, celebrity/public clips and a crowd event.",
+    "The visuals illustrate the narration but show no study, dataset or traceable primary source for the evolutionary, gender or attraction claims.",
+    "No chat screenshot or second live participant appears in the sparse sample; no dense visual window was required for the narration-level distillation."
+  ],
+  "permissions": {
+    "formal_integration": false,
+    "first_person_allowed": false,
+    "action_advice_allowed": false,
+    "knowledge_status": "hold_pending_independent_review",
+    "reason": "Potentially useful distinctions about appearance, attention and behavior are intertwined with pseudoscience, gender stereotypes, named allegations and an ASR duration error."
+  },
+  "limitations": [
+    "Media duration is 967.25 seconds, while the final ASR segment ends at 972.90 seconds; no evidence is cited beyond media duration and the noisy tail is excluded.",
+    "Automatic transcript was not checked word-for-word against original audio.",
+    "Twenty-one sparse frames do not equal continuous audio-visual verification.",
+    "Evolutionary, developmental and gender claims are uncited and cannot be treated as scientific findings."
+  ]
+}

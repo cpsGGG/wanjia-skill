@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-009",
+  "youtube_id": "K6TC-m0pJfU",
+  "review_completed": true,
+  "items": [
+    {"review_id": "v009-r01", "severity": "blocking_for_independent_weight", "issue": "The same-title upload substantially reuses formal source OSEq7tPwrqY.", "affected_evidence": ["whole transcript"], "disposition": "Mark reuse and give zero formal source weight if linked."},
+    {"review_id": "v009-r02", "severity": "blocking_for_action_advice", "issue": "Several passages recommend strategic uncertainty, possession control, insults and unilateral dominance.", "affected_evidence": ["S00208-S00262", "S00454-S00761"], "disposition": "Keep as hold/do_not_generalize; do not produce first-person or action advice."},
+    {"review_id": "v009-r03", "severity": "major", "issue": "Claims about women accepting harm from strong men and being unable to lead relationships are unsupported gender generalizations.", "affected_evidence": ["S00405-S00423", "S00749-S00761"], "disposition": "Do not generalize or normalize harm."},
+    {"review_id": "v009-r04", "severity": "major", "issue": "Anecdotes about partners' reactions and causes are self-reported and cannot establish the claimed causal mechanism.", "affected_evidence": ["S00273-S00424"], "disposition": "Attribute to Mikey and retain only as context."}
+  ]
+}

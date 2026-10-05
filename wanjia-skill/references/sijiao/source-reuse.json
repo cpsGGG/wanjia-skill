@@ -1,0 +1,33 @@
+{
+  "schema_version": "sijiao-source-reuse-1.0",
+  "status": "complete",
+  "new_source_ids": [
+    "mikey-sijiao-001",
+    "mikey-sijiao-002",
+    "mikey-sijiao-003",
+    "mikey-sijiao-004",
+    "mikey-sijiao-005",
+    "mikey-sijiao-006",
+    "mikey-sijiao-008",
+    "mikey-sijiao-009",
+    "mikey-sijiao-010",
+    "mikey-sijiao-011",
+    "mikey-sijiao-012",
+    "mikey-sijiao-013",
+    "mikey-sijiao-014",
+    "mikey-sijiao-015",
+    "mikey-sijiao-016",
+    "mikey-sijiao-017",
+    "mikey-sijiao-018",
+    "mikey-sijiao-019"
+  ],
+  "aliases": [
+    {
+      "source_id": "mikey-sijiao-007",
+      "canonical_source_id": "mikey-approach-027",
+      "relationship": "same_release_reencode",
+      "formal_weight": 0,
+      "basis": "规范化自动稿全文逐字一致"
+    }
+  ]
+}

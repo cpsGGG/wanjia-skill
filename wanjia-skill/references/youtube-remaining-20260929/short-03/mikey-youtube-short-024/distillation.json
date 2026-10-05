@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-024",
+  "youtube_id": "d8xHM4XCRQw",
+  "title": "女生很多时候不是被你说服的，是被你“状态”影响的",
+  "coverage": {
+    "transcript_segments_read": 63,
+    "transcript_time_range_seconds": [0.0, 115.23],
+    "semantic_media_range_seconds": [0.0, 117.260771],
+    "sampled_frames_reviewed": 39,
+    "continuous_original_audio_visual_review": false,
+    "excluded_asr_tail": null
+  },
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 17.96,
+      "summary": "A prompt asks how to cultivate strong behavioral cues; he defines attraction through that concept and asks why some people seem naturally successful with women."
+    },
+    {
+      "start": 17.96,
+      "end": 45.36,
+      "summary": "He attributes apparently natural success to upbringing, environment and other lifelong influences that produced what he calls strong behavioral cues."
+    },
+    {
+      "start": 45.36,
+      "end": 72.11,
+      "summary": "He says an attractive man may mistakenly credit looks alone, then argues that some handsome men still lack attraction."
+    },
+    {
+      "start": 72.11,
+      "end": 117.260771,
+      "summary": "He contrasts this with a person he labels weak and unattractive, arguing that such a person may wrongly blame every failure on looks rather than also considering behavior."
+    }
+  ],
+  "claims": [
+    {
+      "claim_id": "s024-c01",
+      "speaker": "Mikey",
+      "statement": "He defines attraction in this passage as perceived strong behavioral cues rather than a set of isolated techniques.",
+      "conditions": "His course framework, not a scientific definition of attraction.",
+      "evidence": ["S00001-S00009@0.00-17.96"],
+      "use_level": "hold"
+    },
+    {
+      "claim_id": "s024-c02",
+      "speaker": "Mikey",
+      "statement": "He attributes apparently natural romantic success to upbringing, environment and accumulated behavioral patterns beginning early in life.",
+      "conditions": "A broad causal story with no individual history or outcome evidence shown in the clip.",
+      "evidence": ["S00010-S00023@17.96-44.02"],
+      "use_level": "hold"
+    },
+    {
+      "claim_id": "s024-c03",
+      "speaker": "Mikey",
+      "statement": "He argues that looks alone do not explain attraction because some handsome men are still not liked.",
+      "conditions": "A rhetorical counterexample; attraction varies by person and context.",
+      "evidence": ["S00024-S00038@44.02-72.11"],
+      "use_level": "hold"
+    },
+    {
+      "claim_id": "s024-c04",
+      "speaker": "Mikey",
+      "statement": "He says a person may misattribute all romantic failure to appearance while overlooking behavioral patterns that others perceive as weak.",
+      "conditions": "The clip uses insulting appearance and weakness labels; these are not objective diagnoses or measures of worth.",
+      "evidence": ["S00039-S00063@72.11-115.23"],
+      "use_level": "hold"
+    }
+  ],
+  "speaker_attribution": [
+    {
+      "speaker": "viewer_or_editorial_prompt",
+      "basis": "The opening asks how to cultivate strong behavioral cues; the exact prompt speaker is not independently identified."
+    },
+    {
+      "speaker": "Mikey",
+      "basis": "One channel host is visible and gives the answer continuously throughout all 39 sampled frames."
+    }
+  ],
+  "visual_findings": [
+    "All 39 sampled frames show one speaker in a single dark studio setting with a visible livestream interface and editorial subtitles.",
+    "No woman, upbringing evidence, comparison subject, recipient reaction, refusal/consent event, or outcome appears."
+  ],
+  "permissions": {
+    "formal_integration": false,
+    "first_person_allowed": false,
+    "action_advice_allowed": false,
+    "use_level": "reuse_zero_weight",
+    "reason": "The full passage is already present in formal mikey-youtube-live-024."
+  },
+  "limitations": [
+    "The title paraphrases state-based influence, while the spoken excerpt is specifically framed around strong behavioral cues and appearance attribution.",
+    "The causal claims about upbringing, gendered attraction and perceived weakness are not independently supported in the clip.",
+    "Sparse sampled frames do not constitute continuous audio-visual review."
+  ]
+}

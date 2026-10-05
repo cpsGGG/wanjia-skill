@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-023",
+  "youtube_id": "XyrXy0MmqDo",
+  "review_completed": true,
+  "items": [
+    {"review_id": "v023-r01", "severity": "blocking_for_legal_claim", "issue": "The alleged 80-percent arrest rate in Japan and Korea lacks offense definition, denominator, period and source.", "affected_evidence": ["S00048-S00110"], "disposition": "Do not state or use the number until official jurisdiction-specific data verifies it."},
+    {"review_id": "v023-r02", "severity": "blocking_for_legal_claim", "issue": "The upload generalizes from a selected accusation case to East Asian legal systems and alleges deliberate wrongful punishment of men.", "affected_evidence": ["S00048-S00110"], "disposition": "Require the case record, disposition, statutes and comparative legal evidence; otherwise keep do_not_generalize."},
+    {"review_id": "v023-r03", "severity": "major", "issue": "Marriage and monogamy are assigned a single deliberate purpose of controlling lower-status men.", "affected_evidence": ["S00156-S00217"], "disposition": "Treat as Mikey's ideological interpretation, not established historical intent."},
+    {"review_id": "v023-r04", "severity": "major", "issue": "References to historical Chinese ritual and criminal law are not accompanied by quoted primary text, dating or scholarly context.", "affected_evidence": ["S00156-S00217"], "disposition": "Verify each quotation and legal claim against primary text and specialist scholarship before any factual use."},
+    {"review_id": "v023-r05", "severity": "major", "issue": "The prostitution-policy explanation asserts sexual scarcity as the main purpose and omits major legal and welfare rationales.", "affected_evidence": ["S00218-S00265"], "disposition": "Do not use as policy explanation without jurisdiction-specific evidence and competing explanations."},
+    {"review_id": "v023-r06", "severity": "major", "issue": "References to Germany and other jurisdictions are incomplete and may conflate legality, regulation, enforcement and outcomes.", "affected_evidence": ["S00218-S00265"], "disposition": "Verify current law and empirical outcomes separately for each jurisdiction before mention."},
+    {"review_id": "v023-r07", "severity": "major", "issue": "The source treats family, school, employment and Confucian teachings as coordinated tools of psychological control.", "affected_evidence": ["S00265-S00355"], "disposition": "Separate observable approval pressures from claims of coordinated intent."},
+    {"review_id": "v023-r08", "severity": "major", "issue": "Women are generalized as enforcing elite control through sexual expectations and standards.", "affected_evidence": ["S00355-S00423"], "disposition": "Keep do_not_generalize and never use it to infer an individual woman's motives."},
+    {"review_id": "v023-r09", "severity": "major", "issue": "The economic claim that society needs insecure men to generate GDP is presented without empirical model or documentary evidence.", "affected_evidence": ["S00423-S00462"], "disposition": "Retain only as rhetoric pending economic and institutional evidence."},
+    {"review_id": "v023-r10", "severity": "major", "issue": "The argument repeatedly infers deliberate system design from outcomes that could have multiple historical and institutional causes.", "affected_evidence": ["S00113-S00462"], "disposition": "Independent review must distinguish evidence of effect, mechanism and intent."},
+    {"review_id": "v023-r11", "severity": "minor", "issue": "ASR may corrupt named cases, classical texts, legal terms and country references.", "affected_evidence": ["throughout"], "disposition": "Check original audio and external sources before quoting or naming any case, statute or text."}
+  ]
+}

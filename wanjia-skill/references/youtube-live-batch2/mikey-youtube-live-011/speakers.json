@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "source_id": "mikey-youtube-live-011",
+  "speakers": [
+    {
+      "id": "mikey",
+      "role": "host",
+      "status": "confirmed",
+      "identity_basis": "标题标明Mikey直播；完整自动稿为同一主持声音连续讲述并多次自称Mikey；已实际查看00:05、00:15、00:20、00:30、00:35、00:40、00:45、00:50、01:00、01:05、01:10、01:15附近候选帧，均为同一人固定机位对镜讲话并配合手势。稀疏帧不能逐句证明嘴型。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=QKKXbO1JYmw&t=300s",
+        "https://www.youtube.com/watch?v=QKKXbO1JYmw&t=1800s",
+        "https://www.youtube.com/watch?v=QKKXbO1JYmw&t=4200s"
+      ],
+      "notes": "主持人身份确认；代读评论区问题时，发声者仍是Mikey，但问题内容不自动成为他的观点。"
+    },
+    {
+      "id": "viewer-question-01",
+      "role": "collective live-chat question author(s)",
+      "status": "collective_placeholder",
+      "identity_basis": "Mikey多次明确读取公屏问题和回答，画面右侧持续显示直播评论区。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=QKKXbO1JYmw&t=124s",
+        "https://www.youtube.com/watch?v=QKKXbO1JYmw&t=2765s",
+        "https://www.youtube.com/watch?v=QKKXbO1JYmw&t=4335s"
+      ],
+      "notes": "代表多名观众；未逐条映射昵称。问题由Mikey代读，不能当作Mikey主张。"
+    }
+  ]
+}

@@ -1,0 +1,2114 @@
+{
+  "schema_version": 1,
+  "status": "ACCEPTED_LIMITED_PAIRWISE_TEXT_COMPARISON_NO_WHOLE_TASK_CLOSURE",
+  "source_id": "mikey-youtube-video-refresh-001",
+  "original_parent_task_ids": [
+    "mikey-youtube-video-refresh-001-R003",
+    "mikey-youtube-video-refresh-001-R007"
+  ],
+  "scope": "11 candidate-derived safe conceptual summaries plus exact current knowledge claim/reason/conditions/limits; no original private messages, raw transcript text, absolute paths, pixels, research archive or voice certification.",
+  "actual_read_scope": {
+    "complete_candidates": 11,
+    "associated_claims": 13,
+    "candidate_unique_safe_sids": 320,
+    "whole_current_knowledge_records": 23,
+    "current_selected_text_segments": 952
+  },
+  "verdict_counts": {
+    "duplicate_known": 1,
+    "context_variant": 3,
+    "novelty_not_proven": 7
+  },
+  "duplicate_known_count_scope": "N011 core learning/review principle only; whole N011 and spirituality/sex rhetoric not declared duplicate or closed.",
+  "whole_task_closures": 0,
+  "whole_candidate_closures": 0,
+  "confirmed_global_novelty": 0,
+  "permission_changes": 0,
+  "formal_knowledge_additions": 0,
+  "voice_listening_reviews": 0,
+  "all_original_candidate_false_permissions_and_zero_independent_story_weight_remain": true,
+  "items": [
+    {
+      "candidate_id": "VR001-N001",
+      "title": "恐惧／舒适圈与爱之间的解释区分",
+      "source_owner_as_supplied": "A（Mikey语境候选，待音频映射）",
+      "research_classification_as_supplied": "mikey_role_candidate",
+      "candidate_content_as_supplied": "解释方把愤怒理解为恐惧，并提出一种区分：是真心爱伴侣，还是习惯了这段关系、害怕没有对方生活不下去。他认为后一种恐惧容易被误认成深切的爱。",
+      "original_candidate_path": "references/youtube-media-refresh-20261004/mikey-youtube-video-refresh-001/distillation.safe.json",
+      "original_json_pointer": "/new_knowledge_candidates/0",
+      "original_candidate_file_sha256": "5933222047bd7b6faacf5b3c894f570406910223beca3f03a6cdcd7897ab4373",
+      "complete_original_candidate_canonical_sha256": "5e04d4cea230eff044c9b5661e6ecb1b39c7d3d792c53b990cfbdfe4fc4b6f38",
+      "original_candidate_evidence_sid_ranges": [
+        [
+          "S00895",
+          "S00910"
+        ]
+      ],
+      "complete_candidate_conditions_and_editorial_limits": [
+        {
+          "claim_id": "VR001-C022",
+          "speaker": {
+            "role_id": "A",
+            "label": "对谈解释／回应方；Mikey说法的语境候选，不是已确认声源",
+            "mikey_attribution": "candidate_by_local_discourse_only",
+            "voice_mapping_confirmed": false,
+            "identity_confirmed": false,
+            "local_attribution_basis": "S00895接续情绪问题作解释，S00897说曾问过“你女朋友”，表明是另一解释角色，不是女友自述。"
+          },
+          "conditions": {
+            "source_stated_or_textually_explicit": [
+              "若关系主要靠将就、习惯和害怕失去熟悉生活延续，他认为这可能被误当成爱。"
+            ],
+            "status": "有可定位的来源前提／限定，仍未听校",
+            "editorial_conditions_location": "editorial_use_limits"
+          },
+          "editorial_use_limits": {
+            "attribution": "编者限制，不是Mikey或对方原话",
+            "items": [
+              "来源把这个解释说得很广，但没有逐一证明提问方、其伴侣或大多数人的实际动机。",
+              "这是待归属的解释模型，不是心理诊断；不能改写为所有愤怒都来自恐惧或所有依恋都不是真爱。"
+            ]
+          }
+        }
+      ],
+      "verdict": "novelty_not_proven",
+      "verdict_scope": "整个候选作主题/情境比较；有部分已知核心不自动使整候选重复或关闭。",
+      "anchor_ids": [
+        "v2-concept-sijiao018-k0005",
+        "quark-live-009-K016",
+        "quark-live-014-k012"
+      ],
+      "known_overlap": "已有条目谈因怕失去唯一选择而不能离开，以及压抑需求、恐惧或愤怒仍影响自己。",
+      "differences": "本候选提出“愤怒是恐惧”并把习惯关系、怕失去熟悉生活与真心爱区分。旧私教018讲的是缺少其他被选择经验，不是习惯舒适圈；旧009/014也没有在所读窗口断言爱只是恐惧或把全部愤怒化约为恐惧。不能把相同情绪词当同命题。",
+      "mandatory_boundary": "只比较A文本角色关于将就、习惯、害怕失去的解释链；A未音频归人，不能心理诊断双方或所有关系。",
+      "known_duplicate_core_only": null,
+      "remaining_open": "该解释链的全库新颖性未证；广泛因果、实际动机和精确原词仍未核。",
+      "limited_pairwise_text_comparison_completed": true,
+      "entire_candidate_closed": false,
+      "entire_parent_task_closed": false,
+      "global_semantic_novelty_established": false,
+      "new_knowledge_or_permission": false
+    },
+    {
+      "candidate_id": "VR001-N002",
+      "title": "内在优先级不等于减少聊天次数",
+      "source_owner_as_supplied": "A（待核）",
+      "research_classification_as_supplied": "mikey_role_candidate",
+      "candidate_content_as_supplied": "解释方说，不应把长期关系中的全部重心放在女性身上；他马上限定，这不是说每天聊天就算围着对方转，而是对方在心里占了多大位置。他用20%与80%的对比说明内心重心会流露到行为中。",
+      "original_candidate_path": "references/youtube-media-refresh-20261004/mikey-youtube-video-refresh-001/distillation.safe.json",
+      "original_json_pointer": "/new_knowledge_candidates/1",
+      "original_candidate_file_sha256": "5933222047bd7b6faacf5b3c894f570406910223beca3f03a6cdcd7897ab4373",
+      "complete_original_candidate_canonical_sha256": "dadcc96c56566ff68e30d6fd6698db6c66b124c3437142023fe766f209941a40",
+      "original_candidate_evidence_sid_ranges": [
+        [
+          "S00911",
+          "S00930"
+        ]
+      ],
+      "complete_candidate_conditions_and_editorial_limits": [
+        {
+          "claim_id": "VR001-C023",
+          "speaker": {
+            "role_id": "A",
+            "label": "对谈解释／回应方；Mikey说法的语境候选，不是已确认声源",
+            "mikey_attribution": "candidate_by_local_discourse_only",
+            "voice_mapping_confirmed": false,
+            "identity_confirmed": false,
+            "local_attribution_basis": "S00911延续前一解释，S00917–S00920显式澄清概念，S00921–S00929给出理由。"
+          },
+          "conditions": {
+            "source_stated_or_textually_explicit": [
+              "每天聊天不自动等于围着对方转；他强调心里的重心及其在行为中的流露。"
+            ],
+            "status": "有可定位的来源前提／限定，仍未听校",
+            "editorial_conditions_location": "editorial_use_limits"
+          },
+          "editorial_use_limits": {
+            "attribution": "编者限制，不是Mikey或对方原话",
+            "items": [
+              "20%与80%是口头比喻，输入没有测量方法或标准阈值；此处不能缩成固定聊天频次。",
+              "保留概念上的区分；不把比例当作训练指标，也不认证降低珍惜的性别普遍因果。"
+            ]
+          }
+        }
+      ],
+      "verdict": "context_variant",
+      "verdict_scope": "整个候选作主题/情境比较；有部分已知核心不自动使整候选重复或关闭。",
+      "anchor_ids": [
+        "OSEq7tPwrqY:K14",
+        "quark-live-003-k022",
+        "quark-live-011-k025",
+        "quark-live-026-k006"
+      ],
+      "known_overlap": "已有OSE K14允许发消息/说想念而不因拒绝失控，003 k022否定“字多就舔”的机械判断，011 k025明确不把全部心思放在情场。内在位置与可见联系形式不是同一件事，这一核心已有具体条目。",
+      "differences": "本候选改在长期关系中讲“每天聊天不自动等于围着她转”，加入20%/80%的口头比喻及“被完全占有后不珍惜”的强理由。旧条目的具体例子是想念、聊天字数或事业优先，并不提供百分比量表或认证该性别因果。026 k006当前正文虽更宽，实际所读S00591–S00619仅局部邀约回复评价，不能单靠该SID证明长期关系的整段区分。",
+      "mandatory_boundary": "保留长期关系、日常聊天不等于依赖、内心优先级三个边界；比例只作解释比喻。",
+      "known_duplicate_core_only": "主动联系/较多文字不自动等于低位或高需求；不把全部生活重心绑到单一对象的想法已知。",
+      "remaining_open": "百分比表达、完全占有导致不珍惜的理由及具体关系判断不据此关闭。",
+      "limited_pairwise_text_comparison_completed": true,
+      "entire_candidate_closed": false,
+      "entire_parent_task_closed": false,
+      "global_semantic_novelty_established": false,
+      "new_knowledge_or_permission": false
+    },
+    {
+      "candidate_id": "VR001-N003",
+      "title": "投入成本与较早看见风险的类比",
+      "source_owner_as_supplied": "A的类比，夹有朋友转述",
+      "research_classification_as_supplied": "mikey_role_candidate",
+      "candidate_content_as_supplied": "解释方承认长期投入会形成难以抽离的成本，并用朋友交易获利后又受损的故事作比：较早看见风险，可以避免未来投入更大时承受更难扛的损失。",
+      "original_candidate_path": "references/youtube-media-refresh-20261004/mikey-youtube-video-refresh-001/distillation.safe.json",
+      "original_json_pointer": "/new_knowledge_candidates/2",
+      "original_candidate_file_sha256": "5933222047bd7b6faacf5b3c894f570406910223beca3f03a6cdcd7897ab4373",
+      "complete_original_candidate_canonical_sha256": "31bf72964343fc8742ca72b61b0b08c7e46cb6d5197038d77342bca405e278ac",
+      "original_candidate_evidence_sid_ranges": [
+        [
+          "S01043",
+          "S01059"
+        ]
+      ],
+      "complete_candidate_conditions_and_editorial_limits": [
+        {
+          "claim_id": "VR001-C031",
+          "speaker": {
+            "role_id": "A",
+            "label": "对谈解释／回应方；Mikey说法的语境候选，不是已确认声源",
+            "mikey_attribution": "candidate_by_local_discourse_only",
+            "voice_mapping_confirmed": false,
+            "identity_confirmed": false,
+            "local_attribution_basis": "S01043–S01046回应提问方的亏损感，S01047起显式转述朋友故事。"
+          },
+          "conditions": {
+            "source_stated_or_textually_explicit": [
+              "在投入更大以前看见风险，是较早受损类比中的关键。"
+            ],
+            "status": "有可定位的来源前提／限定，仍未听校",
+            "editorial_conditions_location": "editorial_use_limits"
+          },
+          "editorial_use_limits": {
+            "attribution": "编者限制，不是Mikey或对方原话",
+            "items": [
+              "交易故事及数额均未验证；类比不证明关系决策与投资有同样机制，也未保证未来不再受伤。",
+              "仅保留类比的推理结构，不复用交易收益作为金融建议或成功案例。"
+            ]
+          }
+        }
+      ],
+      "verdict": "novelty_not_proven",
+      "verdict_scope": "整个候选作主题/情境比较；有部分已知核心不自动使整候选重复或关闭。",
+      "anchor_ids": [
+        "quark-live-048-k002",
+        "quark-live-005-k025"
+      ],
+      "known_overlap": "旧048 k002把失败即成本白付的信念与必须成功压力相连；005 k025保留从长期受挫持续找原因。",
+      "differences": "本候选是较早受损让人看见风险、免在未来投入更大时承受更大损失的朋友交易类比。旧048是在约会前不愿成本白付而抓紧当次结果，005则是长期努力找原因；都未在所读窗口给出这段风险前移的交易故事或同一前提—推论。",
+      "mandatory_boundary": "A回应B的亏损感；朋友获利/受损及数额只是未核转述。“沉默成本”等ASR疑词不由此听校。",
+      "known_duplicate_core_only": null,
+      "remaining_open": "风险前移类比的全库新颖性未证；故事真假、数额、朋友身份和任何金融/情绪效果继续开放。",
+      "limited_pairwise_text_comparison_completed": true,
+      "entire_candidate_closed": false,
+      "entire_parent_task_closed": false,
+      "global_semantic_novelty_established": false,
+      "new_knowledge_or_permission": false
+    },
+    {
+      "candidate_id": "VR001-N004",
+      "title": "继续关系的维系因素与吸引强度分开",
+      "source_owner_as_supplied": "A解释与B局部回应分层",
+      "research_classification_as_supplied": "mikey_role_candidate",
+      "candidate_content_as_supplied": "面对爱是否转移的提问，解释方判断感情已变化，并把目前关系的维系因素说成责任、道德和既有投入多于初识时的吸引；他用从90到60的口头分数示意下降，提问方有表示认可的短回应。",
+      "original_candidate_path": "references/youtube-media-refresh-20261004/mikey-youtube-video-refresh-001/distillation.safe.json",
+      "original_json_pointer": "/new_knowledge_candidates/3",
+      "original_candidate_file_sha256": "5933222047bd7b6faacf5b3c894f570406910223beca3f03a6cdcd7897ab4373",
+      "complete_original_candidate_canonical_sha256": "6ac2f61f311a43bcfa54535f74b7069aa0429abcdee2cc8885009c84cb67755c",
+      "original_candidate_evidence_sid_ranges": [
+        [
+          "S01060",
+          "S01073"
+        ]
+      ],
+      "complete_candidate_conditions_and_editorial_limits": [
+        {
+          "claim_id": "VR001-C032",
+          "speaker": {
+            "role_id": "A",
+            "label": "对谈解释／回应方；Mikey说法的语境候选，不是已确认声源",
+            "mikey_attribution": "candidate_by_local_discourse_only",
+            "voice_mapping_confirmed": false,
+            "identity_confirmed": false,
+            "local_attribution_basis": "S01060–S01064是提问与澄清；S01065–S01068为解释，S01069–S01070与S01073为回应候选。"
+          },
+          "conditions": {
+            "source_stated_or_textually_explicit": [
+              "讨论长期相处后仍有责任、道德和既有投入牵连的关系。"
+            ],
+            "status": "有可定位的来源前提／限定，仍未听校",
+            "editorial_conditions_location": "editorial_use_limits"
+          },
+          "editorial_use_limits": {
+            "attribution": "编者限制，不是Mikey或对方原话",
+            "items": [
+              "数字不是测量结果；局部应答不等于对整套理论认可，更不证明另一未在场者的真实情感。",
+              "ASR在S01066–S01068的比较句有歧义，归纳只保留维系因素与吸引的区分，不修造成准确量表。"
+            ]
+          }
+        }
+      ],
+      "verdict": "context_variant",
+      "verdict_scope": "整个候选作主题/情境比较；有部分已知核心不自动使整候选重复或关闭。",
+      "anchor_ids": [
+        "S-cMTEvo6To:K17",
+        "mikey-youtube-live-refresh-001:lr001-c13"
+      ],
+      "known_overlap": "旧S-c K17已明确把爱/生理喜欢与责任分开；同案例lr001-c13已保留“可以继续谈，但做好心理准备”的现实预期限制。",
+      "differences": "本候选给出继续关系的责任、道德和投入因素，并用90→60作初识与当前的示意；是同案例判断的理由展开，不能作为新大原则独立计权。旧条目不包含这组数字，也不证明未在场女方实际爱如何变化。当前S01066–S01068的比较句仍有ASR歧义，不能按新候选的概述反修原话。",
+      "mandatory_boundary": "讨论长期关系继续与吸引程度的区别；A解释与B认可短回应分层，数字不作测量。",
+      "known_duplicate_core_only": "关系责任不等于来源所称的爱/吸引；继续相处仍须有现实预期这一部分已知。",
+      "remaining_open": "“远高于”等比较句原词、90/60的准确归属、双方真实情感和短认可范围继续开放。",
+      "limited_pairwise_text_comparison_completed": true,
+      "entire_candidate_closed": false,
+      "entire_parent_task_closed": false,
+      "global_semantic_novelty_established": false,
+      "new_knowledge_or_permission": false
+    },
+    {
+      "candidate_id": "VR001-N005",
+      "title": "爱情作为动力的对方论述",
+      "source_owner_as_supplied": "B（不归Mikey）",
+      "research_classification_as_supplied": "other_party_context",
+      "candidate_content_as_supplied": "自述方提出把爱情当作能量而非唯一目标或结局：在关系中，爱与家庭可以推动事业；关系出问题后，仍可把体验转向理解自己、改进情感认识和继续做事。他还强调，某些情形下错误不在自己，离开后仍有向前的力量。",
+      "original_candidate_path": "references/youtube-media-refresh-20261004/mikey-youtube-video-refresh-001/distillation.safe.json",
+      "original_json_pointer": "/new_knowledge_candidates/4",
+      "original_candidate_file_sha256": "5933222047bd7b6faacf5b3c894f570406910223beca3f03a6cdcd7897ab4373",
+      "complete_original_candidate_canonical_sha256": "6b646c56c9dd44f31945df30fb3a0eef35f0bc13241b82c1a0a7a0d3e03e3ae9",
+      "original_candidate_evidence_sid_ranges": [
+        [
+          "S01165",
+          "S01204"
+        ]
+      ],
+      "complete_candidate_conditions_and_editorial_limits": [
+        {
+          "claim_id": "VR001-C038",
+          "speaker": {
+            "role_id": "B",
+            "label": "对谈提问／当事人自述方；真实身份未核，不归为Mikey",
+            "mikey_attribution": "not_assigned_to_mikey",
+            "voice_mapping_confirmed": false,
+            "identity_confirmed": false,
+            "local_attribution_basis": "S01172“我出了这种事”、S01198–S01203关于自己没有错、仍能继续的自述，与作为解释者的另一角色不同。"
+          },
+          "conditions": {
+            "source_stated_or_textually_explicit": [
+              "他将未婚、关系中以及关系结束等情境都放入动力转化的讨论，不限于维持同一个结局。"
+            ],
+            "status": "有可定位的来源前提／限定，仍未听校",
+            "editorial_conditions_location": "editorial_use_limits"
+          },
+          "editorial_use_limits": {
+            "attribution": "编者限制，不是Mikey或对方原话",
+            "items": [
+              "结婚、未婚和离婚在这一段作为不同情境被提出，不是已发生状态；不声称转化必定成功或适用于所有人。",
+              "这是对方回应层的关键研究命题，不收为Mikey原创新方法，不以叙述者赞同倒置著作归属。"
+            ]
+          }
+        }
+      ],
+      "verdict": "novelty_not_proven",
+      "verdict_scope": "整个候选作主题/情境比较；有部分已知核心不自动使整候选重复或关闭。",
+      "anchor_ids": [
+        "quark-live-033-k003",
+        "mikey-youtube-short-045:s045-c02",
+        "quark-live-005-k025"
+      ],
+      "known_overlap": "旧033 k003讲喜欢某人时搭讪更开心有能量；Short045谈持续选择一个人；005 k025讲受挫后继续努力找原因。",
+      "differences": "候选把爱与家庭的动力从特定伴侣/结局分开，转向事业、自我认识，并保留“错误不在我”的B自述。旧033的瞬时搭讪状态、045的持续选择同一对象、005的Mikey成长叙述，均不是B的完整动力转化命题。不能因“能量/爱/继续”几个词相同抹去B作者位置。",
+      "mandatory_boundary": "B提问/自述方观点，不归Mikey；未婚、关系中、离婚是提出的情境而非已确认现实状态。",
+      "known_duplicate_core_only": null,
+      "remaining_open": "完整动力转化命题全库新颖性未证；B真实身份、状态和转化效果未核。",
+      "limited_pairwise_text_comparison_completed": true,
+      "entire_candidate_closed": false,
+      "entire_parent_task_closed": false,
+      "global_semantic_novelty_established": false,
+      "new_knowledge_or_permission": false
+    },
+    {
+      "candidate_id": "VR001-N006",
+      "title": "承认过去关系价值的回应比喻",
+      "source_owner_as_supplied": "A回应B，不夺取B命题作者权",
+      "research_classification_as_supplied": "mikey_role_candidate",
+      "candidate_content_as_supplied": "解释方接着用过河需要船、上路需要别的工具的比喻说明阶段会变化，并推测过去的恋爱可能曾推动对方努力；又用前六个馒头的比喻提醒，不应因最后的变化就否认前面的积累。",
+      "original_candidate_path": "references/youtube-media-refresh-20261004/mikey-youtube-video-refresh-001/distillation.safe.json",
+      "original_json_pointer": "/new_knowledge_candidates/5",
+      "original_candidate_file_sha256": "5933222047bd7b6faacf5b3c894f570406910223beca3f03a6cdcd7897ab4373",
+      "complete_original_candidate_canonical_sha256": "7ad7e24f64c31c5bece3d089d639e998b56f7b924a41e3ad98a5077d3dc36f22",
+      "original_candidate_evidence_sid_ranges": [
+        [
+          "S01211",
+          "S01228"
+        ]
+      ],
+      "complete_candidate_conditions_and_editorial_limits": [
+        {
+          "claim_id": "VR001-C040",
+          "speaker": {
+            "role_id": "A",
+            "label": "对谈解释／回应方；Mikey说法的语境候选，不是已确认声源",
+            "mikey_attribution": "candidate_by_local_discourse_only",
+            "voice_mapping_confirmed": false,
+            "identity_confirmed": false,
+            "local_attribution_basis": "S01211以“让我想一句话”引入回应，S01220–S01223使用“也许”，S01224–S01225有短回应，声源未逐句核。"
+          },
+          "conditions": {
+            "source_stated_or_textually_explicit": [
+              "他说“也许”没有过去那段关系，就不会有同样的努力与成就。"
+            ],
+            "status": "有可定位的来源前提／限定，仍未听校",
+            "editorial_conditions_location": "editorial_use_limits"
+          },
+          "editorial_use_limits": {
+            "attribution": "编者限制，不是Mikey或对方原话",
+            "items": [
+              "过去关系推动事业仅以“也许”提出；比喻不证明实际因果，也不把人当作可随意利用的工具。",
+              "必须标明它是对前一方能量论的回应／展开，不能把整个组合叙述成由Mikey单向教给对方。"
+            ]
+          }
+        }
+      ],
+      "verdict": "novelty_not_proven",
+      "verdict_scope": "整个候选作主题/情境比较；有部分已知核心不自动使整候选重复或关闭。",
+      "anchor_ids": [
+        "HgnLR9S39is:K20",
+        "quark-live-005-k025"
+      ],
+      "known_overlap": "旧Hgn K20并列“三个月没结果”与后来自述行动焦虑下降；005 k025讲过去失败与长期找原因。",
+      "differences": "Hgn K20是当前编者把不同结果分开记账的汇总，不是已证的Mikey关于关系阶段的原教法。本候选回应B能量论，用船/马车和第七个馒头说明已不适用不等于过去毫无贡献；“也许过去恋爱促成努力”也不是005的相同经验因果。稀有字面筛查未找到船/馒头的同段旧命题，但零命中不证明新颖。",
+      "mandatory_boundary": "A承接B先前的能量论；“也许”是必要因果限定，回应方短认可不转移B原命题作者。",
+      "known_duplicate_core_only": null,
+      "remaining_open": "阶段贡献解释的全库新颖性未证；比喻、恋爱与事业的实际因果和声源未核。",
+      "limited_pairwise_text_comparison_completed": true,
+      "entire_candidate_closed": false,
+      "entire_parent_task_closed": false,
+      "global_semantic_novelty_established": false,
+      "new_knowledge_or_permission": false
+    },
+    {
+      "candidate_id": "VR001-N007",
+      "title": "需求感到商业谈判的跨域类比",
+      "source_owner_as_supplied": "A（待核）",
+      "research_classification_as_supplied": "mikey_role_candidate",
+      "candidate_content_as_supplied": "解释方把需求感控制类比到谈合作：越不依赖对方、越显得不急于得到结果，越可能处在较高位置；甚至说有需求时表现得没有，也会影响筹码。",
+      "original_candidate_path": "references/youtube-media-refresh-20261004/mikey-youtube-video-refresh-001/distillation.safe.json",
+      "original_json_pointer": "/new_knowledge_candidates/6",
+      "original_candidate_file_sha256": "5933222047bd7b6faacf5b3c894f570406910223beca3f03a6cdcd7897ab4373",
+      "complete_original_candidate_canonical_sha256": "5c2d5503609db34b73859072e76eb6e27b231f11b13ae27d3817beb8cbf173d3",
+      "original_candidate_evidence_sid_ranges": [
+        [
+          "S01281",
+          "S01289"
+        ]
+      ],
+      "complete_candidate_conditions_and_editorial_limits": [
+        {
+          "claim_id": "VR001-C044",
+          "speaker": {
+            "role_id": "A",
+            "label": "对谈解释／回应方；Mikey说法的语境候选，不是已确认声源",
+            "mikey_attribution": "candidate_by_local_discourse_only",
+            "voice_mapping_confirmed": false,
+            "identity_confirmed": false,
+            "local_attribution_basis": "S01281以关系概念起头，S01285明确转向商业，S01287–S01289提出表现与真实需求可能分离。"
+          },
+          "conditions": {
+            "source_stated_or_textually_explicit": [
+              "来源同时谈真实低需求和实际有需求但表现不急迫两种情况。"
+            ],
+            "status": "有可定位的来源前提／限定，仍未听校",
+            "editorial_conditions_location": "editorial_use_limits"
+          },
+          "editorial_use_limits": {
+            "attribution": "编者限制，不是Mikey或对方原话",
+            "items": [
+              "这是来源自己的跨域类比，没有验证与特定谈判结果的因果；真实低依赖与表演低依赖必须区分。",
+              "不将假装或操纵对方判断直接转为商业行动许可；只留下该类比与前述“内心优先级”之间的差别。"
+            ]
+          }
+        }
+      ],
+      "verdict": "novelty_not_proven",
+      "verdict_scope": "整个候选作主题/情境比较；有部分已知核心不自动使整候选重复或关闭。",
+      "anchor_ids": [
+        "quark-live-009-K016",
+        "9zRpsnsPGxU:M04",
+        "mikey-youtube-video-010:v010-c04"
+      ],
+      "known_overlap": "旧009 K16明确表面扮演无需求不改变内在需求；9z M04当前框架正文强调不因压力丢掉原则，其所读窗口是关系位置；video010 c04区分商业展示实力与关系流动。",
+      "differences": "候选额外主张低需求迁移到商业谈判，且承认真实有需求时表演低需求也影响筹码。不能把旧009的“表面扮演不改变内在”当成支持这种表演，也不能把9z关系位置规则当已审商业动作。检索到video010“谈合作”后实际回读S00431–S00468，发现它反对直接套用商业规则到关系，是相关反例而不是同命题。S01289“那个筹码都会”未完整说完，不补定量收益或确定结果。",
+      "mandatory_boundary": "真实低依赖与有需求时的外在表演须分开；A文本角色待声源核验，没有谈判结果证据。",
+      "known_duplicate_core_only": null,
+      "remaining_open": "该跨域及表演命题的全库新颖性、完成原句、真实性/有效性仍未证；不新增商业动作许可。",
+      "limited_pairwise_text_comparison_completed": true,
+      "entire_candidate_closed": false,
+      "entire_parent_task_closed": false,
+      "global_semantic_novelty_established": false,
+      "new_knowledge_or_permission": false
+    },
+    {
+      "candidate_id": "VR001-N008",
+      "title": "普通人也需要韧性、家庭责任不等于讨好",
+      "source_owner_as_supplied": "B（不归Mikey）",
+      "research_classification_as_supplied": "other_party_context",
+      "candidate_content_as_supplied": "提问方指出，不可能所有人商业上都很成功，因此仍需要一种自我保护、出问题不崩溃并能激励自己向前的理解方式。他又说，若只是分手、忘掉、当作没发生，会觉得这次受挫没有换来任何收获。 提问方回应说，自己未必像解释方描述得那样围着伴侣转，更在意的是工作挣钱、维持这个家庭。",
+      "original_candidate_path": "references/youtube-media-refresh-20261004/mikey-youtube-video-refresh-001/distillation.safe.json",
+      "original_json_pointer": "/new_knowledge_candidates/7",
+      "original_candidate_file_sha256": "5933222047bd7b6faacf5b3c894f570406910223beca3f03a6cdcd7897ab4373",
+      "complete_original_candidate_canonical_sha256": "0c00bf5f2acedb6da1a3cf8a731f2ca398a3eaabc4220941336eb9ae959f5633",
+      "original_candidate_evidence_sid_ranges": [
+        [
+          "S01025",
+          "S01029"
+        ],
+        [
+          "S01031",
+          "S01033"
+        ],
+        [
+          "S01036",
+          "S01042"
+        ],
+        [
+          "S00937",
+          "S00939"
+        ]
+      ],
+      "complete_candidate_conditions_and_editorial_limits": [
+        {
+          "claim_id": "VR001-C030",
+          "speaker": {
+            "role_id": "B",
+            "label": "对谈提问／当事人自述方；真实身份未核，不归为Mikey",
+            "mikey_attribution": "not_assigned_to_mikey",
+            "voice_mapping_confirmed": false,
+            "identity_confirmed": false,
+            "local_attribution_basis": "S01028提出“不是所有兄弟商业都成功”的反例条件，S01036–S01042以自己为何继续对话作解释。"
+          },
+          "conditions": {
+            "source_stated_or_textually_explicit": [
+              "并非所有人商业成功；即使关系出了问题，也需要能继续发展。"
+            ],
+            "status": "有可定位的来源前提／限定，仍未听校",
+            "editorial_conditions_location": "editorial_use_limits"
+          },
+          "editorial_use_limits": {
+            "attribution": "编者限制，不是Mikey或对方原话",
+            "items": [
+              "此处是他主动提出的条件与学习目标，不是已经康复的报告；“欠钱”等ASR疑词不按字面增设财务情节。",
+              "仅作带角色和来源限制的研究概述；不认证身份、现实经过、效果或普遍因果。"
+            ]
+          }
+        },
+        {
+          "claim_id": "VR001-C025",
+          "speaker": {
+            "role_id": "B",
+            "label": "对谈提问／当事人自述方；真实身份未核，不归为Mikey",
+            "mikey_attribution": "not_assigned_to_mikey",
+            "voice_mapping_confirmed": false,
+            "identity_confirmed": false,
+            "local_attribution_basis": "在前一段以“你”为对象的分析后，S00937–S00939转为“我工作挣钱为了这个家”的回应。"
+          },
+          "conditions": {
+            "source_stated_or_textually_explicit": [],
+            "status": "本项未提取出独立明确的来源适用条件，不由编者补造",
+            "editorial_conditions_location": "editorial_use_limits"
+          },
+          "editorial_use_limits": {
+            "attribution": "编者限制，不是Mikey或对方原话",
+            "items": [
+              "这是提问方对自身动机的说明，不能认证其现实行为；也不是Mikey的“只为自己”观点。",
+              "仅作带角色和来源限制的研究概述；不认证身份、现实经过、效果或普遍因果。"
+            ]
+          }
+        }
+      ],
+      "verdict": "novelty_not_proven",
+      "verdict_scope": "整个候选作主题/情境比较；有部分已知核心不自动使整候选重复或关闭。",
+      "anchor_ids": [
+        "quark-live-033-k006",
+        "quark-live-031-k005",
+        "mikey-youtube-live-020-K001"
+      ],
+      "known_overlap": "旧033 k006讨论工作忙与伴侣需要沟通，031 k005所读窗口区分现代社会必须劳作与他随后谈的吸引框架；020 K001讲接受发生的事再找可改之处。",
+      "differences": "本候选是B对“不一定人人商业成功”条件的反问，以及“工作挣钱是为了家”而非全为自己的动机纠正。旧033是在观众工作忙问题中说明尽力与沟通，031不是B的家庭动机自述，020也不提供无需财富成功才能继续发展的这段反例条件。主题相关不能把B反驳合并成Mikey自己的教法。",
+      "mandatory_boundary": "B不是Mikey；保留普通人未必经济成功、自我保护与向前、家庭责任反驳，不将ASR“欠钱”补成财务事实。",
+      "known_duplicate_core_only": null,
+      "remaining_open": "这一组合反例的全库新颖性未证；B现实动机、家庭行为、声源与恢复效果仍开放。",
+      "limited_pairwise_text_comparison_completed": true,
+      "entire_candidate_closed": false,
+      "entire_parent_task_closed": false,
+      "global_semantic_novelty_established": false,
+      "new_knowledge_or_permission": false
+    },
+    {
+      "candidate_id": "VR001-N009",
+      "title": "继续对谈与梦境：对方如何给直面问题赋义",
+      "source_owner_as_supplied": "B自述；A短回应另记",
+      "research_classification_as_supplied": "other_party_context",
+      "candidate_content_as_supplied": "回应方说周围人并不赞成自己继续剖析、对话或合作，但他认为这样做是在面对困难；当解释方夸他令自己刮目相看时，他特意纠正，关注的不是获得对方赞赏。 自述方讲述梦中从害怕到决定直视恐惧形象的变化，称这次没有再感到受伤，并推想同类梦可能不会再来；回应方简短认可直面的意义。",
+      "original_candidate_path": "references/youtube-media-refresh-20261004/mikey-youtube-video-refresh-001/distillation.safe.json",
+      "original_json_pointer": "/new_knowledge_candidates/8",
+      "original_candidate_file_sha256": "5933222047bd7b6faacf5b3c894f570406910223beca3f03a6cdcd7897ab4373",
+      "complete_original_candidate_canonical_sha256": "e804aa62aa5d3d8d8c33effef115f33d2290faebe24eda62e4ba4bb111cc05ef",
+      "original_candidate_evidence_sid_ranges": [
+        [
+          "S01477",
+          "S01493"
+        ],
+        [
+          "S01494",
+          "S01520"
+        ],
+        [
+          "S01521",
+          "S01522"
+        ]
+      ],
+      "complete_candidate_conditions_and_editorial_limits": [
+        {
+          "claim_id": "VR001-C059",
+          "speaker": {
+            "role_id": "B",
+            "label": "对谈提问／当事人自述方；真实身份未核，不归为Mikey",
+            "mikey_attribution": "not_assigned_to_mikey",
+            "voice_mapping_confirmed": false,
+            "identity_confirmed": false,
+            "local_attribution_basis": "S01477–S01485讨论自己继续对话，S01486–S01487是对方称赞，S01488–S01491反驳称赞并说明自身目的。"
+          },
+          "conditions": {
+            "source_stated_or_textually_explicit": [
+              "即使身边人不赞成，回应方仍认为应该正视问题而继续讨论。"
+            ],
+            "status": "有可定位的来源前提／限定，仍未听校",
+            "editorial_conditions_location": "editorial_use_limits"
+          },
+          "editorial_use_limits": {
+            "attribution": "编者限制，不是Mikey或对方原话",
+            "items": [
+              "ASR“知识深渊”可能有误，本文只取上下文可支持的直面困难之意，不恢复所谓原句。",
+              "这是对方对解释方的实质纠正，不能省略后改写成“主讲成功说服了他”。"
+            ]
+          }
+        },
+        {
+          "claim_id": "VR001-C060",
+          "speaker": {
+            "role_id": "B",
+            "label": "对谈提问／当事人自述方；真实身份未核，不归为Mikey",
+            "mikey_attribution": "not_assigned_to_mikey",
+            "voice_mapping_confirmed": false,
+            "identity_confirmed": false,
+            "local_attribution_basis": "S01494起延续自己经历，S01512提自己的女友，S01521–S01522另有简短回应。"
+          },
+          "conditions": {
+            "source_stated_or_textually_explicit": [
+              "自述在梦中意识到自己做梦，并决定面对恐惧形象。"
+            ],
+            "status": "有可定位的来源前提／限定，仍未听校",
+            "editorial_conditions_location": "editorial_use_limits"
+          },
+          "editorial_use_limits": {
+            "attribution": "编者限制，不是Mikey或对方原话",
+            "items": [
+              "梦境、感觉和复发预测都只能保留为自述；不能把梦中形象认证为现实中的伴侣品格或心理状态。",
+              "不是治疗证据，不形成处理创伤或噩梦的临床方法；短回应不把故事作者变成Mikey。"
+            ]
+          }
+        }
+      ],
+      "verdict": "novelty_not_proven",
+      "verdict_scope": "整个候选作主题/情境比较；有部分已知核心不自动使整候选重复或关闭。",
+      "anchor_ids": [
+        "quark-live-014-k012",
+        "mikey-youtube-live-refresh-001:lr001-c13"
+      ],
+      "known_overlap": "旧014 k012用照阴暗面/衣柜比喻承认恐惧愤怒；同案例lr001 c13有A自报同理与赞赏对方。",
+      "differences": "候选记录B纠正“为了A赞赏”的解释，再讲在梦中认出做梦、直视怪物、主观未受伤并预测梦不再来的个人故事。旧014只是讲者面对被压抑情绪的比喻，不是同一梦境；旧lr001的单方赞赏也不能覆盖B对它的纠正。保留该来回才不把B成果全部归于A。",
+      "mandatory_boundary": "B的梦境与勇气自述；A只S01521–S01522短回应，不能夺取故事/方法作者权。",
+      "known_duplicate_core_only": null,
+      "remaining_open": "具体自述/纠正的全库新颖性未证；真实梦境、身份、复发预测和临床效果继续开放。",
+      "limited_pairwise_text_comparison_completed": true,
+      "entire_candidate_closed": false,
+      "entire_parent_task_closed": false,
+      "global_semantic_novelty_established": false,
+      "new_knowledge_or_permission": false
+    },
+    {
+      "candidate_id": "VR001-N010",
+      "title": "暂时无解时停止强求，体验悬而未决情绪的自报顺序",
+      "source_owner_as_supplied": "A（归属与效果均待核）",
+      "research_classification_as_supplied": "mikey_role_candidate",
+      "candidate_content_as_supplied": "解释方说，自己曾因被骚扰及家人被牵连而反复焦虑、踱步；某一刻觉得眼下无法解决，便停止强求立即解决，躺下体验痛苦、焦虑和不确定感。他报告约半小时后压抑减轻，后来面对类似事情反应也较小。",
+      "original_candidate_path": "references/youtube-media-refresh-20261004/mikey-youtube-video-refresh-001/distillation.safe.json",
+      "original_json_pointer": "/new_knowledge_candidates/9",
+      "original_candidate_file_sha256": "5933222047bd7b6faacf5b3c894f570406910223beca3f03a6cdcd7897ab4373",
+      "complete_original_candidate_canonical_sha256": "44f20ef5992673bf353fb3ca7f713c45fb4ac1d22786fb242abefd9f6e090aad",
+      "original_candidate_evidence_sid_ranges": [
+        [
+          "S01523",
+          "S01574"
+        ]
+      ],
+      "complete_candidate_conditions_and_editorial_limits": [
+        {
+          "claim_id": "VR001-C061",
+          "speaker": {
+            "role_id": "A",
+            "label": "对谈解释／回应方；Mikey说法的语境候选，不是已确认声源",
+            "mikey_attribution": "candidate_by_local_discourse_only",
+            "voice_mapping_confirmed": false,
+            "identity_confirmed": false,
+            "local_attribution_basis": "S01523宣布转讲自己的情绪经验，S01532等创作者受扰语境与上一段梦境自述区分；仍未做原音归人。"
+          },
+          "conditions": {
+            "source_stated_or_textually_explicit": [
+              "来源主观认为眼下解决不了，因而暂时停止强求立即解决。"
+            ],
+            "status": "有可定位的来源前提／限定，仍未听校",
+            "editorial_conditions_location": "editorial_use_limits"
+          },
+          "editorial_use_limits": {
+            "attribution": "编者限制，不是Mikey或对方原话",
+            "items": [
+              "前提是他当时主观觉得暂时无法解决；半小时是一次经历中的自报时长，不是训练剂量、承诺时限或疗效参数。",
+              "不得迁移成放弃处理现实骚扰或安全问题；不认证治疗效果；这是有具体顺序的研究候选，不因同案例出版就抹掉，但现不能作为正式行动方法。"
+            ]
+          }
+        }
+      ],
+      "verdict": "context_variant",
+      "verdict_scope": "整个候选作主题/情境比较；有部分已知核心不自动使整候选重复或关闭。",
+      "anchor_ids": [
+        "mikey-youtube-live-019-K003",
+        "mikey-youtube-live-032-K006",
+        "quark-live-014-k023"
+      ],
+      "known_overlap": "旧019 K003实际S00281–S00304允许当下痛苦存在、停止抗拒，032 K006实际S00739–S00749先找解决办法、实在无解不继续强求，014 k023承认痛苦后继续现实事务。",
+      "differences": "候选把这些相近思想落到被骚扰及家人受扰的自报：主观暂时做不了—停止强求—沙发躺下—体验悬而未决—约半小时减轻—以后反应较小。旧条目所读窗口没有完整相同生活场景、姿势、时长及后效。保留为已有思想的过程性例子，不能把抽象核心已知说成完整操作/时长/疗效已知重复或已验。",
+      "mandatory_boundary": "只有来源当时主观认为眼下解决不了的前提；仍须处理现实安全问题。半小时是自报而非剂量，不转临床/停止现实应对规则。",
+      "known_duplicate_core_only": "允许当下情绪、减少与它对抗，先解决问题而在暂时无法解决时承认限制的抽象核心已有具体条目。",
+      "remaining_open": "完整自报过程的全库新颖性、声源身份、事件真实性、半小时与长期变化效果仍未核。",
+      "limited_pairwise_text_comparison_completed": true,
+      "entire_candidate_closed": false,
+      "entire_parent_task_closed": false,
+      "global_semantic_novelty_established": false,
+      "new_knowledge_or_permission": false
+    },
+    {
+      "candidate_id": "VR001-N011",
+      "title": "从倒带后悔转向学习的解释",
+      "source_owner_as_supplied": "A（待核）",
+      "research_classification_as_supplied": "mikey_role_candidate",
+      "candidate_content_as_supplied": "解释方把成长解释为从受挫里学到东西，而不是反复设想当初拦住某件事就能避免一切；在相邻段落，他还用灵性区分能否理解这番经验的人。",
+      "original_candidate_path": "references/youtube-media-refresh-20261004/mikey-youtube-video-refresh-001/distillation.safe.json",
+      "original_json_pointer": "/new_knowledge_candidates/10",
+      "original_candidate_file_sha256": "5933222047bd7b6faacf5b3c894f570406910223beca3f03a6cdcd7897ab4373",
+      "complete_original_candidate_canonical_sha256": "01131897627199a4c9f7f163e6a56a839f89c2595c6f57c2f40903b1db1d2b29",
+      "original_candidate_evidence_sid_ranges": [
+        [
+          "S01575",
+          "S01589"
+        ]
+      ],
+      "complete_candidate_conditions_and_editorial_limits": [
+        {
+          "claim_id": "VR001-C062",
+          "speaker": {
+            "role_id": "A",
+            "label": "对谈解释／回应方；Mikey说法的语境候选，不是已确认声源",
+            "mikey_attribution": "candidate_by_local_discourse_only",
+            "voice_mapping_confirmed": false,
+            "identity_confirmed": false,
+            "local_attribution_basis": "S01583明确提出从事件学到什么，S01585–S01587模拟反事实后悔，不是推荐限制伴侣行动。"
+          },
+          "conditions": {
+            "source_stated_or_textually_explicit": [
+              "以从已发生的受挫中学习，区别于反复设想过去本可如何避免。"
+            ],
+            "status": "有可定位的来源前提／限定，仍未听校",
+            "editorial_conditions_location": "editorial_use_limits"
+          },
+          "editorial_use_limits": {
+            "attribution": "编者限制，不是Mikey或对方原话",
+            "items": [
+              "来源没有证明每个受伤者都能这样处理；“灵性”是他的评价，不是资格测试或医学属性。",
+              "不得将持续痛苦归咎于缺乏灵性，不把阻止他人出行的假设当作应做之事；保留对反事实执念的批评而不认证普适性。"
+            ]
+          }
+        }
+      ],
+      "verdict": "duplicate_known",
+      "verdict_scope": "只针对候选的“从已发生受挫找可学习/可修正之处，不重放不可改变过去”核心命题；不是全部修辞、归属或原句重复。",
+      "anchor_ids": [
+        "mikey-youtube-live-020-K001",
+        "mikey-youtube-live-020-K011",
+        "quark-live-005-k025"
+      ],
+      "known_overlap": "020 K001当前正文已讲接纳既成事实后复盘，下次修正；实际S00099–S00113明确抗拒无正向意义、分析问题根源、下次不要再犯。020 K011实际S01159–S01190有情绪正常、找失败节点/原因、下次修正再实践；005 k025长期找失败原因。",
+      "differences": "新候选的具体反事实例子是不让女友去某地，另夹“灵性”及性别评价。这些修辞没有在所读旧窗口一并出现，不作为新原则或旧principle的必要条件；尤其不能把旧条目已有知识说成已经许可灵性评判、责备受伤者或限制女友出行。",
+      "mandatory_boundary": "仅为已发生、不能靠重演过去改变的受挫；找可学习内容。A未声源认证，成长/疗效仍只是解释。",
+      "known_duplicate_core_only": "从已发生的受挫分析/学习、寻找下次可修正之处，而非抗拒既成事实或一味活在过去。",
+      "remaining_open": "灵性/性别评价与具体反事实示例原话、声音身份及实际成长因果继续开放；完整候选并未全项关闭。",
+      "limited_pairwise_text_comparison_completed": true,
+      "entire_candidate_closed": false,
+      "entire_parent_task_closed": false,
+      "global_semantic_novelty_established": false,
+      "new_knowledge_or_permission": false
+    }
+  ],
+  "anchors": {
+    "quark-live-009-K016": {
+      "knowledge_id": "quark-live-009-K016",
+      "source_id": "quark-live-009",
+      "knowledge_path": "references/knowledge.jsonl",
+      "line_1_based": 692,
+      "knowledge_file_sha256": "ba1c169d7febde8ad51c67d237206e4747111b32143da77408e02f8f077990bf",
+      "whole_current_record_canonical_sha256": "79900deaffd778616473bd1e50bd6f202890bd61d3f56518405c7892730bb834",
+      "exact_current_semantic_fields": {
+        "title": "压抑需求不等于需求消失",
+        "claim": "Mikey认为把需求感判定为坏并压抑它，可能使需求在关系压力下以追逐和自证形式重新出现。",
+        "reason": "表面扮演无需求没有改变内部害怕失去或渴望认可的反应。",
+        "conditions": [
+          "约会中对方后撤或反馈下降时"
+        ],
+        "limits": [
+          "需求表达与依恋问题需要结合个人情境，不宜只用PUA术语判断"
+        ],
+        "conditions_attribution": null,
+        "limits_attribution": null,
+        "mikey_explicit_conditions": null,
+        "editorial_use_limits": null
+      },
+      "semantic_fields_canonical_sha256": "582b67ed2664a935aa8380088ece12c1072060cb2c0024329cb1fb8e79741fda",
+      "current_evidence_sids": [
+        "S01943",
+        "S01951"
+      ],
+      "readback_transcript_path": "references/quark-live/quark-live-009/transcript.json",
+      "transcript_file_sha256": "81679ba1f59ec96b65607d4c6d47f7e8b25e5fa121017b555d6464a2b7925de2",
+      "actually_read_comparison_sid_ranges": [
+        [
+          "S01936",
+          "S01960"
+        ]
+      ],
+      "readback_segments_canonical_sha256": "08d49585bc05f4aa6e94dfdfd266065b6437e633fb9937efff85c5bb1780009a",
+      "source_text_not_copied_here": true,
+      "context_does_not_grant_runtime_scope": true
+    },
+    "quark-live-014-k012": {
+      "knowledge_id": "quark-live-014-k012",
+      "source_id": "quark-live-014",
+      "knowledge_path": "references/knowledge.jsonl",
+      "line_1_based": 821,
+      "knowledge_file_sha256": "ba1c169d7febde8ad51c67d237206e4747111b32143da77408e02f8f077990bf",
+      "whole_current_record_canonical_sha256": "38e0eb84abe919069812868cfefd16a38f1f618c9dda8cf0db2b63a34068f220",
+      "exact_current_semantic_fields": {
+        "title": "打开衣柜是观察和承认被压抑情绪的比喻",
+        "claim": "Mikey用‘打开衣柜’比喻主动看见内心恐惧、嫉妒和愤怒，并承认这些情绪存在。",
+        "reason": "他认为压抑不代表情绪消失，回避会让其继续影响行为。",
+        "conditions": [
+          "能保持基本安全和现实判断",
+          "严重创伤或失控风险由专业人员支持"
+        ],
+        "limits": [
+          "不是标准心理治疗协议",
+          "‘压抑终会爆炸’是过度预测",
+          "不可用来自行处理严重精神健康问题"
+        ],
+        "conditions_attribution": null,
+        "limits_attribution": null,
+        "mikey_explicit_conditions": null,
+        "editorial_use_limits": null
+      },
+      "semantic_fields_canonical_sha256": "59bbd87f1e9adc10d0d4afa72c4b45fafbc6eaf0691e3209aec4e69f77a55db4",
+      "current_evidence_sids": [
+        "S00631",
+        "S00637",
+        "S00639",
+        "S00641",
+        "S00647"
+      ],
+      "readback_transcript_path": "references/quark-live-batch2/quark-live-014/transcript.json",
+      "transcript_file_sha256": "4cdff57f04f132a27de51d7d4d01ba777604d41af32afabd3ae95544b1b79c4e",
+      "actually_read_comparison_sid_ranges": [
+        [
+          "S00624",
+          "S00657"
+        ]
+      ],
+      "readback_segments_canonical_sha256": "061517665f7d07d02e21f2181a12252bb0701213fc2066a71b85de0a22e358bc",
+      "source_text_not_copied_here": true,
+      "context_does_not_grant_runtime_scope": true
+    },
+    "v2-concept-sijiao018-k0005": {
+      "knowledge_id": "v2-concept-sijiao018-k0005",
+      "source_id": "mikey-sijiao-018",
+      "knowledge_path": "references/knowledge.jsonl",
+      "line_1_based": 3580,
+      "knowledge_file_sha256": "ba1c169d7febde8ad51c67d237206e4747111b32143da77408e02f8f077990bf",
+      "whole_current_record_canonical_sha256": "2a6841bc9b592eb2a584b5ad75c988c8f0cd36d34f93f46b33e13a0f5beb3709",
+      "exact_current_semantic_fields": {
+        "title": "摆脱单一对象依赖来自可重复经验",
+        "claim": "在 Mikey 的价值高低和情感博弈框架中，有人不敢离开令自己受伤的关系，是担心离开后不会再有其他女性喜欢自己。他把获得大量恋爱或性方面的成功经验，同拥有其他选择、面对他所谓的刁难或测试不再害怕、能够离开单一对象联系起来。",
+        "reason": "他的逻辑是：如果恐惧来自“除她之外无人会选择自己”，那么拥有其他被选择经历就会形成可以离开的底气。这是对其讲解的语义归纳，不是已验证的心理因果。",
+        "conditions": [
+          "针对因担心失去唯一机会而难以离开单一对象的情境。",
+          "讲者论证中的经验前提是数量众多的恋爱/性成功；原窗口还有百人级及数十名对象的表述，不能降格隐去为一次普通聊天经验。"
+        ],
+        "limits": [
+          "数量化表述不作为建议目标或有效性阈值；其中对象等级术语的 ASR 不清。",
+          "价值高低、刁难或测试是讲者的评价框架，不是本轮对任何真实人物的认定。",
+          "学员扩大交往与结果均未独立核实。",
+          "不能保证学习、扩大社交或获得若干次经验后就不再受情绪影响。",
+          "百人或数十对象的可执行征服指标、训练配额、成功率或保证。",
+          "将扩大社交的案例叙述包装成完整有效训练步骤。",
+          "真实女性的价值等级、对象类型、性结果或是否主动追随。",
+          "人生、工作、商业全面改变的普遍因果。",
+          "用其他条目的普通维护方法补全本条来源没有的动作。"
+        ],
+        "conditions_attribution": "source_context_and_explicit_review_scope_retained_not_a_new_threshold",
+        "limits_attribution": "source_scope_and_reviewer_boundaries; not_all_Mikey_self_stated_limits",
+        "mikey_explicit_conditions": null,
+        "editorial_use_limits": [
+          "[证据边界] 本轮仅对照实际上传的安全自动稿与安全分析，未听校、未核声纹、未看新图或连续音画；不逐字引用，不冒认本人身份或親历。",
+          "[效果边界] 讲者的心理、能力、顾虑、角色、发送顺序及成功叙述不是独立事实；不保证邀约、吸引、关系或亲密结果。",
+          "[权限边界] 只使用该完整独立载荷；父条、邻条、原SID全文、私聊、截图、结果及跨期关系不继承人物化或动作许可。",
+          "[编者应用约束；不是本段源教法] 邀约或电话不是持续同意；明确拒绝、要求停止或不便沟通时不继续施压。",
+          "[条件；保留源情境/审核范围] 针对因担心失去唯一机会而难以离开单一对象的情境。",
+          "[条件；保留源情境/审核范围] 讲者论证中的经验前提是数量众多的恋爱/性成功；原窗口还有百人级及数十名对象的表述，不能降格隐去为一次普通聊天经验。",
+          "[载荷限制；不自动作源教法] 数量化表述不作为建议目标或有效性阈值；其中对象等级术语的 ASR 不清。",
+          "[载荷限制；不自动作源教法] 价值高低、刁难或测试是讲者的评价框架，不是本轮对任何真实人物的认定。",
+          "[载荷限制；不自动作源教法] 学员扩大交往与结果均未独立核实。",
+          "[载荷限制；不自动作源教法] 不能保证学习、扩大社交或获得若干次经验后就不再受情绪影响。",
+          "[不得扩展] 百人或数十对象的可执行征服指标、训练配额、成功率或保证。",
+          "[不得扩展] 将扩大社交的案例叙述包装成完整有效训练步骤。",
+          "[不得扩展] 真实女性的价值等级、对象类型、性结果或是否主动追随。",
+          "[不得扩展] 人生、工作、商业全面改变的普遍因果。",
+          "[不得扩展] 用其他条目的普通维护方法补全本条来源没有的动作。",
+          "[保持开放] S00202–S00203 的数量化术语缺独立校验，“高峰妹”字样未能确认具体含义。 影响：阻止精确数量目标、对象等级条件及效果保证；当前只保留大量成功经验与选择感相联系的归属观点。",
+          "[保持开放] 学员认识对象与情绪、人生变化为讲者叙述，现有视觉边界未解除。 影响：阻止把本条写成经验证有效、可复制人生结果；不阻止对 Mikey 主张的有限转述。"
+        ]
+      },
+      "semantic_fields_canonical_sha256": "8807e5645348e99b910d90403aad5b8551911eb7fc74e3426eefc87ab2be7db5",
+      "current_evidence_sids": [
+        "S00188",
+        "S00189",
+        "S00190",
+        "S00191",
+        "S00192",
+        "S00193",
+        "S00194",
+        "S00195",
+        "S00196",
+        "S00197",
+        "S00198",
+        "S00199",
+        "S00200",
+        "S00201",
+        "S00202",
+        "S00203",
+        "S00204",
+        "S00205",
+        "S00206",
+        "S00207",
+        "S00208"
+      ],
+      "readback_transcript_path": "references/sijiao/mikey-sijiao-018/transcript.json",
+      "transcript_file_sha256": "e32abd7d04850e5c7554fcebc84d41aa11bf791f5f8a87c8a920780b51785304",
+      "actually_read_comparison_sid_ranges": [
+        [
+          "S00181",
+          "S00213"
+        ]
+      ],
+      "readback_segments_canonical_sha256": "1dfc5963af134e7ba6ebf8f7423852714d318f4e13877548ba642d9e1711d08d",
+      "source_text_not_copied_here": true,
+      "context_does_not_grant_runtime_scope": true
+    },
+    "OSEq7tPwrqY:K14": {
+      "knowledge_id": "OSEq7tPwrqY:K14",
+      "source_id": "OSEq7tPwrqY",
+      "knowledge_path": "references/knowledge.jsonl",
+      "line_1_based": 281,
+      "knowledge_file_sha256": "ba1c169d7febde8ad51c67d237206e4747111b32143da77408e02f8f077990bf",
+      "whole_current_record_canonical_sha256": "301f30551995fbec5aee9088d8814c71c2086fcc6985e526cdfe3f4fc1a83c10",
+      "exact_current_semantic_fields": {
+        "title": "可以表达想念，但不要求对方必须满足",
+        "claim": "触发：想主动是否就是需求感过高。原文允许承认想念、发消息；关键是被拒绝后能接受并继续自己的生活。不要写成永不主动，也不能自动把拒绝认定为测试。",
+        "reason": null,
+        "conditions": null,
+        "limits": null,
+        "conditions_attribution": null,
+        "limits_attribution": null,
+        "mikey_explicit_conditions": null,
+        "editorial_use_limits": null
+      },
+      "semantic_fields_canonical_sha256": "d4b8146c0ccd65fab767cc1c1f0dc9fe177547730633281afc0e9f63c9f9ed00",
+      "current_evidence_sids": [
+        "S01043",
+        "S01045",
+        "S01047"
+      ],
+      "readback_transcript_path": "references/transcripts/OSEq7tPwrqY.json",
+      "transcript_file_sha256": "a3c50b7d277c78e195bcefe119cf3fbcc34b6c40322c3900996aa9a4c2d3fa98",
+      "actually_read_comparison_sid_ranges": [
+        [
+          "S01034",
+          "S01054"
+        ]
+      ],
+      "readback_segments_canonical_sha256": "ccd4ff04b7b7e369f5c88ddc1284a06e6141a7009b4d7aed7f51f4ed942e6653",
+      "source_text_not_copied_here": true,
+      "context_does_not_grant_runtime_scope": true
+    },
+    "quark-live-011-k025": {
+      "knowledge_id": "quark-live-011-k025",
+      "source_id": "quark-live-011",
+      "knowledge_path": "references/knowledge.jsonl",
+      "line_1_based": 754,
+      "knowledge_file_sha256": "ba1c169d7febde8ad51c67d237206e4747111b32143da77408e02f8f077990bf",
+      "whole_current_record_canonical_sha256": "c3f6f76f6683e5aa0c01bcafa74107ae2cba6b6a03e2586e1a1ee0312f50b537",
+      "exact_current_semantic_fields": {
+        "title": "事业优先与接受分手",
+        "claim": "Mikey说自己把事业放在第一位，伴侣提出分手时会坦然接受；相关伴侣聊天的展示已获静帧定位，但“支配／甩不掉”是其解释，不能视为关系状态或双方同意的证明。",
+        "reason": "他认为不把全部心思放在情场、不过度害怕失去，能减少维护关系的压力。",
+        "conditions": [
+          "双方可自由决定继续或结束",
+          "独立不等于忽视承诺和对方感受"
+        ],
+        "limits": [
+          "该段来自Mikey对伴侣聊天截图的单方解释",
+          "同段要求伴侣接受痛苦委屈，存在不对等风险",
+          "不能从“甩不掉”证明关系健康"
+        ],
+        "conditions_attribution": null,
+        "limits_attribution": null,
+        "mikey_explicit_conditions": null,
+        "editorial_use_limits": null
+      },
+      "semantic_fields_canonical_sha256": "88917431890ac670bf0573b6c6cf33731b1c4be6e3a067c25f16fa98bc93df02",
+      "current_evidence_sids": [
+        "S04245",
+        "S04246",
+        "S04250",
+        "S04251"
+      ],
+      "readback_transcript_path": "references/quark-live-batch2/quark-live-011/transcript.json",
+      "transcript_file_sha256": "59cf5a4058931e80b8a1803d7ddc4baf43769873100299139685cee611057860",
+      "actually_read_comparison_sid_ranges": [
+        [
+          "S04228",
+          "S04258"
+        ]
+      ],
+      "readback_segments_canonical_sha256": "61426f70c05fbc57be960a4892a3bf215e10532f5d59f0342d8961145af2577d",
+      "source_text_not_copied_here": true,
+      "context_does_not_grant_runtime_scope": true
+    },
+    "quark-live-003-k022": {
+      "knowledge_id": "quark-live-003-k022",
+      "source_id": "quark-live-003",
+      "knowledge_path": "references/knowledge.jsonl",
+      "line_1_based": 487,
+      "knowledge_file_sha256": "ba1c169d7febde8ad51c67d237206e4747111b32143da77408e02f8f077990bf",
+      "whole_current_record_canonical_sha256": "f6d676c3e537eb5b91a88da7b0d6f77710b409d70f06b6d711feece38ae1836f",
+      "exact_current_semantic_fields": {
+        "title": "字多不自动等于低位，恐惧才会卡住表达",
+        "claim": "主播认为发很多字不自动等于“舔”，更大的问题是害怕发、害怕被评价。",
+        "reason": "先给自己贴上无聊标签，会让表达更僵硬；真实表达需要放下这种自我负担。",
+        "conditions": [
+          "对方仍在回应",
+          "内容不是骚扰式轰炸"
+        ],
+        "limits": [
+          "发消息仍要尊重对方节奏和停止信号",
+          "与刻意冷却方法存在条件差异"
+        ],
+        "conditions_attribution": null,
+        "limits_attribution": null,
+        "mikey_explicit_conditions": null,
+        "editorial_use_limits": null
+      },
+      "semantic_fields_canonical_sha256": "9ddbd6440d707e4fbb97babfa4d3cb75b0dbc00ce318e915e248ea0ffd740b2f",
+      "current_evidence_sids": [
+        "S02832",
+        "S02833",
+        "S02834",
+        "S02835",
+        "S02836",
+        "S02837",
+        "S02838",
+        "S02839",
+        "S02840",
+        "S02841",
+        "S02842",
+        "S02843",
+        "S02844",
+        "S02845",
+        "S02846",
+        "S02847",
+        "S02848",
+        "S02849",
+        "S02850",
+        "S02851",
+        "S02852",
+        "S02853",
+        "S02895",
+        "S02896",
+        "S02897",
+        "S02898",
+        "S02899",
+        "S02900",
+        "S02901",
+        "S02902",
+        "S02903",
+        "S02904",
+        "S02905",
+        "S02906"
+      ],
+      "readback_transcript_path": "references/quark-live/quark-live-003/transcript.json",
+      "transcript_file_sha256": "1f4f872d6b633c2687be84dc5591767fcf2007f341f5c19a49a58d0c07b37e31",
+      "actually_read_comparison_sid_ranges": [
+        [
+          "S02827",
+          "S02860"
+        ],
+        [
+          "S02890",
+          "S02910"
+        ]
+      ],
+      "readback_segments_canonical_sha256": "24ab81153650a7dd9e1119c49ad0eae0fd66f7dfada8d388488b4d42b4a137de",
+      "source_text_not_copied_here": true,
+      "context_does_not_grant_runtime_scope": true
+    },
+    "quark-live-026-k006": {
+      "knowledge_id": "quark-live-026-k006",
+      "source_id": "quark-live-026",
+      "knowledge_path": "references/knowledge.jsonl",
+      "line_1_based": 1126,
+      "knowledge_file_sha256": "ba1c169d7febde8ad51c67d237206e4747111b32143da77408e02f8f077990bf",
+      "whole_current_record_canonical_sha256": "8a7c2e8bb0021d79209a6a5eb49a4fd234de47bf1e6f0c680d4ee03ff4a64bda",
+      "exact_current_semantic_fields": {
+        "title": "低需求感不是故意冷淡",
+        "claim": "Mikey把不围着对方转、不过度求结果称为低需求感，并说它可拉伸吸引。",
+        "reason": "他声称低需求感可以拉伸吸引。",
+        "conditions": [
+          "已清楚表达"
+        ],
+        "limits": [
+          "吸引效果是Mikey主张",
+          "不能将忽冷忽热包装成低需求感"
+        ],
+        "conditions_attribution": null,
+        "limits_attribution": null,
+        "mikey_explicit_conditions": null,
+        "editorial_use_limits": null
+      },
+      "semantic_fields_canonical_sha256": "50034121d87d63a71e3795a393113d8112019528510e02b370ff6b60f1f8ebb1",
+      "current_evidence_sids": [
+        "S00603",
+        "S00605"
+      ],
+      "readback_transcript_path": "references/quark-live-batch3/quark-live-026/transcript.json",
+      "transcript_file_sha256": "c7a38343161be7e563222600279ad047a7f668b4ada2589689f4b8d318f98599",
+      "actually_read_comparison_sid_ranges": [
+        [
+          "S00591",
+          "S00619"
+        ]
+      ],
+      "readback_segments_canonical_sha256": "a16f9048da86fe0e231f27a48abca775550596c06d54a97968bfda6bf038a5b1",
+      "source_text_not_copied_here": true,
+      "context_does_not_grant_runtime_scope": true
+    },
+    "quark-live-048-k002": {
+      "knowledge_id": "quark-live-048-k002",
+      "source_id": "quark-live-048",
+      "knowledge_path": "references/knowledge.jsonl",
+      "line_1_based": 1450,
+      "knowledge_file_sha256": "ba1c169d7febde8ad51c67d237206e4747111b32143da77408e02f8f077990bf",
+      "whole_current_record_canonical_sha256": "6cbd1fd3fcfd66ee978132f4f89964883133229ccb6e598f53b1fcccea2ab3cc",
+      "exact_current_semantic_fields": {
+        "title": "必须成功会制造需求感",
+        "claim": "他把必须成功的信念与需求感直接相连。",
+        "reason": "把一次失败视为成本全浪费，会更抓紧结果。",
+        "conditions": [
+          "约会或搭讪前压力过高。"
+        ],
+        "limits": "这是主播个人解释，不是临床因果。",
+        "conditions_attribution": null,
+        "limits_attribution": null,
+        "mikey_explicit_conditions": null,
+        "editorial_use_limits": null
+      },
+      "semantic_fields_canonical_sha256": "2093db631f39359d82310961e92f348c07ba83de149c3aad0683b1d5c39c86f8",
+      "current_evidence_sids": [
+        "S00245",
+        "S00246",
+        "S00247",
+        "S00248",
+        "S00249",
+        "S00250"
+      ],
+      "readback_transcript_path": "references/quark-live-batch5/quark-live-048/transcript.json",
+      "transcript_file_sha256": "6865b52ddd073078f4e2ebf75ed205ca36e84f68f287d17187428df7150c87f0",
+      "actually_read_comparison_sid_ranges": [
+        [
+          "S00232",
+          "S00266"
+        ]
+      ],
+      "readback_segments_canonical_sha256": "4e3b52db35d6a0587dfa1a4c338fbc72fe116fa6d1de01779cad1bbef8743a9d",
+      "source_text_not_copied_here": true,
+      "context_does_not_grant_runtime_scope": true
+    },
+    "quark-live-005-k025": {
+      "knowledge_id": "quark-live-005-k025",
+      "source_id": "quark-live-005",
+      "knowledge_path": "references/knowledge.jsonl",
+      "line_1_based": 544,
+      "knowledge_file_sha256": "ba1c169d7febde8ad51c67d237206e4747111b32143da77408e02f8f077990bf",
+      "whole_current_record_canonical_sha256": "85a9b3c5361fdede381b0c64deb8a01a600f8150e583509327cb75a3dbd1cc67",
+      "exact_current_semantic_fields": {
+        "title": "长期改变来自接纳现状并持续找原因",
+        "claim": "Mikey说人无法预知几年后的变化，但他的转变来自当时仍在上进，并持续思考失败原因。",
+        "reason": "他回顾早期不会约会、被拒绝时，没有只沉浸痛苦，而是多年反复寻找“为什么”。",
+        "conditions": [
+          "改变需要实际行动和长期复盘"
+        ],
+        "limits": [
+          "个人成功叙事不能直接推出他人必然获得同样结果"
+        ],
+        "conditions_attribution": null,
+        "limits_attribution": null,
+        "mikey_explicit_conditions": null,
+        "editorial_use_limits": null
+      },
+      "semantic_fields_canonical_sha256": "312812524c5bb1279c887b44e25f76cacdab8d1b3cfb890f8d3f434587f812ad",
+      "current_evidence_sids": [
+        "S01536",
+        "S01539",
+        "S01542",
+        "S01544",
+        "S01547"
+      ],
+      "readback_transcript_path": "references/quark-live/quark-live-005/transcript.json",
+      "transcript_file_sha256": "6ed42cdaf505252fae311fa5964d3f0c4377edc4bf55b9c7598b8a980919594c",
+      "actually_read_comparison_sid_ranges": [
+        [
+          "S01527",
+          "S01555"
+        ]
+      ],
+      "readback_segments_canonical_sha256": "10efe11224cd8c0e041e202a903926beb8c920c5a14524cf476c6feadb24c901",
+      "source_text_not_copied_here": true,
+      "context_does_not_grant_runtime_scope": true
+    },
+    "S-cMTEvo6To:K17": {
+      "knowledge_id": "S-cMTEvo6To:K17",
+      "source_id": "S-cMTEvo6To",
+      "knowledge_path": "references/knowledge.jsonl",
+      "line_1_based": 242,
+      "knowledge_file_sha256": "ba1c169d7febde8ad51c67d237206e4747111b32143da77408e02f8f077990bf",
+      "whole_current_record_canonical_sha256": "751b723612251bc2f07c1bc17e78232bd678f7c65212ad81b667664f5b75fa59",
+      "exact_current_semantic_fields": {
+        "title": "爱在本期被定义为生理喜欢",
+        "claim": "他把真正的爱定义为生理层面的喜欢，而不是逻辑喜欢；对责任定义明确否定，对若即若离区间只部分认可。",
+        "reason": null,
+        "conditions": {
+          "condition": "须明示这是 Mikey 在本期采用的定义。",
+          "trigger": "他把爱、责任、逻辑喜欢怎么区分？"
+        },
+        "limits": "不是爱情的公认定义；未给可操作的生理喜欢检验。",
+        "conditions_attribution": null,
+        "limits_attribution": null,
+        "mikey_explicit_conditions": null,
+        "editorial_use_limits": null
+      },
+      "semantic_fields_canonical_sha256": "0c33524c3ceb3446b900789e5a8fa862d9b4a3fccd17e63c7d66923db1573c7b",
+      "current_evidence_sids": [
+        "S01174",
+        "S01177",
+        "S01178"
+      ],
+      "readback_transcript_path": "references/transcripts/S-cMTEvo6To.json",
+      "transcript_file_sha256": "0c3a623bf1c9da06dc9024ba34e13c048ccafc66afbc1bfa7a60ae69490ce256",
+      "actually_read_comparison_sid_ranges": [
+        [
+          "S01162",
+          "S01187"
+        ]
+      ],
+      "readback_segments_canonical_sha256": "4c65093bc1279fda713e33421e799fb5ffd306ef8fba832f487c6bb4a036213f",
+      "source_text_not_copied_here": true,
+      "context_does_not_grant_runtime_scope": true
+    },
+    "mikey-youtube-live-refresh-001:lr001-c13": {
+      "knowledge_id": "mikey-youtube-live-refresh-001:lr001-c13",
+      "source_id": "mikey-youtube-live-refresh-001",
+      "knowledge_path": "references/knowledge.jsonl",
+      "line_1_based": 3524,
+      "knowledge_file_sha256": "ba1c169d7febde8ad51c67d237206e4747111b32143da77408e02f8f077990bf",
+      "whole_current_record_canonical_sha256": "943b3c315678ead5f5c97f507ca06aca396ff3bd367cf4b9128c6cae23aa7ff7",
+      "exact_current_semantic_fields": {
+        "title": "After the boyfriend calmed down, Mikey says he used empathy, told him the woman could later treat Mikey the same way, praised his strengths, and said the couple could continue only with realistic expectations.",
+        "claim": "After the boyfriend calmed down, Mikey says he used empathy, told him the woman could later treat Mikey the same way, praised his strengths, and said the couple could continue only with realistic expectations.",
+        "reason": null,
+        "conditions": "This is a selectively reported conversation and cannot establish the boyfriend's emotional state or relationship outcome. It remains descriptive rather than a reusable script.",
+        "limits": "This is a selectively reported conversation and cannot establish the boyfriend's emotional state or relationship outcome. It remains descriptive rather than a reusable script.",
+        "conditions_attribution": {
+          "origin": "distillation_scope_or_editorial_not_verified_as_mikey",
+          "mikey_explicit_conditions_verified": false,
+          "notice": "Conditions may mix case scope, analyst limitations and editorial rules. They are not attributable to Mikey without separately reading supporting original material."
+        },
+        "limits_attribution": {
+          "origin": "editorial_usage_boundary_not_mikey_quote",
+          "mikey_explicit_limits_verified": false
+        },
+        "mikey_explicit_conditions": null,
+        "editorial_use_limits": "This is a selectively reported conversation and cannot establish the boyfriend's emotional state or relationship outcome. It remains descriptive rather than a reusable script."
+      },
+      "semantic_fields_canonical_sha256": "1ca3e6e3e341edfea337f93c10eeec5ed6c77d491cf7f497f48edcb5d6c840e2",
+      "current_evidence_sids": [
+        "S01897",
+        "S01898",
+        "S01899",
+        "S01900",
+        "S01901",
+        "S01902",
+        "S01903",
+        "S01904",
+        "S01905",
+        "S01906",
+        "S01907",
+        "S01908",
+        "S01909",
+        "S01910",
+        "S01911",
+        "S01912",
+        "S01913",
+        "S01914",
+        "S01915",
+        "S01916",
+        "S01917",
+        "S01918",
+        "S01919",
+        "S01920",
+        "S01921",
+        "S01922",
+        "S01923",
+        "S01924",
+        "S01925",
+        "S01926",
+        "S01927",
+        "S01928",
+        "S01929",
+        "S01930",
+        "S01931",
+        "S01932",
+        "S01933",
+        "S01934",
+        "S01935",
+        "S01936",
+        "S01937",
+        "S01938",
+        "S01939",
+        "S01940",
+        "S01941",
+        "S01942",
+        "S01943",
+        "S01944",
+        "S01945",
+        "S01946",
+        "S01947",
+        "S01948",
+        "S01949",
+        "S01950",
+        "S01951",
+        "S01952",
+        "S01953",
+        "S01954",
+        "S01955",
+        "S01956",
+        "S01957",
+        "S01958",
+        "S01959",
+        "S01960",
+        "S01961",
+        "S01962",
+        "S01963",
+        "S01964",
+        "S01965",
+        "S01966",
+        "S01967",
+        "S01968",
+        "S01969",
+        "S01970",
+        "S01971",
+        "S01972",
+        "S01973",
+        "S01974",
+        "S01975",
+        "S01976",
+        "S01977",
+        "S01978",
+        "S01979",
+        "S01980",
+        "S01981",
+        "S01982",
+        "S01983",
+        "S01984",
+        "S01985",
+        "S01986",
+        "S01987",
+        "S01988",
+        "S01989",
+        "S01990",
+        "S01991",
+        "S01992",
+        "S01993",
+        "S01994",
+        "S01995",
+        "S01996",
+        "S01997",
+        "S01998",
+        "S01999",
+        "S02000",
+        "S02001",
+        "S02002",
+        "S02003",
+        "S02004",
+        "S02005",
+        "S02006",
+        "S02007",
+        "S02008",
+        "S02009",
+        "S02010",
+        "S02011",
+        "S02012",
+        "S02013",
+        "S02014",
+        "S02015",
+        "S02016",
+        "S02017",
+        "S02018",
+        "S02019",
+        "S02020",
+        "S02021",
+        "S02022",
+        "S02023",
+        "S02024",
+        "S02025",
+        "S02026",
+        "S02027",
+        "S02028",
+        "S02029",
+        "S02030",
+        "S02031",
+        "S02032",
+        "S02033",
+        "S02034",
+        "S02035",
+        "S02036",
+        "S02037"
+      ],
+      "readback_transcript_path": "references/youtube-live-refresh-20261002/mikey-youtube-live-refresh-001/transcript.json",
+      "transcript_file_sha256": "b5d245a3564d38c59b11c124c2cfdd8412c5e8eb4773e9c2265421b153dcf960",
+      "actually_read_comparison_sid_ranges": [
+        [
+          "S01897",
+          "S01995"
+        ]
+      ],
+      "readback_segments_canonical_sha256": "63c2df80f2563ff5faa909114c53088ccfc6833668bc04041131275e67e5f30e",
+      "source_text_not_copied_here": true,
+      "context_does_not_grant_runtime_scope": true
+    },
+    "quark-live-033-k003": {
+      "knowledge_id": "quark-live-033-k003",
+      "source_id": "quark-live-033",
+      "knowledge_path": "references/knowledge.jsonl",
+      "line_1_based": 1261,
+      "knowledge_file_sha256": "ba1c169d7febde8ad51c67d237206e4747111b32143da77408e02f8f077990bf",
+      "whole_current_record_canonical_sha256": "b7c11d2573451d0e04ba412111000d6c6e40e8cd175ea069cc2103cb0bc78d46",
+      "exact_current_semantic_fields": {
+        "title": "越喜欢越有能量是其经验",
+        "claim": "他称遇到真正喜欢的人时状态更开心有能量。",
+        "reason": "真实兴趣影响投入意愿。",
+        "conditions": [
+          "结合具体情境，尊重明确拒绝和既有承诺"
+        ],
+        "limits": [
+          "自动稿待抽查；主播个人经验不证明普遍因果"
+        ],
+        "conditions_attribution": null,
+        "limits_attribution": null,
+        "mikey_explicit_conditions": null,
+        "editorial_use_limits": null
+      },
+      "semantic_fields_canonical_sha256": "6cd967198ee541090ad05d0f2acd1d71eb291f23c1a1d1f4b7959712025c5e87",
+      "current_evidence_sids": [
+        "S00119",
+        "S00120",
+        "S00121"
+      ],
+      "readback_transcript_path": "references/quark-live-batch4/quark-live-033/transcript.json",
+      "transcript_file_sha256": "1903b41741c957f77a31919fbed5ecf9604e00328b252435508230a9acd9c3bd",
+      "actually_read_comparison_sid_ranges": [
+        [
+          "S00112",
+          "S00129"
+        ]
+      ],
+      "readback_segments_canonical_sha256": "6c0db5e2c5e26e0a584f915a8a829487998858eabd18a281bd61b42c7d603145",
+      "source_text_not_copied_here": true,
+      "context_does_not_grant_runtime_scope": true
+    },
+    "mikey-youtube-short-045:s045-c02": {
+      "knowledge_id": "mikey-youtube-short-045:s045-c02",
+      "source_id": "mikey-youtube-short-045",
+      "knowledge_path": "references/knowledge.jsonl",
+      "line_1_based": 3252,
+      "knowledge_file_sha256": "ba1c169d7febde8ad51c67d237206e4747111b32143da77408e02f8f077990bf",
+      "whole_current_record_canonical_sha256": "f55a9bee8c3cda18fe8ed148c3832ac0b3fd47d18fce09766322b3e1dd1a1cf0",
+      "exact_current_semantic_fields": {
+        "title": "He frames committed love as continuing to choose and hold one person in mind despite future novelty and knowing that an abstractly better option may exist.",
+        "claim": "He frames committed love as continuing to choose and hold one person in mind despite future novelty and knowing that an abstractly better option may exist.",
+        "reason": null,
+        "conditions": "Only supports his value framing. It does not prove mutual commitment, require staying in a harmful relationship, or override either person's right to leave.",
+        "limits": "Only supports his value framing. It does not prove mutual commitment, require staying in a harmful relationship, or override either person's right to leave.",
+        "conditions_attribution": {
+          "origin": "distillation_scope_or_editorial_not_verified_as_mikey",
+          "mikey_explicit_conditions_verified": false,
+          "notice": "Conditions may mix case scope, analyst limitations and editorial rules. They are not attributable to Mikey without separately reading supporting original material."
+        },
+        "limits_attribution": {
+          "origin": "editorial_usage_boundary_not_mikey_quote",
+          "mikey_explicit_limits_verified": false
+        },
+        "mikey_explicit_conditions": null,
+        "editorial_use_limits": "Only supports his value framing. It does not prove mutual commitment, require staying in a harmful relationship, or override either person's right to leave."
+      },
+      "semantic_fields_canonical_sha256": "6af908688cab9acaa7b0afe959cdad3fe3fefd91e5689950012ab8cd9bdf566d",
+      "current_evidence_sids": [
+        "S00005",
+        "S00006",
+        "S00007",
+        "S00008",
+        "S00009",
+        "S00010",
+        "S00011"
+      ],
+      "readback_transcript_path": "references/youtube-remaining-20260929/short-05/mikey-youtube-short-045/transcript.json",
+      "transcript_file_sha256": "75309196a1495a38d04cb883b9da2c951a031a838aa1f481eed285bd407bd015",
+      "actually_read_comparison_sid_ranges": [
+        [
+          "S00001",
+          "S00011"
+        ]
+      ],
+      "readback_segments_canonical_sha256": "d5e750b1441a0166d7ed4a10b22845aad4de916453fa35078d07baf145394ba4",
+      "source_text_not_copied_here": true,
+      "context_does_not_grant_runtime_scope": true
+    },
+    "HgnLR9S39is:K20": {
+      "knowledge_id": "HgnLR9S39is:K20",
+      "source_id": "HgnLR9S39is",
+      "knowledge_path": "references/knowledge.jsonl",
+      "line_1_based": 94,
+      "knowledge_file_sha256": "ba1c169d7febde8ad51c67d237206e4747111b32143da77408e02f8f077990bf",
+      "whole_current_record_canonical_sha256": "5b98bd0bdbcbe7d3070dd0e209357ac5c6f6f012a47a394a0752ac37c6986842",
+      "exact_current_semantic_fields": {
+        "title": "行动恐惧与关系结果，应分开记账",
+        "claim": "三个月被他说成没有结果，但结尾又把后来不怕店员目光与这段经历联系起来，两者不能互相抹掉。",
+        "reason": null,
+        "conditions": null,
+        "limits": "焦虑关键词原稿写“答案焦虑”，待听校；不据此发明训练疗程或测量指标。",
+        "conditions_attribution": null,
+        "limits_attribution": null,
+        "mikey_explicit_conditions": null,
+        "editorial_use_limits": null
+      },
+      "semantic_fields_canonical_sha256": "2d20df792017309e099b0d2b0a2369d59d71f5c924be2068b778d2b224f9cf74",
+      "current_evidence_sids": [
+        "S01626",
+        "S02050",
+        "S02051"
+      ],
+      "readback_transcript_path": "references/transcripts/HgnLR9S39is.json",
+      "transcript_file_sha256": "b460504f2f583e213a8df9f153e1186986be007e56b0df860957afd49d9e9eaf",
+      "actually_read_comparison_sid_ranges": [
+        [
+          "S01619",
+          "S01637"
+        ],
+        [
+          "S02038",
+          "S02057"
+        ]
+      ],
+      "readback_segments_canonical_sha256": "3feeff60184aed6719e29281a0910c8d27764a1cd21f675be10eb8d910337798",
+      "source_text_not_copied_here": true,
+      "context_does_not_grant_runtime_scope": true
+    },
+    "9zRpsnsPGxU:M04": {
+      "knowledge_id": "9zRpsnsPGxU:M04",
+      "source_id": "9zRpsnsPGxU",
+      "knowledge_path": "references/knowledge.jsonl",
+      "line_1_based": 165,
+      "knowledge_file_sha256": "ba1c169d7febde8ad51c67d237206e4747111b32143da77408e02f8f077990bf",
+      "whole_current_record_canonical_sha256": "300fb1a966e299aa7a695433004a04c96ebf3bf7846442b64c7f09170e8ad8c1",
+      "exact_current_semantic_fields": {
+        "title": "框架就是原则，压力下不立即变成讨好者",
+        "claim": "他把框架直接解释为原则：不为获得性、维持好感或害怕失去而丢掉态度；面对对方强势或他所谓的一致性测试，保持原有状态，而非被其情绪牵动。",
+        "reason": [
+          "他认为每次为对方打破自己的规则，都会降低被感知到的强。",
+          "短时间内强势态度是否能让你慌乱，是他解释对方判断关系位置的依据。",
+          "百依百顺、随叫随到在他的老板与下属类比中意味着从属；敢立规则、不怕失去则意味着主导。"
+        ],
+        "conditions": [
+          "用于价值观发生碰撞、出现压力或刁钻问题时。",
+          "他列举了花钱、救谁、是否爱她等测试，但没有提供每题的标准答案。",
+          "他在反对家暴后，将实际落点重新说回原则和框架。"
+        ],
+        "limits": [
+          "没有逐题测试应答法，也没有给出区分正常询问与试探的可复核判据。"
+        ],
+        "conditions_attribution": null,
+        "limits_attribution": null,
+        "mikey_explicit_conditions": null,
+        "editorial_use_limits": null
+      },
+      "semantic_fields_canonical_sha256": "c21b87edb72f41aed72fd8421b0fb6d12cc28e5b94e1073390e5bcd9f4a7a06f",
+      "current_evidence_sids": [
+        "S00779",
+        "S00780",
+        "S00781",
+        "S00783",
+        "S00784",
+        "S00785",
+        "S00788",
+        "S00790",
+        "S00792",
+        "S00794",
+        "S00795",
+        "S00797",
+        "S00807",
+        "S00808",
+        "S01065",
+        "S01066",
+        "S01078",
+        "S01079",
+        "S01080",
+        "S01083",
+        "S01084",
+        "S01089",
+        "S01091",
+        "S01093",
+        "S01097",
+        "S01099",
+        "S01101",
+        "S01103",
+        "S01553",
+        "S01555",
+        "S01557",
+        "S01558",
+        "S01564",
+        "S01565",
+        "S01635",
+        "S01640",
+        "S01641",
+        "S02320",
+        "S02321"
+      ],
+      "readback_transcript_path": "references/transcripts/9zRpsnsPGxU.json",
+      "transcript_file_sha256": "932e0cf37af95c23e92424d3da0428a61aa3f06d8877ffbbe8a11bc37b386ed8",
+      "actually_read_comparison_sid_ranges": [
+        [
+          "S01057",
+          "S01107"
+        ]
+      ],
+      "readback_segments_canonical_sha256": "247ea1bd24ce0fcf04ef1021453649797dcdf78faf14820c1626661d13246dc2",
+      "source_text_not_copied_here": true,
+      "context_does_not_grant_runtime_scope": true
+    },
+    "mikey-youtube-video-010:v010-c04": {
+      "knowledge_id": "mikey-youtube-video-010:v010-c04",
+      "source_id": "mikey-youtube-video-010",
+      "knowledge_path": "references/knowledge.jsonl",
+      "line_1_based": 3301,
+      "knowledge_file_sha256": "ba1c169d7febde8ad51c67d237206e4747111b32143da77408e02f8f077990bf",
+      "whole_current_record_canonical_sha256": "1b439608e9d945c01fe11bd8fdba7f20cd4cb0260d528c073c21d84a859c9149",
+      "exact_current_semantic_fields": {
+        "title": "Relationship conversations have an interpersonal flow that cannot be reduced to the commercial rule that higher objective value must win.",
+        "claim": "Relationship conversations have an interpersonal flow that cannot be reduced to the commercial rule that higher objective value must win.",
+        "reason": null,
+        "conditions": "Broad conceptual claim; the video's gendered explanatory model is not independently validated.",
+        "limits": "Broad conceptual claim; the video's gendered explanatory model is not independently validated.",
+        "conditions_attribution": {
+          "origin": "distillation_scope_or_editorial_not_verified_as_mikey",
+          "mikey_explicit_conditions_verified": false,
+          "notice": "Conditions may mix case scope, analyst limitations and editorial rules. They are not attributable to Mikey without separately reading supporting original material."
+        },
+        "limits_attribution": {
+          "origin": "editorial_usage_boundary_not_mikey_quote",
+          "mikey_explicit_limits_verified": false
+        },
+        "mikey_explicit_conditions": null,
+        "editorial_use_limits": "Broad conceptual claim; the video's gendered explanatory model is not independently validated."
+      },
+      "semantic_fields_canonical_sha256": "024205ef795277a84ed793e71c24f85decf33a447c91ac89dbc0933a1dc20d68",
+      "current_evidence_sids": [
+        "S00431",
+        "S00432",
+        "S00433",
+        "S00434",
+        "S00435",
+        "S00436",
+        "S00437",
+        "S00438",
+        "S00439",
+        "S00440",
+        "S00441",
+        "S00442",
+        "S00443",
+        "S00444",
+        "S00445",
+        "S00446",
+        "S00447",
+        "S00448",
+        "S00449",
+        "S00450",
+        "S00451",
+        "S00452",
+        "S00453",
+        "S00454"
+      ],
+      "readback_transcript_path": "references/youtube-remaining-20260929/video-01/mikey-youtube-video-010/transcript.json",
+      "transcript_file_sha256": "226349374aac0a25b02896a39b8dae1505390f1295fb72d920e4547080a09cc9",
+      "actually_read_comparison_sid_ranges": [
+        [
+          "S00431",
+          "S00468"
+        ]
+      ],
+      "readback_segments_canonical_sha256": "b04263a4c56a5563d3ca9433889e76c1234afc1e3a97d02efbeeffe7173e35e0",
+      "source_text_not_copied_here": true,
+      "context_does_not_grant_runtime_scope": true
+    },
+    "quark-live-033-k006": {
+      "knowledge_id": "quark-live-033-k006",
+      "source_id": "quark-live-033",
+      "knowledge_path": "references/knowledge.jsonl",
+      "line_1_based": 1264,
+      "knowledge_file_sha256": "ba1c169d7febde8ad51c67d237206e4747111b32143da77408e02f8f077990bf",
+      "whole_current_record_canonical_sha256": "5246d5631d5b84bc2eebf3cf2d67abf9e822763994be3ff49bc18fb341816515",
+      "exact_current_semantic_fields": {
+        "title": "工作与关系需求应大方沟通",
+        "claim": "女友抱怨缺少情绪价值时，他建议先检视是否尽力，再说明工作责任。",
+        "reason": "冲突需区分实际忽视与无限索取。",
+        "conditions": [
+          "结合具体情境，尊重明确拒绝和既有承诺"
+        ],
+        "limits": [
+          "自动稿待抽查；主播个人经验不证明普遍因果"
+        ],
+        "conditions_attribution": null,
+        "limits_attribution": null,
+        "mikey_explicit_conditions": null,
+        "editorial_use_limits": null
+      },
+      "semantic_fields_canonical_sha256": "7108737e2d92f3d4fa5713e67baa452a0be74bb7bafc782bf452cf87326e67b5",
+      "current_evidence_sids": [
+        "S00201",
+        "S00202",
+        "S00203"
+      ],
+      "readback_transcript_path": "references/quark-live-batch4/quark-live-033/transcript.json",
+      "transcript_file_sha256": "1903b41741c957f77a31919fbed5ecf9604e00328b252435508230a9acd9c3bd",
+      "actually_read_comparison_sid_ranges": [
+        [
+          "S00194",
+          "S00222"
+        ]
+      ],
+      "readback_segments_canonical_sha256": "f7bb0a4a4095e8b11d11645903adaa34a394595f54d6298b4087480989eb7189",
+      "source_text_not_copied_here": true,
+      "context_does_not_grant_runtime_scope": true
+    },
+    "quark-live-031-k005": {
+      "knowledge_id": "quark-live-031-k005",
+      "source_id": "quark-live-031",
+      "knowledge_path": "references/knowledge.jsonl",
+      "line_1_based": 1231,
+      "knowledge_file_sha256": "ba1c169d7febde8ad51c67d237206e4747111b32143da77408e02f8f077990bf",
+      "whole_current_record_canonical_sha256": "7a8aa3134d4bcb9790ea5f3efa70ebb57a63befe05a88e3377ced6d9a6dd4f06",
+      "exact_current_semantic_fields": {
+        "title": "社会职责不自动带来亲密吸引",
+        "claim": "他把职业家庭责任与亲密互动中的吸引分开。",
+        "reason": "履责不等于敢表达和有边界。",
+        "conditions": [
+          "忠实呈现Mikey观点并结合具体情境"
+        ],
+        "limits": [
+          "自动稿待抽查；绝对化、暴力、性别、种族或历史泛化不作事实"
+        ],
+        "conditions_attribution": null,
+        "limits_attribution": null,
+        "mikey_explicit_conditions": null,
+        "editorial_use_limits": null
+      },
+      "semantic_fields_canonical_sha256": "f8538fb2815516bedccbe06170e84aaff202d2d8ccf29966abd01f790ca227b2",
+      "current_evidence_sids": [
+        "S00617",
+        "S00618",
+        "S00619"
+      ],
+      "readback_transcript_path": "references/quark-live-batch4/quark-live-031/transcript.json",
+      "transcript_file_sha256": "9b2da716205195ee97150217c86e70aadd1c4aedea31c6622dde0da73ccc2393",
+      "actually_read_comparison_sid_ranges": [
+        [
+          "S00609",
+          "S00644"
+        ]
+      ],
+      "readback_segments_canonical_sha256": "34113d48e646c0d67c042ab74a0fe8982f2ac77380ef4b1c2360ea3d5ac7205c",
+      "source_text_not_copied_here": true,
+      "context_does_not_grant_runtime_scope": true
+    },
+    "mikey-youtube-live-020-K001": {
+      "knowledge_id": "mikey-youtube-live-020-K001",
+      "source_id": "mikey-youtube-live-020",
+      "knowledge_path": "references/knowledge.jsonl",
+      "line_1_based": 2956,
+      "knowledge_file_sha256": "ba1c169d7febde8ad51c67d237206e4747111b32143da77408e02f8f077990bf",
+      "whole_current_record_canonical_sha256": "c53e32d24a5a86054932d09411d9b0d906cdf212a6ccfd8e6a625d58f2483576",
+      "exact_current_semantic_fields": {
+        "title": "分手后的接纳与复盘",
+        "claim": "他建议先承认已经发生且不可挽回的事实，允许痛苦随时间变化，再复盘关系在哪一步出了问题、下次如何修正。",
+        "reason": null,
+        "conditions": [],
+        "limits": [
+          "不应把全部痛苦归因于抗拒；必要时寻求专业支持"
+        ],
+        "conditions_attribution": null,
+        "limits_attribution": null,
+        "mikey_explicit_conditions": null,
+        "editorial_use_limits": null
+      },
+      "semantic_fields_canonical_sha256": "f78162e90a43dde494e31cd049d94b161722a35c076d23c5c08ffb944eeeba5e",
+      "current_evidence_sids": [
+        "S00007",
+        "S00008",
+        "S00009",
+        "S00014",
+        "S00015",
+        "S00016",
+        "S00018",
+        "S00019",
+        "S00020",
+        "S00021",
+        "S00023",
+        "S00040",
+        "S00041",
+        "S00042",
+        "S00045",
+        "S00047",
+        "S00051",
+        "S00052",
+        "S00054",
+        "S00055",
+        "S00056",
+        "S00058",
+        "S00059",
+        "S00099",
+        "S00100",
+        "S00101",
+        "S00105",
+        "S00106",
+        "S00107",
+        "S00108",
+        "S00109",
+        "S00111",
+        "S00112",
+        "S00113"
+      ],
+      "readback_transcript_path": "references/youtube-live-batch2/mikey-youtube-live-020/transcript.json",
+      "transcript_file_sha256": "6ec84fb1173260dd24dc81d8c7f84efafdda2a7e9a8744ca57c6a0ddb15e77fe",
+      "actually_read_comparison_sid_ranges": [
+        [
+          "S00001",
+          "S00064"
+        ],
+        [
+          "S00092",
+          "S00119"
+        ]
+      ],
+      "readback_segments_canonical_sha256": "3aefd96d6f1fd7f423765a31c86e99068b7e5e54abcd5110f248f1ba1b703860",
+      "source_text_not_copied_here": true,
+      "context_does_not_grant_runtime_scope": true
+    },
+    "quark-live-014-k023": {
+      "knowledge_id": "quark-live-014-k023",
+      "source_id": "quark-live-014",
+      "knowledge_path": "references/knowledge.jsonl",
+      "line_1_based": 832,
+      "knowledge_file_sha256": "ba1c169d7febde8ad51c67d237206e4747111b32143da77408e02f8f077990bf",
+      "whole_current_record_canonical_sha256": "a4ff2e2b4094c8c06a497d42ee580d67b304acf48a6c688293da7d1f3ef41ead",
+      "exact_current_semantic_fields": {
+        "title": "分手后的难过先允许存在",
+        "claim": "Mikey认为分手后无法立刻消除低落，应接纳而非抗拒，并继续处理人生中该做的事情。",
+        "reason": "他认为疯狂反思和抗拒痛苦会延长恢复，而接纳事实让人不再与情绪对抗。",
+        "conditions": [
+          "一般分手后的短期低落",
+          "没有自伤或严重功能受损风险"
+        ],
+        "limits": [
+          "接纳不保证恢复更快",
+          "‘分手就该低能量’不适用于所有人",
+          "严重或持续症状需专业支持",
+          "与quark-live-011-k025部分重复"
+        ],
+        "conditions_attribution": null,
+        "limits_attribution": null,
+        "mikey_explicit_conditions": null,
+        "editorial_use_limits": null
+      },
+      "semantic_fields_canonical_sha256": "785ed4f646b667614c8c547e849bb530c53c4dcc4f8055de9604bc769af637bc",
+      "current_evidence_sids": [
+        "S01389",
+        "S01390",
+        "S01404",
+        "S01406"
+      ],
+      "readback_transcript_path": "references/quark-live-batch2/quark-live-014/transcript.json",
+      "transcript_file_sha256": "4cdff57f04f132a27de51d7d4d01ba777604d41af32afabd3ae95544b1b79c4e",
+      "actually_read_comparison_sid_ranges": [
+        [
+          "S01378",
+          "S01415"
+        ]
+      ],
+      "readback_segments_canonical_sha256": "b5cad38dead095cdbd6b11395b53bae8ddcc94154eefa14fca2549c8016177f3",
+      "source_text_not_copied_here": true,
+      "context_does_not_grant_runtime_scope": true
+    },
+    "mikey-youtube-live-032-K006": {
+      "knowledge_id": "mikey-youtube-live-032-K006",
+      "source_id": "mikey-youtube-live-032",
+      "knowledge_path": "references/knowledge.jsonl",
+      "line_1_based": 3138,
+      "knowledge_file_sha256": "ba1c169d7febde8ad51c67d237206e4747111b32143da77408e02f8f077990bf",
+      "whole_current_record_canonical_sha256": "753a1309a843e48a4a982cb406383166f6cee74a18eda93da1a7e93198750dd4",
+      "exact_current_semantic_fields": {
+        "title": "主体性与问题解决",
+        "claim": "本期把主体性落到三个动作：先确认问题在哪里，提出怎么解决的下一步；能解决就行动，暂时不能解决就承认限制，不把情绪当成唯一结论。",
+        "reason": null,
+        "conditions": [],
+        "limits": null,
+        "conditions_attribution": null,
+        "limits_attribution": null,
+        "mikey_explicit_conditions": null,
+        "editorial_use_limits": null
+      },
+      "semantic_fields_canonical_sha256": "daac43d365d24b60ff2a4b01823b5032a5ea0169bb3e29eec3c07622e4e9e750",
+      "current_evidence_sids": [
+        "S00733",
+        "S00734",
+        "S00736",
+        "S00739",
+        "S00741",
+        "S00745",
+        "S00751",
+        "S00757",
+        "S00762"
+      ],
+      "readback_transcript_path": "references/youtube-live-batch4/mikey-youtube-live-032/transcript.json",
+      "transcript_file_sha256": "3ca55da26c59eb4742b8ba9357bd833ed03d85121c0eab180cf9cd0f7f04f18b",
+      "actually_read_comparison_sid_ranges": [
+        [
+          "S00720",
+          "S00770"
+        ]
+      ],
+      "readback_segments_canonical_sha256": "d6eaf53658a3cdaf1c3ca2a5d280d8c585b208e695165e4a69134dd2483ff240",
+      "source_text_not_copied_here": true,
+      "context_does_not_grant_runtime_scope": true
+    },
+    "mikey-youtube-live-019-K003": {
+      "knowledge_id": "mikey-youtube-live-019-K003",
+      "source_id": "mikey-youtube-live-019",
+      "knowledge_path": "references/knowledge.jsonl",
+      "line_1_based": 2945,
+      "knowledge_file_sha256": "ba1c169d7febde8ad51c67d237206e4747111b32143da77408e02f8f077990bf",
+      "whole_current_record_canonical_sha256": "ad44b4c08991ec6896772f1d0777ab8e2f76103b696e7d677d57ad3d00ed54a8",
+      "exact_current_semantic_fields": {
+        "title": "接纳当下",
+        "claim": "他的做法是先允许当下情绪存在，不强迫自己立刻变好；接纳不等于停工，仍可完成该做的事，情绪会随时间流动。",
+        "reason": null,
+        "conditions": [],
+        "limits": [
+          "心理机制为人物经验，不替代临床建议"
+        ],
+        "conditions_attribution": null,
+        "limits_attribution": null,
+        "mikey_explicit_conditions": null,
+        "editorial_use_limits": null
+      },
+      "semantic_fields_canonical_sha256": "1a00745aed9856e9a4cdaa64a3abdab89b2e6cb7310b7b2065818118c4e092ee",
+      "current_evidence_sids": [
+        "S00251",
+        "S00254",
+        "S00255",
+        "S00268",
+        "S00270",
+        "S00272",
+        "S00273",
+        "S00275",
+        "S00281",
+        "S00284",
+        "S00285",
+        "S00286",
+        "S00289",
+        "S00291",
+        "S00302",
+        "S00304",
+        "S00321",
+        "S00322",
+        "S00328",
+        "S00330",
+        "S00332",
+        "S00334",
+        "S00335"
+      ],
+      "readback_transcript_path": "references/youtube-live-batch2/mikey-youtube-live-019/transcript.json",
+      "transcript_file_sha256": "acbf66d138c9bb257f3aab4e4066e4856e8c7a89eaf68b797b4c13179acff2d4",
+      "actually_read_comparison_sid_ranges": [
+        [
+          "S00247",
+          "S00306"
+        ],
+        [
+          "S00315",
+          "S00341"
+        ]
+      ],
+      "readback_segments_canonical_sha256": "4a202796e79a900bb1ae1bc7d67ddd52301dc6b1357d85d7fa6ec0e1a4777653",
+      "source_text_not_copied_here": true,
+      "context_does_not_grant_runtime_scope": true
+    },
+    "mikey-youtube-live-020-K011": {
+      "knowledge_id": "mikey-youtube-live-020-K011",
+      "source_id": "mikey-youtube-live-020",
+      "knowledge_path": "references/knowledge.jsonl",
+      "line_1_based": 2966,
+      "knowledge_file_sha256": "ba1c169d7febde8ad51c67d237206e4747111b32143da77408e02f8f077990bf",
+      "whole_current_record_canonical_sha256": "c8c332d3f58c18df94ee9a20dbcf88d18490cbbbb31bd7261fe75cd4de80db51",
+      "exact_current_semantic_fields": {
+        "title": "失败复盘闭环",
+        "claim": "他允许先有情绪，随后定位吸引力从哪一步开始下降、原因是什么、下次怎样修正，再通过新的实践取得反馈；重点是解决可解决的问题。",
+        "reason": null,
+        "conditions": [],
+        "limits": [
+          "排除把下一位称作‘小白鼠’的工具化措辞；情绪持续或严重时需专业支持"
+        ],
+        "conditions_attribution": null,
+        "limits_attribution": null,
+        "mikey_explicit_conditions": null,
+        "editorial_use_limits": null
+      },
+      "semantic_fields_canonical_sha256": "c93e5e42169f9753ca8194c31078efd98a1ad31ded67d43780cdb18fb9303181",
+      "current_evidence_sids": [
+        "S01159",
+        "S01160",
+        "S01161",
+        "S01163",
+        "S01164",
+        "S01165",
+        "S01167",
+        "S01168",
+        "S01169",
+        "S01170",
+        "S01171",
+        "S01172",
+        "S01173",
+        "S01174",
+        "S01177",
+        "S01178",
+        "S01179",
+        "S01180",
+        "S01181",
+        "S01182",
+        "S01183",
+        "S01184",
+        "S01185",
+        "S01188",
+        "S01189",
+        "S01190"
+      ],
+      "readback_transcript_path": "references/youtube-live-batch2/mikey-youtube-live-020/transcript.json",
+      "transcript_file_sha256": "6ec84fb1173260dd24dc81d8c7f84efafdda2a7e9a8744ca57c6a0ddb15e77fe",
+      "actually_read_comparison_sid_ranges": [
+        [
+          "S01150",
+          "S01194"
+        ]
+      ],
+      "readback_segments_canonical_sha256": "76b06d16a80edfcb698804af9720968e9312008889d44cfdfd3d1fe7203d533f",
+      "source_text_not_copied_here": true,
+      "context_does_not_grant_runtime_scope": true
+    }
+  },
+  "application_boundary": "May record completion of this bounded pairwise comparison substep and exact known core overlaps after independent acceptance; original R003/R007 whole-task, identity/audio/effect and full-library novelty scopes remain open. Preserve all original input/history.",
+  "production_proposal_sha256": "d19ccc2f5bd7fc0d0a065b08351fcf7872f20e67c3b8d635fe2af9158c09fd1b",
+  "root_acceptance": {
+    "scope": "11 original complete candidate objects and 23 current full anchor objects bound; all 11 comparison rationales independently read; selected original text windows independently sampled. No new audio listening.",
+    "original_object_and_selected_text_integrity": "PASS",
+    "root_does_not_claim_all_320_new_or_952_old_segments_semantically_read": true,
+    "all_runtime_permissions_weights_and_original_tasks_unchanged": true,
+    "whole_task_closures": 0,
+    "whole_candidate_closures": 0
+  },
+  "current_parent_stage": {
+    "issue_id": "mikey-youtube-video-refresh-001-R003",
+    "original_issue_preserved": "新片1114–2195秒插入对谈，旧周边重新剪排；全片简单复用结论已排除，新增命题仍待Pro",
+    "original_record_sha256": "1e6186855ea472d665fe59c9b19e8de68c1edba8de642bde9d228b2fbba01a54",
+    "current_stage_note": "网页Pro完整研究交付已经保存；11个候选现已与23个现行旧知识对象及所选原稿窗口作具体文字比较：1项仅核心重叠、3项情境变体、7项新颖性未证。比较不等于穷尽全库新颖性、逐句声音身份认证或正式准入；R003与R007及11个完整候选继续开放，保持零独立故事权重与0新增正式知识/方法。",
+    "original_locations": [
+      {
+        "file": "mikey-guide/references/youtube-media-refresh-20261004/mikey-youtube-video-refresh-001/review-needed.json",
+        "locator": "$.items[2]",
+        "scope": "explicit_checklist",
+        "sha256": "45524a0ae73000c9675cf5b618f8fcbecd0e10ac5b19f54fbf9a169df401b766"
+      },
+      {
+        "file": "mikey-guide/references/youtube-media-refresh-20261004/mikey-youtube-video-refresh-001/distillation.safe.json",
+        "locator": "$.review_needed[2]",
+        "scope": "embedded_checklist_copy",
+        "sha256": "5933222047bd7b6faacf5b3c894f570406910223beca3f03a6cdcd7897ab4373"
+      },
+      {
+        "file": "mikey-guide/references/youtube-media-refresh-20261004/shared-inputs/complete-safe-input.json",
+        "locator": "$.sources[0].review_needed.items[2]",
+        "scope": "embedded_checklist_copy",
+        "sha256": "664fa19f0e8cacb2fc109e4608f0892412be328b407128f801223721bd7cdcb7"
+      }
+    ],
+    "historical_pro_pending_message_overridden_for_current_stage_only": true,
+    "whole_task_closed": false,
+    "permission_change": false
+  }
+}

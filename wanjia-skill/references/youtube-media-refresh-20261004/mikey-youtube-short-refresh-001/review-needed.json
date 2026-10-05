@@ -1,0 +1,222 @@
+{
+  "schema_version": "pro-complete-review-retention-1.0",
+  "source_id": "mikey-youtube-short-refresh-001",
+  "items": [
+    {
+      "id": "mikey-youtube-short-refresh-001-R001",
+      "severity": "blocking",
+      "kind": "speaker_attribution",
+      "status": "open",
+      "issue": "原音未听校/自动稿未逐句核对；截图作者与对谈来回不自动归为Mikey",
+      "effect": "不得作为Mikey第一人称或行动建议",
+      "input_status_preserved": true,
+      "closed_by_this_delivery": false,
+      "this_delivery_handling": "保留限制；安全全文已经整理并绑定证据，不把完成文字整理等同解决此证据缺口。"
+    },
+    {
+      "id": "mikey-youtube-short-refresh-001-R002",
+      "severity": "blocking",
+      "kind": "privacy_and_consent",
+      "status": "open",
+      "issue": "原图的私聊、个人标识、第三方影像与引用只留研究；真实性与公开/录音同意不能由原片自行解决",
+      "effect": "禁止复制像素、私聊原字和推定授权",
+      "input_status_preserved": true,
+      "closed_by_this_delivery": false,
+      "this_delivery_handling": "保留限制；安全全文已经整理并绑定证据，不把完成文字整理等同解决此证据缺口。"
+    },
+    {
+      "id": "mikey-youtube-short-refresh-001-R003",
+      "severity": "blocking",
+      "kind": "background_audio",
+      "status": "open",
+      "ranges_seconds": [
+        [
+          0,
+          9.06
+        ],
+        [
+          9.06,
+          21.481
+        ]
+      ],
+      "issue": "前2段疑似歌声，后12.421秒无ASR；主要论点在画面，未实际听音",
+      "effect": "不将ASR当作者，不将空白当无内容",
+      "input_status_preserved": true,
+      "closed_by_this_delivery": false,
+      "this_delivery_handling": "保留限制；安全全文已经整理并绑定证据，不把完成文字整理等同解决此证据缺口。"
+    },
+    {
+      "id": "mikey-youtube-short-refresh-001-R004",
+      "severity": "major",
+      "kind": "visual_reuse",
+      "status": "open",
+      "issue": "跨平台身份主题可与旧直播对应，但截图是否同案/同组未证明",
+      "effect": "不设置确认canonical reuse，不新增独立故事权重",
+      "input_status_preserved": true,
+      "closed_by_this_delivery": false,
+      "this_delivery_handling": "主题关系保留，无确认canonical；未推断同一截图或同一参与者，正式方法增量为0。"
+    },
+    {
+      "id": "mikey-youtube-short-refresh-001-R005",
+      "severity": "major",
+      "kind": "creator_text_authorship_and_note_semantics",
+      "status": "open",
+      "closed_by_this_delivery": false,
+      "issue": "备忘录、红字作者与“毕业”的实际处置含义未核；发布不自动等于每字为Mikey亲写或亲口说。",
+      "minimal_local_evidence": "仅本地核对文字层与来源，返回脱敏确认或继续未知；不要求恢复私聊原字、昵称、头像或行程。"
+    }
+  ],
+  "limitations": [
+    "只处理本次安全文本和报告。读取上传件的工作区副本，不代表访问用户电脑、正式mikey-guide或当地research目录。",
+    "未搜索任何参与者；未听原音、未看原像素、未作连续音画验证；本地报告的实际抽帧工作与本次工作分开记账。",
+    "原始speaker始终保留unknown_not_diarized；A/B、N只是带限制的文本角色标签，不是身份或逐句声源认证。",
+    "私人安全摘要不能作为逐字引语；不补回被隐藏内容，也不把重复摘要当作独立佐证。",
+    "所有新增第一人称、行动、runtime回答及正式知识准入均为false；研究文件的完成不是指南部署或人物化许可。",
+    "医学、法律、身份、拍摄和传播同意、效果均只保留自述、争议或未核实状态；不同层次不能互相认证。",
+    "非主流、自利、工具化和控制立场如实保留在来源层；编者限制另外列出，不洗成常识、不补成行为指导。",
+    "新媒体ID、出版版本、文本未匹配、研究命题、正式知识和独立现实案例是六种不同计数。",
+    "没有收到旧知识逐条命题表，不宣称已经完成全库语义去重；不将任何未知候选强行判为全部重复或必然新颖。",
+    "文件名日期仅为来源下载命名，未独立核验发布日期、录制日期或人物年龄。",
+    "不把Short与长片合并为同一人或同一事件；无确认canonical，不给独立故事权重。"
+  ],
+  "independent_verification_needed": [
+    {
+      "verification_id": "IV01",
+      "kind": "speaker_turn_mapping",
+      "priority": "blocking_for_mikey_authorship",
+      "scope": {
+        "source_id": "mikey-youtube-video-refresh-001",
+        "sid_start": "S00847",
+        "sid_end": "S01618"
+      },
+      "minimum_return": "本地只返回拟采候选的逐SID轮次／角色映射及无法确认的边界，不查参与者身份，不必重读旧全库。",
+      "current_effect": "8个Mikey角色研究候选不能转成已确认Mikey方法；B观点不得挪用。"
+    },
+    {
+      "verification_id": "IV02",
+      "kind": "proposition_level_dedup",
+      "priority": "blocking_for_new_knowledge_count",
+      "scope": {
+        "candidate_ids": [
+          "VR001-N001",
+          "VR001-N002",
+          "VR001-N003",
+          "VR001-N004",
+          "VR001-N005",
+          "VR001-N006",
+          "VR001-N007",
+          "VR001-N008",
+          "VR001-N009",
+          "VR001-N010",
+          "VR001-N011"
+        ]
+      },
+      "minimum_return": "每个拟采用候选与旧knowledge_id的命题、理由、条件成对比对，或可复核的语义检索阴性说明。",
+      "current_effect": "未提供则仅研究保留；0正式准入不是宣称全库0新思想。"
+    },
+    {
+      "verification_id": "IV03",
+      "kind": "asr_and_boundary_fidelity",
+      "priority": "blocking_for_affected_claims",
+      "scope": {
+        "source_id": "mikey-youtube-video-refresh-001",
+        "ambiguity_ranges": [
+          [
+            "S00001",
+            "S00018"
+          ],
+          [
+            "S00729",
+            "S00741"
+          ],
+          [
+            "S00878",
+            "S00881"
+          ],
+          [
+            "S00940",
+            "S00949"
+          ],
+          [
+            "S01028",
+            "S01042"
+          ],
+          [
+            "S01044",
+            "S01046"
+          ],
+          [
+            "S01066",
+            "S01073"
+          ],
+          [
+            "S01106",
+            "S01124"
+          ],
+          [
+            "S01236",
+            "S01243"
+          ],
+          [
+            "S01265",
+            "S01273"
+          ],
+          [
+            "S01389",
+            "S01405"
+          ],
+          [
+            "S01483",
+            "S01493"
+          ],
+          [
+            "S01718",
+            "S01727"
+          ]
+        ],
+        "boundary_seconds": [
+          [
+            1113,
+            1114
+          ],
+          [
+            2195,
+            2196
+          ]
+        ]
+      },
+      "minimum_return": "优先核对解释比较句、读书尝试的反应、角色切换；更正附原SID日志，不覆盖原稿。",
+      "current_effect": "疑词不静默修成精确术语；S01727禁引不因裁时解除。"
+    },
+    {
+      "verification_id": "IV04",
+      "kind": "consent_privacy_identity_effects",
+      "priority": "blocking_for_any_certification",
+      "scope": {
+        "source_ids": [
+          "mikey-youtube-video-refresh-001",
+          "mikey-youtube-short-refresh-001"
+        ]
+      },
+      "minimum_return": "仅保留与研究必要性相称的本地脱敏核验结论。没有独立证据则继续自述／争议；不要上传私人原字、识别映射或原像素。",
+      "current_effect": "不能认证医学、法律、付款、同意、人物身份、关系结果或课程效果。"
+    },
+    {
+      "verification_id": "IV05",
+      "kind": "short_visual_publication_relationship",
+      "priority": "major",
+      "scope": {
+        "source_id": "mikey-youtube-short-refresh-001",
+        "related_source_ids": [
+          "mikey-youtube-live-refresh-002",
+          "quark-live-048"
+        ]
+      },
+      "minimum_return": "需要确认截图同一性时，只在本地作图像／画面比对并返脱敏结果；另核文案作者和“毕业”含义。",
+      "current_effect": "继续只记录主题相关，不建立canonical截图复用或新增方法。"
+    }
+  ],
+  "source_anomalies": [],
+  "original_pro_artifact_sha256": "a941d5c6aa858c6020fa80d7e058fa1bd09d010881023dee41b93f92e8ed3822",
+  "status": "open_restricted_not_closed_by_packaging"
+}

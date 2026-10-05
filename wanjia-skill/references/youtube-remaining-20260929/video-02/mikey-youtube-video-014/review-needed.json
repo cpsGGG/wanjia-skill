@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-014",
+  "youtube_id": "NRaAhclf_nY",
+  "review_completed": true,
+  "items": [
+    {"review_id": "v014-r01", "severity": "blocking_for_key_term", "issue": "The central label is inconsistently recognized as '帅' or replaced with 'XX'; title metadata suggests '散帅'.", "affected_evidence": ["S00012-S00021", "S00159-S00175", "S00261-S00285", "S00320-S00324", "S00541-S00555"], "disposition": "Confirm the exact term from original audio and dense on-screen frames before quoting or indexing it."},
+    {"review_id": "v014-r02", "severity": "blocking_for_external_fact", "issue": "The claimed July 9 search disappearance, cross-platform limitation, removals and sub-week chronology are time-sensitive external facts.", "affected_evidence": ["S00039-S00064", "sampled frames 000001-000003"], "disposition": "Verify with dated platform captures, notices or independent reporting; edited screenshots alone are insufficient."},
+    {"review_id": "v014-r03", "severity": "major", "issue": "Comparative moderation claims lack a defined sample, matched content, observation period and policy basis.", "affected_evidence": ["S00344-S00400"], "disposition": "Keep on hold; do not state discriminatory enforcement as established fact."},
+    {"review_id": "v014-r04", "severity": "major", "issue": "The video infers platform and beneficiary motives from differential availability and removal speed.", "affected_evidence": ["S00431-S00483"], "disposition": "Attribute as Mikey's structural interpretation; do not claim knowledge of platform intent."},
+    {"review_id": "v014-r05", "severity": "major", "issue": "Sparse montage frames include third-party posts, chats and faces with unclear public/private status and incomplete context.", "affected_evidence": ["sampled frames 000001, 000003, 000014, 000016"], "disposition": "Densify 0-75 and 360-480 seconds if needed, preserve privacy, and do not reconstruct cropped text or identities."},
+    {"review_id": "v014-r06", "severity": "major", "issue": "The argument uses derogatory labels and broad claims about women, men and social-media behavior.", "affected_evidence": ["S00078-S00143", "S00227-S00255", "S00344-S00369"], "disposition": "Do not adopt labels as factual categories or generalize selected posts to populations."},
+    {"review_id": "v014-r07", "severity": "minor", "issue": "ASR corruption affects the central term, platform names, idioms and some examples.", "affected_evidence": ["throughout"], "disposition": "Use semantic paraphrase only until original-audio/on-screen verification is completed."}
+  ]
+}

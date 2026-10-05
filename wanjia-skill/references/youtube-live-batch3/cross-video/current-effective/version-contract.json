@@ -1,0 +1,52 @@
+{
+  "schema_version": "youtube-live-batch3-catalog-version-contract-1.0",
+  "active_version": "current-effective-v5",
+  "supersedes_version": "current-effective-v4",
+  "built_at_utc": "2026-09-19T19:02:54.032903+00:00",
+  "historical_version": "as_supplied_web_pro_cross_synthesis_v1",
+  "selection_rule": "validators_and_derived_consumers_must_use_current_effective; no_fallback_on_missing_or_hash_mismatch",
+  "as_supplied": {
+    "immutable": true,
+    "embedded_fields": {
+      "knowledge": "knowledge_catalog_as_supplied",
+      "reviews": "review_catalog_as_supplied",
+      "speakers": "speaker_registries_as_supplied"
+    },
+    "snapshot_paths": {
+      "knowledge": "current-effective/as-supplied-history/knowledge-catalog.json",
+      "reviews": "current-effective/as-supplied-history/review-catalog.json",
+      "speakers": "current-effective/as-supplied-history/speaker-registries.json"
+    },
+    "canonical_content_sha256": {
+      "knowledge": "2db2a48e4c2d73117f968178264d623ac843defba6029e844e3a619bf0762064",
+      "reviews": "374e742e44da7025095c94c7e06683129785177f23a36376eda591112cccc24a",
+      "speakers": "6ac76d0ba59a65a710a99486cb125c63a40fa43fe67fd4782d02f56aa1ed5618"
+    }
+  },
+  "current_effective": {
+    "paths": {
+      "knowledge": "current-effective/knowledge-catalog.json",
+      "reviews": "current-effective/review-catalog.json",
+      "speakers": "current-effective/speaker-registries.json",
+      "revision_map": "current-effective/revision-map.json"
+    },
+    "file_sha256": {
+      "knowledge": "8c587d8acf8cb4ede6125966a66d1523bd62a50c55026eecdb61ff6f7c2b9df3",
+      "reviews": "d9a0fbab6e31fd2b932be154340c80f5a049c12735752381ebb6e329cb1bbe6d",
+      "speakers": "e3433c9f9f1a1adc3eba46396b3a21d22da231d04581460e8678d185243c46b2",
+      "revision_map": "b3fd8c7a1c152668208d62405c4c77b50032643ca52feecf49eb6569187f974c"
+    },
+    "counts": {
+      "knowledge": 153,
+      "reviews": 63,
+      "speakers": 10
+    },
+    "source_layer": "items/*/analysis"
+  },
+  "constraints": {
+    "formal_skill_modified": false,
+    "source_videos_deleted": false,
+    "as_supplied_may_authorize_current_use": false,
+    "revision_map_required": true
+  }
+}

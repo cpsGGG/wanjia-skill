@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-028",
+  "youtube_id": "MqnwsxmTFL8",
+  "review_completed": true,
+  "items": [
+    {
+      "review_id": "s028-r01",
+      "severity": "major",
+      "category": "psychological_generalization",
+      "issue": "Date anxiety is attributed mainly to treating a woman as a judge of total worth.",
+      "affected_evidence": ["S00001-S00019"],
+      "disposition": "Preserve as Mikey's model, not a diagnosis or exhaustive explanation."
+    },
+    {
+      "review_id": "s028-r02",
+      "severity": "major",
+      "category": "unsupported_examples",
+      "issue": "Stock and bitcoin gains are used to generalize that objective value can coexist with insecurity, without identified cases or outcome evidence.",
+      "affected_evidence": ["S00061-S00075"],
+      "disposition": "Keep the conceptual distinction but do not present the examples as verified causal evidence."
+    },
+    {
+      "review_id": "s028-r03",
+      "severity": "major",
+      "category": "source_reuse",
+      "issue": "The full Short repeats a passage already preserved in formal mikey-youtube-live-025.",
+      "affected_evidence": ["whole source"],
+      "disposition": "Keep formal weight at zero."
+    }
+  ]
+}

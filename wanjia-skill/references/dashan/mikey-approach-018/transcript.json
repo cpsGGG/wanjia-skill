@@ -1,0 +1,1639 @@
+{
+  "schema_version": 1,
+  "source_id": "mikey-approach-018",
+  "title": "地铁看到自己喜欢的女生怎么办？",
+  "status": "automatic_unreviewed",
+  "speaker": "not_diarized",
+  "layer": "asr_automatic_citation_view",
+  "notice": "由完整自动稿确定性生成；未人工听校、未区分说话人，不作为准确逐字引语。",
+  "segment_id_policy": "S编号按当前原始自动稿顺序从S00001起；原始自动稿SHA256变化即为另一版本。",
+  "source_revision": "sha256:8905e737aa53b63a21d14a8aba6783613c8a2cfba4b439710a4b68c339e24f6f",
+  "transcript_revision": "sha256:c17d70c69e29629ea6df7ac090811002c4950925171020a64f90d6c097d0b573",
+  "input_transcript_sha256": "c17d70c69e29629ea6df7ac090811002c4950925171020a64f90d6c097d0b573",
+  "source": {
+    "kind": "local_file",
+    "local_path": "D:\\startup\\玩家.skill\\dashan\\18.地铁看到自己喜欢的女生怎么办？.mp4",
+    "size_bytes": 529332362,
+    "sha256": "8905e737aa53b63a21d14a8aba6783613c8a2cfba4b439710a4b68c339e24f6f",
+    "start_seconds": 0
+  },
+  "model": "large-v3-turbo",
+  "segments": [
+    {
+      "start": 0.05,
+      "end": 2.05,
+      "text": "如果我说我要跟你谈恋爱的话,你愿意吗?",
+      "avg_logprob": -0.33639706349840354,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00001"
+    },
+    {
+      "start": 4.05,
+      "end": 7.05,
+      "text": "哪有人第一面就说要跟我谈恋爱",
+      "avg_logprob": -0.33639706349840354,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00002"
+    },
+    {
+      "start": 7.05,
+      "end": 10.05,
+      "text": "所有的一键足迹都是键色机",
+      "avg_logprob": -0.33639706349840354,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00003"
+    },
+    {
+      "start": 10.05,
+      "end": 12.05,
+      "text": "我跟你说嘛,就是键色机",
+      "avg_logprob": -0.33639706349840354,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00004"
+    },
+    {
+      "start": 12.05,
+      "end": 14.05,
+      "text": "就不是一键足迹",
+      "avg_logprob": -0.33639706349840354,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00005"
+    },
+    {
+      "start": 19.08,
+      "end": 22.08,
+      "text": "等一下,就是我想,我是过来认识你的",
+      "avg_logprob": -0.33639706349840354,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00006"
+    },
+    {
+      "start": 22.08,
+      "end": 25.08,
+      "text": "就可能突然过来有点直接,有没有吓到你",
+      "avg_logprob": -0.33639706349840354,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00007"
+    },
+    {
+      "start": 26.08,
+      "end": 28.08,
+      "text": "你加微信吗?我说你没电了",
+      "avg_logprob": -0.33639706349840354,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00008"
+    },
+    {
+      "start": 28.08,
+      "end": 30.08,
+      "text": "那我搞快一点,我赶紧加你微信",
+      "avg_logprob": -0.33639706349840354,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00009"
+    },
+    {
+      "start": 30.08,
+      "end": 32.08,
+      "text": "我说手的话,你直接加吗?",
+      "avg_logprob": -0.33639706349840354,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00010"
+    },
+    {
+      "start": 32.08,
+      "end": 33.08,
+      "text": "可以可以可以",
+      "avg_logprob": -0.33639706349840354,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00011"
+    },
+    {
+      "start": 34.08,
+      "end": 37.08,
+      "text": "[联系交换中的号码片段已遮盖]",
+      "avg_logprob": -0.3578317901234568,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00012"
+    },
+    {
+      "start": 37.08,
+      "end": 38.08,
+      "text": "[联系交换中的号码片段已遮盖]",
+      "avg_logprob": -0.3578317901234568,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00013"
+    },
+    {
+      "start": 38.08,
+      "end": 47.83,
+      "text": "[联系交换中的号码片段已遮盖]",
+      "avg_logprob": -0.3578317901234568,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00014"
+    },
+    {
+      "start": 47.83,
+      "end": 49.83,
+      "text": "你是哪里人 卢州人",
+      "avg_logprob": -0.3578317901234568,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00015"
+    },
+    {
+      "start": 49.83,
+      "end": 52.83,
+      "text": "卢州老叫1573是吧",
+      "avg_logprob": -0.3578317901234568,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00016"
+    },
+    {
+      "start": 52.83,
+      "end": 55.83,
+      "text": "你现在是要去哪里",
+      "avg_logprob": -0.3578317901234568,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00017"
+    },
+    {
+      "start": 55.83,
+      "end": 58.83,
+      "text": "我去哪里",
+      "avg_logprob": -0.3578317901234568,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00018"
+    },
+    {
+      "start": 58.83,
+      "end": 61.83,
+      "text": "你是学生什么 现在回学校",
+      "avg_logprob": -0.3578317901234568,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00019"
+    },
+    {
+      "start": 61.83,
+      "end": 64.83,
+      "text": "我觉得你看上去就好看",
+      "avg_logprob": -0.3578317901234568,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00020"
+    },
+    {
+      "start": 64.83,
+      "end": 68.83,
+      "text": "就是很甜的那种女士",
+      "avg_logprob": -0.3578317901234568,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00021"
+    },
+    {
+      "start": 68.83,
+      "end": 71.23,
+      "text": "我一开始我以为你是南方人",
+      "avg_logprob": -0.3423202583213258,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00022"
+    },
+    {
+      "start": 71.23,
+      "end": 73.03,
+      "text": "就有点像我们江苏那边的女生",
+      "avg_logprob": -0.3423202583213258,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00023"
+    },
+    {
+      "start": 73.03,
+      "end": 75.63,
+      "text": "就很甜 笑心 很可爱",
+      "avg_logprob": -0.3423202583213258,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00024"
+    },
+    {
+      "start": 75.63,
+      "end": 77.03,
+      "text": "性格就比较",
+      "avg_logprob": -0.3423202583213258,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00025"
+    },
+    {
+      "start": 77.03,
+      "end": 78.33,
+      "text": "你性格比较甜",
+      "avg_logprob": -0.3423202583213258,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00026"
+    },
+    {
+      "start": 78.33,
+      "end": 82.33,
+      "text": "那很好 我特别喜欢性格比较甜的女生",
+      "avg_logprob": -0.3423202583213258,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00027"
+    },
+    {
+      "start": 82.33,
+      "end": 86.13,
+      "text": "我这么讲的话会不会有点普适",
+      "avg_logprob": -0.3423202583213258,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00028"
+    },
+    {
+      "start": 86.13,
+      "end": 87.83,
+      "text": "你是到哪一站下去的",
+      "avg_logprob": -0.3423202583213258,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00029"
+    },
+    {
+      "start": 87.83,
+      "end": 89.83,
+      "text": "我要到陈宇丽娇",
+      "avg_logprob": -0.3423202583213258,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00030"
+    },
+    {
+      "start": 89.83,
+      "end": 90.93,
+      "text": "陈宇丽娇",
+      "avg_logprob": -0.3423202583213258,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00031"
+    },
+    {
+      "start": 90.93,
+      "end": 95.23,
+      "text": "我在你前一站 我在那个成都东客人",
+      "avg_logprob": -0.3423202583213258,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00032"
+    },
+    {
+      "start": 95.23,
+      "end": 98.43,
+      "text": "我还在想 如果我们是都在成都东客站就好了",
+      "avg_logprob": -0.3423202583213258,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00033"
+    },
+    {
+      "start": 98.43,
+      "end": 100.43,
+      "text": "诶 那我们住的应该挺近的",
+      "avg_logprob": -0.27816134275392046,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00034"
+    },
+    {
+      "start": 100.43,
+      "end": 103.47,
+      "text": "应该就在附近吧",
+      "avg_logprob": -0.27816134275392046,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00035"
+    },
+    {
+      "start": 103.47,
+      "end": 104.27,
+      "text": "应该就在附近啊",
+      "avg_logprob": -0.27816134275392046,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00036"
+    },
+    {
+      "start": 104.27,
+      "end": 105.87,
+      "text": "那可以啊 我想要有时间的话",
+      "avg_logprob": -0.27816134275392046,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00037"
+    },
+    {
+      "start": 105.87,
+      "end": 106.87,
+      "text": "就我下了班",
+      "avg_logprob": -0.27816134275392046,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00038"
+    },
+    {
+      "start": 106.87,
+      "end": 108.67,
+      "text": "可以和你一杯咖啡",
+      "avg_logprob": -0.27816134275392046,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00039"
+    },
+    {
+      "start": 108.67,
+      "end": 110.47,
+      "text": "有时间你会约吗",
+      "avg_logprob": -0.27816134275392046,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00040"
+    },
+    {
+      "start": 110.47,
+      "end": 114.47,
+      "text": "诶 诶 你平常在地底里会被男生搭讪吗",
+      "avg_logprob": -0.27816134275392046,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00041"
+    },
+    {
+      "start": 114.47,
+      "end": 117.58,
+      "text": "诶 我觉得你有点色捧",
+      "avg_logprob": -0.27816134275392046,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00042"
+    },
+    {
+      "start": 117.58,
+      "end": 118.58,
+      "text": "因为我跟你说了这么久",
+      "avg_logprob": -0.27816134275392046,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00043"
+    },
+    {
+      "start": 118.58,
+      "end": 119.98,
+      "text": "你都没有看过我眼睛",
+      "avg_logprob": -0.27816134275392046,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00044"
+    },
+    {
+      "start": 119.98,
+      "end": 121.78,
+      "text": "你都没有跟我对视过",
+      "avg_logprob": -0.27816134275392046,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00045"
+    },
+    {
+      "start": 121.78,
+      "end": 123.38,
+      "text": "是有一点",
+      "avg_logprob": -0.27816134275392046,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00046"
+    },
+    {
+      "start": 123.38,
+      "end": 125.78,
+      "text": "诶 那所有男生搭讪你们都会就是",
+      "avg_logprob": -0.27816134275392046,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00047"
+    },
+    {
+      "start": 125.78,
+      "end": 127.38,
+      "text": "就是怎么说呢",
+      "avg_logprob": -0.27816134275392046,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00048"
+    },
+    {
+      "start": 127.38,
+      "end": 130.18,
+      "text": "呃 我来形容一下就是",
+      "avg_logprob": -0.27816134275392046,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00049"
+    },
+    {
+      "start": 130.18,
+      "end": 132.18,
+      "text": "不看对方眼睛啊 低着头是吧",
+      "avg_logprob": -0.37651908873683876,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00050"
+    },
+    {
+      "start": 132.18,
+      "end": 135.28,
+      "text": "就是 还是会不好意思吗",
+      "avg_logprob": -0.37651908873683876,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00051"
+    },
+    {
+      "start": 135.28,
+      "end": 137.08,
+      "text": "还是会不好意思啊",
+      "avg_logprob": -0.37651908873683876,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00052"
+    },
+    {
+      "start": 137.08,
+      "end": 141.08,
+      "text": "那我希望你不是因为害怕我才加了我微信",
+      "avg_logprob": -0.37651908873683876,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00053"
+    },
+    {
+      "start": 141.08,
+      "end": 144.18,
+      "text": "对 我很怕你说我有点色恐",
+      "avg_logprob": -0.37651908873683876,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00054"
+    },
+    {
+      "start": 144.18,
+      "end": 147.08,
+      "text": "我遇到圣灵的人我害怕 我加了吧 加了吧",
+      "avg_logprob": -0.37651908873683876,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00055"
+    },
+    {
+      "start": 147.08,
+      "end": 150.78,
+      "text": "我希望就是 你觉得我是个正常人还OK",
+      "avg_logprob": -0.37651908873683876,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00056"
+    },
+    {
+      "start": 150.78,
+      "end": 154.29,
+      "text": "然后就是加了我微信",
+      "avg_logprob": -0.37651908873683876,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00057"
+    },
+    {
+      "start": 154.29,
+      "end": 157.06,
+      "text": "你多大人",
+      "avg_logprob": -0.37651908873683876,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00058"
+    },
+    {
+      "start": 157.06,
+      "end": 158.26,
+      "text": "我不知道好 我不知道你多大",
+      "avg_logprob": -0.37651908873683876,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00059"
+    },
+    {
+      "start": 158.26,
+      "end": 159.66,
+      "text": "我猜你18岁",
+      "avg_logprob": -0.37651908873683876,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00060"
+    },
+    {
+      "start": 159.66,
+      "end": 160.56,
+      "text": "20岁",
+      "avg_logprob": -0.37651908873683876,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00061"
+    },
+    {
+      "start": 160.56,
+      "end": 162.76,
+      "text": "20岁 那你现在应该工作了",
+      "avg_logprob": -0.37651908873683876,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00062"
+    },
+    {
+      "start": 162.76,
+      "end": 166.6,
+      "text": "我说你现在应该工作了",
+      "avg_logprob": -0.5402777521698563,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00063"
+    },
+    {
+      "start": 166.6,
+      "end": 167.88,
+      "text": "对啊 应该工作呀",
+      "avg_logprob": -0.5402777521698563,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00064"
+    },
+    {
+      "start": 167.88,
+      "end": 168.9,
+      "text": "你是做什么",
+      "avg_logprob": -0.5402777521698563,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00065"
+    },
+    {
+      "start": 168.9,
+      "end": 170.96,
+      "text": "我猜是舞蹈老师",
+      "avg_logprob": -0.5402777521698563,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00066"
+    },
+    {
+      "start": 170.96,
+      "end": 172.3,
+      "text": "怎么不可能",
+      "avg_logprob": -0.5402777521698563,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00067"
+    },
+    {
+      "start": 172.3,
+      "end": 174.36,
+      "text": "我看你很像会跳舞的",
+      "avg_logprob": -0.5402777521698563,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00068"
+    },
+    {
+      "start": 174.36,
+      "end": 176.52,
+      "text": "对啊 我猜 你这个腰臀鼻",
+      "avg_logprob": -0.5402777521698563,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00069"
+    },
+    {
+      "start": 176.52,
+      "end": 179.36,
+      "text": "我觉得跳舞会很酷",
+      "avg_logprob": -0.5402777521698563,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00070"
+    },
+    {
+      "start": 179.36,
+      "end": 180.48,
+      "text": "我不会跳舞",
+      "avg_logprob": -0.5402777521698563,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00071"
+    },
+    {
+      "start": 180.48,
+      "end": 181.12,
+      "text": "你不会跳舞",
+      "avg_logprob": -0.5402777521698563,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00072"
+    },
+    {
+      "start": 181.12,
+      "end": 182.62,
+      "text": "对",
+      "avg_logprob": -0.5402777521698563,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00073"
+    },
+    {
+      "start": 182.62,
+      "end": 184.68,
+      "text": "喂",
+      "avg_logprob": -0.5402777521698563,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00074"
+    },
+    {
+      "start": 184.68,
+      "end": 185.88,
+      "text": "那我想一下",
+      "avg_logprob": -0.5402777521698563,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00075"
+    },
+    {
+      "start": 185.88,
+      "end": 187.48,
+      "text": "你应该是英语老师",
+      "avg_logprob": -0.5402777521698563,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00076"
+    },
+    {
+      "start": 187.48,
+      "end": 188.88,
+      "text": "我没有读",
+      "avg_logprob": -0.5402777521698563,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00077"
+    },
+    {
+      "start": 188.88,
+      "end": 190.62,
+      "text": "我不知道了 我随便猜的",
+      "avg_logprob": -0.5402777521698563,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00078"
+    },
+    {
+      "start": 190.62,
+      "end": 191.92,
+      "text": "你呢 你是什么",
+      "avg_logprob": -0.5402777521698563,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00079"
+    },
+    {
+      "start": 191.92,
+      "end": 194.68,
+      "text": "我做的带货主播",
+      "avg_logprob": -0.5478515378199518,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00080"
+    },
+    {
+      "start": 194.68,
+      "end": 197.56,
+      "text": "带货主播 就是那个老铁666是吗",
+      "avg_logprob": -0.5478515378199518,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00081"
+    },
+    {
+      "start": 198.76,
+      "end": 200.68,
+      "text": "线板 因为那是不难的",
+      "avg_logprob": -0.5478515378199518,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00082"
+    },
+    {
+      "start": 200.68,
+      "end": 202.68,
+      "text": "其实当我线上销售板",
+      "avg_logprob": -0.5478515378199518,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00083"
+    },
+    {
+      "start": 202.68,
+      "end": 204.04,
+      "text": "线上销售",
+      "avg_logprob": -0.5478515378199518,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00084"
+    },
+    {
+      "start": 204.04,
+      "end": 205.04,
+      "text": "Oh shit",
+      "avg_logprob": -0.5478515378199518,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00085"
+    },
+    {
+      "start": 207.04,
+      "end": 208.92,
+      "text": "那你每天工作压力大不大",
+      "avg_logprob": -0.5478515378199518,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00086"
+    },
+    {
+      "start": 208.92,
+      "end": 209.92,
+      "text": "还好吧",
+      "avg_logprob": -0.5478515378199518,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00087"
+    },
+    {
+      "start": 211.76,
+      "end": 213.36,
+      "text": "我每天工作压力都好大",
+      "avg_logprob": -0.5478515378199518,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00088"
+    },
+    {
+      "start": 213.36,
+      "end": 214.36,
+      "text": "我操",
+      "avg_logprob": -0.5478515378199518,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00089"
+    },
+    {
+      "start": 214.36,
+      "end": 216.4,
+      "text": "嗯 做什么工作",
+      "avg_logprob": -0.5478515378199518,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00090"
+    },
+    {
+      "start": 216.4,
+      "end": 218.16,
+      "text": "我是做插画师 画画",
+      "avg_logprob": -0.5478515378199518,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00091"
+    },
+    {
+      "start": 218.16,
+      "end": 220.16,
+      "text": "嗯 插画",
+      "avg_logprob": -0.5478515378199518,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00092"
+    },
+    {
+      "start": 220.16,
+      "end": 222.16,
+      "text": "插画",
+      "avg_logprob": -0.21153845890210224,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00093"
+    },
+    {
+      "start": 222.16,
+      "end": 224.16,
+      "text": "我就是很有才华",
+      "avg_logprob": -0.21153845890210224,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00094"
+    },
+    {
+      "start": 224.16,
+      "end": 226.16,
+      "text": "没有才华",
+      "avg_logprob": -0.21153845890210224,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00095"
+    },
+    {
+      "start": 226.16,
+      "end": 228.16,
+      "text": "就是我每天画画的时候",
+      "avg_logprob": -0.21153845890210224,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00096"
+    },
+    {
+      "start": 228.16,
+      "end": 230.16,
+      "text": "我都要想着怎么下班",
+      "avg_logprob": -0.21153845890210224,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00097"
+    },
+    {
+      "start": 230.16,
+      "end": 232.16,
+      "text": "爱好一旦变成工作",
+      "avg_logprob": -0.21153845890210224,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00098"
+    },
+    {
+      "start": 232.16,
+      "end": 234.16,
+      "text": "就会索然无恶",
+      "avg_logprob": -0.21153845890210224,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00099"
+    },
+    {
+      "start": 234.16,
+      "end": 236.16,
+      "text": "上班的人都这样吗",
+      "avg_logprob": -0.21153845890210224,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00100"
+    },
+    {
+      "start": 236.16,
+      "end": 238.16,
+      "text": "那你是不是从小的志向",
+      "avg_logprob": -0.21153845890210224,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00101"
+    },
+    {
+      "start": 238.16,
+      "end": 240.16,
+      "text": "就是我一定要做一个带货主",
+      "avg_logprob": -0.21153845890210224,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00102"
+    },
+    {
+      "start": 240.16,
+      "end": 242.16,
+      "text": "没有呀 主要是这方面",
+      "avg_logprob": -0.21153845890210224,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00103"
+    },
+    {
+      "start": 242.16,
+      "end": 244.16,
+      "text": "比较轻松",
+      "avg_logprob": -0.21153845890210224,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00104"
+    },
+    {
+      "start": 244.16,
+      "end": 246.16,
+      "text": "我觉得就是我做自媒体",
+      "avg_logprob": -0.21153845890210224,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00105"
+    },
+    {
+      "start": 246.16,
+      "end": 248.16,
+      "text": "然后带货真的很赚钱",
+      "avg_logprob": -0.21153845890210224,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00106"
+    },
+    {
+      "start": 248.16,
+      "end": 252.76,
+      "text": "嗯 没有 因为我们是公司在 帮公司多",
+      "avg_logprob": -0.36762153916060925,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00107"
+    },
+    {
+      "start": 252.76,
+      "end": 255.66,
+      "text": "然后我就是每天都花三个小时的班",
+      "avg_logprob": -0.36762153916060925,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00108"
+    },
+    {
+      "start": 255.66,
+      "end": 257.76,
+      "text": "哦 我上班就可以走了",
+      "avg_logprob": -0.36762153916060925,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00109"
+    },
+    {
+      "start": 257.76,
+      "end": 259.56,
+      "text": "你现在是刚上 刚下班",
+      "avg_logprob": -0.36762153916060925,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00110"
+    },
+    {
+      "start": 259.56,
+      "end": 261.36,
+      "text": "没有 我现在还没有上班",
+      "avg_logprob": -0.36762153916060925,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00111"
+    },
+    {
+      "start": 261.36,
+      "end": 263.86,
+      "text": "没有就是在上班 在休息",
+      "avg_logprob": -0.36762153916060925,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00112"
+    },
+    {
+      "start": 263.86,
+      "end": 265.16,
+      "text": "哦 就是你现在没有",
+      "avg_logprob": -0.36762153916060925,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00113"
+    },
+    {
+      "start": 265.16,
+      "end": 266.46,
+      "text": "我以为你是刚下班",
+      "avg_logprob": -0.36762153916060925,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00114"
+    },
+    {
+      "start": 266.46,
+      "end": 267.26,
+      "text": "嗯",
+      "avg_logprob": -0.36762153916060925,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00115"
+    },
+    {
+      "start": 267.26,
+      "end": 269.36,
+      "text": "我还在想 原来也有人就是跟我一样",
+      "avg_logprob": -0.36762153916060925,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00116"
+    },
+    {
+      "start": 269.36,
+      "end": 271.26,
+      "text": "加班加的这么晚 这么惨",
+      "avg_logprob": -0.36762153916060925,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00117"
+    },
+    {
+      "start": 271.26,
+      "end": 273.06,
+      "text": "没有 哈哈哈",
+      "avg_logprob": -0.36762153916060925,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00118"
+    },
+    {
+      "start": 273.06,
+      "end": 279.06,
+      "text": "脑好痛啊 我想",
+      "avg_logprob": -0.36762153916060925,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00119"
+    },
+    {
+      "start": 279.06,
+      "end": 280.86,
+      "text": "那你上班腰会痛吗",
+      "avg_logprob": -0.36762153916060925,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00120"
+    },
+    {
+      "start": 280.86,
+      "end": 283.04,
+      "text": "我说你上班的腰会不会痛",
+      "avg_logprob": -0.4891304347826087,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00121"
+    },
+    {
+      "start": 283.04,
+      "end": 287.62,
+      "text": "你的腰都特别痛",
+      "avg_logprob": -0.4891304347826087,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00122"
+    },
+    {
+      "start": 287.62,
+      "end": 288.62,
+      "text": "我操",
+      "avg_logprob": -0.4891304347826087,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00123"
+    },
+    {
+      "start": 288.62,
+      "end": 289.88,
+      "text": "因为你们操化了嘛",
+      "avg_logprob": -0.4891304347826087,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00124"
+    },
+    {
+      "start": 289.88,
+      "end": 294.36,
+      "text": "操化了就可能",
+      "avg_logprob": -0.4891304347826087,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00125"
+    },
+    {
+      "start": 294.36,
+      "end": 295.78,
+      "text": "很爱惜我的腰子",
+      "avg_logprob": -0.4891304347826087,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00126"
+    },
+    {
+      "start": 295.78,
+      "end": 303.17,
+      "text": "怎么一直在想",
+      "avg_logprob": -0.4891304347826087,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00127"
+    },
+    {
+      "start": 303.17,
+      "end": 309.51,
+      "text": "我叫爱惜了",
+      "avg_logprob": -0.4891304347826087,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00128"
+    },
+    {
+      "start": 309.51,
+      "end": 311.21,
+      "text": "好啊",
+      "avg_logprob": -0.4891304347826087,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00129"
+    },
+    {
+      "start": 311.21,
+      "end": 312.59,
+      "text": "我想给你拍张照",
+      "avg_logprob": -0.4891304347826087,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00130"
+    },
+    {
+      "start": 312.59,
+      "end": 316.45,
+      "text": "这管子要吓死你",
+      "avg_logprob": -0.4891304347826087,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00131"
+    },
+    {
+      "start": 316.45,
+      "end": 318.15,
+      "text": "对 我马上要下车了",
+      "avg_logprob": -0.4891304347826087,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00132"
+    },
+    {
+      "start": 318.15,
+      "end": 319.91,
+      "text": "哦 还有一站呢",
+      "avg_logprob": -0.4891304347826087,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00133"
+    },
+    {
+      "start": 319.91,
+      "end": 320.97,
+      "text": "我在成都东克诊",
+      "avg_logprob": -0.4891304347826087,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00134"
+    },
+    {
+      "start": 320.97,
+      "end": 323.67,
+      "text": "你这么期盼我赶紧走",
+      "avg_logprob": -0.4891304347826087,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00135"
+    },
+    {
+      "start": 323.67,
+      "end": 324.97,
+      "text": "可能因为你是社恐吧",
+      "avg_logprob": -0.4891304347826087,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00136"
+    },
+    {
+      "start": 324.97,
+      "end": 325.71,
+      "text": "所以说你在想",
+      "avg_logprob": -0.4891304347826087,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00137"
+    },
+    {
+      "start": 325.71,
+      "end": 327.57,
+      "text": "啊 这个人什么时候走了",
+      "avg_logprob": -0.4891304347826087,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00138"
+    },
+    {
+      "start": 327.57,
+      "end": 328.71,
+      "text": "为什么要跟我讲话",
+      "avg_logprob": -0.4891304347826087,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00139"
+    },
+    {
+      "start": 328.71,
+      "end": 331.91,
+      "text": "平常过来搭讪的男生你就拒绝了",
+      "avg_logprob": -0.9774281048413479,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00140"
+    },
+    {
+      "start": 335.91,
+      "end": 336.91,
+      "text": "你有在地铁里",
+      "avg_logprob": -0.9774281048413479,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00141"
+    },
+    {
+      "start": 336.91,
+      "end": 338.79,
+      "text": "就是被男生直接过来搭讪",
+      "avg_logprob": -0.9774281048413479,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00142"
+    },
+    {
+      "start": 338.83,
+      "end": 341.45,
+      "text": "比较少",
+      "avg_logprob": -0.9774281048413479,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00143"
+    },
+    {
+      "start": 341.57,
+      "end": 341.95,
+      "text": "乖",
+      "avg_logprob": -0.9774281048413479,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00144"
+    },
+    {
+      "start": 341.95,
+      "end": 343.79,
+      "text": "水平平穿的比较高",
+      "avg_logprob": -0.9774281048413479,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00145"
+    },
+    {
+      "start": 344.13,
+      "end": 346.31,
+      "text": "今天穿的是甜妹是吧",
+      "avg_logprob": -0.9774281048413479,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00146"
+    },
+    {
+      "start": 347.33,
+      "end": 350.01,
+      "text": "二号县的地铁小哥经常对不起吗",
+      "avg_logprob": -0.9774281048413479,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00147"
+    },
+    {
+      "start": 350.01,
+      "end": 351.33,
+      "text": "他现在又没有對齐",
+      "avg_logprob": -0.9774281048413479,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00148"
+    },
+    {
+      "start": 351.87,
+      "end": 354.55,
+      "text": "二号的地铁小哥经常对不起吗",
+      "avg_logprob": -0.9774281048413479,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00149"
+    },
+    {
+      "start": 356.67,
+      "end": 357.85,
+      "text": "没有对齐",
+      "avg_logprob": -0.9774281048413479,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00150"
+    },
+    {
+      "start": 357.93,
+      "end": 358.81,
+      "text": "强迫症",
+      "avg_logprob": -0.9774281048413479,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00151"
+    },
+    {
+      "start": 358.81,
+      "end": 361.57,
+      "text": "对于我来讲 我会觉得好难受",
+      "avg_logprob": -0.3603365476314838,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00152"
+    },
+    {
+      "start": 361.57,
+      "end": 364.41,
+      "text": "昨天我还听到他们把那个",
+      "avg_logprob": -0.3603365476314838,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00153"
+    },
+    {
+      "start": 364.41,
+      "end": 366.65,
+      "text": "对 我已经是喊错了",
+      "avg_logprob": -0.3603365476314838,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00154"
+    },
+    {
+      "start": 366.65,
+      "end": 368.21,
+      "text": "他们喊错什么名字",
+      "avg_logprob": -0.3603365476314838,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00155"
+    },
+    {
+      "start": 368.21,
+      "end": 371.61,
+      "text": "东邦路他们喊全州大陆",
+      "avg_logprob": -0.3603365476314838,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00156"
+    },
+    {
+      "start": 371.61,
+      "end": 373.25,
+      "text": "这个是喊的吗",
+      "avg_logprob": -0.3603365476314838,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00157"
+    },
+    {
+      "start": 373.25,
+      "end": 375.57,
+      "text": "他们说有些人是喊的",
+      "avg_logprob": -0.3603365476314838,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00158"
+    },
+    {
+      "start": 375.57,
+      "end": 378.89,
+      "text": "就是他们喊错一次扣500块钱",
+      "avg_logprob": -0.3603365476314838,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00159"
+    },
+    {
+      "start": 378.89,
+      "end": 380.33,
+      "text": "真的吗",
+      "avg_logprob": -0.3603365476314838,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00160"
+    },
+    {
+      "start": 380.33,
+      "end": 383.89,
+      "text": "你好了解 我还想去开地铁",
+      "avg_logprob": -0.3603365476314838,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00161"
+    },
+    {
+      "start": 383.89,
+      "end": 385.17,
+      "text": "不一定好",
+      "avg_logprob": -0.3603365476314838,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00162"
+    },
+    {
+      "start": 385.17,
+      "end": 387.93,
+      "text": "我觉得开地铁是一件很酷的事情",
+      "avg_logprob": -0.3603365476314838,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00163"
+    },
+    {
+      "start": 387.93,
+      "end": 389.77,
+      "text": "每一个每一个心情还好",
+      "avg_logprob": -0.3745689720943056,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00164"
+    },
+    {
+      "start": 389.77,
+      "end": 392.33,
+      "text": "就像你说的 当成工作之后都不好",
+      "avg_logprob": -0.3745689720943056,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00165"
+    },
+    {
+      "start": 392.33,
+      "end": 393.73,
+      "text": "我只是就开着玩",
+      "avg_logprob": -0.3745689720943056,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00166"
+    },
+    {
+      "start": 393.73,
+      "end": 397.05,
+      "text": "然后对不起门 然后被开掉我就跑路",
+      "avg_logprob": -0.3745689720943056,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00167"
+    },
+    {
+      "start": 397.05,
+      "end": 399.29,
+      "text": "你现在实习生的想法",
+      "avg_logprob": -0.3745689720943056,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00168"
+    },
+    {
+      "start": 399.29,
+      "end": 402.04,
+      "text": "对啊",
+      "avg_logprob": -0.3745689720943056,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00169"
+    },
+    {
+      "start": 402.04,
+      "end": 404.6,
+      "text": "就要什么 多体验一下社会",
+      "avg_logprob": -0.3745689720943056,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00170"
+    },
+    {
+      "start": 404.6,
+      "end": 405.8,
+      "text": "多爱社会的得到",
+      "avg_logprob": -0.3745689720943056,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00171"
+    },
+    {
+      "start": 405.8,
+      "end": 421.06,
+      "text": "孩子在沈云地要不要帅了",
+      "avg_logprob": -0.3745689720943056,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00172"
+    },
+    {
+      "start": 421.06,
+      "end": 422.22,
+      "text": "哇 你怎么知道",
+      "avg_logprob": -0.3745689720943056,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00173"
+    },
+    {
+      "start": 422.22,
+      "end": 423.7,
+      "text": "卧槽",
+      "avg_logprob": -0.3745689720943056,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00174"
+    },
+    {
+      "start": 423.7,
+      "end": 426.74,
+      "text": "你说这个伤心之地不就都懂了吗",
+      "avg_logprob": -0.3745689720943056,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00175"
+    },
+    {
+      "start": 426.74,
+      "end": 430.58,
+      "text": "我的好哥们现在还对这件事情耿耿于怀",
+      "avg_logprob": -0.3745689720943056,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00176"
+    },
+    {
+      "start": 430.58,
+      "end": 434.58,
+      "text": "他一直在想 我被他甩 已经过去将近一年了",
+      "avg_logprob": -0.36226852867338394,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00177"
+    },
+    {
+      "start": 434.58,
+      "end": 436.34,
+      "text": "那时候他还是很透明",
+      "avg_logprob": -0.36226852867338394,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00178"
+    },
+    {
+      "start": 436.34,
+      "end": 438.58,
+      "text": "实际上对我就是谈起这件事情",
+      "avg_logprob": -0.36226852867338394,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00179"
+    },
+    {
+      "start": 439.58,
+      "end": 440.58,
+      "text": "有",
+      "avg_logprob": -0.36226852867338394,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00180"
+    },
+    {
+      "start": 441.58,
+      "end": 443.58,
+      "text": "那你谈过几个呢 你知道",
+      "avg_logprob": -0.36226852867338394,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00181"
+    },
+    {
+      "start": 443.58,
+      "end": 445.58,
+      "text": "没谈过几个",
+      "avg_logprob": -0.36226852867338394,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00182"
+    },
+    {
+      "start": 445.58,
+      "end": 450.05,
+      "text": "女生都会这么讲 说我没有谈起来",
+      "avg_logprob": -0.36226852867338394,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00183"
+    },
+    {
+      "start": 450.05,
+      "end": 455.05,
+      "text": "但是 当时相处是能谈起来的",
+      "avg_logprob": -0.36226852867338394,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00184"
+    },
+    {
+      "start": 455.05,
+      "end": 458.05,
+      "text": "有没有谈过女生能谈起来的",
+      "avg_logprob": -0.36226852867338394,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00185"
+    },
+    {
+      "start": 458.05,
+      "end": 460.05,
+      "text": "如果我说我要跟你谈恋爱的话 你愿意吗",
+      "avg_logprob": -0.36226852867338394,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00186"
+    },
+    {
+      "start": 460.05,
+      "end": 464.75,
+      "text": "哪有人第一面就说要跟我谈恋爱",
+      "avg_logprob": -0.36135564744472504,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00187"
+    },
+    {
+      "start": 464.75,
+      "end": 468.09,
+      "text": "所有的一件足迹都是见色记忆",
+      "avg_logprob": -0.36135564744472504,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00188"
+    },
+    {
+      "start": 468.09,
+      "end": 472.02,
+      "text": "我跟你说嘛 就是见色记忆",
+      "avg_logprob": -0.36135564744472504,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00189"
+    },
+    {
+      "start": 472.02,
+      "end": 474.32,
+      "text": "但是怎么说呢",
+      "avg_logprob": -0.36135564744472504,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00190"
+    },
+    {
+      "start": 474.32,
+      "end": 481.33,
+      "text": "我觉得我一般被女生吸引",
+      "avg_logprob": -0.36135564744472504,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00191"
+    },
+    {
+      "start": 481.33,
+      "end": 484.41,
+      "text": "第一眼永远是我觉得这女生身材好棒",
+      "avg_logprob": -0.36135564744472504,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00192"
+    },
+    {
+      "start": 484.41,
+      "end": 486.45,
+      "text": "好酷 要么是穿她很酷",
+      "avg_logprob": -0.36135564744472504,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00193"
+    },
+    {
+      "start": 486.45,
+      "end": 490.52,
+      "text": "我就会很喜欢 然后就想去认识她",
+      "avg_logprob": -0.36135564744472504,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00194"
+    },
+    {
+      "start": 490.52,
+      "end": 492.56,
+      "text": "你今天被多少男生拉伤",
+      "avg_logprob": -0.36135564744472504,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00195"
+    },
+    {
+      "start": 492.56,
+      "end": 494.36,
+      "text": "没有 就你一个",
+      "avg_logprob": -0.36135564744472504,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00196"
+    },
+    {
+      "start": 494.36,
+      "end": 497.68,
+      "text": "就我一个 可以 下次继续穿酷一点",
+      "avg_logprob": -0.36135564744472504,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00197"
+    },
+    {
+      "start": 497.68,
+      "end": 500.4,
+      "text": "就让他们看到你就会怎么说",
+      "avg_logprob": -0.5468749871125093,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00198"
+    },
+    {
+      "start": 500.4,
+      "end": 501.08,
+      "text": "就会跑路",
+      "avg_logprob": -0.5468749871125093,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00199"
+    },
+    {
+      "start": 501.08,
+      "end": 502.4,
+      "text": "是南亚特",
+      "avg_logprob": -0.5468749871125093,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00200"
+    },
+    {
+      "start": 502.4,
+      "end": 504.66,
+      "text": "那我就改天我约你们",
+      "avg_logprob": -0.5468749871125093,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00201"
+    },
+    {
+      "start": 504.66,
+      "end": 506.62,
+      "text": "拜拜",
+      "avg_logprob": -0.5468749871125093,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00202"
+    }
+  ]
+}

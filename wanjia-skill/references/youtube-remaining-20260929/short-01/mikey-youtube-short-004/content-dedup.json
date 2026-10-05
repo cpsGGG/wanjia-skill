@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-004",
+  "youtube_id": "G2NnCHUH0n0",
+  "decision": "new",
+  "formal_weight_if_integrated": 0,
+  "compared_sources": [
+    {"scope": "formal_mikey_guide", "source_count": 202, "comparison": "youtube_id_url_exact_phrase_and_normalized_transcript"},
+    {"scope": "remaining_video_batches_01_05", "source_count": 45, "comparison": "normalized_transcript_shingle_screen"}
+  ],
+  "evidence": [
+    {"type": "identity", "result": "no_exact_id_or_url_match"},
+    {"type": "transcript", "result": "no_substantive_match_found", "note": "The clip is a montage of another creator's statements and staged-looking footage; it does not match a processed long-form transcript."},
+    {"type": "visual", "result": "third_party_composite", "basis": "All 13 sampled frames show embedded social-media/live footage, a couch scene, commentary overlays and reaction inserts rather than a continuous Mikey talk."}
+  ],
+  "boundary": "New public Short identity, but zero candidate knowledge weight because no safely attributable Mikey proposition is present. Do not treat allegations or embedded speech as Mikey testimony."
+}

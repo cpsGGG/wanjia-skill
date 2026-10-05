@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-045",
+  "youtube_id": "juXjBbeF0vs",
+  "title": "爱情没有最优选择，珍惜当下。 #dating #pua",
+  "coverage": {
+    "transcript_segments_read": 11,
+    "transcript_time_range_seconds": [0.0, 26.2],
+    "semantic_media_range_seconds": [0.0, 26.563628],
+    "sampled_frames_reviewed": 9,
+    "dense_frames_reviewed": 11,
+    "dense_windows_reviewed_seconds": [[21.0, 26.4]],
+    "continuous_original_audio_visual_review": false,
+    "excluded_asr_tail": null
+  },
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 11.16,
+      "summary": "Mikey says love has no optimal choice, defends devoted people from ridicule, and says the people mocking them do not understand what love is."
+    },
+    {
+      "start": 11.16,
+      "end": 18.34,
+      "summary": "He says life is long and people will keep meeting novelty, new encounters and new alternatives. The ASR garbles the encounter phrase, so the exact wording is not quoted."
+    },
+    {
+      "start": 18.34,
+      "end": 26.563628,
+      "summary": "He contrasts abstract optimization with attachment: even knowing someone is not an optimal choice, they can still be the one person he chooses to remember and miss."
+    }
+  ],
+  "claims": [
+    {
+      "claim_id": "s045-c01",
+      "speaker": "Mikey (visual/channel continuity)",
+      "statement": "He rejects treating love as an optimization problem and says devotion itself should not be mocked.",
+      "conditions": "A philosophical relationship claim; it does not distinguish healthy commitment from one-sided fixation, coercion, dependency or incompatibility.",
+      "evidence": ["S00001-S00004@0.00-11.16"],
+      "use_level": "hold"
+    },
+    {
+      "claim_id": "s045-c02",
+      "speaker": "Mikey (visual/channel continuity)",
+      "statement": "He frames committed love as continuing to choose and hold one person in mind despite future novelty and knowing that an abstractly better option may exist.",
+      "conditions": "Only supports his value framing. It does not prove mutual commitment, require staying in a harmful relationship, or override either person's right to leave.",
+      "evidence": ["S00005-S00011@11.16-26.20", "visual/dense-21_0-contact.jpg@21.0-26.0"],
+      "use_level": "hold"
+    }
+  ],
+  "speaker_attribution": [
+    {
+      "speaker": "Mikey (visual/channel continuity)",
+      "basis": "One on-camera narrator speaks throughout; face and presentation match the channel's formal Mikey talking-head sources. No second speaker or quoted message appears."
+    }
+  ],
+  "visual_findings": [
+    "All 9 sampled frames show the same man speaking directly to camera at a waterfront, with editorial Chinese subtitles.",
+    "No partner, relationship evidence, message screenshot or outcome is shown; the visuals only support speaker continuity and the edited subtitle wording.",
+    "Eleven 2-fps frames from 21.0-26.4 seconds confirm the closing subtitle means that the person is the one he can uniquely remember and miss; the ASR wording '唯一记者' is erroneous."
+  ],
+  "conflicts": [
+    {
+      "with": ["S-cMTEvo6To:K28", "mikey-youtube-live-030-K010"],
+      "summary": "Formal material warns that having no alternatives can be mislabelled as love and says commitment should be an active choice. This Short is compatible only if 'unique' means a voluntary commitment made despite alternatives, not dependence caused by scarcity."
+    }
+  ],
+  "permissions": {
+    "formal_integration": false,
+    "first_person_allowed": false,
+    "action_advice_allowed": false,
+    "use_level": "research_candidate_hold",
+    "reason": "This is a distinct but philosophical claim with unresolved boundaries around reciprocity, incompatibility and harmful relationships."
+  },
+  "limitations": [
+    "The automatic transcript was not checked word-for-word against original audio; the visibly corrected closing subtitle is paraphrased rather than treated as a verified quotation.",
+    "The phrase around 14.86-16.54 is garbled in ASR and only conservatively summarized as new encounters and choices.",
+    "Sparse and targeted dense frames are not continuous audio-visual review.",
+    "The clip offers no partner perspective or evidence that the commitment it describes is mutual or healthy."
+  ]
+}

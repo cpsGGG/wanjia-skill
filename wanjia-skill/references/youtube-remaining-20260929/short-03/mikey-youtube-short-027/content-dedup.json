@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-027",
+  "youtube_id": "PuvtjUuI6Co",
+  "decision": "reuse",
+  "formal_weight_if_integrated": 0,
+  "compared_sources": [
+    {
+      "scope": "formal_mikey_guide",
+      "source_count": 202,
+      "comparison": "id/url, normalized 8-character transcript shingles and semantic screen"
+    },
+    {
+      "scope": "remaining_video_batches_01_05_short_01_02_and_other_short_03_items",
+      "source_count": 72,
+      "comparison": "id/url, normalized transcript shingles and semantic screen"
+    },
+    {
+      "source_id": "mikey-youtube-live-010",
+      "comparison": "same parent livestream passages; 556 of 837 normalized 8-character shingles match, including the dog-teeth metaphor, date boundary, and fear-of-loss sequences"
+    }
+  ],
+  "evidence": [
+    {
+      "type": "identity",
+      "result": "no_exact_id_or_url_match"
+    },
+    {
+      "type": "transcript",
+      "result": "same_passage_match",
+      "basis": "The Short aligns to formal mikey-youtube-live-010 around 2177-2209, 2255-2267, 2353-2364 and 2433-2448 seconds, with edits between passages."
+    },
+    {
+      "type": "visual",
+      "result": "single_host_excerpt",
+      "basis": "All 50 sampled frames show one black-shirt speaker in the same purple-lit livestream setup with subtitles and stream overlay; no date or dog footage is shown."
+    }
+  ],
+  "boundary": "Reuse formal mikey-youtube-live-010. This edited compilation adds no independent source or claim weight."
+}

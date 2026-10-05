@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-049",
+  "youtube_id": "J4fxjbY8u0U",
+  "review_completed": true,
+  "items": [
+    {"review_id": "s049-r01", "severity": "blocking", "category": "consent_and_social_pressure", "issue": "The narration treats refusal to drink or play as evidence of disrespect and pressures participation through the idea of giving face.", "affected_evidence": ["S00003-S00010@3.16-17.88"], "disposition": "Never convert this into advice to pressure alcohol, games or continued attendance; preserve each person's right to decline or leave."},
+    {"review_id": "s049-r02", "severity": "blocking", "category": "stigmatizing_generalization", "issue": "The closing labels and predictions demean women and assert reputational and age-related outcomes without evidence.", "affected_evidence": ["S00012-S00017@20.66-30.90"], "disposition": "Mark do_not_generalize and exclude from first-person or action-advice use."},
+    {"review_id": "s049-r03", "severity": "major", "category": "missing_context", "issue": "The described person, gathering, reason for phone use and other participants' perspectives are not shown.", "affected_evidence": ["whole source"], "disposition": "Record only the speaker's judgment; do not present the scenario or motive as verified fact."},
+    {"review_id": "s049-r04", "severity": "major", "category": "semantic_reuse", "issue": "Formal sources already cover persistent phone use as a possible disengagement signal with stronger limits and a direct-question option.", "affected_evidence": ["whole source"], "disposition": "Assign zero formal weight."}
+  ]
+}

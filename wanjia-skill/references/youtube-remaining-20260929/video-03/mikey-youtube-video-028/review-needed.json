@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-028",
+  "youtube_id": "suYJ3bMCxJc",
+  "review_completed": true,
+  "items": [
+    {"review_id": "v028-r01", "severity": "blocking_for_consent", "issue": "The method treats refusal and repeated reluctance as problems to diagnose and overcome rather than possible endpoints.", "affected_evidence": ["S00178-S00200", "S00204-S00210"], "disposition": "Do not use as action advice. A clear no or repeated reluctance ends the proposal; one pressure-free clarification is the maximum."},
+    {"review_id": "v028-r02", "severity": "blocking_for_consent", "issue": "Firm imperative wording for movement to a home or hotel can suppress an easy refusal and is presented as superior to asking.", "affected_evidence": ["S00138-S00177"], "disposition": "Keep do_not_generalize; any invitation must state the destination and leave an easy, respected decline."},
+    {"review_id": "v028-r03", "severity": "blocking_for_consent", "issue": "The live example shifts from a broad home invitation to the narrower stated purpose of feeding or seeing a dog after the woman raises a first-meeting objection.", "affected_evidence": ["S00204-S00210", "dense frames 000023-000038"], "disposition": "Treat assent as limited to the stated purpose; do not infer sexual consent, arrival or success."},
+    {"review_id": "v028-r04", "severity": "major", "issue": "Humor and ASD language frame safety and reputation concerns as defenses to bypass.", "affected_evidence": ["S00198-S00200"], "disposition": "Do not recommend the jokes as objection-handling; humor may accompany, but never replace, accepting the answer."},
+    {"review_id": "v028-r05", "severity": "major", "issue": "The causal claim that hesitation creates rejection and firmness produces yes is unsupported and can reward pressure.", "affected_evidence": ["S00077-S00177"], "disposition": "Retain only as Mikey's hypothesis; separate calm self-expression from persistence or command."},
+    {"review_id": "v028-r06", "severity": "major", "issue": "Attraction is used as a catch-all explanation that can erase safety, preference, logistics and autonomy.", "affected_evidence": ["S00200-S00204"], "disposition": "Do not treat a no as evidence of insufficient attraction or as a technical failure to fix."},
+    {"review_id": "v028-r07", "severity": "major", "issue": "Claimed hotel and private-space results appear in a course-promotion context without failures, sample definition or independent evidence.", "affected_evidence": ["S00201-S00204"], "disposition": "Keep as unverified self-report; no effect or success claim."},
+    {"review_id": "v028-r08", "severity": "major", "issue": "The participant's recording consent, privacy authorization and age are not established by the video.", "affected_evidence": ["visual/dense-consent-650-725/"], "disposition": "Do not expose identity or infer authorization; keep visual use internal and restricted."},
+    {"review_id": "v028-r09", "severity": "minor", "issue": "ASR compresses long teaching segments, becomes unreliable after 731 seconds, and its final timestamp overshoots the 749.03-second media duration by 11.73 seconds.", "affected_evidence": ["S00198-S00218"], "disposition": "Use the preserved stills and paraphrase; require original audio for exact dialogue after 731 seconds, and do not cite the overshooting tail as an exact media time."}
+  ]
+}

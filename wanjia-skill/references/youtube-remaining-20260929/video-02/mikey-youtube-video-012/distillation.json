@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-012",
+  "youtube_id": "T3Yy6VpMJwI",
+  "title": "A8A9男如果不能满足女人慕强条件，会成为垃圾回收站",
+  "coverage": {
+    "transcript_segments_read": 1313,
+    "transcript_time_range_seconds": [0.0, 1487.88],
+    "sparse_frames_reviewed": 33,
+    "dense_frames_reviewed": 0,
+    "dense_windows_required_seconds": [],
+    "continuous_original_audio_visual_review": false
+  },
+  "timeline": [
+    {"start": 0.0, "end": 208.74, "summary": "Mikey applies his status-versus-attraction distinction to a named public couple, then uses his Ferrari as an example of wanting to be liked apart from visible wealth."},
+    {"start": 210.30, "end": 367.68, "summary": "He defines 'original male attraction' through a speculative hunter/tribal model and distinguishes modern status from leader-like behavior."},
+    {"start": 367.68, "end": 569.36, "summary": "He lists calmness, risk tolerance, conflict capacity, assertiveness and non-compliance, mixing caveats against fighting with advice to insult or show displeasure when challenged."},
+    {"start": 569.36, "end": 698.46, "summary": "He adds confidence, independence from approval, eye contact and rapid understanding, including a claim that making a date uncomfortable can lead her to invest."},
+    {"start": 698.46, "end": 844.50, "summary": "He contrasts health and athletic capability with facial surgery ideals, then makes speculative evolutionary claims about muscles, shoulders, buttocks and attraction."},
+    {"start": 844.50, "end": 1067.30, "summary": "He says six or seven of ten unspecified traits may suffice, defines love as physiological liking, and invokes celebrities and criminals as examples of strong behavior cues."},
+    {"start": 1067.30, "end": 1338.96, "summary": "He warns wealthy men about partners' financial motives, generalizes from his own relationships, advises ignoring comparisons to other men, and uses father/child/dog analogies for social dynamics."},
+    {"start": 1341.04, "end": 1487.88, "summary": "He answers how to maintain a long-term relationship by emphasizing attractiveness, replaceability and leverage, then clarifies that strength is not automatically male and that behavior cues express underlying traits."}
+  ],
+  "claims": [
+    {"claim_id": "v012-c01", "speaker": "Mikey", "statement": "Material status can attract attention without ensuring that a partner values the person apart from the status.", "conditions": "Useful as a reflective distinction, not a diagnosis of a partner or proof that money never matters.", "evidence": ["S00102-S00147@118.26-172.72", "S00977-S00984@1057.40-1067.30"], "use_level": "context_only", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v012-c02", "speaker": "Mikey", "statement": "He groups attraction into strong behavior cues, a wise mind and a healthy body, while also saying a person need not meet every proposed trait.", "conditions": "The categories and later six-of-ten statement are internally loose; no validated scale or complete ten-item list is supplied here.", "evidence": ["S00623-S00630@667.92-677.64", "S00777-S00818@835.28-878.90"], "use_level": "hold", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v012-c03", "speaker": "Mikey", "statement": "He treats calmness under pressure, willingness to face conflict, confidence and independence from approval as strength signals.", "conditions": "Facing conflict does not authorize violence, insults, intimidation or coercion.", "evidence": ["S00345-S00403@373.54-427.14", "S00453-S00508@488.84-548.98", "S00530-S00568@569.36-609.42"], "use_level": "context_only", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v012-c04", "speaker": "Mikey", "statement": "He says eye contact should follow one's own attention rather than anxious avoidance.", "conditions": "The later claim that sustained looking should create discomfort and investment is consent-sensitive and not approved advice.", "evidence": ["S00569-S00605@609.42-651.50", "S00606-S00622@651.50-667.92"], "use_level": "hold", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v012-c05", "speaker": "Mikey", "statement": "He argues that attraction reflects ancient hunting and reproductive selection and uses ethnic, body-shape and gender stereotypes to explain it.", "conditions": "Unsupported biological and group-level claims; the examples are not scientific evidence.", "evidence": ["S00180-S00344@208.74-373.54", "S00647-S00784@696.30-843.48"], "use_level": "do_not_generalize", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v012-c06", "speaker": "Mikey", "statement": "He defines love as physiological liking and treats stated reasons such as wealth or appearance as post-hoc rationalization.", "conditions": "This is his reductive definition, not an established psychological test and not a tool to infer another person's inner state.", "evidence": ["S00843-S00894@901.28-968.98", "S00935-S00952@1010.70-1031.16"], "use_level": "hold", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v012-c07", "speaker": "Mikey", "statement": "He advises not joining in when a partner disparages other suitors and not displaying jealousy, instead redirecting to the present plan.", "conditions": "May support emotional regulation; do not use it to ignore genuine disclosure, risk or boundary violations.", "evidence": ["S01053-S01083@1158.88-1192.00"], "use_level": "context_only", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v012-c08", "speaker": "Mikey", "statement": "He claims the way one treats others largely determines whether they act kindly or exploitatively, using a strict father and a dog-training story as analogies.", "conditions": "The analogies risk victim-blaming and do not establish causation in adult relationships.", "evidence": ["S01084-S01115@1192.00-1231.30", "S01116-S01155@1231.30-1282.74"], "use_level": "do_not_generalize", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v012-c09", "speaker": "Mikey", "statement": "He recommends maintaining long-term relationship leverage through confidence that one can leave and find another partner, expecting the other person to compromise.", "conditions": "Control-oriented and potentially manipulative; do not turn into action advice or promise apology, stability or lifelong commitment.", "evidence": ["S01201-S01250@1338.96-1407.90"], "use_level": "do_not_generalize", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v012-c10", "speaker": "Mikey discussing public figures", "statement": "He alleges that the named woman and her family profited from the boxing-gym project and that the man entered or stayed in the marriage because he lacked alternatives.", "conditions": "Identifiable-person financial and motive allegations are unverified and repeat material already present in S-cMTEvo6To.", "evidence": ["S00001-S00117@0.0-138.18"], "use_level": "do_not_generalize", "knowledge_status": "hold_pending_independent_review"}
+  ],
+  "examples": [
+    {"example_id": "v012-e01", "summary": "Mikey says he avoids foregrounding his Ferrari because he wants attention directed toward him rather than the car.", "evidence": ["S00118-S00147@138.18-172.72"]},
+    {"example_id": "v012-e02", "summary": "The eye-contact answer distinguishes freely looking away from doing so to escape discomfort, then shifts into a more coercive social-pressure claim that must remain restricted.", "evidence": ["S00569-S00622@609.42-667.92"]},
+    {"example_id": "v012-e03", "summary": "The long-term relationship answer uses a reported multi-thousand-character apology from a partner as proof of leverage; the message and context are not shown in the sampled frames.", "evidence": ["S01232-S01250@1377.90-1407.90"]}
+  ],
+  "speaker_attribution": [
+    {"speaker": "Mikey", "basis": "All 33 sparse frames show the same on-camera host; transcript includes audience-question transitions but no independently audible guest is established."},
+    {"speaker": "audience/commenters", "basis": "Short prompts are read or paraphrased by Mikey; exact original text and identity are not available."},
+    {"speaker": "public figures, former partners, students, father and dog owner", "basis": "All are represented through Mikey's narration or analogy, not independent testimony in this edit."}
+  ],
+  "visual_findings": [
+    "All 33 sampled frames were reviewed and show a continuous single-person talking-head setup with subtitles.",
+    "No sampled frame shows chats, documents, another speaker or a visual demonstration requiring dense reconstruction.",
+    "The stable set does not prove that no brief insert exists between 45-second samples; visual status remains sparse screening only."
+  ],
+  "permissions": {
+    "formal_integration": false,
+    "first_person_allowed": false,
+    "action_advice_allowed": false,
+    "knowledge_status": "hold_pending_independent_review",
+    "reason": "This is a zero-weight edited derivative of a formal live source and contains unverified public-person allegations, pseudoscientific generalizations, violent/insulting examples and control-oriented relationship advice."
+  },
+  "limitations": [
+    "Automatic transcript was not checked word-for-word and has several gaps and recognition errors.",
+    "Sparse visual review does not equal continuous original audio-visual verification.",
+    "The upload substantially reuses formal source S-cMTEvo6To and must not add independent evidentiary weight.",
+    "Personal anecdotes, public-figure claims, criminal examples and alleged attraction outcomes were not independently verified."
+  ]
+}

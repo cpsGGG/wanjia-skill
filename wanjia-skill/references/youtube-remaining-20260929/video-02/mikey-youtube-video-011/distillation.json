@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-011",
+  "youtube_id": "MJep9Wpzixg",
+  "title": "当上拳王就能幸福？你低估了版本T0...",
+  "coverage": {
+    "transcript_segments_read": 468,
+    "transcript_time_range_seconds": [0.0, 782.03],
+    "sparse_frames_reviewed": 17,
+    "dense_frames_reviewed": 0,
+    "dense_windows_required_seconds": [[0, 75], [500, 640]],
+    "continuous_original_audio_visual_review": false
+  },
+  "timeline": [
+    {"start": 0.0, "end": 74.8, "summary": "Mikey opens with allegations about public figures' marriage, business failure and money movements, framed as a deliberate scheme rather than an established case record."},
+    {"start": 80.66, "end": 183.34, "summary": "He distinguishes visible status from what he calls leader-like attraction and grounds the distinction in broad evolutionary claims about women and male behavior."},
+    {"start": 184.90, "end": 367.0, "summary": "He argues that limited relationship options lead men to accept being selected for money, rationalize the relationship and over-accommodate, while inner confidence and alternatives supposedly preserve choice."},
+    {"start": 369.34, "end": 468.98, "summary": "The framework is applied back to the named couple through speculative claims about motives, attraction, compatibility and self-deception."},
+    {"start": 470.92, "end": 591.90, "summary": "Mikey asserts specific construction, procurement, family-beneficiary, accounting, tax and asset-transfer details without presenting source documents in the sampled material."},
+    {"start": 592.98, "end": 677.30, "summary": "He describes later debt repayment and media appearances as a planned public-relations sequence and attributes hidden intent to the woman."},
+    {"start": 681.07, "end": 752.05, "summary": "He closes by warning men not to rely only on money, urging cognition and character development so that they can retain choice and leave a relationship if needed."}
+  ],
+  "claims": [
+    {"claim_id": "v011-c01", "speaker": "Mikey", "statement": "Money, appearance, athletic status and resources are not sufficient by themselves to produce personal attraction or healthy relationship agency.", "conditions": "A conceptual distinction in Mikey's framework; it does not establish the motives of any named couple.", "evidence": ["S00057-S00100@99.20-162.92", "S00120-S00165@183.34-235.90"], "use_level": "context_only", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v011-c02", "speaker": "Mikey", "statement": "He defines relational strength as confidence, decisiveness, leadership signals and the belief that one has alternatives.", "conditions": "The video does not provide a validated measurement model or evidence that these traits cause attraction.", "evidence": ["S00230-S00257@329.72-369.34", "S00442-S00464@701.33-747.43"], "use_level": "hold", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v011-c03", "speaker": "Mikey", "statement": "He proposes that perceived scarcity of alternatives can make a man rationalize a relationship, suppress disagreement and continue investing.", "conditions": "Potential reflection prompt only; it cannot diagnose love, attachment or a specific partner's motives.", "evidence": ["S00200-S00229@282.30-329.72", "S00292-S00307@435.46-468.98"], "use_level": "context_only", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v011-c04", "speaker": "Mikey", "statement": "He makes broad evolutionary claims that women are biologically oriented toward dominant male leaders and explains attraction to 'bad men' through this model.", "conditions": "Unsupported group-level biological and gender generalization; no research evidence is supplied.", "evidence": ["S00074-S00100@120.50-162.92"], "use_level": "do_not_generalize", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v011-c05", "speaker": "Mikey discussing public figures", "statement": "He claims the named husband lacked relationship choice and that the wife did not admire or love him.", "conditions": "Speculation about identifiable people's private motives and marriage; not independently verified.", "evidence": ["S00045-S00063@74.80-109.06", "S00267-S00300@386.76-453.66"], "use_level": "hold", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v011-c06", "speaker": "Mikey discussing public figures", "statement": "He alleges that a boxing-gym project transferred marital assets through contracts awarded to the wife's relatives or associates and may have reduced tax exposure.", "conditions": "High-impact financial and potentially legal accusation; no contracts, accounts, corporate registry evidence or responses are supplied here.", "evidence": ["S00329-S00364@500.90-573.16"], "use_level": "do_not_generalize", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v011-c07", "speaker": "Mikey discussing public figures", "statement": "He interprets debt repayment, media emotion and criticism of the husband as a coordinated reputation campaign.", "conditions": "Hidden-intent attribution based on selected media fragments; treat only as Mikey's interpretation.", "evidence": ["S00375-S00425@591.90-668.96"], "use_level": "hold", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v011-c08", "speaker": "Mikey", "statement": "He advises men to build financial awareness and a life not wholly dependent on one relationship.", "conditions": "Only the narrow self-reliance theme is separable; threats of replacement or unilateral control are not approved relationship advice.", "evidence": ["S00431-S00464@677.30-747.43"], "use_level": "context_only", "knowledge_status": "hold_pending_independent_review"}
+  ],
+  "examples": [
+    {"example_id": "v011-e01", "summary": "The named champion's contrast between ring persona and spouse-facing behavior is used as a public-figure example, but the sampled montage cannot establish the full interaction context.", "evidence": ["S00166-S00199@235.90-282.30", "sampled frames 000003-000006"]},
+    {"example_id": "v011-e02", "summary": "On-screen graphics and building/market imagery illustrate the alleged business and asset-transfer story without functioning as source documentation.", "evidence": ["S00329-S00374@500.90-591.90", "sampled frames 000012-000014"]}
+  ],
+  "speaker_attribution": [
+    {"speaker": "Mikey", "basis": "Single continuous narrator, ending with self-identification as Mike; the video is heavily edited with illustrative inserts."},
+    {"speaker": "named public figures and relatives", "basis": "Appear only through Mikey's narration, public clips, photos or screenshots; they are not independent speakers in this transcript."},
+    {"speaker": "media/interview subjects", "basis": "Short edited visual inserts; their full statements and contexts are unavailable."}
+  ],
+  "visual_findings": [
+    "All 17 sampled frames were reviewed. The video mixes host footage, public-figure clips, family photos, a building image, a small social-media/news screenshot, stock graphics and dramatized inserts.",
+    "The sparse frames do not show primary financial records or a complete interview supporting the asset-transfer and public-relations allegations.",
+    "Small text in the early screenshot and the source/context of the financial graphic are not readable enough for factual verification; targeted dense review at 0-75 and 500-640 seconds is required if those visuals are used as evidence."
+  ],
+  "permissions": {
+    "formal_integration": false,
+    "first_person_allowed": false,
+    "action_advice_allowed": false,
+    "knowledge_status": "hold_pending_independent_review",
+    "reason": "Contains unverified allegations about identifiable people, broad gender and evolutionary claims, and edited public-media material."
+  },
+  "limitations": [
+    "Automatic transcript was not checked word-for-word against original audio and contains unstable names and terms.",
+    "Seventeen 45-second sparse frames do not equal continuous full-video audio-visual verification.",
+    "The named people's motives, finances, contracts, tax treatment and marriage history were not independently verified.",
+    "Repeating similar allegations across video-011, video-012 and S-cMTEvo6To is not independent corroboration."
+  ]
+}

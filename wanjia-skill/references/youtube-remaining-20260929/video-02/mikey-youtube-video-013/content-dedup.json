@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-013",
+  "youtube_id": "NDYxxv5Tjoo",
+  "decision": "new",
+  "compared_sources": [
+    {"scope": "formal_mikey_guide", "source_count": 202, "comparison": "youtube_id_url_normalized_fulltext_and_12_character_shingles"},
+    {"scope": "formal_analyses_phrase_screen", "queries": ["报班求偶", "情感培训", "真诚是必杀技", "截图曝光"]}
+  ],
+  "evidence": [
+    {"type": "identity", "result": "no_exact_youtube_id_or_url_overlap", "basis": "video-02/identity-precheck.json and current formal source-index"},
+    {"type": "normalized_fulltext", "target_normalized_chars": 3949, "target_sha256": "c10d270b70729b25f23dff41b1980d564b70182863269033067bc369f4fc9653", "formal_transcripts_checked": 202, "exact_matches": []},
+    {"type": "near_duplicate_screen", "method": "12_character_shingle_containment", "highest_formal_containment": 0.0007618080243778568, "result": "no transcript-scale reuse detected"},
+    {"type": "phrase_screen", "result": "only generic thematic hits in formal analyses; no matching argument sequence or source-specific case found"}
+  ],
+  "boundary": "No exact or transcript-scale reuse was found. The upload is a new research candidate, while its claims about a news report, platform culture and social causation remain unverified external assertions."
+}

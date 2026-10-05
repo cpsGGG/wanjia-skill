@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-007",
+  "youtube_id": "xai9p7jJdFg",
+  "decision": "reuse",
+  "reuse_of": "Gs467Dozs3w",
+  "formal_weight_if_integrated": 0,
+  "compared_sources": [
+    {"scope": "formal_mikey_guide", "source_count": 202, "comparison": "youtube_id_url_and_normalized_fulltext"},
+    {"source_id": "Gs467Dozs3w", "title": "2026-06-16 - mikey正在直播", "comparison": "ordered transcript passage and same studio visual"}
+  ],
+  "evidence": [
+    {"type": "normalized_transcript", "result": "clip_match", "short_8_character_shingle_containment": 0.653061},
+    {"type": "exact_phrase", "result": "match", "short_evidence": "S00001-S00010@0.00-15.88", "formal_evidence": "Gs467Dozs3w:S01287-S01295@5692.58-5739.44"},
+    {"type": "visual", "result": "same_livestream_setup", "basis": "All 13 sampled frames show the same black-shirt studio livestream."}
+  ],
+  "boundary": "Vertical excerpt of Gs467Dozs3w; add zero source or claim weight."
+}

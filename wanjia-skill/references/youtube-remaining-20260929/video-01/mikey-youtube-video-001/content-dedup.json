@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-001",
+  "youtube_id": "GQ6Md8q2R30",
+  "decision": "new",
+  "compared_sources": [
+    "mikey-youtube-live-002",
+    "9zRpsnsPGxU",
+    "quark-live-021",
+    "jvFRTgH_4cE",
+    "quark-live-010",
+    "quark-live-016",
+    "mikey-sijiao-001"
+  ],
+  "evidence": [
+    {
+      "type": "formal_index_exact_id_check",
+      "detail": "完整读取 mikey-guide/references/source-index.json（202个正式来源）后，未发现 youtube_id=GQ6Md8q2R30、stable_id=mikey-youtube-video-001 或同标题的正式来源。"
+    },
+    {
+      "type": "full_transcript_shingle_compare",
+      "detail": "将本片 S00001-S00477（0.00-658.15秒）全文规范化后，与正式 source-index 指向的全部正式全文逐一比较；12字符shingle交集最高仍为0，未发现逐字整片或剪辑复用。6字符shingle最高覆盖仅0.577%，最高对象 mikey-youtube-live-002；其次9zRpsnsPGxU与quark-live-021各约0.552%，属于需求感、吸引、关系推进等通用主题词重合，不构成同一内容。"
+    },
+    {
+      "type": "distinctive_anchor_search",
+      "detail": "在正式 references 中检索“注意力马上就会跑到女人身上”“关系需求不清晰”“想推还是想划清界限”“新疆的长期”“需求感就会抓住”等本片独特表达，未找到对应整案；“攻击性”“强行为线索”“3060原则”等只在其他来源出现为跨期主题。"
+    },
+    {
+      "type": "visual_compare_scope",
+      "detail": "已读取 visual/manifest.json 并查看全部15张45秒间隔 sampled JPG（000001-000015）；画面为新剪辑的四阶段学员案例，含Mikey棚内讲解、打码聊天反馈、学员视频回访和阶段标题。未见能把本片认定为既有完整来源复用的视觉证据。"
+    }
+  ]
+}

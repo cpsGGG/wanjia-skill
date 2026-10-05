@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-019",
+  "youtube_id": "X2hSCB-EtEQ",
+  "review_completed": true,
+  "items": [
+    {"review_id": "v019-r01", "severity": "blocking_for_new_weight", "category": "content_reuse", "issue": "The upload substantially reproduces formal mikey-gameshengjing-000, with 79.183% 12-character target containment and the same ordered course pitch/montage.", "affected_evidence": ["S00001-S00095", "sampled frames 000001-000005"], "disposition": "Assign zero source and claim weight; preserve only as a public URL/packaging pointer."},
+    {"review_id": "v019-r02", "severity": "blocking_for_outcome_claim", "category": "marketing_and_results", "issue": "The video claims beginners can reach eight or nine sexual outcomes per month and become coach-level practitioners.", "affected_evidence": ["S00034-S00045"], "disposition": "Require cohort definition, measurement, denominator, follow-up, consent audit and independent verification; otherwise do not use as efficacy evidence."},
+    {"review_id": "v019-r03", "severity": "major", "category": "critical_asr", "issue": "A single ASR segment spans 55 seconds of the topic montage, and terms such as '封号/解封/停更', student count and strong-behavior wording may be misrecognized.", "affected_evidence": ["S00012", "S00025", "S00091-S00092"], "disposition": "Listen to the original audio and split the montage before exact quotation; this is unnecessary for the current zero-weight reuse decision."},
+    {"review_id": "v019-r04", "severity": "major", "category": "marketing_privacy", "issue": "Frame 000005 displays a QR code and personal/course contact handles.", "affected_evidence": ["sampled frame 000005"], "disposition": "Do not reproduce contact identifiers in a formal evidence bundle without a specific need and current privacy/marketing review."}
+  ]
+}

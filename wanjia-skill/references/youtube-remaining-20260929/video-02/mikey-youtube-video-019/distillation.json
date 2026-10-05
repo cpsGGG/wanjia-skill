@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-019",
+  "youtube_id": "X2hSCB-EtEQ",
+  "title": "史上最强把妹课程丨搭讪玩家处女作丨预告",
+  "coverage": {
+    "transcript_segments_read": 95,
+    "transcript_time_range_seconds": [0.0, 214.48],
+    "sparse_frames_reviewed": 5,
+    "dense_frames_reviewed": 0,
+    "continuous_original_audio_visual_review": false,
+    "dedup": "reuse of formal mikey-gameshengjing-000; 12-character shingle target containment 79.183%; weight zero"
+  },
+  "timeline": [
+    {"start": 0.0, "end": 24.40, "summary": "Mikey marks the channel's third year and nearly 100,000 followers, then promotes himself as willing and able to say, film and know more than competitors.", "speaker": "Mikey"},
+    {"start": 24.40, "end": 60.20, "summary": "He says the channel will move toward advanced material and introduces the Game圣经 course as a synthesis of recurring questions from more than a thousand students.", "speaker": "Mikey; quantities are promotional self-report"},
+    {"start": 60.20, "end": 104.96, "summary": "He makes outcome claims for beginners and intermediate learners, lists 28 lessons across cognition, messaging and field practice, and advertises a personal telephone consultation.", "speaker": "Mikey; course marketing"},
+    {"start": 104.96, "end": 121.42, "summary": "He closes the main pitch by promising faster relationship progress and an idealized transformation into a 'perfect man'.", "speaker": "Mikey; aspirational marketing"},
+    {"start": 121.42, "end": 214.48, "summary": "A montage previews course topics such as getting dates, meeting channels, profile evaluation and 'strong behavioral cues', with a long music/edit gap and final slogan.", "speaker": "Mikey in repackaged course excerpts"}
+  ],
+  "claims": [
+    {"claim_id": "v019-c01", "speaker": "Mikey", "statement": "He says he and his team built the course by summarizing recurring problems from more than a thousand students.", "conditions": "Unverified marketing and volume claim; the underlying student records and sampling method are not supplied.", "evidence": ["S00023-S00033@45.28-63.86"], "use_level": "hold", "knowledge_status": "hold_pending_independent_review", "reuse_note": "Already present in formal mikey-gameshengjing-000; no new weight."},
+    {"claim_id": "v019-c02", "speaker": "Mikey", "statement": "He claims the course can move a beginner to eight or nine sexual outcomes per month and help intermediate learners become high-level practitioners comparable to coaches.", "conditions": "Unverified sexual-outcome and training-effect claim with no denominator, follow-up, consent audit or independent measurement; not actionable guidance.", "evidence": ["S00034-S00045@63.86-81.78"], "use_level": "do_not_generalize", "knowledge_status": "hold_pending_independent_review", "reuse_note": "Already present in formal mikey-gameshengjing-000; no new weight."},
+    {"claim_id": "v019-c03", "speaker": "Mikey", "statement": "He presents the course as 28 lessons spanning cognition, online chat and live practice, plus a one-to-one telephone consultation.", "conditions": "Course-description metadata at the time of recording; availability and fulfillment are not independently verified.", "evidence": ["S00046-S00061@81.78-104.96"], "use_level": "hold", "knowledge_status": "hold_pending_independent_review", "reuse_note": "Already present in formal mikey-gameshengjing-000; no new weight."},
+    {"claim_id": "v019-c04", "speaker": "Mikey", "statement": "The montage says attraction comes from 'strong behavioral cues' and confidence expressed from within rather than only looks, money or romance.", "conditions": "Only a teaser statement; the 55-second ASR gap and montage do not provide a full argument or test of the claim.", "evidence": ["S00083-S00092@143.91-211.28"], "use_level": "hold", "knowledge_status": "hold_pending_independent_review", "reuse_note": "Course-preface reuse; use the formal source and later dedicated material for context."}
+  ],
+  "examples": [],
+  "speaker_attribution": [
+    {"speaker": "Mikey", "basis": "Single on-camera studio presenter, repeated self-identification and consistent course branding across all sampled frames."},
+    {"speaker": "students/course buyers", "basis": "Only referenced as a population whose questions were allegedly summarized; no student independently speaks in the sampled upload."}
+  ],
+  "visual_findings": [
+    "All five sampled frames were opened. Frames 000001-000003 show the same single-host studio pitch with Game圣经 branding; frame 000004 is a full-screen slogan and frame 000005 is a later studio promotion with QR/contact details.",
+    "No chats, participant switches or independent outcome evidence appear in the sparse sample. The QR code and contact handles are marketing identifiers and should not be republished as knowledge evidence.",
+    "The visual design and topic montage support the match to formal mikey-gameshengjing-000 but do not verify claimed student counts or results."
+  ],
+  "permissions": {
+    "formal_integration": false,
+    "knowledge_status": "hold_pending_independent_review",
+    "first_person_allowed": false,
+    "action_advice_allowed": false,
+    "speaker_restriction": "Only Mikey's promotional statements may be attributed to him; claimed student outcomes remain unverified marketing.",
+    "safety_restriction": "Sexual outcome counts, 'sexual resources' and rapid progression claims cannot become performance targets or advice.",
+    "reuse_policy": "Zero-weight reuse of formal mikey-gameshengjing-000; retain only as public packaging evidence."
+  },
+  "limitations": [
+    "Automatic transcript was read in full but not checked word-for-word against original audio.",
+    "The 156.27-211.28 ASR segment collapses a 55-second montage and cannot support sentence-level quotation.",
+    "Sparse visual screening is not continuous audio-visual review.",
+    "The upload is overwhelmingly a course advertisement and supplies no independent evidence for efficacy or outcomes."
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-001",
+  "youtube_id": "GQ6Md8q2R30",
+  "review_completed": true,
+  "items": [
+    {
+      "id": "mikey-youtube-video-001-r001",
+      "severity": "blocking",
+      "category": "speaker_attribution",
+      "issue": "自动稿没有说话人标签，开场和多段回访在Mikey、学员之间切换。当前按剪辑语境列出候选区间，但未做声纹或逐句原音核验。",
+      "evidence": ["S00001-S00009@0.00-13.80", "S00091-S00103@130.15-149.75", "S00144-S00153@212.55-227.35", "S00208-S00224@300.05-315.55", "S00255-S00273@354.75-372.35", "S00399-S00410@526.85-547.15"],
+      "impact": "若错归，会把学员自述写成Mikey亲历或把导师判断写成学员事实。",
+      "required_review": "用原音、画面切换与明确自称逐句确认回访区间；无法确认的句子保持‘学员/Mikey对话中提出’。"
+    },
+    {
+      "id": "mikey-youtube-video-001-r002",
+      "severity": "blocking",
+      "category": "consent_and_boundary",
+      "issue": "视频使用‘攻击性、转场、私密空间、拿到结果、扑’等术语，并展示对方犹豫后连续施压的失败案例；必须防止将阶段技巧解释为可越过拒绝。",
+      "evidence": ["S00057-S00079@85.25-114.15", "S00131-S00143@192.95-212.55", "S00232-S00254@328.15-354.75"],
+      "impact": "可能生成高影响的性推进建议。",
+      "required_review": "只保留停止补消息、按反馈调整和明确同意边界；任何犹豫、不回复、拒绝或离开均不得改写为窗口。"
+    },
+    {
+      "id": "mikey-youtube-video-001-r003",
+      "severity": "major",
+      "category": "critical_asr",
+      "issue": "若干核心术语疑似ASR错识或缺失：S00125为‘XXX’，S00162‘技能交得太快’可能实际为‘进度/意图给得太快’，S00201‘把状态给占占’、S00469‘强心的线索’亦不可靠。",
+      "evidence": ["S00123-S00126@181.85-186.45", "S00157-S00171@229.95-251.75", "S00194-S00204@280.25-297.15", "S00463-S00469@638.65-647.05"],
+      "impact": "否定词或术语错误会改变核心方法。",
+      "required_review": "接入前回听原音并修正这些词；未核验时不得逐字引用。"
+    },
+    {
+      "id": "mikey-youtube-video-001-r004",
+      "severity": "major",
+      "category": "numbers_and_results",
+      "issue": "‘3060原则’的含义、两个长期关系、一次转场/结果、7月22日复盘和后续关系回归均为讲者/学员自述或截图。",
+      "evidence": ["S00172-S00201@251.75-292.15", "S00225-S00240@315.55-337.65", "S00305-S00321@406.55-424.85", "S00383-S00398@499.25-526.85"],
+      "impact": "可能把营销案例结果当作已验证事实或疗效。",
+      "required_review": "数字和结果仅以‘视频自述/截图显示’表述；不要计算成功率或导师因果。"
+    },
+    {
+      "id": "mikey-youtube-video-001-r005",
+      "severity": "blocking",
+      "category": "third_party_privacy",
+      "issue": "15张抽帧中多处含学员私聊、关系与性经历、工作/同居/情绪细节；000014虽像素化脸部，仍可能通过声音、衣着、背景识别。",
+      "evidence": ["frames 000003,000006-000014"],
+      "impact": "未经授权接入或分发会暴露第三方敏感信息。",
+      "required_review": "正式包只保留脱敏文字结论；如保留画面，需裁掉头像、时间、身份、聊天细节并核对授权。"
+    },
+    {
+      "id": "mikey-youtube-video-001-r006",
+      "severity": "major",
+      "category": "relationship_autonomy",
+      "issue": "伴侣想外出工作/恢复生活后，视频从学员视角讨论‘挽回’；后续对方回归信号来自单方截图。",
+      "evidence": ["S00349-S00382@456.15-499.25", "frames 000011-000013"],
+      "impact": "可能把对方自主选择误写成需要控制的关系危机。",
+      "required_review": "保留‘先厘清自己需求’；明确对方有权工作、离开、不同意同居或结束关系。"
+    },
+    {
+      "id": "mikey-youtube-video-001-r007",
+      "severity": "major",
+      "category": "marketing_claim",
+      "issue": "视频把学员转场、两段长期关系和阶段变化归因于Mikey私教，并以‘众多学员中的一个’推广课程。",
+      "evidence": ["S00225-S00240@315.55-337.65", "S00305-S00317@406.55-419.95", "S00450-S00473@614.65-654.25"],
+      "impact": "缺少对照和独立验证，不能作为课程效果或因果证据。",
+      "required_review": "作为营销自述标记；不得转成成功率、保证或普遍效果。"
+    },
+    {
+      "id": "mikey-youtube-video-001-r008",
+      "severity": "major",
+      "category": "visual_sequence",
+      "issue": "45秒抽帧显示四阶段和多组截图，但不能证明截图原始时间顺序、是否有删节或短暂否定/拒绝画面。",
+      "evidence": ["visual/manifest.json interval_seconds=45", "frames 000001-000015"],
+      "impact": "可能把剪辑叙事当作完整案例时间线。",
+      "required_review": "若要引用具体聊天顺序或关系转折，需连续看对应窗口或保留为‘剪辑呈现’。"
+    }
+  ]
+}

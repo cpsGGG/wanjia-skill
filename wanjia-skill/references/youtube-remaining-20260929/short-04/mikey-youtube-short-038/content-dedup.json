@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-038",
+  "youtube_id": "Vi9Jw-UOwVU",
+  "decision": "reuse",
+  "reuse_of": "formal_approach_case_cluster",
+  "formal_weight_if_integrated": 0,
+  "compared_sources": [
+    {"scope": "formal_mikey_guide_202_sources", "comparison": "exact ID/URL, distinctive transcript phrases, approach-case semantics"},
+    {"scope": "youtube_pipeline_video_01_to_05_and_short_01_to_03", "comparison": "exact ID/URL, transcript and semantic reuse screen"},
+    {"scope": "formal_semantic_sources", "source_ids": ["mikey-approach-002", "mikey-practice-005", "mikey-gameshengjing-019"], "comparison": "direct approach, brief context question, and exit when the exchange does not develop"}
+  ],
+  "evidence": [
+    {"type": "identity", "result": "no_exact_id_or_url_match"},
+    {"type": "transcript", "result": "no_exact_parent_excerpt_located", "basis": "Distinctive phrase searches across formal sources and completed pipeline batches did not locate the full exchange verbatim."},
+    {"type": "semantic_reuse", "result": "already_represented", "basis": "The clip only demonstrates a direct approach, a travel/local-status question, and a short goodbye; these steps are already covered by formal approach cases and teaching sources."},
+    {"type": "visual", "result": "single_street_interaction", "basis": "All 7 sampled frames show the same street interaction, phone handling, and separation; there is no teaching commentary or verified later outcome."}
+  ],
+  "boundary": "Retain as a zero-weight case excerpt. It adds no independently supported method claim and must not be counted as separate corroboration."
+}

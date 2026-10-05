@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-008",
+  "youtube_id": "jOgZRlESuv0",
+  "decision": "reuse",
+  "reuse_of": "EIcItpA_RZU",
+  "formal_weight_if_integrated": 0,
+  "compared_sources": [
+    {"scope": "formal_mikey_guide", "source_count": 202, "comparison": "youtube_id_url_normalized_transcript_and_visual_context"},
+    {"source_id": "EIcItpA_RZU", "title": "2026-06-29 - 重聊 我的来时路2", "comparison": "ordered long-form passage S01723-S01793"},
+    {"source_id": "quark-live-044", "title": "直播71_上海把妹体验分享", "comparison": "semantic phrase screen; not selected as the underlying recording"}
+  ],
+  "evidence": [
+    {"type": "ordered_content_alignment", "result": "same_underlying_passage", "basis": "The formal source discusses asset allocation, buying a Ferrari while young, the different feeling at older ages, enriching the 'local history record,' and preserving the experience as a future memory in the same order at S01723-S01793."},
+    {"type": "exact_phrase", "result": "match_with_asr_variation", "short_evidence": "S00012-S00016@37.46-59.16", "formal_evidence": "EIcItpA_RZU:S01753-S01779@4503.02-4578.81"},
+    {"type": "visual", "result": "consistent_with_same_livestream", "basis": "All 23 sampled frames show Mikey in one striped-shirt studio shot; no separate visual event is added."}
+  ],
+  "boundary": "A vertical excerpt of formal source EIcItpA_RZU. Preserve as alternate public pointer and clearer subtitle evidence only; add zero independent source, claim or outcome weight."
+}

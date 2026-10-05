@@ -1,0 +1,113 @@
+{
+  "source_id": "mikey-youtube-video-refresh-001",
+  "status": "ACTUAL_STILL_REVIEW_COMPLETE_WITH_OPEN_LIMITS",
+  "coverage": {
+    "sparse_frames_read": 83,
+    "contact_sheets_read": 6,
+    "original_resolution_frames_read": 18,
+    "automatic_transcript_segments_read": 1727,
+    "continuous_audio_visual": "NOT_RUN",
+    "original_audio_listening": "NOT_RUN"
+  },
+  "observations": [
+    {
+      "range_seconds": [
+        0,
+        1113
+      ],
+      "type": "edited_livestream_reuse_with_phone_panel",
+      "description": "左侧针织上衣主持人、直播评论；右侧手机/聊天/资料界面。新片另加章节条、字幕、红框，所示私聊为筛选过的案例材料。"
+    },
+    {
+      "range_seconds": [
+        90,
+        135
+      ],
+      "type": "profile_and_contact_messages",
+      "description": "社交个人主页和联络消息切换。个人识别与地点线索不复制；界面本身不证实主讲对账号和关系的判断。"
+    },
+    {
+      "range_seconds": [
+        240,
+        480
+      ],
+      "type": "private_messages_and_social_text",
+      "description": "私聊消息、另一方长文/帖子在讲解中出现。主讲的评论与被转述内容属于不同归属层。"
+    },
+    {
+      "range_seconds": [
+        480,
+        555
+      ],
+      "type": "voice_video_controls_and_privacy_claim",
+      "description": "显示语音、视频通话类条目，同时主讲讨论拍摄/同意等。控制条不证明回放和授权，第三方允许也不能替代其他人的许可。"
+    },
+    {
+      "range_seconds": [
+        570,
+        660
+      ],
+      "type": "blurred_third_party_video_like_panel",
+      "description": "手机竖屏中出现模糊第三方人脸和小画中画；不能仅凭标题、聊天或位置确认是谁，或确认当时是否直播/回放。"
+    },
+    {
+      "range_seconds": [
+        690,
+        1113
+      ],
+      "type": "private_messages_document_attachment_call_records",
+      "description": "交替聊天、照片/文件/书籍附件、通话时长类记录和要求后续视频的选中消息。原字、昵称、文档和头像只留研究。"
+    },
+    {
+      "range_seconds": [
+        1113,
+        1114
+      ],
+      "type": "observed_transition_window",
+      "description": "1113秒原尺寸帧仍为直播手机布局，1114秒原尺寸帧已转为另一机位的衬衫主讲；过渡边界在两帧之间，未逐帧确定。"
+    },
+    {
+      "range_seconds": [
+        1114,
+        2195
+      ],
+      "type": "inserted_call_like_dialogue",
+      "description": "正面另一机位、衬衫主讲持续说话并停顿回应。顶部章节明确标为视频通话开导案例人物；自动稿包含双方往返。画面只显示主讲一侧，来电者真实身份与每句声音归属未做原音映射。"
+    },
+    {
+      "range_seconds": [
+        2195,
+        2196
+      ],
+      "type": "observed_transition_window",
+      "description": "2195秒原尺寸帧仍为衬衫机位，2196秒已回到直播手机布局，字幕转为主讲声称对方要求录音录像。该声称不能当同意验证。"
+    },
+    {
+      "range_seconds": [
+        2196,
+        2335
+      ],
+      "type": "edited_livestream_reuse_end",
+      "description": "回到旧直播的选中私聊、后续关系/出游/课程叙述。描述是主讲版本，不把聊天展示当成事实、付款目的或方法有效性证明。"
+    },
+    {
+      "range_seconds": [
+        2335,
+        2433.741
+      ],
+      "type": "music_card_and_tail_uncertainty",
+      "description": "末段右侧有音乐分享卡片，画面保持直播形式直至渐暗。2390、2401、2433原尺寸帧均未见ASR所谓电视剧字样；无原音听校，片尾异常仅能保持未定/禁引。"
+    }
+  ],
+  "attribution_and_privacy_limits": [
+    "83帧/6联系表覆盖全时长，另外18张原尺寸关键/边界帧实际查看；仍不是全片连续音画核验。",
+    "17分多钟插入段包含主讲与另一人对谈，不能将全段ASR都归为Mikey。",
+    "字卡/红框/章节标题为剪辑作者层；私聊、社交文案、文档、通话条目和第三方人脸是材料层。",
+    "没有完成所有聊天原字与每次滚动顺序的逐句核验，真实性、缺失上下文、授权、医学和法律事实仍开放。",
+    "S01727原时间超媒体28.699秒；原字幕与音频是否有该句未知，裁时不解除禁引。"
+  ],
+  "first_person_allowed": false,
+  "action_advice_allowed": false,
+  "runtime_answer_allowed": false,
+  "pixels_safe_for_formal": false
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-033",
+  "youtube_id": "0hG_JSFWXwE",
+  "review_completed": true,
+  "items": [
+    {"review_id": "v033-r01", "severity": "blocking", "category": "asr_media_mismatch", "issue": "The final ASR end is 972.90 seconds, 5.65 seconds beyond the 967.25-second media duration, and the tail is multilingual noise.", "affected_evidence": ["S00502-S00513"], "disposition": "Clamp coverage to 967.25 seconds; do not cite beyond the media or use S00502-S00513 for semantic claims."},
+    {"review_id": "v033-r02", "severity": "blocking", "category": "gender_generalization", "issue": "The upload describes women as physically and logically disadvantaged, innately fearful and governed by a single mating mechanism.", "affected_evidence": ["S00163-S00215"], "disposition": "Do not generalize or use for advice, capacity judgments or consent inference."},
+    {"review_id": "v033-r03", "severity": "major", "category": "pseudoscience", "issue": "The 'hunter traits' model is presented as an evolved attraction code without cited research or competing explanations.", "affected_evidence": ["S00103-S00240"], "disposition": "Keep only as Mikey's framework; require primary research and expert review before scientific use."},
+    {"review_id": "v033-r04", "severity": "major", "category": "third_party", "issue": "Named celebrity relationships and subcultures are used as proof of attraction mechanisms.", "affected_evidence": ["S00258-S00328", "sampled frames 000013-000016"], "disposition": "Do not repeat allegations or infer motives from edited public examples without primary verification."},
+    {"review_id": "v033-r05", "severity": "major", "category": "developmental_causality", "issue": "Appearance feedback, bullying and parenting are used to predict adult confidence and attraction outcomes.", "affected_evidence": ["S00374-S00455"], "disposition": "Treat as possible pathways only; do not diagnose users or families."},
+    {"review_id": "v033-r06", "severity": "minor", "category": "source_and_asr", "issue": "Book titles, author names, technical terms and closing material are unstable in ASR and lack citations.", "affected_evidence": ["S00019-S00080", "S00501-S00513"], "disposition": "Verify original audio and primary texts before quotation or attribution."}
+  ]
+}

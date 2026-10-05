@@ -1,0 +1,117 @@
+{
+  "stable_id": "mikey-youtube-video-029",
+  "media_sha256": "c91be2e80f61dc36651c22db06b88eef9353416083b3cc0052a8bf7929cf8bdc",
+  "interval_seconds": 45,
+  "scope": "sparse_screening_plus_targeted_chat_window_not_continuous_av_review",
+  "frames": [
+    {
+      "file": "work/mikey-youtube-video-029/visual/sampled/000001.jpg",
+      "sha256": "51c58471156791c32664a7a6e0387abbb7127dd9b9b84dd98b65935de3e88dfa"
+    },
+    {
+      "file": "work/mikey-youtube-video-029/visual/sampled/000002.jpg",
+      "sha256": "13e31e3ead41c47cc283750cbf56e9ef847c2646be76c195186e645aa4d5deb3"
+    },
+    {
+      "file": "work/mikey-youtube-video-029/visual/sampled/000003.jpg",
+      "sha256": "bb7a1e319b422839a53a3306bb11ffe604f03b52914d5622f820f1685b4835e5"
+    },
+    {
+      "file": "work/mikey-youtube-video-029/visual/sampled/000004.jpg",
+      "sha256": "a01126a29c0f77fafab81f4c75bfb938f23ad2fc976d46c00d6358572acdd364"
+    },
+    {
+      "file": "work/mikey-youtube-video-029/visual/sampled/000005.jpg",
+      "sha256": "7684b6e03d587d2ff0cfa4b9d53c61bafdebc4d75502db5b032f3e71666d72b5"
+    },
+    {
+      "file": "work/mikey-youtube-video-029/visual/sampled/000006.jpg",
+      "sha256": "b1f82fc9450ed1ac1d00c09eece09ba22b5077174638a8d65fa7da878d6936ac"
+    },
+    {
+      "file": "work/mikey-youtube-video-029/visual/sampled/000007.jpg",
+      "sha256": "616b7fede175083e9f6cb55fb41ee3596925cfb401b7c2c0c2447ded9c3cf081"
+    },
+    {
+      "file": "work/mikey-youtube-video-029/visual/sampled/000008.jpg",
+      "sha256": "162b9e4ea2d2373d9b6e4b4ea5bcdf955d0a9eff1690a174a35df435cd5830ef"
+    },
+    {
+      "file": "work/mikey-youtube-video-029/visual/sampled/000009.jpg",
+      "sha256": "bf0f4558584757250dc0b2f628277efabb8220c476abfbbc7c3ea8059a613e49"
+    },
+    {
+      "file": "work/mikey-youtube-video-029/visual/sampled/000010.jpg",
+      "sha256": "89af2f86bb293ffaae9ebcdb275ab59b4cdbe559379ffe34f7427d6a4ad4019f"
+    },
+    {
+      "file": "work/mikey-youtube-video-029/visual/sampled/000011.jpg",
+      "sha256": "23ece8a56bacfd6fadebd26c107559eca283c4c478cb294e0df108684140be25"
+    },
+    {
+      "file": "work/mikey-youtube-video-029/visual/sampled/000012.jpg",
+      "sha256": "0a76332549dc7041c22527ab3bd4ab06f9d02f76412cd8d9d7f09a03c70a2ff4"
+    }
+  ],
+  "targeted_review": {
+    "window_seconds": [
+      267.0,
+      279.0
+    ],
+    "reason": "1080p re-review found an edited chat collage omitted by the earlier 360p sparse screening",
+    "frames": [
+      {
+        "file": "work/mikey-youtube-video-029/visual/targeted/001.jpg",
+        "sha256": "9504d528e0e8d79879457a4fc7dba42973d552787f703cce4fdd58657bffffaa"
+      },
+      {
+        "file": "work/mikey-youtube-video-029/visual/targeted/002.jpg",
+        "sha256": "6f9424776761a753e89384345b1f5244f75d4b73b2b774cd66ea2332a437b750"
+      },
+      {
+        "file": "work/mikey-youtube-video-029/visual/targeted/003.jpg",
+        "sha256": "dc4fac85d289ef79042e974452ba6340c00b8f677596b702c1830d2aaa33e3fa"
+      },
+      {
+        "file": "work/mikey-youtube-video-029/visual/targeted/004.jpg",
+        "sha256": "ffd4fcf87fa95c03a524d94b2ea8e73159328adf0aa015b5bcfe6c8938091fd9"
+      },
+      {
+        "file": "work/mikey-youtube-video-029/visual/targeted/005.jpg",
+        "sha256": "55d68e165cc5f1dbed82cddae66260942248f00ee68cab6847c83215a868c30c"
+      },
+      {
+        "file": "work/mikey-youtube-video-029/visual/targeted/006.jpg",
+        "sha256": "80dbf05de89be913f3d573882a6c83f15ca7d1d0ebbea29f36a880ae9a28217c"
+      },
+      {
+        "file": "work/mikey-youtube-video-029/visual/targeted/007.jpg",
+        "sha256": "e74cfc5bac1391f655cda9e707d2e455d9c857880baeb9ddf124dc1c2ffb5543"
+      },
+      {
+        "file": "work/mikey-youtube-video-029/visual/targeted/008.jpg",
+        "sha256": "c4c14f7f47b970c3e674d78e438bab3d7ed34e943b610b4b35862c84cbeee405"
+      },
+      {
+        "file": "work/mikey-youtube-video-029/visual/targeted/009.jpg",
+        "sha256": "009007fe32710afa139e98a05c43757394efa98a713cf353ee3e1566720f0c88"
+      },
+      {
+        "file": "work/mikey-youtube-video-029/visual/targeted/010.jpg",
+        "sha256": "6defeda62271df6c83f8f50c5112f40bd2cf26727e1c3281a75a04291491ef87"
+      },
+      {
+        "file": "work/mikey-youtube-video-029/visual/targeted/011.jpg",
+        "sha256": "4e1201cf40af6147f74547472b858030a0df3514ab44affb6c85109b9c7e84a0"
+      },
+      {
+        "file": "work/mikey-youtube-video-029/visual/targeted/012.jpg",
+        "sha256": "411f9600efb1872f5b3a89fe963d9c6ddbd4a27c1f41d909b5766dd632b8d097"
+      },
+      {
+        "file": "work/mikey-youtube-video-029/visual/targeted/0273.5s-chat-collage.jpg",
+        "sha256": "368f3f1d341f8557922c81ff11980e837ff163b5ed9bf44961887d6a9c84aca4"
+      }
+    ]
+  }
+}

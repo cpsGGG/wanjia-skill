@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-044",
+  "youtube_id": "wVlG5mlGWbI",
+  "title": "搭讪开场的松驰感，别再背收号台词了",
+  "coverage": {"transcript_segments_read": 102, "transcript_time_range_seconds": [1.74, 141.35], "semantic_media_range_seconds": [0.0, 151.092245], "sparse_frames_reviewed": 3, "dense_frames_reviewed": 0, "continuous_original_audio_visual_review": false},
+  "timeline": [
+    {"start": 0.0, "end": 35.06, "summary": "Case one: a man compliments a woman's Matrix-like outfit, identifies the interaction as an approach, and they discuss the surprise or fear caused by a stranger suddenly speaking."},
+    {"start": 35.06, "end": 74.88, "summary": "He says he hesitated for about 30 seconds. After she asks to use the restroom, he proposes exchanging WeChat; later dialogue mentions not normally adding contacts and his interpretation of a green light before goodbye."},
+    {"start": 74.88, "end": 107.88, "summary": "A hard cut starts case two with a different woman and companion. He asks about shopping, compliments clothing, says he wants to meet, and requests WeChat."},
+    {"start": 107.88, "end": 141.35, "summary": "Case two continues through origin, student status, busy schedule and a future outing proposal, followed by brief assent and goodbye."},
+    {"start": 141.35, "end": 151.092245, "summary": "No reliable ASR; ending does not verify a saved contact or future meeting."
+    }
+  ],
+  "claims": [
+    {"claim_id": "v044-c01", "speaker": "first approached woman, attribution from dialogue context", "statement": "She says a stranger suddenly speaking can feel frightening or startling.", "conditions": "Localized participant feedback, not a universal response; it supports keeping approaches visible, low-pressure and easy to end.", "evidence": ["S00009-S00025@16.06-41.06"], "reuse_note": "Covered by mikey-approach-010-K0001/K0002.", "use_level": "context_only", "knowledge_status": "reuse_zero_weight_pending_independent_review"},
+    {"claim_id": "v044-c02", "speaker": "field man", "statement": "He names his intent to meet and uses situational clothing compliments rather than a hidden pretext in both cases.", "conditions": "Direct intent does not override a request to leave, discomfort or refusal.", "evidence": ["S00001-S00009@1.74-17.06", "S00050-S00075@74.88-107.88"], "reuse_note": "Covered by mikey-approach-010-K0001/K0005.", "use_level": "context_only", "knowledge_status": "reuse_zero_weight_pending_independent_review"},
+    {"claim_id": "v044-c03", "speaker": "field participants, turns partly uncertain", "statement": "When the first woman asks to go to the restroom, the man converts the interaction into a contact request and later labels the exception as a green light.", "conditions": "A need to leave takes priority. Brief assent or an exception to a contact rule is not broader romantic or ongoing consent.", "evidence": ["S00026-S00049@41.06-74.88"], "reuse_note": "Covered by mikey-approach-010-K0003/K0004.", "use_level": "hold", "knowledge_status": "reuse_zero_weight_pending_independent_review"},
+    {"claim_id": "v044-c04", "speaker": "field participants, turns partly uncertain", "statement": "In the second case, basic information exchange proceeds to a future outing proposal and a short affirmative response.", "conditions": "Edited speech and unreadable phone actions do not prove contact exchange or that the future outing occurred.", "evidence": ["S00076-S00102@107.88-141.35"], "reuse_note": "Covered by mikey-approach-010-K0005.", "use_level": "hold", "knowledge_status": "reuse_zero_weight_pending_independent_review"}
+  ],
+  "examples": [
+    {"example_id": "v044-e01", "summary": "Two distinct public interactions are joined by a hard cut around 74.88 seconds and must not be combined into one successful progression.", "evidence": ["S00001-S00049", "S00050-S00102"]}
+  ],
+  "speaker_attribution": [
+    {"speaker": "field man", "basis": "Same male participant across both cases, but formal source did not independently prove he is Mikey; retain role attribution."},
+    {"speaker": "first approached woman", "basis": "Black-coat participant visible in frames 000001-000002; precise short turns remain non-diarized."},
+    {"speaker": "second approached woman and companion", "basis": "Different pair visible after the hard cut and in frame 000003; do not merge with case one."}
+  ],
+  "visual_findings": [
+    "All three sampled frames were reviewed. Frames 000001-000002 show the first black-coat participant; frame 000003 shows a different woman with a companion, confirming two separate cases.",
+    "Faces and shopping context are visible. Holding a phone does not establish contact saving or later communication.",
+    "The samples do not show a complete leave sequence, a readable phone screen or a future outing."
+  ],
+  "permissions": {"formal_integration": false, "first_person_allowed": false, "action_advice_allowed": false, "knowledge_status": "reuse_zero_weight_pending_independent_review", "reason": "Duplicate formal source; contact, departure, speaker, privacy and outcome boundaries remain unresolved."},
+  "limitations": ["Automatic transcript was not word-for-word audio checked or diarized.", "Three sparse frames do not equal continuous audio-visual review.", "The two cases are edited and their contact/follow-up outcomes are not verified.", "Filming and publication consent for participants and bystanders are unknown."]
+}

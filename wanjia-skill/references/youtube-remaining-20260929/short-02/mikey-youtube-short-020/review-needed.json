@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-020",
+  "youtube_id": "6B1DNRjY4mE",
+  "review_completed": true,
+  "items": [
+    {
+      "review_id": "s020-r01",
+      "severity": "blocking",
+      "category": "consent_and_coercion",
+      "issue": "The excerpt positively frames dominance as making another person feel unable to say no and follows a question about sexual escalation.",
+      "affected_evidence": ["s020-c02", "s020-c03", "s020-c04"],
+      "disposition": "Keep action advice and first-person use disabled. Never operationalize these techniques; affirmative, ongoing and revocable consent takes priority."
+    },
+    {
+      "review_id": "s020-r02",
+      "severity": "blocking",
+      "category": "manipulation",
+      "issue": "The implicit-dominance example combines withdrawal, criticism and intermittent reward and explicitly ends with reduced self-esteem.",
+      "affected_evidence": ["S00070-S00095", "s020-c04"],
+      "disposition": "Retain only as an attributed description of a harmful dynamic; do not recommend or simulate it."
+    },
+    {
+      "review_id": "s020-r03",
+      "severity": "major",
+      "category": "asr_and_question_context",
+      "issue": "S00034-S00035 garble the viewer's sexual question, so the precise requested act and context are not reliable.",
+      "affected_evidence": ["S00034-S00035@33.56-37.30"],
+      "disposition": "Paraphrase only at the broad level of a sexual-escalation question; do not quote or infer missing details."
+    },
+    {
+      "review_id": "s020-r04",
+      "severity": "major",
+      "category": "unsupported_taxonomy",
+      "issue": "The alpha/sigma distinction is presented through an imagined ancient-tribe story without evidence.",
+      "affected_evidence": ["s020-c01"],
+      "disposition": "Keep as Mikey's metaphor and never present it as scientific fact."
+    },
+    {
+      "review_id": "s020-r05",
+      "severity": "major",
+      "category": "source_reuse",
+      "issue": "The Short is an edited excerpt already preserved in formal source mikey-youtube-live-025 and overlaps its blocking review R006.",
+      "affected_evidence": ["whole source"],
+      "disposition": "If integrated, retain zero formal weight and inherit the formal source's blocking restriction."
+    }
+  ]
+}

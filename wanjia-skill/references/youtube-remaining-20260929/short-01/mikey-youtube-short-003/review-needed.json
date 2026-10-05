@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-003",
+  "youtube_id": "pcOGT-RUlLk",
+  "review_completed": true,
+  "items": [
+    {"review_id": "s003-r01", "severity": "blocking", "category": "duplicate", "issue": "The third-party video is already embedded in formal live-038 and overlaps the accusation material in video-024.", "affected_evidence": ["whole source"], "disposition": "Reuse at formal weight 0; retain only as a clearer alternate evidence pointer."},
+    {"review_id": "s003-r02", "severity": "blocking", "category": "defamation_and_authenticity", "issue": "The title and montage assert fabrication, team collapse and flight by identifiable people without an independently authenticated evidence chain.", "affected_evidence": ["s003-c01", "title"], "disposition": "Preserve as attributed allegation only; never state the accusations as established fact."},
+    {"review_id": "s003-r03", "severity": "blocking", "category": "speaker_attribution", "issue": "Rapid edits combine at least five visible speakers, screenshots, editor captions and replayed clips; ASR provides no diarization.", "affected_evidence": ["whole source"], "disposition": "Do not assign montage statements to Mikey. Jason is only mapped at the self-identified outro; other speakers remain third-party/unknown."},
+    {"review_id": "s003-r04", "severity": "major", "category": "numbers_and_context", "issue": "The apparent '150' payment and '1000万' claims lack clear unit, date, payer, recipient and original context.", "affected_evidence": ["S00025-S00027", "S00038"], "disposition": "Do not use the amounts as facts or evidence of scale."},
+    {"review_id": "s003-r05", "severity": "major", "category": "editing_and_independence", "issue": "Repeated admissions, editorial labels and multiple people agreeing are all part of one edited dispute chain.", "affected_evidence": ["whole source"], "disposition": "Do not treat repetition as independent corroboration."
+    }
+  ]
+}

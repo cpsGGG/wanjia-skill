@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-017",
+  "youtube_id": "HK4ubB2vW0Q",
+  "title": "和高分的约会，是更高规格的实战训练",
+  "coverage": {
+    "transcript_segments_read": 51,
+    "transcript_time_range_seconds": [0.0, 84.54],
+    "semantic_media_range_seconds": [0.0, 69.032925],
+    "sampled_frames_reviewed": 23,
+    "continuous_original_audio_visual_review": false,
+    "excluded_asr_tail": "S00035-S00051 extend beyond the audited media duration and are excluded from claims."
+  },
+  "timeline": [
+    {"start": 0.0, "end": 18.0, "summary": "Asked whether relaxed dating comes from accumulating sessions, Mikey says both repetition and the perceived difficulty or social status of partners affect learning."},
+    {"start": 18.0, "end": 31.6, "summary": "He describes the course as preserving a student's personality baseline while optimizing it and adding missing strengths."},
+    {"start": 31.6, "end": 57.62, "summary": "Asked how to make a girlfriend accept other partners, he recommends displaying abundance and argues that a heavily invested partner may tolerate it."},
+    {"start": 57.62, "end": 69.032925, "summary": "He contrasts a new, lightly invested partner who may simply leave. The media ends here; the remaining ASR is excluded as hallucinated tail."}
+  ],
+  "claims": [
+    {"claim_id": "s017-c01", "speaker": "Mikey", "statement": "Social composure develops through both repetition and harder practice contexts; he claims one date with a highly desired woman can teach more than many easy encounters.", "conditions": "Unmeasured coaching claim using derogatory rankings of women; do not treat people as training objects.", "evidence": ["S00001-S00007@0.00-18.00"], "use_level": "hold"},
+    {"claim_id": "s017-c02", "speaker": "Mikey", "statement": "His stated coaching model is to preserve a person's underlying character while optimizing it and adding missing strengths.", "conditions": "High-level self-development framing; the short does not define objective evaluation criteria or outcomes.", "evidence": ["S00008-S00012@18.54-31.60"], "use_level": "context_only"},
+    {"claim_id": "s017-c03", "speaker": "Mikey", "statement": "He advises signaling that one does not need a girlfriend so she will not dare demand exclusivity.", "conditions": "Coercive relationship framing; non-monogamy requires prior informed and freely revocable agreement, not fear or status pressure.", "evidence": ["S00013-S00018@31.60-44.80"], "use_level": "do_not_generalize"},
+    {"claim_id": "s017-c04", "speaker": "Mikey", "statement": "He claims a partner who has invested heavily and feels unable to leave is more likely to accept multiple partners, whereas a new partner may exit.", "conditions": "Sunk-cost manipulation is not consent and must not be turned into advice.", "evidence": ["S00019-S00031@44.80-68.52"], "use_level": "do_not_generalize"}
+  ],
+  "speaker_attribution": [
+    {"speaker": "viewers", "basis": "Questions are read or displayed at the starts of the three Q&A topics."},
+    {"speaker": "Mikey", "basis": "Single visible black-shirt livestream host; transcript strongly aligns with formal live-028."}
+  ],
+  "visual_findings": [
+    "All 23 frames show one continuous black-shirt livestream host with a fixed diagram/chat overlay and added yellow subtitles.",
+    "No girlfriend or dating participant appears; the relationship claims are host commentary, not observed interactions."
+  ],
+  "permissions": {"formal_integration": false, "first_person_allowed": false, "action_advice_allowed": false, "use_level": "reuse_zero_weight", "reason": "Already represented by formal live-028; includes objectification, coercive non-monogamy framing and sunk-cost manipulation."},
+  "limitations": [
+    "The automatic transcript contains an incoherent hallucinated tail after the 69.032925-second media endpoint.",
+    "The short combines several Q&A snippets and omits parent-stream context.",
+    "Claims about women's reactions and training value are not independently validated."
+  ]
+}

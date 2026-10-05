@@ -1,0 +1,767 @@
+{
+  "schema_version": 1,
+  "source_id": "mikey-gameshengjing-000",
+  "title": "搭讪玩家Game圣经-前言",
+  "status": "automatic_unreviewed",
+  "speaker": "not_diarized",
+  "layer": "asr_automatic_citation_view",
+  "notice": "由完整自动稿确定性生成；未人工听校、未区分说话人，不作为准确逐字引语。",
+  "segment_id_policy": "S编号按当前原始自动稿顺序从S00001起；原始自动稿SHA256变化即为另一版本。",
+  "source_revision": "sha256:6d39cd4980261499102cea13b894abd210d9c8cf485b3747ee99d323f6247842",
+  "transcript_revision": "sha256:a22b91e195a155e72b2073d99894f8961bad7cbea2a26ddac4ba3e43c888ce58",
+  "input_transcript_sha256": "a22b91e195a155e72b2073d99894f8961bad7cbea2a26ddac4ba3e43c888ce58",
+  "source": {
+    "kind": "local_file",
+    "local_path": "D:\\startup\\玩家.skill\\gameshengjing\\0.搭讪玩家Game圣经-前言.mp4",
+    "size_bytes": 22662045,
+    "sha256": "6d39cd4980261499102cea13b894abd210d9c8cf485b3747ee99d323f6247842",
+    "start_seconds": 0
+  },
+  "model": "large-v3-turbo",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.28,
+      "text": "哈喽朋友们我是Mike",
+      "avg_logprob": -0.17744883372072587,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00001"
+    },
+    {
+      "start": 1.28,
+      "end": 2.96,
+      "text": "截至今天这期视频",
+      "avg_logprob": -0.17744883372072587,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00002"
+    },
+    {
+      "start": 2.96,
+      "end": 5.68,
+      "text": "搭上玩家TV已经走过了三个年头",
+      "avg_logprob": -0.17744883372072587,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00003"
+    },
+    {
+      "start": 5.68,
+      "end": 8.48,
+      "text": "从零到现在将近十万粉丝",
+      "avg_logprob": -0.17744883372072587,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00004"
+    },
+    {
+      "start": 8.48,
+      "end": 11.12,
+      "text": "而大家选择我呢原因无非有三点",
+      "avg_logprob": -0.17744883372072587,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00005"
+    },
+    {
+      "start": 11.12,
+      "end": 12.52,
+      "text": "就是别人不敢讲的",
+      "avg_logprob": -0.17744883372072587,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00006"
+    },
+    {
+      "start": 12.52,
+      "end": 13.2,
+      "text": "我敢讲",
+      "avg_logprob": -0.17744883372072587,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00007"
+    },
+    {
+      "start": 13.2,
+      "end": 14.36,
+      "text": "而且我会讲得更好",
+      "avg_logprob": -0.17744883372072587,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00008"
+    },
+    {
+      "start": 14.36,
+      "end": 15.52,
+      "text": "别人不敢拍的",
+      "avg_logprob": -0.17744883372072587,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00009"
+    },
+    {
+      "start": 15.52,
+      "end": 16.32,
+      "text": "我敢拍",
+      "avg_logprob": -0.17744883372072587,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00010"
+    },
+    {
+      "start": 16.32,
+      "end": 17.88,
+      "text": "而且我会拍得更棒",
+      "avg_logprob": -0.17744883372072587,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00011"
+    },
+    {
+      "start": 17.88,
+      "end": 19.08,
+      "text": "别人不知道的",
+      "avg_logprob": -0.17744883372072587,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00012"
+    },
+    {
+      "start": 19.08,
+      "end": 20.16,
+      "text": "我都知道",
+      "avg_logprob": -0.17744883372072587,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00013"
+    },
+    {
+      "start": 20.16,
+      "end": 21.28,
+      "text": "我还懂得更多",
+      "avg_logprob": -0.17744883372072587,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00014"
+    },
+    {
+      "start": 21.28,
+      "end": 22.92,
+      "text": "那在分号解分",
+      "avg_logprob": -0.17744883372072587,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00015"
+    },
+    {
+      "start": 22.92,
+      "end": 24.38,
+      "text": "停更这两周里",
+      "avg_logprob": -0.17744883372072587,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00016"
+    },
+    {
+      "start": 24.38,
+      "end": 25.84,
+      "text": "我想了很多事情",
+      "avg_logprob": -0.17744883372072587,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00017"
+    },
+    {
+      "start": 25.84,
+      "end": 26.76,
+      "text": "首先就是",
+      "avg_logprob": -0.17744883372072587,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00018"
+    },
+    {
+      "start": 26.76,
+      "end": 29.32,
+      "text": "之后搭上玩家TV这个频道呢",
+      "avg_logprob": -0.17744883372072587,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00019"
+    },
+    {
+      "start": 29.32,
+      "end": 31.06,
+      "text": "他会分享更多的高阶内容",
+      "avg_logprob": -0.0927565008229603,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00020"
+    },
+    {
+      "start": 31.06,
+      "end": 34.52,
+      "text": "不只拘泥于过去你们所看到的形式",
+      "avg_logprob": -0.0927565008229603,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00021"
+    },
+    {
+      "start": 34.52,
+      "end": 36.7,
+      "text": "这些内容对于小白来讲",
+      "avg_logprob": -0.0927565008229603,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00022"
+    },
+    {
+      "start": 36.7,
+      "end": 38.52,
+      "text": "往往都是听天书",
+      "avg_logprob": -0.0927565008229603,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00023"
+    },
+    {
+      "start": 38.52,
+      "end": 41.5,
+      "text": "第二件事情就是为了照顾到小白",
+      "avg_logprob": -0.0927565008229603,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00024"
+    },
+    {
+      "start": 41.5,
+      "end": 43.72,
+      "text": "甚至绝大部分的中阶选手",
+      "avg_logprob": -0.0927565008229603,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00025"
+    },
+    {
+      "start": 43.72,
+      "end": 45.4,
+      "text": "能理解我所讲的内容",
+      "avg_logprob": -0.0927565008229603,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00026"
+    },
+    {
+      "start": 45.4,
+      "end": 47.48,
+      "text": "那么这段时间我与我的团队",
+      "avg_logprob": -0.0927565008229603,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00027"
+    },
+    {
+      "start": 47.48,
+      "end": 50.62,
+      "text": "汇总了我过去上千个学院的问题",
+      "avg_logprob": -0.0927565008229603,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00028"
+    },
+    {
+      "start": 50.62,
+      "end": 52.92,
+      "text": "并筛选出了其中最重要的问题",
+      "avg_logprob": -0.0927565008229603,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00029"
+    },
+    {
+      "start": 52.92,
+      "end": 53.76,
+      "text": "做了一个总结",
+      "avg_logprob": -0.0927565008229603,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00030"
+    },
+    {
+      "start": 53.76,
+      "end": 56.02,
+      "text": "那么很高兴功夫不负有心人",
+      "avg_logprob": -0.0927565008229603,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00031"
+    },
+    {
+      "start": 56.02,
+      "end": 57.72,
+      "text": "我们打磨出了一套名为",
+      "avg_logprob": -0.0927565008229603,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00032"
+    },
+    {
+      "start": 57.72,
+      "end": 60.18,
+      "text": "搭讪玩家Game圣经的课程",
+      "avg_logprob": -0.09779505045885967,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00033"
+    },
+    {
+      "start": 60.18,
+      "end": 61.32,
+      "text": "而这套课程呢",
+      "avg_logprob": -0.09779505045885967,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00034"
+    },
+    {
+      "start": 61.32,
+      "end": 63.84,
+      "text": "在我看来就是当下版本的答案",
+      "avg_logprob": -0.09779505045885967,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00035"
+    },
+    {
+      "start": 63.84,
+      "end": 65.66,
+      "text": "为什么我能这么笃定呢",
+      "avg_logprob": -0.09779505045885967,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00036"
+    },
+    {
+      "start": 65.66,
+      "end": 66.74,
+      "text": "因为这套课程",
+      "avg_logprob": -0.09779505045885967,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00037"
+    },
+    {
+      "start": 66.74,
+      "end": 69.0,
+      "text": "它不仅能让小白快速升阶",
+      "avg_logprob": -0.09779505045885967,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00038"
+    },
+    {
+      "start": 69.0,
+      "end": 72.34,
+      "text": "成为一个月能起码TD8到9个的中阶选手",
+      "avg_logprob": -0.09779505045885967,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00039"
+    },
+    {
+      "start": 72.34,
+      "end": 75.3,
+      "text": "还能让大部分中阶选手夯实基础",
+      "avg_logprob": -0.09779505045885967,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00040"
+    },
+    {
+      "start": 75.3,
+      "end": 77.98,
+      "text": "以便在未来看我频道分享的视频之后",
+      "avg_logprob": -0.09779505045885967,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00041"
+    },
+    {
+      "start": 77.98,
+      "end": 81.78,
+      "text": "能快速升阶成像我们这种情感导师一样的高阶选手",
+      "avg_logprob": -0.09779505045885967,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00042"
+    },
+    {
+      "start": 81.78,
+      "end": 84.1,
+      "text": "而这套课程的28节课中",
+      "avg_logprob": -0.09779505045885967,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00043"
+    },
+    {
+      "start": 84.1,
+      "end": 85.68,
+      "text": "我会分别从认知",
+      "avg_logprob": -0.09779505045885967,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00044"
+    },
+    {
+      "start": 85.68,
+      "end": 86.36,
+      "text": "网聊",
+      "avg_logprob": -0.09779505045885967,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00045"
+    },
+    {
+      "start": 86.36,
+      "end": 87.02,
+      "text": "实战",
+      "avg_logprob": -0.09779505045885967,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00046"
+    },
+    {
+      "start": 87.02,
+      "end": 89.64,
+      "text": "以及我亲自上阵的实战教学里",
+      "avg_logprob": -0.08801529362322168,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00047"
+    },
+    {
+      "start": 89.64,
+      "end": 90.94,
+      "text": "为你们充分讲解",
+      "avg_logprob": -0.08801529362322168,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00048"
+    },
+    {
+      "start": 90.94,
+      "end": 91.94,
+      "text": "身为一个男人",
+      "avg_logprob": -0.08801529362322168,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00049"
+    },
+    {
+      "start": 91.94,
+      "end": 93.72,
+      "text": "该如何在社会中",
+      "avg_logprob": -0.08801529362322168,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00050"
+    },
+    {
+      "start": 93.72,
+      "end": 96.04,
+      "text": "争取到你最需要的性资源",
+      "avg_logprob": -0.08801529362322168,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00051"
+    },
+    {
+      "start": 96.04,
+      "end": 97.64,
+      "text": "当然在这套课程中",
+      "avg_logprob": -0.08801529362322168,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00052"
+    },
+    {
+      "start": 97.64,
+      "end": 99.9,
+      "text": "同样也会包含我过往",
+      "avg_logprob": -0.08801529362322168,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00053"
+    },
+    {
+      "start": 99.9,
+      "end": 101.96,
+      "text": "油管下架的全部实战",
+      "avg_logprob": -0.08801529362322168,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00054"
+    },
+    {
+      "start": 101.96,
+      "end": 103.0,
+      "text": "全部直播",
+      "avg_logprob": -0.08801529362322168,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00055"
+    },
+    {
+      "start": 103.0,
+      "end": 104.38,
+      "text": "以及搭讪系列的视频",
+      "avg_logprob": -0.08801529362322168,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00056"
+    },
+    {
+      "start": 104.38,
+      "end": 105.84,
+      "text": "同时为了照顾",
+      "avg_logprob": -0.08801529362322168,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00057"
+    },
+    {
+      "start": 105.84,
+      "end": 107.58,
+      "text": "购买课程的每一位兄弟",
+      "avg_logprob": -0.08801529362322168,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00058"
+    },
+    {
+      "start": 107.58,
+      "end": 109.4,
+      "text": "本套课程还附赠一次",
+      "avg_logprob": -0.08801529362322168,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00059"
+    },
+    {
+      "start": 109.4,
+      "end": 111.3,
+      "text": "我Mikey本人的电话咨询",
+      "avg_logprob": -0.08801529362322168,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00060"
+    },
+    {
+      "start": 111.3,
+      "end": 113.42,
+      "text": "一对一为你答疑解惑",
+      "avg_logprob": -0.08801529362322168,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00061"
+    },
+    {
+      "start": 113.42,
+      "end": 115.36,
+      "text": "我与我的团队由衷的希望",
+      "avg_logprob": -0.08801529362322168,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00062"
+    },
+    {
+      "start": 115.36,
+      "end": 117.38,
+      "text": "所有在看我频道的兄弟",
+      "avg_logprob": -0.16080729175536407,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00063"
+    },
+    {
+      "start": 117.38,
+      "end": 120.66,
+      "text": "能去做那个让身边人羡慕的情场老手",
+      "avg_logprob": -0.16080729175536407,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00064"
+    },
+    {
+      "start": 120.66,
+      "end": 122.86,
+      "text": "去快速打通情关",
+      "avg_logprob": -0.16080729175536407,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00065"
+    },
+    {
+      "start": 122.86,
+      "end": 125.66,
+      "text": "从而进阶成一个完美的男人",
+      "avg_logprob": -0.16080729175536407,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00066"
+    },
+    {
+      "start": 125.66,
+      "end": 126.8,
+      "text": "我们要永远记住",
+      "avg_logprob": -0.16080729175536407,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00067"
+    },
+    {
+      "start": 126.8,
+      "end": 127.82,
+      "text": "救赎之道",
+      "avg_logprob": -0.16080729175536407,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00068"
+    },
+    {
+      "start": 127.82,
+      "end": 129.82,
+      "text": "就在其中",
+      "avg_logprob": -0.16080729175536407,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00069"
+    },
+    {
+      "start": 129.82,
+      "end": 136.04,
+      "text": "哈喽大家好",
+      "avg_logprob": -0.16080729175536407,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00070"
+    },
+    {
+      "start": 136.04,
+      "end": 137.3,
+      "text": "我是大厦玩家TV Mikey",
+      "avg_logprob": -0.16080729175536407,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00071"
+    },
+    {
+      "start": 137.3,
+      "end": 137.84,
+      "text": "哈喽大家好",
+      "avg_logprob": -0.16080729175536407,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00072"
+    },
+    {
+      "start": 137.84,
+      "end": 139.06,
+      "text": "我是大厦玩家TV Mikey",
+      "avg_logprob": -0.16080729175536407,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00073"
+    },
+    {
+      "start": 139.06,
+      "end": 139.62,
+      "text": "哈喽大家好",
+      "avg_logprob": -0.16080729175536407,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00074"
+    },
+    {
+      "start": 139.62,
+      "end": 141.14,
+      "text": "我是大厦玩家TV Mikey",
+      "avg_logprob": -0.16080729175536407,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00075"
+    },
+    {
+      "start": 141.14,
+      "end": 143.1,
+      "text": "为什么你没有约会",
+      "avg_logprob": -0.16080729175536407,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00076"
+    },
+    {
+      "start": 143.1,
+      "end": 145.78,
+      "text": "关于你获取异性资源的途径",
+      "avg_logprob": -0.16080729175536407,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00077"
+    },
+    {
+      "start": 145.78,
+      "end": 147.48,
+      "text": "到底应该怎么往",
+      "avg_logprob": -0.16080729175536407,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00078"
+    },
+    {
+      "start": 147.48,
+      "end": 149.88,
+      "text": "女人是怎么样判定",
+      "avg_logprob": -0.16080729175536407,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00079"
+    },
+    {
+      "start": 149.88,
+      "end": 152.44,
+      "text": "你一个男生的朋友圈是ok还是不ok的",
+      "avg_logprob": -0.24429744525547445,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00080"
+    },
+    {
+      "start": 152.44,
+      "end": 156.02,
+      "text": "那么中国男性对于泡妞一直有三个尾神加在他们身上",
+      "avg_logprob": -0.24429744525547445,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00081"
+    },
+    {
+      "start": 156.28,
+      "end": 157.3,
+      "text": "分别是你不够帅",
+      "avg_logprob": -0.24429744525547445,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00082"
+    },
+    {
+      "start": 157.56,
+      "end": 158.32,
+      "text": "你不够有钱",
+      "avg_logprob": -0.24429744525547445,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00083"
+    },
+    {
+      "start": 158.58,
+      "end": 159.36,
+      "text": "你不懂浪漫",
+      "avg_logprob": -0.24429744525547445,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00084"
+    },
+    {
+      "start": 159.6,
+      "end": 160.38,
+      "text": "你就泡不到你",
+      "avg_logprob": -0.24429744525547445,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00085"
+    },
+    {
+      "start": 160.64,
+      "end": 161.4,
+      "text": "但我告诉你啊",
+      "avg_logprob": -0.24429744525547445,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00086"
+    },
+    {
+      "start": 161.66,
+      "end": 162.16,
+      "text": "这些都是借口",
+      "avg_logprob": -0.24429744525547445,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00087"
+    },
+    {
+      "start": 162.42,
+      "end": 163.2,
+      "text": "真正的吸引人",
+      "avg_logprob": -0.24429744525547445,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00088"
+    },
+    {
+      "start": 163.44,
+      "end": 164.48,
+      "text": "来自于强行线",
+      "avg_logprob": -0.24429744525547445,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00089"
+    },
+    {
+      "start": 164.72,
+      "end": 166.78,
+      "text": "那是你由内而外散发的事情",
+      "avg_logprob": -0.24429744525547445,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00090"
+    },
+    {
+      "start": 219.84,
+      "end": 220.34,
+      "text": "我是Mike",
+      "avg_logprob": -0.24429744525547445,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00091"
+    },
+    {
+      "start": 220.86,
+      "end": 221.62,
+      "text": "就属知道",
+      "avg_logprob": -0.24429744525547445,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00092"
+    },
+    {
+      "start": 222.14,
+      "end": 222.64,
+      "text": "就在",
+      "avg_logprob": -0.24429744525547445,
+      "no_speech_prob": 0.0,
+      "segment_id": "S00093"
+    }
+  ]
+}

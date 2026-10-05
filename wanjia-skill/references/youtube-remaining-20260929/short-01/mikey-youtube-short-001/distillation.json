@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-001",
+  "youtube_id": "IBWuut6XMnA",
+  "title": "“年轻的时候就应该为爱痴狂 冲动一把”",
+  "coverage": {
+    "transcript_segments_read": 2,
+    "transcript_time_range_seconds": [0.0, 4.08],
+    "semantic_media_range_seconds": [0.0, 16.114649],
+    "sampled_frames_reviewed": 5,
+    "dense_frames_reviewed": 16,
+    "continuous_original_audio_visual_review": false
+  },
+  "timeline": [
+    {"start": 0.0, "end": 8.0, "summary": "A bearded man speaks directly to camera. Burned-in subtitles read: young people make mistakes; even God can forgive; when young one should be crazy for love, act impulsively and persist."},
+    {"start": 8.0, "end": 16.114649, "summary": "The speech gives way to a fast personal-life montage: a hand/seat detail, upscale dining-room table, cars at night, wine toast and a restaurant table. No additional reliable spoken proposition is recovered."}
+  ],
+  "claims": [
+    {
+      "claim_id": "s001-c01",
+      "speaker": "visible channel speaker, provisionally Mikey",
+      "statement": "He frames youth as a time when mistakes can be forgiven and urges being emotionally bold, impulsive and persistent in love.",
+      "conditions": "A motivational aphorism with no scenario, consent boundary, decision rule or discussion of consequences. 'Impulsive' cannot be extended to overriding another person's refusal or safety.",
+      "evidence": ["S00001-S00002@0.00-4.08", "visual/dense/every1s/000001.jpg-000008.jpg"],
+      "use_level": "hold",
+      "knowledge_status": "new_pending_independent_review"
+    }
+  ],
+  "visual_findings": [
+    "All five 3-second samples and sixteen 1-second frames were reviewed; the first half is a selfie monologue and the second half is a lifestyle montage.",
+    "The burned-in subtitles provide a clearer wording than ASR: the ASR phrases '哭着' and '吃口味' are recognition errors for the visible ideas of forgiveness and being crazy for love.",
+    "Cars, wine and restaurant imagery are atmosphere or self-presentation, not evidence that the advice caused any relationship outcome."
+  ],
+  "permissions": {
+    "formal_integration": false,
+    "first_person_allowed": false,
+    "action_advice_allowed": false,
+    "knowledge_status": "new_pending_independent_review",
+    "reason": "Speaker identity and exact audio wording were not independently confirmed, and the aphorism omits practical and consent boundaries."
+  },
+  "limitations": [
+    "The automatic transcript covers only the opening 4.08 seconds and contains obvious recognition errors.",
+    "The clip was not continuously listened to or speaker-diarized.",
+    "No context establishes what kind of 'impulse' or persistence is intended, or when to stop."
+  ]
+}

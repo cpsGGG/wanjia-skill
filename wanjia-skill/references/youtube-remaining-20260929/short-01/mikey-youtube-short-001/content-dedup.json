@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-001",
+  "youtube_id": "IBWuut6XMnA",
+  "decision": "new",
+  "formal_weight_if_integrated": 1,
+  "compared_sources": [
+    {"scope": "formal_mikey_guide", "source_count": 202, "comparison": "youtube_id, title phrases and normalized transcript search"},
+    {"scope": "researched_livestreams_and_video-01_to_video-05", "comparison": "title, transcript phrases, speaker and visual-sequence screen"}
+  ],
+  "evidence": [
+    {"type": "identity", "result": "no_exact_youtube_id_or_url_overlap"},
+    {"type": "text_search", "result": "no_prior transcript-scale match", "basis": "The distinctive wording about youth, mistakes, love, impulsiveness and persistence was not found in the formal or researched transcript corpus."},
+    {"type": "visual_sequence", "result": "no_prior sequence match identified", "basis": "The complete 16.115-second short was reviewed through all five 3-second samples and sixteen 1-second dense frames: direct-to-camera speech followed by personal-life montage."}
+  ],
+  "boundary": "Count only as a new, low-context short. The visible speaker appears consistent with the channel host, but the clip contains no internal name and the ASR is materially wrong; attribution and exact wording remain review items."
+}

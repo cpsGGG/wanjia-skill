@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-044",
+  "youtube_id": "SRv3bw4d6AA",
+  "decision": "reuse",
+  "reuse_of": "formal_feiyangyang_one_sided_pursuit_theme",
+  "formal_weight_if_integrated": 0,
+  "compared_sources": [
+    {"scope": "formal_mikey_guide_202_sources", "comparison": "exact ID/URL, distinctive transcript phrases, 沸羊羊 label and one-sided pursuit semantics"},
+    {"scope": "youtube_pipeline_video_01_to_05_and_short_01_to_04", "comparison": "exact ID/URL, transcript and meme/theme reuse screen"},
+    {"source_id": "quark-live-010", "comparison": "沸羊羊 example used to describe continued pursuit, appeasement and repeated effort under asymmetric treatment"}
+  ],
+  "evidence": [
+    {"type": "identity", "result": "no_exact_id_or_url_match"},
+    {"type": "transcript", "result": "no_exact_parent_excerpt_located", "basis": "No processed source contained this full concert narration or its ordered third-party screenshots and footage."},
+    {"type": "semantic_reuse", "result": "already_represented_without_reliable_new_method", "basis": "The only portable theme is the already represented critique of one-sided pursuit and appeasement; the alleged concert event is third-party material and does not establish a method."},
+    {"type": "visual", "result": "third_party_compilation", "basis": "Twenty sampled frames show concert footage, social-media comments, cartoon inserts, a text repost, street footage and ticket images assembled under editorial narration."}
+  ],
+  "boundary": "Zero weight. Preserve only as an example of the channel's use of the 沸羊羊 label. The incident, quoted dialogue, relationship, ticket purchase, motives and post-concert behavior are unverified third-party claims and must not be attributed to Mikey as witnessed fact."
+}

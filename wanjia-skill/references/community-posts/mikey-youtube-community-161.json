@@ -1,0 +1,72 @@
+{
+  "schema_version": "mikey-community-post-fulltext-1.0",
+  "source_id": "mikey-youtube-community-161",
+  "post_id": "Ugkx1fd5cQtVS8Ri-OU7BcdaSX4LucEcLaus",
+  "url": "https://www.youtube.com/post/Ugkx1fd5cQtVS8Ri-OU7BcdaSX4LucEcLaus",
+  "published_at": "2026-07-18T00:29:00.194206-07:00",
+  "date_basis": "archived_public_observation",
+  "body": "入职短短两周，直接攻略公司的“万人迷”女上司！\n\n如他反馈的：思路和心态全盘参考私教课，实现破局",
+  "body_kind": "verbatim_or_as_archived_in_corrected_candidate",
+  "image_refs": [
+    {
+      "image_index": 1,
+      "research_archive_path": "research/youtube-community-batch1/images/Ugkx1fd5cQtVS8Ri-OU7BcdaSX4LucEcLaus/01.jpg",
+      "sha256": "cf63a70710705d542eeff3f62493074cfb6414c03f8be2efb3ed2e768c0d8f30",
+      "bytes": 111548,
+      "formal_asset_policy": "reference_only_do_not_copy",
+      "safe_summary": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。"
+    },
+    {
+      "image_index": 2,
+      "research_archive_path": "research/youtube-community-batch1/images/Ugkx1fd5cQtVS8Ri-OU7BcdaSX4LucEcLaus/02.jpg",
+      "sha256": "fdbd311c447754598c7e1dee911ed34b275e34f3b8ab8933d5861285229ed3e5",
+      "bytes": 145585,
+      "formal_asset_policy": "reference_only_do_not_copy",
+      "safe_summary": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。"
+    }
+  ],
+  "segments": [
+    {
+      "sid": "C0161-BODY",
+      "kind": "channel_body",
+      "text": "入职短短两周，直接攻略公司的“万人迷”女上司！\n\n如他反馈的：思路和心态全盘参考私教课，实现破局",
+      "verbatim_allowed": true,
+      "source_scope": "public_channel_body_as_archived"
+    },
+    {
+      "sid": "C0161-IMG01",
+      "kind": "image_reference_metadata",
+      "text": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。",
+      "verbatim_allowed": false,
+      "image_reference": {
+        "image_index": 1,
+        "research_archive_path": "research/youtube-community-batch1/images/Ugkx1fd5cQtVS8Ri-OU7BcdaSX4LucEcLaus/01.jpg",
+        "sha256": "cf63a70710705d542eeff3f62493074cfb6414c03f8be2efb3ed2e768c0d8f30",
+        "bytes": 111548,
+        "formal_asset_policy": "reference_only_do_not_copy",
+        "safe_summary": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。"
+      }
+    },
+    {
+      "sid": "C0161-IMG02",
+      "kind": "image_reference_metadata",
+      "text": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。",
+      "verbatim_allowed": false,
+      "image_reference": {
+        "image_index": 2,
+        "research_archive_path": "research/youtube-community-batch1/images/Ugkx1fd5cQtVS8Ri-OU7BcdaSX4LucEcLaus/02.jpg",
+        "sha256": "fdbd311c447754598c7e1dee911ed34b275e34f3b8ab8933d5861285229ed3e5",
+        "bytes": 145585,
+        "formal_asset_policy": "reference_only_do_not_copy",
+        "safe_summary": "该帖附图已保存在研究归档；候选 skill 不复制原图、不保存 OCR/私聊逐字稿，也不确认图中第三方身份、截图真实性或发布授权。"
+      }
+    }
+  ],
+  "privacy_policy": {
+    "original_images_copied": false,
+    "raw_ocr_copied": false,
+    "private_chat_transcript_copied": false,
+    "third_party_identity_confirmed": false,
+    "publication_authorization_confirmed": false
+  }
+}

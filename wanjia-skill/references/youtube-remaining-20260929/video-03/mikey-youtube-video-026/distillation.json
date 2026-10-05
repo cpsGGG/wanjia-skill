@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-026",
+  "youtube_id": "dKHIueGB0UE",
+  "title": "關於把妹 你必須知道的真相",
+  "coverage": {
+    "transcript_segments_read": 632,
+    "transcript_time_range_seconds": [0.0, 1036.44],
+    "sparse_frames_reviewed": 23,
+    "dense_frames_reviewed": 0,
+    "dense_windows_required_seconds": [[225, 300], [430, 470]],
+    "continuous_original_audio_visual_review": false
+  },
+  "timeline": [
+    {"start": 0.0, "end": 64.32, "summary": "Mikey introduces money, appearance and romance as three conventional explanations for attraction that he intends to dispute."},
+    {"start": 64.32, "end": 216.12, "summary": "Money is framed as a tool rather than attraction; Titanic and a provider-versus-lover dichotomy are used to argue that gifts and support cannot create desire."},
+    {"start": 218.58, "end": 301.58, "summary": "He describes a manipulative provider dynamic and narrates an identifiable suicide and marriage case with specific financial allegations."},
+    {"start": 301.58, "end": 421.24, "summary": "He contrasts provider and hunter/lover identities, then uses bird and human-evolution claims to present female dual mating strategy as biological inevitability."},
+    {"start": 422.68, "end": 455.14, "summary": "Money is repositioned as a means to realize one's own value; he claims attraction based on money is replaceable while instinctive attraction produces devotion."},
+    {"start": 455.14, "end": 639.86, "summary": "The appearance section rejects looks as the main cause of attraction and proposes hunter body, confidence, decisiveness and intelligence as ancestral signals."},
+    {"start": 639.86, "end": 773.06, "summary": "He attributes male appearance anxiety to media and capital, then argues that shame about looks suppresses other strengths and lowers self-worth."},
+    {"start": 773.06, "end": 920.14, "summary": "The romance section presents a sequence of attraction first and gifts or confession later, arguing that behavior is interpreted through pre-existing liking."},
+    {"start": 920.14, "end": 1001.66, "summary": "He describes a three-part consumer-capital mechanism involving demographic scarcity, moral shaming and elevation of ordinary women, without supplying evidence."},
+    {"start": 1001.66, "end": 1036.44, "summary": "He closes the first stage of the series by encouraging confidence, self-direction and resistance to conventional judgment."}
+  ],
+  "claims": [
+    {"claim_id": "v026-c01", "speaker": "Mikey", "statement": "Money, appearance and romance can affect conditions but do not, in his framework, constitute the core of male attraction.", "conditions": "A recurring conceptual framework also present in mikey-gameshengjing-001; this upload does not validate it empirically.", "evidence": ["S00001-S00032@0.00-64.32", "S00612-S00632@1001.66-1036.44"], "use_level": "context_only", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v026-c02", "speaker": "Mikey", "statement": "He divides men into providers who use money or pleasing behavior and lovers or hunters who generate attraction through strong behavior signals.", "conditions": "Binary and gendered model that can obscure mixed motives, care, reciprocity and individual differences.", "evidence": ["S00033-S00116@64.32-216.12", "S00172-S00236@301.58-421.24"], "use_level": "hold", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v026-c03", "speaker": "Mikey", "statement": "He claims some women strategically extract resources from provider men, delay sex and then choose a different lover.", "conditions": "Unsupported group-level accusation and sexual transaction model; cannot be used to classify a partner or interpret a refusal.", "evidence": ["S00070-S00116@127.72-216.12", "S00118-S00171@218.58-301.58"], "use_level": "do_not_generalize", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v026-c04", "speaker": "Mikey discussing an identifiable case", "statement": "He narrates a short marriage, large financial demands, prior marriages and a husband's suicide as evidence of deliberate exploitation.", "conditions": "High-impact reputational, financial and suicide-related claims; the sampled visuals do not authenticate records or establish the full case.", "evidence": ["S00136-S00171@250.76-301.58", "sampled frames 000006-000007"], "use_level": "do_not_generalize", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v026-c05", "speaker": "Mikey", "statement": "He uses alleged bird paternity rates and ancestral hunting pressures to claim women biologically prefer strong, dominant and resource-producing men.", "conditions": "Species analogy, number and evolutionary causal chain are unsourced in the video and cannot be generalized to women or individual relationships.", "evidence": ["S00172-S00236@301.58-421.24", "S00256-S00364@455.14-639.86"], "use_level": "do_not_generalize", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v026-c06", "speaker": "Mikey", "statement": "He proposes that appearance shame can cause a man to discount his other qualities, become anxious during interaction and create a feedback loop of low self-worth.", "conditions": "Potential self-reflection model only; the surrounding claim that feminism and capital created a male-appearance tyranny is unsupported.", "evidence": ["S00365-S00455@639.86-773.06"], "use_level": "context_only", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v026-c07", "speaker": "Mikey", "statement": "His sequence is value or attraction first, then interest signals such as gifts or confession; he argues that the same behavior is interpreted more positively after attraction exists.", "conditions": "Does not make harmful behavior acceptable, guarantee attraction or eliminate the need for respect and consent.", "evidence": ["S00456-S00561@773.06-920.14"], "use_level": "hold", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v026-c08", "speaker": "Mikey", "statement": "He alleges that capital promotes demographic panic, shames men who do not spend and elevates ordinary women in order to create a profitable pleasing economy.", "conditions": "Broad social and demographic conspiracy claim without sources or causal evidence.", "evidence": ["S00562-S00611@920.14-1001.66"], "use_level": "do_not_generalize", "knowledge_status": "hold_pending_independent_review"},
+    {"claim_id": "v026-c09", "speaker": "Mikey", "statement": "He encourages men to keep confidence and self-definition instead of letting appearance trends or another person's approval determine total self-worth.", "conditions": "Only the narrow self-worth theme is separable; it must not carry over the video's entitlement, dominance or group claims.", "evidence": ["S00365-S00455@639.86-773.06", "S00612-S00632@1001.66-1036.44"], "use_level": "context_only", "knowledge_status": "hold_pending_independent_review"}
+  ],
+  "examples": [
+    {"example_id": "v026-e01", "summary": "Titanic is used as a fictional contrast between expensive provision and attraction, but a film plot cannot establish a universal relationship mechanism.", "evidence": ["S00045-S00068@86.86-125.50", "sampled frames 000019-000022"]},
+    {"example_id": "v026-e02", "summary": "The identifiable marriage and suicide case is presented through narration and brief edited imagery; no primary financial, court or family records are shown in the reviewed material.", "evidence": ["S00136-S00171@250.76-301.58", "sampled frames 000006-000007"]},
+    {"example_id": "v026-e03", "summary": "A hunter-body and hunter-wisdom list is used to connect fitness, confidence, decisiveness and intelligence to ancestral survival.", "evidence": ["S00256-S00364@455.14-639.86", "sampled frames 000012-000014"]}
+  ],
+  "speaker_attribution": [
+    {"speaker": "Mikey", "basis": "Single self-identified studio narrator across the main program."},
+    {"speaker": "public figures, film characters and social-media subjects", "basis": "Appear only in edited clips, photos or Mikey's narration; their motives and words are not independently established."},
+    {"speaker": "unmapped inserted voices", "basis": "Brief film or television excerpts were not continuously reviewed and are not treated as Mikey's direct statements."}
+  ],
+  "visual_findings": [
+    "All 23 sparse frames were reviewed. Most show Mikey speaking, with inserted street footage, phone imagery, a small case graphic, animal/film material and television excerpts.",
+    "The phone and case-related text around roughly 225-300 seconds is too small or edited to authenticate the narrated allegations; a denser review would improve source classification but not independently prove the case.",
+    "The frame around the start of the appearance section contains a small document-like overlay whose exact source and text are not readable enough for factual use.",
+    "Sparse frames do not establish continuous editing context or the accuracy of the public-case, bird-paternity, demographic or consumer-capital claims."
+  ],
+  "permissions": {"formal_integration": false, "first_person_allowed": false, "action_advice_allowed": false, "knowledge_status": "hold_pending_independent_review", "reason": "Combines unverified identifiable-person allegations, unsupported gender/evolutionary generalizations and potentially adversarial relationship framing."},
+  "limitations": [
+    "Automatic transcript was not checked word-for-word against original audio and contains repeated corruptions of names and technical terms.",
+    "Twenty-three 45-second frames are sparse screening, not continuous audio-visual verification.",
+    "The public case, animal statistic, demographic number, media-effects and capital-intent claims were not externally verified.",
+    "The provider/lover binary and repeated same-channel versions are doctrine, not independent evidence.",
+    "No statement in this source overrides another person's refusal, autonomy or right to change their mind."
+  ]
+}

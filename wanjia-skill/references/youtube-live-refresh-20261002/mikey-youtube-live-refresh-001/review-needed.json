@@ -1,0 +1,120 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-live-refresh-001",
+  "youtube_id": "o1Auc_79NR8",
+  "review_completed": true,
+  "items": [
+    {
+      "review_id": "lr001-r01",
+      "severity": "blocking",
+      "category": "intimate_privacy_and_consent",
+      "issue": "The source describes and visually contextualizes intimate photos allegedly taken during sex. Mikey says the woman agreed to capture on her phone, but capture, storage, account access, screen display and publication are separate permissions and none is independently documented.",
+      "affected_evidence": ["S01264-S01368", "S02232-S02269", "visual frames 60-75 and 91-100"],
+      "disposition": "Do not reuse intimate material, quote it as cleared, or generate operational advice. Require explicit, scope-specific consent and privacy/legal review."
+    },
+    {
+      "review_id": "lr001-r02",
+      "severity": "blocking",
+      "category": "publication_consent",
+      "issue": "Mikey reports that the boyfriend requested a follow-up and allowed recording, but the woman's permission and the exact scope, timing and revocability of the boyfriend's permission are unresolved.",
+      "affected_evidence": ["S00296-S00341", "S02590-S02665"],
+      "disposition": "Keep all first-person and action-advice permissions closed; one participant's reported permission cannot clear another participant's data."
+    },
+    {
+      "review_id": "lr001-r03",
+      "severity": "blocking",
+      "category": "private_communications_and_identifiers",
+      "issue": "The livestream shows extensive private chats, avatars, timestamps, voice controls, profile pages, call records, third-party photos and a document/form image. Message order and sender side carry meaning, but identifiers and context are only partly blurred.",
+      "affected_evidence": ["visual frames 21-137", "visual/visual-review.json"],
+      "disposition": "Retain as restricted research evidence only; no image or transcript export without targeted redaction, provenance and permission review."
+    },
+    {
+      "review_id": "lr001-r04",
+      "severity": "blocking",
+      "category": "possible_violence_and_safety",
+      "issue": "Mikey repeatedly speculates that the boyfriend might stab or otherwise harm the woman and describes threats and intense anger.",
+      "affected_evidence": ["S00587-S00628", "S00715-S00744", "S01142-S01236"],
+      "disposition": "Do not derive tactical confrontation advice. Any real threat requires disengagement and qualified emergency/domestic-violence support."
+    },
+    {
+      "review_id": "lr001-r05",
+      "severity": "blocking",
+      "category": "legal_and_account_access_uncertainty",
+      "issue": "The source includes an alleged threat to report secret filming/privacy leakage and describes opening synchronized cloud photos from the woman's tablet. Authorization and legality cannot be established from the source.",
+      "affected_evidence": ["S00849-S00874", "S02048-S02269"],
+      "disposition": "Do not make legal claims or instruct account/device access. Require jurisdiction-specific legal review and verified authorization."
+    },
+    {
+      "review_id": "lr001-r06",
+      "severity": "blocking",
+      "category": "medical_and_sexual_health",
+      "issue": "The couple is described as visiting a hospital because of infection concerns, while Mikey responds with a hygiene claim. No test result, diagnosis or exposure history is available.",
+      "affected_evidence": ["S01389-S01403"],
+      "disposition": "Do not infer infection status or safety from hygiene. Exclude from medical advice and preserve third-party health privacy."
+    },
+    {
+      "review_id": "lr001-r07",
+      "severity": "blocking",
+      "category": "commercial_conflict_and_payment_claim",
+      "issue": "Mikey, the alleged rival in the case, reframes the betrayal as a need for his training and later claims a 36,800-yuan course sale while showing a payment-like record.",
+      "affected_evidence": ["S01221-S01262", "S02558-S02589", "S02960-S02972", "visual frames 71-75 and 101-110"],
+      "disposition": "Do not use as a testimonial, outcome claim or sales method. Identity, payment purpose, voluntariness, refund status and benefit require independent verification."
+    },
+    {
+      "review_id": "lr001-r08",
+      "severity": "major",
+      "category": "speaker_attribution",
+      "issue": "Messages, visible voice notes, call-like screens, a blurred young man, viewer comments and media previews are interleaved without independent diarization. The 10-second stills show a call-like layout at about 43:50-48:10 but cannot confirm a live call, playback, either visible person's identity or who spoke.",
+      "affected_evidence": ["whole source", "visual frames 21-137"],
+      "disposition": "Attribute only direct studio speech to Mikey. Keep all other words as quoted, reported or unknown until continuous audio-visual review."
+    },
+    {
+      "review_id": "lr001-r09",
+      "severity": "major",
+      "category": "unverified_third_party_facts",
+      "issue": "Relationship length, wealth, vehicle ownership, family conversations, emotional state, travel, hospital visit, course purchase and current relationship status are all asserted through selected evidence.",
+      "affected_evidence": ["S00247-S00348", "S01001-S01034", "S01389-S01468", "S02590-S02665", "S02753-S02754", "S02960-S02972"],
+      "disposition": "Keep as Mikey's account; do not state as independently verified facts or use agreement across same-case videos as corroboration."
+    },
+    {
+      "review_id": "lr001-r10",
+      "severity": "major",
+      "category": "manipulation_infidelity_and_deception",
+      "issue": "The source rationalizes infidelity through 'physiological attraction,' describes deceptive car presentation, and repeatedly markets a 'forbidden power' even while saying not to use it.",
+      "affected_evidence": ["S00176-S00226", "S00745-S00797", "S00964-S01025", "S02974-S03006"],
+      "disposition": "Mark these claims do_not_generalize. Do not convert them into steps, scripts or first-person recommendations."
+    },
+    {
+      "review_id": "lr001-r11",
+      "severity": "major",
+      "category": "gender_and_status_generalization",
+      "issue": "Mikey generalizes about women's platform use, hypergamy, fidelity, emotionality and the relationship between money, status and attraction from one case.",
+      "affected_evidence": ["S00107-S00158", "S00745-S00797", "S01676-S01685", "S02900-S02918"],
+      "disposition": "Treat as unsupported personal interpretation, not stable knowledge about women or relationships."
+    },
+    {
+      "review_id": "lr001-r12",
+      "severity": "major",
+      "category": "location_and_doxxing_risk",
+      "issue": "The narration identifies hotel, neighborhood and distance clues and explains how the boyfriend used profiles and recommendations to connect the parties.",
+      "affected_evidence": ["S02051-S02166", "visual frames 36-45"],
+      "disposition": "Do not reproduce exact location or identity-linking details. Preserve only the high-level privacy lesson."
+    },
+    {
+      "review_id": "lr001-r13",
+      "severity": "major",
+      "category": "same_case_non_independence",
+      "issue": "This is a later follow-up to mikey-youtube-video-003 and probably relates to the pending long live mikey-youtube-live-refresh-003. Repetition across these sources does not independently verify the case.",
+      "affected_evidence": ["whole source", "content-dedup.json"],
+      "disposition": "Count as a new sequel source but one underlying case; prevent double-weighting of repeated facts and re-run clip comparison when refresh-003 is available."
+    },
+    {
+      "review_id": "lr001-r14",
+      "severity": "major",
+      "category": "visual_continuity",
+      "issue": "All 137 sparse frames and 604 dense frames across 25 dense contact sheets were reviewed. The 10-second sequence improves message order and media boundaries, but gaps and missing audio still prevent continuous verification of scrolling, playback, consent/refusal and outcomes.",
+      "affected_evidence": ["visual/manifest.json", "visual/visual-review.json"],
+      "disposition": "Record the dense still-frame review as complete, but do not claim continuous audio-visual understanding; keep playback, identity, consent/refusal and outcome questions open."
+    }
+  ]
+}

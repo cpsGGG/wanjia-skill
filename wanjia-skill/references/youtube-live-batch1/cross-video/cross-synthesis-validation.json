@@ -1,0 +1,41 @@
+{
+  "schema_version": "youtube-live-batch1-cross-synthesis-validation-1.0",
+  "status": "passed",
+  "input": "youtube-live-batch1-cross-input.json",
+  "synthesis_json": "youtube-live-batch1-cross-synthesis.json",
+  "synthesis_markdown": "youtube-live-batch1-cross-synthesis.md",
+  "counts": {
+    "source_count": 10,
+    "segments": 25936,
+    "events": 351,
+    "knowledge": 266,
+    "knowledge_quotes": 1501,
+    "review_needed": 178,
+    "blocking_review_needed": 78,
+    "major_review_needed": 99,
+    "themes": 13,
+    "propositions": 20,
+    "method_relations": 10,
+    "conflicts": 11,
+    "knowledge_index": 266,
+    "markdown_knowledge_index_rows": 266,
+    "use_level_counts": {
+      "direct": 68,
+      "context_only": 71,
+      "hold": 123,
+      "do_not_generalize": 4
+    }
+  },
+  "unsafe_direct_count": 0,
+  "missing_blocking_link_count": 0,
+  "errors": [],
+  "warnings": [
+    "source_reuse_ledger is not yet available; duplicate_case_ledger cannot authorize source merging or weights",
+    "18 direct rows intersect at least one major review; requires semantic spot-check even though not mechanically forbidden"
+  ],
+  "limits": [
+    "This validator proves structural closure and reference ownership only.",
+    "It does not prove interpretation, speaker identity, question-answer pairing, efficacy, or continuous audiovisual understanding.",
+    "Semantic concerns must be reported separately and must not be repaired by automatic prose rewriting."
+  ]
+}

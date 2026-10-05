@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-short-050",
+  "youtube_id": "s-htda5k6Yo",
+  "review_completed": true,
+  "items": [
+    {"review_id": "s050-r01", "severity": "blocking", "category": "speaker_attribution", "issue": "No Mikey face or authenticated Mikey voice appears; all dialogue belongs to third-party fictional characters and the title author is unconfirmed.", "affected_evidence": ["whole source"], "disposition": "Do not attribute the cartoon dialogue or a detailed relationship thesis to Mikey; disable first-person use."},
+    {"review_id": "s050-r02", "severity": "blocking", "category": "third_party_rights_and_context", "issue": "The source republishes a copyrighted animation excerpt carrying a Bilibili uploader watermark, with no license or original-episode context in the research package.", "affected_evidence": ["all sampled and dense frames"], "disposition": "Do not package or republish the animation; preserve only research metadata and a restricted summary pending provenance/rights review."},
+    {"review_id": "s050-r03", "severity": "blocking", "category": "asr_completeness", "issue": "Only four fragmentary ASR segments end at 18.66 seconds although the video runs 30.19 seconds.", "affected_evidence": ["S00001-S00004@0.18-18.66", "media tail 18.66-30.19"], "disposition": "Do not quote the ASR as a complete transcript; use only visually observed fictional sequence labels and exclude the tail from verbal claims."},
+    {"review_id": "s050-r04", "severity": "major", "category": "stigmatizing_label", "issue": "‘沸羊羊’ is used as a gendered ridicule label rather than a defined relationship concept.", "affected_evidence": ["source title"], "disposition": "Mark do_not_generalize and never use it to diagnose or demean a person."},
+    {"review_id": "s050-r05", "severity": "major", "category": "semantic_reuse", "issue": "The anti-沸羊羊 framing is already represented in formal material and short-044, while this clip supplies no new authenticated Mikey method.", "affected_evidence": ["whole source"], "disposition": "Assign zero formal weight."}
+  ]
+}

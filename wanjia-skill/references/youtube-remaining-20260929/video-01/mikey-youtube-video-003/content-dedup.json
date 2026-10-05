@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-003",
+  "youtube_id": "efyqkeWyhUw",
+  "decision": "new",
+  "compared_sources": [
+    {
+      "scope": "formal_mikey_guide",
+      "source_count": 202,
+      "comparison": "youtube_id, URL, title and normalized full-transcript 16-character shingle screening across every transcript referenced by source-index.json"
+    },
+    {
+      "scope": "same_title_live_candidate",
+      "youtube_id": "EPmR6XOphxY",
+      "title": "對不起，我愛上了別人的女朋友。這將是我最後一次使用禁忌之力丨約會丨把妹丨情感丨戀愛丨約炮丨男性自我提升丨短期關係丨長期關係丨dating in china",
+      "duration_seconds_from_channel_snapshot": 8076,
+      "comparison": "identity, title and duration metadata only; the live media/transcript was not locally available and YouTube rejected transcript retrieval because the saved cookie had expired"
+    }
+  ],
+  "evidence": [
+    {
+      "type": "identity",
+      "result": "no_exact_formal_id_url_or_title_overlap",
+      "basis": "Current formal source-index contains 202 sources; efyqkeWyhUw is absent and no formal title matches this upload."
+    },
+    {
+      "type": "normalized_fulltext",
+      "target_segments": 1976,
+      "target_time_range_seconds": [0.0, 2440.4],
+      "target_normalized_chars": 14259,
+      "target_normalized_sha256": "1ef5ef9b954b9b9ece804472b4c14cef3e751781172c095b662dce9e37717078",
+      "formal_transcripts_checked": 202,
+      "exact_matches": [],
+      "maximum_16_character_shingle_overlap": {
+        "source_id": "mikey-youtube-live-030",
+        "shared_shingles": 1,
+        "target_shingles": 3561,
+        "target_coverage": 0.000281
+      }
+    },
+    {
+      "type": "same_title_live_metadata",
+      "result": "possible_edited_excerpt_not_resolved",
+      "basis": "EPmR6XOphxY has the exact same title but is 8076 seconds, whereas this upload is 2441 seconds. The duration difference rules out an exact whole-video duplicate, but strongly warrants later clip-level audio/transcript comparison before both are counted independently."
+    }
+  ],
+  "boundary": "Count this upload as new relative to the current 202-source formal guide. This is provisional with respect to EPmR6XOphxY: if later audio/transcript comparison shows that the 2441-second upload is wholly contained in that live, one of the two must be marked reuse and receive zero duplicate weight."
+}

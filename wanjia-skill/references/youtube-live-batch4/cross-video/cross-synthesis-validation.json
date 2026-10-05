@@ -1,0 +1,14 @@
+{
+  "schema_version": "youtube-live-batch4-cross-synthesis-structural-validation-1.0",
+  "status": "structural_pass_content_audit_still_required",
+  "sources": 9,
+  "knowledge": 102,
+  "runtime_use_level_counts": {
+    "hold": 94,
+    "do_not_generalize": 8
+  },
+  "limits": [
+    "does not approve semantic claims, attribution, direct_scope or formal integration",
+    "add content-specific assertions after independent audiovisual and web-Pro audit"
+  ]
+}

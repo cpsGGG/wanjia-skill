@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-006",
+  "youtube_id": "mFQnUFGEFEY",
+  "review_completed": true,
+  "items": [
+    {
+      "review_id": "v006-r01",
+      "severity": "blocking_for_case_fact",
+      "issue": "Allegations about 'Wang Shuiniu', sexual conduct, pregnancy or abortion, manipulation and the scale of contacts are unverified online disclosures. Mikey himself says official confirmation was lacking.",
+      "affected_evidence": ["S00001-S00037", "S00133-S00147", "S00529-S00561", "dense frames 1-30 and 141-160"],
+      "disposition": "Keep all controversy facts and attributed messages do_not_generalize; do not repeat them as verified biography."
+    },
+    {
+      "review_id": "v006-r02",
+      "severity": "blocking_for_generalization",
+      "issue": "The episode repeatedly generalizes Chinese men, Chinese women, Western men, foreigners and East Asian culture without comparative evidence.",
+      "affected_evidence": ["S00038-S00073", "S00380-S00424", "S00442-S00484", "S00511-S00528"],
+      "disposition": "Do not convert nationality, race or gender comparisons into factual group profiles or individual predictions."
+    },
+    {
+      "review_id": "v006-r03",
+      "severity": "blocking_for_harassment_or_hate",
+      "issue": "The source uses demeaning labels, racialized examples and contemptuous language for groups and individuals.",
+      "affected_evidence": ["S00001-S00073", "S00315-S00322", "S00398-S00412", "S00515-S00528", "S00563-S00587"],
+      "disposition": "Do not reproduce slurs or humiliation as the guide's voice; retain only the underlying source analysis with explicit attribution."
+    },
+    {
+      "review_id": "v006-r04",
+      "severity": "blocking_for_consent_boundary",
+      "issue": "Directness and confidence could be misread as permission to ignore another person's refusal, while the quoted third-party conduct includes blunt dismissal and disputed sexual allegations.",
+      "affected_evidence": ["S00118-S00130", "S00334-S00357", "S00541-S00561"],
+      "disposition": "Any future use must pair self-expression with accepting refusal and respecting both parties; do not derive escalation tactics from the third-party example."
+    },
+    {
+      "review_id": "v006-r05",
+      "severity": "major",
+      "issue": "Cropped posts, profile images and private-message-style screenshots may contain personal data and do not establish authorship, completeness, authenticity or publication consent.",
+      "affected_evidence": ["all 19 sampled frames", "dense frames 1-170"],
+      "disposition": "Do not copy private-looking images into a formal package without privacy review and redaction; do not quote text that is unreadable or lacks provenance."
+    },
+    {
+      "review_id": "v006-r06",
+      "severity": "major",
+      "issue": "The claim that first impressions reveal strength through body language and posture, and that women react uniformly to these signals, is presented without supporting behavioral evidence.",
+      "affected_evidence": ["S00094-S00117", "S00245-S00308"],
+      "disposition": "Retain as Mikey's model only, with no diagnostic certainty about an individual woman."
+    },
+    {
+      "review_id": "v006-r07",
+      "severity": "major",
+      "issue": "Historical-colonial explanation, tourism anecdotes and the English-direction example are used to infer present-day psychological hierarchy without sourcing or comparative data.",
+      "affected_evidence": ["S00425-S00484"],
+      "disposition": "Keep context_only or do_not_generalize; do not present as established social science."
+    },
+    {
+      "review_id": "v006-r08",
+      "severity": "major",
+      "issue": "The narration says a woman's selection proves the man has attraction, but selection alone does not reveal motive, consent history, relationship quality or causal mechanism.",
+      "affected_evidence": ["S00074-S00096", "S00149-S00169"],
+      "disposition": "Attribute the inference to Mikey and do not infer private motives from the outcome alone."
+    },
+    {
+      "review_id": "v006-r09",
+      "severity": "major",
+      "issue": "The phrase 'self-confidence is innate like a human right' is rhetorical and may conceal clinically relevant causes of low confidence or anxiety.",
+      "affected_evidence": ["S00323-S00344"],
+      "disposition": "Use only as motivational framing; do not make mental-health claims or blame a person for persistent anxiety."
+    },
+    {
+      "review_id": "v006-r10",
+      "severity": "minor",
+      "issue": "Automatic ASR has repeated pronoun, name and term errors, including 王水牛, 慕强, 国男/龟男, 崇洋媚外, 普信 and 宁为玉碎不为瓦全; the final tail is low quality.",
+      "affected_evidence": ["S00001-S00607"],
+      "disposition": "Do not quote uncertain wording without audio review. Normalize only terms that are clear from title cards, readable visuals and continuous context."
+    },
+    {
+      "review_id": "v006-r11",
+      "severity": "minor",
+      "issue": "The generated ASR originally extended 3.72 seconds beyond the audited media duration.",
+      "affected_evidence": ["S00606-S00607", "media-audit.json"],
+      "disposition": "Resolved mechanically: removed two wholly out-of-range hallucinated segments and clipped S00607 to 848.805 seconds. The remaining low-quality outro is excluded from substantive use."
+    }
+  ]
+}

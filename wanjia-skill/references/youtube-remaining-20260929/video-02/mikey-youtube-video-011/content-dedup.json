@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-011",
+  "youtube_id": "MJep9Wpzixg",
+  "decision": "new",
+  "compared_sources": [
+    {"scope": "formal_mikey_guide", "source_count": 202, "comparison": "youtube_id_url_normalized_fulltext_and_12_character_shingles"},
+    {"source_id": "S-cMTEvo6To", "title": "2026-07-21 - 聊一下邹市明冉莹颖", "comparison": "same public-figure case, claim sequence and examples"},
+    {"source_id": "mikey-youtube-video-012", "comparison": "same-batch thematic and sequence screen"}
+  ],
+  "evidence": [
+    {"type": "identity", "result": "no_exact_youtube_id_or_url_overlap", "basis": "video-02/identity-precheck.json and current formal source-index"},
+    {"type": "normalized_fulltext", "target_normalized_chars": 4094, "target_sha256": "550f03ecc53c619211ba0f2ea0e5c560af4655d375803150b812bf839861257b", "formal_transcripts_checked": 202, "exact_matches": []},
+    {"type": "near_duplicate_screen", "method": "12_character_shingle_containment", "highest_formal_containment": 0.0, "result": "no transcript-scale verbatim reuse detected"},
+    {"type": "related_content", "formal_source_id": "S-cMTEvo6To", "normalized_sequence_match_ratio": 0.1497313141182218, "longest_normalized_match_characters": 9, "result": "substantial thematic and case overlap but independently scripted wording"}
+  ],
+  "boundary": "The upload revisits the same public-figure marriage and money narrative already discussed in S-cMTEvo6To and in video-012, but its transcript is not an edited transcript-scale excerpt. Count it as a new research source only after independent review; do not count repeated case allegations as corroboration."
+}

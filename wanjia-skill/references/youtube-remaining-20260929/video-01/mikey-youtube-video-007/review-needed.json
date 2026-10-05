@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "stable_id": "mikey-youtube-video-007",
+  "youtube_id": "r7rpeVQxTis",
+  "review_completed": true,
+  "items": [
+    {"review_id": "v007-r01", "severity": "blocking_for_new_weight", "issue": "The upload is an edited condensation of formal source jvFRTgH_4cE rather than a new independent source.", "affected_evidence": ["full transcript", "formal jvFRTgH_4cE approximately 1252.65-5303.44"], "disposition": "Reuse the formal source and assign this upload zero additional source and claim weight."},
+    {"review_id": "v007-r02", "severity": "blocking_for_action_advice", "issue": "The private-home 'charge signal' section recommends direct kissing based on perceived attraction but does not provide a reliable consent check.", "affected_evidence": ["S00732-S00773"], "disposition": "Keep do_not_generalize and do not produce operational escalation advice; require current affirmative willingness and stop on ambiguity or withdrawal."},
+    {"review_id": "v007-r03", "severity": "major", "issue": "The novice exception encourages limited touch testing even though the same account shows confidence collapsing after rejection.", "affected_evidence": ["S00196-S00319", "S00779-S00798"], "disposition": "Keep hold; do not convert the exception into a recommendation without explicit consent safeguards."},
+    {"review_id": "v007-r04", "severity": "major", "issue": "Claims about women's attention seeking, mate choice, A/B response types and biological motives are sex-wide generalizations without supporting evidence.", "affected_evidence": ["S00345-S00504", "S00621-S00683"], "disposition": "Keep do_not_generalize and attribute only as Mikey's theory."},
+    {"review_id": "v007-r05", "severity": "major", "issue": "Alcohol, fatigue and prolonged persistence are discussed near intimacy outcomes.", "affected_evidence": ["S00689-S00732"], "disposition": "Do not infer consent or recommend persistence; impairment and fatigue require extra caution and may invalidate free participation."},
+    {"review_id": "v007-r06", "severity": "minor", "issue": "ASR contains recurring errors such as 木墙/慕强, 充分号角/冲锋号角 and several garbled phrases.", "affected_evidence": ["S00029-S00031", "S00575-S00599", "S00689-S00779"], "disposition": "Use normalized concepts and time ranges; do not quote uncertain wording without audio review."}
+  ]
+}

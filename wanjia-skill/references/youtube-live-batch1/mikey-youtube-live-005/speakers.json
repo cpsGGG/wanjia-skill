@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "source_id": "mikey-youtube-live-005",
+  "speakers": [
+    {
+      "id": "mikey",
+      "role": "host",
+      "status": "confirmed",
+      "identity_basis": "标题明示Mikey；4张联系表从00:00到46:30持续显示同一主持人摄像头，左侧为YouTube文字聊天；全期是单人口播问答。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=HBnKtTjjjWU&t=3s",
+        "https://www.youtube.com/watch?v=HBnKtTjjjWU&t=1200s",
+        "https://www.youtube.com/watch?v=HBnKtTjjjWU&t=2724s"
+      ],
+      "notes": "身份确认；自动稿中被代读的问题内容不等于Mikey的观点。"
+    },
+    {
+      "id": "viewer-question-01",
+      "role": "YouTube viewer question author(s)",
+      "status": "collective_placeholder",
+      "identity_basis": "联系表左侧全程可见YouTube文字聊天，Mikey持续口读其中问题。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=HBnKtTjjjWU&t=10s",
+        "https://www.youtube.com/watch?v=HBnKtTjjjWU&t=1180s",
+        "https://www.youtube.com/watch?v=HBnKtTjjjWU&t=2470s"
+      ],
+      "notes": "代表多个未逐一映射昵称的观众；问题作者与发声者分开。"
+    },
+    {
+      "id": "screen-board-01",
+      "role": "host-authored screen sketch/board",
+      "status": "provisional",
+      "identity_basis": "联系表可见一张持续的简图/白板，约39:45后有少量字迹变化。",
+      "evidence_refs": [
+        "https://www.youtube.com/watch?v=HBnKtTjjjWU&t=0s",
+        "https://www.youtube.com/watch?v=HBnKtTjjjWU&t=2385s"
+      ],
+      "notes": "小字未原分辨率辨认，不把白板内容单独当成知识证据。"
+    }
+  ]
+}
