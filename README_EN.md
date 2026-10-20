@@ -58,3 +58,7 @@ See [implementation](docs/how-it-works.md), [source scope](docs/scope.md) and [c
 Original code and authored documentation use [MIT](LICENSE). Source texts, quotations and images retain their original authors' and third parties' rights; see [notices](THIRD_PARTY_NOTICES.md). Runtime permission to use a method is distinct from copyright permission. Transcription, identity and case-context questions remain in some materials; real-world effectiveness is not uniformly validated.
 
 The cover is AI-generated. See [contents](CONTENTS.md) and [changelog](CHANGELOG.md).
+
+## Packaged visual lookup
+
+v0.2.2 links source text to six selected evidence images (five existing redacted stills and one reviewed diagram), plus the cover. Run `python wanjia-skill/scripts/visuals.py "开放手掌"` or use source/time/SID selectors. Open the returned image before making visual claims. Nearby transcript text is not OCR. Videos, audio and bulk research contact sheets are excluded. [Visual scope](wanjia-skill/references/visual-navigation.md).

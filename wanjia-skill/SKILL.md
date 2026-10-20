@@ -2,7 +2,7 @@
 name: wanjia-skill
 description: "当用户想参考“搭讪玩家”Mikey的观点分析具体问题时使用；依据512条来源记录、3649条知识检索和回读，按精确知识权限给出有出处的模拟问答。"
 metadata:
-  version: "0.2.1"
+  version: "0.2.2"
   display_name: "玩家.skill"
   stage: v2_operational_corrections_20261005
 ---
@@ -24,6 +24,12 @@ metadata:
 
 涉及聊天截图、消息顺序、动作示范或说话人切换时，查看索引中的visual_reports及原分析的待核窗口；没有相应画面证据，不能凭字幕补成已展示的事实。回读出现`correction_review_required=true`时，`text`仍保留自动稿原字且不能当确定读法；同时读旁列的`correction_candidate`、真实审核状态、`independent_local_audio_review`及完整`audio_correction.review_record`，并回查[校正层](references/audio-corrections.json)和[包内依据导航](references/audio-correction-evidence/navigation.json)。网页支持的候选不等于本地独立听校；unresolved候选不能定案，不能继续使用已知相反否定方向的裸自动稿。否定词、主语或其他疑点会改变判断时，指出需回听的位置，暂不下确定结论。
 
+
+## 图片与文字联动
+
+涉及聊天顺序、空间距离、动作、手机使用或图解时，在文字检索和回读后运行 `python scripts/visuals.py "关键词" --limit 5`；已知来源和时间可用 `python scripts/visuals.py --source-id 来源ID --time 秒数`，或用 `--source-id 来源ID --sid S编号`。返回包内相对路径和实际绝对路径，必须实际打开图片后再描述画面。默认只返回目标时间30秒内的图片，空结果不代表该时段没有画面；不能拿很远的静帧当作当前语句的证据。
+
+图片说明是编者观察，`nearby_transcript`是附近保存的自动稿，不是OCR或已听校原话。导航拼图只用于定位，不保证小字可读；图片也不证明未拍到的连续动作、人物身份、同意或效果。图片数量和版本范围见[图文索引说明](references/visual-navigation.md)。新增图片不改变知识、人物化或行动许可。
 
 ## 新增资料与有限回答入口
 

@@ -2,9 +2,9 @@
   "schema_version": 2,
   "name": "玩家.skill",
   "skill_id": "wanjia-skill",
-  "version": "0.2.1",
-  "stage": "public_projection_frozen_for_distribution",
-  "date_utc": "2026-10-05T10:29:48.627151+00:00",
+  "version": "0.2.2",
+  "stage": "public_visual_navigation_edition",
+  "date_utc": "2026-10-20",
   "skill_directory": "wanjia-skill",
   "counts": {
     "sources": 512,
@@ -16,7 +16,7 @@
     "isolated_action_methods": 51,
     "video_segments": 334097,
     "community_segments": 533,
-    "packaged_images": 5,
+    "packaged_images": 6,
     "incomplete_permission_schema_rows": 0
   },
   "source_types": {
@@ -218,7 +218,7 @@
       "scripts/resource_utils.py": "3adc74e92fbf6df65c024a77ff4ef792ff8d2acdf8f382b95c736899f2036d68"
     }
   },
-  "ready_input_sha256": "f29c2e28b58403c22224eda74d349b5f461a01737ba2bdb83e0ade6805a17108",
+  "ready_input_sha256": "495e5bf960a3424e61136bfdb72917eb3373fae0def4a7f3e8ddd384bbd95e6c",
   "guide_snapshot_sha256": "c6b8ad58e1cd9f5c14585329f0e6e0dfa6593220e46c58a1bc7594a030d13f90",
   "code_license": "MIT",
   "corpus_license": "third_party_content_excluded_from_MIT",
@@ -226,7 +226,13 @@
   "global_installation_performed": false,
   "new_semantic_audio_or_effect_certification": false,
   "distribution_edition": "public",
-  "source_content_change_scope": "15 contact-fragment fields and 2 private session locator fields; current-copy hashes/navigation and license notices rebound; permission payloads, weights and source identities unchanged.",
+  "source_content_change_scope": "v0.2.1 public text and knowledge unchanged; new visual index, one diagram image and navigation instructions; prior public projection remains applied.",
   "permissions_or_weight_changed_by_packaging": false,
-  "publication_record": "GitHub repository, Releases and Actions show live publication status; this file is the pre-publication frozen content record."
+  "publication_record": "GitHub repository, Releases and Actions show live publication status; this file is the pre-publication frozen content record.",
+  "visual_navigation": {
+    "evidence_images": 6,
+    "new_images": 1,
+    "new_script": "scripts/visuals.py",
+    "no_audio_video": true
+  }
 }

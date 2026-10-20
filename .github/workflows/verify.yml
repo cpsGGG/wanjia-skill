@@ -18,3 +18,4 @@ jobs:
           python-version: ${{ matrix.python }}
       - run: python -B tools/verify_package.py
       - run: python -B tools/smoke_check.py
+      - run: python -B wanjia-skill/scripts/visuals.py --verify

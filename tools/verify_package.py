@@ -20,7 +20,7 @@ def local(home, value):
     return target
 
 
-DISTRIBUTION_METADATA_BINDINGS = {'SKILL.md': {'before': {'sha256': '5b55871e3d5403e339cc0ccfbbef571177bf2588af9881ea6d75a66bdff1f82e', 'bytes': 19139}, 'after': {'sha256': '5b55871e3d5403e339cc0ccfbbef571177bf2588af9881ea6d75a66bdff1f82e', 'bytes': 19139}}, 'agents/openai.yaml': {'before': {'sha256': '828ce157c141d39a8906da6028b69832229b85453ef62fa5472ed6046bb155dd', 'bytes': 290}, 'after': {'sha256': '828ce157c141d39a8906da6028b69832229b85453ef62fa5472ed6046bb155dd', 'bytes': 290}}, 'LICENSE': {'before': {'sha256': '14331e3bc55644cd605bd3fac7e36a6789eaadc084521f7b7c1bcb38935156ef', 'bytes': 1473}, 'after': {'sha256': '14331e3bc55644cd605bd3fac7e36a6789eaadc084521f7b7c1bcb38935156ef', 'bytes': 1473}}, 'THIRD_PARTY_NOTICES.md': {'before': {'sha256': '3084f2ccdc240a4d704fcf4b3bf263e97aadf16e7b2c0e200930093fa756cc95', 'bytes': 1997}, 'after': {'sha256': '3084f2ccdc240a4d704fcf4b3bf263e97aadf16e7b2c0e200930093fa756cc95', 'bytes': 1997}}}
+DISTRIBUTION_METADATA_BINDINGS = {'SKILL.md': {'before': {'sha256': '5b55871e3d5403e339cc0ccfbbef571177bf2588af9881ea6d75a66bdff1f82e', 'bytes': 19139}, 'after': {'sha256': '64e28c3bee7e3e3d0961c435e0bcdd38be434a2671e0a46853b26656d07946a3', 'bytes': 20092}}, 'agents/openai.yaml': {'before': {'sha256': '828ce157c141d39a8906da6028b69832229b85453ef62fa5472ed6046bb155dd', 'bytes': 290}, 'after': {'sha256': '828ce157c141d39a8906da6028b69832229b85453ef62fa5472ed6046bb155dd', 'bytes': 290}}, 'LICENSE': {'before': {'sha256': '14331e3bc55644cd605bd3fac7e36a6789eaadc084521f7b7c1bcb38935156ef', 'bytes': 1473}, 'after': {'sha256': '14331e3bc55644cd605bd3fac7e36a6789eaadc084521f7b7c1bcb38935156ef', 'bytes': 1473}}, 'THIRD_PARTY_NOTICES.md': {'before': {'sha256': '3084f2ccdc240a4d704fcf4b3bf263e97aadf16e7b2c0e200930093fa756cc95', 'bytes': 1997}, 'after': {'sha256': '3084f2ccdc240a4d704fcf4b3bf263e97aadf16e7b2c0e200930093fa756cc95', 'bytes': 1997}}}
 
 def runtime_content_measurement(measurement):
     # The build environment is recorded; only this environment field may differ.
@@ -131,7 +131,7 @@ def main():
     except (KeyError, OSError, ValueError) as exc:
         check(False, 'V2 actual measurement: ' + str(exc))
     entry = (skill / 'SKILL.md').read_text(encoding='utf-8-sig')
-    check('name: wanjia-skill' in entry and 'version: "0.2.1"' in entry, 'V2 entry metadata mismatch')
+    check('name: wanjia-skill' in entry and ('version: "'+manifest['version']+'"') in entry, 'V2 entry metadata mismatch')
     result = {'status': 'PASS' if not errors else 'FAIL', 'checks': checks,
               'errors': errors, 'counts': summary,
               'scope': 'package integrity and local resource structure; not semantic or outcome certification'}

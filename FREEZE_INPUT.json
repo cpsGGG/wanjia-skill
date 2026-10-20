@@ -1,7 +1,7 @@
 {
   "schema_version": "wanjia-public-freeze-1.0",
-  "status": "FROZEN_PUBLIC_PROJECTION",
-  "version": "0.2.1",
+  "status": "public_visual_navigation_overlay_on_frozen_v0.2.1",
+  "version": "0.2.2",
   "guide_root": "wanjia-skill",
   "guide_files": {
     "agents/openai.yaml": {
@@ -7358,7 +7358,7 @@
     "isolated_action_methods": 51,
     "video_segments": 334097,
     "community_segments": 533,
-    "packaged_images": 5,
+    "packaged_images": 6,
     "incomplete_permission_schema_rows": 0
   },
   "source_types": {
@@ -7560,13 +7560,32 @@
       "scripts/resource_utils.py": "3adc74e92fbf6df65c024a77ff4ef792ff8d2acdf8f382b95c736899f2036d68"
     }
   },
-  "packaged_image_files": [
-    "references/mikey-practice/mikey-practice-001/visual/selected-fullres-redacted/001-00-00-38-opening-space-and-distance-redacted.jpg",
-    "references/mikey-practice/mikey-practice-001/visual/selected-fullres-redacted/002-00-02-38-contact-exchange-redacted.jpg",
-    "references/mikey-practice/mikey-practice-002/visual/selected-fullres-redacted/001-00-07-17-open-palm-and-commentary-redacted.jpg",
-    "references/mikey-practice/mikey-practice-002/visual/selected-fullres-redacted/002-00-18-37-phone-disengagement-redacted.jpg",
-    "references/mikey-practice/mikey-practice-002/visual/selected-fullres-redacted/003-00-21-15-seat-layout-redacted.jpg"
-  ],
+  "packaged_image_files": {
+    "references/visual-images/mikey-youtube-video-013-600.033.webp": {
+      "bytes": 258318,
+      "sha256": "485acc6e66404bf1e9fcae13b01249da0f6d0e3fb4e7a334048aabedbe45da30"
+    },
+    "references/mikey-practice/mikey-practice-002/visual/selected-fullres-redacted/001-00-07-17-open-palm-and-commentary-redacted.jpg": {
+      "bytes": 84943,
+      "sha256": "e5e1ea13b575d6ca27ad92d5679a392b74e38a01fb50196d7c807d8015720385"
+    },
+    "references/mikey-practice/mikey-practice-002/visual/selected-fullres-redacted/002-00-18-37-phone-disengagement-redacted.jpg": {
+      "bytes": 67346,
+      "sha256": "f3d43aa830240a8b705ad8413cb824c42c2a8609b16f6312efcf06d7e6587bca"
+    },
+    "references/mikey-practice/mikey-practice-002/visual/selected-fullres-redacted/003-00-21-15-seat-layout-redacted.jpg": {
+      "bytes": 93255,
+      "sha256": "e276324126752307b6f5a8355faf598c976f72625f10d87cfb9be3119f296cb4"
+    },
+    "references/mikey-practice/mikey-practice-001/visual/selected-fullres-redacted/001-00-00-38-opening-space-and-distance-redacted.jpg": {
+      "bytes": 66822,
+      "sha256": "020af72e340e01e6cf3507a0ccb30b7ef4e59d5b6276c4b3845e17f2eeceb03e"
+    },
+    "references/mikey-practice/mikey-practice-001/visual/selected-fullres-redacted/002-00-02-38-contact-exchange-redacted.jpg": {
+      "bytes": 73770,
+      "sha256": "378a4815dee7bfa2c8b86364bc59576da832cfadfa2a59c00904a20d5e901fc5"
+    }
+  },
   "public_projection_ledger": {
     "path": "PUBLICATION_CHANGES.json",
     "sha256": "3af0d29c3d476c77d34cb277d71efe2036c02e1efc3c890fe7d1cb56af46ddc4"
@@ -7578,5 +7597,30 @@
     "historical_ready_sha256": "c7290508bd91568950fad121590e297ae06b691dc8c07d33c126d9df1b46fe7c"
   },
   "semantic_permission_or_weight_changes": false,
-  "validation_scope": "File integrity, portable resources and executable permission checks; not full audio, identity or outcome certification."
+  "validation_scope": "File integrity, portable resources and executable permission checks; not full audio, identity or outcome certification.",
+  "visual_overlay": {
+    "entry_after": {
+      "sha256": "64e28c3bee7e3e3d0961c435e0bcdd38be434a2671e0a46853b26656d07946a3",
+      "bytes": 20092
+    },
+    "added_files": {
+      "scripts/visuals.py": {
+        "bytes": 5745,
+        "sha256": "5779472dd24eb3575898a7682d78881ca7f89cd7bca2c9843adf7e1bb91e3f95"
+      },
+      "references/visual-index.json": {
+        "bytes": 8298,
+        "sha256": "a42b64abe5f41e1782d2ec205fd2df1b9c4784c3fcd054c35f103036ccc91256"
+      },
+      "references/visual-navigation.md": {
+        "bytes": 1099,
+        "sha256": "1b96e6299920be48e291ee85aad52540ee1648fd9f7be37003e594f6a2fe6cee"
+      },
+      "references/visual-images/mikey-youtube-video-013-600.033.webp": {
+        "bytes": 258318,
+        "sha256": "485acc6e66404bf1e9fcae13b01249da0f6d0e3fb4e7a334048aabedbe45da30"
+      }
+    },
+    "semantic_permission_or_weight_changes": false
+  }
 }

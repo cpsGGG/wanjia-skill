@@ -1,0 +1,182 @@
+{
+  "schema_version": 1,
+  "edition": "public_curated",
+  "version": "0.2.2",
+  "images": [
+    {
+      "id": "mikey-practice-001-001-00-00-38-opening-space-and-distance-redacted",
+      "source_id": "mikey-practice-001",
+      "source_title": "搭讪西装正妹，快速带回家",
+      "source_url": null,
+      "path": "references/mikey-practice/mikey-practice-001/visual/selected-fullres-redacted/001-00-00-38-opening-space-and-distance-redacted.jpg",
+      "sha256": "020af72e340e01e6cf3507a0ccb30b7ef4e59d5b6276c4b3845e17f2eeceb03e",
+      "time_seconds": 38.0,
+      "description": "原讲解中空间关系的定位图，敏感区域已遮挡；不能单凭此图确认完整站位或距离。",
+      "keywords": [
+        "空间距离",
+        "站位"
+      ],
+      "image_kind": "native_redacted_still",
+      "privacy_review_status": "pass_existing_redaction_review",
+      "redactions": [
+        "人物脸部",
+        "联系方式/屏幕（如在画面内）"
+      ],
+      "width": 1280,
+      "height": 720,
+      "event_ids": [
+        "mikey-practice-001-E0002"
+      ],
+      "sid": "S00014",
+      "nearby_transcript": "诶 等一下嘛 我不是内骚的 之前没有男生就过来搭讪你 没有",
+      "nearby_transcript_status": "saved_automatic_text_not_image_OCR_or_verified_quote"
+    },
+    {
+      "id": "mikey-practice-001-002-00-02-38-contact-exchange-redacted",
+      "source_id": "mikey-practice-001",
+      "source_title": "搭讪西装正妹，快速带回家",
+      "source_url": null,
+      "path": "references/mikey-practice/mikey-practice-001/visual/selected-fullres-redacted/002-00-02-38-contact-exchange-redacted.jpg",
+      "sha256": "378a4815dee7bfa2c8b86364bc59576da832cfadfa2a59c00904a20d5e901fc5",
+      "time_seconds": 158.0,
+      "description": "原讲解中手机操作节点的脱敏定位图，手部和参与者被遮挡；不能单凭图确认双方同时操作、交换联系方式或交换成功。",
+      "keywords": [
+        "手机",
+        "交换联系方式"
+      ],
+      "image_kind": "native_redacted_still",
+      "privacy_review_status": "pass_existing_redaction_review",
+      "redactions": [
+        "人物脸部",
+        "联系方式/屏幕（如在画面内）"
+      ],
+      "width": 1280,
+      "height": 720,
+      "event_ids": [
+        "mikey-practice-001-E0005"
+      ],
+      "sid": "S00080",
+      "nearby_transcript": "哦 这样子吗 惊讶 您是不是旷野",
+      "nearby_transcript_status": "saved_automatic_text_not_image_OCR_or_verified_quote"
+    },
+    {
+      "id": "mikey-practice-002-001-00-07-17-open-palm-and-commentary-redacted",
+      "source_id": "mikey-practice-002",
+      "source_title": "一约拿下假兴趣女（精讲系列）",
+      "source_url": null,
+      "path": "references/mikey-practice/mikey-practice-002/visual/selected-fullres-redacted/001-00-07-17-open-palm-and-commentary-redacted.jpg",
+      "sha256": "e5e1ea13b575d6ca27ad92d5679a392b74e38a01fb50196d7c807d8015720385",
+      "time_seconds": 437.0,
+      "description": "用于定位原讲解中的开放手掌节点；脱敏图只见部分手或手指，大片区域遮挡，不能据此确认完整手势。",
+      "keywords": [
+        "开放手掌",
+        "手势"
+      ],
+      "image_kind": "native_redacted_still",
+      "privacy_review_status": "pass_existing_redaction_review",
+      "redactions": [
+        "参与者脸部",
+        "画中画人物脸",
+        "联系方式／屏幕",
+        "私密区域（如出现）"
+      ],
+      "width": 1280,
+      "height": 720,
+      "event_ids": [
+        "mikey-practice-002-E0005"
+      ],
+      "sid": "S00163",
+      "nearby_transcript": "很多时候说 Mikey我约会约得很不错 聊得很开心",
+      "nearby_transcript_status": "saved_automatic_text_not_image_OCR_or_verified_quote"
+    },
+    {
+      "id": "mikey-practice-002-002-00-18-37-phone-disengagement-redacted",
+      "source_id": "mikey-practice-002",
+      "source_title": "一约拿下假兴趣女（精讲系列）",
+      "source_url": null,
+      "path": "references/mikey-practice/mikey-practice-002/visual/selected-fullres-redacted/002-00-18-37-phone-disengagement-redacted.jpg",
+      "sha256": "f3d43aa830240a8b705ad8413cb824c42c2a8609b16f6312efcf06d7e6587bca",
+      "time_seconds": 1117.0,
+      "description": "用于定位手机节点，可见局部手机，参与者和手部被遮挡；不能据此断言参与度、意图或完整动作。",
+      "keywords": [
+        "低头手机",
+        "参与度"
+      ],
+      "image_kind": "native_redacted_still",
+      "privacy_review_status": "pass_existing_redaction_review",
+      "redactions": [
+        "参与者脸部",
+        "画中画人物脸",
+        "联系方式／屏幕",
+        "私密区域（如出现）"
+      ],
+      "width": 1280,
+      "height": 720,
+      "event_ids": [
+        "mikey-practice-002-E0011"
+      ],
+      "sid": "S00458",
+      "nearby_transcript": "不要问她为什么不喝 这女生在给我就是甩那个框架 一些她在给我甩她的一个行为线索",
+      "nearby_transcript_status": "saved_automatic_text_not_image_OCR_or_verified_quote"
+    },
+    {
+      "id": "mikey-practice-002-003-00-21-15-seat-layout-redacted",
+      "source_id": "mikey-practice-002",
+      "source_title": "一约拿下假兴趣女（精讲系列）",
+      "source_url": null,
+      "path": "references/mikey-practice/mikey-practice-002/visual/selected-fullres-redacted/003-00-21-15-seat-layout-redacted.jpg",
+      "sha256": "e276324126752307b6f5a8355faf598c976f72625f10d87cfb9be3119f296cb4",
+      "time_seconds": 1275.0,
+      "description": "可见沙发与靠垫，参与者已遮挡；不能据此确认初始座位、人与人距离或后续动作。",
+      "keywords": [
+        "座位",
+        "距离"
+      ],
+      "image_kind": "native_redacted_still",
+      "privacy_review_status": "pass_existing_redaction_review",
+      "redactions": [
+        "参与者脸部",
+        "画中画人物脸",
+        "联系方式／屏幕",
+        "私密区域（如出现）"
+      ],
+      "width": 1280,
+      "height": 720,
+      "event_ids": [
+        "mikey-practice-002-E0013"
+      ],
+      "sid": "S00521",
+      "nearby_transcript": "有一个细节 这女生刚进来的时候 她其实是坐在",
+      "nearby_transcript_status": "saved_automatic_text_not_image_OCR_or_verified_quote"
+    },
+    {
+      "id": "mikey-youtube-video-013-cycle-600033",
+      "source_id": "mikey-youtube-video-013",
+      "source_title": "底层男性扎堆付费学撩妹，谁的问题？丨約會丨把妹丨情感丨戀愛丨約炮丨男性自我提升丨短期關係丨長期關係丨dating in china",
+      "source_url": "https://www.youtube.com/watch?v=NDYxxv5Tjoo",
+      "path": "references/visual-images/mikey-youtube-video-013-600.033.webp",
+      "sha256": "485acc6e66404bf1e9fcae13b01249da0f6d0e3fb4e7a334048aabedbe45da30",
+      "time_seconds": 600.033,
+      "description": "蓝底白字循环图，五个弯箭头连接情感体验、舆论惩罚、试错成本、自保与真诚、标准化套路等节点；底部字幕遮住部分节点。图内论述不等于因果已经验证。",
+      "keywords": [
+        "循环图",
+        "情感体验",
+        "试错成本",
+        "真诚",
+        "标准化套路",
+        "舆论",
+        "关系学习"
+      ],
+      "image_kind": "native_diagram_still",
+      "privacy_review_status": "independent_visible_personal_data_screen_pass",
+      "width": 1280,
+      "height": 720,
+      "rights": "Third-party source image; excluded from MIT. Source citation is not a claim of endorsement or general reuse permission.",
+      "sid": "S00467",
+      "nearby_transcript": "寻求标准化套路 在这个闭环中 那家被卧底曝光的培训机构",
+      "nearby_transcript_status": "saved_automatic_text_not_image_OCR_or_verified_quote"
+    }
+  ],
+  "unique_files": 6,
+  "boundary": "Only reviewed stills included. Unreviewed contact sheets, chats and community images are not bundled. No audio/video."
+}

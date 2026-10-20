@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "name": "玩家.skill",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "skill_directory": "wanjia-skill",
   "counts": {
     "sources": 512,
@@ -13,7 +13,7 @@
     "isolated_action_methods": 51,
     "video_segments": 334097,
     "community_segments": 533,
-    "packaged_images": 5,
+    "packaged_images": 6,
     "incomplete_permission_schema_rows": 0
   },
   "source_types": {
@@ -215,7 +215,7 @@
       "scripts/resource_utils.py": "3adc74e92fbf6df65c024a77ff4ef792ff8d2acdf8f382b95c736899f2036d68"
     }
   },
-  "ready_input_sha256": "f29c2e28b58403c22224eda74d349b5f461a01737ba2bdb83e0ade6805a17108",
+  "ready_input_sha256": "495e5bf960a3424e61136bfdb72917eb3373fae0def4a7f3e8ddd384bbd95e6c",
   "guide_baseline_files": {
     "agents/openai.yaml": "828ce157c141d39a8906da6028b69832229b85453ef62fa5472ed6046bb155dd",
     "change-manifest.json": "dffbb67992f2c3a7e50a1a2801b2fb73020223a6ebab40e4a5f3d01a38e1f9fe",
@@ -2049,7 +2049,9 @@
     "SKILL.md": "5b55871e3d5403e339cc0ccfbbef571177bf2588af9881ea6d75a66bdff1f82e",
     "THIRD_PARTY_NOTICES.md": "3084f2ccdc240a4d704fcf4b3bf263e97aadf16e7b2c0e200930093fa756cc95"
   },
-  "modified_guide_files": [],
+  "modified_guide_files": [
+    "SKILL.md"
+  ],
   "guide_snapshot": {
     "agents/openai.yaml": {
       "sha256": "828ce157c141d39a8906da6028b69832229b85453ef62fa5472ed6046bb155dd",
@@ -9389,8 +9391,8 @@
       "bytes": 78
     },
     ".github/workflows/verify.yml": {
-      "sha256": "854f8a326c2f9ef56dda2bba84fed59c17d610b82cf5b54628e0f4d7132230b2",
-      "bytes": 463
+      "sha256": "61b8601952677c9b59abf4502c08216ec99bd33804ad52598d3bffa3e07f3ba9",
+      "bytes": 527
     },
     ".gitignore": {
       "sha256": "dc360052d38a9c46c59bd4c609b250d2e9a5c8b48890434e030380f1c55837e0",
@@ -9401,8 +9403,8 @@
       "bytes": 2154695
     },
     "CHANGELOG.md": {
-      "sha256": "3444334b2a4eaad5b1d40cab4810b5651472b8c2482dee766fe9d30dcf2cf1e2",
-      "bytes": 4002
+      "sha256": "1ea8cf3310a70ce4d2cc17b9d72736268f233d5fd65c583f91a6a48b0152d43f",
+      "bytes": 4293
     },
     "CONTENTS.md": {
       "sha256": "e1134b5d2c49e9804329f91ae2e4411423d685b07189990fc032b8de6e631899",
@@ -9425,8 +9427,8 @@
       "bytes": 1890
     },
     "FREEZE_INPUT.json": {
-      "sha256": "f29c2e28b58403c22224eda74d349b5f461a01737ba2bdb83e0ade6805a17108",
-      "bytes": 366375
+      "sha256": "495e5bf960a3424e61136bfdb72917eb3373fae0def4a7f3e8ddd384bbd95e6c",
+      "bytes": 368092
     },
     "INSTALL.md": {
       "sha256": "fc5cf9f64aad4316c5d3d00187a15db08d9b602d62456748c92e4d5fb0a2853c",
@@ -9441,24 +9443,24 @@
       "bytes": 20924
     },
     "README.md": {
-      "sha256": "da6ab51d3bc8f80ad84fc500d6302752e1db5f8769982b7ec182d0b6db165faf",
-      "bytes": 4948
+      "sha256": "b68e3f8b8ad6f19d0dc7c4d65b1065caa64af1cfec5794bd75e7050fd95fd034",
+      "bytes": 5662
     },
     "README_EN.md": {
-      "sha256": "505084c9a0c4d052c5ac02ba7836b7ee4db806b56009e44323bafc20373c2282",
-      "bytes": 4278
+      "sha256": "b69ce2428692d42d30d59afec3ff04c822537a7d165db5c88cb584e81f2d12cf",
+      "bytes": 4742
     },
     "release.json": {
-      "sha256": "acd1f47dde18b596d43be1dc2e2649b1fd00f0397d5b18d444aa6f440c63129e",
-      "bytes": 9498
+      "sha256": "7836aa35ea199184adbc84a90acacb1431dd4ece7ca1f3234fc265794ffa78d3",
+      "bytes": 9580
     },
     "SOURCE_CATALOG.csv": {
       "sha256": "a7959014253345309de5c8f7e92ec8530f039e51220aa3279db0f7e2318c145e",
       "bytes": 196279
     },
     "THIRD_PARTY_NOTICES.md": {
-      "sha256": "0dc8b1aedca6b9b28eb7a626b2ac026af680ef33cf3d7172ef2d5ab9df178ac5",
-      "bytes": 2292
+      "sha256": "cb917665e64d78185c9fea57ba49b4f279008da805b79b4d7aa4daab302ec701",
+      "bytes": 2899
     },
     "tools/package_release.py": {
       "sha256": "5b992fa456de38a14d86d3987dfe473d235948c009cd29d41845a71f6eb018ee",
@@ -9473,8 +9475,8 @@
       "bytes": 7766
     },
     "tools/verify_package.py": {
-      "sha256": "55cabd00bf0b1423c948b855f187540f0b8c71d3d78baf57c6391be7982d179f",
-      "bytes": 9352
+      "sha256": "be1a3d9660fed1b8f79e09f6e281b4044648417ec17b33eea1dec25e54c31341",
+      "bytes": 9372
     },
     "VERIFICATION_STATUS.md": {
       "sha256": "a231c6f35ee563649633f1c20cce5d5022a181bed8681e9b8756fcad9e24348f",
@@ -13468,6 +13470,18 @@
       "sha256": "11f7505b07b38cf216d5531c18a8d0a911b3d3bdd0f6216ffdf419c87794bbfb",
       "bytes": 10969
     },
+    "wanjia-skill/references/visual-images/mikey-youtube-video-013-600.033.webp": {
+      "sha256": "485acc6e66404bf1e9fcae13b01249da0f6d0e3fb4e7a334048aabedbe45da30",
+      "bytes": 258318
+    },
+    "wanjia-skill/references/visual-index.json": {
+      "sha256": "a42b64abe5f41e1782d2ec205fd2df1b9c4784c3fcd054c35f103036ccc91256",
+      "bytes": 8298
+    },
+    "wanjia-skill/references/visual-navigation.md": {
+      "sha256": "1b96e6299920be48e291ee85aad52540ee1648fd9f7be37003e594f6a2fe6cee",
+      "bytes": 1099
+    },
     "wanjia-skill/references/youtube-live-batch1/cross-video/cross-synthesis-validation.json": {
       "sha256": "6c19605cf62a76c4063d6b7c3a5ade8d523ef95c54d2cfdfff9708c9ef3d2c89",
       "bytes": 1516
@@ -16796,9 +16810,13 @@
       "sha256": "5fbe41e2233085fff21f3d6165fa3e9d6f789e6937c546d9ff71518495232950",
       "bytes": 10656
     },
+    "wanjia-skill/scripts/visuals.py": {
+      "sha256": "5779472dd24eb3575898a7682d78881ca7f89cd7bca2c9843adf7e1bb91e3f95",
+      "bytes": 5745
+    },
     "wanjia-skill/SKILL.md": {
-      "sha256": "5b55871e3d5403e339cc0ccfbbef571177bf2588af9881ea6d75a66bdff1f82e",
-      "bytes": 19139
+      "sha256": "64e28c3bee7e3e3d0961c435e0bcdd38be434a2671e0a46853b26656d07946a3",
+      "bytes": 20092
     },
     "wanjia-skill/THIRD_PARTY_NOTICES.md": {
       "sha256": "3084f2ccdc240a4d704fcf4b3bf263e97aadf16e7b2c0e200930093fa756cc95",
